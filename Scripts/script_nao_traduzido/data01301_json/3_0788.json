@@ -1,0 +1,939 @@
+[
+  {
+    "message": "Just like he said, the next day was peaceful, and the day after that, and the day after that... They were all peaceful days."
+  },
+  {
+    "message": "After that day, all the bullying stopped."
+  },
+  {
+    "message": "Not only Akasaka-san and Kitami-san, but the rest of the class stopped looking at us so coldly as well."
+  },
+  {
+    "message": "Though Akasaka-san and Kitami-san kept avoiding us."
+  },
+  {
+    "message": "Mamiya-kun acted normally after the incident as well."
+  },
+  {
+    "message": "One thing did bother me, though..."
+  },
+  {
+    "message": "Mamiya-kun was the person from before. He wasn't the Mamiya-kun who protected us."
+  },
+  {
+    "message": "He was the kind, sociable person... The one who seemed to light up the world."
+  },
+  {
+    "message": "He never again showed me the same expression from that night."
+  },
+  {
+    "message": "Actually... this happened, too."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Uh, this... is the book I borrowed from you. Thank you very much. I shouldn't have kept it so long.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Oh, really?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, sorry, sorry... I guess I forgot that I'd lent it to you. Ahaha, I thought I'd lost it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahaha... Sorry, I have a really bad memory. I always forget stuff like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...So you're 'laying low' again?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, nothing. You told me you talk like that when you're 'laying low'...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? What are you talking about?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, uh, it's nothing.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, and what about the others... How are the other two triplets?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Triplets?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I don't know any triplets... The twins seem to be getting along fine, though.\""
+  },
+  {
+    "message": "Twins?"
+  },
+  {
+    "message": "Who are they?"
+  },
+  {
+    "message": "I don't remember Mamiya-kun talking about twins before..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You've really changed, haven't you?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Have I?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes...\""
+  },
+  {
+    "message": "From the Mamiya-kun I last met here on the rooftop..."
+  },
+  {
+    "message": "From the Mamiya-kun I met in that underground room..."
+  },
+  {
+    "message": "And even from the Mamiya-kun I first met here on the rooftop... This one was different from them all."
+  },
+  {
+    "message": "The peaceful days will continue on... Maybe that's why Mamiya-kun wants to keep acting like that incident never happened..."
+  },
+  {
+    "message": "Maybe that's why the Mamiya-kun from that time doesn't show himself..."
+  },
+  {
+    "message": "The days when Kimika and I fought against Akasaka-san and Kitami-san... and the night in the park where it all ended..."
+  },
+  {
+    "message": "Maybe it really is an unnecessary past for the peaceful days of the present..."
+  },
+  {
+    "message": "Maybe that's true for Mamiya-kun, too..."
+  },
+  {
+    "message": "There were always bad rumors about him floating around before, but now his reputation is getting better. He's cheerful, and his grades are good, and people like him..."
+  },
+  {
+    "message": "People seem more open to me and Kimika as well, since we were friends with Mamiya-kun before this happened..."
+  },
+  {
+    "message": "Kimika just seems troubled by the attention, though, since she doesn't get along with people very well."
+  },
+  {
+    "message": "But, mysteriously enough, Kimika's aloof attitude actually made people like her more."
+  },
+  {
+    "message": "Now that I think of it, she was always cute... She's no good at sports, but she's pretty smart, too."
+  },
+  {
+    "message": "There was never any reason for so many people to dislike her."
+  },
+  {
+    "message": "Bullying is just like that..."
+  },
+  {
+    "message": "There doesn't need to be a good reason... Depending on the circumstances, sticking out can either cause someone to be bullied or cause them to be adored."
+  },
+  {
+    "message": "As Mamiya-kun's reputation changed, so did ours..."
+  },
+  {
+    "message": "But eventually, the popular Mamiya-kun grew distant from us."
+  },
+  {
+    "message": "Peaceful days."
+  },
+  {
+    "message": "Ongoing peaceful days..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Were you thinking about Mamiya Takuji again?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Seems like you haven't talked to him lately, huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah... Or rather, it doesn't feel like I can talk to him. He's so popular...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What happened... He was always so awkward before, but now he's completely different.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah... You might be right...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You like him, don't you?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha... You're still saying that?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"B-But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Dummy...\""
+  },
+  {
+    "message": "I took her hand."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you want to skip class?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Let's skip...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"B-But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But what?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Z-Zakuro, that's kind of...\""
+  },
+  {
+    "message": "Kimika's face went bright red..."
+  },
+  {
+    "message": "I pulled her hand..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Wait, uh... Zakuro, that's kind of bold...\""
+  },
+  {
+    "message": "I grabbed my bag and pulled her hand..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, I have to get my bag too...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ha, ha, ha...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ha, ha, ha... Z-Zakuro!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe, the teachers were chasing us.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well yeah, you tried to walk right out the front gate!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But Akasaka-san and Shiroyama-kun did that before, didn't they?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"B-But you're supposed to be a good student!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Not at all... I just couldn't decide anything by myself.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I obeyed the rules just because someone else had decided them... But―\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Just like Mamiya-kun had changed... there were a lot of things inside me that had changed..."
+  },
+  {
+    "message": "The most important thing to me had changed..."
+  },
+  {
+    "message": "Before, the most important thing to me was simply not upsetting anyone, but the person I was before had disappeared."
+  },
+  {
+    "message": "When did that happen? When I first started to like Mamiya-kun?"
+  },
+  {
+    "message": "Mamiya-kun certainly did change me."
+  },
+  {
+    "message": "Mamiya-kun gave me the courage to move forward under my own power..."
+  },
+  {
+    "message": "But, oddly enough, once I took that step... the wonderful future I had envisioned suddenly changed."
+  },
+  {
+    "message": "His form, which had been foremost in my mind, changed... once I took that step forward."
+  },
+  {
+    "message": "...This might be a rude way of saying it, but I didn't think he should be the most important thing in my life anymore."
+  },
+  {
+    "message": "Because he was splendid enough on his own. He had everything he needed on his own..."
+  },
+  {
+    "message": "I didn't feel anything for him anymore."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What are you so scared of?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Zakuro! Th-There are so many people around...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You don't need to worry about that... Mm...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mm, mm... ah, mm...\""
+  },
+  {
+    "message": "When I took that step forward, the scenery changed."
+  },
+  {
+    "message": "The unusual became usual, and the usual became unusual."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What are you doing all of a sudden?\""
+  },
+  {
+    "message": "Kimika complained, her eyes wet with tears."
+  },
+  {
+    "message": "Kimika is always like this..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Would you rather I asked first?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Th-That's not the problem!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Jeez... I thought you were supposed to be a bullied girl. You're supposed to be the submissive one.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm not a bullied girl anymore.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's not what I mean!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mm, I thought you were a masochist, but I guess you were really a sadist.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe... I don't know about that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"After all, you were the one... that suddenly attacked me that day.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Th-That was―!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You didn't want Mamiya-kun to take me away from you?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Th-That's, uh...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Jeez... You took my virginity just like that, and yet you get worked up about a kiss...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Th-That was, uh... I was kind of desperate...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Desperate?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Um, I just wanted to stop you from going off with him... and I got carried away...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You got carried away... and did it with me.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahhh!\""
+  },
+  {
+    "message": "Kimika's face turned bright red as she turned away."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Isn't that right?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...I'm sorry.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hey! What's this?!"
+  },
+  {
+    "message": " Are you teasing me?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Not at all... I'm just asking you a question.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"U-Ugh..."
+  },
+  {
+    "message": " Zakuro, you're kind of a bully...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm not bullying you... If that's what you think I'm doing, would you rather I never kiss you again?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Th-That's―!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's what?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Awww!\""
+  },
+  {
+    "message": "Oh no... This again..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Jeez! I hate you! Go die, you piece of shit!\""
+  },
+  {
+    "message": "Oh, now I've done it... She's so cute, I can't help but bully her..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, I'm sorry, Kimika!\""
+  },
+  {
+    "message": "Ahaha... It's like the reverse of our relationship before."
+  },
+  {
+    "message": "People are funny..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ha, ha, ha... Kimika!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ha, ha, ha... Y-You're just as fast as ever, huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No... It's not that I'm fast, but rather... Well, more importantly, I'm sorry!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...Zakuro.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hey, how many times have we repeated this same pattern?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha... I can't help bullying you sometimes. You're too cute.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"How many times have I heard that excuse...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha... Sorry.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...Then promise me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Promise you what?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Y-You won't bully me or say you won't kiss me anymore...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heh!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Whoa, don't hug me!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, yes, I promise, Kimika!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Whoa, what are you doing?! Are you trying to show off your boobs?\""
+  },
+  {
+    "message": "A lot changed after that..."
+  },
+  {
+    "message": "Every day was different."
+  },
+  {
+    "message": "Actually..."
+  },
+  {
+    "message": "At the end, this happened..."
+  },
+  {
+    "message": "That was July 19th... The last day before summer break."
+  },
+  {
+    "message": "At the end of the semester... I went up to the rooftop to talk to Mamiya-kun."
+  },
+  {
+    "message": "And when I got there..."
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "name": "Ayana",
+    "message": "Takashima... Zakuro-san?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Your name was...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Otonashi Ayana...\""
+  },
+  {
+    "message": "Oh, right... I think I've seen her before."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Did you come to see Mamiya Takuji-kun today?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah... I did, but...\""
+  },
+  {
+    "message": "How did she know that?"
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Mamiya-kun won't be coming to school today.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really? Did he catch a cold?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"He didn't catch a cold... Today is the day before the 20th.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The day before the 20th?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes... Therefore, the two will have their final battle...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Their final battle?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes. The Mamiya-kun from the underground room was supposed to be the victor, but... because of your choice, his soul has changed directions.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"His soul?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes... The world of souls. The repitition of souls...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"His soul's string has been severed from the repeating world's model... He's now fated to walk a different path.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um, what does that mean?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehehe, it just means that you made the correct choice.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Everything is as desired... Takuji the Creator and Takuji the Destroyer died together, and Takuji the Harmonizer alone remained.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Everything is as he desired...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...As Tomosane-kun desired.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Tomosane-kun?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehehe... The soul is endlessly reincarnated in the same world. That's why I'm here.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Now, you too must move forward. The promised land awaits you. The Wonderful Everyday is beginning.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, do you know all of Mamiya-kun's secrets?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Secrets?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Just now, you were talking about Mamiya-kun the Creator, Mamiya-kun the Destroyer, and Mamiya-kun the Harmonizer.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What is that?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehehe... Yes, but the answer is not for you.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"You've obtained The Wonderful Everyday, and you've lost everything besides...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That's why you can't obtain that answer... Or maybe.\""
+  },
+  {
+    "message": "Ayana-san grinned."
+  },
+  {
+    "message": "I felt a chill run up my spine."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Would you like to give up all you have now?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Would you like to see the soul take a different direction?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I...\""
+  },
+  {
+    "message": "I made my choice..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I can't give up what I have now. I've sworn to live my life to the fullest!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"All right...\""
+  },
+  {
+    "message": "Ayana-san gave another, smaller smile, and then looked at the sky."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That sky is no longer here.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The lost sky... The world of just one soul erased that sky.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The girl who has decided to live her life... has obtained The Wonderful Everyday.\""
+  },
+  {
+    "message": "I still don't know what she meant by that."
+  },
+  {
+    "message": "I never saw Ayana-san again after that."
+  },
+  {
+    "message": "I heard rumors that she had transferred or dropped out, but I never knew for sure."
+  },
+  {
+    "message": "To be honest... it seemed irrelevant to me."
+  },
+  {
+    "message": "The question I asked Ayana-san on that day..."
+  },
+  {
+    "message": "Even that question seemed irrelevant to my life."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hey... Zakuro.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, sorry...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Lost in thought again... Jeez, Zakuro, you're always like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha... Not at all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"More importantly... summer is ending, huh...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah... It's starting to get a bit chilly.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The summer will end, fall will come, winter will come, and then it'll change to another warm spring.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "I walked through the chilly park."
+  },
+  {
+    "message": "I moved forward."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Huh? What's wrong?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, no, it's nothing.\""
+  },
+  {
+    "message": "What is this feeling?"
+  },
+  {
+    "message": "It's a strange unease, like I feel uncomfortable about something... It's really strange."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What's the hold up? Let's go.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Let's go.\""
+  },
+  {
+    "message": "Let's go."
+  },
+  {
+    "message": "When I heard her words, I understood."
+  },
+  {
+    "message": "I see... So that's what it was."
+  },
+  {
+    "message": "This feeling is probably the same feeling I felt when I took my first step."
+  },
+  {
+    "message": "I just forgot the feeling until now."
+  },
+  {
+    "message": "This is probably what my first step felt like."
+  },
+  {
+    "message": "It's not just me, either. Everyone felt this when they took their first step. It's the same feeling animals must have felt when they first started to walk on land."
+  },
+  {
+    "message": "I felt nervous about my first step."
+  },
+  {
+    "message": "There's no mistaking it."
+  },
+  {
+    "message": "After all, it's my first step..."
+  },
+  {
+    "message": "It's the beginning of a new scenery."
+  },
+  {
+    "message": "But eventually that single step..."
+  },
+  {
+    "message": "Becomes an everyday experience."
+  },
+  {
+    "message": "The single step into tomorrow that I so feared..."
+  },
+  {
+    "message": "That was a common scene."
+  },
+  {
+    "message": "It became an everyday routine."
+  },
+  {
+    "message": "It became easy. It became incredibly normal."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Wh-What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Nothing... Hey, Kimika.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Thank you!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Thank you for walking by my side! Thank you for helping me take this step!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eh? Uh...\""
+  },
+  {
+    "message": "Kimika hesitated... Of course she did. I was a bit too sudden. I've always been like that, though I never had the courage to say what I was thinking."
+  },
+  {
+    "message": "That's why she hesita...ted?"
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "Kimika laughed cheerfully as she responded."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Thank you, too.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"For walking by my side!\""
+  }
+]

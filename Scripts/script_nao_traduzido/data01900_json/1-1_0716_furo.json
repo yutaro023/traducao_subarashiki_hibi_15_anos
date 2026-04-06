@@ -1,0 +1,512 @@
+[
+  {
+    "message": "Takashima-san was acting perfectly normal."
+  },
+  {
+    "message": "I wanted to ask about what had happened today, but for some reason, I couldn't."
+  },
+  {
+    "message": "That scene I'd seen before, of her dropping the stuffed toy from the rooftop..."
+  },
+  {
+    "message": "That was a method of finding the sky's beginning and end."
+  },
+  {
+    "message": "That's what I had heard."
+  },
+  {
+    "message": "But for some reason, I'd begun to feel uneasy about it."
+  },
+  {
+    "message": "I'm not sure why, either."
+  },
+  {
+    "message": "The girl who is the world itself... and the girl of the sky."
+  },
+  {
+    "message": "I wonder what those words meant."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm sorry for keeping you waiting, Yuki-sama.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "When I got into the bathtub, I heard Takashima-san's voice."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wait, you're really going in?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Of course I am. Have you gotten cold feet?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Of course not! It doesn't really bother me, since we're all girls!\""
+  },
+  {
+    "message": "Wh-What was that? Is someone... making noise in the changing room."
+  },
+  {
+    "message": "Even though last time they just barged in without thinking about it."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"S-Sorry for taking so long, Yuki.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sorry to keep you waiting.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What the...\""
+  },
+  {
+    "message": "What..."
+  },
+  {
+    "message": "What on Earth?"
+  },
+  {
+    "message": "―!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We came to help wash your body today.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you naked?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, that's a strange thing to ask. Shouldn't one be naked when bathing?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"B-But last time you were wearing a swimsuit...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"L-Like she said, today we came to take a bath with you instead of just washing your back.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-I see what you mean...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Th-There's nothing weird about it. We're all girls, after all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-I don't think there's anything weird about it.\""
+  },
+  {
+    "message": "I couldn't help but wonder why Kagami's face was so red."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Today we're bathing together, so the places we shall wash are not limited to your back. Today, I shall wash your front.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"L-Like I said, I can wash my front myself!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I can't help?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O-Of course not!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really? It's important to have an equitable division of labor.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Stop saying nonsense like that. I said no.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yuki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Now then, I'll get started washing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey! Why are you in front of me?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Like I was saying, I'll wash your body...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Um, Kagami. Didn't you hear what I said?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What do you mean? I'm saying I want to do it, so it's fine.\""
+  },
+  {
+    "message": "What kind of crappy logic is that?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Kagami-san, th-that's...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What? Takashima-san, you're the maid, right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-Yes, I am, but...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I was thinking, in this house we're each playing our character roles, right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-Yes...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"So, if I'm the childhood friend, I should say things like this.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, you could interpret it like that, but fundamentally the childhood friend is supposed to be more easy-going.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Sure, sure. Anyway, I'll start the shower.\""
+  },
+  {
+    "message": "I wanted to tell them I'd already finished washing, but I was at a loss for words given the unexpected situation."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"W-Well... I'll, uh, wash your front.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uh...\""
+  },
+  {
+    "message": "If she kept acting really embarrassed as she did it, she was going to make me embarrassed too."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Um... Kagami.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-What? Th-There's nothing weird about this! We're both girls, and we're childhood friends!\""
+  },
+  {
+    "message": "No, even if we're both girls and childhood friends, this is still weird. And besides that..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Y-You know... Your hand is trembling for some reason, Kagami.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I-It's not trembling! I'm excited because soon I'll be fighting in a great battle.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-I see.\""
+  },
+  {
+    "message": "It was a bit weird having her wash my front while she was so \"excited.\""
+  },
+  {
+    "message": "Kagami touched my shoulder, lathering it with soap as if she was caressing it."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mmm, haa, ooh.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"W-Would you please stop making weird noises like that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I can't really stop. It tickles.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Th-Th-Th-Then you'll just have to sit and bear it. Jeez.\""
+  },
+  {
+    "message": "Kagami averted her gaze and moved the sponge over my neck, shoulders, and chest."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Is this soft part I'm feeling... your chest?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"W-Well, yes, but...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You know, your chest is really big.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Uh, could you please not say that so frankly. It's embarrassing.\""
+  },
+  {
+    "message": "Kagami's gaze flitted back and forth over my body."
+  },
+  {
+    "message": "Urgh. I'm gonna die of embarrassment."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey, uh... I think I'd actually rather wash myself.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's no good. Please allow me, Yuki-sama. I'll make every last corner of your body spotless.\""
+  },
+  {
+    "message": "Rub, rub, rub."
+  },
+  {
+    "message": "I felt something soft rubbing on my back."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, what's this? A soft sponge?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's a specially made sponge. Does it feel good?\""
+  },
+  {
+    "message": "Rub, rub, rub."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-I kind of have a bad feeling about this.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Doesn't it feel good?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm... It does feel good, I guess.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is that right? If you like it, then that's all that matters. It's a good thing I studied that manga.\""
+  },
+  {
+    "message": "What was that supposed to mean?!"
+  },
+  {
+    "message": "That's weird! Why would you study how to wash someone's body?!"
+  },
+  {
+    "message": "Um, first off, she was gently embracing me with both arms, and there was no sponge in either of her hands, so..."
+  },
+  {
+    "message": "Rub, rub, rub, rub..."
+  },
+  {
+    "message": "Something felt soft and supple."
+  },
+  {
+    "message": "Which means..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Um...\""
+  },
+  {
+    "message": "She's probably just playing around, but..."
+  },
+  {
+    "message": "Right, this is definitely how girls who are friends act around each other. They poke each other's breasts or flip each other's skirts. Surely this isn't any different from that, but..."
+  },
+  {
+    "message": "Uhh..."
+  },
+  {
+    "message": "It felt like my heart was beating strangely quickly, as if my body was heating up."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O-Oooh.\""
+  },
+  {
+    "message": "Somehow I took my mind off it. I took my mind off the frighteningly seductive, supple charms assaulting my back."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Y-Yuki, uh, could you open your legs a little more? I can't wash you like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm? Wait, what?!\""
+  },
+  {
+    "message": "A blushing Kagami was right in front of me. Why was she breathing so hard?"
+  },
+  {
+    "message": "D-Don't make that face at me."
+  },
+  {
+    "message": "Calm down. It's just Kagami, right? Isn't she your childhood friend? Isn't she also a girl?"
+  },
+  {
+    "message": "But even if she was a girl, when she made that face... my heart lurched."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Uh, it might hurt if I use a sponge, so I'll do it with my finger.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?! Wait, wh-where are you touching me, Kagami?!\""
+  },
+  {
+    "message": "My voice almost cracked."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"U-Um, y-your very precious place.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Y-You don't have to say it out loud. Would you please move your hand?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I-I don't want to.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-Why not?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"B-Because it's not fair if only Takashima-san gets to touch you.\""
+  },
+  {
+    "message": "Wh-What kind of reason is that?"
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I'll be gentle, okay?\""
+  },
+  {
+    "message": "Aaahhh! Someone save me! My chastity is in danger! Someone!"
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"E-Excuse me.\""
+  },
+  {
+    "message": "Good timing, Tsukasa! You came to rescue me."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wha―pshhff!\""
+  },
+  {
+    "message": "Wh-Why is she naked too?!"
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wait, Tsukasa! Why are you naked too?! You brought a swimsuit, didn't you?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Y-Yes, but when I put it on, it felt a little childish. I thought you'd laugh at me.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You were all getting in the bath, so I was worried about what I should do. I didn't want to bathe alone afterwards, so...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"So you found the guts to come in naked.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Speaking of that, you two aren't wearing swimsuits either. What happened?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You said you were gonna put on swimsuits and wash her back.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"U-Um, you see...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"And that's not soap in Takashima-san's hand.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"What's that gooey liquid?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "I looked at what Takashima-san had in her hand."
+  },
+  {
+    "message": "I'd thought it was too slippery, even if she was lathering it up. What she'd been rubbing on me wasn't soap, rather it was lotion."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Y-You two...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A-Ahaha.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Huh? Um, Yuki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Quit fucking around! Get out, all of you!\""
+  }
+]

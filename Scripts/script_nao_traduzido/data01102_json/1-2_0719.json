@@ -1,0 +1,1939 @@
+[
+  {
+    "message": "The sound of the bell."
+  },
+  {
+    "message": "The midnight chime."
+  },
+  {
+    "message": "The end of the week."
+  },
+  {
+    "message": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
+  },
+  {
+    "message": "And God blessed the seventh day,"
+  },
+  {
+    "message": "and sanctified it:"
+  },
+  {
+    "message": "because that in it he had rested from all his work which God created and made."
+  },
+  {
+    "message": "The day he finished creating the world."
+  },
+  {
+    "message": "Even the weekend doesn't change one bit."
+  },
+  {
+    "message": "Of course not."
+  },
+  {
+    "message": "God doesn't change the color of the sky depending on the day of the week."
+  },
+  {
+    "message": "The world God created contains the same sights every single day."
+  },
+  {
+    "message": "It invariably arrives back at the same scenery over and over, like a mechanical clock."
+  },
+  {
+    "message": "The sky is always blue."
+  },
+  {
+    "message": "Gray."
+  },
+  {
+    "message": "Scarlet."
+  },
+  {
+    "message": "It rotates through the same sequence."
+  },
+  {
+    "message": "A person standing in front of a clock..."
+  },
+  {
+    "message": "Doesn't think a new moment begins..."
+  },
+  {
+    "message": "With every tick, tock of the clock's hands."
+  },
+  {
+    "message": "When the clock hand passes twelve o'clock, the summit..."
+  },
+  {
+    "message": "No one thinks that a new time has begun."
+  },
+  {
+    "message": "An end is the beginning of another commonplace scene."
+  },
+  {
+    "message": "The beginning of a commonplace world."
+  },
+  {
+    "message": "And beyond that, the scenery one just saw comes into existence once more."
+  },
+  {
+    "message": "An infinity we call repetition."
+  },
+  {
+    "message": "An infinity of the same script."
+  },
+  {
+    "message": "There is nothing novel in this world."
+  },
+  {
+    "message": "All that is in this world can be clearly described."
+  },
+  {
+    "message": "There is nothing beyond this world."
+  },
+  {
+    "message": "What is here..."
+  },
+  {
+    "message": "And the next world we're headed to... It is all part of a world that can be described in the same terms."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Good morning.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san, why are you here?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Why are you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I...\""
+  },
+  {
+    "message": "I... had no reason to be here."
+  },
+  {
+    "message": "I just ran."
+  },
+  {
+    "message": "I just ran, and then I was standing here."
+  },
+  {
+    "message": "At some point, my world had started to go askew."
+  },
+  {
+    "message": "At some point, my world had started to mingle with a scene I'd never seen before."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't understand it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"You don't understand?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san, I... I!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Won't you go and see?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"See what?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The End Sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The End Sky?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's that? I don't know what you mean.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"What I mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's going on? When did all this happen?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wakatsuki Kagami really existed, right? Wakatsuki Tsukasa really existed, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's no way they didn't.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I mean, I... I have all these memories with them. All these memories from so long ago.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why did Kagami's body turn into a doll? Why did Tsukasa turn into that scary thing?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When did they get replaced like that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When did this all happen?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That's why you came to see it, right?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The End Sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's the End Sky? Does that have something to do with what's happening?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The End Sky is just what Mamiya Takuji-kun called it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It has no name.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean? Why doesn't it have a name?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Just like how there's no name for the sky at the end of the week, that sky doesn't have a name either.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's a commonplace sight.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"A common final sky.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"There is no mystery here.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No mystery?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wish it was something as nice as a mystery. This is impossible and illogical.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's happening to me?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Nothing, really.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"From the time they're born, people replace the cells in their bodies several times over.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Just like your body whose cells have been replaced time and time again, you have remained you despite the fact that you have constantly changed since the moment of your birth.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Nothing changes. Minakami Yuki is Minakami Yuki. There's nothing impossible or illogical about that.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Forty-five quadrillion, four hundred and twenty-five trillion, six hundred and ninety-eight billion, four hundred and fifty-two million, three hundred and fifty-five thousand, four hundred and eighty-one.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's that?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That is probably the first time I have said that number in this world.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It is an unknown figure that no one has heard or seen.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"But it's not mysterious at all.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No one has heard this number, but no one would be shocked to hear it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even if no one has given it shape, anyone can understand it. Everyone already knows it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even if such a scene has never appeared in this world, such a scene should not frighten you.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's a very commonplace sort of world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How is that... How is this world commonplace? This...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Like I said, you're going to go see what's beyond this commonplace world, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That's what Mamiya-kun called that scene.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The End Sky.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"And there's something you want to ask Mamiya-kun, isn't there?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "Ayana-san started walking."
+  },
+  {
+    "message": "I followed her."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The old pool...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Do you know about that?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Of course.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"She went down first.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"She doesn't ever seem to hesitate.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My eyes aren't used to this.\""
+  },
+  {
+    "message": "I couldn't even walk, since it had been less than ten seconds since we reached the bottom."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It stinks.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, it is the sewer.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey, wait.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"She went into the drainage tank.\""
+  },
+  {
+    "message": "So she knew all about it."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's... no one here.\""
+  },
+  {
+    "message": "There was no way they could gather in such a tiny place."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "Ayana-san had already lifted up the cover inside and left."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, Ayana-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I was thinking that tons of people could probably hide out in here.\""
+  },
+  {
+    "message": "Ayana-san kept walking."
+  },
+  {
+    "message": "It was like she already knew the way."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san, just who are you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Otonashi Ayana.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, I already know your name.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "She walked over to the place where Kagami had been laying."
+  },
+  {
+    "message": "Where the floor was covered in dark red blood."
+  },
+  {
+    "message": "But there was no blood."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Cotton...\""
+  },
+  {
+    "message": "There was just cotton scattered everywhere."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So that really was...\""
+  },
+  {
+    "message": "Kagami's mutilated body was just... a doll."
+  },
+  {
+    "message": "A doll filled with cotton."
+  },
+  {
+    "message": "What happened to the real Kagami?"
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Over here.\""
+  },
+  {
+    "message": "Ayana-san stopped and stood in one spot."
+  },
+  {
+    "message": "Then she waved me over."
+  },
+  {
+    "message": "A huge pillar stood in front of her. It seemed as if it was supporting the world itself."
+  },
+  {
+    "message": "Ayana-san pointed to that pillar."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What... is this?\""
+  },
+  {
+    "message": "The huge pillar was covered in scribbles, though they were carefully drawn, like religious idols."
+  },
+  {
+    "message": "From far away, they blended in with the rest of the pillar."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The whole thing is covered in scribbles?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Did Mamiya Takuji do this?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That's right. This is the shape of Mamiya-kun's Nyarlathotep.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What? Is that Nyarl-whatever a living thing or something?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, something like that.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The Crawling Chaos.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? The crawling...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That thing I saw...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was that...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's time to go see the End Sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"End Sky...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Let's go.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Otonashi-san pointed into the darkness."
+  },
+  {
+    "message": "I'd thought it was pure darkness, but I caught a few vague glimpses of steel within it."
+  },
+  {
+    "message": "It looked like a spider web reaching down into the depths of hell."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is that a ladder?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was this used during construction?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san, where does this lead?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Like I said, it leads...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"To the End Sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "The rungs continued on forever."
+  },
+  {
+    "message": "I was caught up in the illusion that I was wandering through endless darkness."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is that wind?\""
+  },
+  {
+    "message": "I could hear the wind in the distance."
+  },
+  {
+    "message": "Far away... Farther, farther..."
+  },
+  {
+    "message": "At the top of the ladder, I could hear the wind."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's kind of...\""
+  },
+  {
+    "message": "The far off sound of the wind slowly came closer."
+  },
+  {
+    "message": "The sound of the wind..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is... Building C?\""
+  },
+  {
+    "message": "The rooftop that students weren't allowed on."
+  },
+  {
+    "message": "It was the roof of building C."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Look. There it is.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There?\""
+  },
+  {
+    "message": "I looked over to where she'd pointed."
+  },
+  {
+    "message": "Who... are those people?"
+  },
+  {
+    "message": "What are they doing over there?"
+  },
+  {
+    "message": "That was..."
+  },
+  {
+    "message": "The spot Mrs. Senagawa fell from."
+  },
+  {
+    "message": "Why are those two standing there?"
+  },
+  {
+    "message": "...No way."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wha―?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What just...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's a joke, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That was...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Did another person just die?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Or was it just a doll?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was it just my mistake again?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya Takuji!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, look. If it isn't Minakami-san. Long time, no see.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"So you were still there. I just saved everyone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Saved? Is this salvation?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Are you that stupid?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Can't you see they just died?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Just died? I see.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I see. You might be right.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"People wish to become one with something greater, but that's no different from death. That's why they fear becoming one with something greater, just as they fear death.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't want to hear this drivel coming out of your crazy head.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh. Then is there something you do want to hear?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Something I want to hear? Yeah, I've got plenty of questions for you.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Plenty, huh? Hmm.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You set this all up, didn't you?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Set it up, did I?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. This whole thing is a farce you devised.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"A farce I devised?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Excuse me, are you talking about my miracles?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh. That's interesting. So you're saying there's a trick to my miracles?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right. There's no curse and no miracles. And, of course, there's no prophecy that the world's going to end. There's just a bunch of crude tricks.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahahaha. Crude tricks? So that's what you think. Have you figured them all out?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheheh. That's wonderful. I suppose I should've expected that much of you, Minakami-san. Well then, let's hear it. Let's hear about all my tricks.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So what should we start with?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"From the beginning. How did it start? Can you explain that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The beginning? Well then, the start of this uproar would be Takashima-san's curse mail, I suppose?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, the curse mail. I'd love to hear about that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They call it Takashima mail. The cursed messages that got sent out to everyone. That was the simplest trick.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The simplest?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. It was so obvious. The method was downright primitive.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You either picked up Takashima-san's phone at the site of her suicide, or you stole it.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheheh. I see. That's an obvious trick, isn't it? So then, what's your proof?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I found two sets of fingerprints on her phone. Takashima-san's own fingerprints, and yours.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And how did you find those?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't know if it was a prank or what, but someone left her phone in my room. It was you, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You were probably trying to scare me, but you left way too much evidence behind. I also got fingerprints from your desk and Takashima-san's desk, and then I compared them.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It was a bingo. I confirmed that the fingerprints on the phone were Takashima Zakuro's and yours.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You used her phone and sent out those messages to as many people as you could.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't know how you got them, but the addresses you got were from the underground message board's registration list.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheheheh. How I got them? So you still don't know that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Unfortunately not, but it all lines up.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It lines up?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, it's just a hypothesis, so I have no real evidence, but if the police get involved, they'll figure it out right away.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The school's underground message board, the SAWAYAKA message board... You must be the administrator.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And if we assume that, the strange stuff happening in those threads makes sense too.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You mean, if I was the administrator, I would have all their registration information?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes, that's it.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheh. Correct. You're pretty smart, Minakami-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You made the bullying she received the main point of the messages, and you used that information to make the people related to the bullying your primary targets.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"As far as I know, those were Akasaka Megu, Kitami Satoko, and Mrs. Senagawa.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How's that?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That is also correct, though I'd have to give you only 75%.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"75%?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Right. The people who felt guilty about her bullying were Akasaka Megu, Kitami Satoko, the teacher who let it happen, Mrs. Senagawa, and then, one you forgot: Zakuro's friend, Tachibana Kimika.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tachibana Kimika?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isn't she one of your followers?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes, now she is. She was the most useful follower I had.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But at first, she felt guilty about bullying Takashima Zakuro too.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But putting that aside, I'd like you to tell me. How did I corner Akasaka, Kitami, and Senagawa?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They were posting all about it on the message board. They got messages from Takashima-san that no one else got.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Messages from the dead every hour. You used those to put them under extreme stress and stop them from thinking clearly.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The most elementary of all elementary social psychology techniques.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Techniques? What do you mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mind control. It's what emergent religions do to gain followers, and it's what multi-level marketers do to find victims.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What for?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A lone prophet is just a nutcase, but if even one other person believes them, if they find even one follower, then it becomes a religion.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"In order for you to become the savior, you needed to have at least one follower.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"From looking at the message board, it seems like the first two to believe you were Akasaka Megu and Kitami Satoko. After you secured those two, your followers swelled.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheheh. Could you be more specific?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The endless messages from the dead chased them into a corner. It made them ask for salvation.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If there was someone who could save them from that hell, that person would be able to call himself the savior.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And by doing it on the message board where other people could see, the effect was multiplied.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So in order to raise their stress as high as possible, you told them to go to the place they most feared, the place where Takashima Zakuro committed suicide.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Their stress?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right, you told them to go to the site of her suicide in the middle of the night. What they found there was a lock of Takashima Zakuro's hair with part of her scalp still attached.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You probably got that at the same time you picked up her phone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And you gave them the impression that they had dispelled the curse by having them burn the hair.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And you told them all about your beliefs while they were completely exhausted, both in mind and spirit.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You crushed their spirits with fear, and then filled them up with new information. It's the most elementary of elementary mind control techniques.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The same thing a predatory marketer does.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You made followers of the weak, and increased the anxiety of the rest.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Heheheh. How wonderful. You really are amazing, Minakami-san.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Then what about Senagawa Yui?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You managed to get her cell phone, although I stole it from Ms. Kiyokawa.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yes, that's right. So then what did you learn from that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Almost all of the information had been deleted. The messages and everything.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"So then, what did you find out?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Everything.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Everything?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes, with that brand of phone, I could retrieve all the deleted messages.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Messages came every hour. And there was nothing to them. They were just trying to scare her. And they suddenly started leading her in a specific direction on the 15th.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They started working to get her on the Building C rooftop.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And that made me remember how the 15th was the day when you made a strange prediction.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Something about another death proving you correct.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I did make a prediction like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And that's why...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The messages started mentioning the doll Takashima-san lost on Building C.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"She went looking for it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"After all, if she couldn't find it, Takashima Zakuro would take her instead.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And the times she received the messages...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Interestingly enough, all the messages were sent an hour apart.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"12:01 a.m., 01:01 a.m., 02:01 a.m.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But the timing of the very last message was completely different.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Because that message was right before she fell, at a time that didn't obey the schedule up until then.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The answer is simple.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You placed the doll she lost on the Building C rooftop in a very dangerous place.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Normally, someone would use a tool to get it, but at that time, Mrs. Senagawa wasn't thinking clearly.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"She climbed over the fence, got down on the eaves, and then she stretched out her hand.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And just when she was least stable, her phone rang.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What was written there was...\""
+  },
+  {
+    "message": "―――――――――――――――――――――――――――\n"
+  },
+  {
+    "message": "2012/7/16 1:28\n"
+  },
+  {
+    "message": "from: Takashima Zakuro\n"
+  },
+  {
+    "message": "subject: no subject\n"
+  },
+  {
+    "message": "―――――――――――――――――――――――――――\n"
+  },
+  {
+    "message": "behind you\n"
+  },
+  {
+    "message": "\n"
+  },
+  {
+    "message": "\n"
+  },
+  {
+    "message": "\n"
+  },
+  {
+    "message": "\n"
+  },
+  {
+    "message": "\n"
+  },
+  {
+    "message": "\n"
+  },
+  {
+    "message": "\ni got you"
+  },
+  {
+    "message": "And Mrs. Senagawa's hand slipped."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheheh. What a wonderful deduction, Minakami-san. You're almost totally correct.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, I've finally been able to put together the big picture. This whole farce was your doing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It wasn't a supernatural phenomenon or God or a ghost or anything like that. Just a single person. You came up with the whole thing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You broke into my room and left Takashima-san's phone. And Kagami and Tsukasa...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What about them?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How did they...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They... They...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Just what did you do to me?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tell me that!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I haven't done anything to you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Th-That can't be true.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Sorry to say, but I haven't done a single thing to you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's a lie! That can't be true! You did something to me!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I didn't. I can't do anything to you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then what was that I saw?! What is all this?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, it's time.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It looks like you want to stay in this moment forever.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'll go on ahead.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"W-Wait! Mamiya!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Though I did love you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The End... Sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya is gone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Just now, I...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san, I...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ｈｅｈｅｈｅ.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What... was that?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's nothing. Mamiya-kun just jumped off.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\""
+  },
+  {
+    "message": "But I saw something. Did that kill everyone?"
+  },
+  {
+    "message": "IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF."
+  },
+  {
+    "message": "No, I didn't do anything. Just..."
+  },
+  {
+    "message": "IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF."
+  },
+  {
+    "message": "Just... what?"
+  },
+  {
+    "message": "IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF."
+  },
+  {
+    "message": "　\n\n"
+  },
+  {
+    "message": " 　　　　　　 \"IT'S NOTHING. MAMI\n"
+  },
+  {
+    "message": " 　　　　　　  YA-KUN JUST JUMPED \n"
+  },
+  {
+    "message": " 　　　　　　 OFF.\"\"It neither [is]\n"
+  },
+  {
+    "message": " 　 is a person nor [isn't] a person.\"\"IT'S\n"
+  },
+  {
+    "message": " 　   NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\n"
+  },
+  {
+    "message": " 　  \"It neither [is] Ayana nor [isn't] Ay\n"
+  },
+  {
+    "message": " 　　　　　　 ana.\"\"IT'S NOTHING. \n"
+  },
+  {
+    "message": " 　　　　　　 MAMIYA-KUN JUST JUM\n"
+  },
+  {
+    "message": " 　　　　　　 PED OFF.\"\"It neither"
+  },
+  {
+    "message": " \n\n"
+  },
+  {
+    "message": "　　　　　　  [is] Yukito nor [isn't]\n"
+  },
+  {
+    "message": "　　　　　  Yukito.\"\"IT'S NOTHING.\n"
+  },
+  {
+    "message": "　　　　　  MAMIYA-KUN JUST JUMPED\n"
+  },
+  {
+    "message": "　　  OFF.\"\"It neither [is] Kotomi nor [is\n"
+  },
+  {
+    "message": "　　  n't] Kotomi.\"\"IT'S NOTHING. MAMIYA-K\n"
+  },
+  {
+    "message": "　　  UN JUST JUMPED OFF.\"\"It neither [is]\n"
+  },
+  {
+    "message": "　　　　　  a student nor [isn't] a\n"
+  },
+  {
+    "message": "　　　　　  student.\"\"IT'S NOTHING.\n"
+  },
+  {
+    "message": "　　　　　  MAMIYA-KUN JUST JUMPED "
+  },
+  {
+    "message": " \n\n"
+  },
+  {
+    "message": "　　　　　　　 OFF.\"\"It neither [is]\n"
+  },
+  {
+    "message": "　　　　　　 a school nor [isn't] a\n"
+  },
+  {
+    "message": "　　　　　　 school.\"\"IT'S NOTHING.\n"
+  },
+  {
+    "message": "　　 MAMIYA-KUN JUST JUMPED OFF.\"\"It neithe\n"
+  },
+  {
+    "message": "　　 r [is] barefoot nor [isn't] barefoot.\"\n"
+  },
+  {
+    "message": "　　 \"IT'S NOTHING. MAMIYA-KUN JUST JUMPED \n"
+  },
+  {
+    "message": "　　　　　　 OFF.\"\"It neither [is] \n"
+  },
+  {
+    "message": "　　　　　　 homework nor [isn't] h\n"
+  },
+  {
+    "message": "　　　　　　 omework.\"\"IT'S NOTHING.\n"
+  },
+  {
+    "message": "　　　　　　  WATANABE-KUN JUST JU"
+  },
+  {
+    "message": " \n\n"
+  },
+  {
+    "message": "  　　　　　      MPED OFF.\"\"It ne\n"
+  },
+  {
+    "message": "　　　　          ither [is] sex n\n"
+  },
+  {
+    "message": "　　　　        or [i      sn't]\n"
+  },
+  {
+    "message": "　　       sex.\"\"IT'S      NOTHING. MA\n"
+  },
+  {
+    "message": "　　       MIYA-KUN J      UST JUMPED \n"
+  },
+  {
+    "message": "　　       OFF.\"\"It n      either [is]\n"
+  },
+  {
+    "message": "　　　　        Kero       -Q no\n"
+  },
+  {
+    "message": "　　　　        r [isn't] Kero-Q\n"
+  },
+  {
+    "message": "　　　　        .\"\"IT'S NOTHING."
+  },
+  {
+    "message": " \n\n"
+  },
+  {
+    "message": "　　　　　  MAMIYA-KUN JUST JUMPED OFF\n"
+  },
+  {
+    "message": "　　　　  .\"\"It neither [is] scenery\n"
+  },
+  {
+    "message": "　　　　  nor [isn't] scenery.\"\"IT'S\n"
+  },
+  {
+    "message": "　　　    NOTHING. MAMIYA-KUN J\n"
+  },
+  {
+    "message": "　　  UST JUMPED OFF.\"\"It neither [is] a lov\n"
+  },
+  {
+    "message": "　　  er nor [isn't] a lover.\"\"IT'S NOTH\n"
+  },
+  {
+    "message": "　　  ING. MAMIYA-KUN JUST JUMPED OF\n"
+  },
+  {
+    "message": "　　  F.\"\"It neither [is] surviv\n"
+  },
+  {
+    "message": "　　  al nor [isn't] survival.\""
+  },
+  {
+    "message": "\"IT'S NOTHING. MAMIYA-KUN JUST"
+  },
+  {
+    "message": " JUMPED OFF.\"\"It neither ["
+  },
+  {
+    "message": "is] form nor [isn't]"
+  },
+  {
+    "message": "form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither [is] God"
+  },
+  {
+    "message": "nor [isn't] God.\"\"IT'S NOTHING. MA"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world n"
+  },
+  {
+    "message": "or [isn't] a world.\"\"IT'S NOTHING."
+  },
+  {
+    "message": "MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither ["
+  },
+  {
+    "message": "is] form nor [isn't]"
+  },
+  {
+    "message": "form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither [is] God "
+  },
+  {
+    "message": " nor [isn't] God.\"\"It's nothing. ju"
+  },
+  {
+    "message": "mped off\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MA"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"It neither [is]"
+  },
+  {
+    "message": "nor is] a world nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a"
+  },
+  {
+    "message": "world nor [isn't] a world.\"\"IT'S NOTHING. J"
+  },
+  {
+    "message": "UST It neither\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING."
+  },
+  {
+    "message": "MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUJUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither ["
+  },
+  {
+    "message": "God[isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"MAMIYA-KUN"
+  },
+  {
+    "message": " JUST JUMPED OFF [is]"
+  },
+  {
+    "message": "form nor [isn't] form.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor"
+  },
+  {
+    "message": "[isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It [is] God "
+  },
+  {
+    "message": "or MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God "
+  },
+  {
+    "message": "nor [isn't] God.\"\"It's nothing. off, "
+  },
+  {
+    "message": "that's all.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MA"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"It neither [is] nor"
+  },
+  {
+    "message": " is] a world nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world"
+  },
+  {
+    "message": "nor [isn't] a world.\"\"IT'S NOTHING. JUST"
+  },
+  {
+    "message": "It neither\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING."
+  },
+  {
+    "message": "MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUJUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither"
+  },
+  {
+    "message": "[God[isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"MAMIYA-KUN JUST JUMPED OFF"
+  },
+  {
+    "message": "[is] form nor"
+  },
+  {
+    "message": "[isn't] form.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't]"
+  },
+  {
+    "message": " form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It [is] God or"
+  },
+  {
+    "message": "MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor"
+  },
+  {
+    "message": " [isn't] God.\"\"It's nothing. off,"
+  },
+  {
+    "message": " that's all.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MA"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"It neither [is] nor"
+  },
+  {
+    "message": "is] a world nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world"
+  },
+  {
+    "message": "nor [isn't] a world.\"\"IT'S NOTHING. JUST"
+  },
+  {
+    "message": "It neither\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING."
+  },
+  {
+    "message": "MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUJUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither"
+  },
+  {
+    "message": "[God[isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"MAMIYA-KUN JUST JUMPED OFF"
+  },
+  {
+    "message": "[is] form nor [isn't] form.\""
+  },
+  {
+    "message": "\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor"
+  },
+  {
+    "message": " [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF"
+  },
+  {
+    "message": "nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It [is] God or"
+  },
+  {
+    "message": "MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor"
+  },
+  {
+    "message": " [isn't] God.\"\"It's nothing. off,"
+  },
+  {
+    "message": "that's all.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MA"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"It neither [is] nor"
+  },
+  {
+    "message": "is] a world nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor"
+  },
+  {
+    "message": " [isn't] a world.\"\"IT'S NOTHING. JUST"
+  },
+  {
+    "message": "It neither\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING."
+  },
+  {
+    "message": "MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUJUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither "
+  },
+  {
+    "message": "[God[isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"MAMIYA-KUN JUST JUMPED OFF [is] form"
+  },
+  {
+    "message": "nor [isn't] form.\""
+  },
+  {
+    "message": "\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF"
+  },
+  {
+    "message": "nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JU"
+  },
+  {
+    "message": "ST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It [is] God or"
+  },
+  {
+    "message": " MAMIYA-KUN JUST JUMPED OFF.\""
+  },
+  {
+    "message": "\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God "
+  },
+  {
+    "message": "nor [isn't] God.\"\"It's nothing. off,"
+  },
+  {
+    "message": "that's all.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MA"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"[is] a world"
+  },
+  {
+    "message": "JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world"
+  },
+  {
+    "message": " nor [isn't] a world.\""
+  },
+  {
+    "message": "is] nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It [isn't]"
+  },
+  {
+    "message": " a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It [is] a world"
+  },
+  {
+    "message": "JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world"
+  },
+  {
+    "message": "nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"[is] a world"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world"
+  },
+  {
+    "message": "nor [isn't] a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"[is] a worlding."
+  },
+  {
+    "message": "Mamiya-kun just jumped off, that's all.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"[is] a world"
+  },
+  {
+    "message": " JUMPED OFF.\"\"It neither [is] form nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] nor"
+  },
+  {
+    "message": "is] a world nor [isn't] form.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It [isn't]"
+  },
+  {
+    "message": "a world.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It [is] a world"
+  },
+  {
+    "message": "JUMPED OFF.\"\"It neither [is] God nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"It neither [is] a world"
+  },
+  {
+    "message": "nor [isn't] God.\"\"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.\"\"[is] a world"
+  },
+  {
+    "message": "MIYA-KUN JUST JUMPED OFF.\"\"[is] a world nor"
+  },
+  {
+    "message": "I heard the sound of my skull cracking."
+  },
+  {
+    "message": "But that wasn't from the outside world."
+  },
+  {
+    "message": "I think it came from within me."
+  },
+  {
+    "message": "Minakami-san, sometimes I think about these things."
+  },
+  {
+    "message": "Where is the limit of the world?"
+  },
+  {
+    "message": "The very edge of the edge of the world."
+  },
+  {
+    "message": "If such a place existed..."
+  },
+  {
+    "message": "Suppose I were able to stand in that place. Could I look at the scenery from that edge, just like anywhere else?"
+  },
+  {
+    "message": "If I think it's normal to wonder about these things... that must make me weird."
+  },
+  {
+    "message": "I mean, that's the edge of the world."
+  },
+  {
+    "message": "It's the limit of the world."
+  },
+  {
+    "message": "If I could see that with my own two eyes, wouldn't the limit of the world become the same as my own limit?"
+  },
+  {
+    "message": "Wouldn't the world, viewed from that spot... be the world that I see? Wouldn't that be my world?"
+  },
+  {
+    "message": "The limit of the world would become the limit of my world."
+  },
+  {
+    "message": "The world is that which I see, touch, and feel."
+  },
+  {
+    "message": "Then what is the world?"
+  },
+  {
+    "message": "What is the difference between me and the world?"
+  },
+  {
+    "message": "Is there one?"
+  },
+  {
+    "message": "The difference between me and the world."
+  },
+  {
+    "message": "They're the same."
+  },
+  {
+    "message": "However, other people might have felt this too."
+  },
+  {
+    "message": "Even you might think that the world is you."
+  },
+  {
+    "message": "And I think that's probably correct."
+  },
+  {
+    "message": "I couldn't say for sure, but if you stood at the edge of the world, you would probably see the shape of the world just like I do."
+  },
+  {
+    "message": "So you would be the same as the world too."
+  },
+  {
+    "message": "But that really doesn't make sense."
+  },
+  {
+    "message": "If the world is me, why can't I see the world that you see?"
+  },
+  {
+    "message": "Even though you are in my world, I can't see the world you see."
+  },
+  {
+    "message": "I've never seen the world that you do."
+  },
+  {
+    "message": "They're like parallel universes that can never cross."
+  },
+  {
+    "message": "Even if there are hints that suggest the other exists, they can never touch."
+  },
+  {
+    "message": "I can't see the world you live in."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "message": "Is that really the case?"
+  },
+  {
+    "message": "Have I really never seen your world?"
+  },
+  {
+    "message": "If every person has been equally allotted one singular world..."
+  },
+  {
+    "message": "How could those worlds possibly become one?"
+  },
+  {
+    "message": "How can there be so many worlds?"
+  },
+  {
+    "message": "There must be a way for the worlds to become one."
+  },
+  {
+    "message": "Sometimes, I think about these things."
+  },
+  {
+    "message": "That's why..."
+  },
+  {
+    "message": " I was able to love you."
+  }
+]

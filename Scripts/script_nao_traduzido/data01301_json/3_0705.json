@@ -1,0 +1,1890 @@
+[
+  {
+    "message": "Sunday... I didn't have anything in particular to do, but I got on the train anyway."
+  },
+  {
+    "message": "It's not really something unusual for me."
+  },
+  {
+    "message": "There was just one surprise that made my heart beat about three times faster than normal."
+  },
+  {
+    "message": "Why did it end up like this?"
+  },
+  {
+    "message": "No... I doubt there's any particular reason."
+  },
+  {
+    "message": "I just got on the train to go buy a new CD from my favorite voice actor and sat in an open seat."
+  },
+  {
+    "message": "Then..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Um, you're...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "The exact same reaction as when he was on the rooftop."
+  },
+  {
+    "message": "I could feel my face growing so hot that I just wanted to push him over and run out the doors. Though, why would I need to push him over to do that?"
+  },
+  {
+    "message": "I took a deep breath and said, very naturally..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh... If it isn't Mamiya-kun.\" <- Not at all natural!"
+  },
+  {
+    "message": "That's what I said."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha... What are you doing here?\""
+  },
+  {
+    "message": "After that, I managed to speak a little more calmly... This is becoming a daily ritual every time I meet him."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm Takashima Zakuro.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha, r-right. I'm sorry.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Where are you going, Takashima-san?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What about you? Where would you happen to be going?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Me? Ahahaha... I haven't actually decided yet.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahahaha... Really? M-Me too.\""
+  },
+  {
+    "message": "Nice one. I'm surprised I was able to say that so smoothly... I'm doing really good today."
+  },
+  {
+    "message": "Sorry, but my favorite voice actress is going to have to wait until tomorrow."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The weather is nice... I was just going to ride the train until I knew where I wanted to go.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh, really...\""
+  },
+  {
+    "message": "M-Me too!"
+  },
+  {
+    "message": "W-Would you like to go somewhere together?"
+  },
+  {
+    "message": "That's what I wanted to say..."
+  },
+  {
+    "message": "Instead, I just whispered it in my heart."
+  },
+  {
+    "message": "What I said in reality was..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahahahaha...\""
+  },
+  {
+    "message": "I just smiled, like if someone had spoken to me in a foreign language and I didn't know what to say."
+  },
+  {
+    "message": "I have to do something..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Aren't you getting off here? This is Suginomiya.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, yeah... What about you?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Like I said, I'm not going anywhere in particular... I wouldn't mind getting off here, but it might be nice to keep going, too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I see...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"So you really don't have anywhere to go either, huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No... Also, could you call me Zakuro, instead of just saying 'you'?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Why?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I think that's the reason you can't ever remember my name. You never call me by it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha, does it really matter if I don't remember?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's for me to decide, not you. I want you to remember it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahahaha... All right.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I'm sorry. That was rude.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No, not at all. You're right.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Then please call me Zakuro.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I don't think I could get used to that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But we've talked so much lately...\""
+  },
+  {
+    "message": "Maybe I'm the only one who feels like that, though..."
+  },
+  {
+    "message": "From the way he reacts to me... it's like I'm nothing more than an acquaintance."
+  },
+  {
+    "message": "I wish I could talk to him more often."
+  },
+  {
+    "message": "Maybe then he would remember my name..."
+  },
+  {
+    "message": "Maybe not..."
+  },
+  {
+    "message": "Just thinking that is probably ridiculous."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Do you like to read books, Takashima-san?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Yes, sort of...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Do you read anything other than Lewis Carroll?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sometimes, but I'm not that well read. I just read simple stuff. I like short stories.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? Like what?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Like Atouda... and of course Tsutsui Yasutaka. I like Hoshi Shinichi too...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, I read those when I was younger too. I really loved Tsutsui Yasutaka. Oh, and Hoshi Shinichi and Atouda Takashi were great too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Atouda was a bit much for me when I was a grade schooler, but maybe that was a good thing. They were so exciting, I always climbed under the covers when I read them.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahahaha... Under the covers...\""
+  },
+  {
+    "message": "I felt my face flush... That's right. Atouda's books had a lot more sexual illustrations in them."
+  },
+  {
+    "message": "I would've liked to have seen Mamiya-kun reading them as a child."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, I still like short stories. Oh, that's right. Next time, I'll lend you another book. I think I know one you'll like.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? What kind of book?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It's a book by another Italian author, Buzzati. I thought it was really fascinating when I read it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Italy... That's the same as the author that wrote the story about the cat. You know a lot about Italian authors, huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, not at all. I just happened to have read them recently. If you had asked me a couple weeks earlier, I probably would've recommended you something different. Ahahahaha...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Like Marquez?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You know about Gabriel Garcia Marquez?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahahaha, it just seemed like something you would like. I read it because my father recommended it to me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"One day I couldn't sleep. My father was in the living room, and when I told him I couldn't sleep, he told me to read <i>Chronicle of a Death Foretold</i> .\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"And then?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I couldn't sleep at all. It was too interesting!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha, yeah, it is. Isn't it really short, though?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But still, I couldn't stop thinking about it after I finished it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I know what you mean.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe...\""
+  },
+  {
+    "message": "It's so different..."
+  },
+  {
+    "message": "Completely different."
+  },
+  {
+    "message": "Completely different... from my life before I met him."
+  },
+  {
+    "message": "I've never felt this way before."
+  },
+  {
+    "message": "I've never had such a dazzlingly wonderful time as today."
+  },
+  {
+    "message": "It makes me think... I wish I could keep talking to him for all eternity."
+  },
+  {
+    "message": "I might never have this much fun talking to anyone else in my entire life."
+  },
+  {
+    "message": "I just wish this moment would never end."
+  },
+  {
+    "message": "Though that wish could never come true."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, the next...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The next?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The next station is the last stop.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh... We're already at the last stop.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "It's already over."
+  },
+  {
+    "message": "It was so fun, and..."
+  },
+  {
+    "message": "It's over..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Where's the last stop?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It says it's an amusement park...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"An amusement park, huh? I guess I don't have any reason to go there. Maybe I should ride it back to the beginning.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well then... Huh?\""
+  },
+  {
+    "message": "I silently pulled on Mamiya-kun's hand."
+  },
+  {
+    "message": "I was bold... or maybe I was just confused."
+  },
+  {
+    "message": "I grabbed his hand and descended onto the platform with him just before the doors closed."
+  },
+  {
+    "message": "I didn't want the wonderful time I spent with him to end so anticlimactically, so I..."
+  },
+  {
+    "message": "Crunch, crunch..."
+  },
+  {
+    "message": "Crunch, crunch..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Shaved ice is great in the summer.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm sorry...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? Why?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Well, I dragged you off the train and made you come here.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Really? I don't mind. I didn't have anything to do anyway, and I got a nice treat out of it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... I'm sorry.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Like I said, you don't need to apologize.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"There are a lot of people here for such a run-down amusement park... It must be busy because it's Sunday.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You shouldn't say that.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I mean, I heard most of the smaller amusement parks had to shut down. They're definitely doing a good job of attracting customers, at least.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe that just means it's more fun than any of the other amusement parks?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You could be right.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's my treat. Let's have fun, okay?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You don't have to pay. But yeah, let's have fun... I haven't been to an amusement park in years.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sure!\""
+  },
+  {
+    "message": "Ahahahaha."
+  },
+  {
+    "message": "I'm such a weird girl."
+  },
+  {
+    "message": "What am I doing?"
+  },
+  {
+    "message": "Last night I decided to keep my feelings inside..."
+  },
+  {
+    "message": "And I ended up forcibly dragging him along on a date..."
+  },
+  {
+    "message": "Wait!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A d-date?!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, i-i-i-it's nothing!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Really? I was just thinking, coming here together on Sunday like this kind of feels like a date.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Would you rather I didn't put it like that?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"P-Please, go right ahead! It's an honor, really. I don't mind at all!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha... It's not a big deal.\""
+  },
+  {
+    "message": "Noo! Why am I getting so flustered?!"
+  },
+  {
+    "message": "He must think I'm strange! He must think I'm weird! He must think I'm a freak!"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You're a little weirder than I thought you were.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Crap!"
+  },
+  {
+    "message": "Come on, it was all going so well! Now he knows I'm a freak!"
+  },
+  {
+    "message": "Now he won't look at me the same way... He must think I'm gross."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I guess that's why...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oogh...\""
+  },
+  {
+    "message": "That's why..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's why I feel like I can relax, even though I don't usually like other people.\""
+  },
+  {
+    "message": "Look, he said it. He thinks I'm disgust―What?"
+  },
+  {
+    "message": "Huh? Huh? Huh? Relax?"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I'm pretty strange myself... I can't usually relax around other people, but I can when I'm with you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Uh... Uh...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What's wrong? You haven't said anything in a while, and your face is all red... Are you feeling all right?\""
+  },
+  {
+    "message": "He worriedly put his hand on my forehead... Wait, his hand?!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"N-No, that's not it!\""
+  },
+  {
+    "message": "Ah, I slapped his hand away!"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, okay...\""
+  },
+  {
+    "message": "Aaah, I'm sorry, Mamiya-kun! The truth is I wanted you to touch me, but I couldn't think and..."
+  },
+  {
+    "message": "Now it feels awkward..."
+  },
+  {
+    "message": "Because I slapped his hand away."
+  },
+  {
+    "message": "Ah, what should I do? Maybe I should grab his hand and stick it up my skirt?"
+  },
+  {
+    "message": "No, that would only make me happy. Mamiya-kun wouldn't like it at all! If I did that, I really would be a freak!"
+  },
+  {
+    "message": "Ahh... I'm so confused..."
+  },
+  {
+    "message": "Uh... Uh..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry... I don't have a fever or anything like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I just haven't ever done this with anyone before, so I'm really nervous.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You've never walked around like this with someone? Ahahahaha, you're such a shut-in.\""
+  },
+  {
+    "message": "No! That's a misunderstanding! I mean with a boy!!"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I'm the same, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? But Mamiya-kun, you said you go out like this a lot.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I just like to go someplace on my free days so I don't have to talk to anyone. I guess I'm not a shut-in, but I am pretty reclusive.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, I guess so.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Most people who like books don't like people. People who are good at everything, who like books, people, are good at sports, and who are really smart on top of all that just creep me out.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Aren't those people to look up to?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I guess so. I think people like that are creepy, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "I couldn't help myself. I grabbed his hand."
+  },
+  {
+    "message": "He seemed surprised when I did that, so I immediately..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Look there, Mamiya-kun. That looks like fun!\""
+  },
+  {
+    "message": "I tried to play it off like that."
+  },
+  {
+    "message": "It's like I can't hold myself back when I'm with him."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I see... You like the screamers, huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A-Aha, aha...\""
+  },
+  {
+    "message": "Actually, I hate them."
+  },
+  {
+    "message": "I just pointed at the first thing I saw, and it was a screamer."
+  },
+  {
+    "message": "But to keep up the ruse, I had to rise to the challenge."
+  },
+  {
+    "message": "And now... I feel like I'm going to hurl."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"A-Are you all right? You don't look too good.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahahaha... I might've overdone it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Would something a bit more relaxing be better?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Something relaxing?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, like that...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-Wh-What?! That's a haunted house! How is that relaxing?!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, well, you can walk around on your own legs, so I figured it would be more relaxing than the last one... and it's dark.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The dark makes your blood pressure rise!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's not true. Everyone's blood pressure would go up at night if it was.\""
+  },
+  {
+    "message": "My blood pressure definitely goes up when I'm lying in bed!"
+  },
+  {
+    "message": "That's a little vulgar, though... I can't say that."
+  },
+  {
+    "message": "Oh, this is no good... I should stop reading vulgar books. My internal jokes are becoming too crude."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I guess so...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Then what would you prefer?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Could we just walk around for a while?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, sure... I don't mind at all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I just remembered... There are boats here...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Boats? Oh, do you think that would be relaxing?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? You wouldn't mind?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Mind what?\""
+  },
+  {
+    "message": "Everything! The two of us alone on a boat... That's the classic way of ending a date."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I hope you're not thinking that I wouldn't be able to row the boat.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"N-Not at all... But you don't mind?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"If you'd like to, then I'd be more than happy to help.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "He waved his hand, inviting me on like a gallant prince."
+  },
+  {
+    "message": "He really understands a woman's heart, which means he must have been on dates with other women before."
+  },
+  {
+    "message": "I've never seen anyone who was this good with the ladies."
+  },
+  {
+    "message": "He seems like a total playboy... Actually, it seems like only another woman could understand women this well."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "message": "It doesn't matter whether he's a playboy or even if he's a girl."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"L-Let's go.\""
+  },
+  {
+    "message": "Creek... Creek..."
+  },
+  {
+    "message": "Creek... Creek..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You're really good.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Really? I don't think I'm that good.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Have you taken a lot of girls on boat rides like this?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Why would I do that? Besides, I don't think you can really be exceptionally good or bad at this.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I wonder about that.\""
+  },
+  {
+    "message": "But I think you can be exceptionally good or bad with women."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Are you all right? You're not feeling seasick, are you?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I'm perfectly fine. I feel great.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's good.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It really feels good out on the water.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's right... If there was a bit of shade too, I'd forget that it's summer at all.\""
+  },
+  {
+    "message": "Mamiya-kun brushed his hair back after a breeze came across the water."
+  },
+  {
+    "message": "His movement was incredibly graceful... I felt drawn to the exposed white skin of his neck."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry for making you row.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wh-Whoa, it's fine. That's dangerous!\""
+  },
+  {
+    "message": "I tried to take the oars from him."
+  },
+  {
+    "message": "The boat tilted back and forth, and Mamiya-kun got mad at me."
+  },
+  {
+    "message": "Floating on the surface of the water with just a few pieces of wood like this... It felt like we had left reality behind."
+  },
+  {
+    "message": "Maybe we really did, right when our feet left the shore."
+  },
+  {
+    "message": "And what's more, the person sitting in front of me was Mamiya-kun."
+  },
+  {
+    "message": "I felt nervous."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-It feels nice, but at the same time... I feel kind of uneasy out here.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Why's that?\""
+  },
+  {
+    "message": "There wasn't a reason... I just said it. I was just talking about how I felt."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The surface of the water looks like the sky in the world of mirrors... It feels like we're on the precipice.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I see what you mean, but I think it's nice. It's like we're sailing through the clouds.\""
+  },
+  {
+    "message": "Mamiya-kun touched the surface of the water with his fingertips."
+  },
+  {
+    "message": "Every time he touched the water sky... it warped and distorted."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I wonder if it would feel good to walk through the clouds.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Who knows? I've never done it, so I couldn't tell you. All I know is that I feel good right now.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I see...\""
+  },
+  {
+    "message": "I moved to touch the surface of the water too, but I stopped once I realized I was tipping the boat."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky reflected in the water might not be the real sky, but maybe the real sky is too far for us to grasp.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The real sky? Hehe... What's the real sky?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? I'm just talking about the sky reflected in the water and the sky above our heads...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's true, but the sky I see is simply reflected in my eyes.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You might not be able to say that the sky in the water is fake... or that the real sky is too far.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The sky that you think of as so far is actually reflected in your eyes.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The sky is only far because we assume it so... Otherwise, everything would be far off... Everything would be out of reach.\""
+  },
+  {
+    "message": "The words he said were too hard for me to understand... I couldn't grasp the meaning behind his words."
+  },
+  {
+    "message": "But they gave me courage."
+  },
+  {
+    "message": "Creek... Creek..."
+  },
+  {
+    "message": "Creek... Creek..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehe.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm? What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, nothing. I was just thinking, maybe for you, the sky really is within reach.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Why's that?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Well, that's how I understood your words.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The sky is within reach, huh? I guess so.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Just like this.\""
+  },
+  {
+    "message": "He raised his hands up toward the great blue sky."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Am I touching the sky? Or am I not?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe. Who knows?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You know, I think that's just like the blue bird.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The blue bird?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yes, the mystical blue bird... A blue bird that no one could ever hope to catch... But I think it's actually really easy to catch it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "After he said that, he laughed."
+  },
+  {
+    "message": "As I looked at his face, I..."
+  },
+  {
+    "message": "Ah... This is bad..."
+  },
+  {
+    "message": "That's what I thought."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...♪\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "The train home."
+  },
+  {
+    "message": "It felt nice. Our languid spirits swayed back and forth with the movement of the train."
+  },
+  {
+    "message": "And then..."
+  },
+  {
+    "message": "Music."
+  },
+  {
+    "message": "Mamiya-kun let me listen to his music."
+  },
+  {
+    "message": "After watching my expression as he played a few songs for me, he focused on one genre."
+  },
+  {
+    "message": "He picked out songs he thought I would like..."
+  },
+  {
+    "message": "Classic songs that I wasn't sure whether I had heard before."
+  },
+  {
+    "message": "Bright, jovial music."
+  },
+  {
+    "message": "He told me the recording was from a New Year's concert they hold every year in a foreign country."
+  },
+  {
+    "message": "A conductor who was lauded as a genius, leading the most famous philharmonic in the world."
+  },
+  {
+    "message": "Waltz."
+  },
+  {
+    "message": "Polka."
+  },
+  {
+    "message": "March."
+  },
+  {
+    "message": "A dancing melody."
+  },
+  {
+    "message": "The swaying of the train seemed to match the rhythm of the songs."
+  },
+  {
+    "message": "He put his hand on the music player, and I silently moved my hand on top of his."
+  },
+  {
+    "message": "Fittingly, the name on the screen was Vergnugungszug, 'Journey Train.'"
+  },
+  {
+    "message": "This was just a ride across town, not a journey, but the relaxed feeling was the same, and the song almost made the scenery outside look like it was glowing."
+  },
+  {
+    "message": "Our hands moved ever so slightly, tapping out the rhythm of the song."
+  },
+  {
+    "message": "The instant I felt the warmth of his hand, the music seemed to grow even more lively and beautiful."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You really know a lot.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, my mother used to be really strict, and she made me practice the piano.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You can play the piano, then?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, a little bit. Not very well, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What can you play?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I'm not sure, but I guess the last thing I played was a piece by Liszt. It was really hard.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Play it for me next time.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No, I definitely can't play Liszt anymore. Maybe something else, though... What composers do you like?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? I don't know much about classical music, but what about La campanella?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No... The piano version of La campanella was by Liszt, so only virtuosi can play it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"How about something a little easier... How about Twinkle Twinkle Little Star?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, that would be nice.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, uh... That was a joke. You weren't supposed to go along with it like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I told you, I don't know anything about classical music.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I wonder... What would be good...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, if anything comes to mind, I'd be happy to play it for you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe... Okay. That might be nice.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Thank you for everything today.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh?"
+  },
+  {
+    "message": " Why are you thanking me?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, uh... I was the one who dragged you along into the amusement park...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Like I said, I didn't have anywhere to go. Besides, it was a lot of fun.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? What did you say?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I said it was a lot of fun.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Really. I wouldn't've stuck around if it wasn't. I might not look like it, but I really don't get along with most people.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh, really... Well, I'm glad you had fun... I really am.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, so I should be thanking you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um, that store...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm? What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah... Uh, nothing.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, okay..."
+  },
+  {
+    "message": " Do you want to get something to eat?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-You don't mind?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Of course not. We've been together all day.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Then I'll pay.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No way. This time it's my turn to treat you."
+  },
+  {
+    "message": " Now then, what should we eat? Japanese? Chinese? Italian? Beef bowls? French is too expensive though, so I'll have to veto that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's okay. I've never had French anyway.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Then maybe we really should eat French.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe... You don't need to do that.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Then what about the place I always go to?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Where's that?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It has Japanese, Chinese, Italian, beef bowls, whatever you want.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Like a bistro or something?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You'll see when we get there. Don't be shy now. Let's go.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, okay.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What do you think?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Eh? Isn't this a bar?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Don't worry about that. Come on, sit here.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, there's a piano.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's right. They have a piano.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wow...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Actually, I have a job here playing piano.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-You do?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah... This store's master has helped me out since I was a child.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"But more importantly, what would you like to hear?"
+  },
+  {
+    "message": " Oh wait, you hadn't decided, right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, I've decided now.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, you have?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, it's, well...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Play every song that you thought about playing for me.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What?!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, Yu-... No, wait, Mamiya-chan.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ah..."
+  },
+  {
+    "message": " Hello...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"You don't have a shift today. Are you a customer?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Of course I am.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But you'll still play, right?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ugh... I guess so.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, really?"
+  },
+  {
+    "message": " So you brought your girlfriend along after a date to show off?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"And you brought her here. Haha.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What are you laughing about?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, you're awfully mouthy today. I guess that's because your girlfriend's here?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, well, uh...\""
+  },
+  {
+    "message": "Ah... He keeps saying girlfriend... Why would he do that..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Now wait a second. She's just a friend from school, and we just happened to see each other. She's not my girlfriend!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah.\""
+  },
+  {
+    "message": "Aha... Ahaha..."
+  },
+  {
+    "message": "That's right, isn't it..."
+  },
+  {
+    "message": "But it kind of stings when you say it like that, Mamiya-kun."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah... Y-Yes, I'm just a girl that goes to the same school as Mamiya-kun.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Really? But she's so pretty.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What, no I'm not. Everyone says I'm ugly... Oh, wait, that was a compliment, wasn't it?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"What's she talking about? Is she stupid? It's not like I have any reason to give a girl a compliment.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"She doesn't seem to get along well with most people. Don't bully her too much, Master.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, she doesn't? Sounds just like you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really? He doesn't seem that way to me.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's right. He just plays the piano, never talks to anyone. He's not attractive at all.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That so? I like to think of myself as very attractive, actually.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Well, sometimes you are, but... Anyway, what do you want to eat?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, can I get a menu?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"There's no menu. I can make whatever you ask for. That's how this shop works.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The rice here is pretty good. Master here is a fag, but everything else about this shop is really good.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Come on... I don't know how to respond when you insult me and then compliment me in the same sentence.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Anyway, I'll take chicken ramen with eggs and celery on the side. Oh, and if you could get me the key to the piano, too.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Sure, sure...\""
+  },
+  {
+    "message": "Master took the key from his pocket and threw it to Mamiya-kun."
+  },
+  {
+    "name": "Master",
+    "message": "\"But don't play any depressing songs.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, don't worry. I'm not in that kind of mood.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "As Mamiya-kun stood in front of the piano... he looked incredibly cool."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well... First, we'll start off with something simple.\""
+  },
+  {
+    "message": "He slowly spread his fingers over the keys."
+  },
+  {
+    "message": "He closed his eyes for a moment and then..."
+  },
+  {
+    "message": "His fingers danced."
+  },
+  {
+    "message": "As he struck the keys, layers of different tones flowed out of the piano."
+  },
+  {
+    "message": "The music wove a tapestry of good cheer."
+  },
+  {
+    "message": "It was a happy rhythm."
+  },
+  {
+    "message": "Bright."
+  },
+  {
+    "message": "Ornate."
+  },
+  {
+    "message": "And somehow nostalgic."
+  },
+  {
+    "message": "It felt simple and candid."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I've heard this song before.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What's the song called, and who wrote it? If you get it right, I'll play another one for you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"It's Satie... Piccadilly, right?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I wasn't asking you!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yay, one more!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"But you didn't answer...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm sorry.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Don't be cheap. Play her another one.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Shut up.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You don't want to?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No... It's not that I don't want to...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I won't charge you for your meal, so play her another song.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Seriously? You mean it's free?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Like I said, play her something. Play something moody for her.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You know moody basically means the same thing as depressing...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I don't care what the word means. You know what I'm trying to say.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I'm not sure I do.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"What? What are you trying to say?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, nothing... Well, let's forget about that. Now, about that song...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Takashima-san...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "message": "Mamiya-kun looked at me."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's right... I'll play a song that reminds me of you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A song that reminds you of me?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, a song that captures the image you conjure in my mind.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sure.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well then...\""
+  },
+  {
+    "message": "He faced the piano and closed his eyes again."
+  },
+  {
+    "message": "Then he spread his hands across the keys, and..."
+  },
+  {
+    "message": "The music began."
+  },
+  {
+    "message": "What is this song? I've never heard this before..."
+  },
+  {
+    "message": "It's like... the sky. Or maybe the ocean. I'm not sure, but it feels like someone is moving through something transparent."
+  },
+  {
+    "message": "The melody made me feel strange... He seemed to be tracing an outline on the keyboard... No, the outline was wholly shapeless. It was more akin to a texture."
+  },
+  {
+    "message": "Like something fantastical... Like something in a dream..."
+  },
+  {
+    "message": "The feeling of touching blue... An incredibly cold, pleasant blue."
+  },
+  {
+    "message": "The blue sensation filled my body. The piano's sound changed into texture, and the tone changed into a translucent color."
+  },
+  {
+    "message": "The endless, endlessly extensive blue inevitably melds with the red, the orange, the purple, and eventually the sky turns blue."
+  },
+  {
+    "message": "His sounds turned to color."
+  },
+  {
+    "message": "The colors turned to ocean, then to sky, then again to ocean."
+  },
+  {
+    "message": "Then the sky turned to a much greater celestial sphere."
+  },
+  {
+    "message": "The timbre of the celestial sphere."
+  },
+  {
+    "message": "It is heard not by the ears but by the body."
+  },
+  {
+    "message": "Like a creature in the water... feeling the water with its entire body."
+  },
+  {
+    "message": "The world within the celestial sphere."
+  },
+  {
+    "message": "Everything is subsumed within it. It has a nigh endless scope."
+  },
+  {
+    "message": "The blue sky."
+  },
+  {
+    "message": "The blue ocean."
+  },
+  {
+    "message": "The white clouds."
+  },
+  {
+    "message": "The white waves."
+  },
+  {
+    "message": "It's just like the world."
+  },
+  {
+    "message": "It's just like... a dream."
+  },
+  {
+    "message": "It's just like..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? D-Didn't you like it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... I'm sorry. U-Um, I was so moved that...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Then you liked it?\""
+  },
+  {
+    "message": "He never did tell me what song that was... All I knew was that Mamiya-kun played a song he liked for me."
+  },
+  {
+    "message": "And in the end..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What do you mean, it's not free?!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Like I said, only the chicken ramen and the celery was free.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wait, you mean only mine was free?!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's right. I'm already doing you a favor. Chicken ramen isn't cheap.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You can buy ramen for 60 yen.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Shut up and pay me for the margarita pizza, the caesar salad, and the Russian tea.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, I can pay for it.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Shut up. The man is supposed to pay for this, so let him pay.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh... I'm sorry...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"And please stop apologizing all the time.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I find it kind of hard to believe you actually think you're ugly, but I'll go ahead and say it just in case.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"There are a lot of brats who hate people just for being different. They only say that about you because you're so beautiful and you have such a nice body.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Once you grow up, everyone will be hitting on you. You're not ugly at all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A-All right...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"And you. Hurry up and pay me already.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Jeez...\""
+  }
+]

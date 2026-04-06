@@ -1,0 +1,755 @@
+[
+  {
+    "message": "A summer day."
+  },
+  {
+    "message": "I walked along the side of the road."
+  },
+  {
+    "message": "The rays of a summer sun pierced me."
+  },
+  {
+    "message": "A blue sky stretched overhead."
+  },
+  {
+    "message": "Great white clouds dotted the sky."
+  },
+  {
+    "message": "The trees were full of green."
+  },
+  {
+    "message": "I walked through just such a scene."
+  },
+  {
+    "message": "Every time the wind blew, I smelled the wild grass."
+  },
+  {
+    "message": "The babbling of a brook."
+  },
+  {
+    "message": "The smell of earth under our feet."
+  },
+  {
+    "message": "My father was born in this town."
+  },
+  {
+    "message": "It was called Sawaimura."
+  },
+  {
+    "message": "Though, to be honest, I couldn't tell you where it was located in Japan."
+  },
+  {
+    "message": "Both the summers and winters, though, were colder than those in Tokyo."
+  },
+  {
+    "message": "As a young boy, that was all I understood about this place."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Um... Hasaki should be coming soon, right?\""
+  },
+  {
+    "message": "I checked the time."
+  },
+  {
+    "message": "People in this village don't seem to pay attention to the time like we do in the city, so I had to bring an alarm clock from home."
+  },
+  {
+    "message": "It was already long past the time we promised to meet."
+  },
+  {
+    "message": "The alarm I had set already rang a long time ago."
+  },
+  {
+    "message": "It was probably pointless setting an alarm in the first place."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"They said they were coming at three o'clock in the afternoon. Jeez.\""
+  },
+  {
+    "message": "Hasaki was coming to Sawaimura."
+  },
+  {
+    "message": "To get away from that damn witch, especially now that our father was being hospitalized."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I wish he would just divorce that stupid witch.\""
+  },
+  {
+    "message": "\"Hahaha... You shouldn't say that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What? Whoa!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? D-Dad?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Tomosane-kun, how have you been?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Which tree did you pop out from?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Sorry, sorry. It takes a long time to walk from the bus station.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Oh. So, where's Hasaki?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Eek!\""
+  },
+  {
+    "message": "Someone jumped in surprise and then hid behind Dad's leg."
+  },
+  {
+    "message": "She was very small, but even she couldn't completely hide herself behind him."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Jeez, are you hiding again?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Ahaha. Come on, Hasaki-san. It's okay.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"C'mon, why are you hiding? Did you forget me already? It's only been three years.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Don't say that. Hasaki was still little when you were in Tokyo.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So she doesn't remember me?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Well, maybe she doesn't.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um, are you my brother?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, that's right! I'm Tomosane, your brother!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are you hiding again?!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Come on now, don't yell at her. She's scared of you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Takuji is the scary one, not me.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"W-Well, you might be right about that...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is Takuji the same as ever?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"I guess so.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are they still abusing Hasaki?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"No, there's no abuse, but...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It is abuse. That stupid witch... You should just let Hasaki live here.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Hahaha... You really don't like your mom, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course not! She betrayed us! I'll never forgive her!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"I'm sorry to hear that. You should be mad at me, not your mother.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why do you always say that?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why don't you just give that stupid Takuji a good slap in the face?! Or that woman?!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Violence isn't the answer here.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But Takuji is using violence against Hasaki, isn't he?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Well... I'm watching out for that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Jeez... You're scared of that woman, aren't you?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Tomosane-kun, you really shouldn't call your mother 'that woman.'\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She's not my mother. I've told you before, she was the first one to betray us.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Yeah, I understand your feelings, but...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm stuck out here because you won't break up with that woman.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Sorry...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Jeez, why are you apologizing? Why don't you just break up with her?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She has Takuji. Isn't that enough for her?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"That's not true. Your mother loves you and Hasaki too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's impossible!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"...\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Come on, don't yell. You're scaring Hasaki-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Like I care!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"H-Hau...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What does 'hau' even mean?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah, auh, auh...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Make up your mind already!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Stop it. You're scaring her.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hmph.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"I have to head back to the city tomorrow.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Tomorrow? That soon?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"I'm going to be in the hospital for a while starting tomorrow.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Tomorrow? I thought you still had more time. That's too soon.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Don't worry, they just want to do some tests. I should be out in a few days.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course you will. What would our family do without you? Hurry up and get better.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Ahaha, I knew you would say that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well, I'm glad I didn't disappoint you, then.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Daddy, please come back soon.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Yeah, don't worry about me.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"He's really scary, so if you don't...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wait, you mean me?!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Sure sounds like it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not scary!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Hau!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't just keep making that sound!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Jeez, I can't believe this wimp is actually related to me.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Hasaki is a girl. She's not tough like you boys are.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But girls should be tough too!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Why do you think that? She's a girl, you know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki-nee is super strong, though.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Yuki-nee? Who's that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki-nee, the assistant here at the dojo. That violent woman.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Here at the dojo? Minakami-san... Oh, you mean old Minakami-san's girl. She's always been a strong girl.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, her. There aren't very many people at the dojo who can beat her. It's not like girls have to be weak. You're really behind the times, you know? I mean, look at your wife. She's stronger than you are.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"W-Well, that's true...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So, Hasaki!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Auh...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't say 'auh'! Say 'Yes, sir'!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yessauh!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Which one was that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You'll get stronger living here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"S-Stronger?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, a lot stronger.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"She doesn't need to get stronger.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yes, she does! Takuji's still bullying her, isn't he?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"B-But she shouldn't use violence...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Jeez, that's why he keeps doing it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Did Takuji get any stronger, Hasaki?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"He was always a mouthy kid, so I used to fight him sometimes. Is he stronger than he used to be?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Well, it's not like Hasaki is hitting back. It's just Takuji doing it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, and every time we fought, that dumb witch would hit me. Why is it any of her business what we do?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"I'm sure she was just stopping you guys from fighting.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, she wasn't. She always takes Takuji's side. That's why I had to hit her too.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"And that's why we had to send you out here, you know.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Jeez... Domestic violence at your age...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Like I said, that woman is not my mother. And I can't believe you forgave her for what she did.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Tomosane-kun...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But I can't hate you, so make sure you rest up and get better in the hospital.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Hahaha, thanks.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And Hasaki should stay here all year round, not just during the summer.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Takuji and that woman aren't here, so it's a lot more peaceful.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"B-But I want to be with Daddy...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ahaha, that's just a matter of time. If you were here, I'm sure he would give up and come live with us.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? Would you, Daddy?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Hey, don't I get a say in all this?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Anyway, Hasaki...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Y-Yes?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Takuji is bullying you, isn't he?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's my fault Takuji Nii-san is still an inadequate savior.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Dad..."
+  },
+  {
+    "message": " Don't let her think like that!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"I already told her that's not true.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But Takuji and that woman are still saying that... Unbelievable.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Yeah. I told her to stop, but she won't listen.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She won't listen to anything you say, Dad. That's just how she is.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well, whatever."
+  },
+  {
+    "message": " Hasaki!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're still getting bullied by Takuji, right?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"He pinches you and hits you and stuff, right?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then you know exactly what it feels like when someone hurts you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I-I guess...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then you should understand the opposite, too.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The opposite?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course. If you only get hit, then you'll never understand the world. You can only understand it by getting hit and then hitting back.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Hitting back?\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Tomosane-kun, don't teach her weird stuff like that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Boys hit and get hit by each other, but that just helps them understand each other.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"B-But I'm a girl...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But it's the same for girls, Hasaki!\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Don't say that! She's a girl!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're being too naive, you stupid old man!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'll teach Hasaki how I beat Takuji every single time we fought.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Jeez, what are you talking about?\""
+  },
+  {
+    "message": "On a summer day..."
+  },
+  {
+    "message": "Hasaki and I were reunited after several years apart."
+  },
+  {
+    "message": "Even though Hasaki didn't remember me when she saw me. It was like our first time meeting."
+  },
+  {
+    "message": "Dad said that it was just because she was young, but honestly, I don't remember her being that young when we met before."
+  },
+  {
+    "message": "It actually seemed like Hasaki's days in Tokyo had been erased."
+  },
+  {
+    "message": "It was always hectic in the Mamiya house when I was in Tokyo before. All because my mother was involved with that bizarre cult."
+  },
+  {
+    "message": "She believed that Takuji would become the savior."
+  },
+  {
+    "message": "As a result, Hasaki was abused by Takuji and his mother."
+  },
+  {
+    "message": "What an unusual household."
+  },
+  {
+    "message": "My dad was the only one searching for a peaceful solution."
+  },
+  {
+    "message": "But to a young child like me, his peaceful solutions just seemed irritating."
+  },
+  {
+    "message": "Though I didn't manage to solve anything, either."
+  },
+  {
+    "message": "I just lashed out."
+  },
+  {
+    "message": "When Hasaki had bruises from the abuse, I would lash out at Takuji and his mother."
+  },
+  {
+    "message": "I still don't regret that."
+  },
+  {
+    "message": "But the violence escalated until one of us received a stab wound."
+  },
+  {
+    "message": "For the record, it was my mother that was injured, but she was also the one holding the knife."
+  },
+  {
+    "message": "When she pulled out the knife, I fought back and she ended up getting hurt."
+  },
+  {
+    "message": "And thankfully, I was entrusted to my father's relatives in Sawaimura after that incident."
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"You seem energetic today, Tomosane-kun.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, I feel great.\""
+  },
+  {
+    "name": "Hiroo",
+    "message": "\"Good.\""
+  },
+  {
+    "message": "He just said that and laughed as he patted my head."
+  },
+  {
+    "message": "For some reason, his face looked really sad, but I didn't understand why."
+  },
+  {
+    "message": "Even after growing so much over the years, I was still just a little brat."
+  },
+  {
+    "message": "That's why I couldn't understand the meaning hidden behind my father's last smile."
+  },
+  {
+    "message": "He was always pushing his mind and body to their limits."
+  },
+  {
+    "message": "He experienced hardships in his life that a brat like me could never understand."
+  },
+  {
+    "message": "All for the sake of his family."
+  },
+  {
+    "message": "That was the last time..."
+  },
+  {
+    "message": "That I ever saw my father smile."
+  }
+]

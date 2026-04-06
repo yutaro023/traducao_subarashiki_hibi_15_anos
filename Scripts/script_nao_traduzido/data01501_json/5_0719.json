@@ -1,0 +1,459 @@
+[
+  {
+    "message": "The school bell rings even in the dead of night."
+  },
+  {
+    "message": "The sound echoed in the darkness."
+  },
+  {
+    "message": "I came back to Kita High without even thinking about it."
+  },
+  {
+    "message": "The doll I held onto for so long was no longer with me."
+  },
+  {
+    "message": "It was the first time in such a long time... that I had to stand alone, on my own two feet."
+  },
+  {
+    "message": "With nothing to support me, all I had was..."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san...\""
+  },
+  {
+    "message": "I should've just died back then."
+  },
+  {
+    "message": "All this happened because I didn't die all those years ago."
+  },
+  {
+    "message": "It was Takuji Nii-san's hateful spirit that possessed Tomo Nii-san."
+  },
+  {
+    "message": "It was a curse."
+  },
+  {
+    "message": "It made perfect sense."
+  },
+  {
+    "message": "It wasn't a mental illness."
+  },
+  {
+    "message": "It was a curse."
+  },
+  {
+    "message": "A curse that he cast on all of us who survived that day."
+  },
+  {
+    "message": "Maybe Takuji Nii-san wasn't the only one cursing us. Maybe Yuki-san cursed us when she died as well."
+  },
+  {
+    "message": "That's why all this happened."
+  },
+  {
+    "message": "Nii-san stabbed himself in the chest."
+  },
+  {
+    "message": "He destroyed the other half of my self."
+  },
+  {
+    "message": "And now, he wanted to return so many more people back to the sky."
+  },
+  {
+    "message": "The day when everyone must return to the sky."
+  },
+  {
+    "message": "The day when he'll return their souls to the sky."
+  },
+  {
+    "message": "And what Takuji Nii-san did to me that day..."
+  },
+  {
+    "message": "His actions, in killing Yuki-san..."
+  },
+  {
+    "message": "That's exactly what he was trying to do again."
+  },
+  {
+    "message": "And this time, he wanted to take far more people with him."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san...\""
+  },
+  {
+    "message": "\"Hello.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "I heard a voice from somewhere."
+  },
+  {
+    "message": "\"Over here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? Wh-Where?\""
+  },
+  {
+    "message": "\"It's not a place. I'm trying to tune in.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tune in?\""
+  },
+  {
+    "message": "\"That's right. The Mamiya family has practiced Shinto since ancient times. You have the ability to match your mind to the frequency of another. And your mother's Sanami blood is nearly the same.\""
+  },
+  {
+    "message": "\"So just take your time and match your frequency to mine.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "\"See? I'm right here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who... are you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I am Ayana. You are Mamiya Hasaki-san.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Y-Yes...\""
+  },
+  {
+    "message": "Who is this? I'd never met her before."
+  },
+  {
+    "message": "Is she a student at this school? She was wearing the uniform, but..."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who are you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I told you, I am Ayana.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Are you human?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"What if I'm not?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I don't know.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"We're about to go see.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"See what?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The End Sky.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"End sky?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The sky in my mother's prophecies?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes. The sky that your mother fell madly in love with.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"This world's critical point.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The point which allows the soul to repeat as many times as it wishes.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Until you find the exit, you will repeat it over and over.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Repeat? I don't know what you mean, but I've never heard of that kind of sky before now.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Before now? Where is your 'now'?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's not what I'm talking about.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"So then, will you look at what comes after this?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"After this?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes. After the End Sky.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"After the End Sky?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The point where the soul ceases to be reborn.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What... is that?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The sky beyond that point. Can you see it, Hasaki-chan?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm asking you, what is that? What is there beyond that sky?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehehehe... The cyclical rebirth of the soul. The endless, winding corridor. The mental construct of time.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It is what lies beyond the armillary sphere. It is what lies behind the shadows cast on the cave wall.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I am the gate.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The key and the gate.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"All-in-One and One-in-All of limitless being and self.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The outer manifestation of the Primal Chaos.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The lurker at the threshold.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You are...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Otonashi Ayana.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even if no one has given it shape, anyone can understand it. Everyone already knows it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even if such a scene has never appeared in this world, such a scene should not frighten you.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's a very common world.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"A common world?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, beyond the bounds of this world, there is another, very common world.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What is that?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The Wonderful Everyday.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The Wonderful Everyday?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, sub specie aeternitatis.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Will I look at... what lies beyond this sky?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I...\""
+  },
+  {
+    "message": "I walked forward."
+  },
+  {
+    "message": "I took one step forward."
+  },
+  {
+    "message": "Alone."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"There isn't anyone with me.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"There isn't anyone here.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Because the sky isn't anywhere down here.\""
+  },
+  {
+    "message": "I couldn't see her anymore."
+  },
+  {
+    "message": "I could only hear her voice."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"This place isn't the sky...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"There is only one road that leads to the last sky.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"There is only one road that leads out of this ark.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That road is much longer than the hill which you, as a child, could never climb. It reaches to heaven itself.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who are you?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I am Otonashi Ayana. Nothing more or less.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Do you mean... that steel ladder?\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "The ladder stretched endlessly upward."
+  },
+  {
+    "message": "It was like a mirage, seen by a traveler wandering silently through the desert of eternity."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The wind...\""
+  },
+  {
+    "message": "I heard the wind in the distance."
+  },
+  {
+    "message": "In the distance, far, far ahead of me."
+  },
+  {
+    "message": "From far up the ladder, I heard the sound of the wind."
+  },
+  {
+    "message": "The sound of the wind, which was so far off, gradually grew louder and louder."
+  },
+  {
+    "message": "The sound of the wind."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It's time.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It looks like you want to stay in this time forever, Hasaki.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I will go ahead, even in this world of endless rebirth.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"My soul will come to reside in another body.\""
+  },
+  {
+    "message": "Nii-san's body floated up into the air."
+  },
+  {
+    "message": "I silently flew after him."
+  },
+  {
+    "message": "Oh... Now I understand."
+  },
+  {
+    "message": "This must be how Yuki-san felt."
+  },
+  {
+    "message": "There was no logic involved."
+  },
+  {
+    "message": "The only thing that mattered was that someone I loved was about to plunge into the sky."
+  },
+  {
+    "message": "I tried to grab onto him."
+  },
+  {
+    "message": "I tried to―"
+  }
+]

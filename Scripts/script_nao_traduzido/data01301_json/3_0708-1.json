@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Megu",
+    "message": "\"Ah, Takashima.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? What?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"We were talking about going to karaoke after school today.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... Sure...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"I wonder if they have that new song I was listening to the other day.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah... Though the CD just came out, so I doubt they have it yet.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh, that's right, what about those concert tickets I was asking you about before?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, yeah... Here they are.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Wow, thanks.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No... It's nothing.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Megu, how did your cell phone novel turn out?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"I gave up. I'm no good at writing. That's probably why my grades in Japanese are so bad, too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Writing something like that must be hard.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Do we really have to write it? Couldn't we express ourselves some other way?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Yeah, that would be great!\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"I guess it would.\""
+  },
+  {
+    "message": "The life of a worm..."
+  },
+  {
+    "message": "That lifestyle suddenly came to a close."
+  },
+  {
+    "message": "On that day, after the accident, my life as a worm ended."
+  },
+  {
+    "message": "Now everyone talks to me like normal, and we go out to karaoke or get fast food together sometimes."
+  },
+  {
+    "message": "They don't mind if I hang out with them."
+  },
+  {
+    "message": "But... maybe that's even scarier than the way it was before."
+  },
+  {
+    "message": "I always have to watch their expressions closely."
+  },
+  {
+    "message": "I always try to be cheerful around them."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Oh, you got a new phone, Megu.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Yeah, isn't it cute?\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"It has a really nice screen.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Didn't you just get a new one?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"What, you got a problem?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Not really... It's cute.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Isn't it? Look, Tachibana, I'll take a picture of you.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"A picture?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Smile for the camera.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sure...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"I said smile!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Smile, smile... L-Like this?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"That's great. You look really cute.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"That's right. Smile for the camera, Kimika.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "Akasaka-san was taking pictures, and behind her, Kitami-san was recording us with a video camera."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "What are they doing?"
+  },
+  {
+    "message": "But... I couldn't ask."
+  },
+  {
+    "message": "There's no way I could ask \"What's that?\"..."
+  },
+  {
+    "message": "If I asked, they would probably..."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Oh, that's great, Kimika-chan.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Why do you have a video camera?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Who cares about that?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Don't worry about it. Just smile.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "message": "Kimika looked toward me for an instant."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Now then... Why don't you lift up your skirt?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"M-My skirt?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Kimika-chan, what kind of panties are you wearing?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eh? Uh, normal ones...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"What's normal?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, uh...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Come on, why don't you lift up your skirt for a second?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eh? Um, r-right here?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Don't worry, don't worry. We're in the back. No one's looking this way.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "Even if we are in the back... The restaurant is full of people..."
+  },
+  {
+    "message": "What are they trying to do?"
+  },
+  {
+    "message": "It's the same feeling as when they used to bully me."
+  },
+  {
+    "message": "This is..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"U-Um, what is this...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Hey, Tachibana!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"How about...\""
+  },
+  {
+    "message": "Akasaka-san's mouth moved right next to Kimika's ear."
+  },
+  {
+    "message": "Then she whispered something to her."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Takashima, why don't you get a hamburger or something?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, okay...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You won't record my face, right?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Of course.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"I'm telling you, you're overthinking it. Right, Satoko?\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Eh, what?\""
+  },
+  {
+    "message": "Akasaka-san pointed the camera toward Kitami-san next."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Satoko, you look great.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Yay!\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Give them a little fan service.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Just a little. Oopsie!\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh, you have nice legs.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Now let me see the camera for a second.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Ooooh?\""
+  },
+  {
+    "message": "Kitami-san took the camera from Akasaka-san and jammed it up her skirt."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Ow, ow, ow, knock it off, ahahahaha.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"And those were Megu's panties.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Ahahahaha... It was probably too dark to see anything on camera.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Jeez, give it back already!\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Oh, fine...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Satoko, lift up your skirt a bit.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Eeh, like this?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh, that's great.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Come on, give us a little more.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"No waaay.\""
+  },
+  {
+    "message": "What are they doing?"
+  },
+  {
+    "message": "This is strange."
+  },
+  {
+    "message": "This is almost like..."
+  }
+]

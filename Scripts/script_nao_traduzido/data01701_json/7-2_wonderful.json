@@ -1,0 +1,2106 @@
+[
+  {
+    "message": "Live happily!"
+  },
+  {
+    "message": "Ludwig Josef Johann Wittgenstein   July 8, 1916"
+  },
+  {
+    "message": "The end of summer."
+  },
+  {
+    "message": "Even at the end of summer, the sun shone high in the sky."
+  },
+  {
+    "message": "Cumulonimbi gathered strength far off in the distance."
+  },
+  {
+    "message": "It'd been a while since I came out to Hasaki's apartment."
+  },
+  {
+    "message": "The Sanami woman."
+  },
+  {
+    "message": "That's what they always called my mother in the village."
+  },
+  {
+    "message": "Her expression only barely changed when she saw me."
+  },
+  {
+    "name": "Kotomi",
+    "message": "\"T-Takuji?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "message": "I shook my head."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm Tomosane. Mamiya Tomosane.\""
+  },
+  {
+    "name": "Kotomi",
+    "message": "\"Tomo...sane...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. Tomosane, the child you had with Hiroo. Takuji is dead.\""
+  },
+  {
+    "name": "Kotomi",
+    "message": "\"Takuji is... dead...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. Don't you remember?\""
+  },
+  {
+    "name": "Kotomi",
+    "message": "\"Takuji is... dead...\""
+  },
+  {
+    "message": "She mumbled those words with an empty heart. Then she just turned back to the wall and stared, unmoving."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Nothing has changed...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's not true at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, she started getting better after July 20th last year. It's a miracle that she can even hold a basic conversation like that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But this is the most dangerous time for her. I have to keep a close eye on her.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The most dangerous time?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"When she's just talking to the wall, I don't have to worry about her committing suicide, but when she has enough willpower to talk to people, then she might also have enough willpower to do something.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She has willpower... In other words, you think there's the possibility of her committing suicide?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's right. I have to take her to the Mamiya house and watch over her.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Hm? What?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You know, I... I hate this woman so much I could kill her. The blame for this entire tragedy lies on her shoulders.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah. You might be right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You should hate her even more than I do, so why are you taking care of her?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Because she's my mother.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Even if that's what you believe, she threw you away.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You just didn't know her, Tomo Nii-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I didn't know her?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She... didn't love Dad, and that's why she committed that taboo and gave birth to us, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "message": "Those words silenced me."
+  },
+  {
+    "message": "I didn't understand what train of thought could lead her to that conclusion."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You know, Hasaki, you don't need to make excuses for her.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, it's the truth. It's not a question of perspective. It's the truth.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The truth?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She loved Dad, and she loved Takuji Nii-san, you, and even me. She really loved us.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's ridiculous. That's not true!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Dad died very young, didn't he? He knew that he didn't have very much time left.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"He knew?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah. He had a really bad, chronic condition. Especially after you went back to the village, he constantly needed dialysis or else he was at risk of dying.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But he had cancer.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, he did. He knew that either way, he wouldn't live for much longer.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You probably didn't know, but I heard from the doctor at the hospital after he died.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If not for his chronic condition, they could've healed his cancer without a problem.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"They could've?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Mom wanted to save him because he was the only person who protected her when she was persecuted by everyone else in the village.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She just wanted to save Dad...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's why she started experimenting with new religions. She was tricked by that new cult's pastor.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The White Lotus Association...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, and Mom was a beautiful woman. More importantly, she was the successor to the bloodline of the Sanagi shrine maidens.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"In the religious industry, the traditional shrine maiden bloodline simply has market value.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Market value?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, the pastor and the isolated woman... He wanted to have a child with the shrine maiden who had inherited her powers from ancient times.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"He didn't even know for sure if the Sanami family had real powers, but he wanted people to believe that they did.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"And as for the rest of the organization, don't you think they would support this child as the next pastor too?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just because of her family name?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yes. She only did it because she thought that Dad would be saved if she gave birth to the savior.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's not all. She thought that the pastor could help her make peace with the village people who persecuted her as well.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Th-That's ridiculous...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's true. She was desperate because she wanted to save Dad, and she regretted that he couldn't go back to the village because he eloped with her. She was trying to make peace with them.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's... That's too stupid...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She was a fool. In truth, she was naive. So naive that she slept with a man she didn't like and bore his child.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"All to birth a savior who would save the world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But for better or worse, she gave birth to twins.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What I think is the pastor had grown tired of her, since he was only using her for her body.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"He had plenty of other women anyway. So when Mom gave birth to twins, he made up an excuse to get rid of her by saying that Takuji Nii-san had lost his qualification to be the savior.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She was thrown away just because he got tired of using her.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But she still tried to raise Takuji Nii-san as the savior. She believed that it was still possible.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's true that Mom and Takuji Nii-san were cold to me, but it was even harder on Mom. She was trying to accomplish something that no human could ever accomplish.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's why... the day that Dad died, Mom was completely broken by the shock.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She gave birth to a child that would be the savior just so she could save Dad... but her plan was fruitless, and he died anyway.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then why did she try to hurt you?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She seriously believed that Takuji Nii-san could cross the border between life and death if he awakened to his powers as the savior.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She believed that if she could just kill me and restore the powers that Takuji Nii-san originally had, then he would be able to bring me back to life afterward, and his father as well.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If I died and Takuji Nii-san's powers came back, Dad and I would both be able to come back to life.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's totally absurd.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah... It's absurd.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But, you know, I can understand it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You heard she was bullied in that village, right?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I wasn't bullied like that, but it really felt like I didn't even exist, both at home and at school. It's not like I can't understand how she must've felt.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I always thought I was just an unnecessary person. I was just someone who didn't matter much either way. I wonder if that's what she thought to herself too.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"And then for the first time in your life, someone in this world discovers that you exist.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You would do absolutely anything for that person.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If you've always felt like you weren't needed, then if there was anything in the world you could do for the one person who finally loved you, you would do it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Because that's how I feel, too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I would do anything to save you, Tomo Nii-san.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I would die if it meant that you could live. If I had to sacrifice my body in order to protect you, then I would do it without hesitation.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Maybe that's because I got that from her. We really are mother and daughter.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But my heart is weak, so if there wasn't anyone who needed my sullied body anymore, then I would just die, right then and there.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But Mom wanted to save him with all her heart. That was the only reason why she betrayed him.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Hahahaha... Mom really was a fool.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki...\""
+  },
+  {
+    "message": "I was at a loss for words."
+  },
+  {
+    "message": "Until this very moment, I'd lived my entire life hating my mother."
+  },
+  {
+    "message": "Now I didn't have it in me to truly hate this woman."
+  },
+  {
+    "message": "She was just a fool, and her foolish attempts to find happiness caused all this."
+  },
+  {
+    "message": "Even then, I just think she was..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She was so stupid. She really was a fool.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, and so was her daughter, me...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "Even the person I had pinned as the first cause in this entire tragedy... It's not that easy to just say that she was the root of all evil."
+  },
+  {
+    "message": "Of course, she wasn't without sin either."
+  },
+  {
+    "message": "Her sin was that she was ignorant, incompetent, and overly confident."
+  },
+  {
+    "message": "She was a fool, but she tried as hard as she could despite being a fool, and this was the result."
+  },
+  {
+    "message": "But I wonder if I can blame her alone."
+  },
+  {
+    "message": "I wonder if my father's choice was right."
+  },
+  {
+    "message": "I wonder if he made the wrong choice."
+  },
+  {
+    "message": "What about Hasaki's choice?"
+  },
+  {
+    "message": "What about mine?"
+  },
+  {
+    "message": "Or Takuji's decision, which led to his death."
+  },
+  {
+    "message": "And then Yuki-nee's decision..."
+  },
+  {
+    "message": "I wonder if their decisions were right. How much faith did they have in their own decisions?"
+  },
+  {
+    "message": "Each one believed their decision was the right one, and this was the result."
+  },
+  {
+    "message": "People like to attach a single cause to the problems they face."
+  },
+  {
+    "message": "But the cause of a tragedy like this can't be traced back to one decision."
+  },
+  {
+    "message": "The combination of several correct individual choices can even cause terrible tragedy."
+  },
+  {
+    "message": "In that sense..."
+  },
+  {
+    "message": "It must be true that the road to hell is paved with good intentions."
+  },
+  {
+    "message": "Man is blissfully unaware as he walks along that road to hell."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What's wrong, Tomo Nii-san?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Oh, nothing. It's nothing.\""
+  },
+  {
+    "message": "My mother just looked at the wall, same as ever."
+  },
+  {
+    "message": "What did she see there?"
+  },
+  {
+    "message": "For a moment, I lost sight of the fundamental difference between her actions and the actions carried out by all the rest of humanity over the course of their lives."
+  },
+  {
+    "message": "I quoted the words of a philosopher."
+  },
+  {
+    "message": "The words of the world's most difficult philosopher."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The subject does not belong to the world but it is a limit of the world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Therefore, no value exists in the world.\""
+  },
+  {
+    "message": "No value exists in the world."
+  },
+  {
+    "message": "Not money,\n"
+  },
+  {
+    "message": "or fame,\n"
+  },
+  {
+    "message": "or women,\n"
+  },
+  {
+    "message": "or dreams."
+  },
+  {
+    "message": " Not human rights,\n"
+  },
+  {
+    "message": "or democracy,\n"
+  },
+  {
+    "message": "or missiles,\n"
+  },
+  {
+    "message": "or government.\n"
+  },
+  {
+    "message": "Or religion,\n"
+  },
+  {
+    "message": "or god,\n"
+  },
+  {
+    "message": "or faith,\n"
+  },
+  {
+    "message": "or thought."
+  },
+  {
+    "message": "Not philosophy,\n"
+  },
+  {
+    "message": "or science,"
+  },
+  {
+    "message": "or family,\n"
+  },
+  {
+    "message": "or love."
+  },
+  {
+    "message": "And of course, every story ever told is just another part of the world."
+  },
+  {
+    "message": "All of them are neither outside the world nor the world's limits."
+  },
+  {
+    "message": "The world...\n&"
+  },
+  {
+    "message": "To put it in words, it's a container."
+  },
+  {
+    "message": "The world can't be anything other than a container."
+  },
+  {
+    "message": "A container can't be filled with other containers."
+  },
+  {
+    "message": "All the different materials which make up the world are incapable of filling us."
+  },
+  {
+    "message": "That's why I say this."
+  },
+  {
+    "message": "No one can tell you what you should fill that container with."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What was that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? I was just talking to myself. Forget it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Grr.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You and Yuki-san are always saying things that are hard to understand, like you figured something out. It's not fair.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What do you mean, it's not fair? Besides, it's not a big deal.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But it sounded like it was really hard to understand.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hard to understand? It wasn't anything important.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's something that everyone knows. The old man down the street, the cashier at the dollar store, and even the bearded taxi driver.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"They all understand what you just said?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Wh-Why is that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Live happily!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's all.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Jeez, I don't get it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't overthink it. The most important thing to remember is that it's a command.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"A command?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yes. Those who consider themselves unfortunate spend most of their time complaining. No matter how unfortunate you believe your life to be, you must live happily!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Whoa!\""
+  },
+  {
+    "message": "I grabbed Hasaki's head in a vice grip."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's how you're already living, so don't worry about it.\""
+  },
+  {
+    "message": "I ruminated on the words of a genius, the world's most difficult philosopher."
+  },
+  {
+    "message": "Even though it's such an easy answer, which everyone already knows, arriving at that answer was difficult beyond measure."
+  },
+  {
+    "message": "The reason why is because God lives in these words."
+  },
+  {
+    "message": "\"To believe in a God means to understand the question about the meaning of life.\""
+  },
+  {
+    "message": "\"To believe in a God means to see that the facts of the world are not the end of the matter.\""
+  },
+  {
+    "message": "\"To believe in a God means to see that life has a meaning.\""
+  },
+  {
+    "message": "That God doesn't need to work miracles."
+  },
+  {
+    "message": "He didn't create the world in one week."
+  },
+  {
+    "message": "He fundamentally does nothing."
+  },
+  {
+    "message": "Even then, he irresponsibly tells us..."
+  },
+  {
+    "message": "He whispers in our ears that we must \"live happily.\""
+  },
+  {
+    "message": "All he did was establish the workings of the universe, and he didn't do it for anyone's sake in particular."
+  },
+  {
+    "message": "That's the truth of the person we call God."
+  },
+  {
+    "message": "All the world's lies, injustices, fakes, lechers, and filth... All of those are permitted by God."
+  },
+  {
+    "message": "No matter what injustices befall us in life, God still says to us."
+  },
+  {
+    "message": "\"Live happily!\""
+  },
+  {
+    "message": "On a whim, I decided to say something to my mother."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Live happily. That's what God has told us.\""
+  },
+  {
+    "name": "Kotomi",
+    "message": "\"...\""
+  },
+  {
+    "message": "She looked at me with dead eyes."
+  },
+  {
+    "message": "So I said to her..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Everything has been saved. Hasaki and me were saved, and so were you, Takuji, and Dad, too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't drown in your sorrow. That sorrow is nothing more than a liquor to get you drunk on happiness.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You shouldn't use alcohol to fill the void inside you, though.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What container is worth filling?\""
+  },
+  {
+    "message": "I posed that question to my mother."
+  },
+  {
+    "message": "I was just talking to myself."
+  },
+  {
+    "message": "I left the apartment."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm going to the store.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, sure. I'm gonna go home and take a nap.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What are you talking about? You have a shift to work tonight.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Do I?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You do!"
+  },
+  {
+    "message": " And you can't skip out on work today.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, I gotcha.\""
+  },
+  {
+    "message": "Hasaki and I parted ways after that."
+  },
+  {
+    "message": "Hasaki went straight to the train station, but I decided to walk."
+  },
+  {
+    "message": "I walked through the unfamiliar city and came to the river."
+  },
+  {
+    "message": "If you follow this road, you'll come to a place near Suginomiya."
+  },
+  {
+    "message": "I walked alone down the river terrace."
+  },
+  {
+    "message": "\"Hey, Unidentified Minor #1! It's been a while!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "message": "I met another person I didn't really want to see."
+  },
+  {
+    "message": "Or in his case, the probability is higher that I was tailed by a person I didn't really want to see."
+  },
+  {
+    "message": "\"So the trial is over... Congratulations.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Even if you were found not guilty, is it really safe for you to be out walking alone?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Your face and name got posted all over the Internet. There were a lot of people who weren't happy with that ruling.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Seems like it, huh?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, for sure. Is it okay for you to be taking a leisurely walk outside?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's been more than a year since that incident. Nothing has happened so far, so it should be fine, right?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No, no, don't you think you could get in trouble?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How? I haven't had any trouble. I'm just living my life like normal.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Really? Isn't it scary that a bunch of people you don't know are talking about you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not afraid of what other people think. They're not people I know.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, look at you. You really are strong.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't care if they're not happy about the ruling. If they want to do something, then they should confront me directly.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Directly? You know that there's no one who can fight you and hope to win."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A few people tried, though.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"They did?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"They were gangsters or thugs, I think. I'm not sure, but they thought they were tough. They came after me a few times.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ahaha... I see. How did that go?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Nothing really happened. They weren't any different from the guys I ran into around here. None of them were on the same level as Yuki or Master.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It seems like a lot of lowlifes do that nowadays. Some of them even post on social media that they're looking for someone to fight.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Your picture and address might've been posted on those sites, you know?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't really care.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Jeez, you're always so cool-headed. You could at least humor me and look a little upset.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you still investigating?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"If I called it an investigation... it would be a lie.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"You're not valuable enough for a weekly magazine to keep chasing now.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then why are you here?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Just personal interest. Is that good enough?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hmph. Do you think I'm going to play along?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Who knows?\""
+  },
+  {
+    "message": "Kimura slowly followed after me when I walked away."
+  },
+  {
+    "message": "I had no reason to run away either, so we kept walking, looking as if we were going somewhere together."
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What was the deal with that whole incident, anyway?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Why did it turn into such a ridiculous situation?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's your job to figure that out.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, it's my job.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But didn't you already finish that job?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, but my hobby is just an extension of my job, so I don't really mind.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How convenient.\""
+  },
+  {
+    "message": "I wanted to point out all the flaws in his logic, but..."
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I was thinking... I wonder why so many people played along with his absurd tragedy.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Normally, no one would play along with that kind of absurd farce.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"How did he even know the world was ending? And why would someone want to kill themselves before it ends? I don't understand it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"He didn't want anyone to kill themselves. From his perspective, they were all just returning to the sky.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Now that you mention it, there were a lot of people who took part in that group suicide even though they weren't students at Kita High.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Even those who weren't alumni at the school―people who were completely unrelated―were involved.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Group hysteria... That's what they called it in the newspapers and magazines.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But then why did so many unrelated people end up dying?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That kind of hysteria only occurs in group settings. People from all over, even completely unrelated people, gathered in that place.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't know much about this, but aren't they saying that all that crazy stuff happened because the whole group was suffering from hysteria?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I guess that's what they've been saying, but that doesn't really explain anything, does it?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"None of those unrelated people were registered on the underground message board either.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I don't know how they all heard about it, but it seems like they all came for different reasons.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Apparently some people just heard rumors that they could have sex there.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, of course, but isn't it ridiculous that they would die just to have sex?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I guess so.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But after I spent so much time reading the forums, I'm not really surprised that people would do that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"They would die just to have sex?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I guess they would. It seems ridiculous to me.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It actually seems like a pretty common scene in this world... That's what I think.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A pretty common scene?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, it can even seem perfectly natural for this kind of incident to happen. Sometimes I fall prey to that illusion.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, I don't think it can be natural.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Of course, it doesn't actually happen that easily, but sometimes it really does happen.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Sometimes?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Every time we hear rumors about missile attacks from neighboring countries, a new strain of a virus that could wipe out humanity, or a prophecy about some great disaster that is going to strike us.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It happens every time.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What does?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"They say, 'Here it is at last.'\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Here it is at last?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"A young man once said that war is the only solution, and he became famous overnight.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"If a war starts, then it will at least change the situation we're stuck in. So sometimes we need to wage war.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"In a sense, that's a logical way of thinking.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But that's not all it is.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Every time someone predicts a great disaster, you hear these words.\""
+  },
+  {
+    "message": "Now I can finally die.\n\n\n\n\n\n\n"
+  },
+  {
+    "message": "Now it's finally over.\n\n\n\n\n"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hmm... If you want to die, then you should just go and die already.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No, I totally agree. They should.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"If they want to die, then they should. Why do they have to wait for some disaster to kill them?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's right...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But you know, every time one of these disasters is predicted, you see people online saying that they can finally die.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Even if it's not quite the end of the world, all they need is a large-scale disaster.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"With that, they can say that it's finally over.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Why do they look for a reason to end it?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A reason...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yes... A reason to die.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see. So then what are you trying to say, as a journalist?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you trying to say that our repressive society caused this incident?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, that's a good one. Our repressive society... The feeling of repression spreading among our youth is the real cause of this incident! That would be a good headline.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hahahaha, you have talent, Tomosane-kun. Why don't you become a writer? You wouldn't make it as a journalist, but we still have plenty of room for extra writers.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... What did you really come here for?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hahahaha... Our repressive society, huh?"
+  },
+  {
+    "message": " This country has definitely been dominated by that kind of atmosphere for a while now.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"This city, you know...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Once upon a time, people called this place a new town.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That was before I was born. It was a long time ago that this city was new.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It was new before we ever knew it.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"All sorts of things were new before we were ever born.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"A world of only new things...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Everything was new, and everything in the world was complete.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... Can I say something?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't you think there were a lot of people who felt like they were being repressed, even in the distant past?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's not just the modern generation. There have always been those people.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, then how about this?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"How vast is the earth? How far is the past? I face a great foe, and hope I will last.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Learnt of Horatio, but truly all for naught.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The world's lies, all told...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The truth which I sought.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Fire burns in my chest. I seek my final rest.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No hell for fearing, nor lord for saving. Now I see with hope, hopelessness melding.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is that Fujimura Misao?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, I thought you would recognize it. That was a poem called 'To Stand Upon a Great Precipice.'\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't really understand, but that was the suicide note left by a high school student who committed suicide at the Kegon waterfall in the Meiji era, am I right?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, yeah.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I heard there were a lot of copycat suicides afterward, too.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's true, there were. People always feel like they're being repressed by society, no matter what era it is.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"As if their human life has no value in this universe, in this world...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Not only in this era.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Then... what do you think?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It's not something that only happens in the modern era. This wasn't the only time...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But the only era we can live in is this one.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"We aren't living in the same era as Fujimura Misao, Natsume Souseki, or Ozaki Housai.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The suffering we experience is our own, present suffering.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Not the suffering of someone from a distant past.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The pain we feel right now will never belong to anyone else. That's why it's precious.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you okay, Kimura-san? Did Mamiya Takuji decide to possess you next?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No, no, hahahaha... No, I just got a bit worked up.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see. The pain we feel right now will never belong to anyone else, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well... Honestly, I think that's a pretty boring argument.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"For instance, you say 'our' pain, when really it's just one person's pain. Your pronoun usage is all over the place.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh wow, I guess you're right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But I understand that feeling.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The feeling when you want to say, 'This is my pain, not anyone else's.'\""
+  },
+  {
+    "message": "Kimura and I kept walking on and on along the river embankment."
+  },
+  {
+    "message": "On and on..."
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What I'm trying to get at is... what is our raison d'etre?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Raison d'etre?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I mean to ask what our life is worth.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The meaning of life...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, everyone gets a bit existential when they're teenagers. It's an unsolvable problem that everyone thinks about, and everyone believes a certain way about, but no one can answer for sure.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Maybe that's why the question has such an allure.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Do you think so?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Don't you?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, it certainly depends on the person, too. Some people worry about it more than others.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But everyone who's ever felt powerless has worried about the meaning of their life, right?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Is there ultimately a meaning to my life, or yours, or anyone else's? To any human life? Is there some meaning behind our existence? Everyone wonders that sometimes.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's the question you have to wrestle with all your life, no matter how rich or poor you are."
+  },
+  {
+    "message": " Well, it's still better to have money, though.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"People always feel a certain anxiety toward their own raison d'etre. That question of why we exist.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"D'ou venons-nous? Que Sommes-nous? Ou allons-nous?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Where do we come from? What are we? Where are we going?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's right. That was the final painting by the French artist Paul Gauguin. He gave it that name right before he committed suicide.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It was technically just a suicide attempt, though.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hahahaha, that's right.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The moon which is a dream, and the sixpence which is reality... Where did we come from, and where we going?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Isn't it all just from the cradle to the grave?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hahahaha, what's that? You mean to say that the object of human effort should always be on improving our lives in this world?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's what a human life is, isn't it?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It might be...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That might be all there is in our lives.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Especially for us, who were born into a world where everything has already been set up and manufactured for us. Isn't it kind of cruel?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hehehe... Now we're criticizing modern society?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ahahaha, I guess so. I suppose that's what it sounds like, ahaha.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "message": "How long had we been walking?"
+  },
+  {
+    "message": "The water flowing in the river now reflected a sheen of golden light."
+  },
+  {
+    "message": "Our two shadows, standing side by side, had also grown longer and darker."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is there any meaning to the pieces of a jigsaw puzzle?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? What do you mean?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Every individual piece of a jigsaw puzzle has no meaning whatsoever.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Each one is completely meaningless in its existence.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"From the way you're talking, a human being is an existence no better than a single piece of a jigsaw puzzle.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No better than a single piece of a jigsaw puzzle...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yes. Without a place to fit. For instance, if a person has no place they belong, then that one piece has no meaning.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"One piece of a jigsaw puzzle. One misshapen fragment.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Without a place where it fits, it's just an ugly, meaningless existence.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But is a human life really equal to a single puzzle piece?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are we really puzzle pieces?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A piece of a puzzle has a place where it fits because of its outside edge.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Because of its outside edge?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah. It fits right into a place in the puzzle because of its exterior.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Its exterior...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yes, its exterior.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Take that argument to its logical end. Where is the outside edge on my world, or the outside edge on your world?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The outside edge of my world...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. Where is the world which your world is supposed to fit into?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The place where my world fits perfectly like a piece of a jigsaw puzzle... Does such a larger world even exist?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What I think is...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"We have no exterior.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Our world has no exterior.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This world, including you, this river, the sun, and even the bloodshot sky overhead.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There is no exterior or anything.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's all just the world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's all just my world.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Is that solipsism?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The world is only in your head. Your own existence is the world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Who knows? I'm not sure, myself.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't really feel like I'm alone in the world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're right in front of my eyes, so you definitely exist. I would even go so far as to say that Minakami Yuki and the Wakatsuki sisters existed as well, even if they didn't exist to you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But still, even then, my world ends at the limit of my world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't know anything beyond the limit of my own world. I have no way of knowing anything else.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's why I'm only me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's a bit strange for me to say this after sharing my body with multiple people. No, especially because of that, I can say that I'm no one except myself.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not this arm, this leg, this heart, this body, or even this brain.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course, I'm not the road, the river, or the sky either.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And my world is the world. There is no exterior to that world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So I don't need a meaning.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"My world needs no addendum.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The world is not a piece of a jigsaw puzzle.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just look at how wide our world is. It extends out into the infinite vastness of space and time.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Space and time?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How wide is our brain?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The brain is wider than the sky.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"For, put them side by side, the one the other will include...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"With ease, and you beside.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The brain is deeper than the sea.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"For, hold them, blue to blue...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The one the other will absorb...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"As sponges, buckets do.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The brain is just the weight of God.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"For, lift them, pound for pound...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And they will differ, if they do...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"As syllable from sound.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You know?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What was that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That was Emily Dickinson.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, Dickinson, the American poet. It's impressive that you know her at your age.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There's no need to look for a meaning in life.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There's no need to hesitate in the face of an incomprehensible existence.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There's no need to hesitate in the face of the incomprehensibility of this world, this universe, this sky, this river, or this road.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's all so vast that it can absorb everything which is a human life.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's just the size of God.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's just the weight of God.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's a beautiful syllable and a beautiful sound.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"...\""
+  },
+  {
+    "message": "Kimura laughed."
+  },
+  {
+    "message": "His face kind of got on my nerves."
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ooh, you're pretty good too. You really know how to talk.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wha―\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hehehehe... What's wrong? You always act so tough, like no one could ever get under your skin.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I-I'm not trying to act tough or anything...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Come on, it's nothing to get embarrassed about.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Sh-Shut up!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"All right, but that was really funny.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"We have no exterior...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I see...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It's true. Even if we had an exterior, it would just be another part of the world we know.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Maybe, at some point, we started looking for some kind of exterior. We started trying to see some kind of scene which we can never see.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A scene that doesn't exist...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The far shore. A better place. An exterior world. The world of the gods. That's what it is, no matter what you call it.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"So people fall into despair.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"They despair of the meaning in their lives, the meaning in their worlds, the meaning in their selves.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Despair might be a word which describes people who are trying to see a scene which can never be seen.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Trying to see a scene which can never be seen...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Of course! When we try to speak of a scene which can never be seen, our words trip on themselves, standing meaningless in space and explaining nothing.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"If you think of it that way, looking at the scene which can never be seen and feeling the emotion of despair, it's like unrequited love.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? Despair is unrequited love? What are you talking about?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Why do people try to see the exterior which can never exist?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Because they wish that it could exist!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"People look to the outside because they hope for it to exist. There might be no one out there, no one and nothing. They look to the outside because they're not even sure if that outside exists.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Why is that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... Because of that longing?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's right. Despair is longing.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"And that longing is actually very similar to unrequited love.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't agree at all.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Really? I think you agree, more than you know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Despair is longing, and that longing is like an unrequited love...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's like hearing some desperate virgin who lashes out at people because of his insecurities.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hmmm?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huuuh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What are you laughing at?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yuuki-kun, weren't you a virgin?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wha―Th-That's not...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hehehehe... You know, I might look dim, but I've investigated your past very thoroughly.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"There were an awful lot of bad rumors about you, but in reality you don't have any experience with women.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What have you been investigating?!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? That's my job, you know!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Th-Then maybe I am a virgin...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hehehehe... You guys can't legally get married, either.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wha―!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"There are ethical problems there, too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"K-Kimura! Have you been going behind my back?!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hahahaha, but the law has nothing to do with real love. People will fall in love no matter what the punishment.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Romeo and Juliet!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, that's not actually a story about incest...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh? So it really is your sister?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ooh, I better get going!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Kimura, you asshole! Get back here!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No thanks. I'd like to keep all my bones intact, if you don't mind.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Make sure you wear a rubber, kid. Not like I really care, though.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Kimura!\""
+  },
+  {
+    "message": "Kimura ran and jumped down off the embankment."
+  },
+  {
+    "message": "Then he disappeared into the city."
+  },
+  {
+    "message": "Dusk enveloped the city."
+  },
+  {
+    "message": "The sky slowly turned a darker shade of red, and the buildings' shadows grew longer by the moment."
+  },
+  {
+    "message": "When the world sank into darkness, the lights came on in the city."
+  },
+  {
+    "message": "The lights of human activity buzzed into life."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Better get going. I have work tonight.\""
+  },
+  {
+    "message": "I had a shift to work tonight."
+  },
+  {
+    "message": "I play the piano at that same bar."
+  },
+  {
+    "message": "I play the piano however I feel like, and occasionally I even take requests from the customers. But mostly, I just play."
+  }
+]

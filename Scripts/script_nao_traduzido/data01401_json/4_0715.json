@@ -1,0 +1,2201 @@
+[
+  {
+    "message": "Utter defeat."
+  },
+  {
+    "message": "Once I understood that, the conclusion was simple."
+  },
+  {
+    "message": "My existence was no longer necessary."
+  },
+  {
+    "message": "The personality created to erase Mamiya Takuji was instead defeated by him."
+  },
+  {
+    "message": "More than anyone else on this planet, I was worthless and unnecessary."
+  },
+  {
+    "message": "\"So now what? Are you just gonna disappear?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Who's that?\""
+  },
+  {
+    "message": "\"You don't recognize me?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. Why the long face, pardner?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Long face? Does that mean you can see me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course I can.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I thought I would never see you again.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Never again, huh? You said that before, too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Before? Did I say that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, quite a while back. Don't worry about it.\""
+  },
+  {
+    "message": "The warmth of her skin..."
+  },
+  {
+    "message": "The scent of her body..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, right. I have a certain feeling to me, don't I?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then try lifting your consciousness to the surface.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Lifting my consciousness?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right now, Mamiya is sound asleep. It shouldn't be all that hard.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Mamiya is sound asleep...\""
+  },
+  {
+    "message": "I was buffeted by the wind."
+  },
+  {
+    "message": "I'd never felt such a cool wind at this time of year."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Where are we?\""
+  },
+  {
+    "message": "The trees rustled in the wind. A creek babbled in the distance."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's a bit chilly. Is it autumn already?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, I just thought maybe I was out for a long time. Like a few months or so.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you were gone for that long, you would never come back.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then why is it so chilly?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And besides... is that water I hear? It sounds like there's a stream nearby.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Open your eyes.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"My eyes?\""
+  },
+  {
+    "message": "Oh, my eyes weren't open. That's why it was so dark."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Can you see?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"My eyes won't open.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, really? Well, don't worry about it. Can you hear the sounds? Can you feel the wind?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, I can, but...\""
+  },
+  {
+    "message": "I had forgotten how to open my eyes. I couldn't pry them open."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahahaha... Apparently, some people forget how to breathe, you know? Like when they're sleeping and stuff. But don't worry, you just need to calm yourself.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Calm yourself... and open your eyes. You can still see, I promise.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Calm...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What's... going on?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm carrying you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I can see that, but why are you carrying me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You got the crap beaten out of you, remember?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But that doesn't mean my body was actually injured. If it was, Mamiya Takuji would've been injured too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So I'm fine. Now let me down.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Really? I thought you couldn't move at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "When I tried to get down, I could hardly move my body at all."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What's going on?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I told you, he beat the crap out of you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But that was just in my head...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about? Those wounds aren't the only thing in your head. You and I only exist in your head too, you know?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not what I mean.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's no such thing as a fake wound. Pain is still pain. There's no faking that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, I guess it does happen sometimes. Like if you go to the doctor, maybe he tells you there's no way that part of your body actually hurts, but then I'd probably just call the doctor stupid.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's no such thing as illusory pain. If it hurts, it's pain. Those wounds you received weren't fake, either.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't get philosophical on me now.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, if I'm being perfectly serious, I just forcibly pulled you up from your unconscious state. That's why you can't move right now.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What do you mean? You can forcibly bring my consciousness to the forefront?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, there are a few risks involved.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Risks?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, don't worry about it. We're here.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Here?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Where are we?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The dojo, specifically the back door. We used to train here, remember?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, I don't. Besides, where is this, really?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The Mamiya dojo. Isn't it nostalgic?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Mamiya's dojo? You mean our father's martial arts dojo out in the countryside?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, that's the one.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Sure it's nostalgic or whatever, but more importantly... Why are we here? I mean, shouldn't it take like...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hours and hours to get here from Tokyo?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, it's not the kind of place you can just come to on a whim. Why are we here all of a sudden?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I know what you mean. Why do you think?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"We traveled here while I was unconscious? How long was I out this time?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How long do you think?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not really sure, but it doesn't feel like it was that long.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, really... How long do you think, then?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A night... or maybe a little longer. I'd say about a whole day. That's about how long it feels like.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And yet you're shocked to find that you've been transported to a far away place.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, that about sums it up... So what's going on?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't know, what do you think is going on?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, right, how's your body feel? Can you move yet?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"My body? Oh, you're right.\""
+  },
+  {
+    "message": "Before, I could hardly move my body at all, but now I could move it normally."
+  },
+  {
+    "message": "It was like I had forgotten how to move my limbs... or maybe, like my entire body was weighted down with lead. That kind of feeling."
+  },
+  {
+    "message": "That feeling was like..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like what? What's it like?\""
+  },
+  {
+    "message": "That's right. This particular feeling of unreality..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"In just a day or two... I don't know exactly how much time has passed, but it doesn't seem like I could actually be standing here, so maybe...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A dream... Is this a dream?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hehehe... Bingo. You're smarter than you look.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This weird feeling in my body is just like a dream, but...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Is something wrong?\""
+  },
+  {
+    "message": "What's different?"
+  },
+  {
+    "message": "I can't quite put my finger on it..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's like my consciousness is too clear for this to be a dream... It's like I'm really awake. And besides, I've never been aware that I was dreaming while the dream was still going on before.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I know what you mean. Dreams should be a bit silly, right? Your thoughts and everything you see would be a bit off-kilter. Well, would you believe it was a dream if I was naked right now?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're welcome to try it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"As if!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What's your deal? You're the one who was flashing me your panties a few days ago.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's a big difference between panties and actual nudity. Panties are just cloth, you know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Who cares about that?! Anyway, are we in, uh...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A lucid dream?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, good job. I knew you would figure it out.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, I really don't know much about them. I've just heard other people talk about them.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Do you want me to explain?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"For future reference, I suppose...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sure. It's important that you know what's really going on. At least if you feel up to it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Up to what?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, don't worry about it. Anyway, lucid dreams are, uh... Well, to put it simply, it's a dream that you can control, one that you're completely aware of.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The frontal lobe and hippocampus in your brain... Uh, just think of them as the parts that control thought, consciousness, and long-term memory.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When you're awake, those parts process the information you see and hear. And when you're dreaming, you can partially wake up your frontal lobe and then it can control your dreams in cooperation with your hippocampus.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Partially wake up my frontal lobe? I think I understand the idea, but is that really possible?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I guess it's possible if you practice enough.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Practice? Does that mean this is a world created through practice?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I guess so.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Coincidental fruits of our labor, I guess?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, there's a trick to it. Most people get really confused when their frontal lobe wakes up during a dream.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Confusion, huh? I think I understand. When you say partially wake up, it makes me think of sleep paralysis.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, when people become aware of their dreams, they usually feel like they're trapped and can't move their bodies.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The difference between their real body and their dream body... That incongruence makes your hippocampus remember that you're sleeping.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So even though you're not awake, your brain creates a situation where you believe you're awake?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then your heart rate rises, your breathing speeds up, and finally you wake up.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So that feeling from before where I couldn't move my body was because I was in a state of half-consciousness?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, because even in the dream you were still trying to move your real body.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But I didn't wake up. Was that because of your power?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who knows?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I can't freely control my dreams. I can't imagine it wasn't your power. Didn't you say you practiced it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, there are a lot of techniques for becoming aware of your dreams. The people on the Malay Peninsula have been developing their own technique for lucid dreaming for millennia.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The technique for surviving erasure at Mamiya Takuji's hands... Even while your consciousness is locked away, you need to ensure a minimal level of conscious activity.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Which means this power... Lucid dreaming would be the most useful skill for you to acquire.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You could say that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That must mean this is your dream.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well... is it not?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isn't it a bit hasty to say it's definitely my dream?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? Why? What's hasty about that? Didn't you practice to acquire this skill?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, but still, wouldn't that be a bit weird?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What would?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"For instance, if Hasaki-chan was here, would that be the real Hasaki-chan?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? Of course not. Besides, Hasaki couldn't come here.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But it wouldn't be that weird if Hasaki-chan appeared in one of your dreams, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But that would just be part of the dream. The real Hasaki could never appear in my dream.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then if this is my dream, that would make you just a part of my dream. Are you an illusion that my brain is creating?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, wait, I'm not an illusion.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then maybe it's the reverse, and I'm the one that's an illusion.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, wait... I'm not capable of controlling my dreams like this.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Besides, what you're saying doesn't apply to us, since we share the same body.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Really? Is it that simple?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"For example, let's say this isn't dissociative identity disorder, or what most people call multiple personality disorder. Suppose we didn't have that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? What do you mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Just listen for a second. For instance, what if there was only one body between us.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But in that one body, let's suppose that three souls had actually taken up residence. Each one of those souls could dream.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And when one soul dreams, most of the people in that dream would be people who don't share the same body. Let's say those people were just fabrications of a dreaming mind.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And let's assume that the only people in the dream who weren't just fabrications were two of the souls sharing the same body.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isn't that a bit weird?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Uh... That was sort of complicated, so I'm not really sure. First of all, there's no such thing as a soul. We're just the symptoms of an illness.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, I see. So there's no such thing as a soul, huh? Okay, let's start from that assumption, then.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you know, there's still the possibility that this dream isn't mine or yours, and neither of us truly exists.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you trying to say?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, it's just, if you say that this world is someone's dream, then reality could be someone's dream too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not true. You can wake up from a dream. If you don't wake up, then it's reality.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So an endless dream is reality, and you assume that you'll eventually wake up from this dream. Okay, if you say so.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So then... why are we here?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why not? You don't like the Mamiya dojo?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It doesn't matter to me, but it's not like you or I have ever actually seen the dojo, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You think so? I suppose we didn't develop multiple personalities until quite a while after Mamiya Takuji was in Sawaimura.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So why did you pick a place only Mamiya Takuji knows?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm... I guess you don't even recognize this place in your dreams, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course not. I didn't exist until just two years ago, and it's been more than ten years since Mamiya Takuji stayed here.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah... I guess you could say that, but it would make sense if you had the same memories, right? You share quite a lot of memories with him, don't you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Shared memories...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Memories about places are almost always shared, right? The layout of the school building, the road home... All those have to be shared or we'd get lost all the time, right?\""
+  },
+  {
+    "message": "Now that she mentions it..."
+  },
+  {
+    "message": "Place-based memories are almost always shared."
+  },
+  {
+    "message": "And besides that, language, common sense, and other knowledge necessary for day-to-day life. Basic, normal knowledge a person should have is shared between us."
+  },
+  {
+    "message": "Which means I should have memories about this place too."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you don't remember this place at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, not even a little.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see... So you don't remember it... That makes sense, I guess.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What makes sense?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who knows? All right, more importantly, I have a question for you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A question?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I guess it's just something I want to confirm. Something I need to confirm.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Confirm what?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, um... No matter whether this is your dream or mine, this situation wouldn't come about unless someone wanted it to.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Someone wanted this to happen?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, which in this case means you or me. One of us wanted to have a lucid dream. Normal dreams aren't like that, but you can't have a lucid dream by accident.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well, if you say so...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Answer this next question honestly.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What question?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's really important, all right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah... Sure.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahem... First off."
+  },
+  {
+    "message": " It's very hard to have a lucid dream, but it's very easy to wake up.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you can either keep dreaming, or you can wake up. Which means you can go back to reality.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Reality?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. If you wake up now, the Tomosane personality will return to the real world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you do that, you can go talk to the real Hasaki-chan, or even Master at Hakushuukyou.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It sounds like you just said something really important.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right, I did. It's important that you understand that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then let me ask... What if I don't wake up from this dream?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The next time you wake up will probably... no, it will definitely be your last battle with Mamiya Takuji.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"My last battle with Mamiya?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"To put it simply, the deciding battle between Mamiya Takuji and you, Yuuki Tomosane.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And no matter who wins, that will be the last time 'Yuuki Tomosane' wakes up.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The last time that I... that 'Yuuki Tomosane' wakes up?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you wake up now... If you can wake up, then there's still time for you to do what you need to in the real world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You were right earlier. Today is the 15th, and you've been out for about a day.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you wake up now, there's still a bit of time left.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And if I don't?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You won't have another chance.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The final battle, huh...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yep. I don't know why, but it seems like he has a clear goal in mind now.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, it looks that way. When we fought, he said something really weird.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, that's why you've become an entirely unnecessary person in Mamiya Takuji's eyes. And as time passes, his self-certainty will only grow stronger.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This lucid dream right now is your last chance. If this dream ends, you probably won't be able to wake up before the last battle.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How do you know I'll wake up at the final battle next?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, part of it is just my intuition, but he didn't finish you off last time, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, that's right.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If he didn't finish you off, that means you two will have to fight again... That's all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So I guess I can't be certain that there will be a battle.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But whether you choose to wake up or stay in this lucid dream, this could very well be the last of the time you have left.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So this is the end...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You should know it too, right? July 20th, 2012.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The prophecy...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Several decades ago, before Mamiya Takuji was even born, a religious leader prophesied that the world would end on this day.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The White Lotus Association...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You know about it?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, not at all. That word just entered my brain when I made contact with Mamiya Takuji. It was a memory that he had.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Anyway, Mamiya Takuji believes that the world will be destroyed on July 20th, 2012.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And on the border of that day... on the 19th, he thinks he has to return it all to the sky.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What does returning something to the sky mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You know what it means, Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wha-?!\""
+  },
+  {
+    "message": "What was that just now?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Returning something to the sky means exactly that. Returning it to the sky. Well, if those people could fly like birds, maybe they'd make it to the sky.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"They fall..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And die.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You said returning 'everything,' but what does that really mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"According to the prophecy, it's a great number of people, but 'a great number' of people is entirely subjective. Either way, I'm sure that he wants to return as many people to the sky as he can.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki isn't supposed to be one of those people, is she?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who knows?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What do you mean? Mamiya Takuji created you to protect Hasaki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But hasn't he already broken those laws?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Those same laws say that you have to defeat Mamiya Takuji and strike him the final blow.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then what about Hasaki? Hasaki is the closest person to him, so if he wants to return all of humanity to the sky, then would he start with...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Are you worried about Hasaki-chan?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course I am! Aren't you?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm not the one who has to decide. I'm asking about your intention. Do you want to protect Hasaki-chan?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Of course I do. If something happened to Hasaki...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Good. So go protect Hasaki-chan.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You want me... to protect her?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. To be honest, I don't think it's impossible that Mamiya Takuji might try to kill her.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Or it might be more logical to assume that he will.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What?! Why didn't you say that earlier?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But think it through. He doesn't think that returning to the sky means killing someone, he thinks it's the way to a better world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Cults spring up all the time, right? There was a famous cult in the 90s that thought it wasn't bad to kill people because killing people was just 'Phowa.'\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So what's going to happen to Hasaki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, it's already ended, so maybe he's satisfied as is, but...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What do you mean? What's ended?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, don't mind me. I'm just talking to myself. Regardless, protecting Hasaki is your job now, Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki, are you...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm not coddling you anymore! You can't rely on me forever.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Coddling?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. If you want to protect Haskai-chan, then you'll have to be the one to protect her.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I mean, don't you get it? Those rules about the Destroyer and the Harmonizer, all that just got flushed down the toilet.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you want to protect her, the best thing you can do is go back to the real world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You want me to go back?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, for instance, you could get Hasaki-chan to a safe place, where Mamiya Takuji can't reach her.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, you don't have to go too far. Wouldn't she be safe if you asked Master at Hakushuukyou to protect her?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Master... could protect her.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, if that's what you want to do, then you should go back right now. You'll get to see Hasaki-chan again, too. If you're intent on protecting her, then that's the best way.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But that's only one choice... is what you're saying.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yep.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Earlier you said that we're here because at least one of us wanted to be here, right? Here in the world of a lucid dream?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right.\""
+  },
+  {
+    "message": "This world appeared because either Yuki or I wished for it."
+  },
+  {
+    "message": "I was struck by the impulse to just ask Yuki... \"Were you the one who wished for it?\""
+  },
+  {
+    "message": "But I couldn't."
+  },
+  {
+    "message": "That would just be relying on Yuki again."
+  },
+  {
+    "message": "That's right... The one who wanted this world to exist..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I am here... because I wanted it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's a good answer.\""
+  },
+  {
+    "message": "Then why did I want this dream?"
+  },
+  {
+    "message": "A lucid dream, a kind of world I could control..."
+  },
+  {
+    "message": "What I wanted..."
+  },
+  {
+    "message": "To return from this place, to the real world. To spend the rest of the time I have left with Hasaki."
+  },
+  {
+    "message": "To protect Hasaki. To accept the same fate as Mamiya Takuji."
+  },
+  {
+    "message": "To return to the sky... In other words, to die."
+  },
+  {
+    "message": "The other choice..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki, you said we could manipulate this dream. What did you mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hehehe. Didn't I just tell you about the lucid dream's structure, and how to have one?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, that's not what I mean. I'm not asking how to induce one, but how to control it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Something like this... Have you heard the story about when the swordsman, Itou Ittousai, learned his famous technique, the Annihilating Blade?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ittousai unwittingly spent the night with a woman who bore him a grudge.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Once he feel asleep, she hid a blade under his pillow, and then beckoned dozens of assassins to come into his room.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ittousai was a hair's width away from death, but even in his sleep, he evaded his opponent's blades, and before he even awoke he had mastered the new technique.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But that story is bullshit.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But Ittousai already possessed a secret technique called the Dream Blade. It was said to allow him to unconsciously cut his enemies down.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A lucid dream. Waking only one part of the brain during unconsciousness, and controlling your dream. When we invoke the mental state of the great swordsman of the past, we enter a lucid dream. Is that what you mean?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah. It's just my intuition, though.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha, that's a good answer, Tomosane.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So you want to find a mental state that eludes you outside your dreams... You think there might be an answer here in the lucid dream?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, didn't you say that Mamiya Takuji could sense my movements even when he wasn't conscious?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Even when he's out like a light, he still knows what's going on in the world, just as if he was awake.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Heh, hehehe...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What's so funny?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, come on. Use your common sense. There's no way my lucid dream could ever be the same as a famous swordsman's. Itou Ittousai was said to have never lost a duel in his life, and that was during the violence of the Sengoku Period.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's true, but...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Besides, the best I can do with my powers is watch the other two people in the same body.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But still, that's hard... I don't understand it at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And the person I'm fighting is not a master, an expert, or a virtuoso.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The one I'm fighting is Mamiya Takuji. As you put it, one of those other people in the same body.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"If this mindstate will help me beat him, there's value in acquiring it even if it's useless against anyone else.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hehehe... Just so you know, in all dreams, including lucid dreams, your perception of time gets messed up. What feels like an hour to you in a dream might be a few minutes in reality.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's not the same as the master swordsman's technique, but you can clearly affect the amount of time the other personalities are conscious.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Which means?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you can acquire the right mindstate, you might be able to defeat Mamiya Takuji.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Could I win?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Only if you really understand it, but it's not a simple thing to learn.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I know that it's not simple.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see... You haven't changed a bit, have you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I haven't changed?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, I'm just talking to myself. All right, this is Yuki-nee's final lesson.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So that you can overcome everything... So that, at the end of it all, you will win.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"We'll have a match.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What even I could do for the sake of those final moments.\""
+  },
+  {
+    "message": "Did Yuki just say something?"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's wrong? Why so surprised?\""
+  },
+  {
+    "message": "Wh-What was that? I didn't see her hit me at all."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What, was it that surprising?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm more than just surprised. That attack just now...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What, you couldn't see it coming?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, it didn't feel normal at all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about? Of course it didn't. This is a dream.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"In order for two people in the same body to read each other's moves, they would have to react after the electrical impulses were sent to the muscles in the body, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But there's no real need for us to send those signals to the real body, so there would be no time lag to react to.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"In other words, I can't avoid your attacks because there's no delay before you hit me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hehehe... You think? Try attacking me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wha-?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Agh...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Weird, huh? I shouldn't be able to read your moves, since there's no delay. In other words, that should've hit.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...Ah!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And yet, it didn't hit. Plus, you can't even dodge my attacks.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ow!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hehehe... Weird, huh? You can't hit me at all, and you can't defend yourself.\""
+  },
+  {
+    "message": "What's going on? She's not just reacting to my movements. It's like she's predicting them all beforehand.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All right. You'll have to remember it by the pain in your body. The real training starts now.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Grr...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haaa... Haa...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're tired already? How can you get tired in a dream?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Shut up...\""
+  },
+  {
+    "message": "Damn it... Yuki's right."
+  },
+  {
+    "message": "Why am I breathing hard? This is just a dream."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Come on, you can do better than that. I'm disappointed.\""
+  },
+  {
+    "message": "Now that I think of it..."
+  },
+  {
+    "message": "Why is Yuki so strong?"
+  },
+  {
+    "message": "She should be as strong as I am."
+  },
+  {
+    "message": "Maybe it's because this is a dream?"
+  },
+  {
+    "message": "No, in that case..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you spacing out for? That's no good.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Now you're just getting sloppy. You're letting me hit you with both hands.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Damn it!\""
+  },
+  {
+    "message": "My attacks couldn't hit her. She avoided them all without difficulty."
+  },
+  {
+    "message": "Why?"
+  },
+  {
+    "message": "Since this is a battle in a dream world, where our bodies don't really exist, there's no delay between our brain and our muscles."
+  },
+  {
+    "message": "Because we don't have physical bodies here."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "How can I feel pain in a dream?"
+  },
+  {
+    "message": "I read in a book that you can hear, feel, taste, and smell in a dream."
+  },
+  {
+    "message": "But it's supposed to be impossible to feel pain in a dream."
+  },
+  {
+    "message": "So why am I feeling pain?"
+  },
+  {
+    "message": "What is... pain?"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Agh...\""
+  },
+  {
+    "message": "I collapsed, falling to the ground."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa, haa, haa...\""
+  },
+  {
+    "message": "Even in the dream, it hurt to breathe. My entire body hurt."
+  },
+  {
+    "message": "Why?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I didn't think you were that dim, Tomosane.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"At this rate, you're gonna run out of time.\""
+  },
+  {
+    "message": "Time..."
+  },
+  {
+    "message": "I'm going to run out of time?"
+  },
+  {
+    "message": "If I lose consciousness here, I might never wake up again."
+  },
+  {
+    "message": "If this lucid dream ends, there will be nothing left for me except the end."
+  },
+  {
+    "message": "I won't be able to protect Hasaki..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ugh... Aaaahh!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Agh!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Being reckless won't help you now. If this was the real world, I could beat you just by breaking your body, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But in a battle between minds, what good does that do?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A battle between minds...\""
+  },
+  {
+    "message": "A battle happening between two minds."
+  },
+  {
+    "message": "That's right. It hurt so bad, but it wasn't the real world."
+  },
+  {
+    "message": "The world existed only in our minds."
+  },
+  {
+    "message": "The pain I was feeling was only created by my mind."
+  },
+  {
+    "message": "Only my mind."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Now that you've abused your body and gotten yourself all beaten up, do you understand? Or is this all going to end before you figure it out?\""
+  },
+  {
+    "message": "Was there something I was supposed to understand from abusing my body?"
+  },
+  {
+    "message": "No... The truth is, I wasn't abusing my body at all."
+  },
+  {
+    "message": "Then why did my body hurt so much?"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So much?\""
+  },
+  {
+    "message": "It still hurt to breathe."
+  },
+  {
+    "message": "Why did it hurt?"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It hurts... to breathe?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "message": "Mysteriously, Yuki smiled."
+  },
+  {
+    "message": "Why?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Was that the answer?"
+  },
+  {
+    "message": "The pain of breathing... Is that the answer?"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The reason it hurts to breathe in my dream is because...\""
+  },
+  {
+    "message": "Because in this state of half-wakening, the mind mistakes the sleeping body for a waking one."
+  },
+  {
+    "message": "In other words, it's the same as sleep paralysis."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Sleep paralysis.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Only subjective time exists in a dream. If you believe that my attacks are unbelievably fast, then they will be.\""
+  },
+  {
+    "message": "I felt that Yuki's attacks were fast."
+  },
+  {
+    "message": "Not just fast... unavoidable."
+  },
+  {
+    "message": "Like my body was submerged in lead."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's like my body's made of lead.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This mental world only has subjective time. Think about what it means that we're in a lucid dream.\""
+  },
+  {
+    "message": "Yuki's attacks were terrifyingly fast."
+  },
+  {
+    "message": "They were ridiculously fast, but somehow, I had started to see them with my eyes."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "message": "But I couldn't dodge it. Yuki's fist struck me in the chest."
+  },
+  {
+    "message": "Dull pain flowed through my breast."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Gah...\""
+  },
+  {
+    "message": "The shock from the blow sent me sprawling backward several steps."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Next!\""
+  },
+  {
+    "message": "It was a straight punch. The hardest strike to dodge, because the distance is the shortest."
+  },
+  {
+    "message": "But this time I could follow its trajectory with my eyes."
+  },
+  {
+    "message": "Then I realized for the first time..."
+  },
+  {
+    "message": "The sound of her fist cutting through air was stretched out, and everything I saw appeared to be in slow motion."
+  },
+  {
+    "message": "Yuki's attacks weren't fast. I was just very slow."
+  },
+  {
+    "message": "I took another punch, unable to dodge it."
+  },
+  {
+    "message": "Pain ran through my body."
+  },
+  {
+    "message": "But I noticed that the pain also seemed to spread more slowly."
+  },
+  {
+    "message": "Everything was slower."
+  },
+  {
+    "message": "That's right. Yuki wasn't particularly fast to begin with. What I hadn't realized before was how slow I was."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "After the attack, time sped up to normal speed again."
+  },
+  {
+    "message": "In the moment when Yuki attacked... no, when either of us attacked, time slowed down to a crawl, like we were underwater."
+  },
+  {
+    "message": "It was just like..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A dream...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. This is a dream, after all.\""
+  },
+  {
+    "message": "This is a dream?"
+  },
+  {
+    "message": "I felt slow because it's a dream."
+  },
+  {
+    "message": "My opponent was moving at normal speed, but my own body would hardly move."
+  },
+  {
+    "message": "Something very common."
+  },
+  {
+    "message": "And I assumed the reverse of that common occurence."
+  },
+  {
+    "message": "I didn't think I was slow."
+  },
+  {
+    "message": "I thought Yuki was just very fast."
+  },
+  {
+    "message": "But that's not the truth."
+  },
+  {
+    "message": "This happens all the time in dreams."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. It happens all the time in dreams. So what are you going to do about it?\""
+  },
+  {
+    "message": "Yuki attacked again."
+  },
+  {
+    "message": "The sound of her attack was slowly transmitted to me as her fist moved forward."
+  },
+  {
+    "message": "Yuki wasn't fast. I was slow."
+  },
+  {
+    "message": "Even knowing that, there was nothing I could do to react."
+  },
+  {
+    "message": "I misunderstood the truth, but the result was the same either way."
+  },
+  {
+    "message": "Yuki's attacks hit, and mine missed."
+  },
+  {
+    "message": "No matter how hard I tried to push my body, it wouldn't move fast enough."
+  },
+  {
+    "message": "Quite the opposite. The more I thought about it, the slower my body got."
+  },
+  {
+    "message": "The next one struck me in the face."
+  },
+  {
+    "message": "Then a thought occurred to me."
+  },
+  {
+    "message": "Does getting punched really hurt?"
+  },
+  {
+    "message": "I expected the dull pain to erupt in my cheek."
+  },
+  {
+    "message": "And when I thought that..."
+  },
+  {
+    "message": "The pain stopped and disappeared."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You want to master the lucid dream, right?\""
+  },
+  {
+    "message": "Master it?"
+  },
+  {
+    "message": "I was trying to learn about lucid dreams from Yuki."
+  },
+  {
+    "message": "I didn't come here to learn how to fight."
+  },
+  {
+    "message": "My skills hadn't atrophied to the point where I needed lessons from Yuki."
+  },
+  {
+    "message": "And of course, my martial prowess couldn't be inferior to Mamiya Takuji's either."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A lucid dream... I see. So that's what it is.\""
+  },
+  {
+    "message": "I found a simple answer."
+  },
+  {
+    "message": "The most natural answer."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This isn't a lucid dream.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This is just... a dream.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, since I'm partially awake, maybe it's cloer to sleep paralysis.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Which means...\""
+  },
+  {
+    "message": "Yuki moved to attack me again."
+  },
+  {
+    "message": "I didn't dodge the attack."
+  },
+  {
+    "message": "I didn't run."
+  },
+  {
+    "message": "I moved straight foward to meet her fist."
+  },
+  {
+    "message": "A lucid dream isn't just a dream that you recognize as a dream."
+  },
+  {
+    "message": "It's a dream that you recognize for what it is, so that you can control it."
+  },
+  {
+    "message": "Which I means I can alter the dream as I wish."
+  },
+  {
+    "message": "It's said that there was a tribe in southeast Asia that had trained themselves in the art of lucid dreaming since ancient times."
+  },
+  {
+    "message": "That technique involved recognizing a dream for what it was."
+  },
+  {
+    "message": "For instance, the tribe members would talk about dreams with each other when they were awake."
+  },
+  {
+    "message": "By talking about them, the dreams became encoded in language, assuming a form that could be more easily grasped and understood."
+  },
+  {
+    "message": "And then, there was one thing they had to do when they realized it was a dream."
+  },
+  {
+    "message": "That one thing was simply not running away."
+  },
+  {
+    "message": "Most lucid dreams are born of nightmares."
+  },
+  {
+    "message": "A nightmare happens when a person creates an embodiment of their anxiety in a dream."
+  },
+  {
+    "message": "And then they fear the nightmare."
+  },
+  {
+    "message": "No, in truth it is that embodiment of terror within the nightmare which they fear."
+  },
+  {
+    "message": "There's no need to fear something in a dream."
+  },
+  {
+    "message": "But no one is free from fear."
+  },
+  {
+    "message": "Because they can't recognize that the dream is just a dream."
+  },
+  {
+    "message": "Recognizing the dream for what it is."
+  },
+  {
+    "message": "That alone isn't enough to create a lucid dream."
+  },
+  {
+    "message": "A lucid dream is the inability to run from the embodiment of fear dwelling in the bottom of your heart."
+  },
+  {
+    "message": "The important part is to conquer that fear."
+  },
+  {
+    "message": "If you can beat back the fear..."
+  },
+  {
+    "message": "If in your dreams you feel no fear..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, shoot...\""
+  },
+  {
+    "message": "Yuki's attack didn't even graze me, cutting through the empty air."
+  },
+  {
+    "message": "I moved to hit her while she was open."
+  },
+  {
+    "message": "I clenched my fist."
+  },
+  {
+    "message": "No hesitation."
+  },
+  {
+    "message": "\"I might not hit.\""
+  },
+  {
+    "message": "\"I might be powerless.\""
+  },
+  {
+    "message": "\"I might not win.\""
+  },
+  {
+    "message": "Eliminate all doubt."
+  },
+  {
+    "message": "All I could think in that moment..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"My fist will find its mark.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Whoa!\""
+  },
+  {
+    "message": "My fist slammed into Yuki's cheekbone."
+  },
+  {
+    "message": "There was no pain in my fist."
+  },
+  {
+    "message": "Yuki was blown away, just like that."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oww! Hey now,"
+  },
+  {
+    "message": " take it easy.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"S-Sorry.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Jeez.\""
+  },
+  {
+    "message": "Then she rubbed her cheek, and her split lip healed back to normal."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And that's that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see. So I was trying to have a lucid dream until now.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then... what about the dream up until now?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's your dream, of course. But it's my dream too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"We're just doing the same thing we did when we first met, only we're in the subconscious, in a dream, instead of fully conscious.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Only in a dream?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. Whenever we meet in the real world, that's not actually the real world. It's the exact same as this world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's a world contained within our minds.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When our entire brain is working all at once like that, for some reason we can't actually tell that we're fighting someone in our head, not a real person.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But the truth is, it's the same thing as this.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"In our world, the person who wants it more gets the initiative.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You seem to be under the impression that Mamiya Takuji is the game master of this world and the two of us are just pawns on the chessboard, but you're wrong.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The fact is, there is no single game master who controls this world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Reality bends to serve the person who believes harder.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's why you wanted it to be a lucid dream.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So that you could pull Mamiya Takuji off his throne as the game master.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wait... If you can control lucid dreams, then why can't you stop Mamiya Takuji yourself?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You should've understood that from what just happened. A lucid dream is just believing in yourself and overcoming the fear within.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I can control dreams and subconscious worlds, but I can't control the real world.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is it possible to control the real world like that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right now, Mamiya Takuji absolutely believes that he can change the world by his will. He thinks he's the avatar of God on Earth.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The avatar of God?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes. At some point he began to believe that he could control not only his own mind, but the entire world with his will.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's no way my will could overcome someone like that, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Maybe, but...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But what? If you think you can't beat him, you might as well give up now. Let me just say it now: if you're already hesitating, you won't win.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Won't win...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I remember you said this.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You said he was growing stronger, so this would be the end.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, that's right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not true.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm going to go find Hasaki before my battle with Mamiya.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wait, that's impossible. There's no time...\""
+  },
+  {
+    "message": "I understood what Yuki was saying."
+  },
+  {
+    "message": "This lucid dream will disappear."
+  },
+  {
+    "message": "Yuki's lucid dream will end here."
+  },
+  {
+    "message": "As Yuki floated in unconsciousness, she must've even thought that she would never be able to rise to consciousness again."
+  },
+  {
+    "message": "That's why she said this would be the end."
+  },
+  {
+    "message": "I understand that."
+  },
+  {
+    "message": "I understand..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...The time when you float to the surface.\""
+  },
+  {
+    "message": "I felt the presentiment."
+  },
+  {
+    "message": "No, I felt the certainty."
+  },
+  {
+    "message": "The future I believe in is undoubtedly the future that will come to pass."
+  },
+  {
+    "message": "If he's the son of God, sent to save the world..."
+  },
+  {
+    "message": "If he truly is the savior..."
+  },
+  {
+    "message": "Then I will destroy his claim to divinity."
+  },
+  {
+    "message": "I will become the hero."
+  }
+]

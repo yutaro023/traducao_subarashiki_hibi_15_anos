@@ -1,0 +1,1627 @@
+[
+  {
+    "message": "Chirp... Chirp, chirp..."
+  },
+  {
+    "message": "The sound of... birds..."
+  },
+  {
+    "message": "Y-Yeah..."
+  },
+  {
+    "message": "Morning?"
+  },
+  {
+    "message": "Is it morning already?"
+  },
+  {
+    "message": "Oh, right... Last night I was up late. I spent all night warning people on the underground message board."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But no one would listen to the truth.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I can't blame them, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "So bright...!"
+  },
+  {
+    "message": "It was morning already."
+  },
+  {
+    "message": "It was the day when I would recover my power..."
+  },
+  {
+    "message": "The day I would be reborn."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mm...\""
+  },
+  {
+    "message": "I hadn't felt this good in a long time."
+  },
+  {
+    "message": "For a long time, I didn't feel anything."
+  },
+  {
+    "message": "I never knew the morning could feel so good..."
+  },
+  {
+    "message": "It feels good."
+  },
+  {
+    "message": "I have to protect this happiness..."
+  },
+  {
+    "message": "I have to protect this world."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Today, I will be reborn...\""
+  },
+  {
+    "message": "School..."
+  },
+  {
+    "message": "A lot has happened here..."
+  },
+  {
+    "message": "I came to school since I had a lot of time before we were supposed to meet up."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's Sunday, so there aren't many people here...\""
+  },
+  {
+    "message": "I walked into the school building."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Even this place, where so many bad things happened, will be given new life after the great disaster passes.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The world will be kind again...\""
+  },
+  {
+    "message": "Looking at it like that, even this school building holds a place in my heart, oddly enough."
+  },
+  {
+    "message": "The last time I looked out this window..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "If he had been born with a kinder heart... he wouldn't have been eaten by the Specialized Physics Bug."
+  },
+  {
+    "message": "Poor thing."
+  },
+  {
+    "message": "He won't be born into the new world."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "This place holds my most treasured memories..."
+  },
+  {
+    "message": "All my memories of Mamiya-kun linger here."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehe...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I guess Mamiya-kun's not here now, though.\""
+  },
+  {
+    "message": "Of course not... Today is Sunday after all."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I guess I still hoped he would be.\""
+  },
+  {
+    "message": "If we're fated to be together... It wouldn't be strange at all if we had met here today..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehe... I shouldn't be thinking about boys just before battle.\""
+  },
+  {
+    "message": "I'll soon be reborn... and then I'll fight for this world."
+  },
+  {
+    "message": "I can't waste my time thinking about the boy I used to like."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Once it's all over... Mamiya-kun...\""
+  },
+  {
+    "message": "I'll... come find you..."
+  },
+  {
+    "message": "Once this is all over..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Then...\""
+  },
+  {
+    "message": "The two of us... in the new world..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Yeah.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "That's right..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "A strange presence..."
+  },
+  {
+    "message": "I'd never felt this before."
+  },
+  {
+    "message": "Was that the first sign of my powers returning?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You're... Otonashi Ayana.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why are you here...\""
+  },
+  {
+    "message": "Why is Otonashi-san here...?"
+  },
+  {
+    "message": "Could it be..."
+  },
+  {
+    "name": "Usami",
+    "message": "\"The vanguard possesses humans in order to approach us and interfere with our mission...\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Which means... Otonashi-san came here to interfere with the Spiral Matai."
+  },
+  {
+    "message": "That's the truth of it."
+  },
+  {
+    "message": "That has to be it!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What are you trying to do?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I know all about your evil scheme!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You're here to interfere with the Spiral Matai, aren't you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"You've already chosen your fate... There's nothing I can do to change it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Of course not... I'll never let you evil people interfere.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I won't interfere.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Either way... people aren't capable of accurately distinguishing between the coincidental and the inevitable.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"All swans are white... That was the truth.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Until they found one black swan anyway.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The black swan... One fact can overturn a theory that was previously thought impregnable.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Some men believe that the Sun dies at the end of every day. They pray for its rebirth every night.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"They believe themselves to be the only reason the Sun rises at dawn.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No one can deny their claim...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Not so long as they continue their prayers.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"So no one can deny the truth you've found.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You can't confuse me with your nonsense.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Oh, really... But there is one thing I'd like to say.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Do your best... at the Spiral Matai.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Shut up!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I don't want to hear it from you!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "message": "I never should've come back to school..."
+  },
+  {
+    "message": "I never wanted to see this person ever again..."
+  },
+  {
+    "message": "Now she's spoiled my good mood."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Haa... I still have time left...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What should I do?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "That person..."
+  },
+  {
+    "message": "I recognized him."
+  },
+  {
+    "message": "I thought I heard a voice... and I turned around..."
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "message": "This must be fate."
+  },
+  {
+    "message": "To think that we would meet here... just before the end..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mamiya-kun...\""
+  },
+  {
+    "message": "Seeing him felt... incredibly nostalgic."
+  },
+  {
+    "message": "We last saw each other a few days ago, but in the span of just a few days, we had grown so distant."
+  },
+  {
+    "message": "No... We could still be separated until the end of time."
+  },
+  {
+    "message": "Just like Usami-chan was... That could still happen to us."
+  },
+  {
+    "message": "Mamiya-kun noticed me staring at him."
+  },
+  {
+    "message": "A kind smile... That's definitely the real him."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Takashima... Zakuro, was it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. Hello.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ah, hello.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why are you here today?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"\"Oh, uh, there's no particular reason. I was buying something, and now I guess I'm just walking around.\"\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I mean, for someone living near the train station, Suginomiya is the most convenient place to go shopping, right? I suppose you could go all the way out to Shinjuku if you wanted, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I see. I'm glad.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Glad?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I'm glad I got to meet you.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Okay. I-If you say so.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. This might be divine providence.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Divine providence?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Um, we've never really talked much, so...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Have we?\""
+  },
+  {
+    "message": "Is this..."
+  },
+  {
+    "message": "The Specialized Physics Bug."
+  },
+  {
+    "message": "That's probably it... It infects a person's brain and eats their thoughts, memories, and emotions..."
+  },
+  {
+    "message": "Damn it... That bug ate my precious memories with Mamiya-kun..."
+  },
+  {
+    "message": "I won't forgive them."
+  },
+  {
+    "message": "Bick Hazard... I won't forgive you!"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"U-Um, is something the matter?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, no. You're right. You're probably right, but I knew you very well.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, r-really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Did I do something to tick you off?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why do you ask?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, if someone I don't remember all that well says they remember me, it means they're holding some kind of grudge, right?\""
+  },
+  {
+    "message": "Even after the bug ate his memories... he's still such a kind person..."
+  },
+  {
+    "message": "He really is a nice person."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A grudge against you? Heheh. I'm not holding any grudge.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I see. Well, that's good to hear.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I don't have a bad impression of you.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's... good to hear.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Not a bad impression at all.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"At all?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah. I hope we can have cordial relations.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Mmmgh?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mm...\""
+  },
+  {
+    "message": "I'll definitely come back to you... my beloved..."
+  },
+  {
+    "message": "I'll definitely come back..."
+  },
+  {
+    "message": "Next time, I'll tell you how I feel."
+  },
+  {
+    "message": "I'll become a new person..."
+  },
+  {
+    "message": "And then I'll come back to you."
+  },
+  {
+    "message": "Mamiya-kun..."
+  },
+  {
+    "message": "So..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wha―?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'll give you some of my power.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Power? Wh-What do you mean?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Soon, something amazing will happen.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"S-Something amazing?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You mean, like, tribadism?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Tribadism?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha, nothing."
+  },
+  {
+    "message": " By the way, what is that 'something amazing' you were talking about?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Well, it's...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky is really, really full.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Full of what?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Anxious words.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky is full of anxious words.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "I told him about the scene I saw..."
+  },
+  {
+    "message": "The endless black gloom..."
+  },
+  {
+    "message": "The world's twilight..."
+  },
+  {
+    "message": "The gloom... covering the sky..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Um, not full of anxiety, but full of anxious words?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's kind of a cool expression.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. It's not a metaphor.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"So, what about it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The process of absorption has begun.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Who's doing the absorbing?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The world.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wanjuku Kei!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It's V Kei!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What is?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It's Visual Kei!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, I know that, but...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ah, well, I was just wondering if you liked it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Anxious words, and the world that has absorbed them.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you know what those are?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Uh, not really.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The heart of the person who will soon die.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Therefore, the world...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Will end.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sorry. I'm sorry. You probably can't believe it, right? But I'll protect you.\""
+  },
+  {
+    "message": "\"Zakuro-chan!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Who is this?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"What are you doing with an outsider?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sorry. But this person should be fine.\""
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"I'm not all that impressed.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah, I understand.\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Please be more careful, Zakuro-chan.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah... Sorry."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha, well then, I'd better be off...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hey!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yes?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'll protect the world, so...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Okay?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I won't fail. I can do it.\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Zakuro!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Coming...\""
+  },
+  {
+    "message": "The moment approached."
+  },
+  {
+    "message": "It was 6:30..."
+  },
+  {
+    "message": "We quickly walked to the apartment building."
+  },
+  {
+    "message": "The apartment building would be the best place for us to receive energy from Elhimuro."
+  },
+  {
+    "message": "Soon it would be time for the Spiral Matai."
+  },
+  {
+    "message": "It approached, second by second."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Now... it's finally time...\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"...Ah... Auh...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hmm?\""
+  },
+  {
+    "message": "What's wrong?"
+  },
+  {
+    "message": "Ayumi-chan has never been talkative, but why is Usami-chan so quiet all of a sudden...?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What's wrong, Usami-chan? It's kind of...\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"...\""
+  },
+  {
+    "message": "What's wrong?"
+  },
+  {
+    "message": "Is she trembling?"
+  },
+  {
+    "message": "Why?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Today's the day we finally recover our power so that we can save the world.\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "I couldn't hear what she said."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What's wrong, Usami-chan?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I-I'm... scared...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I'm scared...\""
+  },
+  {
+    "message": "Usami-chan started crying out of fear."
+  },
+  {
+    "message": "Why is she so terrified?"
+  },
+  {
+    "message": "Why is she crying?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What are you saying? Hey... Usami-chan?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"We might just die, you know?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wha―?!\""
+  },
+  {
+    "message": "Die?"
+  },
+  {
+    "message": "Did she just say we might die?"
+  },
+  {
+    "message": "Why would we die?"
+  },
+  {
+    "message": "Why would that happen?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What do you mean, Usami-chan?!\""
+  },
+  {
+    "message": "She continued crying. She wouldn't answer me."
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"Spir...al... Ma...tai...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Spiral Matai?\""
+  },
+  {
+    "message": "Spiral Matai..."
+  },
+  {
+    "message": "I heard it was a ritual to recover our Extradimensional Powers..."
+  },
+  {
+    "message": "I heard we would have a near-death experience..."
+  },
+  {
+    "message": "But... just what kind of ritual is it? I still hadn't heard the details."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami-chan... what kind of ritual is the Spiral Matai?\""
+  },
+  {
+    "message": "She just kept crying in fear."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Don't just cry! Tell me!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"In order to recover our powers, we have to come close to death, so we have to...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Have to what?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"We have to... jump from the roof of this building.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "What?"
+  },
+  {
+    "message": "What... did she just say?"
+  },
+  {
+    "message": "Did she just say... we have to jump?"
+  },
+  {
+    "message": "Jump off the roof?"
+  },
+  {
+    "message": "From the top of this building?"
+  },
+  {
+    "message": "This building is at least fourteen stories..."
+  },
+  {
+    "message": "If we jumped from that height..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Just like that..."
+  },
+  {
+    "message": "Our bodies would crash against the ground, just like him..."
+  },
+  {
+    "message": "No... This building is three times as tall as the one he fell from, so it would be much worse."
+  },
+  {
+    "message": "It would probably be a lot worse."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-If we do that... we'll definitely...\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"No... If we do it, our powers will be awakened the instant before we reach the ground.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Awakened?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Yes... Our power will never come back until we're faced with certain death.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Faced with certain death...\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"...B-But... But, I'm scared... I'm so scared!\""
+  },
+  {
+    "message": "Scared..."
+  },
+  {
+    "message": "Scared of..."
+  },
+  {
+    "message": "Jumping from the top of this building..."
+  },
+  {
+    "message": "Jumping off the roof..."
+  },
+  {
+    "message": "Hehe..."
+  },
+  {
+    "message": "Hehehehehe..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehehehehe...\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"...Zakuro-chan?\""
+  },
+  {
+    "message": "I grabbed Usami-chan and Ayumi-chan's arms."
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"Ah, auh...\""
+  },
+  {
+    "message": "I dragged the two of them into the elevator."
+  },
+  {
+    "message": "They were both crying now."
+  },
+  {
+    "name": "Usami",
+    "message": "\"Nooo! I don't want to die!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It'll be all right, Usami-chan. What do we have to fear?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"There's no way we'll die like he did...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We're angel warriors! It's our destiny to save the world!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What do we have to be afraid of?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We definitely won't die.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We won't die, because we're the ones who are right!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"All right? Usami-chan... right now, the world is sitting upon the cusp of destruction.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If we don't stand up and fight, who will save the world in our stead?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"...But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Just like before...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If we don't fight back, the world will be annihilated.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami-chan, do you understand?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The end is approaching.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Look at it, Usami-chan!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Come on... Can't you see it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The great disaster is coming...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Just like before...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Like before...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We said these words...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We won't lose!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"As long as we stand united, we can accomplish even the impossible!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami-chan, have you forgotten?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If we don't fight back now, the world will be destroyed!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I can't see it... I can't see any great disaster!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Open your eyes!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Nooo, no!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Eek!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami-chan, listen to me!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Fear is a shapeless monster!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It clouds the mind and beckons the worst possible outcome!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If we falter here...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The world will be destroyed!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Could you let that happen?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami-chan!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I could!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I don't care if the world is destroyed!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I don't want to die!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Ow!\""
+  },
+  {
+    "message": "I slapped Usami-chan without even thinking."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm sorry...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But we don't have time...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ayumi-chan, what time is it?\""
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"Ah, auh...\""
+  },
+  {
+    "message": "Ayumi-chan silently backed away."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What time is it?!\""
+  },
+  {
+    "message": "I grabbed her wrist and pulled her over to us again."
+  },
+  {
+    "message": "She was trembling."
+  },
+  {
+    "message": "So she's afraid too..."
+  },
+  {
+    "message": "They're both scared..."
+  },
+  {
+    "message": "Then I have to be strong."
+  },
+  {
+    "message": "If I don't keep calm, the world will be destroyed!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...What time is it?\""
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"Six... forty...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We don't have time! Quick!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Come on, find your courage!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"I don't need courage!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Usami-chan, you"
+  },
+  {
+    "message": " idiot!"
+  },
+  {
+    "message": " Idiot,"
+  },
+  {
+    "message": " idiot,"
+  },
+  {
+    "message": " idiot!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Show me your strong heart!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Your panache!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The crest of courage upon your heart... Your panache!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Now, Le Bret! Today, we travel to the moon!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Huh? What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I have no need for a machine's assistance. I'll simply dive off this building.\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Wh-What are you saying? What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's right! That world upon the moon is...!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A world fashioned just for me!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The souls of all those I admire wait for me upon the lunar surface...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Socrates! Galileo!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The soul which comprises the fundaments of physical matter is―\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is truely a problem... Quoth Copernicus!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's right. Why hath the whole been tempted by the devil?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why hath the whole been tempted, lured onto that galley?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A philosopher!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A scientist.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A poet.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A swordsman.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A musician.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"And now a traveler flying across the sky.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You will feel the sting of your own words.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"He has become all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"He has become supreme... and...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Has become the sky...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But... I must go. I cannot keep him waiting.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Look... The moonlight has come to welcome me...\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Nooooo!\""
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"Eek!\""
+  },
+  {
+    "message": "The two of them convulsed, trying to run away."
+  },
+  {
+    "message": "But I grabbed them both by the wrists so they couldn't run."
+  },
+  {
+    "message": "That's right..."
+  },
+  {
+    "message": "You can't run away now..."
+  },
+  {
+    "message": "This is our only chance!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Don't be afraid...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm here with you...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It'll be all right.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Don't worry.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We've made it through every crisis before, haven't we?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So we definitely won't die!\""
+  },
+  {
+    "message": "I dragged the two of them along as I stepped over the handrail."
+  },
+  {
+    "message": "The sky was close."
+  },
+  {
+    "message": "It felt like I could reach out and touch the heavens..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You strip from me the laurel and the rose!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Take all! Despite you there is yet one thing I hold against you all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"One thing that is left, that, void of stain or smutch, I bear away despite you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mon panache!\""
+  },
+  {
+    "message": "I took one step out into the air."
+  },
+  {
+    "message": "The two of them tried to hold their ground."
+  },
+  {
+    "message": "But I took one step out into the air."
+  },
+  {
+    "message": "That's all."
+  },
+  {
+    "message": "Let me dance for this new world."
+  },
+  {
+    "message": "For this new power."
+  },
+  {
+    "message": "For this new truth."
+  },
+  {
+    "message": "I took that one step."
+  },
+  {
+    "message": "I felt the two of them trembling."
+  },
+  {
+    "message": "It'll be all right..."
+  },
+  {
+    "message": "I'm here with you!"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"To the sky!\""
+  },
+  {
+    "name": "Usami",
+    "message": "\"Nooooooo!\""
+  },
+  {
+    "name": "Ayumi",
+    "message": "\"Ah!!!!!!!!!!!!!\""
+  },
+  {
+    "message": "I entrusted everything to the sky."
+  },
+  {
+    "message": "My body travelled from sky to Earth in an instant."
+  },
+  {
+    "message": "I grabbed their wrists, bringing them along with me into that abyss."
+  },
+  {
+    "message": "I saw their faces..."
+  },
+  {
+    "message": "Laughing, but crying..."
+  },
+  {
+    "message": "Terrified, and yet... happy..."
+  },
+  {
+    "message": "Those were the emotions upon their faces."
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "message": "It's like we're flying."
+  },
+  {
+    "message": "It's like we're angels already."
+  },
+  {
+    "message": "So fast..."
+  },
+  {
+    "message": "So windy..."
+  },
+  {
+    "message": "But there was no sound."
+  },
+  {
+    "message": "The world rotated in the silence."
+  },
+  {
+    "message": "Soon we'll reach the ground."
+  },
+  {
+    "message": "Pioneers in aerodynamics..."
+  },
+  {
+    "message": "Everything was the rotating sky."
+  },
+  {
+    "message": "The Earth knew me as it reached up to envelop us."
+  },
+  {
+    "message": "Just a little ways until we reach the world..."
+  },
+  {
+    "message": "Just a little ways until we reach the Earth..."
+  },
+  {
+    "message": "The growing shadow."
+  },
+  {
+    "message": "I saw my shadow upon the ground."
+  }
+]

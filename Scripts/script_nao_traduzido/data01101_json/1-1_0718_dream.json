@@ -1,0 +1,2076 @@
+[
+  {
+    "message": "It was Saturday afternoon... For some reason, I was riding the train."
+  },
+  {
+    "message": "\"Let's ride this train to the last stop.\""
+  },
+  {
+    "message": "It kind of felt like Takashima-san forced me into this."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"By the way, where is the last stop?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The amusement park. Have you ever been there?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is that right? I haven't been there. I didn't even know there was an amusement park there.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is that so...\""
+  },
+  {
+    "message": "For a moment, her voice sounded kind of sad."
+  },
+  {
+    "message": "Did I say something wrong?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Uh, have you been there before?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I... I've been there once before.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, really? With your parents?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No. I was with the person I loved the most in the world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's the first I've heard of that. There's someone that you're in love with?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, there was.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was? Why are you using the past tense?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Everything about the person I knew, even their face, has changed.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Even their face changed?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, so the person I loved isn't in this world anymore.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You mean...\""
+  },
+  {
+    "message": "Maybe it was an accident, or sickness, or something..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"D-Did I ask something I shouldn't have?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, I don't mind at all. It's not your fault. But leaving that aside...\""
+  },
+  {
+    "message": "Takashima-san pointed her finger out the window."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I can see the last station. Look, there's the amusement park.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "The last stop was right in front of the amusement park."
+  },
+  {
+    "message": "I'd been riding this train for years, but I never noticed that it stopped there."
+  },
+  {
+    "message": "It was the last stop, so I saw \"Amusement Park Bound\" every time I rode this train, but I probably didn't care."
+  },
+  {
+    "message": "The doors opened at the last station."
+  },
+  {
+    "message": "People got off much more slowly than they would at any other stop."
+  },
+  {
+    "message": "The doors stayed open for a long time at the last stop. There was no need to rush like when you're trying to get off at one of the intermediate stops."
+  },
+  {
+    "message": "At the \"Amusement Park\" station, everyone left slowly, idling nearby."
+  },
+  {
+    "message": "Next stop: a land of wonder."
+  },
+  {
+    "message": "Though this \"land of wonder\" was old and faded."
+  },
+  {
+    "message": "The people were all laughing as they stepped into that cheap wonderland."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Shouldn't we get off here too?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's why you brought me here, isn't it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. That's right, but it's just a place where I have a lot of memories. It probably doesn't mean anything to you, so I don't mind if you would rather go home.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's no point going home now.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really? Just being with you like this is meaningful enough for me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There you go again. You shouldn't make those jokes so casually.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So I shouldn't make those jokes because they make Tsukasa-san and Kagami-san act strange?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, pretty much.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But it's a bit upsetting that you would call them jokes, Yuki-sama.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I really do enjoy spending time alone with you, Yuki... even though we can't get away from those other two very often.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Get away from them?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If Kagami-san and Tsukasa-san knew the truth about what we're doing today, things probably wouldn't end peacefully.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Th-There you go again. Those two are just messing around.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You're still saying that it's just a... joke, I guess.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, exactly.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Then go on some rides with me here at the amusement park. Just play along, as a joke.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, sure. That was the plan anyway.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Thank you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, let's go, then.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes.\""
+  },
+  {
+    "message": "We walked around together."
+  },
+  {
+    "message": "Our shoes echoed off the hard concrete."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder how long it's been since I last had shaved ice.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is it good?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. It's just ice, but it's really good.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. I dragged you all the way out here, so this is the least I could do.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You really didn't need to pay for mine too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, I did. I knew you would say that, because you're so kind.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's not true.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. Really? I think you're kind just for saying that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I dunno about that...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Anyway, there are a lot of people here, even though it's such a shabby amusement park. I heard places like these usually operate in the red nowadays.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"How crowded it is just shows how amazing this amusement park is.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe so.\""
+  },
+  {
+    "message": "There was a fake castle, and mannequins were rusted. The whole place was a bunch of silly dreams, all thrown haphazardly together."
+  },
+  {
+    "message": "It was a world where various dreams were put together without any unifying theme or logic."
+  },
+  {
+    "message": "People laughed and played in such a cheap world. Happy people."
+  },
+  {
+    "message": "As I walked among those people, I felt like I had turned into a ghost."
+  },
+  {
+    "message": "I felt a strange sensation, as if my feet weren't actually touching the ground..."
+  },
+  {
+    "message": "As if a dream had become real..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Today is my treat, so let's enjoy ourselves.\""
+  },
+  {
+    "message": "That strange feeling was dispelled by Takashima-san's smile."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, sure.\""
+  },
+  {
+    "message": "A herd of smiles surrounded me, gathered here in this cheap world."
+  },
+  {
+    "message": "I was saved from the feeling of floating by the person at my side."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, but you really don't need to pay for me. Anyway, we're here, so let's enjoy ourselves. I actually haven't been to an amusement park since I was a child.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is that right? Not since you were a child? Oh, by the way, Yuki-sama.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Can we call this a date?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? I don't really mind, but why?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, nothing. Just something for me to remember you by.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Remember me?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You know, tomorrow is the 19th.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, it is, but so what?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The date for the stargazing was set for the 19th. We will search for the beginning and end of tomorrow's night sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, we will. I hope we find it this time.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, but if we do, we probably can't be together the next day, on the 20th.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Wh-What do you mean?\""
+  },
+  {
+    "message": "Did she mean that she was the world girl? That she thought she was going to return to the sky on the 19th?"
+  },
+  {
+    "message": "But if she really tried to do that..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"E-Excuse me, Takashima-san.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. What is it? Did you think I was planning to jump off the roof on the 19th?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uh, no. How should I put it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Don't worry. I won't do anything like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That was a joke. Just a joke. It's not true that we won't be able to be together after the 20th.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, really? Don't scare me like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm sorry.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You know, the other day...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The other day?\""
+  },
+  {
+    "message": "Those words tumbled out of my mouth almost by accident. I hesitated, not knowing if I should finish the sentence, but I had to ask her about it."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I saw you dropping a doll at school. You told me that ritual was supposed to be done when the Summer Triangle was visible, so...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"July 16th, 2012, 5:58 PM. Right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"?!\""
+  },
+  {
+    "message": "Why did she remember the exact time? That was the same time that Ayana said it was."
+  },
+  {
+    "message": "The time was accurate down to the minute."
+  },
+  {
+    "message": "Maybe there was some meaning in the exact time she did it."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, at that time, you dropped the doll from Building C, right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You saw it, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was I not supposed to?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It doesn't really matter. I was just dropping the doll.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But why did you drop it at that kind of time? Wasn't that a way of searching for something in the sky?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, that's right.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But the landmark, the Summer Triangle, wasn't visible at that time.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You're right. I guess it wasn't.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then why did you drop the doll at that time?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I guess you could call it the borderline.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The borderline?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, Ayana-san said it was supposed to have an effect on another world...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Otonashi Ayana...\""
+  },
+  {
+    "message": "Takashima-san's expression suddenly disappeared."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What's the matter?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Otonashi Ayana, you said? So something like her can exist even in this kind of place.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Even in this kind of place?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But that was inevitable. Now I understand. I can understand why something like her would exist even here.\""
+  },
+  {
+    "message": "I was getting goosebumps for some reason. What the heck was this conversation we were having?"
+  },
+  {
+    "message": "I'd been perspiring for a while now. It was a cold sweat."
+  },
+  {
+    "message": "Takashima-san's expression was dead. I'd never seen a face like that."
+  },
+  {
+    "message": "Why would her expression change like that when talking about Ayana?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But Otonashi-san... Now that I think about it, there were parts of her that were kind, too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The fate I've chosen can't be changed now.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Whether it is inevitable or just coincidence isn't a distinction that a human can make.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The last words Otonashi-san said to me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The last?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, I'm sorry!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-You see, I had an argument with her. Those were the words she said when we parted.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-Is that what it was?\""
+  },
+  {
+    "message": "So Takashima-san and Otonashi-san knew each other."
+  },
+  {
+    "message": "Now that I thought about it, they did both kind of fit into the \n\"mysterious girl\" mold."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Takashima-san, you had an argument with Ayana-san?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's right. Please don't worry too much about what I just said, nor about the incident with the doll.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"When I dropped the doll from Building C, that was just practice.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Practice?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I haven't dropped a doll from the roof in a while, so I was worried I might be out of practice.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Can you get 'out of practice' at something like that?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. It's rather difficult. You have to throw it so that it floats in the air.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But it's never floated before, has it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It hasn't.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then how can you practice?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It doesn't float because the sky is wrong. With the correct technique, the doll will float in the right sky.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But if you can't throw it correctly, it won't float even in the right sky.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"And then we would never find the beginning and end of the sky.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-I guess that makes sense.\""
+  },
+  {
+    "message": "I guess for all these \"mysterious\" people, it must be a pain following all these \"mysterious\" rules."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But...\""
+  },
+  {
+    "message": "Takashima-san's face suddenly softened."
+  },
+  {
+    "message": "When she looked at me, the smile had returned to her lips."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is nothing like that time, when I was so nervous. Right now, I'm totally relaxed, and I'm enjoying this calm, peaceful, happy moment.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Are you talking about the person you came with the last time you were here?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, yes. That's right.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's really no comparison there, though. You were nervous because you were with the person you liked.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But I like you too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But that's something different. Not 'love,' just plain old 'like.'\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If that's how you want to put it, I loved the person I was here with last, and I love you too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ugh...\""
+  },
+  {
+    "message": "Now she's saying it too. Jeez."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But still, there's no way you would get nervous around me, since we're both girls.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. Who cares about that? We still have time to enjoy this wonderland!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wonderland, huh? What a cheap wonderland it is.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Dreams are nice because they're cheap. If they weren't cheap, they wouldn't be dreams. What do you think about that?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We rode a lot of different ones, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. Are there any others you want to try?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Now that you mention it, there's a boat ride here.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, is there?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"How does that sound? Does the boat sound like fun?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That one?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, that ride looks like fun.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Spirit room: 'The End Sky'...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's a strange name. It obviously means 'the end of the sky,' but it's written 'The End Sky.'\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder what it is. It says it's a spirit room, so it's probably one of those scary attractions.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm not really sure, but it looks odd, doesn't it? It says it's a 'spirit room,' not a 'haunted house.' It sounds kind of creepy.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. Let's check it out.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Okay.\""
+  },
+  {
+    "message": "The building had a bizarre structure."
+  },
+  {
+    "message": "That was the one thing that made me uncomfortable. Other than that, it looked like an ordinary attraction."
+  },
+  {
+    "message": "It was one of those attractions where you ride around in a gondola. I couldn't tell if the rails rusted or what, but they were making an unpleasant noise."
+  },
+  {
+    "message": "We sat in the gondola and looked at various worlds that passed us by, each of which had been neatly demarcated from the last."
+  },
+  {
+    "message": "At first, we were surrounded by never-ending darkness."
+  },
+  {
+    "message": "It felt like we were rising and falling, or even moving from side to side sometimes, but we couldn't really tell for sure what was happening in the dark."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What is this?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What the heck? Are we in a convenience store? Did we go the wrong way?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That can't be it. Why would anyone come to a convenience store on a creepy gondola like this? Besides, there aren't any customers or employees.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There really isn't anyone here. It's kinda scary how dark it is, too. If something popped out right now, it might actually scare me.\""
+  },
+  {
+    "message": "The gondola slowly passed through the deserted store."
+  },
+  {
+    "message": "I was expecting someone dressed up like a ghost to pop out at any moment, but nothing happened."
+  },
+  {
+    "message": "The thin layer of dust on all the shelves was a bit eerie."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm... Do you think they would mind if I took a piece of candy?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You can't do that. It's not like there's a sign that says 'free samples' or anything.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But the security cameras aren't even turned on.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's not the problem here...\""
+  },
+  {
+    "message": "I grabbed a bag of potato chips from a nearby shelf."
+  },
+  {
+    "message": "The expiration date was July 20th, 1999."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha... This is an antique.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Let's stop this.\""
+  },
+  {
+    "message": "It was starting to make sense. The scenery didn't just look old. It really was old."
+  },
+  {
+    "message": "What the heck was the designer thinking when he made this ride?"
+  },
+  {
+    "message": "A deserted store. It definitely was creepy, but as an attraction in an amusement park, it was kind of lacking."
+  },
+  {
+    "message": "The rusty rails squeaked as the gondola turned toward a door behind the register."
+  },
+  {
+    "message": "I looked at the register."
+  },
+  {
+    "message": "Something was scribbled on a piece of paper there."
+  },
+  {
+    "message": "Just one sentence."
+  },
+  {
+    "message": "Title of this piece\n\"Convenience Store End\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This piece? Convenience Store End? What does that mean?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe it means that this is the end of the convenience store?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The end of the convenience store, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What is this supposed to be? Some sort of commentary on consumerism?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I don't know. That seems kind of complicated.\""
+  },
+  {
+    "message": "The gondola skirted the wall and entered a staircase. We watched the convenience store recede below us as we ascended."
+  },
+  {
+    "message": "The gondola went up the endless stairs."
+  },
+  {
+    "message": "I was a bit surprised that it could go up the steps. It was quite the agile machine."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is a really long stairway, isn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's just stairs and stairs, stretching on forever.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I can see the end.\""
+  },
+  {
+    "message": "The staircase that we thought was about to end doubled back in the opposite direction, and after we passed that..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was the building really this big?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No. From the outside, it didn't look this big...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's pitch black.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What is this?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It looks like the gondola got on an elevator.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What kind of ride is this?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This part looks like an apartment building.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"An apartment building...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, the gondola is moving again.\""
+  },
+  {
+    "message": "It moved steadily through the concrete hallway. That was a barren, lifeless hallway, and there was no telling where it would lead."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey. This is a hallway, right? We have to be in an apartment complex...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, probably.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then why are there curtains on the hallway windows?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "The windows of the once-modern hallway had at some point changed into the decrepit windows of a condemned apartment."
+  },
+  {
+    "message": "I had thought that we were still in the hallway, but maybe the gondola turned into one of the rooms without either of us noticing."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is a room, isn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It looks so old.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Would you call this the living room?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It feels like we're back in the Shouwa era.\""
+  },
+  {
+    "message": "There was an engraved plate on the table."
+  },
+  {
+    "message": "Title of this piece\n\"Living Room End\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this? Maybe it really is some sort of criticism of modern culture.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe it's trying to express a father's fear that the tight-knit family unit is falling apart.\""
+  },
+  {
+    "message": "The sound of grinding rust filled the room as the gondola advanced forward. The entire scene felt kind of surreal, or rather, downright eerie."
+  },
+  {
+    "message": "The calendar and clock were both stopped at the same point."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"July of 1999, again.\""
+  },
+  {
+    "message": "What was up with that date? It must have been the date when this attraction was made."
+  },
+  {
+    "message": "We left the living room and emerged into another staircase, except this time it was a small set of stairs like in someone's house."
+  },
+  {
+    "message": "It was really creepy."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Those stairs led right into a classroom.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The living room was connected to the classroom, huh? Heheh. If you lived in a house like that, you would never be late, would you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But on the other hand, your teacher could come to your room and ask, 'Are you doing your homework?'\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha. You're right, that might be annoying.\""
+  },
+  {
+    "message": "A plate was set upon the podium."
+  },
+  {
+    "message": "Title of this piece\n\"End of the Classroom\""
+  },
+  {
+    "message": "A convenience store, a living room, and then a classroom."
+  },
+  {
+    "message": "I see. So the designer was trying to bring out a feeling of unease."
+  },
+  {
+    "message": "There was no one in all these places where people should be, and the riders feel like intruders for being in places where they shouldn't be."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So that's what it meant by 'spirit room.'\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All of the rooms are places that exist so that people can live in them. And when you suddenly take the people out of them, and look at all of these places from this gondola...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"We get to look into these people's lifestyles, as if those lifestyles had been amputated and preserved in a jar.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I think we're the spirits on this ride.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So there won't be any ghosts popping out and scaring us?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't think they're going to do anything crude like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If any ghosts appeared, we would go back to being human.\""
+  },
+  {
+    "message": "The gondola left the classroom and went out into the hallway."
+  },
+  {
+    "message": "Just how big was this building?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's a really long ride, isn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. It's just showing us all these deserted scenes, but it's scary how big this place is.\""
+  },
+  {
+    "message": "The gondola kept moving through the hallway. The rust was causing a high-pitched whine."
+  },
+  {
+    "message": "The gondola advanced past the classroom and... stopped."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It stopped.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "message": "A bell rang behind us as a door closed."
+  },
+  {
+    "message": "The gondola rotated around, and..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Somehow we ended up in another elevator.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. It really is a huge building, isn't it?\""
+  },
+  {
+    "message": "Title of this piece\n\"The Final Abode\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"'The Final Abode'... That's kind of a gross name for a hospital.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"By the 'The Final Abode,' they mean the place where you live while waiting to die, I guess.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You might be right. Most people die in the hospital, but that's a creepy way of saying it.\""
+  },
+  {
+    "message": "Nevertheless, this was a hell of a design."
+  },
+  {
+    "message": "The gondola started to move into the bed."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Whoa, we're going to run into it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Whoa!\""
+  },
+  {
+    "message": "The gondola went into the bed."
+  },
+  {
+    "message": "What kind of structure did this ride have?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's dark, isn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. It's pitch black.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, there's a light.\""
+  },
+  {
+    "message": "The blue sky spread out above us."
+  },
+  {
+    "message": "And..."
+  },
+  {
+    "message": "When we looked down..."
+  },
+  {
+    "message": "There was another plate."
+  },
+  {
+    "message": "Title of this piece\n\"The End Sky\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So that's what it was.\""
+  },
+  {
+    "message": "A tremor ran up my spine, twisting my face into a jagged smile."
+  },
+  {
+    "message": "Normally, you were supposed to be scared when you were inside a haunted house, not when you left it."
+  },
+  {
+    "message": "But for some reason, this one was different."
+  },
+  {
+    "message": "It felt as if everything up to this point was a prelude."
+  },
+  {
+    "message": "The creepy feeling from all the deserted places where people should've been, and all the places where we had no right to be, culminated beneath this sky."
+  },
+  {
+    "message": "Just like that, the gondola stopped."
+  },
+  {
+    "message": "It seemed like the ride should return to the beginning for the next person, but if this wasn't the end, it would be like the plate was lying."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Th-That was kind of weird.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. I suppose so.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well then, how about we ride something fun next?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That sounds good. It would be nice to ride something more relaxing.\""
+  },
+  {
+    "message": "Really, who the heck would make a ride like that?"
+  },
+  {
+    "message": "I doubted there was any particular meaning to it. But still, it wasn't a very pleasant experience."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A ride where you can experience the feeling of being a ghost...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yuki-sama, look! There's a boat over here!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, sure. Just a sec.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yuki-sama, how does that sound? Would you ride the boat with me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, that might be nice. After that weird ride, a boat ride would probably feel good.\""
+  },
+  {
+    "message": "Creak... Creak..."
+  },
+  {
+    "message": "Creak... Creak..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm sorry about this. I'm making you row, even though I'm the maid.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's nothing. Ahaha...\""
+  },
+  {
+    "message": "At first, Takashima-san said she was going to row, but with her at the oars, we'd hardly moved at all."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm not very good at this, so just say something if you're feeling seasick.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm fine. There's no way I would get sick from your rowing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How can you say that with such certainty?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha. I wonder why.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The breeze on this lake is always nice and cool.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is the first time I've been here, so I wouldn't know.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It feels really good. I think it's wonderful.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, the water draws the cool breeze over the lake, doesn't it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It feels so nice...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The water looks like a mirror reflecting the sky, like we're in a boat flying through the heavens.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see what you mean, but that would be kinda scary.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you think so? I think it feels good to walk through the clouds.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha. You say that as if you've actually done it before.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I've never walked on a cloud before, so I wouldn't know. I just think it's kind of scary to imagine us being up in the sky.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Scary, is it? That's the opposite of what you said last time.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Last time?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, it's nothing. I'm just talking to myself.\""
+  },
+  {
+    "message": "Creak... Creak..."
+  },
+  {
+    "message": "Creak... Creak..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm? What's up?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, it's just... Look, if I touch the water, it's like I can reach out and touch the sky, I guess. That's all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hehehe. That's interesting.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's something I heard from the person I loved.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh? He was a poet, wasn't he?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"He was a poet, a swordsman, a philosopher, and a pioneer of aerodynamics.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...♪\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "We were on the train back home."
+  },
+  {
+    "message": "It felt nice. Our languid spirits swayed back and forth with the movement of the train."
+  },
+  {
+    "message": "And then..."
+  },
+  {
+    "message": "Music."
+  },
+  {
+    "message": "Takashima-san looked like she was enjoying listening to my music."
+  },
+  {
+    "message": "I had her listen to a few songs, judging what genres she liked from her expression. It seemed like Takashima-san enjoyed the classical music."
+  },
+  {
+    "message": "I told her that this recording was from a New Year's concert they held every year in a foreign country."
+  },
+  {
+    "message": "Their conductor was lauded as a genius, and he led the most famous philharmonic in the world."
+  },
+  {
+    "message": "Waltz."
+  },
+  {
+    "message": "Polka."
+  },
+  {
+    "message": "March."
+  },
+  {
+    "message": "A dancing melody."
+  },
+  {
+    "message": "The swaying of the train seemed to match the rhythm of the songs."
+  },
+  {
+    "message": "I felt her softly put her hand on my hand that was holding the music player."
+  },
+  {
+    "message": "Fittingly, the name on the screen was Vergnugungszug, \"Pleasure Train.\""
+  },
+  {
+    "message": "Ours was just a ride across town, not a journey, but the relaxed feeling was the same. The song almost made the scenery outside look like it was glowing."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you like classical music?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, my mother used to be really strict, and she made me practice the piano.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You can play the piano, then?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, as long as it's not too hard, I can manage.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Then could you play for me, tonight?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tonight?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I know a store where they have a piano.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is that so?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, though it's a place I heard about from the person I loved.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Would you mind going with me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'd be glad to.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This kind of looks like a bar or something.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Don't worry about that. Here, sit on this seat.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're right. There is a piano.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. Here.\""
+  },
+  {
+    "message": "Takashima-san handed me a key."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The key to the piano... This bar's piano.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why do you have a key? Do you work here or something?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. Who knows?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The name is... Hakushuukyou Bar. Hmm?\""
+  },
+  {
+    "message": "I guess all bars really do look the same. This was my first time in the place, but it felt oddly familiar."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is it all right if I play this piano?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"There's no problem at all. Please, play the piano.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, sure.\""
+  },
+  {
+    "message": "I played a few notes. It was pretty well tuned."
+  },
+  {
+    "message": "Actually, the piano felt like it was really easy to play. It seemed that the piano and I were compatible."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is there anything you'd like to hear?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. For the first one, Erik Satie. Le Picadilly would be nice.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, you listen to Satie. Good taste.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's right. Enjoying Satie is in good taste. He was a great composer.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, that's rare. Are you singing your own praises now?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I guess I am.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What a coincidence, though. I like Satie too.\""
+  },
+  {
+    "message": "I spread my fingers over the keys."
+  },
+  {
+    "message": "I closed my eyes for a moment, and then..."
+  },
+  {
+    "message": "My fingers danced."
+  },
+  {
+    "message": "As I struck the keys, layers of different tones flowed out from the piano."
+  },
+  {
+    "message": "The music wove a tapestry of good cheer."
+  },
+  {
+    "message": "It was a happy rhythm."
+  },
+  {
+    "message": "Bright."
+  },
+  {
+    "message": "Ornate."
+  },
+  {
+    "message": "And somehow nostalgic."
+  },
+  {
+    "message": "It felt simple and candid."
+  },
+  {
+    "message": "Satie's music blends into the human lifestyle like a piece of furniture."
+  },
+  {
+    "message": "Takashima-san listened quietly."
+  },
+  {
+    "message": "I was having fun playing."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How was it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It was wonderful.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I had fun, too. I haven't played in a long time.\""
+  },
+  {
+    "message": "And I didn't feel rusty at all."
+  },
+  {
+    "message": "I hadn't been practicing on the piano at home, so I thought that I would mess up, but..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Could you play one more?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, sure. What song?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I would like to hear your favorite song.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My favorite?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, your number one favorite song.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My favorite, huh?\""
+  },
+  {
+    "message": "I faced the piano again and closed my eyes."
+  },
+  {
+    "message": "I slowly opened my hands, and..."
+  },
+  {
+    "message": "I began to play."
+  },
+  {
+    "message": "I played my favorite song."
+  },
+  {
+    "message": "Takashima-san listened with a happy expression on her face."
+  },
+  {
+    "message": "I had to wonder if she knew this song."
+  },
+  {
+    "message": "If she liked Satie, she might have heard it before. It was a famous song."
+  },
+  {
+    "message": "\"The Dreamy Fish.\" That was the title."
+  },
+  {
+    "message": "It was about the dream a fish living in the ocean might have. That was the image the melody evoked."
+  },
+  {
+    "message": "They say Satie's titles were often different from the actual content of the pieces."
+  },
+  {
+    "message": "He didn't want people's impressions to be affected by the title he gave it."
+  },
+  {
+    "message": "That was why a lot of his compositions had strange titles."
+  },
+  {
+    "message": "Embryons desseches. Deux preludes pour un chien. Sonatine bureaucratique. Trois morceaux en forme de poire. Tons of songs like that."
+  },
+  {
+    "message": "But it felt like this song really was about a fish dreaming."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How was it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What's wrong?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes... Thank you very much.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? A-Are you crying?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No... I'm not crying.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, just... thank you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This semester is going to end soon.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah it is, although we skipped today.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yep. So with today, it's over.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's over?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, that's why I dragged you along to the amusement park.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What do you mean? I don't understand what you're saying.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"At the end of this semester, I'm transferring to a different school.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'll only be here in this city until the 20th, when the semester ends.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I've almost completely moved out already, but I wanted to at least stay and finish the semester.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh... I see.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So tomorrow is the last day I can stay at your house.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I have to leave this city the day after tomorrow.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why did you stay until now, then?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It sounds like your parents have already moved. It must have been hard to convince them to let you stay.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I insisted they let me stay at least until the semester ended.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why did you do that? Was there something you still had to do before leaving?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, there was. There was a person that I had to meet, no matter what.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"And I remembered the legend.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What legend?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"About the place where the girl of the sky meets the girl who is the world itself.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That legend has become a sort of spell on this town.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A spell?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's famous. So you really didn't know. It's a spell that lets you find the person you love.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So then, the last person you wanted to meet was the person you loved.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then you shouldn't be trying to use a charm or anything. If you asked us, we could've helped you find him.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, there's no need to search.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? What do you mean, no need?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You see, the spell worked properly.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It worked? You mean you managed to find the person you were looking for?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, thanks to you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"B-But isn't that a bit strange? You say you found the person you loved, but you spent the entire time at my place, right? What exactly were you doing?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Because the person I wanted to meet was Yuki-sama. It was you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Me?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, let me get this straight. Uh, first off, we're both girls, and besides, you didn't even know me until after you dropped the doll on my head.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's how it seems to you, but that's just because you're so forgetful.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If my being a girl is a problem, you should say that to the other two, not just me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"By the other two, you mean...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Kagami-san and Tsukasa-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, they were probably just playing along, you know?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe so. They probably were.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But when someone falls in love with another person, that's just how it is. Or do you think falling in love is something intentional?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uh, no... That's not it. How can I put it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I had a lot of fun the last few days.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"At first I thought that I only wanted to be with you because I like you, but as the days went by, I realized that I like Kagami-san and Tsukasa-san too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I loved being together with you all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Takashima-san...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Competing with Kagami-san for you, playing with Tsukasa-san...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So thank you for everything.\""
+  },
+  {
+    "message": "The legend that tells of the meeting between the world girl and the sky girl."
+  },
+  {
+    "message": "The legend that led to some kind of spell for the two girls."
+  },
+  {
+    "message": "The sky we were going to search for was in Takashima-san's hand from the moment we started to search."
+  },
+  {
+    "message": "That was the answer."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"And... I'm sorry.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're sorry?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe I shouldn't say this.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's wrong, Takashima-san?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Tomorrow, when we go stargazing, let's start right after midnight.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right after midnight? You mean right when the date changes to the 20th?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why? If we want to find the sky, it would be easier to do at an earlier time. And besides, we can't really be in the building that late.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"There's no problem. We can get into the building.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If the world girl desires it, nothing in this world is impossible.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uh, excuse me. Takashima-san, by that...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I understand. It sounds like I'm saying something strange to you right now. You probably think I'm some 'mysterious girl,' or maybe that I'm some 'crazy weirdo'...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, no, that's not...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's fine. I understand now. I understand everything.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"At first, I suffered for my own sin.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Your own sin?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I thought that I had to atone for the crime I'd committed.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Some kind of redemption?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But I understand after walking through this world together with you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The redemption that I seek will only end up making you suffer.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If I don't do it, then you'll be happy. You can live the rest of your life like this, in this Wonderful Everyday. But...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"My redemption would take that all away.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Uh, I don't really get it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Tomorrow, before the 19th ends, please come to Building C.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, then, Kagami and Tsukasa...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If you wish, I think you'll be able to bring them along. But if you don't wish to, you won't be able to.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What does that...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You'll understand tomorrow.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Depending on how you approach the day we call tomorrow, the shape of the world could change greatly.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The day we call tomorrow?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, just like this shop...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This shop is...\""
+  },
+  {
+    "message": "Then it hit me. The other customers were gone. Even the bartender was nowhere to be seen."
+  },
+  {
+    "message": "The only two people here were Takashima-san and me."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Th-This is...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Most likely, it's because you wish for a long journey.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A long journey?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. So, tomorrow, on the rooftop...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wait, Takashima-san!\""
+  }
+]

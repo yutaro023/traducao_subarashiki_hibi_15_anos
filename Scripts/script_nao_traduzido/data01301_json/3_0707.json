@@ -1,0 +1,1414 @@
+[
+  {
+    "name": "Zakuro",
+    "message": "\"Ah... Mamiya-kun.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, hello.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Are you wasting time again today?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, something like that, but, uh...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, yes. I'm Takashima Zakuro.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ahahaha, no. I remembered it this time.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I was just thinking about asking what's going on today. That's a big package.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh this? This is...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm? A lunchbox?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. Would you like to eat it together? I haven't had lunch yet.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It's not even lunchtime yet.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Did you have other plans?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No, I was just going to buy some bread at the store..."
+  },
+  {
+    "message": " You sure you don't mind?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If you don't like it, I won't make you eat it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh? That's an awfully lavish lunchbox... This looks like Thanksgiving, not an early lunch.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really? Is there a problem?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"There's no problem. It looks great, though. I hope it tastes good, too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I wouldn't know. Why don't you try it?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well then, I'll take you up on your offer.\""
+  },
+  {
+    "message": "The test."
+  },
+  {
+    "message": "I'm pretty confident in my cooking... though no one but my parents has ever eaten it before."
+  },
+  {
+    "message": "They always say it's good, but maybe their taste buds are just malfunctioning."
+  },
+  {
+    "message": "What if everyone else thinks it's terrible? That kind of thing happens all the time in manga..."
+  },
+  {
+    "message": "His chopsticks went to the fried food first."
+  },
+  {
+    "message": "Oh no!"
+  },
+  {
+    "message": "I never tasted them to see if they would still taste good after a few hours had passed!"
+  },
+  {
+    "message": "I only tasted them when they were fresh! And the spring rolls too..."
+  },
+  {
+    "message": "Maybe the spring rolls taste terrible if you let them cool down..."
+  },
+  {
+    "message": "Aah."
+  },
+  {
+    "message": "If I had just made plain ones I wouldn't have to worry. But plain ones would probably go bad since it's so hot out. Oh, what should I do..."
+  },
+  {
+    "message": "Aah!"
+  },
+  {
+    "message": "He's eating it, he's really eating it!"
+  },
+  {
+    "message": "I'm getting too excited! Come on, I sound like a girl in some eroge! But that isn't what I should be worried about right now!"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm... Amph... Hmm, mm...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "He's just eating. He's not saying anything..."
+  },
+  {
+    "message": "Does that mean it's all right?"
+  },
+  {
+    "message": "No!"
+  },
+  {
+    "message": "When I eat something I don't like, I just eat it as fast as possible so I don't have to taste it."
+  },
+  {
+    "message": "Is that what he's doing?"
+  },
+  {
+    "message": "If so..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A-Aha... You don't have to force yourself.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? What do you mean?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, uh, if you don't like it, you don't have to eat it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Does it look like I don't like it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, well... I'm not sure. How is it?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Honestly, I was surprised... This is really good. It feels like I'm eating out at a nice restaurant.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? R-Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, I was really surprised. It all tastes good, and there's a lot of variety.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really? I'm glad you like it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "The spring rolls are amazing. They're stuffed with cheese, aren't they?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I thought they might not be any good after they cooled down. Are they really still good?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No way, they're really good.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's Camembert cheese. My father always liked that kind of cheese...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Your father? Oh, the same person who recommended Garcia Marquez to you?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah, he really likes to read... though he usually reads science fiction and mysteries.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Sounds like he has some good taste. I'd like to see his bookshelf.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, it kind of looks like yours.\""
+  },
+  {
+    "message": "Though there aren't any light novels or manga..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? My bookshelf?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"How do you know about my bookshelf?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Um, in the secret underground room...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Secret underground room?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... I-It's nothing!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Um, you mean...\""
+  },
+  {
+    "message": "Why doesn't he remember it?"
+  },
+  {
+    "message": "He really can't remember something from just a few days ago? It didn't really look like he was playing dumb..."
+  },
+  {
+    "message": "He acted like he really didn't remember."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, besides that.\""
+  },
+  {
+    "message": "The atmosphere is heavy... I have to change the topic."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What was the song you played for me the other day?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Like I said, I can't tell you that. That's for you to figure out.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh, I see...\""
+  },
+  {
+    "message": "Every time I talk to him... I just find more questions."
+  },
+  {
+    "message": "The way he talks, his personality, and his knowledge... It seems to change all the time."
+  },
+  {
+    "message": "Maybe it's just depends on what mood he's in? Or maybe he's just playing with me..."
+  },
+  {
+    "message": "I've heard some strange rumors about him too."
+  },
+  {
+    "message": "There were so many different rumors about him that it was hard to even believe that they were all talking about the same person."
+  },
+  {
+    "message": "At first, he was bullied, just like I was, but now no one even thinks about bullying him."
+  },
+  {
+    "message": "At the very least, I heard about one famous incident involving him."
+  },
+  {
+    "message": "It involved people from this school as well as some gang members from another school, and he was at the center of the incident."
+  },
+  {
+    "message": "He was clearly acting in self-defense, since several people ganged up on him. That's the only reason he wasn't expelled."
+  },
+  {
+    "message": "Apparently all the people that tried to fight him ended up in the hospital."
+  },
+  {
+    "message": "Apparently they instigated it, and he was just the victim."
+  },
+  {
+    "message": "People think that he's the most violent and dangerous person in the school."
+  },
+  {
+    "message": "Everyone is afraid of him..."
+  },
+  {
+    "message": "And yet..."
+  },
+  {
+    "message": "Why is he so peaceful and calm right now?"
+  },
+  {
+    "message": "He reads French plays on the rooftop... and at night he plays the piano at a bar."
+  },
+  {
+    "message": "He knows all sorts of stuff... and he's always kind... If there ever was a perfect, Renaissance man in the world, he would be it."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "message": "He..."
+  },
+  {
+    "message": "Sometimes he seems incredibly weak and bitter... and afraid. Just like me."
+  },
+  {
+    "message": "And the writing on the wall underground looked almost demonic... That was really scary, and honestly kind of disgusting."
+  },
+  {
+    "message": "And still other times... he's a violent man that everyone in the school fears..."
+  },
+  {
+    "message": "Which one is real?"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm? What is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I-I'm sorry!\""
+  },
+  {
+    "message": "It doesn't matter which one is real..."
+  },
+  {
+    "message": "I just want to be with him a little longer, just the way he is right now... That's all."
+  },
+  {
+    "message": "I just want to get closer to him... That's all."
+  },
+  {
+    "message": "He happily ate all the food I made for him."
+  },
+  {
+    "message": "He really is a kind person."
+  },
+  {
+    "message": "I wish I had been born as such a wonderful person."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah... Kimika...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Zakuro... Was that Mamiya Takuji?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Uh, yeah...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mamiya Takuji, huh... What, have you been getting along with him lately?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, uh, it's not like that...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's not like that, huh... Even though you made him lunch?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Umm...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well, whatever you say... Still, you should be careful around him.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Yeah, I know that.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hmm... So even you can figure that much out.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well, it's just a rumor... I don't really know anything about him.\""
+  },
+  {
+    "message": "After saying that, Kimika walked away."
+  },
+  {
+    "message": "That was an awfully candid conversation."
+  },
+  {
+    "message": "Tachibana Kimika."
+  },
+  {
+    "message": "She's a strange person."
+  },
+  {
+    "message": "I was in the same class as her in elementary school."
+  },
+  {
+    "message": "But I transferred to a different school... I didn't see her again for a long time."
+  },
+  {
+    "message": "After that, I changed schools a few more times, and then I ultimately got into Kita High, where I ended up in the same class as her again."
+  },
+  {
+    "message": "I was so happy to see her that I tried to make friends with her again."
+  },
+  {
+    "message": "Maybe I shouldn't have done that... Ever since then, I've been bullied too."
+  },
+  {
+    "message": "I guess Kimika was originally the target of most of the bullying here... and when I showed up, I became the new target."
+  },
+  {
+    "message": "I haven't talked to Kimika one on one like that in a long time... What should I do? Should I just let it go?"
+  },
+  {
+    "message": "I'm not really sure what she's thinking..."
+  },
+  {
+    "message": "When she walked off just now, her attitude seemed to be screaming, \"And don't follow me!\""
+  },
+  {
+    "message": "Maybe she was angry about something?"
+  },
+  {
+    "message": "Now that I think of it, back when Kimika was being bullied... she always got angry at me for talking to her."
+  },
+  {
+    "message": "Back then, I didn't understand why."
+  },
+  {
+    "message": "She must have been mad at me for being so stupid."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um... I forgot something...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? I-Is someone there?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um... Are you staying late and studying?\""
+  },
+  {
+    "message": "I slowly moved toward the noise I heard."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Don't come near me...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? That voice...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Right now... I want to be alone...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What happened?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I-I said get away!\""
+  },
+  {
+    "message": "Kimika was curled up in the corner of the classroom..."
+  },
+  {
+    "message": "She was completely soaked... and for some reason she wasn't wearing any clothes..."
+  },
+  {
+    "message": "Why would she be naked in a place like this?"
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You shouldn't get involved with me. It has nothing to do with you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What do you mean nothing to do with me... What happened?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I got wet in the rain, so I set my clothes out to dry... and then the wind carried my clothes off somewhere.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What? That's impossible. It didn't even rain today.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It did rain, but just on me. Is that good enough for you? Now leave me alone... Achoo.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-That's no good. You're sneezing. You're going to catch a cold.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I'll be fine. Leave me alone... I want to be naked for a little while longer.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? Why?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Who knows... Maybe I'm an exhibitionist... I love the thrill when I don't know whether someone's going to see me or not.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But now I've seen you...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Then forget it. Pretend it never happened. We'll start over from scratch.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Besides, why are you wet? I don't think an exhibitionist would do that...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Th-That's... because I feel like a dirty girl when I'm all wet, you know?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But you're dirty, too... That must have been water from a mop bucket.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Shut up, shut up! Just shut the hell up, Zakuro!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? Okay...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You know, Zakuro... I keep telling you, nothing good will come of associating with me. Stay away from me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's not the problem right now... Uh, where are your clothes.\""
+  },
+  {
+    "message": "I looked for Kimika's clothes."
+  },
+  {
+    "message": "They weren't anywhere in the classroom... Wait, of course they aren't. If they were here, Kimika wouldn't be sitting there naked."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um... Oh.\""
+  },
+  {
+    "message": "The window sill behind her was wet too... That was probably where they dumped the water on her."
+  },
+  {
+    "message": "Which means..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um... Um...\""
+  },
+  {
+    "message": "I looked out the window and surveyed the schoolyard... There was a good chance someone threw her clothes out this window."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Zakuro, that's enough...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-There they are!\""
+  },
+  {
+    "message": "The wind carried them for a little while and dumped them in a flower bed by the school."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Zakuro... You're overdoing it. I don't want you to do that.\""
+  },
+  {
+    "message": "Kimika said something, but I was already running out the door to get her clothes."
+  },
+  {
+    "message": "If I didn't hurry, they would get blown away."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Your clothes aren't wet, at least.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"They made me take them off before they dumped the water on me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's good.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's not good at all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Do you know what's going to happen if you keep doing this?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Doing what?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Everyone in the class has always ignored me... except for one stupid girl who transferred in. You keep breaking the taboo.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What's going to happen?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You'll definitely get bullied too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Will I?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's right... In this classroom, I'm nothing more than a worm.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You don't look like a worm to me.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Idiot...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...Guilt.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You've never thought about that, have you? You're too stupid to understand that word.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If you get bullied too, I'll feel guilty, and then I'll just...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...Die.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? What do you mean?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I'm joking, but..."
+  },
+  {
+    "message": " Well, sometimes a smile can be crueler than a fist. Remember that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Okay...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's especially cruel for people like me... People who aren't used to kindness...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"So stay away from me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, okay...\""
+  },
+  {
+    "message": "The result was just as expected."
+  },
+  {
+    "message": "It was just like she told me."
+  },
+  {
+    "message": "I started to get bullied just like her."
+  },
+  {
+    "message": "The two of us were almost always bullied at the same time."
+  },
+  {
+    "message": "But they didn't bully me nearly as badly... Kimika always tried to make the bullies mad so they would focus on her instead of bullying me."
+  },
+  {
+    "message": "She tried to draw their attention to herself."
+  },
+  {
+    "message": "Kimika was always mad about that."
+  },
+  {
+    "message": "And I can't blame her... My presence didn't alleviate any of the bullying she received. I actually made it worse for her."
+  },
+  {
+    "message": "Now that I think of it, back then..."
+  },
+  {
+    "message": "When Akasaka-san tried to throw away the doll Kimika gave me as a present... she was angry about that too..."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Come on, get rid of that thing already.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I can't throw it away. This is...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"It matches with Tachibana's right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? No...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"It does! Look, this is the same as the one Tachibana always used to carry around!\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Though she never puts it on her phone strap anymore, ever since you got that one.\""
+  },
+  {
+    "message": "Y-You're misunderstanding something. Kimika gave this to me... It's the same one Kimika had before."
+  },
+  {
+    "message": "It's a rare version, so I was jealous, and then... she slipped it into my bag one day."
+  },
+  {
+    "message": "It's supposed to be a panda, but for some reason it's all black... like someone painted it black. It's cute even though the color is a bit odd."
+  },
+  {
+    "name": "Megu",
+    "message": "\"You're such a bitch, Tachibana.\""
+  },
+  {
+    "message": "The two of them kicked Kimika as she laid on the ground."
+  },
+  {
+    "message": "Akasaka is always a lot meaner to Kimika than to me."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe... That's right. I'm a bitch. That should be obvious by now... right, Zakuro?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? N-No, not at―\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"This doll is the reason why everyone in the class started ignoring you too, Takashima... You're such a dumb bitch.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's not true... Zakuro isn't dumb, she's just too kind.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Unlike me, Kimika never gives in... She never backs down even when they're bullying her."
+  },
+  {
+    "message": "Back when they first started bullying me, she probably could've turned around and bullied me alongside them. Then she would've been released from this hell, but her attitude never changed at all."
+  },
+  {
+    "message": "Though she didn't act friendly toward me either."
+  },
+  {
+    "message": "Back then... they didn't take the panda doll away from me because Kimika butted in and drew the attention to herself."
+  },
+  {
+    "message": "Akasaka-san believed that Kimika had painted it black... though it was black from the very beginning. Her memory isn't so good, is it?"
+  },
+  {
+    "message": "The topic of the panda doll came up several other times after that, and Akasaka ultimately threw it off the rooftop."
+  },
+  {
+    "message": "She suddenly took it from me and threw it."
+  },
+  {
+    "message": "She did it so quickly that I immediately reached out to grab it when she threw it. I lost my balance and fell from the rooftop."
+  },
+  {
+    "message": "My injuries took two months to heal."
+  },
+  {
+    "message": "It really hurt... I broke a few bones, and it was boring in the hospital. It was a major hassle all around."
+  },
+  {
+    "message": "But thanks to that incident... the bullying stopped."
+  },
+  {
+    "message": "I have a long history with that doll."
+  },
+  {
+    "message": "I don't want anything like that to happen again, so I don't take it out of my room anymore."
+  },
+  {
+    "message": "I still have it, though."
+  },
+  {
+    "message": "While I was in the hospital... Kimika found it for me, and she came to give it to me while I was still recovering."
+  },
+  {
+    "message": "She always gets mad at me, but she really is a nice girl at heart."
+  },
+  {
+    "message": "She can be cold, but still... she's very kind."
+  },
+  {
+    "message": "She's the only one who never treats me differently."
+  },
+  {
+    "message": "Maybe she's a bully, but... I love her."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um... Kimika.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Don't follow me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"B-But...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, and let me give you some advice.\""
+  },
+  {
+    "message": "Kimika didn't even turn to face me as she spoke."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The two of us shouldn't be alone together... At least for now, you should be careful about that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? Why?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You really are stupid..."
+  },
+  {
+    "message": " You're a shit. You're just shit. You're such shit, Zakuro... Hehehe.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why would you say that?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I think Akasaka Megu and Kitami Satoko have been planning something lately...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I bet they'll get suspicious of us. If they see the two of us together...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Really?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You should be careful..."
+  },
+  {
+    "message": " But you're a bit thickheaded, so you probably won't listen anyway.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What do you mean thickheaded?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You are... You're super, super, super friggin' thickheaded.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-That's mean...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Super, super, super, super, super, super, super, super, super thickheaded.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You don't need to say it that many times.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehehehe... Super x 1,000 + thickheaded = Zakuro.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why would you say that?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Who knows? Maybe it's because I hate you?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You're mean...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If that's what you think of me,"
+  },
+  {
+    "message": " then don't follow me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hmph... Fine, then.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I told you before, Zakuro.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Before?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Guilt... Planting the seeds of guilt is much crueler than simple bullying could ever be... and that's what you did to me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahahahaha... It turned out just like you said, didn't it...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It didn't even alleviate any of the bullying you received. I just got added on as a side dish.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, now I just have more stuff to worry about.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"To worry about?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's a pain how I have to worry about you instead of just myself.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry...\""
+  },
+  {
+    "message": "It's true. She always tries to stop them from bullying me, even when it makes it worse for her."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe... If you want to apologize, you should probably get down on your hands and knees.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-If that's what you want, then...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You're always like that..."
+  },
+  {
+    "message": " Why don't you just do what you think is right for a change?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But I really do feel bad for you.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Then get down on your hands and knees and lick my feet.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? Wait, seriously?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"No.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh... Good...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Why would you take that seriously? Has your brain rotted away or what?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Of course not. I'd die if that happened.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Who knows, maybe you wouldn't.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Why?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Because you're an idiot.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-That's mean...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Your head is so messed up that you wouldn't even notice a difference.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-You don't need to explain it!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You shouldn't go along with everything anyone else says. You have to make up your own mind and get away... Otherwise, bad things can happen.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh... Okay...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well, whatever..."
+  },
+  {
+    "message": " You seem like you're finally enjoying life, after all.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"E-Enjoying life?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I mean you look like you're actually happy now.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, I know that, but, what do you mean?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Shut up... Shoo, shoo, get away from me with that stupid smile of yours.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Stupid smile? Wait, Kimika!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You've been grinning all the time lately. It's really creepy.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Really? I was smiling?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah... You've looked really happy for the past few days. It makes your face look creepy.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Creepy? My face has always looked like this...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe... That's not what I mean. That's why people always pick on you, Zakuro.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What are you talking about?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You don't know? The real reason so many people bully you is because you're cute.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh? Why do you think that?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I was the first one, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Do you know Shiroyama Tsubasa?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um, he skips class... and the rumors about him are really scary.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Shiroyama and Akasaka Megu are dating.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, that's right. So then, what about it?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Shiroyama Tsubasa said I was cute in front of Megu... and then when he saw you, he said the exact same thing.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? R-Really? But what does that have to do with the people bullying us?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"They're jealous, you know?"
+  },
+  {
+    "message": " Well, either way, Akasaka Megu is super rich, and Kitami Satoko is the most violent girl in the school... Now that they've picked us out from the pack, there's nothing we can do.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Though I'm a stupid girl who doesn't care what those bitches think, and you're an airhead who doesn't know the difference... I guess we reap what we sow.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What does that have to do with anything?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well, whatever..."
+  },
+  {
+    "message": " Zakuro.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You should go ahead and be happy. Don't come back to me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Come back?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Be careful you don't attract the attention of those two girls again.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, that's it. Zakuro, you should go on and live a happy life.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Then my guilt will disappear too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Guilt? But I―\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's my fault you ended up falling from Building C... If you had never talked to me, that wouldn't have happened to you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But that was...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Just shut up. We've talked about that enough.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A-All right...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I'll take the initiative. I'll try to draw their attention. All you have to do is run.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I can't do that.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Just shut up, you dumbass.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-That's mean... You don't have to say it like that.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I said it because you wouldn't shut up... I'm just trying to tell you to shut your trap and listen to me for once.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"B-But you said I shouldn't go along with everything anyone else says... and now you're telling me to shut up and do what you say...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"For once,"
+  },
+  {
+    "message": " you make a good point, Zakuro.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ow! Wh-Why did you hit me?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Jeez, you have to do that all the time. If you say what's on your mind, people won't take advantage of you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So then why did you hit me?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Because you don't fight back against anyone but me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-That doesn't make sense...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It does... I hear that's what happens when you date a guy, too. You get knocked around just like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Where did you hear that? I don't think that's normal.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Damens Walker!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Like I said, that's not a good source of information.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Better than those Cobalt Magazine books you read...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sh-Shut up, jeez.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ow...\""
+  },
+  {
+    "message": "Kimika suddenly kicked me... and then pushed me into an empty classroom."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"K-Kimika, that was mea―\""
+  },
+  {
+    "message": "My mouth snapped shut."
+  },
+  {
+    "message": "Kimika glared daggers at me, telling me to shut up."
+  },
+  {
+    "message": "I put my hand over my mouth and didn't say another word."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh, if it isn't Tachibana. We were looking for you.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"So this is where you were.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, this is where I was.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"We're going to skip the next class. Come with us.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, I'll go with you guys...\""
+  },
+  {
+    "message": "Kimika is protecting me... again..."
+  },
+  {
+    "message": "Why does she always protect me like this?"
+  },
+  {
+    "message": "She's kind of mysterious."
+  },
+  {
+    "message": "I returned to the classroom after that."
+  },
+  {
+    "message": "I'm glad I got to talk to Mamiya-kun again today."
+  },
+  {
+    "message": "I wish these days could go on forever."
+  },
+  {
+    "message": "Those thoughts filled my head."
+  }
+]

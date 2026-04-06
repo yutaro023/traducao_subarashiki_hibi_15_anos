@@ -1,0 +1,2927 @@
+[
+  {
+    "name": "Yuki",
+    "message": "\"Ah, what a pain. I'm late because that guy was so slow ringing up my order.\""
+  },
+  {
+    "message": "I looked at the clock."
+  },
+  {
+    "message": "It was after 11, about the time when fourth period would be starting."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, also because the train was so slow getting here, maybe? Or something like that.\""
+  },
+  {
+    "message": "Though that still didn't explain all the lost time, did it?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And because the shower took so long. Or something like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I guess that's the reason I'm late.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, that's the bell. Third period is over.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ooh, just barely made it. I made it to morning classes, so I can just say my alarm clock didn't go off or something.\""
+  },
+  {
+    "message": "Vertigo again?"
+  },
+  {
+    "message": "Lately, I've been feeling dizzy all the time."
+  },
+  {
+    "message": "Maybe I really am sick."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You're the one who needs to shut up!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What did you say, you whore?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-Whore? You're one to talk, you little brat!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What did you say?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You dare say those words to one who has reached true enlightenment?! Y-You're the little brat!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Don't fucking say that!\""
+  },
+  {
+    "message": "What's happening?"
+  },
+  {
+    "message": "It looked like Kagami and Takuji were fighting."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Don't say crap like that. Everyone's already scared as it is!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It's not crap. It's the truth!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"W-Wait, Onee-chan, calm down. You too, Mamiya-kun.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I am calm. Aren't you the ones losing your calm?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"U-Um, maybe, but could we please talk without raising our voices?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'm not raising my voice! It simply sounds that way because your ears are not capable of comprehending the truth entering them!\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Everyone sit down. Class is starting.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mr. Iida, the world history teacher.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Come on, why are you just standing around?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Oh! Yes, sir!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Oh, oh...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Everyone sit down! Class is starting.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, why are you still standing?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"What's wrong? Quit spacing out and sit down.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Do I look like I'm spacing out?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Come on, Mamiya, your grades have fallen far enough. Would you quit asking stupid questions and sit down already?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hehehe. A stupid question, is it? If you say so.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Okay, class is starting. Turn to page 67. Today, we're covering the Roman Emp―\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Mr. Iida!\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Something wrong? Or would you like to let me start class already?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"What's wrong, Mamiya? Do you need to go to the bathroom?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You really are one of the vulgar people. That's why you can't see the big picture.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Did you say something, Mamiya?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You don't even know that it's all about to end.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"It's all about to end? What are you going on about now?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"For instance, if we were on a sinking ship, would you be standing at the bow reciting facts about the Roman Empire?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, what are you saying?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It's a question. A question. Would you be talking about some trivia from thousands of years ago while the ship sank around you?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"History isn't just trivia. And this isn't a boat. It's a classroom, and it's not sinking.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I see. It's not a boat, it's not sinking, and your description of long-dead emperors isn't just trivia.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"That's right. Well, Mamiya? Have any more complaints?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I have no complaints. It's rather obvious that a vulgar peasant such as yourself wouldn't be able to see the truth.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"After all, no one complains that cats and dogs can't do arithmetic, do they?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, are you feeling all right?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Feeling all right? Whatever do you mean? Maybe you should ask that of yourself, the one doing something so meaningless at a time like this.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"What do you mean, meaningless?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Please, consider this. The world may have been created by a demon just ten seconds ago, and everything we call history was planted in our heads by that demon.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"That's impossible. There's plenty of historical evidence that contradicts that idea.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Then maybe the demon made that too. Maybe it planted the historical evidence.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, are you sure you're feeling all right? What's wrong?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Even if it wasn't a demon, this textbook may simply be a collection of humanity's convenient rationalizations.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The truth may be that there are much greater things in this world, and someone wrote this book in order to conceal them.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Who's the class representative?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"M-Me, sir.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Please go to the staff room and ask them to send Ms. Kiyokawa.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Y-Yes. Understood.\""
+  },
+  {
+    "message": "The moment the class representative passed by Takuji..."
+  },
+  {
+    "message": "He pushed her violently, and she crumpled to the floor."
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Aah!\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, you―!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Y-You little...!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan...\""
+  },
+  {
+    "message": "Kagami stood defiantly in front of Mamiya."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What's wrong with you?! How dare you hit a girl?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It doesn't matter whether she's a boy or a girl.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That you're doing this at all, sitting here and playing along with this farce, when everything is about to end... It's absurd!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Every single person here has turned their back on the truth!\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Cut it out, Mamiya! Are you okay?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I-I'm fine. I just fell because he surprised me.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hmph.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, apologize!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Why would I do that?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, do you understand what you're saying?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"What do you mean, the world is ending? I heard a lot of the students have been scared of something lately. Are you the one spreading those rumors?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It means the world is ending, that's all.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The end of everything.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You could call it the final destination.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It's no rumor. It's merely the truth.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You are a weak human being, a small human being, and therefore you cannot even lay eyes on me.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Mamiya, come over here!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Haha. So you intend to use violence because you can't win with logic?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "No one could understand what had just happened."
+  },
+  {
+    "message": "Just that a loud sound echoed through the classroom, and then the teacher fell down, covered in blood."
+  },
+  {
+    "message": "We were too confused to understand that Mamiya had just struck him with a flower vase."
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Th-That's...\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I-It's just like the email said.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Email?\""
+  },
+  {
+    "message": "That word seemed out of place, but before I could ask what she meant..."
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Aaaaahh!\""
+  },
+  {
+    "message": "Someone screamed, sending the rest of the class into a panic."
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Wh-What just...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Is... Is he dead?\""
+  },
+  {
+    "message": "They made a lot of noise over the collapsed teacher, but no one did anything to Mamiya Takuji except sneak glances from the corners of their eyes."
+  },
+  {
+    "message": "Because they were afraid of him? Because they believed they mustn't look at his face?"
+  },
+  {
+    "message": "But Mamiya Takuji simply stood there and smiled."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What's wrong? You seem awfully scared of something.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"He's... bleeding.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan, we have to help him.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Auugh.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Tsukasa!\""
+  },
+  {
+    "message": "When Tsukasa tried to go over to the teacher, Takuji threw her to the side."
+  },
+  {
+    "message": "She fell to the ground."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya Takuji! You son of a...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, if it isn't Minakami-san.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It would appear you're no better than the rest of the poor little lambs here.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Your heart is thick with fear.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You should just stand back and watch in fear, like you've been doing.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And then you shall feel the flames of hell licking at your flesh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What, are you going to hit me?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You're going to bully me, just like Yuuki Tomosane and the rest of humanity have?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Again..."
+  },
+  {
+    "message": "What's this feeling?"
+  },
+  {
+    "message": "When I was near Mamiya, I got dizzy."
+  },
+  {
+    "message": "Why did it keep happening?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Mark my words, all ye who quiver in fear.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"All life shall end on the 20th! That is the absolute truth!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Both Shiroyama and Takashima died for this truth!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Death, that is the message of prophecy!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Death, that is the absolute truth!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Why is death the message that leads to prophecy?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Because the foolish attempt to conceal death!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"So we must speak of that which is concealed!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That which conceals death! The first is education! The second is the media!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"In countries such as this, mandatory education has become commonplace. In our society, the media has swelled and transformed into the highest authority in the world!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"We have a host of taboos implanted into our minds by public education and through the mass media.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The greatest taboo of all is to think upon death!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"We have put aside any thought of death! We are obliged to act as if our daily lives will continue for eternity!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And the reason is because everything is powerless, everything is meaningless before the unreasoning specter of death!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That is why education and the media try to disguise the true meaning of death!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The death they intimate to us is but a phantasm on the far shores, something with which we have no relation. It has been reduced to a mere toy, something you can enjoy without worrying that it may ever strike you.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But the reality that everyone knows is that every single day, death creeps ever closer to all the people on the planet. Death is reality itself.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"M-Mamiya... you...\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Mr. Iida!\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"H-He's okay...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"You're wrong...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What have I said that's wrong?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"That religious nonsense... You...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Did you hear that?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Just now, this man called my thoughts 'religious nonsense.'\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"As if to say I was a 'madman'.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Th-That's wrong...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Am I wrong? To ponder upon death... Has religion not advanced thought on mortality for the past several thousand years? Has metaphysics not?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"In other words, that which reeks of religion, the action of contemplating death, seems to him the action of a madman. Am I wrong?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"You're wrong... You sound like a cultist...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, really? What a strange thing you've just said. What part of what I'm saying seems crazy to you?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"I don't know, but...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"If you ask me, it seems like you have unfounded conviction for that dogma which you call common sense.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You can't resist attaching the label 'crazy' to that which you cannot understand. You declare anything which would overthrow your common sense to be the words of a madman.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Y-You're twisting my words... Mamiya, you...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Please. Someone call the homeroom teacher! Someone!\""
+  },
+  {
+    "message": "He desperately appealed to the students, but not a single one moved."
+  },
+  {
+    "message": "Every person in the room was dominated by the atmosphere."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Modern society has reduced death to an abstraction. It is a society that views death as a taboo!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The only ones who could speak of that as correct are slaves who have not even the capacity to think!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"In previous generations, death was the most important subject of philosophical thought, was it not?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Was death not the matter of utmost concern?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And despite that, modern governments and societies have treated it as if it was irrelevant to our lives.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You're labeling their deaths with your own selfish reasoning.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Selfish, you say?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"It's sophistry. It's complete nonsense!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I've heard that theory about society covering up death before. Let's say you're right about that one. Even then, what you're saying about those two deaths signifying something is nothing but fabrication.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"It's nonsense. A delusion.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I see. You're pretty smart for a whore.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Stop calling me that!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I suppose this is what you're trying to say. You want me to show you proof that the meaning I've claimed for their death is veracious.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Proof? Are you stupid? There's nothing you could show us that would prove that. After all, no matter how you look at it, you're just spouting fantasies!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Fantasies, huh? Do you know how we differentiate between science and charlatanry?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Science and charlatanry?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes. How would one differentiate science from pseudoscience?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I-It's obvious that pseudoscience is fake.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You can't just say it's obvious that X is Y when that statement has no logical basis.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The difference between science and pseudoscience lies in whether or not the theory makes novel predictions.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Novel predictions?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The word prediction sounds almost religious, doesn't it? To put it simply, a novel prediction is a truthful prediction that may appear strange to the layman, but can be derived from the theory.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Einstein made many predictions. Black holes, the curvature of space... Those are predictions derived from his theory of relativity.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"To the people who couldn't understand his theory, they seemed like very strange predictions.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But they were all correct. Do you know why?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"If his theory was correct...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes, the theory of relativity was correct, and so he was able to derive correct predictions from it.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"In other words, if the predictions I make based on my theory, if those predictions come true, then my theory is correct.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Predictions?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Therefore, I shall now make several novel predictions.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And as they bear fruit, one by one, you will all quiver with fear.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You will see that I am correct...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"That's all drivel.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"God sacrificed these two so that I could be reborn!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The first was Shiroyama Tsubasa, and the second was Takashima Zakuro. God sacrificed them so that I could be reborn!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I have been reborn!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"As what?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The savior.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes, as the savior!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The world will end in five days.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But that is an omen of greater things.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"An omen that the world will be reborn.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Those not saved, along with the old world, will fall into the depths of hell to suffer for eternity.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"An eternity of torment!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Everyone knows...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That the world is pervaded by lies! That the truth is hidden!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The foolish speak of equality!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But everyone knows that the world is not equal!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The foolish speak of freedom!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But everyone knows that there is no freedom in the world!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The foolish speak of love!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But everyone knows that love is traitorous!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The foolish say that you must not kill!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But everyone knows that the world is brimming with murderers!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The foolish say that you must not lie!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But everyone knows that the foolish themselves are lying!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Those who swallow the lies of the foolish make fools of themselves!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes, their lies!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"They were all lies!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That the world has always existed...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And that the world will continue to exist forevermore!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"They are all lies!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The path we walk leads to...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The abyss!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The world will end!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It will surely end!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"This is the truth!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"As proof, I shall make three predictions.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Firstly! The thickness of death in the air will be affirmed with yet another death!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Secondly! A large number of people will witness the death!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Thirdly! The deceased will speak of...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The ultimate demise!\""
+  },
+  {
+    "message": "Mamiya dashed out of the classroom."
+  },
+  {
+    "message": "Everyone was speechless at his sudden departure."
+  },
+  {
+    "message": "After a long silence, another teacher came running in, and the classroom was filled with chatter."
+  },
+  {
+    "message": "Kagami helped Tsukasa up."
+  },
+  {
+    "message": "I just stood there."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The world is pervaded by lies, and the truth is hidden, huh?\""
+  },
+  {
+    "message": "Why did I simply stand by and watch?"
+  },
+  {
+    "message": "Why didn't I say anything back to him?"
+  },
+  {
+    "message": "Because I was dizzy?"
+  },
+  {
+    "message": "Because my head hurt?"
+  },
+  {
+    "message": "That's no excuse. It wasn't so bad that I wasn't able to at least say a single word."
+  },
+  {
+    "message": "I couldn't speak at all."
+  },
+  {
+    "message": "I just listened to Kagami yelling at him."
+  },
+  {
+    "message": "I just listened to Mamiya Takuji gleefully listing his predictions."
+  },
+  {
+    "message": "I couldn't do anything."
+  },
+  {
+    "message": "I wonder what I was supposed to do back there."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "I wonder what I was supposed to do to Mamiya Takuji back there."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Otonashi Ayana-san...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Good morning.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Good morning. So you're cutting class too?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Well, yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So what were you doing?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Looking.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"At the sky again?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The sky, huh?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Minakami-san, why are you crying?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Crying?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Doesn't the word 'crying' usually refer to someone who's shedding tears?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Does it? I'm not sure. I just had a feeling.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nothing worth crying over happened, but...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"But?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't really feel that great, either.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"You don't feel that great?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nope.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Because a lot has happened?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, maybe. A lot has happened lately. I'm getting worn out.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What about you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"What about me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I was just wondering, how do you feel?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"How do I feel?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's just that two of our classmates died in such a short period of time, and the whole school is going wild with rumors.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Rumors?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh... I see. You don't know about them, do you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Is it about the messages from Takashima Zakuro-san?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You knew?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Sort of.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Did you get one of those messages on your phone too?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I don't have a cell phone. I received something else.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Something else? Wait, what is it?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, something from Takashima-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"From Takashima-san?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Do you want to see?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um... Well, of course, if you say it like that. But what do you mean? Is it okay?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"What do you mean by 'okay'?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, uh... I don't really know how to put it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"How about we say, if it's okay with you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why me? Is it something that shocking?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Who knows? I couldn't say.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's just something that you've hidden.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Me?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, though more accurately, it's not something you've hidden. It's something that's been hidden from you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean. I don't really understand. D-Do you know something?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I only know that which you know.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What I know?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes. Your limit is the limit of the world. Therefore, I am unable to tell or show you anything which you are not capable of seeing or speaking of.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What do you mean?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"To put it clearly, that of which you can speak...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Is only that which you have seen. I can't show you anything else.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What I've seen?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Why do humans try to hide things?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even though they know something, they act as if they don't, and then one day they truly do forget.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"They still want to know it, even after they've forgotten it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Actually, I heard a voice from Mamiya-kun's classroom.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya told everyone about how people have hidden death. He says the world has hidden death.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Then why do people try to dig it up after they've gone through all the trouble of hiding it?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Why are people captivated by death once they've finally managed to hide it out of sight?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"They put so much effort into hiding it, and yet they dig it up again.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Minakami-san, you too are trying to unearth something which you've hidden.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"It's exactly the same thing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Something I've hidden?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, if you manage to conceal it, or...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Or?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The Wonderful Everyday.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The Wonderful Everyday?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"People live within the eternity of life.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"People live within eternity? What are you talking about?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes. Life is a closed box. After all, death opens its doors for no one.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"If you manage to conceal it, you will know nothing.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Just like that, the Wonderful Everyday will be constructed upon the silence whereupon you cannot speak.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Without thinking of death, without knowing death, in the middle of life.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Just like the cat that one day crossed your path. Just like the dog that one night howled while you slept.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Walking gingerly upon the top of a fence. Howling as if to devour the crescent moon.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Like a kitten, ending the lives of those smaller than itself. Like a puppy, looking up at people with submissive eyes.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Like a cat, passing the night in solitude. Like a dog, amongst a great mass of companions.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Thinking not of life, yet knowing life.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Within it, or without it, the Wonderful Everyday will...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "Her voice was quiet."
+  },
+  {
+    "message": "And her eyes were lucid."
+  },
+  {
+    "message": "She seemed to know everything. She seemed to see everything."
+  },
+  {
+    "message": "She gave me goosebumps."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san, what is it that you know?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Only that which you know.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe. I don't like people who do nothing but ask questions.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't really want people to like me anyways.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe.\""
+  },
+  {
+    "message": "What she knows..."
+  },
+  {
+    "message": "I was scared of that truth, and..."
+  },
+  {
+    "message": "I wanted to know it, too."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Do you want to go outside?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Outside?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes. To the next world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The next world?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're starting to sound like Mamiya Takuji.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Really? Do I sound cool?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Not at all... It's pretty gross.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I thought I sounded cool talking about the outside world and the next world. They sound like they would be nice.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm, so then what is that 'outside'? What's the next world?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You mean heaven? Or some other afterlife? Or a higher plane of existence? Either way...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Does it sound absurd?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe, yes. It's just as you say.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"There is no outside world.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Everything is our world. No matter how far you go, it is our world.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Whether you stay here or forge ahead, all of it is our world.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"If there is an afterlife, that too is certainly part of our world. If a higher plane exists, that too is part of our world.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even if Heaven exists, even if Hell exists, all of them are certainly part of our world.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Even if I were to make an annotation, even if I were to add something from outside the world, that too would become a new part of our world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, I don't think you could call that part either old or new.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Heh, hehehe.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Then the world you can see from here, your world, is neither old nor new.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Do you think this annotation is correct, Minakami-san?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?!\""
+  },
+  {
+    "message": "Ayana-san slowly brought her face closer to mine."
+  },
+  {
+    "message": "Then she headbutted me with a conk."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A-Ayana-san?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wha―\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What was...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Just now, Takashima-san was...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I can show you anything you possess.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What I possess? What does that mean?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Minakami-san, have you heard this?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"How many souls does a world require?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Exactly what I said.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The necessary number of souls in a world. Most likely, one is enough.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean, Ayana-san?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-san?\""
+  },
+  {
+    "message": "She wasn't there anymore..."
+  },
+  {
+    "message": "No one was there..."
+  },
+  {
+    "message": "While I was on the rooftop killing time, all of the day's classes had ended."
+  },
+  {
+    "message": "I had no reason to be at school after classes were over, so I decided to go back to the classroom for the moment."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Ah, Yuki!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yuki.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You were cutting class again.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. Sorry.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Like I care!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"'Like I care'? Did you get that out of some shoujo manga?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey, Kagami-san. What are you so mad about?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Nothing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It doesn't seem like nothing.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I'm not mad.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"We have a practice match with another team, so don't bother me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Ah.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami, what's wrong?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Nothing's wrong.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I have to go to my club.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Haa..."
+  },
+  {
+    "message": "Maybe it's because I skipped class to get out of there."
+  },
+  {
+    "message": "I suppose I shouldn't be surprised, after I ran off and left her alone in there."
+  },
+  {
+    "message": "Sorry about that."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tsukasa.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Sorry. Would you mind leaving her alone for a little while?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All right.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Maybe Tsukasa is mad at me too."
+  },
+  {
+    "message": "As soon as I got home, I turned on my computer."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder if they approved my registration.\""
+  },
+  {
+    "message": "I immediately opened my email and checked the messages."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I want to meet you soon.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All I want is sex.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My husband was raped by a giant anteater.\""
+  },
+  {
+    "message": "They were almost all spam."
+  },
+  {
+    "message": "All this spam sure is annoying."
+  },
+  {
+    "message": "The guy sending out all this crap should go kill himself."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Registration complete. Kita High message board SAWAYAKA Secretariat.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "The title almost looked like spam at first glance, but it wasn't."
+  },
+  {
+    "message": "This was the first step in following the trail of breadcrumbs."
+  },
+  {
+    "message": "My pulse quickened a little bit."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Here I go.\""
+  },
+  {
+    "message": "I opened the email."
+  },
+  {
+    "message": "Hello, Shibata Katsuie-san.\n"
+  },
+  {
+    "message": "This is the secretariat for the Kita High message board, SAWAYAKA.\n"
+  },
+  {
+    "message": "Thank you for registering on the Kita High underground message board.\n"
+  },
+  {
+    "message": "Your member registration has been completed.\n"
+  },
+  {
+    "message": "You may log into the site with the login credentials you provided at the time of registration, which are also listed below.\n"
+  },
+  {
+    "message": "Please make another copy of this information and keep it in a safe place.\n"
+  },
+  {
+    "message": "Login ID:"
+  },
+  {
+    "message": " YA!KI!U!CHI!\n"
+  },
+  {
+    "message": "Password:"
+  },
+  {
+    "message": " SI!ZU!GA!TA!KE!Suicide!"
+  },
+  {
+    "message": "This name and the ID and password definitely were mine."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They actually approved it.\""
+  },
+  {
+    "message": "If they actually approved something like \"Shibata Katsuie,\" that meant the administrator was just approving any registration without even thinking about it. It might've even been automatic approval."
+  },
+  {
+    "message": "I wondered who the administrator was."
+  },
+  {
+    "message": "I clicked the link."
+  },
+  {
+    "message": "It was the typical style of floating thread message board."
+  },
+  {
+    "message": "The threads with the most recent posts were displayed closest to the top of the page."
+  },
+  {
+    "message": "So the threads dropped to the bottom if there weren't many responses, though they could rise to the top again if they got responses."
+  },
+  {
+    "message": "Apparently, this kind of message board got its name from the way threads at the bottom could float up to the top."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I figured there would just be a few threads, but it's pretty popular, huh?\""
+  },
+  {
+    "message": "Though there probably weren't this many threads until just recently."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Takashima Zakuro's death... Mamiya Takuji's speech... Is it true that the world is going to end... There weren't very many threads before all this happened, so the entire board is covered with threads on this topic.\""
+  },
+  {
+    "message": "And the one that particularly stood out..."
+  },
+  {
+    "message": "1: Who shall be saved and who shall not"
+  },
+  {
+    "message": "This thread was created today at 11:23 a.m."
+  },
+  {
+    "message": "Mamiya Takuji himself made it."
+  },
+  {
+    "message": "1: Mamiya Takuji: 2012/07/15(Wed) 11:23:12 ID:mamiya\n"
+  },
+  {
+    "message": "Many of you have confirmed it.\n"
+  },
+  {
+    "message": "Many of you have seen it.\n"
+  },
+  {
+    "message": "Takashima's message predicted my awakening.\n"
+  },
+  {
+    "message": "I am standing here now.\n\n"
+  },
+  {
+    "message": "As the savior.\n"
+  },
+  {
+    "message": "Now it is time to determine who will be saved and who will not.\n"
+  },
+  {
+    "message": "2: Anonymous Kita High Student: 2012/07/15(Wed) 11:26:15 ID:KAERA\n"
+  },
+  {
+    "message": "Another one right after Takashima?\n"
+  },
+  {
+    "message": "Knock it off with that crap."
+  },
+  {
+    "message": "3: Anonymous Kita High Student: 2012/07/15(Wed) 11:30:20 ID:inkin\n"
+  },
+  {
+    "message": "I reported you to the police."
+  },
+  {
+    "message": "4: Anonymous Kita High Student: 2012/07/15(Wed) 11:35:40 ID: ADAMO\n"
+  },
+  {
+    "message": "lol they still haven't caught you yet?"
+  },
+  {
+    "message": "Not surprisingly, Mamiya's thread was full of trolls."
+  },
+  {
+    "message": "Though of course no one was taking him seriously."
+  },
+  {
+    "message": "I was a bit relieved."
+  },
+  {
+    "message": "I'd heard several people went missing after the incident earlier, but evidently they were unrelated."
+  },
+  {
+    "message": "Everyone was just making fun of his posts on here."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well then, let's start checking these out. I'd better start with the ones that are about to disappear.\""
+  },
+  {
+    "message": "I looked for the oldest of the threads that had topped 1,000 posts and gotten locked."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This might be it.\""
+  },
+  {
+    "message": "97: Thread for discussion of the falling accident."
+  },
+  {
+    "message": "The date was 7/10. This thread was about Shiroyama's accident."
+  },
+  {
+    "message": "1: Anonymous Kita High Student: 2012/07/10(Fri) 15:20:12 ID:marudai\n"
+  },
+  {
+    "message": "It's been coming up in other threads, but I made this thread to talk about it exclusively."
+  },
+  {
+    "message": "2: Anonymous Kita High Student: 2012/07/10(Fri) 15:21:15 ID:KAERA\n"
+  },
+  {
+    "message": "It's kind of rude to start a thread about someone's death."
+  },
+  {
+    "message": "3: Anonymous Kita High Student: 2012/07/10(Fri) 15:22:20 ID:inkin\n"
+  },
+  {
+    "message": "Was it really Shiroyama from Class 3?"
+  },
+  {
+    "message": "4: Anonymous Kita High Student: 2012/07/10(Fri) 15:25:40 ID: ADAMO\n"
+  },
+  {
+    "message": "～This thread has peacefully ended～"
+  },
+  {
+    "message": "25: Anonymous Kita High Student: 2012/07/11(Sat) 00:20:12 ID:KINKIN\n"
+  },
+  {
+    "message": "Kita High, 3rd year, class 6, seat number 12\n"
+  },
+  {
+    "message": "Shiroyama Tsubasa\n"
+  },
+  {
+    "message": "Height: 175cm, Weight: 62kg\n"
+  },
+  {
+    "message": "Date of Birth: 5/10\n"
+  },
+  {
+    "message": "Blood Type: A"
+  },
+  {
+    "message": "26: Anonymous Kita High Student: 2012/07/11(Sat) 00:20:45 ID:Aanana\n"
+  },
+  {
+    "message": "lol where'd you get that? did you measure him yourself lolol"
+  },
+  {
+    "message": "27: Takashima Zakuro: 2012/07/11(Sat) 00:20:46 ID:zakuro\n"
+  },
+  {
+    "message": "His death was inevitable."
+  },
+  {
+    "message": "This reply, #27, was posted with a registered name."
+  },
+  {
+    "message": "Was this... Takashima Zakuro-san herself?"
+  },
+  {
+    "message": "So she was posting on here..."
+  },
+  {
+    "message": "28: Anonymous Kita High Student: 2012/07/11(Sat) 01:21:25 ID:kintama\n"
+  },
+  {
+    "message": ">>27\n"
+  },
+  {
+    "message": "Seriously, learn some tact."
+  },
+  {
+    "message": "29: Anonymous Kita High Student: 2012/07/11(Sat) 01:22:16 ID:aria\n"
+  },
+  {
+    "message": "Takashima Zakuro's in class three, right? I bet she killed him."
+  },
+  {
+    "message": "30: Anonymous Kita High Student: 2012/07/11(Sat) 01:22:50 ID:anaana\n"
+  },
+  {
+    "message": "Your name is Takashima-san? I think you need to be a little more respectful."
+  },
+  {
+    "message": "31: Anonymous Kita High Student: 2012/07/11(Sat) 01:31:20 ID:meka\n"
+  },
+  {
+    "message": ">>27\n"
+  },
+  {
+    "message": "what a freak"
+  },
+  {
+    "message": "Everyone was insulting her."
+  },
+  {
+    "message": "That was to be expected, since she said that right after his death."
+  },
+  {
+    "message": "But why?"
+  },
+  {
+    "message": "32: Takashima Zakuro: 2012/07/11(Sat) 01:50:15 ID:zakuro\n"
+  },
+  {
+    "message": "His death is just the beginning."
+  },
+  {
+    "message": "33: Anonymous Kita High Student: 2012/07/11(Sat) 01:51:20 ID:kinako\n"
+  },
+  {
+    "message": "lol it's just the beginning she says. does that mean our token black guy dies next?"
+  },
+  {
+    "message": "34: Anonymous Kita High Student: 2012/07/11(Sat) 01:53:21 ID:aida\n"
+  },
+  {
+    "message": ">>30\n"
+  },
+  {
+    "message": "I think there really is a problem with what you're saying, Takashima."
+  },
+  {
+    "message": "35: Takashima Zakuro: 2012/07/11(Sat) 02:00:25 ID:zakuro\n"
+  },
+  {
+    "message": "But this is all according to prophecy..."
+  },
+  {
+    "message": "36: Anonymous Kita High Student: 2012/07/11(Sat) 02:02:11 ID:kanakana\n"
+  },
+  {
+    "message": "now she thinks there's a prophecy lol"
+  },
+  {
+    "message": "37: Anonymous Kita High Student: 2012/07/11(Sat) 02:03:21 ID:kanakana\n"
+  },
+  {
+    "message": "where's your tinfoil hat?"
+  },
+  {
+    "message": "Was Takashima-san the one who started all this?"
+  },
+  {
+    "message": "Before Mamiya Takuji..."
+  },
+  {
+    "message": "But still, a prophecy..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "It seemed like that was Takashima-san's last post in that thread."
+  },
+  {
+    "message": "Takashima-san's posts were ignored, and the thread about Shiroyama's accident went on to a thousand posts."
+  },
+  {
+    "message": "I looked for other threads."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is...\""
+  },
+  {
+    "message": "74: Bick Hazard is coming."
+  },
+  {
+    "message": "1: Takashima Zakuro: 2012/07/11(Sat) 22:02:13 ID:zakuro\n"
+  },
+  {
+    "message": "The sealed nevus uses a Specialized Physics Bug (i.e. an Outer Magic Dark Summons Bug) to plant negative thoughts in the human race.\n"
+  },
+  {
+    "message": "That is the true nature of the battle between the dictators and tyrants of the world (Hitler, Genghis Khan, Marie Antoinette, etc.) and us (the peasants, the revolutionaries, the proletariat).\n"
+  },
+  {
+    "message": "Shiroyama Tsubasa was infected by the Specialized Physics Bug.\n"
+  },
+  {
+    "message": "The nevus used him to degrade me (the phenomenon of inducing a low energy state with a negative energy blast).\n"
+  },
+  {
+    "message": "And the reason is because the nevus will soon awaken. Bick Hazard is coming.\n\n"
+  },
+  {
+    "message": "A great disaster will occur!"
+  },
+  {
+    "message": "2: Anonymous Kita High Student: 2012/07/11(Sat) 22:10:15 ID:KAERA\n"
+  },
+  {
+    "message": "Stay away from me, Bick Hazard.\n"
+  },
+  {
+    "message": "　  /＼＿＿_／＼\n"
+  },
+  {
+    "message": "／／　　   ヽ ＼\n"
+  },
+  {
+    "message": " |（●）  （●）　|\n"
+  },
+  {
+    "message": " |　 ノ(、_)ヽ    |\n"
+  },
+  {
+    "message": " |　 ;‐＝‐ヽ    |\n"
+  },
+  {
+    "message": " ＼　｀ニニ´　  ／\n"
+  },
+  {
+    "message": " ／｀ー‐--―´´＼\n"
+  },
+  {
+    "message": "　 　　    ｎｎ 　 ｎｎ\n"
+  },
+  {
+    "message": "　 　　ｎ|｜|　　||||ｎ\n"
+  },
+  {
+    "message": "　 　  |||｜∩　∩||| |\n"
+  },
+  {
+    "message": "　 　  |::　!}　{！   |\n"
+  },
+  {
+    "message": "　 　  ヽ　,イ 　ヽ :イ "
+  },
+  {
+    "message": "3: Anonymous Kita High Student: 2012/07/11(Sat) 22:16:25 ID:KAERA\n"
+  },
+  {
+    "message": ">>2\n"
+  },
+  {
+    "message": "lol"
+  },
+  {
+    "message": "4: Anonymous Kita High Student: 2012/07/11(Sat) 22:17:23 ID:KAERA\n"
+  },
+  {
+    "message": "　　　 ∧  ∧ ∩Pls\n"
+  },
+  {
+    "message": "　　( ´∀｀)/　∧  ∧ ∩stay\n"
+  },
+  {
+    "message": "　⊂　    ﾉ　　( ´∀｀)/\n"
+  },
+  {
+    "message": "　　(つ ﾉ　　⊂　　   ﾉ　 ∧  ∧ ∩away\n"
+  },
+  {
+    "message": "　　 (ノ　　　　(つ ﾉ　　( ´∀｀)/\n"
+  },
+  {
+    "message": "　　　　　　　　 (ノ　　 ⊂　　 ﾉ\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　 (つ ﾉ　  ∧  ∧ ∩from\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　　(ノ　　( ´∀｀)/\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　　　　 ＿| つ／ヽ-、＿\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　　　／　└-(＿＿＿_／\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　　　￣￣￣￣￣￣￣\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　　　　　　 ＜⌒／ヽ＿_＿me\n"
+  },
+  {
+    "message": "　　　　　　　　　　　　　　　　　／＜__/_＿＿＿／"
+  },
+  {
+    "message": "kthx"
+  },
+  {
+    "message": "5: Takashima Zakuro: 2012/07/11(Sat) 22:21:13 ID:zakuro\n"
+  },
+  {
+    "message": "Don't joke around!"
+  },
+  {
+    "message": "They weren't going to take her seriously."
+  },
+  {
+    "message": "She sounded crazy. I probably would've reacted the exact same way."
+  },
+  {
+    "message": "I didn't know what she was talking about, but it was full of hard words. I wasn't sure what else she expected anyone to say."
+  },
+  {
+    "message": "8: Anonymous Kita High Student: 2012/07/11(Sat) 23:28:21 ID:KAERA\n"
+  },
+  {
+    "message": ">>1\n"
+  },
+  {
+    "message": "Who's Bick Hazard? He sounds like some big guy."
+  },
+  {
+    "message": "9: Takashima Zakuro: 2012/07/11(Sat) 23:30:15 ID:zakuro\n"
+  },
+  {
+    "message": ">>8\n"
+  },
+  {
+    "message": "Bick Hazard is not a person. It is a great disaster."
+  },
+  {
+    "message": "10: Anonymous Kita High Student: 2012/07/11(Sat) 23:30:21 ID:daiki\n"
+  },
+  {
+    "message": ">>8\n"
+  },
+  {
+    "message": "Honestly, I think it's the aftershocks from the worldwide recession. Bick Hazard was the reason the ***son in front of the station closed down."
+  },
+  {
+    "message": "11: Anonymous Kita High Student: 2012/07/11(Sat) 23:30:21 ID:daiki\n"
+  },
+  {
+    "message": ">>8\n"
+  },
+  {
+    "message": "I know what you mean!"
+  },
+  {
+    "message": "12: Takashima Zakuro: 2012/07/11(Sat) 23:30:15 ID:zakuro\n"
+  },
+  {
+    "message": ">>10\n"
+  },
+  {
+    "message": ">>11\n"
+  },
+  {
+    "message": "That's wrong!"
+  },
+  {
+    "message": "Yeah, it probably was wrong."
+  },
+  {
+    "message": "Though I didn't really know what Bick Hazard was either."
+  },
+  {
+    "message": "24: Takashima Zakuro: 2012/07/11(Sat) 23:31:45 ID:zakuro\n"
+  },
+  {
+    "message": "The nevus implanted the Specialized Physics Bug in Shiroyama Tsubasa in order to induce a low energy state in one of the angel warriors, the only beings that can stop the nevus.\n"
+  },
+  {
+    "message": "Every angel warrior was targeted by an assassin that was being manipulated by a Specialized Physics Bug. However, every Specialized Physics Bug within the barrier (Tokyo's 23rd Ward) has been exterminated with the combined power of the golden Angel Remover and the flashing blue Angel Night.\n"
+  },
+  {
+    "message": "Since Shiroyama-kun's brain had already been devoured, he went insane and jumped from the rooftop when the Specialized Physics Bug disappeared."
+  },
+  {
+    "message": "After that, the thread was filled with trolls."
+  },
+  {
+    "message": "People making fun of her, people getting mad, people who sounded a little scared. But at this point, the people in the thread weren't terribly scared."
+  },
+  {
+    "message": "Everyone was just making a lot of noise over some crazy person on the Internet."
+  },
+  {
+    "message": "256: Anonymous Kita High Student: 2012/07/12(Sun) 00:30:21 ID:daiki\n"
+  },
+  {
+    "message": "So then, when is the world going to end? You keep saying it's a prophecy, but all I hear you talking about is stuff that already happened. When is the world going to end?"
+  },
+  {
+    "message": "257: Takashima Zakuro: 2012/07/12(Sun) 02:10:05 ID:zakuro\n"
+  },
+  {
+    "message": "A great disaster will occur on July 20th, 2012."
+  },
+  {
+    "message": "258: Anonymous Kita High Student: 2012/07/12(Sun) 02:31:11 ID:daiki\n"
+  },
+  {
+    "message": ">>257\n"
+  },
+  {
+    "message": "lol next week?"
+  },
+  {
+    "message": "265: Takashima Zakuro: 2012/07/12(Sun) 04:18:25 ID:zakuro\n"
+  },
+  {
+    "message": "Not just a few people, but many people will die.\n"
+  },
+  {
+    "message": "More than you can count. The planet will reach a bottleneck."
+  },
+  {
+    "message": "266: Anonymous Kita High Student: 2012/07/12(Sun) 04:31:21 ID:KAERA\n"
+  },
+  {
+    "message": ">>265\n"
+  },
+  {
+    "message": "A bottleneck?"
+  },
+  {
+    "message": "267: Anonymous Kita High Student: 2012/07/12(Sun) 04:33:54 ID:daiki\n"
+  },
+  {
+    "message": ">>266\n"
+  },
+  {
+    "message": "A bottleneck... You could probably think of it as a genetic bottleneck.\n"
+  },
+  {
+    "message": "A sudden decrease in genetic variety.\n"
+  },
+  {
+    "message": "It's when a lot of animals die and their genetic strains disappear. Like she said, that would be a great disaster."
+  },
+  {
+    "message": "652: Takashima Zakuro: 2012/07/12(Sun) 05:18:25 ID:zakuro\n"
+  },
+  {
+    "message": "We shall perform the Brain Reverse on July 12th, 2012.\n"
+  },
+  {
+    "message": "Then everyone will know.\n"
+  },
+  {
+    "message": "The fact that I am not human.\n"
+  },
+  {
+    "message": "And the fact that the world is heading toward destruction."
+  },
+  {
+    "message": "She was writing about this \"Brain Reverse\" on the day she committed suicide?"
+  },
+  {
+    "message": "Actually, isn't that word..."
+  },
+  {
+    "message": "I looked at the words I'd copied off of Takashima-san's desk."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This really is the same as the scribbles that were on her desk.\""
+  },
+  {
+    "message": "Which meant there was no doubt the posts were made by Takashima-san."
+  },
+  {
+    "message": "Brain Reverse, Har Megiddo, Nebula Cloud, Elhimuro... Angel Remover... Angel Night... I am Angel Advise."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So Takashima-san is Angel Advise, and the two that she mentioned in the thread, Angel Remover and Angel Night, are...\""
+  },
+  {
+    "message": "The other two that were with her."
+  },
+  {
+    "message": "It all made sense."
+  },
+  {
+    "message": "So I guess when she said, \"I'm not human,\" she was saying that because she thought she was the angel warrior, Angel Advise."
+  },
+  {
+    "message": "856: Takashima Zakuro: 2012/07/12(Sun) 09:02:13 ID:zakuro\n"
+  },
+  {
+    "message": "Bick Hazard shall arrive soon!"
+  },
+  {
+    "message": "Nine o'clock in the morning, on the 12th. Apparently, that was her last post."
+  },
+  {
+    "message": "It was the day she performed the Brain Reverse. In other words, that's when she jumped from the rooftop."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This thread was made that evening. This would be right after her suicide.\""
+  },
+  {
+    "message": " 71: I got something weird (||||▽￣)」 scary"
+  },
+  {
+    "message": "1: Anonymous Kita High Student: 2012/07/12(Sun) 22:52:25 ID:MARUKOME\n"
+  },
+  {
+    "message": "I got an email, but the picture and message are weird.\n\n"
+  },
+  {
+    "message": "through death i have been reborn as a warrior\n"
+  },
+  {
+    "message": "or so they said but it hurts\n"
+  },
+  {
+    "message": "i have no body but\n"
+  },
+  {
+    "message": "it still hurts\n"
+  },
+  {
+    "message": "it hurts because i've been broken\n"
+  },
+  {
+    "message": "therefore\n"
+  },
+  {
+    "message": "everyone must die\n"
+  },
+  {
+    "message": "you will die in 8 days\n"
+  },
+  {
+    "message": "all of you will die\n\n"
+  },
+  {
+    "message": "The address on this was takasimazakuro."
+  },
+  {
+    "message": "2: Anonymous Kita High Student: 2012/07/12(Sun) 22:55:12 ID:GENKI\n"
+  },
+  {
+    "message": "I got one too （´・ω・）"
+  },
+  {
+    "message": "3: Anonymous Kita High Student: 2012/07/12(Sun) 22:58:32 ID:KINDARMAN\n"
+  },
+  {
+    "message": "That's the same as the one I got. What's up with that? Is it really from Takashima Zakuro?"
+  },
+  {
+    "message": "After that, the thread was full of responses saying they had gotten the message too."
+  },
+  {
+    "message": "It looked like almost everyone on this message board had gotten one."
+  },
+  {
+    "message": "The same question I was thinking popped up in the thread."
+  },
+  {
+    "message": "50: Anonymous Kita High Student: 2012/07/12(Sun) 23:40:45 ID:WAKAWAK\n"
+  },
+  {
+    "message": "Did they all come at the same time?"
+  },
+  {
+    "message": "52: Anonymous Kita High Student: 2012/07/12(Sun) 23:45:05 ID:KITAMURA\n"
+  },
+  {
+    "message": "Doesn't it look like they were all sent at the same time?"
+  },
+  {
+    "message": "54: Anonymous Kita High Student: 2012/07/12(Sun) 23:48:45 ID:GENKI\n"
+  },
+  {
+    "message": ">>50\n"
+  },
+  {
+    "message": "I think it was around 10:44.\n"
+  },
+  {
+    "message": ">>52\n"
+  },
+  {
+    "message": "It looks like everyone's getting them at the same time."
+  },
+  {
+    "message": "55: Anonymous Kita High Student: 2012/07/12(Sun) 23:50:45 ID:WAKAWAK\n"
+  },
+  {
+    "message": ">>54\n"
+  },
+  {
+    "message": "Mine was right around 10:45, too.\n"
+  },
+  {
+    "message": ">>52\n"
+  },
+  {
+    "message": "I think they were all simultaneous..."
+  },
+  {
+    "message": "Simultaneous transmission... Well, I suppose so."
+  },
+  {
+    "message": "Every single one was at the same time."
+  },
+  {
+    "message": "Which means..."
+  },
+  {
+    "message": "The sender had a register of names or some collection of data like that."
+  },
+  {
+    "message": "Though, that was assuming that Takashima Zakuro wasn't the sender."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A register... Maybe a teacher? Though of course the school register doesn't have email addresses.\""
+  },
+  {
+    "message": "152: Anonymous Kita High Student: 2012/07/13(M) 01:40:45 ID:satokon\n"
+  },
+  {
+    "message": "It's kind of hard to say, but I think those messages really are from Takashima Zakuro.\n"
+  },
+  {
+    "message": "I know because I had her address in my phone.\n"
+  },
+  {
+    "message": "I don't know if someone else might be using it, but the messages are coming from Takashima's phone."
+  },
+  {
+    "message": "153: Akasaka Megu: 2012/07/13(M) 01:42:25 ID:megu\n"
+  },
+  {
+    "message": ">>152\n"
+  },
+  {
+    "message": "You're Satoko, right?\n"
+  },
+  {
+    "message": "I have it too... That definitely is Takashima.\n"
+  },
+  {
+    "message": "I mean, the address is the exact same... And the picture is from her phone too. Her phone's camera had a horrible resolution."
+  },
+  {
+    "message": "154: Satoko: 2012/07/13(M) 01:46:48 ID:satokon\n"
+  },
+  {
+    "message": "What should we do? That's Takashima's phone.\n"
+  },
+  {
+    "message": "The picture is the same resolution as the pictures we took with it before.\n"
+  },
+  {
+    "message": "The same as the ones we took at the restaurant.\n"
+  },
+  {
+    "message": "Is Takashima alive?"
+  },
+  {
+    "message": "155: Anonymous Kita High Student: 2012/07/13(M) 01:51:11 ID:atata\n"
+  },
+  {
+    "message": "Takashima died. She's not alive. That much is certain."
+  },
+  {
+    "message": "160: Satoko: 2012/07/13(M) 03:12:48 ID:satokon\n"
+  },
+  {
+    "message": "I'm scared... What should I do?"
+  },
+  {
+    "message": "161: Anonymous Kita High Student: 2012/07/13(M) 03:15:11 ID:atata\n"
+  },
+  {
+    "message": "Why are you scared?"
+  },
+  {
+    "message": "162: Akasaka Megu: 2012/07/13(M) 03:22:25 ID:megu\n"
+  },
+  {
+    "message": "Takashima probably has a grudge against us... Was that message really from a ghost? Takashima's ghost?\n"
+  },
+  {
+    "message": "Then I'm..."
+  },
+  {
+    "message": "163: Anonymous Kita High Student: 2012/07/13(M) 03:25:21 ID:atata\n"
+  },
+  {
+    "message": "You guys bullied her?"
+  },
+  {
+    "message": "164: Satoko 2012/07/13(M) 03:29:18 ID:satokon\n"
+  },
+  {
+    "message": "It wasn't just us. At first, the whole class did it... Why just us?"
+  },
+  {
+    "message": "165: Anonymous Kita High Student: 2012/07/13(M) 03:33:31 ID:atata\n"
+  },
+  {
+    "message": "What do you mean, \"just us\"?"
+  },
+  {
+    "message": "166: Satoko: 2012/07/13(M) 03:36:33 ID:satokon\n"
+  },
+  {
+    "message": "I asked Akiko and Eri. The other people in our class didn't get the email."
+  },
+  {
+    "message": "167: Anonymous Kita High Student: 2012/07/13(M) 03:40:42 ID:manaka\n"
+  },
+  {
+    "message": "lol we got it and we don't even know her."
+  },
+  {
+    "message": "168: Anonymous Kita High Student: 2012/07/13(M) 03:40:42 ID:kiri\n"
+  },
+  {
+    "message": "It's your fault! Go die so she can rest in peace."
+  },
+  {
+    "message": "170: Satoko: 2012/07/13(M) 03:52:32 ID:satokon\n"
+  },
+  {
+    "message": "I didn't think it would... I didn't think it would turn out like this..."
+  },
+  {
+    "message": "171: Anonymous Kita High Student: 2012/07/13(M) 03:55:53 ID:akana\n"
+  },
+  {
+    "message": "Who cares? You guys should be the only ones receiving her curse."
+  },
+  {
+    "message": "172: Anonymous Kita High Student: 2012/07/13(M) 03:58:12 ID:kotoko\n"
+  },
+  {
+    "message": "Actually, just before she died, didn't she say she wasn't human?"
+  },
+  {
+    "message": "173: Anonymous Kita High Student\n"
+  },
+  {
+    "message": ">>172\n\n"
+  },
+  {
+    "message": ">We shall perform the Brain Reverse on July 12th, 2012.\n"
+  },
+  {
+    "message": ">Then everyone will know.\n"
+  },
+  {
+    "message": ">The fact that I am not human.\n"
+  },
+  {
+    "message": ">And the fact that the world is heading toward destruction.\n\n"
+  },
+  {
+    "message": "That's what she said.\n"
+  },
+  {
+    "message": "Maybe she was already a ghost when she wrote that?"
+  },
+  {
+    "message": "174: Anonymous Kita High Student: 2012/07/13(M) 04:06:12 ID:mamada\n"
+  },
+  {
+    "message": ">>173\n"
+  },
+  {
+    "message": "She committed suicide after that post, so I think it's okay to assume she was human at the time.\n"
+  },
+  {
+    "message": "Don't say stuff like that to confuse people."
+  },
+  {
+    "message": "392: Anonymous Kita High Student: 2012/07/13(M) 11:42:53 ID:ikeda\n"
+  },
+  {
+    "message": "The twentieth is way too soon for the world to end, but maybe it's when Takashima's curse will happen?"
+  },
+  {
+    "message": "393: Anonymous Kita High Student: 2012/07/13(M) 11:45:22 ID:mamada\n"
+  },
+  {
+    "message": ">>392\n"
+  },
+  {
+    "message": "But still, it's not like one person's ghost could destroy the world."
+  },
+  {
+    "message": "394: Anonymous Kita High Student: 2012/07/13(M) 11:48:52 ID:mini\n"
+  },
+  {
+    "message": "So the world won't end."
+  },
+  {
+    "message": "395: Anonymous Kita High Student: 2012/07/13(M) 11:55:52 ID:kimi\n"
+  },
+  {
+    "message": "It means the people who bullied her will perish.\n"
+  },
+  {
+    "message": "On the 20th, they'll be killed by the curse."
+  },
+  {
+    "message": "396: Anonymous Kita High Student: 2012/07/13(M) 11:58:02 ID:tomoda\n"
+  },
+  {
+    "message": "She was probably holding a grudge. That's why part of her curse was sending out that picture..."
+  },
+  {
+    "message": "397: Anonymous Kita High Student: 2012/07/13(M) 12:02:02 ID:kotoko\n"
+  },
+  {
+    "message": "Um...\n"
+  },
+  {
+    "message": "I googled this: July 20th, 2012 end of the world...\n"
+  },
+  {
+    "message": "What the heck is this?\n\n"
+  },
+  {
+    "message": "http:::org:webbotproject.com/"
+  },
+  {
+    "message": "I clicked on the link."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Whoa...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This page is really sketchy...\""
+  },
+  {
+    "message": "Sketchy as hell. Everything on the page looked like a lie."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nanakusa Ward, Tama City, Tokyo Metropolitan Area... Uh, the New White Lotus Association Web Bot Research Facility...\""
+  },
+  {
+    "message": "Totally an occult page."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This has to be some random page that the search engine dragged up.\""
+  },
+  {
+    "message": "The page looked like it was thrown together in a few minutes. Would anyone really believe this?"
+  },
+  {
+    "message": "It listed events predicted by the Web Bot."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see...\""
+  },
+  {
+    "message": "The anthrax attacks in America in 2001."
+  },
+  {
+    "message": "The east coast's Great Power Outage in 2003."
+  },
+  {
+    "message": "The earthquake and tsunami in Indonesia that caused 30,000 casualties."
+  },
+  {
+    "message": "Hurricane Katrina in 2005."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, this is what they were talking about in class.\""
+  },
+  {
+    "message": "And the last one..."
+  },
+  {
+    "message": "July 20th, 2012. Disaster level: Infinity."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Disaster level... infinity.\""
+  },
+  {
+    "message": "What's up with this prediction?"
+  },
+  {
+    "message": "Is that really right?"
+  },
+  {
+    "message": "This website was more than a little suspect."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But still...\""
+  },
+  {
+    "message": "Even if it was just a coincidence, that was the same day Takashima-san predicted the world would end."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I can see why people might believe that.\""
+  },
+  {
+    "message": "The site was full of nonsensical explanations for its predictions."
+  },
+  {
+    "message": "This site must have been where Yokoyama was getting all her information."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm?\""
+  },
+  {
+    "message": "Now there was there nigh unto the mountains a great herd of swine feeding."
+  },
+  {
+    "message": "And all the devils besought him, saying, send us into the swine, that we may enter into them."
+  },
+  {
+    "message": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea."
+  },
+  {
+    "message": "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done."
+  },
+  {
+    "message": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid."
+  },
+  {
+    "message": "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine."
+  },
+  {
+    "message": "Those verses were written there."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is... a verse from the Bible. Are they a Christian organization? I thought they were Nichiren Buddhists.\""
+  },
+  {
+    "message": "Kind of creepy."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa... I'm tired.\""
+  },
+  {
+    "message": "I'd been on the computer since I got home. Before I realized it, midnight had long since passed."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's already starting to get brighter outside.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haah... The sun comes up so early in the summer.\""
+  },
+  {
+    "message": "Well, that's because I was reading every thread one by one. That's why it took so long."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If I don't get some sleep soon, I'm not going to wake up until after noon.\""
+  },
+  {
+    "message": "I stopped what I was doing for the moment and crawled into bed."
+  }
+]

@@ -1,0 +1,2722 @@
+[
+  {
+    "message": "I absentmindedly looked out the window."
+  },
+  {
+    "message": "That's..."
+  },
+  {
+    "message": "Someone was walking across the schoolyard."
+  },
+  {
+    "message": "Why's he out there?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That's...\""
+  },
+  {
+    "message": "Mamiya-kun."
+  },
+  {
+    "message": "He was carefully walking across the edge of the courtyard... where there was a shadow from the fence."
+  },
+  {
+    "message": "He looked like he was trying to step on his shadow."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What is he doing?\""
+  },
+  {
+    "message": "He walked to the left side of the schoolyard."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is he going behind the school?\""
+  },
+  {
+    "message": "Actually, that's where the old pool is..."
+  },
+  {
+    "message": "It looked like he was carrying a bunch of books."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Where's he going? Doesn't he have class?\""
+  },
+  {
+    "message": "I looked at the clock."
+  },
+  {
+    "message": "It had been ten minutes since class started."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe he's skipping class?\""
+  },
+  {
+    "message": "Apparently, he skips classes a lot."
+  },
+  {
+    "message": "Though I'm in a different class, so I don't really know how often he skips."
+  },
+  {
+    "message": "'And my grades are terrible, and I skip class all the time...'"
+  },
+  {
+    "message": "That's what he said."
+  },
+  {
+    "message": "He said it himself."
+  },
+  {
+    "message": "He said his grades were bad. I wonder how bad... Well, if he's skipping class all the time, they can't be all that great."
+  },
+  {
+    "message": "While I was thinking about that... he came back again."
+  },
+  {
+    "message": "I guess that took about ten minutes?"
+  },
+  {
+    "message": "He appeared again from the same place he had gone off, walking quickly through the shadows."
+  },
+  {
+    "message": "He walked across the yard in less than two minutes and disappeared off in the other direction."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "What's he doing?"
+  },
+  {
+    "message": "I kept looking out the window."
+  },
+  {
+    "message": "The world on the other side of the glass looked very hot."
+  },
+  {
+    "message": "A few minutes later, he appeared again, carrying several books through the shadows."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why does he have to walk in the shadows?\""
+  },
+  {
+    "message": "He would stand out if he walked across the middle of the schoolyard, but either way, it's not like people aren't going to see him."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why's he walking in the shadows?\""
+  },
+  {
+    "message": "As I was thinking about that, he disappeared behind the school again."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What was he going the other direction for?\""
+  },
+  {
+    "message": "The front gate is on the opposite side of the school from the back courtyard."
+  },
+  {
+    "message": "So he's going back and forth between the main gate and the back courtyard?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Now that I think of it...\""
+  },
+  {
+    "message": "There's a bicycle rack outside the front gate."
+  },
+  {
+    "message": "The time between him disappearing and showing up again was too long for him to just be going to the front gate."
+  },
+  {
+    "message": "Which would make the bicycle rack his most likely destination."
+  },
+  {
+    "message": "Which means..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe he's carrying something from the bicycle rack?\""
+  },
+  {
+    "message": "Maybe he brought some books from his house with his bicycle, and now he's carrying them somewhere?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But where's he bringing them to?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I don't think there's any place to put books over in that direction...\""
+  },
+  {
+    "message": "The old pool is still there, behind the school."
+  },
+  {
+    "message": "An indoor pool was installed this spring, so the old one will probably be demolished, but..."
+  },
+  {
+    "message": "There's not much of anything else over there."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I don't think there's a library or a warehouse or anything over there...\""
+  },
+  {
+    "message": "What could he be doing?"
+  },
+  {
+    "name": "Teacher",
+    "message": "\"Remember this part. It'll be on the test.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"What, really?\""
+  },
+  {
+    "name": "Teacher",
+    "message": "\"Yes, really... Make sure to go back over that part.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Stand!\""
+  },
+  {
+    "message": "The class ended."
+  },
+  {
+    "message": "The classroom instantly got noisy."
+  },
+  {
+    "message": "And then I noticed class was over."
+  },
+  {
+    "message": "Oh no, that's bad."
+  },
+  {
+    "message": "I wasn't listening at all."
+  },
+  {
+    "message": "I accidentally scribbled all over my math notes."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I just ended up drawing more boring pictures.\""
+  },
+  {
+    "message": "But while I was looking outside... I was drawing something."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hahahaha... That's why everyone says I'm creepy.\""
+  },
+  {
+    "message": "I never learn... do I."
+  },
+  {
+    "message": "I didn't see Mamiya-kun walking across the yard anymore after class ended."
+  },
+  {
+    "message": "This is the break period, even for him, I guess."
+  },
+  {
+    "message": "I pushed my math notes into my desk."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I won't be able to use my notes to study with all these scribbles on them... I guess I'll have to throw this notebook away and get a new one.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Takashima!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Ah, yes?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"What are you spacing out for?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, uh... Sorry.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Hey Takashima, do you have one?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? One what?\""
+  },
+  {
+    "message": "Akasaka-san gently smiled at me."
+  },
+  {
+    "message": "But her smile was incredibly scary."
+  },
+  {
+    "message": "I tried my best to answer it with a smile of my own."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Like I said, there's a concert in Raika. Do you have a ticket?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Raika? Oh, yeah. The concert at the CD store... I have one.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh, I see. I couldn't get a ticket, since I didn't get to the CD store soon enough.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Really. I went the day before yesterday, and there weren't any left.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I think there were still tickets. I went there yesterday too.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"No way, there weren't any.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"You must have been mistaken. There weren't any when I went.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, yeah...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Jeez, even though you got one.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Akasaka-san. Do... Do you want my ticket?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Yeah, I do.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Okay, then I'll give it to you... I'll bring it tomorrow.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Really? That would be great.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Thanks. We're best friends, you know?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, y-yeah...\""
+  },
+  {
+    "message": "I hesitated before I responded... Her face looked really scary for a second."
+  },
+  {
+    "message": "But then she started smiling again."
+  },
+  {
+    "message": "I'm probably safe..."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Do you want to go to the bathroom?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, sure...\""
+  },
+  {
+    "message": "She invited me to the bathroom."
+  },
+  {
+    "message": "She's usually in a good mood when she does that."
+  },
+  {
+    "message": "She must be happy about the ticket."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Oh, Megu, you're going too?\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"We'll go too. Tachibana, you too.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hmm? Me?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, Zakuro... I'll come if Zakuro does.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Kimika came along too... Kimika always bullies me, but the truth is, she's really nice."
+  },
+  {
+    "message": "It seems like no one else knows, but Kimika is really kind... and she's the kind of strong person who would never let someone change her mind."
+  },
+  {
+    "message": "Though she is kind of distant..."
+  },
+  {
+    "message": "But I don't really get along with Akasaka Megu or Kitami Satoko."
+  },
+  {
+    "message": "So I have to be really careful... I have to be super careful around them."
+  },
+  {
+    "name": "Megu",
+    "message": "\"So then the old guy suddenly started talking to me.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"He asked if 30,000 yen would be enough.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Isn't that ridiculous?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-You mean... he asked you if you were a prostitute?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"You know? It really ticked me off.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "She ignored me and kept talking to Kitami-san instead."
+  },
+  {
+    "message": "Maybe she's annoyed because I said something so stupid."
+  },
+  {
+    "message": "Seems like I stepped on a landmine..."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Why didn't you just take his money and beat him up?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"No way. That's disgusting.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Yeah, disgusting.\""
+  },
+  {
+    "message": "I spoke in a quiet voice and agreed with her."
+  },
+  {
+    "message": "I couldn't even tell whether she heard me... and I was sweating."
+  },
+  {
+    "name": "Megu",
+    "message": "\"Disgusting. Just disgusting.\""
+  },
+  {
+    "message": "Akasaka-san looked at me."
+  },
+  {
+    "message": "I hurriedly agreed with her."
+  },
+  {
+    "name": "Megu",
+    "message": "\"It was scary having this old guy suddenly talking to me like that.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"That's so scary. It's like he just goes after any girl he sees.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Old guys like that are too desperate.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You know... It seems like you're just agreeing with everything they say. Have you ever had an old guy talk to you like that, Zakuro?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Uh...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What? Zakuro... You were just going along with whatever they said, weren't you?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"No, I bet geezers like that can't resist girls like Takashima.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Geezers like that? lol.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Takashima has to be popular with the geezers, right? I bet she would wear those weird outfits they sell in Donkey's. Maid outfits or bunnygirl outfits, stuff like that.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Oh, yeah, yeah. Cosplay, right? The one with all the cosplay stuff.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"What do you mean all the cosplay stuff? lol.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"That's what they call it in Akiba, right Tachibana?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Dunno... I'm not really sure. Have you heard of that, Zakuro?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, y-yeah...\""
+  },
+  {
+    "message": "I haven't really heard much about it."
+  },
+  {
+    "message": "Well, it's called cosplay..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh really..."
+  },
+  {
+    "message": " So then, do you like to cosplay, Zakuro? Do you like to do it in public... or do you just do it at home?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"At home? When no one else can see it? Isn't that kind of weird?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I don't really do anything like that.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"You don't? lol.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"You would be perfect for it lol.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Aha, ahahaha...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe...\""
+  },
+  {
+    "message": "This is the part where I'm supposed to laugh... I don't really understand, but I desperately tried to make a smile."
+  },
+  {
+    "message": "When she saw that, Kimika laughed at me."
+  },
+  {
+    "message": "Did I mess up again?"
+  },
+  {
+    "message": "Here at school, anything I say can turn into a landmine... I'm always sweating in fear."
+  },
+  {
+    "message": "And of course, silence is just as bad. I stand out even more if I don't say anything."
+  },
+  {
+    "message": "I prayed for the bell to ring soon."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"But she draws manga lol.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"She draws during class too.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, that's...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"What? Is there another event happening in Akiba this summer?\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"What? Another Akiba event? Do you know about that, Tachibana?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The famous one they do every year, right? There are tens of thousands of otakus that gather every year. It can get pretty crazy, I guess.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Seriously?"
+  },
+  {
+    "message": " There are really that many? lol. What they hell would they all do in one place? lol.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"It must smell like shit there lololol. It would be like an entire city of nerds lol.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Don't ask me lol, but yeah I bet it does lolol. Right, Takashima?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Oh, yeah...\""
+  },
+  {
+    "message": "Well, there are a lot of smelly guys... and sometimes the women smell too."
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Why would all those smelly people want to get together lol? What are they all going to do together?\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"I heard they sell anime porn lol. And they dress up as anime characters too lol.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"What the hell lol?"
+  },
+  {
+    "message": " Why would you draw porn like that, Takashima?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, for the record... I'm one of the producers, and that's kind of...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"I bet she draws those manga where two guys fuck.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Two guys? Really?"
+  },
+  {
+    "message": " What the hell is wrong with those people?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Oh, crap. That was the bell for the next class.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Isn't the next class English?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-Yeah, it is...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"No waaay.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"He's definitely going to call on me today.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Now that you mention it, the person in front of you went last yesterday. So you didn't do your homework today either?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"But isn't it Zakuro's turn today too?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah, probably... I'm not sure, but it probably is.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Did you do it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah. I did it, but...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Let me borrow your notebook.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? But...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"I'm trying to get a recommendation for the college here, so this is really important. My grades will fall.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But if I give you my notebook...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"There's no time for me to copy it. Just let me borrow it.\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Can't you just skip class, Takashima? They'll let you go if you say you're not feeling well, won't they?\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"It would help me out a lot if you could. I need your notebook.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sure...\""
+  },
+  {
+    "name": "Megu",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"All right... I'll let you borrow it.\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Great!"
+  },
+  {
+    "message": " We'll explain to the teacher.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sure...\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"I guess this is what friends are for! Ahahaha.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "I can't put them in a bad mood over something small like this."
+  },
+  {
+    "message": "I'll lose my award for three years of perfect attendance, but still, compared to what could happen, it's not a big deal."
+  },
+  {
+    "message": "So..."
+  },
+  {
+    "message": "I guess I have no choice."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You're so kind, Zakuro... Hmm.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ow!\""
+  },
+  {
+    "message": "After she said that, she pinched my arm for some reason."
+  },
+  {
+    "message": "She didn't seem all that happy about my decision."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm skipping class...\""
+  },
+  {
+    "message": "I stood alone in the hallway."
+  },
+  {
+    "message": "I had never skipped class before, so I didn't know what to do."
+  },
+  {
+    "message": "I have to go the school infirmary."
+  },
+  {
+    "message": "That's what I was told."
+  },
+  {
+    "message": "If you feel bad, go rest in the infirmary..."
+  },
+  {
+    "message": "But maybe the nurse would see through me if I faked an illness."
+  },
+  {
+    "message": "Since I don't actually feel bad..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What should I do...\""
+  },
+  {
+    "message": "A quiet hallway... It's not really a question of what to do. There isn't anything I can do here."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... There are a lot of things I could do if I had a notebook and a pencil.\""
+  },
+  {
+    "message": "Jeez... If only I had something to do. I can't even go to the infirmary."
+  },
+  {
+    "message": "Though honestly, I didn't really want to go there in the first place."
+  },
+  {
+    "message": "Not only because the nurse would probably see through me, but also since there's no reason to go to the infirmary when I feel perfectly fine"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What should I do...\""
+  },
+  {
+    "message": "I wandered through the hallway alone, lost in thought."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "I hid in the bathroom when I saw someone coming."
+  },
+  {
+    "name": "Iida",
+    "message": "\"Seriously, there's no way.\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"No, really. It really was.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"No, seriously. Seriously now.\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"There you go again. I'm telling you, you should've seen it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "I leaned on the door."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Those are lowlifes...\""
+  },
+  {
+    "message": "They don't seem like good people. They almost always skip class."
+  },
+  {
+    "message": "Th-That's right... People like that are wandering around..."
+  },
+  {
+    "message": "Does that mean I can't leave the bathroom?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What should I do? Sitting in the bathroom alone for an hour is kind of...\""
+  },
+  {
+    "message": "Or maybe... there might be some other place where they won't see me... some place the teachers won't find me either..."
+  },
+  {
+    "message": "I guess the bathroom really is my only choice."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Actually...\""
+  },
+  {
+    "message": "Is Mamiya-kun skipping class right now?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I wonder if Mamiya-kun knows a place where no one will bother him?\""
+  },
+  {
+    "message": "He went off toward the old pool..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Maybe I should go look...\""
+  },
+  {
+    "message": "After all, I have nothing else to do for the next hour."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No one's here...\""
+  },
+  {
+    "message": "I thought Mamiya-kun came this way, but I guess he's not here."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Or maybe he went to class?\""
+  },
+  {
+    "message": "That might be it. There's no guarantee he skipped class again."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is that... ash?\""
+  },
+  {
+    "message": "There was a black spot next to the pool."
+  },
+  {
+    "message": "When I looked closer, I noticed that they were burnt cinders."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is...\""
+  },
+  {
+    "message": "Manga?"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wh-What are you doing?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Oh.\""
+  },
+  {
+    "message": "I suddenly heard someone behind me. When I turned around, Mamiya-kun was standing there."
+  },
+  {
+    "message": "He wasn't there a moment ago..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Umm, something was burning, so...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"N-Not really. It wasn't a very big fire.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-That's not what I mean. Um, there was smoke in the air...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"So what?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...Who are you?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um, I'm Takashima Zakuro. I'm in the class next to yours.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The next class?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What? Skipping class? Weren't you a good student?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I have certain circumstances...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Circumstances? What do you mean?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What about you?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What were you doing?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"N-Nothing, really...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Your books were burning, though... Did someone make you burn them?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It's just... it bugged me how the heroine in this manga wasn't a virgin, so I was gonna burn it and upload the video.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Th-The heroine?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Y-Yeah... It's not like someone was bullying me. I just couldn't let it go, so I burnt it.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I read that manga.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? You did?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Uh, yeah... I like manga.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...Oh.\""
+  },
+  {
+    "message": "It looked like he was going to smile for a moment, but then he gave a casual response."
+  },
+  {
+    "message": "Like he was trying to say, 'I don't care'..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"So you like manga... I see...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes... Mostly just shoujo manga, but I read shounen too.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"So you must be a fujoshi, right? The otakus must be all over you.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"N-No. I'm not a―\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, who cares about something like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "The atmosphere felt uneasy."
+  },
+  {
+    "message": "Did I step on another landmine?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you like manga, Mamiya-kun?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Don't most nerds like manga?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So what about you?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Of course I do. I just said it!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Um, could you just go away?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Um...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"If you stand around here... Yuuki will see us, and then I'll get beat up again.\""
+  },
+  {
+    "message": "Yuuki? Oh, he must be one of those thugs."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um, I'm...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"You know, as long as you're here, I can't go back. You're bothering me.\""
+  },
+  {
+    "message": "Go back?"
+  },
+  {
+    "message": "Why can't he go back because of me?"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Don't make me repeat myself.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I don't need your apologies. Just disappear. Otherwise... Ah!\""
+  },
+  {
+    "message": "His face twisted in fear."
+  },
+  {
+    "message": "He was looking at..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The people from before.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Tch.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Mamiya-kun grabbed my collar and pushed me down."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"Did you just hear a girl's voice?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"You're just imagining things 'cause you haven't gotten any action lately...\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"No, really!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Jeez, why did it turn out like this? Damn it. What should I do... They're already so close.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Um... Y-You can't tell anyone about what you're about to see!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? What?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Just promise that you won't tell anyone about it.\".\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, sure...\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"It came from over here. Someone's probably fucking.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Hey, wait up.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Come on...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "message": "He pulled on my hand hard."
+  },
+  {
+    "message": "Into the open manhole..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What are you doing? Get in! Just go down the ladder.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, okay...\""
+  },
+  {
+    "message": "After I went in, Mamiya-kun came down and immediately pulled the lid back over the manhole."
+  },
+  {
+    "message": "It was pitch black inside."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Umm...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Be quiet... Also, this ladder is pretty high, so be careful.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, okay...\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"Huhh?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Look, no one's here, just like I said.\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"That's weird... I'm sure I heard someone.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"But there's no one around here.\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"I definitely heard someone...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"You got any smokes?\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"Yeah, a few...\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Sevens, huh...\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"What's wrong with Sevens?\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Sevens is the kind of crap old men smoke...\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"Huh? Why don't you go smoke your mint crap then?\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Th-Those bastards... They're smoking up there.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mamiya-kun...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Umm...\""
+  },
+  {
+    "message": "My hands had gone numb."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Tch... Go down the ladder, I guess.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Down?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, I'll turn on the lights when we get to the bottom, so go down.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"S-Sure...\""
+  },
+  {
+    "message": "'Either the well was very deep,'"
+  },
+  {
+    "message": "'or she fell very slowly,'"
+  },
+  {
+    "message": "'for she had plenty of time as she went down to look about her, and to wonder what was going to happen next.'"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It's like the rabbit hole Alice fell down...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"There we go...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"From here, you can get out through the irrigation canal, so just go that way.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"That way?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Look, over there, further in...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But my shoes will get dirty.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Who cares about that?!\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"I heard something! Seriously!\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"Again?\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"No, really, I heard a guy and a girl!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-If we talk too loudly...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I-I know that.\""
+  },
+  {
+    "name": "Iida",
+    "message": "\"You're hearing things. You need to get laid, man.\""
+  },
+  {
+    "name": "Shiroyama",
+    "message": "\"That's not it.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...Do you promise not to tell anyone?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"About what?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I can't say what, which is why I'm asking!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, okay...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Jeez... If I don't have any dirt on you, I really can't tell you, though...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Dirt?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"N-Nothing! Who cares about that?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"S-Sorry.\""
+  },
+  {
+    "message": "Mamiya-kun is kind of mysterious..."
+  },
+  {
+    "message": "Sometimes he seems frightened like this, other times he's relaxed, and sometimes he's really scary."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Jeez... Of course you can't say something like that. That's too embarrassing.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "I couldn't hear him well, but he was mumbling something to himself."
+  },
+  {
+    "message": "Mamiya-kun always seems to be talking to himself, just like this."
+  },
+  {
+    "message": "He's kind of strange."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Whoa... This is...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"D-Don't touch anything.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, okay...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is this your hideout?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hideout? The hell is that? Sounds stupid. Makes it seem like I'm a terrorist or something.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I-I'm sorry...\""
+  },
+  {
+    "message": "Oh, so hideouts aren't cool... I'm not sure, but I always thought hideouts were cool."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Don't you think that word is nasty? That's the kind of word all the sheeple eat up.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...Sheeple?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I hate the mass media... Anyone who watches TV or reads the newspaper is dumb as a rock.\""
+  },
+  {
+    "message": "Sheeple... Like sheep people? Is that a word?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"R-Really?\""
+  },
+  {
+    "message": "I've heard the same thing about people who watch TV, but... don't smart people read the newspaper?"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"That's right. The sheeple who watch that crap are stupid, vulgar peasants.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... Okay.\""
+  },
+  {
+    "message": "I heard the muffled sound of the bell."
+  },
+  {
+    "message": "It sounded like it was incredibly far away, since we were underground."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Go on, get out... Class is over.\""
+  },
+  {
+    "message": "Mamiya-kun put his hand on the ladder in the back of the reservoir tank."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The bell rang, so get out. And don't...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...Don't say anything about this place! Really, this isn't fair!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh? Um...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Why did I have to tell you my secret? This is so unfair...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um... You mean, I should tell you a secret I've never told anyone else?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? Eh? Wh-What do you mean?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um... Well, you said it wasn't fair that I know your secret and you don't know any of mine...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Uh, w-well, I guess...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"If you wait a little bit, I'll bring it here.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? Wh-What do you...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'm not sure, but maybe it's as important to me as this place is to you.\""
+  },
+  {
+    "message": "I ran off."
+  },
+  {
+    "message": "Behind me, Mamiya-kun yelled..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wh-When you come down, make sure no one sees you!\""
+  },
+  {
+    "name": "Satoko",
+    "message": "\"Oh, Takashima. Thanks for the notebook.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, sure...\""
+  },
+  {
+    "message": "I took the notebook from Kitami-san and stuck it back in my desk."
+  },
+  {
+    "message": "Then I took out another notebook."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is really embarrassing...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "But it has to be, otherwise it's not a secret."
+  },
+  {
+    "message": "The pictures I drew while I was watching Mamiya-kun earlier..."
+  },
+  {
+    "message": "It's not like I was drawing pictures of him, but still, it would be really embarrassing to show him this."
+  },
+  {
+    "message": "I wouldn't even want my parents to see this."
+  },
+  {
+    "message": "I'd like to take it to my grave, or maybe burn it... Either way, I wouldn't ever tell anyone about it."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But that place is Mamiya-kun's secret, so...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "message": "I stuck the notebook in my shirt and started running back."
+  },
+  {
+    "message": "That's right... It has to be something embarrassing like this."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ha... Ha... Ha...\""
+  },
+  {
+    "message": "It was this manhole, wasn't it?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hhm... H-Heavy...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah... Ahh...\""
+  },
+  {
+    "message": "I couldn't lift it at all."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Wh-What are you doing? I thought it was someone else.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I'm sorry...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Uh, um... earlier, you said...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, you said you needed to know my secret.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? Y-You mean, like, your under...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, no. I-It's nothing... So, what is it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"No, like... my weak point.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Your weak point?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah. It's not fair that I know your secret, so...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"U-Um, you mean...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"E-Eh? Really?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Please take this!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What is this?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"M-My notebook!\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"No, I can see that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Um, this is my weak point.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Oh, okay.\""
+  },
+  {
+    "message": "He quizzically opened my notebook."
+  },
+  {
+    "message": "It really is embarrassing."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Is it... a manga?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-Yes...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, it's pretty good.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What? Are you trying to go pro?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, no... Not really.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I see. Well, I guess it would be embarrassing to show someone something you drew, but is that really a secret?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Y-You don't think that counts?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I dunno... It's not like it matters to me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"W-Well, then what would be better?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"L-Like I said, I-I can't say something like that!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"J-Just forget about it."
+  },
+  {
+    "message": " Jeez...\""
+  },
+  {
+    "message": "Mamiya-kun crawled back into the manhole."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hey!"
+  },
+  {
+    "message": " Why are you trying to come down?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, uh...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm... W-Well, I guess it doesn't matter now. I don't really mind.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you stay down here a lot?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Here?"
+  },
+  {
+    "message": " I'd get sick if I stayed here in the humidity... It's kind of nasty.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah...\""
+  },
+  {
+    "message": "Even if it is underground, a sealed space like this really would get hot in the summer."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It wouldn't be bad to stay here for a while, but I wouldn't want to stay for too long.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It would be awful, wouldn't it? The temperature isn't really a problem, but the humidity is really bad.\""
+  },
+  {
+    "message": "I suppose so."
+  },
+  {
+    "message": "So it's not like he's always down here..."
+  },
+  {
+    "message": "Maybe it's like an emergency shelter?"
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What are you doing?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I mean, I don't really care if you want to stay here, but...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "Mamiya-kun opened a hatch further in."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is that an exit?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"...\""
+  },
+  {
+    "message": "Mamiya-kun silently climbed the ladder."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...\""
+  },
+  {
+    "message": "Mamiya-kun disappeared."
+  },
+  {
+    "message": "Will he mind if I follow him?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This is...\""
+  },
+  {
+    "message": "It wasn't nearly as hot."
+  },
+  {
+    "message": "This place..."
+  },
+  {
+    "message": "A huge space opened up before me."
+  },
+  {
+    "message": "Several concrete pillars stretched into the infinite void."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We're not outside, are we? It's still just the afternoon...\""
+  },
+  {
+    "message": "It wouldn't be dark at this time of day."
+  },
+  {
+    "message": "I never knew there was such a huge space here..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"This is the new school building's foundation. The new pool is right above us.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"It's usually pretty cool down here. When they turn on the air conditioning up above, it cools the air down here too.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"They put ventilation shafts down here so that the humidity wouldn't eat away at the foundation.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"It was built right over the old pool's drainage tank...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Well, maybe they were considering the possibility of using the old pool's drainage tank. Either way, it's really convenient for me.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"How did you find this place?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"There are a few sets of stairs that lead down here, so I guess you can get in here from above, but all those doors are locked.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"As far as I know, they've never been unlocked. I doubt there's any way in here other than the route we just took.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So no one comes down here...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"There are drainage pipes over there, so maybe a maintenance worker would come down if there was a problem with the pool...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But bullies and teachers don't come down here?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Of course not.\""
+  },
+  {
+    "message": "Mamiya-kun walked further in."
+  },
+  {
+    "message": "I quickly followed him."
+  },
+  {
+    "message": "But still, the roof is really high."
+  },
+  {
+    "message": "It was built on a slope, so it makes sense, but still..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why's the roof so high?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Maybe they were going to build something down here? I guess they ran out of money halfway through.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You think so?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Who knows... It looks like they could fit another whole floor down here, though I'm not really an expert.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Here it is.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Here?\""
+  },
+  {
+    "message": "Mamiya-kun suddenly pushed on the wall."
+  },
+  {
+    "message": "The wall gave in easily."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Is this fabric?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I rubbed gravel into the fabric. It just looks like another part of the wall in the darkness.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wow... It's almost like a house. It's so bright.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, that's why I have the generator. I can read or even play games in here.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Can you use the Internet too?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Yeah, but it's super slow, since I have to use my phone to get a connection.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"But we're underground...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"The building was probably designed so you could get a signal in here.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Other than that... I guess I have these shelves for keeping food.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Books...\""
+  },
+  {
+    "message": "I've seen this bookshelf before. It's probably one of the school's..."
+  },
+  {
+    "message": "But there are an awful lot of books."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Are these your books?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Some of them are mine, but not all. I brought some books that my parents make me read.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"There are a lot of really difficult books here...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Those aren't mine. They're the ones my parents try to make me read... They're in the way, so I just keep them down here.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"There are a bunch of plays...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Those aren't mine either. They're from my house.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"From your house?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I don't really plan on reading them, but...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You don't read them, but you carried them here anyway...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I guess...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Philosophy books...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I don't read those.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"World literature...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Who cares about that?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Classic literature...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Who would read that crap?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Light novels...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"A ton of them, right? They're all mine.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So you like light novels, huh?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"I don't think there's anything to learn from old books. Why do you need to read anything but light novels?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"O-Oh, really...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Huh? Do you think there's something to learn from those old books? Only old geezers read them.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Old geezers...\""
+  },
+  {
+    "message": "I don't think that's right."
+  },
+  {
+    "message": "Well, that's not important."
+  },
+  {
+    "message": "But really... that's not right."
+  },
+  {
+    "message": "He's probably wrong about that."
+  },
+  {
+    "message": "I took a bottle off his food shelf."
+  },
+  {
+    "message": "A bottle of something..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"This isn't a bottle of marmalade, is it?\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Nothing...\""
+  },
+  {
+    "message": "'First,'"
+  },
+  {
+    "message": "'she tried to look down and make out what she was coming to,'"
+  },
+  {
+    "message": "'but it was too dark to see anything:'"
+  },
+  {
+    "message": "'then she looked at the sides of the well,'"
+  },
+  {
+    "message": "'and noticed that they were filled with cupboards and book-shelves:'"
+  },
+  {
+    "message": "'here and there she saw maps and pictures hung upon pegs.'"
+  },
+  {
+    "message": "'She took down a jar from one of the shelves as she passed:'"
+  },
+  {
+    "message": "'it was labelled \"ORANGE MARMALADE,\" but to her great disappointment it was empty;'"
+  },
+  {
+    "message": "'she did not like to drop the jar, for fear of killing somebody underneath,'"
+  },
+  {
+    "message": "'so managed to put it into one of the cupboards as she fell past it.'"
+  },
+  {
+    "message": "A passage from Alice in Wonderland, when she fell into the rabbit hole."
+  },
+  {
+    "message": "That's right..."
+  },
+  {
+    "message": "This isn't the rabbit hole that leads to Wonderland."
+  },
+  {
+    "message": "But this was the first time Mamiya-kun seemed truly mysterious to me."
+  },
+  {
+    "message": "When I came here... I felt like there was something drawing me in."
+  },
+  {
+    "message": "Somewhere else..."
+  },
+  {
+    "message": "Somewhere other than the place I am."
+  },
+  {
+    "message": "The world of mirrors... The world of mystery..."
+  },
+  {
+    "message": "I know that nothing like that really exists, but for some reason I had gotten the feeling that there was something different about him."
+  },
+  {
+    "message": "Mamiya-kun seemed enigmatic at first, but..."
+  },
+  {
+    "message": "But it was just an illusion."
+  },
+  {
+    "message": "This place lost its luster once I found that out."
+  },
+  {
+    "message": "It was just another dull place."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Hmm? What's wrong?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I should be heading home.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Eh? Already?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah... Yes...\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"U-Um...\""
+  },
+  {
+    "message": "I fled that place."
+  },
+  {
+    "message": "Behind me, Mamiya-kun yelled..."
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"Y-You can come back any time you want.\""
+  },
+  {
+    "name": "Mamiya",
+    "message": "\"U-Uh, Takashima-san!\""
+  },
+  {
+    "message": "Before, he didn't want me to come here at all."
+  },
+  {
+    "message": "His voice suddenly sounded incredibly bothersome."
+  },
+  {
+    "message": "I hated the sound of his voice chasing after me."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahh.\""
+  },
+  {
+    "message": "Nothing interesting ever happens."
+  },
+  {
+    "message": "Of course not."
+  },
+  {
+    "message": "If amazing things happened every day, we would get tired of them."
+  },
+  {
+    "message": "Life is just..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Haa...\""
+  },
+  {
+    "message": "Mamiya-kun, huh?"
+  },
+  {
+    "message": "Honestly, I was disappointed."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Disappointed, huh?\""
+  },
+  {
+    "message": "What was I expecting?"
+  },
+  {
+    "message": "The sun began to set."
+  },
+  {
+    "message": "The color of the sky doesn't change with the day, but it does change with the hour."
+  },
+  {
+    "message": "It slowly changes to yellow... and then dyes all the buildings purple."
+  },
+  {
+    "message": "The sunset was depressing."
+  },
+  {
+    "message": "That was because I was already tired by the time I saw the scenery."
+  },
+  {
+    "message": "My body felt heavy. My heart felt heavy."
+  },
+  {
+    "message": "Even though nothing happened in the day. Even though it was all empty."
+  },
+  {
+    "message": "The only things that remained after such an empty day were the weight in my body and the weight in my heart."
+  },
+  {
+    "message": "And also... a strange frustration, almost like regret."
+  },
+  {
+    "message": "It seemed like regret, even though... I hadn't done anything wrong."
+  },
+  {
+    "message": "Of course."
+  },
+  {
+    "message": "No one could fault me for my choices today."
+  },
+  {
+    "message": "There was no point where my empty existence could have blossomed into a bouquet of flowers."
+  },
+  {
+    "message": "It's not like you can make life-changing choices every single day."
+  },
+  {
+    "message": "And even if there was a bouquet of flowers to fill the hole in my life... they would wilt in just a few days."
+  },
+  {
+    "message": "A flower without roots... withers and dies."
+  },
+  {
+    "message": "That's why I found the sunset incredibly depressing."
+  },
+  {
+    "message": "The scenery was too melancholy."
+  },
+  {
+    "message": "This melancholy scene was another..."
+  },
+  {
+    "message": "It was the scenery of another conclusive ending."
+  },
+  {
+    "message": "This is how it ended, with a heavy body and a heavy heart."
+  },
+  {
+    "message": "It actually cheered me up a little to think that at least it was over."
+  },
+  {
+    "message": "The melancholy scenery outside passed from the right to the left, on and on."
+  },
+  {
+    "message": "Right to left, right to left, it flowed on."
+  },
+  {
+    "message": "As it flowed, the shade of purple on the buildings grew more apparent."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Haa..."
+  },
+  {
+    "message": "I ate dinner and then went to my room."
+  },
+  {
+    "message": "I idly surfed the Internet on my phone."
+  },
+  {
+    "message": "Though... it's not like that's any fun."
+  },
+  {
+    "message": "I had gotten a friend request from some man I didn't know..."
+  },
+  {
+    "message": "He was a 30 year old businessman. His listed interests were the same as mine, and he said he had become one of my fans after reading my journal."
+  },
+  {
+    "message": "\"You've got a good head on your shoulders for a girl of your age.\""
+  },
+  {
+    "message": "\"It's nice to see that there are still some girls who think before they act.\""
+  },
+  {
+    "message": "That's what he said..."
+  },
+  {
+    "message": "\"You like Alice in Wonderland, huh? Have you seen Jan Svankmajer's version, Cheshire Cat?\""
+  },
+  {
+    "message": "By the way, Cheshire Cat is my username."
+  },
+  {
+    "message": "\"It's a very artistic film, but you're a smart, sensitive girl, so I thought you might like it.\""
+  },
+  {
+    "message": "Sadly enough, I'm neither smart nor sensitive."
+  },
+  {
+    "message": "\"The Jabberwocky's Riddle community is having an offline meeting soon. Are you coming? If you are, I could bring the DVD for you.\""
+  },
+  {
+    "message": "Unfortunately, I'm not going (I've never even been to that site)."
+  },
+  {
+    "message": "I wanted to send him a sarcastic reply like that, but... of course, I can't."
+  },
+  {
+    "message": "I wasn't feeling good, so I just let it go."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Haa...\""
+  },
+  {
+    "message": "I aimlessly surfed the Internet."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Now that I think about it, they're not gossiping about me anymore.\""
+  },
+  {
+    "message": "Kita High's message board, SAWAYAKA..."
+  },
+  {
+    "message": "They call it the school's underground message board... Until about half a year ago, they said horrible things about me on here."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Fat...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ugly...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Disgusting...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"She must have gotten a boobjob...\""
+  },
+  {
+    "message": "Well, sorry for that... I guess ugly girls shouldn't have big boobs."
+  },
+  {
+    "message": "Lately there hadn't been any new posts about me."
+  },
+  {
+    "message": "Since about the same time the bullying stopped."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Bullying, huh...\""
+  },
+  {
+    "message": "I checked on the anonymous bullying prevention forum that I had signed up for back then."
+  },
+  {
+    "message": "My thread was still there..."
+  },
+  {
+    "message": "They told me to keep fighting. To never give up."
+  },
+  {
+    "message": "Telling me to never give up... Their advice only made it worse."
+  },
+  {
+    "message": "But there were also a lot of people who told me how to solve my problems."
+  },
+  {
+    "message": "They really helped me."
+  },
+  {
+    "message": "But one of them was a 28 year old man. I was scared of him, since he seemed more like a stalker than anything."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I should've never given him my phone number...\""
+  },
+  {
+    "message": "At first, I thought he was really nice, since he told me the phone number for a hotline for people who've been bullied..."
+  },
+  {
+    "message": "After I gave him my phone number... he called almost every night..."
+  },
+  {
+    "message": "He asked what I was doing."
+  },
+  {
+    "message": "He asked if I wanted to go somewhere to hang out."
+  },
+  {
+    "message": "It had nothing to do with bullying anymore... I got scared and changed my phone number."
+  },
+  {
+    "message": "But there were lots of good things, too."
+  },
+  {
+    "message": "The women in particular were always nice."
+  },
+  {
+    "message": "They were always kind... and I could relax, since I knew they didn't have any ulterior motives."
+  },
+  {
+    "message": "But one day, all the bullying suddenly stopped."
+  },
+  {
+    "message": "Because I was seriously injured."
+  },
+  {
+    "message": "It was painful, but now that I look back on it, it wasn't so bad. Now I don't need to come to this site anymore."
+  },
+  {
+    "message": "226: I Hate Bullies: 2012/01/15(W) 11:26:15 ID:KAERA\n"
+  },
+  {
+    "message": "The new school semester started. Are you still doing all right, Cheshire Cat?"
+  },
+  {
+    "message": "By the way, 'I Hate Bullies' is the 28 year old stalker."
+  },
+  {
+    "message": "You hate bullies, but you're just fine with stalkers, huh..."
+  },
+  {
+    "message": "228: The March Hare: 2012/01/25(W) 11:30:20 ID:inkin\n"
+  },
+  {
+    "message": "She hasn't posted anything new, so I guess she's fine."
+  },
+  {
+    "message": "229: The March Hare: 2012/05/09(Th) 11:35:40 ID:ADAMO\n"
+  },
+  {
+    "message": "It's been a long time. I guess nothing new has happened."
+  },
+  {
+    "message": "I'm praying for you. I hope your life goes better from here on out."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The March Hare...\""
+  },
+  {
+    "message": "She was one of the kind women..."
+  },
+  {
+    "message": "I wanted to tell her what happened after that..."
+  },
+  {
+    "message": "But I wanted to avoid the stalker, so I didn't post on there anymore."
+  },
+  {
+    "message": "The bullying really had stopped."
+  },
+  {
+    "message": "The March Hare... She always talks about praying..."
+  },
+  {
+    "message": "And she's always very polite and kind... She seems like a good person."
+  },
+  {
+    "message": "I really wish I could tell her what happened."
+  },
+  {
+    "message": "That the bullying stopped..."
+  },
+  {
+    "message": "I wish I could at least tell her."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Haa... I'm tired.\""
+  },
+  {
+    "message": "I looked at the clock."
+  },
+  {
+    "message": "It was already past midnight."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Whoa... I need to get to sleep.\""
+  },
+  {
+    "message": "That night... I had a dream."
+  },
+  {
+    "message": "A dream I've never had before."
+  },
+  {
+    "message": "But one that seems so familiar."
+  },
+  {
+    "message": "Maybe... it was a dream from long ago."
+  },
+  {
+    "message": "The dream made me sad..."
+  },
+  {
+    "message": "Then it disappeared."
+  }
+]

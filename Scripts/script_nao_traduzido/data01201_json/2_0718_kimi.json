@@ -1,0 +1,1375 @@
+[
+  {
+    "message": "The sound of the bell rang out through the night."
+  },
+  {
+    "message": "It was as if even the rooftop itself was resounding in unison."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is really amazing, being on the school roof at night!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, that's right... It's time for your drugs. Here, my savior!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "message": "Kimika gave me a capsule. She had put all the powdered elixir in individual capsules."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"But these capsules are just for you and me.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yes, most of the others are taking the stuff mixed with sodium benzoate... That's why they're having sex all the time.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Sodium benzoate?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Most drugs have impurities in them. Sodium benzoate is also called annaka, and if you mix it with stimulants it causes sexual arousal.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, but I rearranged their molecules with the White Surge, so I don't think it really matters.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's for the atmosphere. These capsules are just for us... Just for you and me.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Just for us, huh...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yes. Here, you'll have to take it without any water.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You should've brought some.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahaha, I forgot.\""
+  },
+  {
+    "message": "We put the capsules in our mouths and swallowed."
+  },
+  {
+    "message": "The holy drug... The holy capsules."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But still, you know a lot, don't you?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, about drugs, you mean? I am the leader of the science club, not to mention a headcase.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What? A headcase?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, that means my brain doesn't work right. That's why I know so much about drugs.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"They gave me a bunch of prescriptions at the hospital, but... I looked up all the ingredients and stuff online. It's sort of my hobby.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's kinda creepy.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, that's why I wanted to be a security guard when I grew up! That's about the only job I would be able to do right, you know?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Or I guess I could be a mad scientist.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I guess so... I couldn't say.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The night sky sure is far away.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, of course. All the light we can see in the night sky comes from incredibly far away.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Light from incredibly far away, huh... All the light we're seeing right now came from the shining of stars millions of years ago, huh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, that's right.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I'm kinda jealous.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Jealous?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, my voice only reaches people right next to me... or rather, it doesn't even reach that far. My voice doesn't reach anyone.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If my voice can't reach anyone near me, then I wish it could at least reach someone millions of light years away.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Someone millions of light years away...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, that's why I'm jealous of the stars.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Jealous of the stars... I see.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's right! You're the savior! You're like a whole convenience store full of miracles!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What, you want me to make you into a star?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"No way, that's childish! How about this. Make this building reach the heavens?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The heavens?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yes! Building C is four stories tall, and we're on the rooftop... We're standing on the fifth floor!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, I guess we are.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Stretch it out, one floor at a time!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Who's gonna do that?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"You are!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You know...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I'll give you the signal! Wait for me to hit the fence with this police baton!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hey, wait... Why do you have something like that?\""
+  },
+  {
+    "message": "First knives, and now a police baton... How many weapons does she have?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You know...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Here I go!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Whoa...\""
+  },
+  {
+    "message": "The pole she hit twisted and broke."
+  },
+  {
+    "message": "Then a beautiful sound rang out, accompanied by a sudden light, as if she had cast a magic spell."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Nice job, my savior!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Eh?\""
+  },
+  {
+    "message": "Suddenly, the building was five stories tall."
+  },
+  {
+    "message": "It looks like I actually made a miracle happen when she gave the signal."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"What an amazing miracle! I knew you could do it, my savior! Here goes the next one!\""
+  },
+  {
+    "message": "Kimika sacrificed another part of the fence."
+  },
+  {
+    "message": "It broke and released its magic."
+  },
+  {
+    "message": "At the same time, I made another miracle."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ha!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Six stories! Let's go the edges of space, my savior!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"There!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ha!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"There!\""
+  },
+  {
+    "message": "She broke one after the other."
+  },
+  {
+    "message": "Each time she hit a piece of the fence, it broke and changed into sound."
+  },
+  {
+    "message": "Everything broke and changed into sound."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Amazing!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The sound, the sound!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahahahaha...\""
+  },
+  {
+    "message": "The world broke apart."
+  },
+  {
+    "message": "Kimika cheerfully swung her baton around."
+  },
+  {
+    "message": "She swung it in a set rhythm, almost like a conductor."
+  },
+  {
+    "message": "I matched her pace as I brought about more and more miracles."
+  },
+  {
+    "message": "The savior's miracle."
+  },
+  {
+    "message": "Building renovation!"
+  },
+  {
+    "message": "Kimika changed matter to sound."
+  },
+  {
+    "message": "And I changed sound to matter."
+  },
+  {
+    "message": "The roof stretched up to the sky."
+  },
+  {
+    "message": "Stretched, stretched, stretched on upward."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is music!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahaha... I think all the real musicians in the world would take offense at that.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You're just making stuff up.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Even if I'm making it up, it's still beautiful! This melody is extremely beautiful!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, you're right.\""
+  },
+  {
+    "message": "The sound of destruction had changed into a beautiful melody."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahahaha, it's a melody!\""
+  },
+  {
+    "message": "For some reason she had a scale in her other hand, which she held up above her head."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahahahaha... You're so stupid. Why do you have a scale?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahaha, I'm measuring the weight of God! That's why I have a scale!\""
+  },
+  {
+    "message": "She held the scale up toward the sky as she said that."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Come on, God, get on the scale! We already have the melody on the other side.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's the melody! I'm in charge of the melody, and you're in charge of the miracles!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Come on, God, right here. Sit on this scale!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahaha, what kind of combination is that. Why are we putting melody and miracles together?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It makes perfect sense. God is the melody!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"God is melody!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I just understood it! God is melody!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Why, you... Did you hear me at all? You're just making stuff up at this point.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Now, let's go even higher!\""
+  },
+  {
+    "message": "We were already above the clouds."
+  },
+  {
+    "message": "It already stood far above any other building on the planet."
+  },
+  {
+    "message": "Like the Tower of Babel."
+  },
+  {
+    "message": "I had to wonder if God would be angry at me for using my miracles like this."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hey, wait, this is like the Tower of Babel."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Or maybe Icarus!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Icarus?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, it's the story of a man who tried to fly to the sun with wings of wax.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What happened at the end?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"He fell and died, ahahahahahaha!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Icarus was stupid. He didn't notice his wings melting when he got close to the sun.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"But we won't lose! I have the savior with me, after all!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Keep going. We'll reach the sky!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I don't know about that. You'll probably get killed by God.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If that bastard thinks he's got it in him, then he's welcome to try!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Because I think...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If God existed, he would be looking down at us from the sky all the time.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"He would see everything. He would know everything about us...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"And that's nasty! I don't want some guy leering at me all the time!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You better hope he doesn't take offense to that.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahahaha...\""
+  },
+  {
+    "message": "Naturally, her baton was bent in several places"
+  },
+  {
+    "message": "But she was laughing cheerfully."
+  },
+  {
+    "message": "She laughed as she destroyed the fence."
+  },
+  {
+    "message": "Destruction and melody."
+  },
+  {
+    "message": "Baton and music."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is music!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahahaha!\""
+  },
+  {
+    "message": "She completely broke the end of the baton off, but that didn't stop the beautiful melody."
+  },
+  {
+    "message": "The melody enveloped the roof, and it enveloped the two of us."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahahaha...\""
+  },
+  {
+    "message": "The miracles continued with every note."
+  },
+  {
+    "message": "We reached the height of the moon."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The moon. The moon. Luna!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahahahaha...\""
+  },
+  {
+    "message": "The endless succession of notes."
+  },
+  {
+    "message": "The endless succession of miracles."
+  },
+  {
+    "message": "We approached the edge of space."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"O-Oh no!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What's wrong?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The building is so tall... The centrifugal forces are making the roof spin incredibly fast!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, since the earth is revolving on its axis.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hahahahahaha... Oh no, oh no!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You're having an awful lot of fun!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Of course I am! This is super fun!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Kimika yelled even louder than she had before."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"A cow!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"There are tons of cows!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Eh?\""
+  },
+  {
+    "message": "I didn't notice until she said something... the roof was overflowing with cows."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Wh-Why are there cows here?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Why wouldn't there be? You were the one who said there were cows on the roof!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Cows on the roof?!\""
+  },
+  {
+    "message": "The cows mooed."
+  },
+  {
+    "message": "The melody rang out."
+  },
+  {
+    "message": "We were deep in space, far from the earth."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is the first time I've seen a cow. They're huge, and they dance!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Dancing cows?\""
+  },
+  {
+    "message": "When I looked again, they really were dancing."
+  },
+  {
+    "message": "They were on their hind legs, dancing."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"They're dancing. Dance, dance.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is the uncaged dance!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Uncaged dance?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yes! We've left the influence of Earth's gravity. Everything is free from gravity!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is the world's first uncaged dance, ahahahaha!\""
+  },
+  {
+    "message": "The uncaged dance."
+  },
+  {
+    "message": "We're far from any source of gravity... We're dancing in the furthest reaches of the starry sky."
+  },
+  {
+    "message": "That certainly would be mankind's first zero gravity dance."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's a zero gravity dance!\""
+  },
+  {
+    "message": "Kimika's body floated in the air."
+  },
+  {
+    "message": "She danced wildly through the air."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Dummy. If you fly through the air like that, everyone can see your panties.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's fine! You're the only one who can see!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Have some shame!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahahaha! I have some shame. I'm a virgin, after all. I've never even kissed anyone!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I don't care if you can see my panties. It's just cloth. It's not like you can see my cunt!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Don't say that word!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahaha, cunt, cunt, cunt! I'll say it as many times as I want! Whoever wants to tell me that word is bad can go eat shit!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's ridiculous!\""
+  },
+  {
+    "message": "A zero gravity dance."
+  },
+  {
+    "message": "A herd of cows."
+  },
+  {
+    "message": "The twinkling stars."
+  },
+  {
+    "message": "Kimika danced."
+  },
+  {
+    "message": "She danced and danced and danced in space."
+  },
+  {
+    "message": "I danced too."
+  },
+  {
+    "message": "God doesn't matter."
+  },
+  {
+    "message": "I just danced."
+  },
+  {
+    "message": "I danced for the pleasure of it."
+  },
+  {
+    "message": "I danced because it was fun."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Life is suffering! It's like an Unhappy Meal! But it's the best! Life is the best! That's important!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahaha, what comes with the Unhappy Meal, my savior?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Nothing comes with it.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's not true! There's a bonus that comes with it! There's an Unhappy bonus that all the kids love!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That sounds like it would taste terrible.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Now then, what is it? Go ahead, open it! What came with today's Unhappy Meal?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What am I supposed to open?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's right there. Look! Right before your eyes!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, you're right.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahahaha, you don't know the story of Tyltyl and Mytyl! That's no good, my savior!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Why would you bring that up?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Tyltyl and Mytyl went on a journey around the world to search for the blue bird who was part of the Unhappy Meal! They even went to the edge of space and rode the Galactic Railroad!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The conductor's here! The Birdcatcher told us that this ticket will take us higher than the sky!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's Eagle Station! Look, it's Scorpio's Fire! We've already passed through the Centaur Village! It's the Southern Cross!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It's Tanabata! It's the night of Tanabata... and the savior and I are on the Weather Station Pillar!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Because there's nowhere we belong. On Tanabata night... there's nowhere for us!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's why the blue bird fled to the Milky Way... so, so far away!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"But the blue bird that thought he got away...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Was on the menu the next morning.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"So please open your Unhappy Meal's toy!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I don't understand what you're saying!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahahahaha... There's nothing to understand! It's the flow. It's music. Come on, open it.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"My savior, open it, open it, open it. I want to see it. I want to see you open it!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Jeez... I guess I might as well.\""
+  },
+  {
+    "message": "The mysterious box that appeared in front of me..."
+  },
+  {
+    "message": "It had 'Amazonu' written on it."
+  },
+  {
+    "message": "Where did this come from?"
+  },
+  {
+    "message": "I reluctantly opened the box."
+  },
+  {
+    "message": "Kimika eagerly watched me."
+  },
+  {
+    "message": "Is this going to be unhappy too?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Whoa!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "It shot iridescent sparks in every direction... and then right above our heads..."
+  },
+  {
+    "message": "A beautiful explosion of color."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Whoa!\""
+  },
+  {
+    "message": "The box shot out more and more polychromatic sparks... and each one exploded above us."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, so that's it...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I think I just solved one of the riddles from my childhood.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I always wondered what would it look like if you saw a skyrocket from directly underneath.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Would it be flat, or round... What would it look like from underneath...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Well, it's round, of course...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Nope, you're wrong!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If you look at it from directly underneath, it's a perfect circle!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"More perfect than the world!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Than the universe!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"A perfect circle!\""
+  },
+  {
+    "message": "The fireworks went on forever."
+  },
+  {
+    "message": "The lights lit up the world."
+  },
+  {
+    "message": "The world's final eve."
+  },
+  {
+    "message": "Kimika danced."
+  },
+  {
+    "message": "And so did I."
+  },
+  {
+    "message": "So did the cows, the world, the gods, and everything else."
+  },
+  {
+    "message": "We danced, and danced, and danced, and then the eve ended."
+  },
+  {
+    "message": "Tomorrow would be the last day."
+  },
+  {
+    "message": "Before we realized it, we had come to the edge of the universe."
+  },
+  {
+    "message": "We had come to the edge of the world."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"This is the edge of the universe...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah... This is the edge.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, this is the last stop.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The last stop...\""
+  },
+  {
+    "message": "Kimika said those lonesome words as we stood under the final sky."
+  },
+  {
+    "message": "We finally made it."
+  },
+  {
+    "message": "The world's limit."
+  },
+  {
+    "message": "The edge of the universe."
+  },
+  {
+    "message": "Our limit."
+  },
+  {
+    "message": "This is the sky of the end."
+  },
+  {
+    "message": "It was already evening."
+  },
+  {
+    "message": "I thought it was morning, but now it was starting to get dark."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, we fell asleep, didn't we...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'm surprised we got any sleep up here, in the middle of summer...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, I carried you over to the shade during the day.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I didn't notice at all.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Neither of us had slept at all... I guess we just collapsed.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hey, my savior...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Is this the End Sky?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, that's right... This is the End Sky. The last sky in this world.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, good.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Just like I thought...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Just like I thought... Neither of them change. Not the last sky, and not the usual sky.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah... That's right.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Just because it's over... doesn't mean it's special, does it?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"But the setting sun is always beautiful, no matter when.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The setting sun at the end of the world, and the setting sun after any other day. They're both just as beautiful... It's so beautiful.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Now then, my savior...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"There's nothing that we've forgotten, is there?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Forgotten?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yes, there's nothing left for us to do here...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Forgotten...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Does anything come to mind for you?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"No, I looked at the sky and thought about it for so long, but I haven't forgotten anything.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I just thought... if I've forgotten it, maybe it wasn't that important after all...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I guess I didn't need it.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Didn't need it, huh...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yep, it wasn't necessary. Though the truth is, I doubt that anything is really unnecessary.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"But if nothing is necessary, then it's the same as if everything is.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"So... we have to draw a line somewhere.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"If I've forgotten something, then that's fine.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"There's nothing I've forgotten.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Something you've forgotten, huh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yes! Things that were incredibly unhappy... and things that were happy too... All of it.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hahahahahaha... Well, let's go.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah, let's... The sun is setting... and then...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The last night...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Let's enjoy it!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"No, today should be more solemn.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"No way. I want to have fun on the last night. Please, spend the last night together with me...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Um, Kimika... The holy water...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Right, I'll sprinkle lots of LSD on them at the end. And the stimulants too!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Like I said, I turned the LSD into holy water and the stimulants into elixir.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, I misspoke! That's right, that's right!\""
+  },
+  {
+    "message": "I kind of wonder..."
+  },
+  {
+    "message": "What was she trying to accomplish?"
+  },
+  {
+    "message": "I feel like she only went along with what I was doing to accomplish her own objectives."
+  },
+  {
+    "message": "What a strange woman."
+  },
+  {
+    "message": "Well, it doesn't matter."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"We'll give them a ton of it for the finale!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh～! I'm getting pumped up!\""
+  },
+  {
+    "message": "Everyone was gathered."
+  },
+  {
+    "message": "How many people are there? And when did they all get here..."
+  },
+  {
+    "message": "It looks like they were having a lot of fun."
+  },
+  {
+    "message": "Like they're all excited for something."
+  },
+  {
+    "message": "I wonder if the ark is fun..."
+  },
+  {
+    "message": "I thought salvation would be a more solemn affair."
+  },
+  {
+    "message": "I thought saving people would be more serious. I'm sure it should've felt more religious."
+  },
+  {
+    "message": "But in reality, it's like this."
+  },
+  {
+    "message": "I gathered them all through fear... They all came here out of fear of the curse."
+  },
+  {
+    "message": "They gathered to escape their fear of death."
+  },
+  {
+    "message": "So why are they having so much fun?"
+  },
+  {
+    "message": "Returning to the sky... It truly is something wonderful, but it should be more religious, more serious."
+  },
+  {
+    "message": "But instead, everyone is laughing."
+  },
+  {
+    "message": "Frolicking."
+  },
+  {
+    "message": "The world's final day is coming."
+  },
+  {
+    "message": "Everyone is celebrating."
+  },
+  {
+    "message": "I spoke."
+  },
+  {
+    "message": "Of the three monsters born of the gods..."
+  },
+  {
+    "message": "Of the great wolf, Fenrir, who is human lust itself."
+  },
+  {
+    "message": "Of the god of Death Hel, who is human fear of death itself."
+  },
+  {
+    "message": "And of Jormungandr, significant of eternity, who will awaken on the world's final day."
+  },
+  {
+    "message": "Everyone listened eagerly."
+  },
+  {
+    "message": "Like children reading a picture book... they eagerly listened to the story of the world's final day."
+  },
+  {
+    "message": "Rather than fear, it was enthusiasm I saw in their eyes."
+  },
+  {
+    "message": "Rather than quivering, laughter."
+  },
+  {
+    "message": "Rather than despair, amusement."
+  },
+  {
+    "message": "They all seemed so happy."
+  },
+  {
+    "message": "They all seemed so eager."
+  },
+  {
+    "message": "Laughing and screaming."
+  },
+  {
+    "message": "I yelled!"
+  },
+  {
+    "message": "Dance!"
+  },
+  {
+    "message": "Dance!"
+  },
+  {
+    "message": "Dance!"
+  },
+  {
+    "message": "With the melody!"
+  },
+  {
+    "message": "Dance!"
+  },
+  {
+    "message": "The world is words!"
+  },
+  {
+    "message": "God is melody!"
+  },
+  {
+    "message": "We have no need for the world."
+  },
+  {
+    "message": "We need only the melody."
+  },
+  {
+    "message": "Everyone danced."
+  },
+  {
+    "message": "Joyfully danced."
+  },
+  {
+    "message": "Danced as if mad."
+  },
+  {
+    "message": "There was no trace of gravity or solemnity."
+  },
+  {
+    "message": "I thought once more about whether I had anything left to do here."
+  },
+  {
+    "message": "Nothing..."
+  },
+  {
+    "message": "There's nothing for me to do here."
+  },
+  {
+    "message": "I haven't forgotten anything."
+  },
+  {
+    "message": "One more spoke."
+  },
+  {
+    "message": "We have the melody, do we not?"
+  },
+  {
+    "message": "The melody is here."
+  },
+  {
+    "message": "So we have no need for the world."
+  },
+  {
+    "message": "We have no need for words."
+  },
+  {
+    "message": "There's nothing we've forgotten..."
+  },
+  {
+    "message": "After all, we've forgotten it..."
+  },
+  {
+    "message": "The bell rang."
+  },
+  {
+    "message": "Today began."
+  }
+]

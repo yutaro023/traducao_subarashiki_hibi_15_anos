@@ -1,0 +1,4483 @@
+[
+  {
+    "name": "Female Student",
+    "message": "\"So that's... isn't it?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"But that's just a rumor, isn't it? All that stuff is. They're just rumors.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, they've been saying that for ages, you know?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"A prediction? Something like that, right?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"My dad said they used to be really popular. Something about Nostradamus' prophecies.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Like I said, they're not prophecies.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"If they're not prophecies, how do they tell the future?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I don't know the details.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"But they say it's scientific.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"They call it the web bot.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"You mean the Web Bot Project?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, that. You know about it?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"What is it?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It's software that gathers all the conversations on the Internet. Apparently, it can predict the future.\""
+  },
+  {
+    "message": "Hmm. The Web Bot Project, huh?"
+  },
+  {
+    "message": "I sat and listened to their conversation."
+  },
+  {
+    "message": "For some reason, that topic came up at school."
+  },
+  {
+    "message": "I'd only heard rumors about it."
+  },
+  {
+    "message": "Apparently, it was a piece of software that collected data on the Internet and, using that data as a source, analyzed the subconscious minds of large groups of people."
+  },
+  {
+    "message": "I didn't know who would think to make something like that, but apparently it was originally designed to predict stock prices."
+  },
+  {
+    "message": "Though the explanation of why they would need to make something like that to predict the stock market was a bit complicated."
+  },
+  {
+    "message": "It went something like this."
+  },
+  {
+    "message": "A new field called financial engineering was created in the 1950s by combining elements of economics, accounting, math, and traditional engineering."
+  },
+  {
+    "message": "The investment banks of America worked together to develop it further."
+  },
+  {
+    "message": "And in the mid-80's, a group of the world's greatest rocket scientists, mathematicians, and other geniuses were assembled on Wall Street."
+  },
+  {
+    "message": "Using complex financial derivatives, they carefully managed their risks."
+  },
+  {
+    "message": "These geniuses gradually pushed the beast known as the economy into a cage."
+  },
+  {
+    "message": "Soon, they had almost completely tamed the economy, removed its fangs, and acquired for themselves unlimited power to control it as they saw fit."
+  },
+  {
+    "message": "With one exception..."
+  },
+  {
+    "message": "However..."
+  },
+  {
+    "message": "The geniuses hid this exception away from prying eyes by calling it an \"anomaly\", a \"contradiction\", or an \"exception\"."
+  },
+  {
+    "message": "The word anomaly refers to something with no clear theoretical basis, which is nevertheless clearly existent within experimental results."
+  },
+  {
+    "message": "It is a word to describe those patterns that defy theory."
+  },
+  {
+    "message": "They had a precise theory, which they used to find the patterns in their observed data."
+  },
+  {
+    "message": "With those tools, they completely caged the monster."
+  },
+  {
+    "message": "This meant that the human race had obtained the philosopher's stone... or it should have."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "That's where another topic comes up."
+  },
+  {
+    "message": "Our speaker today will be Nassim Nicholas Taleb."
+  },
+  {
+    "message": "HAHAHAHAHAHA!"
+  },
+  {
+    "message": "I have a question for you all."
+  },
+  {
+    "message": "The famous American index, the S&P500!\n"
+  },
+  {
+    "message": "(Personally, I would start by explaining what it is, but that's just me.)"
+  },
+  {
+    "message": "In what length of time"
+  },
+  {
+    "message": " did the equity market"
+  },
+  {
+    "message": " make half of its net historical gains"
+  },
+  {
+    "message": " of the past 50 years?!"
+  },
+  {
+    "message": "So, how long do you think it took?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's hard to understand it when a foreigner says it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You have to say it clearly, without worrying too much about any oversimplifications.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"In the past 50 years of the stock market, how long did it take for it to make half of the gains it's made up till now?\""
+  },
+  {
+    "message": "OH! That's wrong!"
+  },
+  {
+    "message": "OH! That's wrong too!"
+  },
+  {
+    "message": "That's totally wrong! Totally wrong!"
+  },
+  {
+    "message": "You're not even on the right order of magnitude!"
+  },
+  {
+    "message": "That's totally wrong! Totally wrong!"
+  },
+  {
+    "message": "You're not even on the right order of magnitude!"
+  },
+  {
+    "message": "If you can't even understand the scale, then the number will never be right!"
+  },
+  {
+    "message": " 　　NO!"
+  },
+  {
+    "message": " 　NO!"
+  },
+  {
+    "message": " 　NO!"
+  },
+  {
+    "message": " 　NO!"
+  },
+  {
+    "message": " 　NO!"
+  },
+  {
+    "message": "THEY'RE ALL WRONG!"
+  },
+  {
+    "message": " OH～, NO!!"
+  },
+  {
+    "message": "DUMBASS!"
+  },
+  {
+    "message": " NO!"
+  },
+  {
+    "message": " NO!"
+  },
+  {
+    "message": " NO!"
+  },
+  {
+    "message": " NO!"
+  },
+  {
+    "message": " NO!"
+  },
+  {
+    "message": "IT'S ALL WRONG!"
+  },
+  {
+    "message": " OH, NO!"
+  },
+  {
+    "message": "DUMBASS!"
+  },
+  {
+    "message": "Mi**ko (who?)"
+  },
+  {
+    "message": "I'LL KILL YOU!"
+  },
+  {
+    "message": "I'm getting ANGRY!"
+  },
+  {
+    "message": "Huh, wha-?!"
+  },
+  {
+    "message": "NO!"
+  },
+  {
+    "message": "IT'S ALL WRONG!"
+  },
+  {
+    "message": " OH, NO!"
+  },
+  {
+    "message": "DUMBASS!"
+  },
+  {
+    "message": "Mi**to (who?)"
+  },
+  {
+    "message": "I'LL KILL YOU!"
+  },
+  {
+    "message": "I'm getting ANGRY!"
+  },
+  {
+    "message": "Eaah?!"
+  },
+  {
+    "message": "Correct."
+  },
+  {
+    "message": "It was in just ten days."
+  },
+  {
+    "message": "In those ten days, stock prices skyrocketed."
+  },
+  {
+    "message": " Those ten days account for half the gains in the past fifty years."
+  },
+  {
+    "message": "Those irregular numbers were actually one of these exceptions."
+  },
+  {
+    "message": "We could ignore them, since they hardly ever happened."
+  },
+  {
+    "message": "Statistically, this was an exception unusual enough to be absurd."
+  },
+  {
+    "message": "How much of an exception?"
+  },
+  {
+    "message": "Umm... It was about ten standard deviations away from the norm."
+  },
+  {
+    "message": "I guess you don't understand that."
+  },
+  {
+    "message": "To state it in more familiar words..."
+  },
+  {
+    "message": "\"An exception that would only happen once in the entire history of the universe since the Big Bang.\""
+  },
+  {
+    "message": "This kind of exception happens less than once every ten billion years!"
+  },
+  {
+    "message": "So we can ignore it, right?"
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "Oh, you think that doesn't make sense?"
+  },
+  {
+    "message": "And of course, you're right."
+  },
+  {
+    "message": "Those words, \"ten standard deviations from the norm,\" are actually famous because a Nobel Prize winner said them after his business went bankrupt."
+  },
+  {
+    "message": "A hedge fund called LTCM was established by two genius economists who had won the Nobel Prize in 1997 for the Black-Scholes formula."
+  },
+  {
+    "message": "This hedge fund's net value grew to over seven billion dollars."
+  },
+  {
+    "message": "But it went bankrupt when Russia defaulted on its national debt."
+  },
+  {
+    "message": "At that time, the geniuses cried and said, \"That was an exception that would only happen once in a hundred billion years, so we had no choice but to go bankrupt!\""
+  },
+  {
+    "message": "How did that happen?"
+  },
+  {
+    "message": "Truthfully, we don't know the details."
+  },
+  {
+    "message": "But there's one thing they should understand even if they're not geniuses (and in a way, they aren't)."
+  },
+  {
+    "message": "In economics, there is a human element."
+  },
+  {
+    "message": "Which means..."
+  },
+  {
+    "message": "Economies are run by illogical beings."
+  },
+  {
+    "message": "\"Animal spirit.\""
+  },
+  {
+    "message": "By the way, a famous economist called Keynes coined that term."
+  },
+  {
+    "message": "One scholar who investigated found that the kind of massive change that is only supposed to occur every 30,000 years, according to financial engineering, has actually occurred 48 times in the 88-year history of the New York Stock Exchange."
+  },
+  {
+    "message": "That's totally different from the calculations."
+  },
+  {
+    "message": "It's true that it's completely random, but that kind of coincidence is impossible."
+  },
+  {
+    "message": "Though, it's not that strange to think that a human-run economy would be pulled in careless directions by the whims of the imperfect human beings."
+  },
+  {
+    "message": "After all, humans can't make logical decisions. They're all biased."
+  },
+  {
+    "message": "That's how the world works."
+  },
+  {
+    "message": "For instance, if everyone starts reading a boring, amateurishly written novel, it can become a bestseller, then get turned into a movie... And just like that become a fad."
+  },
+  {
+    "message": "Even though everyone seemed to be liberal, all of a sudden they're conservative, or wine becomes more popular than beer, or sake more popular than wine, or maybe it would be shochu... (though I'm getting off topic)."
+  },
+  {
+    "message": "For Some Reason, Crystal!"
+  },
+  {
+    "message": "In short, these exceptions happen because the economy is run by people who just do whatever they feel like."
+  },
+  {
+    "message": "Everyone overestimates or underestimates things, based on nothing more than their personal feelings."
+  },
+  {
+    "message": "We're a bit off topic, but... Now for the main issue."
+  },
+  {
+    "message": "So if you could figure out this human tendency to act \"however they feel like,\" you could tame the economy."
+  },
+  {
+    "message": "If you could just understand their day-to-day whims."
+  },
+  {
+    "message": "How would you do that?"
+  },
+  {
+    "message": "Let's ask a psychologist. Can't we just research the way humans make choices?"
+  },
+  {
+    "message": "Isn't that what they call social psychology? Could you apply that to the economy?"
+  },
+  {
+    "message": "There are economists seriously researching it (they call it behavioral economics)!"
+  },
+  {
+    "message": "But this is a major task!"
+  },
+  {
+    "message": "After all, they're trying to use theory to tame the anomalies that can't be explained with theory. That's gotta be hard."
+  },
+  {
+    "message": "But isn't there some miraculous way to get at the public subconscious?"
+  },
+  {
+    "message": "That's where the Internet comes into play."
+  },
+  {
+    "message": "If you looked through people's everyday conversations scattered throughout the Internet, could you understand this tendency for people to act \"however they feel like\"?"
+  },
+  {
+    "message": "It might have been impossible in the past, since you couldn't listen to everyone talking."
+  },
+  {
+    "message": "But now it's possible to listen to every single person's voice."
+  },
+  {
+    "message": "You might be able to understand the group's deepest instincts through all their individual voices."
+  },
+  {
+    "message": "Or maybe, by means of the outer layer we call the Internet, you could understand humanity's collective subconscious."
+  },
+  {
+    "message": "That belief was what lead to the creation of the Web Bot Project."
+  },
+  {
+    "message": "It indiscriminately collects the words scattered across the Internet and makes calculations based on figures derived from emotions, allowing it to predict things no economist could hope to predict."
+  },
+  {
+    "message": "The results of those calculations predict what might happen in the future. In other words, they're prophecies."
+  },
+  {
+    "message": "The Web Bot Project is a miraculous piece of software that made predictions from the anomaly, the subconscious, that economists had always ignored!"
+  },
+  {
+    "message": "Amazing!"
+  },
+  {
+    "message": "Truly amazing!"
+  },
+  {
+    "message": "Something sounds fishy..."
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Can it really predict anything?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Seems like it.\""
+  },
+  {
+    "message": "Their conversation was going in the obvious direction. I laughed a little."
+  },
+  {
+    "message": "Anything, huh?"
+  },
+  {
+    "message": "Truly miraculous, huh?"
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Right, right, they say that all humans are linked subconsciously.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Subconsciously?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, a great scholar discovered it. Uh...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It was Carl Gustav Jung. The collective unconscious, right?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"What's that?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"It's something shared by all humans, in the depths of our minds.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"What's it do?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"It's like humanity's subconscious already knows what's going to happen in the world.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Oh... I see. That sounds kinda scary, though.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Like, just before you get sick, or get in an accident, you'll see an old lady standing at your bedside.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"That's your subconscious trying to warn you about what's going to happen.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, and because of that, we already subconsciously know the day humanity will go extinct.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I understand that, but are its predictions coming true?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Yeah, it predicted the anthrax attacks in 2001, the great power outage of 2003, the earthquake in Indonesia in 2004, Hurricane Katrina in 2005, and tons of other disasters.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I-I see. That's kind of creepy.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"And the Web Robot is predicting that something big is going to happen this year.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It's not a robot. It's called a bot.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Something big?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It says humanity is going to reach the peak of this string of recent disasters.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"The peak of disaster?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"The end of the world.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Th-The end of the world?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"That's what it's predicting.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"The end of the world... No way.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"It says the world is full of anxious words.\""
+  },
+  {
+    "message": "My smile disappeared when I heard her say that."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Full of... anxious words.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Full of anxious words?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, the world on the Internet is filled with tons of anxious words.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky is full of anxious words.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"And that anxiety is seeping into tons of other words.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"It's like the Internet itself is absorbing the anxiety...\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Wh-What the heck? I don't get it. That's too scary.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, but that's what it says.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"The Web Bot Project's data shows that it's just like the anxiety in the heart of a person condemned to death.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Just like a person condemned to death...\""
+  },
+  {
+    "name": "Man",
+    "message": "\"And... the Web Bot...\""
+  },
+  {
+    "message": "A heart seeping with anxiety..."
+  },
+  {
+    "message": "Just like a person condemned to death..."
+  },
+  {
+    "message": "That's..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky is full of anxious words.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The process of absorption has begun.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The world...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Anxious words, and the world that has absorbed them.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you know what those are?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The heart of the person who will soon die.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Therefore, the world...\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Is the world going to end?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Supposedly.\""
+  },
+  {
+    "message": "Yesterday, they were all talking about Takashima-san's suicide, but now they were talking about the end of the world."
+  },
+  {
+    "message": "How did they end up at this topic?"
+  },
+  {
+    "message": "It kind of made me want to laugh."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "But to be honest, I didn't feel like I could even force out a laugh at the moment."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Therefore, the world...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Will end.\""
+  },
+  {
+    "message": "I'd tried my best to not think about that, since it was such a ridiculous thing to say."
+  },
+  {
+    "message": "But even though it was a ridiculous thing to say, it was still ringing in my ears."
+  },
+  {
+    "message": "The end of the world..."
+  },
+  {
+    "message": "I thought that meant..."
+  },
+  {
+    "message": "The end of 'her world'."
+  },
+  {
+    "message": "In other words, I thought those words referred to her death."
+  },
+  {
+    "message": "That's what I had thought she meant."
+  },
+  {
+    "message": " Or rather, that was what I wanted to think she meant."
+  },
+  {
+    "message": "But somehow, something deep inside me, something I'd forgotten, was telling me that those words were dangerous."
+  },
+  {
+    "message": "You could call that part my subconscious.\n"
+  },
+  {
+    "message": "It was like my subconscious knew what Takashima-san meant by those words."
+  },
+  {
+    "message": "Something deep down inside me was chattering."
+  },
+  {
+    "message": "Someone in my inner heart, someone who wasn't unrelated to me, was whispering something..."
+  },
+  {
+    "message": "Surely that was just an illusion..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, no way. This is just a coincidence. As if something like that could happen. Ahaha.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? What?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You know, Yuki.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wait, Tsukasa, you―\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Owgh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What? What's wrong?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You know, Yuki.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Tsukasa, what are you―\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Owwaah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What? What is it?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"N-None of your business. D-Don't worry about us.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Y-Yuki...\""
+  },
+  {
+    "message": "Tsukasa was lying on the floor, saying something."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki... Delivery.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Delivery?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Tsukasa handed me something wrapped in cloth."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wait, that's―\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Uwah! Tsukasa!\""
+  },
+  {
+    "message": "Tsukasa grabbed Kagami's leg to stop her from moving."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Ts-Tsukasa. Let go of me!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I-I'm not letting go!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Tsukasa!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ooohh...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "Kagami was always so kind to Tsukasa, but now she was kicking her on the floor."
+  },
+  {
+    "message": "And Tsukasa always listened to what Kagami said, but now she was on the floor, ignoring Kagami's words."
+  },
+  {
+    "message": "Amazing. What a rare sight."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"U-Um, Tsukasa?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"D-Don't worry about me. Hurry up and open it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, it's not that I'm worried about you, but...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"D-Don't!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "I was a bit troubled, but I opened the package."
+  },
+  {
+    "message": "And..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A packed lunch?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan made it!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Okay...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"It's yours!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, it's not mine.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"No! Onee-chan made it for you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Th-That's not it...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"That's not it... That's not what it is... Um, well...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yuki, do you like G**dam?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"G**dam? Why?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"B-Because, if you stick... If you stick this box in your G**dam, it'll be three times as fast as it is now.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This lunchbox will make it three times as fast?! So you're saying it's a Tem Ray lunchbox?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-Who's that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't bring up the show like that if you haven't watched it.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Ugh...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"...\""
+  },
+  {
+    "message": "I wondered what she was freaking out about. I didn't get what she was saying at all."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, Kagami...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yuki, about lunch...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I haven't bought any yet.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I see. I heard there's a nice pastaria by the station.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I heard that they serve lunch around this time.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, it would be pretty amazing if they were serving dinner at that time...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yeah, so why don't you go there?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why would I?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"B-Because I don't want an eyesore like you around while I'm eating, of course!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Th-That's ridiculous.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Jeez! Onee-chan!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I-It's so hot. You can't expect us to eat here in the middle of summer.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's fine. Don't worry. Just be quiet and follow me.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Wow, it feels nice here. I didn't know about this spot.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Well, Yuki is a professional slacker after all. I didn't even know this place existed.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's no direct sunlight here, and a cool wind blows in from the forest. It's a nice place.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah, good job, Yuki. I guess skipping class isn't a complete waste of time after all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Now Tsukasa is criticizing me too.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Oh, no, that was a compliment. You're good at skipping class. It's a compliment.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't get it.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Anyway, let's eat.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, let's.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"From the outside, it appears to be a normal lunchbox.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What are you trying to say?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Not just from the outside, though. The inside is pretty normal too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When you say normal, it sounds like you're saying it's plain. Like it's not very good.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "W-Well, of course it's...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Stare...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Staaare...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you two sitting there and waiting for me to eat?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahaha, we're not waiting or anything.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then what is it?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Sh-Shut up! Just eat it already, idiot!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why does that make me an idiot?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Um, Yuki, Onee-chan was probably waiting to see if you liked it.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"N-Not at all. I just... I was gonna hit you if you said it wasn't good.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So I should be on my guard after taking a bite?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"So you're assuming it's not going to be good?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahm...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Hey! Why are you on your guard?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Aha☆!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I-If it's not good, just say so. Why won't you say anything?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, this is a joke. I'm joking.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's just...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Just what?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What is this?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Aha, that's octopus sausage.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, really? Then what is this?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"That's crab sausage.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then what is this?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Clam sausage.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why clam?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Sh-Shut up. Just eat it already. It's going to get cold at this rate.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't think a lunchbox could get any colder.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Sh-Shut up already! Who cares about that?!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Look, the beetle sausage is really cute.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Beetle sausage?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yes. Got a problem with it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't have a problem, but anyone would be surprised by that.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan tried to make a lot of different things, but they didn't come out too well.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, I see. So she just gave them all names based on what they ended up looking like.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"S-So how is it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How's what?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Th-The taste! If it's bad, just say so.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It tastes good. It's really delicious.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But they don't look so nice.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"S-Sorry... about that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha, don't worry about it. It tastes great.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"So what do you do up here when you're skipping class?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Read books, take naps, modify my G**dam to move three times as fast, stuff like that.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What's that? Are you making fun of me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Aha☆!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You are.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right you are, Kawasaki-san.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You've always liked being alone, haven't you?\""
+  },
+  {
+    "message": "She ignored my joke like she hadn't even heard it."
+  },
+  {
+    "message": "No worries, though. She was always like this."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You think so? It's not really that I like being alone, it's just that I hate being around annoying people.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Isn't that the same thing?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe it is.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"But you're always off by yourself, so there's tons of stuff we don't know about you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You mean, like, 'We always try to get closer to you, Yuki, but you always push us away!' or something like that?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Not really. Lately, you've been like a complete stranger. You hardly ever talk to us anymore.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"We actually had no idea what you were doing up here.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Even though we used to hang out all the time...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-What's wrong?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"N-Nothing. It's nothing.\""
+  },
+  {
+    "message": "What was that?"
+  },
+  {
+    "message": "My vision kind of blurred."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki, are you feeling all right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm fine. It's probably because I was up so late last night.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What were you doing up so late?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, you see...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I was thinking about you, Kagami.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-What do you mean? Why would you be thinking about me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, nothing. Just that stupid face you made.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"When did I make a stupid face?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, your face looks stupid more often than not, so...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You don't have to hit me that hard!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I'll hit you as hard as I want!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Oooh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What, Tsukasa?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I wish you would think about me, even if it was about a stupid face I made.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You don't make stupid faces very often, though.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I'll... I'll go practice making stupid faces, then.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Please don't practice something like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I was thinking about Tsukasa.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Her dumb face.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Are you stupid?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you the one hitting me?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Of course I'm going to hit you for that.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"...\""
+  },
+  {
+    "message": "Tsukasa stared at me."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Heheh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you laughing all of a sudden?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahaha, sorry. Just thinking that you're still the same Yuki we knew in the past.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"In the past?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I would always sit in class and wonder what kind of face you were making at the moment.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What kind of face? The same as always?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Maybe so, but it's the same, and yet different. It's a face I don't know.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I'm not really sure, but that's how it feels.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"After you showed us this place, I got this feeling like you were still wearing yesterday's face.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yesterday?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahaha, it's nothing.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Now that you mention it...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"It seems like some strange rumors are going around in class.\""
+  },
+  {
+    "message": "I guess she heard them too, since we're in the same class and all."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. I don't know what's up with them, but they've been talking about a lot of funny stuff.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, rumors like that only stay around for a little while. They're like measles: everyone will get over them soon enough.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"They're not.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Not? Not what?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"All that stuff they're talking about. They say it's proof.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Proof? What do you mean?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"It's really stupid, but they say Takashima-san committed suicide in preparation for the end of the world.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "I could feel the muscles in my face tensing up."
+  },
+  {
+    "message": "I almost expected it to come up eventually."
+  },
+  {
+    "message": "I answered in the calmest voice I could manage."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm. Preparation, huh? How was that preparation?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I heard the world was going to end on the 20th, and Takashima-san had to die for it to happen.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"She had to die? Why?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't know that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But still, an apocalypse on the 20th, huh?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. Pretty soon, isn't it? So who said that? Did Takashima-san say that while she was still alive?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't really know, but I haven't heard anyone say Takashima-san said that.\""
+  },
+  {
+    "message": "I see."
+  },
+  {
+    "message": "I'd heard her say a lot of enigmatic things, but she never said the world was going to end on the 20th."
+  },
+  {
+    "message": "Where did that date come from?"
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"There are rumors Shiroyama-kun's incident is related too. And I'm not sure, but I don't think Takashima-san was the one that started the rumors.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Apparently, there are a lot of people talking about it on the Internet.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"On the Internet?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah. Miu said there's a thread about our school on one of the anonymous message boards.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Anonymous message board? You mean the one that got sold off to some foreigner in Singapore?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"From what Miu saw, the thread was full of those rumors.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So when did that stuff about the end of the world and Takashima-san's suicide start coming up?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Miu said she couldn't really tell.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But someone had to say it first, right? Someone must've come in and started talking about how the world was going to end.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Maybe, but it seems like all the fuss was caused by a spark from somewhere else.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A spark? From where?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I'm not sure. They're talking about it on our school's site, a lot of occult sites, and a bunch of other places, so it's hard to tell where it first started.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"The origin... would probably be the underground message board, wouldn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's that?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"There was a bunch of controversy about those before.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, they were talking about those on the news a while back.\""
+  },
+  {
+    "message": "An underground message board. Even our school has one of those."
+  },
+  {
+    "message": "Though I suppose most of the schools in the country have them, so that's to be expected."
+  },
+  {
+    "message": "The \"underground\" part of the name would make you think people are doing illegal stuff there, but it just means that it's an unofficial school site."
+  },
+  {
+    "message": "At its core, it's a message board where people from the same school can talk online."
+  },
+  {
+    "message": "But even a mere message board could cause problems."
+  },
+  {
+    "message": "Apparently, they can become hotbeds for slander, bullying, and crime."
+  },
+  {
+    "message": "That's why the news did a bunch of stories on them."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. The underground message board, huh?\""
+  },
+  {
+    "message": "If a shady site like that existed, then that was probably where they heard about the Web Bot Project."
+  },
+  {
+    "message": "I was surprised to hear a phrase like that in class, but now it made sense."
+  },
+  {
+    "message": "But still..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But still, the 20th is too soon. It's just a week away.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Apparently, there have been rumors about it for a while.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"For a while?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yeah, it looks like the theory about the world ending on July 20th has been around for quite a while.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How long is quite a while?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't know...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was it Takashima-san who said it, after all?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't know that, either. I haven't looked at the message board myself.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O-Oh...\""
+  },
+  {
+    "message": "So neither Tsukasa nor Kagami had seen it themselves."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"U-Um, do you think it's a prophecy?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahaha. Onee-chan and I were talking about it last night. It's kind of scary. If it's a prophecy, do you think it'll actually come true?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who knows?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But I think you would call that a delusion, not a prophecy.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"A delusion?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. As far as I know, every person that has ever prophesied the end of the world before has turned out to be delusional.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Y-You mean...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They've never come true, so this one won't come true either.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Y-Yeah, you're right. That's definitely it.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahaha. I told her you'd say that.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "A prophecy, huh?"
+  },
+  {
+    "message": "Whether you call it a prophecy or one of the Web Bot Project's predictions, it's still just a delusion and nothing more."
+  },
+  {
+    "message": "There's no way you could ever perfectly predict what was going to happen in such a complicated world."
+  },
+  {
+    "message": "Even a grade schooler would understand that."
+  },
+  {
+    "message": "Or they should understand that, anyway."
+  },
+  {
+    "message": "But still, people forget that obvious truth."
+  },
+  {
+    "message": "The obvious becomes less than obvious."
+  },
+  {
+    "message": "For instance..."
+  },
+  {
+    "message": "For instance, if everyone in the world believed we were about to go extinct."
+  },
+  {
+    "message": "Of course, that's impossible, but if everyone believed it, it might actually happen."
+  },
+  {
+    "message": "If the people believe it..."
+  },
+  {
+    "message": "The infinitesimally small chance... The kind of calamity that should only happen every ten billion years..."
+  },
+  {
+    "message": "That can actually happen every ten or twenty years, abetted by the illogical human heart."
+  },
+  {
+    "message": "Animal spirit."
+  },
+  {
+    "message": "A swarm of illogical souls."
+  },
+  {
+    "message": "Their overconfidence and their exaggerated fears occasion the impossible."
+  },
+  {
+    "message": "If the people believe it possible, it becomes possible."
+  },
+  {
+    "message": "But still, that won't happen. There's a big difference between the stock market crashing and the end of the world happening."
+  },
+  {
+    "message": "Besides, I doubt everyone in the world would ever really believe such a thing."
+  },
+  {
+    "message": "Tons of people used to say Nostradamus was a prophet, but none of his predictions ever came true."
+  },
+  {
+    "message": "Not the end of the world. Not even a natural disaster."
+  },
+  {
+    "message": "The people didn't truly believe."
+  },
+  {
+    "message": "So nothing happened."
+  },
+  {
+    "message": "But what would happen if a situation was created where everyone truly believed?"
+  },
+  {
+    "message": "If a group of people was locked away in a closed space and they were all made to believe the same thing..."
+  },
+  {
+    "message": "And if it wasn't a prophecy made by someone in a far off country, but rather a revelation brought about by the death of one of their own..."
+  },
+  {
+    "message": "It's not all that uncommon for fatalistic cults to commit group suicides. There have been plenty of incidents like that in the past."
+  },
+  {
+    "message": "The world will end on the 20th?"
+  },
+  {
+    "message": "Had Takashima-san said anything like that?"
+  },
+  {
+    "message": "All I heard her say was that the world was going to end."
+  },
+  {
+    "message": "Or maybe Takashima-san never said when it would happen. Would that mean the date just came from some embellished rumor?"
+  },
+  {
+    "message": "If that was true, there didn't have to be any real basis for the date."
+  },
+  {
+    "message": "Either way..."
+  },
+  {
+    "message": "It was spooky."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yuki.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Hey, Yuki! Lunchtime is over.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Oh... Sorry.\""
+  },
+  {
+    "message": "I wanted to investigate a bit."
+  },
+  {
+    "message": "Just what was going on?"
+  },
+  {
+    "message": "I wanted to know."
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I saw it earlier, but now everyone's talking about it.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"They were linking to it on other sites.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"Yeah, the posts were all about the Web Bot Project.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It's just like I said.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I wonder if it's real.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"The Web Bot Project says the world will be destroyed on the 20th.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"You saw the link, didn't you? It said that's what the data was showing.\""
+  },
+  {
+    "name": "Female Student",
+    "message": "\"I know, but that's scary.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You know...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ah, Minakami-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And you're dumbass number one.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Um, that's not my name. I'm Kiyoshi. Yokoyama Kiyoshi.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, that's your name?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Um, Minakami-san, would you please remember it this time? We are in the same class, after all.\""
+  },
+  {
+    "message": "The boy in front of me was Yokoyama Kiyoshi."
+  },
+  {
+    "message": "Eh, who cares about him?"
+  },
+  {
+    "message": "Average looks. Average grades. Not anyone I cared about."
+  },
+  {
+    "message": "Though I wasn't really interested in boys anyway."
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"It's awfully rare for you to talk to me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I actually don't want to talk to you at all, but I have something I need to ask you, so whatever.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Something you want to ask me? Wow, I'm honored.\""
+  },
+  {
+    "message": "Did this guy like me or something? Gross."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That Web Bot Project you were talking about. Is there really a site like that, where they predict the future?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Of course there is!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's one of those Web Bots that automatically goes around the Internet and collects various information to store in a searchable database, right?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "\"Then it's simply a bot that generates HTTP requests, retrieves some HTML documents, searches for keywords within it, and saves them in the database. Then it can analyze the document's anchor tags and use the first file's links to retrieve additional HTML files.\"",
+    "message": "Yuki"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then it's simply a bot that generates HTTP requests, retrieves some HTML documents, searches for keywords within it, and saves them in the database. Then it can analyze the document's anchor tags and use the first file's links to retrieve additional HTML files.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"I don't get it...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"To put it simply, the Web Bot is a search engine with spiders and web crawlers.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this Web Bot Project that's supposedly making those predictions, though? What's the website?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Um, I don't really know myself. It's just a topic on the message board.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The underground message board...\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"You know about it, then?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, not really, but I've heard rumors. Actually, have you ever been to the site?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Yeah, of course I have.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then could you give me the URL?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Sure, but you have to register to get past the front page, and you can't even register without a referral.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Registration? I thought it was anonymous?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Yeah, but what would be the point if it was open to the public?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So that's how it works.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, that's fine. Anyway, send me the URL, and then give me a referral.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"What's your phone's email address? I can send it right now.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't have one.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Huh? You don't have a cell phone?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It ticks me off that you think everyone has one. Don't go around assuming everyone has a cell phone.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"R-Really? Um... you don't, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's your problem? I don't have one. It doesn't exist.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"But still, everyone browses that site with their cell phones. I don't think I've ever seen anyone go there on a computer.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Just send it to my computer. I always get on the Internet from a desktop computer.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Sure... Tell me your email address, then.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Here.\""
+  },
+  {
+    "message": "I wrote down my email address and passed it to him."
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"This is a free mail account.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. Is there a problem with that?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"No, but don't you have a real email address?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I do, but I'm not giving it to you.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Oh...\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Um... I have a favor to ask.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"If I become your referrer, that means we're friends, right?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Ow...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You shouldn't say such nasty things with a grin on your face. So then, what are you trying to say?\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"There's this party pretty soon... If you'd like to come, I could get you in.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Oogh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You remember what happened the last time you guys tried hitting on me, don't you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I hate men. If you start talking like that again, I'll do to you what I did to them, but otherwise I don't mind.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Um, we actually might need you to do something like that. We need someone strong.\""
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "Why did they need someone strong for a party?"
+  },
+  {
+    "message": "This guy was weird."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't really know what you mean, but I don't mind participating.\""
+  },
+  {
+    "name": "Kiyoshi",
+    "message": "\"Hell yeah. We haven't had a main attraction at all since Shiroyama-kun died.\""
+  },
+  {
+    "message": "That was more confusing."
+  },
+  {
+    "message": "Why was I replacing Shiroyama-kun?"
+  },
+  {
+    "message": "He was that idiot who died in an accident, right? What's he got to do with it?"
+  },
+  {
+    "message": "Anyway..."
+  },
+  {
+    "message": "Looks like it really was the underground message board."
+  },
+  {
+    "message": "The girls earlier said there were a bunch of links posted, so it shouldn't be hard to investigate."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I hope I can figure out what's going on.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Aside from that..."
+  },
+  {
+    "message": "Most message boards like that were full of people slandering their teachers and classmates."
+  },
+  {
+    "message": "Which meant they were probably talking about me too."
+  },
+  {
+    "message": "For some reason..."
+  },
+  {
+    "message": "That was a bit embarrassing."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Oh.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Haa... What are you making that stupid face for? Class is over.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is it? I was asleep.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You were awake. Don't make excuses like that.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"So were you thinking about something?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You were the one that was thinking about something.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You were both thinking about me, right? She's so beautiful, I wish I was like her. Stuff like that.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Tsukasa, let's go.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You ignored me.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki, we won't mind if you go home without us.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm... I have something to do, so I can't go home just yet.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You don't have to do that for us. We'll be fine.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah. I don't want to keep you waiting.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I-It's not like I'm doing it for you or anything.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What was that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My best Kagami impression.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"D-Don't make fun of me!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My cheek hurts...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahaha.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But I really do have stuff I need to do. I'll probably be here until you guys finish up, so call me when you're done.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"How are we going to call you when you don't even have a cell phone?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Dunno.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"What do you mean, 'dunno'?\""
+  },
+  {
+    "message": "Something was bothering me..."
+  },
+  {
+    "message": "There were a lot of things that were still bothering me."
+  },
+  {
+    "message": "Takashima Zakuro..."
+  },
+  {
+    "message": "I wanted to know a little more about her."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Takashima-san's class was right over here...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Oh, Minakami-senpai.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, you're...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Jeez, how many times do I have to tell you before you'll remember?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Got it. I'll remember it this time.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"You said that last time too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Did I?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Yokoyama Yasuko. Kiyoshi's little sister.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, who's Kiyoshi?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"How could you not remember my brother? He's in your class!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like I said, I'll remember it this time.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"No, not remembering someone in the same class is a little strange.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Come on, he's the one you punched when he was hitting on you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, that guy's gross!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Um, please don't call my brother gross. For the record, we are related, so it kind of feels like you're talking about me too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So then, what's up, Yokoyama Kiyoshi's little sister?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"What? Say my name!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, Yokoyama...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kn*ck?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"No! That's not even a girl's name!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yokoyama Knocketta!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"No! That's not even a real name! It's Yokoyama Yasuko, and you'd better remember it this time!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, right. That's what it was.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"I hope you're ready for the consequences if you don't remember it next time.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like I said, I'll remember it this time.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Trust me.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you still here? Kagami went to her club.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's wrong, Yokoyama Sisterko?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"You're going to make me mad. I'll hurt you. My name is Yasuko!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, Yasuko. I knew that.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"No, you didn't.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course I did! You should believe the words of your elders!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"My brother said you're pretty smart.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course. My mind has even grasped the secrets of the universe.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"What are my three sizes?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"From the top, bust 100 centimeters, waist 100, hip 101.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"What am I, a cube?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's a joke. They're actually 102 for your bust, 20 for your waist, and 102 for your hips.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"No, my body isn't that great...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is that all you wanted to know?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"That was a joke.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Whaaat?!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"I don't understand why you would be mad about that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I tried to make a joke of my own.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"This conversation isn't going anywhere.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All right. So what did you actually want to ask me?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Will the world end this month, on the 20th?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Is it true that the end of the world is approaching?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Please, answer me!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you asking me?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"I heard you were the only one that got along with Takashima Zakuro-san. So I thought you would know the truth.\""
+  },
+  {
+    "message": "It wasn't like I got along with Takashima-san that well."
+  },
+  {
+    "message": "Jeez, everyone just assumed that."
+  },
+  {
+    "message": "Haa..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, let me be serious.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Long ago, people gathered to get rid of all the conflict in the world. They tried to bring all the weapons in the world to one place.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then all those weapons coalesced into a single organism.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This organism was incredibly violent. It had the form of an All-Purpose Humanoid Battle Weapon.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"What's that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It was the Pacifist Robo-Gandhi.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"What are you talking about?!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"You just said it was incredibly violent, so how is it a Pacifist Robot?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It employs pacifism against its enemies.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Pacifist Mode! Pacifism! Pacifism! Pacifism! All Systems Pacifist!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Pacifist Robot, launch!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like that. He attacks with pacifism.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"He would lose, though. He couldn't beat anyone with pacifism!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, he always gets clobbered.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Actually, there's something I'd like to ask you. Why would the world end so suddenly?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh? How did we get back to the serious conversation?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean? I was serious the whole time.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Y-You were just making up a bunch of stuff, weren't you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The words of the wise may appear irrelevant at first, but after careful consideration you'll find they were linked to the true message.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm always serious. I don't mess around.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"I-I see... So you're saying that the story about Robo-Gandhi was foreshadowing for something else?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course it was! I'm not one of those scenario writers that just keeps writing and writing and can't wrap up all his plot points!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Wh-Who are you talking about?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's a secret! But back to what you were talking about before...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Yeah, everyone is saying that the world will be destroyed on the 20th.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So you believe them?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"But it's strange, isn't it? Two people have died in such a short time.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It definitely is strange that two people from the same school fell to their deaths one after the other, but why exactly does that mean the world's going to end?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"They say that's the reason why Takashima-senpai committed suicide.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How do they know that's the reason she committed suicide?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Well, tons of people are talking about it on the message board, and that email is going around.\""
+  },
+  {
+    "message": "So she'd been looking at the underground message board too."
+  },
+  {
+    "message": "But what email was she talking about?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What email are you talking about? What's going around?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"This.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "through death i have been reborn as a warrior"
+  },
+  {
+    "message": "or so they said but"
+  },
+  {
+    "message": "it hurts"
+  },
+  {
+    "message": "i have no body but it still hurts"
+  },
+  {
+    "message": "it hurts because i've been broken"
+  },
+  {
+    "message": "therefore"
+  },
+  {
+    "message": "everyone must die"
+  },
+  {
+    "message": "you will die in 6 days"
+  },
+  {
+    "message": "all of you will die"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What... is this?\""
+  },
+  {
+    "message": "The picture was a bit fuzzy, but it was definitely a picture of her suicide."
+  },
+  {
+    "message": "Who would take such a distasteful picture?"
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"This is... Takashima-senpai's email address.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"W-Wait a second. Were you friends with her?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"I wasn't. I haven't even seen her before. Why would I be getting an email from her?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then how do you know it's her mail address?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"But...\""
+  },
+  {
+    "message": "If you thought about it, it had to be a prank. But I understood why she was upset."
+  },
+  {
+    "message": "Anyone would be upset if they were sent a freaky picture like this."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Were you the only one who got this email?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"A lot of people in my class did.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Not all of them?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Not all of them, but my brother said he got one too.\""
+  },
+  {
+    "message": "Him too, huh?"
+  },
+  {
+    "message": "But he was still talking about going to a party. Maybe thoughtless guys aren't as sensitive to horror?"
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Senpai! What's happening here?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Calm down. Just try to stay calm, okay?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Calm?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"There's no way I can stay calm. I'm scared.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Okay, here's a question. Why would Takashima-san send you a picture of her corpse?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And look at the camera angle. It must have been taken by a third party.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Th-That's because the scene witnessed by Takashima-san's ghost became a picture and got sent out in the email.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. You're pretty smart, aren't they?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"That's just what people are saying on the message board.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. So then why does the person who took the picture have a shadow?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The shadow was pretty long, since it was late in the evening. If you look closely, there's clearly a shadow stretching from the position of the camera.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Th-That's... her ghost's shadow.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Do ghosts have shadows? Either way, the shadow here doesn't have long hair. Takashima-san's hair was long.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course, the outline is blurred, but this looks like the shadow of someone with short hair.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This has to be someone who was passing by when she committed suicide. They probably took the picture out of morbid interest, and then they used it for this prank.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"B-But her name is in the email address.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It would be easy to fool people by registering an email address with her name in it. Want me to show you how easy it is?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"But...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Now, now. Don't worry about it too much.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Wh-Why not?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'll investigate it.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Even before I promised you, I planned on investigating this anyway.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"R-Really?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"You'll really check it out?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, leave it to me.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Do you know something about what's going on?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's what I'm trying to figure out, isn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"For now, just forward that email to my computer.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh? Not to your phone?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, I don't have a phone.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"That's awfully rare nowadays...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, maybe, but there are still people who don't.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Anyway, there's no way the world's going to end in the near future. That's ridiculous.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Okay, got it. I'm sorry if I bothered you.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"All right, time for my club!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Do your best.\""
+  },
+  {
+    "message": "Yokoyama's little sister, huh? She was in the kendo club, right?"
+  },
+  {
+    "message": "Which meant she was in the same club as Tsukasa and Kagami?"
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Excuse me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"So what was the foreshadowing for?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"The story about Robo-Gandhi. You said that was foreshadowing for something or other.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"But even at the end, it still sounded like something you made up on the spot.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The meaning was...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You can't save someone with violence alone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It was..."
+  },
+  {
+    "message": " a criticism of our modern society, and...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Hey! That wasn't related to the conversation at all, was it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Not really, no.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Ugh..."
+  },
+  {
+    "message": "Honestly, that picture sent chills up my spine."
+  },
+  {
+    "message": "What the hell was that about? Emailing people pictures of a suicide was beyond juvenile."
+  },
+  {
+    "message": "It scared me a bit too."
+  },
+  {
+    "message": "But I wondered if I'd really managed to convince Knocketta back there."
+  },
+  {
+    "message": "Nothing good had happened lately."
+  },
+  {
+    "message": "Takashima Zakuro's classroom..."
+  },
+  {
+    "message": "Her desk was decorated with a vase of flowers."
+  },
+  {
+    "message": "No one was in the classroom."
+  },
+  {
+    "message": "An email from Takashima-san, huh?"
+  },
+  {
+    "message": "I don't know who thought up that prank, but that person definitely isn't an exemplary citizen in our modern society."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A prank...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Though this is quite the elaborate prank.\""
+  },
+  {
+    "message": "I wondered if they had some other motive for the prank."
+  },
+  {
+    "message": "Oh?"
+  },
+  {
+    "message": "I sound like a real detective now, don't I? Cool."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa... I don't really want to go through a dead person's belongings, but...\""
+  },
+  {
+    "message": "I did promise Yokoyama Sisterko, too."
+  },
+  {
+    "message": "There was nothing in Takashima-san's desk."
+  },
+  {
+    "message": "I suppose that should've been obvious."
+  },
+  {
+    "message": "If there was anything there before, it was probably taken as articles of the deceased."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Of course...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Whoa?\""
+  },
+  {
+    "message": "While I was searching around, I felt something slimy in the back of Takashima-san's desk."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What? Is something rotting back there?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this?\""
+  },
+  {
+    "message": "It wasn't a solid, but a liquid. It was like the slime a snail leaves behind it."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm going to pretend I didn't see that. But first, I'd better wipe it up.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Putting that aside...\""
+  },
+  {
+    "message": "I carefully looked at the top of her desk."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Spiral... Matai?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What the heck is this?\""
+  },
+  {
+    "message": "She had apparently carved those words into her desk."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The only way to describe this is 'creepy'.\""
+  },
+  {
+    "message": "I was under the impression that people thought she was weird because of her personality, but looking at this desk, I could see why."
+  },
+  {
+    "message": "Or did the bullying make her like this?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "They were just scribbles, but..."
+  },
+  {
+    "message": "It was spooky to think that this was what she was writing just before her death."
+  },
+  {
+    "message": "I took out the detective kit I'd brought with me. It contained a magnifying glass, a fingerprinting kit, a blood testing kit, and more."
+  },
+  {
+    "message": "It cost 18,000 yen, but it was really high quality."
+  },
+  {
+    "message": "I calmly took the magnifying glass out and examined each of the letters."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This life is worth three billion gildans.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The third wave...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uguu...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "This is..."
+  },
+  {
+    "message": "This is...!"
+  },
+  {
+    "message": "When I looked more closely, I realized that those were the scribbles on my magnifying glass."
+  },
+  {
+    "message": "Ahahaha..."
+  },
+  {
+    "message": " I'm such a trickster."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Back to work.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Brain... Reverse...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Har Megiddo...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nebula Cloud... Elhimuro.\""
+  },
+  {
+    "message": "It was all the same."
+  },
+  {
+    "message": "Totally incomprehensible."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Angel Remover... Angel Night... I am Angel Advise...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What is this? I don't get it.\""
+  },
+  {
+    "message": "I jotted it all down."
+  },
+  {
+    "message": "It would be so convenient if I had a camera right now."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, what else?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm? This...\""
+  },
+  {
+    "message": "I couldn't see it very well because it was blurry. Or rather, she scratched it out after writing it."
+  },
+  {
+    "message": "And quite a few times, too. Why would she do that?"
+  },
+  {
+    "message": "In one spot, it was like she'd written something several times and crossed it out every time she wrote it."
+  },
+  {
+    "message": "I took out the aluminum powder."
+  },
+  {
+    "message": "This was a very important part of the detective kit."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Heheh... With this, your secrets will be revealed!\""
+  },
+  {
+    "message": "I start dusting the desk and taking prints."
+  },
+  {
+    "message": "This detective kit was amazing."
+  },
+  {
+    "message": "I pulled up a bunch of fingerprints, making the letters hard to read."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey! I'm not getting anything but fingerprints.\""
+  },
+  {
+    "message": "Well, I guess it was a fingerprinting kit."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, there are so many fingerprints, I can't read the letters.\""
+  },
+  {
+    "message": "I kept the fingerprints anyway."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe they'll come in handy later.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It looks like there are two different sets of fingerprints here.\""
+  },
+  {
+    "message": "Only two... It made you think about how isolated Takashima-san was, that almost no one else touched her desk."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Putting that aside...\""
+  },
+  {
+    "message": "The first set was, of course, Takashima-san's, but what about the others?\""
+  },
+  {
+    "message": "Though I'd need access to a whole database of fingerprints to figure that out."
+  },
+  {
+    "message": "Besides..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder if there's a better way to dust the carved letters.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm.\""
+  },
+  {
+    "message": "For now, I'd do my best to read the rest."
+  },
+  {
+    "message": "It wasn't like there was no chance of it working, right?"
+  },
+  {
+    "message": "The same word was written over and over, and each time it had been scratched out."
+  },
+  {
+    "message": "It was a pain to decipher."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, is this an N? No, wait, it's an M. And this is...\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Does this say Mamiya?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya... kun. I can't read the rest.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya, as in...\""
+  },
+  {
+    "message": "The Mamiya Takuji in my class?"
+  },
+  {
+    "message": "Why was his name here?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe I should ask Mamiya Takuji directly.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Though he's hardly ever in class. I didn't see him today either.\""
+  },
+  {
+    "message": "And he was kind of hard for me to deal with."
+  },
+  {
+    "message": "I didn't know why, but I got a crazy headache when I was near him."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm...\""
+  },
+  {
+    "message": "Just because I was always on the roof wasn't a guarantee that he never came up to the roof."
+  },
+  {
+    "message": "Though I was always on the roof and I didn't ever run into him."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh? That's...\""
+  },
+  {
+    "message": "The person I always ran into up here."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ayana-saaan!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Heeere.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You look like you're full of spunk today.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yes, I am full of cum today.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "She parried my greeting skillfully."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're full of semen?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No, I just followed your lead.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"For the record, I'm not full of semen.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Neither am I.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wasn't really talking about a physical substance to begin with, either. I meant you seem energetic.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I see. I thought it was one of your trademark jokes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why are you on the roof, anyway?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"The same reason you are.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The same reason?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm looking for Mamiya-kun.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I'm also looking for Mamiya-kun.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What? Really?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Sorry, I just followed your lead. I'm not really looking for anyone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha...\""
+  },
+  {
+    "message": "Her jokes were kind of hard to follow."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"But if you're looking for Mamiya-kun...\""
+  },
+  {
+    "message": "Ayana-san pointed down from the roof."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Is that...\""
+  },
+  {
+    "message": "I saw someone in the courtyard."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who's that? He's going to the old pool.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Now that you've spotted his shadow, you should probably chase after him.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"A shadow is a form that you think you want to see, but it is also a form that you don't want to see.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"So take care when looking at the shadow.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's awfully profound.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Yeah. I sound pretty cool.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nah, I wouldn't go that far.\""
+  },
+  {
+    "message": "Putting that aside..."
+  },
+  {
+    "message": "I should probably go chase him down."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, it was around here...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah.\""
+  },
+  {
+    "message": "Not again. Why did this happen?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's...\""
+  },
+  {
+    "message": "A human figure appeared from the base of the pool."
+  },
+  {
+    "message": "It turned this way."
+  },
+  {
+    "message": "For some reason, it looked like it was expanding."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's this? I'm getting dizzy again.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya... Takuji.\""
+  },
+  {
+    "message": "I seriously felt nauseous every time I saw him."
+  },
+  {
+    "message": "Why..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What's wrong, Minakami-san?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Were you looking for me?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, I have something to ask you.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You don't look so good.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"D-Don't worry about me...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'm feeling great, though.\""
+  },
+  {
+    "message": "What's going on?"
+  },
+  {
+    "message": "He was acting a little weird."
+  },
+  {
+    "message": "Why was he so... confident?"
+  },
+  {
+    "message": "I thought he was a lot more meek."
+  },
+  {
+    "message": "There aren't very many things that could cause a change like that."
+  },
+  {
+    "message": "One was mental disease, and the other was..."
+  },
+  {
+    "message": "Drugs?"
+  },
+  {
+    "message": "I felt worse every time we met, and his attitude was changing too."
+  },
+  {
+    "message": "It was possible he'd been smoking something."
+  },
+  {
+    "message": "But it was kind of strange that he didn't smell at all."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Smoking with a vaporizer, you say? Nope.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Wouldn't that have to be something tasteless and odorless? That would be crazy expensive.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What's wrong? You look shocked, as if someone just read your mind.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Didn't you have a question for me? That's why you came.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh-What are you so cheerful for? You're a creepy guy.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I see. My name was on Takashima-san's desk, huh? You did a good job finding that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wha―?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"M-Mamiya, you! Oww...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"A headache again? Maybe you can't bear to look at someone who's grasped the truth?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What? That's ridiculous.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Quite. I thought maybe you would understand. I can't write you off as a complete stranger.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's gross. We are complete strangers. The only thing we have in common is our class.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Of course. That's the relation between you and I.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's why you deserve no greeting from me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Because I have to confirm whether or not the person in front of me is a superior human being.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you... Ouch...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'll say it again.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's why you deserve no greeting from me!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "Was he always this kind of freak?"
+  },
+  {
+    "message": "This kind of..."
+  },
+  {
+    "message": "Ouch. My head hurt. Seriously."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's right. To put it in words, you're still confined to the second dimension.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The second dimension?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes! That's right. This place, right now, is the two-dimensional world. Your current existence is like that of an ant.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"How would a two-dimensional ant comprehend the third dimension?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't know what you're saying at all! You're not making any sense.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"One way is for the ant to observe a three-dimensional object passing through the plane of the second dimension. It would observe the object as a square flickering in place.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The only part of the third dimension the two-dimensional ant's imagination can conjure is its shadow.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The only thing those living in two dimensions are permitted to watch is the shadow changing from moment to moment.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Then how would we three-dimensional humans comprehend the fourth dimension? How would we comprehend the fifth? The sixth? How would we comprehend the dimensions beyond that?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's right. In the same way a two-dimensional being can only imagine us as square shadows, we must imagine the higher dimensions as shadows.\""
+  },
+  {
+    "message": "He was talking like a madman. But what he was saying..."
+  },
+  {
+    "message": "He was referencing Edwin Abbott Abbott's Flatland. That was quite the highbrow reference."
+  },
+  {
+    "message": "Urgh..."
+  },
+  {
+    "message": "My head hurt..."
+  },
+  {
+    "message": "Why was I so dizzy?"
+  },
+  {
+    "message": "He was..."
+  },
+  {
+    "message": "Mamiya Takuji was staring at my face."
+  },
+  {
+    "message": "He wouldn't look away at all."
+  },
+  {
+    "message": "They say a mental patient never looks away from the doctor."
+  },
+  {
+    "message": "Because they can't understand how uncomfortable it is for another person to be stared at."
+  },
+  {
+    "message": "Mamiya Takuji never looked away from me."
+  },
+  {
+    "message": "It was incredibly uncomfortable."
+  },
+  {
+    "message": "Annoying..."
+  },
+  {
+    "message": "I wanted to throw him to the floor and punch him until my headache went away."
+  },
+  {
+    "message": "Actually, that sounded like a good idea."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya, come a bit closer...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'll be going now!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey, I'm talking to you!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'm not too fond of getting punched.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "Why..."
+  },
+  {
+    "message": "Could he really... read my mind?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Can I really read your mind?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Heheh. I'll let you chase that particular answer yourself.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But if you can't catch it, you'll never know.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya Takuji!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Well then, I'll be taking my leave.\""
+  },
+  {
+    "message": "Mamiya Takuji disappeared."
+  },
+  {
+    "message": "He was so small, and he'd always been meek before."
+  },
+  {
+    "message": "But for some reason, I'd felt strangely nervous just looking at him."
+  },
+  {
+    "message": "My hand was balled up into a fist, and my palm was dripping with sweat."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why's it so damn hot?\""
+  },
+  {
+    "message": "My head hurt."
+  },
+  {
+    "message": "I wasn't in a good mood, either."
+  },
+  {
+    "message": "Was this strange feeling because of the heat?"
+  },
+  {
+    "message": "Or something other than that?"
+  },
+  {
+    "message": "Something felt strange."
+  },
+  {
+    "message": "Since that time..."
+  },
+  {
+    "message": "The landscape I'd known had been changing, faster and faster."
+  },
+  {
+    "message": "The world that never changed a bit until now was slowly melting."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You waited for us, didn't you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's not like I care about you or anything!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You can stop with that gag already.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But I have to follow the archetype.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't know what kind of strange world has an archetype like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You dare leverage criticism at one merely for being a bit particular with his manner of dress (picked out by his mom), smelling just a tad bit out of the norm, not conforming to the average body type, wearing a unique style of glasses, and maybe having a weird hobby or two?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"No. And that was really long.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then what about Kr*llin?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"That one was shorter, but it's still completely unrelated.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"What's wrong, Yuki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? What do you mean?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You've been staring at our faces for a while.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"H-Have I?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"When you do that, it's usually because you want to ask something.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"W-Well, it's not a big deal.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What's wrong, Yuki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nothing. Uh, have you gotten any strange emails?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"What kind of email?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, nothing. If you haven't gotten any weird ones, it's not a problem.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Did something happen?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, it's not a big deal.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Something did happen, didn't it?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Is it about Takashima-san?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yuki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's not a big deal, but earlier, after you guys left, I was talking to Yokoyama *****teru.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yokoyama *****teru?!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Th-There's no one with that name in our school...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? There's not? Uh, it was the little sister of the guy in our class. I think his name was Taikan.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wait, Yokoyama... You mean Yokoyama Kiyoshi?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, yeah, Kiyoshi's little sister, Yokoyama *****teru!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Like I said, there's no Yokoyama *****teru. You're thinking of Yokoyama Yasuko.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, yeah, her. Yasuko-chan.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"So what were you two talking about?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, uh... She seemed upset about something or other.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"What did she say?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, it's nothing important. It's really not a big deal.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You were talking about some email earlier.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It seems like some weird email is going around. A prank email. Yasuko seemed really upset about it.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"A weird email?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's nothing. It's just a little prank.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"The one that says the world will end?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You heard about it?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Not directly, but I overheard Yasuko-chan talking about it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What did you tell her?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I told her that was impossible.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"But even after you talked to her, she seemed a bit scared about the end of the world.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Even though that's impossible.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"We have practice tomorrow in the morning.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sure.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What she's saying is that we can't come get you tomorrow, so don't sleep in.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, I see.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Do you really understand?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Clearly it means I can sleep in, since the Wakatsuki sisters won't be around to bother me.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"No! You need to get up!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You little...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't worry. I won't be late.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I really wonder about that.\""
+  },
+  {
+    "message": "Those two disappeared into their house."
+  },
+  {
+    "message": "Haa... There's been nothing but trouble."
+  },
+  {
+    "message": "Even I was starting to get scared."
+  },
+  {
+    "message": "What the hell is going on?"
+  },
+  {
+    "message": "Huh? Who's that?"
+  },
+  {
+    "message": "Someone was looking at me."
+  },
+  {
+    "message": "What? That's―"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ugh!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yo, have you been studying reason?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya, why are you here?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You are a being of the flesh. You need to study reason, like me.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Your flesh is certainly strong, but you need to study reason in order to know the world.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You might even hit upon some consciousness that my reason has not.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But you can't understand one such as me unless you study reason.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And if you don't understand, you'll never even be able to imagine a higher consciousness.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The dialectical staircase.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Face toward higher consciousness! Ascend!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hey, wait!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "message": "Mamiya had disappeared."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"He's faster than me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Was he always that fast?\""
+  },
+  {
+    "message": "Was he?"
+  },
+  {
+    "message": "For a moment, it felt as if an electric current had run through my brain. It was almost like a headache."
+  },
+  {
+    "message": "That feeling..."
+  },
+  {
+    "message": "I was probably just tired."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa...\""
+  },
+  {
+    "message": "This was really turning into a strange day."
+  },
+  {
+    "message": "Um..."
+  },
+  {
+    "message": "First, I checked my email."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm... Here it is. This gross one is probably from him.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So...\""
+  },
+  {
+    "message": "I clicked the link in Yokoyama Kiyoshi's (I remembered his name because it was in the email) message and went to the underground message board."
+  },
+  {
+    "message": "Hello, this is the secretariat for the Kita High message board, SAWAYAKA."
+  },
+  {
+    "message": "You have received an invitation to the SAWAYAKA message board from Yokoyama Kiyoshi."
+  },
+  {
+    "message": " ----------------------------------------------------\n\n"
+  },
+  {
+    "message": "Message\n\n"
+  },
+  {
+    "message": "sup this is Kiyoshi (^_^)\n"
+  },
+  {
+    "message": "here's the invitation you asked for.\n"
+  },
+  {
+    "message": "go ahead and sign up.\n"
+  },
+  {
+    "message": "and don't forget about the party!\n"
+  },
+  {
+    "message": "a bunch of people from a certain\n"
+  },
+  {
+    "message": "famous college will be coming (*^_^*)\n"
+  },
+  {
+    "message": "it'll be crazy fun (^o^)/\n\n"
+  },
+  {
+    "message": "----------------------------------------------------"
+  },
+  {
+    "message": "What a creepy message."
+  },
+  {
+    "message": "So, to register, I just needed to click the link... This one, right?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm...\""
+  },
+  {
+    "message": "Was it a good idea to use my real name?"
+  },
+  {
+    "message": "Oh, but there was probably an administrator..."
+  },
+  {
+    "message": "Eh, who cares? I could just make up a name and register. It should be fine as long as it didn't sound fake."
+  },
+  {
+    "message": "Maybe I should use a real person's name."
+  },
+  {
+    "message": "How about..."
+  },
+  {
+    "message": "Shibata Katsuie."
+  },
+  {
+    "message": "My address was... Owari Province, Aichi District, Kamiyashiro Village."
+  },
+  {
+    "message": "Date of birth... Second year of the Daiei era."
+  },
+  {
+    "message": "My age was automatically calculated. 487 years old, huh?"
+  },
+  {
+    "message": "Then a login ID and password."
+  },
+  {
+    "message": "Then it looked like I'd need to be approved by an administrator."
+  },
+  {
+    "message": "If the administrator checked for that name on the register, it might not get approved. But then I could just register with some other student's information, or I could even use my own if I wanted."
+  },
+  {
+    "message": "Well, it's not a big deal either way."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Okay, finished. Done and done.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa...\""
+  },
+  {
+    "message": "I collapsed on top of my bed."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm really tired after all that.\""
+  },
+  {
+    "message": "Probably because I ran around so much today."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But still...\""
+  },
+  {
+    "message": "People were scared."
+  },
+  {
+    "message": "Yokoyama's little sister..."
+  },
+  {
+    "message": "Kagami and Tsukasa... and even me..."
+  },
+  {
+    "message": "We were all feeling anxious."
+  },
+  {
+    "message": "We knew it was a load of crap, but it was still frightening."
+  },
+  {
+    "message": "But I suppose that's what it means to be afraid..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, I'd better get to bed.\""
+  }
+]

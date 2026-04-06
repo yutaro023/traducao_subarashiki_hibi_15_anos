@@ -1,0 +1,1629 @@
+[
+  {
+    "message": "Every day continued on like normal."
+  },
+  {
+    "message": "It was enough to make you think that this peaceful life could go on for eternity."
+  },
+  {
+    "message": "Get up in the morning, go to school like everyone else, sit around chatting like everyone else, go to your job like everyone else, take a few hours off just like everyone else. Going through life while doing everything just like everyone else."
+  },
+  {
+    "message": "But of course, common sense tells me that it can't continue forever."
+  },
+  {
+    "message": "Even the middle-aged man sleeping on the train, drooling on the seat, was my age once."
+  },
+  {
+    "message": "At that time, he probably thought those happy days would go on forever, just like me."
+  },
+  {
+    "message": "But those days slipped away from him while he wasn't looking. First a job, then marriage, then children, and finally buying a house."
+  },
+  {
+    "message": "Just like that, things accelerate, and before you know it..."
+  },
+  {
+    "message": "He went from living the carefree days of youth to living the life of a middle-aged man."
+  },
+  {
+    "message": "But he might say this."
+  },
+  {
+    "name": "Old Man",
+    "message": "\"I'm just as young as ever!\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"I'm still young at heart.\""
+  },
+  {
+    "message": "At heart, maybe..."
+  },
+  {
+    "message": "No, no. Maybe you're young at heart, but just look at yourself. You're old."
+  },
+  {
+    "message": "You're nothing like the young man you once were."
+  },
+  {
+    "message": "Time will continue chugging along, slow and steady, no matter how young you insist you are. Your youthful life will crumble and spoil as time eats away at its edges."
+  },
+  {
+    "message": "My day-to-day life is definitely different from his."
+  },
+  {
+    "message": "His day-to-day life is something I can't even begin to imagine."
+  },
+  {
+    "message": "Or maybe he would talk like this, with a calm (weary?) voice."
+  },
+  {
+    "name": "Old Man",
+    "message": "\"There was a time when I too believed that I would be young forever.\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"But then, all of a sudden, my skin was getting thicker (they call it adipose tissue) and hair was growing from places I never thought possible (the first joint of my finger), yet I was losing hair where it really mattered (my head).\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"Suddenly I realized...\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"No one else looked at me as a child anymore.\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"Before I knew it, I wasn't just an adult. I was well past that. I was downright old.\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"...Someone like you would call me an old fart.\""
+  },
+  {
+    "message": "Yeah, totally over the hill."
+  },
+  {
+    "message": "He doesn't live the same day-to-day life that I understand. He lives the day-to-day life on the other side of the hill."
+  },
+  {
+    "name": "Old Man",
+    "message": "\"Hahahaha...\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"I look old now, but back in the day, everyone was jealous of my disco moves.\""
+  },
+  {
+    "message": "Oh, really?"
+  },
+  {
+    "name": "Old Man",
+    "message": "\"How about it? Wanna dance?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'd rather not.\""
+  },
+  {
+    "name": "Old Man",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "My eyes locked with those of the middle-aged man."
+  },
+  {
+    "message": "His eyes were dashing."
+  },
+  {
+    "message": "At that moment, I fell in love with―"
+  },
+  {
+    "message": "No, not really. Of course not."
+  },
+  {
+    "message": "Today, I was going to Tower Records (a CD store) in Suginomiya to buy a new release by one of my favorite bands."
+  },
+  {
+    "message": "As you can tell from my clothes, I'm totally... not actually a Visual Kei rocker."
+  },
+  {
+    "message": "I came to buy a new album by a famous English band."
+  },
+  {
+    "message": "This band isn't really goth, or goth-loli, or anything dark like that."
+  },
+  {
+    "message": "Actually, I think there was something called gothic rock in England, but it's not all that dark either."
+  },
+  {
+    "message": "It's a bit hasty to assume the word gothic implies \"dark.\""
+  },
+  {
+    "message": "My clothes are dark and black, but the blood running through my veins is white."
+  },
+  {
+    "message": "Ah."
+  },
+  {
+    "message": "I'm not sure where that was heading."
+  },
+  {
+    "message": "Well, who cares about that?"
+  },
+  {
+    "message": "I bought the English rock CD. Yay."
+  },
+  {
+    "message": "They hadn't released anything in three years."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oooh...\""
+  },
+  {
+    "message": "Ah, crap. I can't believe I let out a squeal like that in public."
+  },
+  {
+    "message": "Oh, no..."
+  },
+  {
+    "message": "\"Y-You're...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh?\""
+  },
+  {
+    "message": "I couldn't believe the way she was looking at me."
+  },
+  {
+    "message": "Just because I made some noise and struck a pose didn't mean that she needed to stare at me."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm? Oh, you're...\""
+  },
+  {
+    "message": "From the class next door... Takashima Zakuro-san, I think?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Takashima... Zakuro-san, was it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. Hello.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, hello.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why are you here today?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, uh, there's no particular reason. I was buying something, and now I guess I'm just walking around.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I mean, for someone living near the train station, Suginomiya is the most convenient place to go shopping, right? I suppose you could go all the way out to Shinjuku if you wanted, though.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I see. I'm glad.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Glad?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. I'm glad I got to meet you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Okay. I-If you say so.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. This might be divine providence.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Divine providence?\""
+  },
+  {
+    "message": "What providence?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, we've never really talked much, so...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Have we?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, no. You're right. You're probably right, but I knew you very well.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O-Oh, really?\""
+  },
+  {
+    "message": "Why? Did I do something unnecessary and make another enemy?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Did I do something to tick you off?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Why do you ask?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, if someone I don't remember all that well says they remember me, it means they're holding some kind of grudge, right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A grudge against you? Heheh. I'm not holding any grudge.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. Well, that's good to hear.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I don't have a bad impression of you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's... good to hear.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Not a bad impression at all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"At all?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah. I hope we can have cordial relations.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mmmgh?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mm...\""
+  },
+  {
+    "message": "Wh-What?"
+  },
+  {
+    "message": "What just happened?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wha―...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'll give you some of my power.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Power? Wh-What do you mean?\""
+  },
+  {
+    "message": "B-Besides that, I was just kissed..."
+  },
+  {
+    "message": "By some girl from another class who I hardly even knew."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Soon, something amazing will happen.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"S-Something amazing?\""
+  },
+  {
+    "message": "Wait a second."
+  },
+  {
+    "message": "She wasn't satisfied with a kiss? She wants to do \"something amazing\" to me?"
+  },
+  {
+    "message": "By \"something amazing\", she means..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You mean, like, tribadism?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Tribadism?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha, nothing. By the way, what is that 'something amazing' you were talking about?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Well, it's...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky is really, really full.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Full of what?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Anxious words.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The sky is full of anxious words.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, not full of anxiety, but full of anxious words?\""
+  },
+  {
+    "message": "That would've kind of made sense if she'd said \"The sky is full of anxiety,\" but what did she mean by \"anxious words\"?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's kind of a cool expression.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heheh. It's not a metaphor.\""
+  },
+  {
+    "message": "So she really meant it..."
+  },
+  {
+    "message": " Well, let's ignore that for now."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So, what about it?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The process of absorption has begun.\""
+  },
+  {
+    "message": "I didn't really get what she meant. Who was she talking about?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who's doing the absorbing?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The world is.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "I took a step back and thought to myself."
+  },
+  {
+    "message": "Her clothes."
+  },
+  {
+    "message": "I know that style..."
+  },
+  {
+    "message": "Um..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wanjuku Style!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hm?\""
+  },
+  {
+    "message": "No, I really didn't know either."
+  },
+  {
+    "message": "Let's think about the real essence of this style."
+  },
+  {
+    "message": "I know it."
+  },
+  {
+    "message": "This style is a metaphor for the darkness."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's V Kei!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Wh-What is?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's Visual Kei!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes, I know that, but...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, well, I was just wondering if you liked it.\""
+  },
+  {
+    "message": "I was going to say she was cosplaying Makki Shoujo or Jakigan, but I figured she would get mad if I said that."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Anxious words, and the world that has absorbed them.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Do you know what those are?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uh, not really.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"The heart of the person who will soon die.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Therefore, the world...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Will end.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "message": "I took a second to organize my thoughts."
+  },
+  {
+    "message": "\"Something Amazing\" ≠ Tribadism.\n"
+  },
+  {
+    "message": "\"Something Amazing\" = The end of the the world."
+  },
+  {
+    "message": "I understood.\n"
+  },
+  {
+    "message": "I understood instantly."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You probably can't believe it, right? But I'll protect you.\""
+  },
+  {
+    "message": "\"Zakuro-chan!\""
+  },
+  {
+    "message": "\"Who is this?\""
+  },
+  {
+    "message": "Takashima-san said something weird, and then two strange girls appeared behind her."
+  },
+  {
+    "message": "It was scary how they were glaring at me."
+  },
+  {
+    "message": "It looked like they were mad about something."
+  },
+  {
+    "message": "But what?"
+  },
+  {
+    "message": "\"What are you doing with an outsider?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sorry, but... this person should be fine.\""
+  },
+  {
+    "message": "Fine? Fine for what?"
+  },
+  {
+    "message": "\"I really don't approve...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yeah, I understand.\""
+  },
+  {
+    "message": "\"Please be more careful, Zakuro-chan.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Okay...\""
+  },
+  {
+    "message": "More importantly..."
+  },
+  {
+    "message": "Who are these people?"
+  },
+  {
+    "message": "Her... sex partners?"
+  },
+  {
+    "message": "And that's why she suddenly kissed me?"
+  },
+  {
+    "message": "Then the reason why she knew me so well even though I didn't know her was because she was after my body?"
+  },
+  {
+    "message": "And then, and then, her sex partners were mad because she made a pass at an \"outsider\" (a heterosexual)?"
+  },
+  {
+    "message": "That means..."
+  },
+  {
+    "message": "My chastity is in danger."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha, well then, I'd better be off...\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hey!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes?!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I'll protect the world, so...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Okay?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"I won't fail. I can do it.\""
+  },
+  {
+    "message": "\"Zakuro!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Coming...\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "What? What did she just say?"
+  },
+  {
+    "message": "I organized my thoughts."
+  },
+  {
+    "message": "So that meant..."
+  },
+  {
+    "message": "1."
+  },
+  {
+    "message": " Takashima-san is a lesbian.\n&"
+  },
+  {
+    "message": "2."
+  },
+  {
+    "message": " Those other girls are her sex friends.\n&"
+  },
+  {
+    "message": "3."
+  },
+  {
+    "message": " That's why they're fighting to protect world peace."
+  },
+  {
+    "message": "I guess?"
+  },
+  {
+    "message": "Is that... correct?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I suppose because they're a minority group, they have a lot of interest in world peace and stuff like that.\""
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Right?"
+  },
+  {
+    "message": "We'll go with that. I didn't really want to get involved with them."
+  },
+  {
+    "message": "\"Yuki!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, one of the Wakatsuki sisters... The younger one... Tsukasa?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki, what are you here for? Your job?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, I'm not.\""
+  },
+  {
+    "message": "\"What do you mean? Yuki, you have work today, don't you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, uh, you're...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who are you?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What the hell?! There's no way you could remember Tsukasa and not remember me!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Where there's a will, there's a way. Besides, what's with that attitude, as if it's ridiculous that anyone would ever forget a celeb like you?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You grew up with us! There's no way you could remember the younger twin and then forget about the older one!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah. We've always been together since kindergarten.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Really? Has it been that long already?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"So, Yuki, what about your job?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Unfortunately, I'm taking time off for personal reasons.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You shouldn't take a day off work for personal reasons...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Whatever. Let it go, Tsukasa. At this rate, we're going to catch the stupid from her.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahaha. That's not possible.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, it just might be.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You caught Tsukasa's stu―\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oww.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I'll hit you if you say anything bad about Tsukasa.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You should give me that warning before you hit me...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So, what are the Wakatsuki sisters doing?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"We're going home after our club activities, unlike you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean, unlike me? We're both human, aren't we?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't think anyone would take you for a human.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Do I look more like a goddess?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Hmph... Tsukasa, let's go.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami's as grumpy as ever.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"So you did remember her name.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, I am a tsundere.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yuki, you know... Being a tsundere isn't an excuse for bullying someone like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You've always been Onee-chan's role model.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"So it wouldn't hurt you to be nice to her once in a while.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe I'll think about it if you promise to be nice to me.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Wait, Y-Yuki...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Look, your boobs are so soft, too.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Y-You can't do that... Ah, ahn!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Stop, you can't touch me down there. Y-You can't call that a joke!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ow...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"J-Just how stupid are you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hahahaha... Oops.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I just thought you might come back if I messed with Tsukasa.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-What do you mean?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't ask me.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Y-You're teasing me again!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe I am, maybe I'm not!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You just wanted to walk home together with us, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"That's it, isn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Y-Yeah.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Together?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"That's right. Our houses are right next to each other, after all. We used to walk to school together all the time.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Yeah, we used to...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah, but we could do it again if we wanted.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Well, all right. We haven't really seen Yuki all that much lately.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah, let's walk home together.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"S-Sure.\""
+  },
+  {
+    "message": "Walk home? I wasn't planning on heading back yet..."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"All right, let's go!\""
+  },
+  {
+    "message": "I went back the way I'd just come, rocking back and forth with the movement of the train."
+  },
+  {
+    "message": "I suppose it's my fault for getting up so late, though..."
+  },
+  {
+    "message": "Well, it's not a big deal."
+  },
+  {
+    "message": "My only real goal was to go buy the CD. I didn't have anything else to do in particular, so there was no reason I couldn't go home."
+  },
+  {
+    "message": "No reason at all."
+  },
+  {
+    "message": "That said, my days off are short. Too short."
+  },
+  {
+    "message": "And every other day is ridiculously long."
+  },
+  {
+    "message": "My days off pass by in the blink of an eye."
+  },
+  {
+    "message": "The sun hung low in the sky."
+  },
+  {
+    "message": "The sky doesn't change colors based on the day, but it does change based on the time."
+  },
+  {
+    "message": "The sky slowly changed from blue to yellow and then eventually dyed the buildings purple."
+  },
+  {
+    "message": "What a beautiful sunset."
+  },
+  {
+    "message": "Just looking out at the unchanging scenery made my body feel utterly exhausted."
+  },
+  {
+    "message": "So the sunset was a little invigorating."
+  },
+  {
+    "message": "But maybe that's just because the sunlight was going directly into my eyes, banishing my fatigue."
+  },
+  {
+    "message": "The sunset was pretty, but it wasn't kind on the eyes."
+  },
+  {
+    "message": "I looked out the window as the scenery, which was beautiful and yet harsh on the eyes, flowed from right to left. Right to left."
+  },
+  {
+    "message": "It flowed and flowed."
+  },
+  {
+    "message": "And as the scenery flowed, the shades of purple amongst it continued to darken."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Hey, Yuki, weren't you talking to someone earlier?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, yeah. I guess so.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It was Takashima-san from the next class over. She suddenly came and started talking to me.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Takashima-san? I didn't know you two were acquaintances.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha. We really aren't. I'm not as sociable as you two.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"No way. You're way better than either of us, at least when it comes to pushing people's buttons.\""
+  },
+  {
+    "message": "Oh, wow. She's still mad."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"But it'd be nice if you could get along with Takashima-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"It's kind of...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"That Zakuro girl seems to be getting bullied.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I heard it stopped for a while, but it seems like it's starting to happen again.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I just thought you were the type of person who'd be nice to someone like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. Of course, I won't go out of my way to avoid her, but it's not like I'm going to hunt her down and make friends either.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Do you find it a bit hard to talk to her, too?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I find it a bit hard to talk to everyone. I hate people. I always have, really.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"But you're talking to us right now.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's because we've always been together, since we were kids.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah. You were like our big brother.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That breaks my heart every time I hear it.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"But your hair was so short back then, and you wore pants, and you never lost to anyone in a fight.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's just because they were comfortable to wear.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"And you always talked like a boy too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's... How should I put it, uh...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"And what kind of girl practices martial arts? Until the day you suddenly started wearing a skirt, we always thought you were a boy.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah, I wasn't really sure how to react when I found out the dashing prince that always rescued us was actually a princess.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You say that like it was obvious. I never even realized you thought I was a boy.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Even if you didn't know it, you were a prince to us. Not just in fights, either. You're really good at sports, and you're smart too.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Just looking at you now makes me want to ask for a refund on my feelings.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Your feelings? What do you mean?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Uahh!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"N-Nothing! Um... I'm just saying, I thought you were a boy at the time, so I acted differently around you!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't remember anything like that.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Wh-Who cares about what you think? I did my best! Wh-Why can't you at least notice something like that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O-Okay...\""
+  },
+  {
+    "message": "Takashima Zakuro."
+  },
+  {
+    "message": "I didn't know her very well, but she always seemed like a really lonely person."
+  },
+  {
+    "message": "I definitely remembered her being ignored by people in the past."
+  },
+  {
+    "message": "Maybe you could call that bullying."
+  },
+  {
+    "message": "All this..."
+  },
+  {
+    "message": "All this thinking was..."
+  },
+  {
+    "message": "Making me tired..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Hey, Yuki, we're getting off.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Hey.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"She's still snoozing. Come on!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, sure...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Haa... We almost missed our stop.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, I didn't even realize that I was so sleepy.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I don't know how you can sleep like that, hanging over the railing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sleeping is my specialty!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Haa... Why are you so proud of that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I've been really tired lately. I fall asleep all the time. Just like that, my brain shuts off. It's like time is flying by.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"They say time is money, but I've never met anyone who values their money less than you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The sun already set before I knew it.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahahaha. Anyway, it's going to be summer pretty soon.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I see. Finals are over, so we get a vacation soon.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Do you have any plans for the summer?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Nothing but sleeping, I'm sure.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's not true. I have lots of things to do over the summer.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Like what?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Waking up, eating breakfast, brushing my teeth, washing my face, drinking tea, and so on. There's plenty of stuff to do in the summer!\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I mean after that. What are you going to do after you get up, eat, brush your teeth, and wash your face?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder... Maybe I'll go back to sleep.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Haa... So I was right all along.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What about you?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I'm taking classes over the summer, so I won't be able to spend as much time with my club.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why am I not surprised...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"How about you? Are you planning on studying?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Not even a little.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"And we used to call you a genius.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"They say geniuses are just normal people after age twenty.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Then what's your excuse?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm doing my best.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Heheh.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"What's so funny?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Nothing. I was thinking that it's been a while since we've been together like this.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Has it?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Yeah. Back then we thought you were a boy.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Enough of that!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My hair was short, and I wore pants, and of course I was flat as a board.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Of course. There's no way a grade schooler would have huge boobs.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Back then, you were really strong. You protected me and Onee-chan.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Violence was my only redeeming feature.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"And your grades. You were the best student in the class. Actually, probably the best in the entire ward.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like I said, plenty of people are smart when they're young.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"It's just that you started skipping.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan...\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"No matter what reason there was...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're right.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But who cares? That's something for me to worry about. It's not like you ought to be upset just because I got stupid.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Of course not. I-I... Of course I don't care... Not at all.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I-It's just unpleasant watching you waste away your life.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ouch, that's brutal. There are tons of different kinds of people in this world. You can't let them all get on your nerves.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I'm not talking about all the people in the world. I'm saying it's unpleasant watching you.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Oh... I, I got it!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Tomorrow, let's all walk to school together.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wh―What do you mean, 'I got it'?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Hmm? It's because we haven't been together like this in a long time.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And why exactly does that mean we have to walk to school together?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Plus, you've been skipping a lot lately, Yuki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's not what I'm asking. And I'm not skipping.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"You are.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, you see, I've just calculated how many days I can take off or be late without flunking.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Three tardies is one absence, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Right. And if you skip more than one in four classes, you won't get credit regardless of your exam grade.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"I see.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But if you don't skip more than a fourth of your classes, it has no effect on your grade whatsoever.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Oh, I see.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Hey, you shouldn't be impressed by that.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"A-Ahahaha. It's just that she's right, you know?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"The people who know about that rule are more likely to fail, though.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Not at all.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Shut up. Anyway, don't even think about skipping tomorrow.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"See ya, Yuki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sure.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Let's walk together tomorrow, okay?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'll probably be sleeping, though.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"We'll come wake you up.\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"That's right. Prepare yourself.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Just a question. Why would I need to prepare myself for being woken up?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"You'll see. Heheheh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha... Stay away from me.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"That's a joke. Right, Onee-chan?\""
+  },
+  {
+    "name": "Kagami",
+    "message": "\"I dunno. Maybe it is a joke, heheh.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you implying?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Here we go, for today...\""
+  },
+  {
+    "message": "I took out the CD I bought."
+  },
+  {
+    "message": "I bought a rock CD today."
+  },
+  {
+    "message": "Rock."
+  },
+  {
+    "message": "But this is an album by that band that led the British pop movement years and years ago."
+  },
+  {
+    "message": "So it's not rock... but pop music?"
+  },
+  {
+    "message": "What's the difference between rock and pop?"
+  },
+  {
+    "message": "With my mind full of questions, I put the CD into the player."
+  },
+  {
+    "message": "And closed it."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's up with this CD?\""
+  },
+  {
+    "message": "The music that came from the CD player wasn't rock or Brit pop. It was..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's anime music.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh?\""
+  },
+  {
+    "message": "I checked the CD."
+  },
+  {
+    "message": "Written there was..."
+  },
+  {
+    "message": "Is that name... a voice actress?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh?\""
+  },
+  {
+    "message": "Why did I buy this?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The first album from the popular actress...\""
+  },
+  {
+    "message": "They switched my bag with someone else's!"
+  },
+  {
+    "message": "Or maybe I accidentally grabbed someone else's bag on the train!"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Or maybe...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is this one of Kagami's pranks? I won't forgive her!\""
+  },
+  {
+    "message": "I ran to the phone and yelled at Kagami, but she ripped my ear off in return."
+  },
+  {
+    "message": "It sounded like she wasn't involved."
+  },
+  {
+    "message": "My rock CD..."
+  }
+]

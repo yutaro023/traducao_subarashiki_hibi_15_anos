@@ -1,0 +1,1280 @@
+[
+  {
+    "message": "It was a familiar scene."
+  },
+  {
+    "message": "More familiar than any I had seen before."
+  },
+  {
+    "message": "A scene I knew all too well."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Does this scene seem more fitting?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well, yeah. Until now, I'd forgotten what had happened in the village.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"After that, did I become Mamiya Takuji?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who knows? At the very least, you still looked like yourself.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But I lived my life as Mamiya Takuji.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"According to the doctors at the hospital, the diagnosis was PTSD: post-traumatic stress disorder.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But the villagers believed it was Mamiya Takuji's curse. In other words, the result of Sanami Kotomi's powers.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kotomi-san was rumored to have the power to bring back the dead, after all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So what actually happened, then?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What actually happened? How would I know that? It's not like you have any proof that you weren't possessed by Mamiya Takuji.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You also can't deny the hypothesis that he might've been another personality conjured up by your PTSD.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Both explanations seem to fit.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But the reality is that, after that moment, you ceased to consider yourself to be 'Mamiya Tomosane' and instead called yourself 'Mamiya Takuji.'\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I can't deny that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So where are we?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Where do you think?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The roof... Building C, maybe?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Correct.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see. Then that dream I just had was all my memories of the past... Is that it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, that's it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I didn't die?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you were dead, you wouldn't be standing here. This isn't heaven, and it's definitely not hell either.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But this isn't the real Building C either. Did you make this place?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't ask me. I'm not sure myself.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All I know for sure is that the most important thing is what's not here. Do you know what I mean?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What's not here?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just now...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. There's something you need to do. Do you remember what it was?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I... I was...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Go to her, Tomosane. Go protect Hasaki-chan, no matter what happens.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. I have to protect Hasaki, no matter what.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. That's a good answer.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not correct, is it? That dream just now, and my memories of the past... Was that all your doing, Yuki-nee?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yuki-nee... It makes me really happy to hear you call me that again. Really happy.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What's wrong, Yuki-nee?\""
+  },
+  {
+    "message": "She smiled as tears flowed from her eyes."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's just... You've really grown up, Tomosane.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're totally different from before. Look.\""
+  },
+  {
+    "message": "She grabbed my arm."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Your arms were so skinny before, but now they're way bigger than mine.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, of course. A lot of time has passed since then.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're the same age I used to be back then, Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Am I really?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, you are. You didn't really pay attention to me, so maybe you don't remember.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"To a little boy, all adults just look like adults.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha... Maybe you're right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, back then I never knew your hands were so small.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha... Are my hands that small?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, I can't believe they're so small. Your entire hand fits here in my palm.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Back when I was a kid, I always thought you were so big.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But my chest is still pretty big.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But it's not nearly as wide as my chest. Your body is way smaller than mine, too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're still pretty small for a boy, you know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm still bigger than you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I guess so. You're a lot bigger than I am, Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Did you always know this?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Know what?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"About our past.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No. Unfortunately, it was quite a long time before I figured everything out.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I didn't know until I learned how to look into this body's subconscious.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"With those lucid dreams, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Which means this is just a lucid dream modeled after the Building C roof.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yep.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And what I just saw... Those were my memories of the past.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes. You sealed those memories away because they were too painful.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm a really weak person, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's not true. It might've actually been the curse, too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Even then, that would mean I lost to that curse.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about? When did you lose?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I've done nothing but lose.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Even on that day, you were the one who saved Hasaki.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I promised to protect Hasaki, but I couldn't protect her at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And then Takuji took control of me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you managed to stand up to Takuji, despite all of that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. I stood up to him, and I lost.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How disgraceful.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you talking about? Isn't that okay?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What? Of course it's not okay.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is all just a performance, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A performance?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, of course. Isn't this the perfect time for our hero to make his dramatic entrance on stage?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hero?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Weren't you a hero? A shapeshifting hero, too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki had to go through some tough times,"
+  },
+  {
+    "message": " but couldn't this all be a nice way of spicing up the happy days you two have ahead of you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki-nee...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You made a promise to Hasaki.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"On the beach that day.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If Takuji is the savior, then I'm the hero.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'll stand up to protect you any time you're in trouble.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When you're in trouble, you can just think of it as a performance.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki believed you until the very end.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Believed that you were her hero.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki-nee...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And of course, so do I.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tomosane, you haven't actually lost until it's all over.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No matter what happens, you won't lose.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Because that's what a hero is, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I believe in you too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're the hero, Tomosane. You're the one who has to save the day in the end.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you talking about? I already failed to protect you, Yuki-nee.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You dummy. You're Hasaki-chan's hero, not mine.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But you just said you believed in me, too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I do believe in you.\""
+  },
+  {
+    "message": "Yuki-nee gave me a big grin."
+  },
+  {
+    "message": "But it was as if she was still fighting back her tears."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'll take him with me so you can keep moving forward.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Take who?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Takuji-kun. I'll take that crazy boy with me.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You just need to keep moving forward right now.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Forward?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, that's right. Forward from here.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Beyond the hill where the sunflowers bloom.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Beyond that hill she could never climb.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You have to go forward and find Hasaki-chan again.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That hill...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Come on, Tomosane. You can do it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is our farewell.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Farewell?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. Farewell. This is as far as I can go.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Under this sky, this is as far as I can walk beside you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Under this great, great sky, we walked this far together, but now it's over.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"From here on, I won't be the one walking by your side.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm not the one who will walk the same road as you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Now go, hero.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You are my... hero.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And also...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan's superhero!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is our farewell.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Farewell?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. This is farewell for now.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I have to help him get there.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki-nee...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't make that face, Tomosane.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Look... You can feel my presence, right?\""
+  },
+  {
+    "message": "Yuki-nee held my hand tightly."
+  },
+  {
+    "message": "Her hand was very small and soft."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I will always be here, right next to you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I have to go, but even then, I'll still be right here by your side, Tomosane.\""
+  },
+  {
+    "message": "Yuki-nee slowly let go of my hand."
+  },
+  {
+    "message": "And then, she took a step back and shouted."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Now, go forward!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're the hero, so you have to protect the heroine in the finale!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isn't that right, Tomosane?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just now...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're the Tomosane that Hasaki-chan always believed in. The one I always believed in.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You'll win.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's your destiny.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"H-Hasaki?!\""
+  },
+  {
+    "message": "Hasaki had taken hold of my leg just as I jumped from the rooftop."
+  },
+  {
+    "message": "But Hasaki's weak body was being slowly pulled over the edge."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki! Let go!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you stupid?! Let go, right now!\""
+  },
+  {
+    "message": "Hasaki's face turned pale."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah, you sound like...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hurry up! At this rate, you're gonna fall too! Let go!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"T-Tomo Nii-san... Tomo Nii-san... You're alive. You didn't disappear. I... I!\""
+  },
+  {
+    "message": "Hasaki lost her footing for a split second. Her body slipped further over the edge of the roof.\""
+  },
+  {
+    "message": "And yet..."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm so glad... I'm so glad... I thought you had disappear forever, so I... I...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I understand! Just let go! Let me go!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...No...\""
+  },
+  {
+    "message": "Big tears welled up in Hasaki's eyes."
+  },
+  {
+    "message": "Hasaki tried to say something through her tears, but it wouldn't come out."
+  },
+  {
+    "message": "She cried as her strength slowly began to fail her."
+  },
+  {
+    "message": "Her body was slowly pulled over the edge."
+  },
+  {
+    "message": "Nevertheless, she didn't loosen her grip on my leg at all."
+  },
+  {
+    "message": "She did the complete opposite. Her tiny hands took a stronger hold on my body so that she wouldn't lose me."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you doing, Hasaki?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I won't...\""
+  },
+  {
+    "message": "She raised her head and looked me in the eyes."
+  },
+  {
+    "message": "I thought she was despairing for me, but when she looked up I saw a smile on her tear-stained face."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What are you saying?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I said I won't let you go.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you dumb?! At this rate, you'll fall too!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That doesn't matter!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It does matter! I'm here to protect you!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I don't care about that! I don't care!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"H-Hasaki...\""
+  },
+  {
+    "message": "I had never seen Hasaki raise her voice like that before."
+  },
+  {
+    "message": "She never let her emotions show like this. She never expressed her own will like this before."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm... I'm not just someone to be protected. I... I love you, Tomo Nii-san!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I was so sad because I thought you'd died. I thought there was no reason to keep living.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So I never really cared about saving Takuji Nii-san, because I thought he had killed you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But... But... Takuji Nii-san... Takuji Nii-san... He looked just like you...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So I wanted to save him!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's it... But why?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why can't I save you, Tomo Nii-san? Why am I just here to be protected?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If you're still alive, Tomo Nii-san... If you're still there, then I'll never let go!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Never! Never! I won't let you go, even when I'm dead!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You dummy!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's obvious why you can't save me!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm here to protect you!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm the hero! I'm only here to protect you!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "It felt like I was floating."
+  },
+  {
+    "message": "It was as if the air had suddenly grown colder."
+  },
+  {
+    "message": "Sand and dust floated in the blue sky, dancing in the moonlight."
+  },
+  {
+    "message": "I felt myself transported from solid ground to a world of vertical descent."
+  },
+  {
+    "message": "Hasaki and I were sucked down."
+  },
+  {
+    "message": "I saw a silhouette of Hasaki's body backlit by the bright blue moon."
+  },
+  {
+    "message": "We were utterly detached from the ground."
+  },
+  {
+    "message": "It was like we were flying in midair."
+  },
+  {
+    "message": "I heard sirens in the distance."
+  },
+  {
+    "message": "Sirens echoing in the sparkling azure sky."
+  },
+  {
+    "message": "I looked up at the infinite sky as I fell."
+  },
+  {
+    "message": "So that I wouldn't lose sight of Hasaki above me."
+  },
+  {
+    "message": "The moon laughed."
+  },
+  {
+    "message": "God laughed."
+  },
+  {
+    "message": "At the comical sight below."
+  },
+  {
+    "message": "At this comedy and this tragedy."
+  },
+  {
+    "message": "The stars went round."
+  },
+  {
+    "message": "Like they were dancing."
+  },
+  {
+    "message": "The night sky ridiculed us. God ridiculed us."
+  },
+  {
+    "message": "As if an innocent child had knocked the plate of heaven to the ground."
+  },
+  {
+    "message": "The world became empty."
+  },
+  {
+    "message": "But I said this."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Eat shit!\""
+  },
+  {
+    "message": "God doesn't matter."
+  },
+  {
+    "message": "Fate doesn't matter."
+  },
+  {
+    "message": "I'm Tomosane."
+  },
+  {
+    "message": "Mamiya Tomosane."
+  },
+  {
+    "message": "I made a promise."
+  },
+  {
+    "message": "A promise to protect Hasaki."
+  },
+  {
+    "message": "A promise to be Hasaki's hero."
+  },
+  {
+    "message": "So I won't falter."
+  },
+  {
+    "message": "I won't back down, no matter who I'm facing."
+  },
+  {
+    "message": "If I meet God in heaven, then I'll punch him right in the nose."
+  },
+  {
+    "message": "If I meet Satan in hell, then I'll punch him right in the nose."
+  },
+  {
+    "message": "I'll break fate's chains with my own two hands."
+  },
+  {
+    "message": "The great comedy and tragedy of life can eat shit for all I care!"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki!\""
+  },
+  {
+    "message": "I reached out with all my might."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "message": "There was no answer."
+  },
+  {
+    "message": "No, I don't know if she even heard me."
+  },
+  {
+    "message": "It was such a short period of time before we hit the ground that I don't know if my words ever reached her."
+  },
+  {
+    "message": "But I yelled out to her."
+  },
+  {
+    "message": "Hasaki!"
+  },
+  {
+    "message": "The cool air of the night suddenly grew hot."
+  },
+  {
+    "message": "The light of the moon dimmed."
+  },
+  {
+    "message": "The dancing stars ceased to frolick and instead looked on in silence."
+  },
+  {
+    "message": "I ran on thin air."
+  },
+  {
+    "message": "I fought against God's will and ran."
+  },
+  {
+    "message": "Then my hand reached Hasaki."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san!\""
+  },
+  {
+    "message": "Freefall. The unavoidable fate which we call gravity finally sucked us down to Earth."
+  },
+  {
+    "message": "For men, who cannot fly through the air..."
+  },
+  {
+    "message": "The only choice is to fall to Earth."
+  },
+  {
+    "message": "But I refused."
+  },
+  {
+    "message": "There was no despair in that moment."
+  },
+  {
+    "message": "The only choice I had was to do what I had to do."
+  },
+  {
+    "message": "What I had to do in that very moment."
+  },
+  {
+    "message": "To live."
+  },
+  {
+    "message": "And what I had to do to live tomorrow."
+  },
+  {
+    "message": "Gravity tried to kill us both."
+  },
+  {
+    "message": "It tried to slam us into the ground and end it all."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Aaaahhh!\""
+  },
+  {
+    "message": "I struggled in the air."
+  },
+  {
+    "message": "It was futile. Man is powerless in the air."
+  },
+  {
+    "message": "There's no fighting it."
+  },
+  {
+    "message": "There's nothing man can do to fight gravity."
+  },
+  {
+    "message": "And yet I struggled in the air."
+  },
+  {
+    "message": "The powerless struggling before a colossal foe."
+  },
+  {
+    "message": "I didn't care if I looked pathetic."
+  },
+  {
+    "message": "I would do anything, pathetic or otherwise, if only to live."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Aaagh!\""
+  },
+  {
+    "message": "As I kicked out my leg, it broke through the glass on the building."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Gah!\""
+  },
+  {
+    "message": "The glass broke, and I crashed into the building's eaves."
+  },
+  {
+    "message": "Agony raced through my breaking body."
+  },
+  {
+    "message": "But I held onto Hasaki."
+  },
+  {
+    "message": "Pain was irrelevant."
+  },
+  {
+    "message": "I held Hasaki to my chest."
+  },
+  {
+    "message": "I wasn't going to let anyone or anything hurt her."
+  },
+  {
+    "message": "The eaves didn't catch us; they merely threw us into the air once again."
+  },
+  {
+    "message": "Another impact, just like the last."
+  },
+  {
+    "message": "But I could no longer see what I was even crashing into."
+  },
+  {
+    "message": "I had lost all sense of balance or direction, falling and colliding with whatever was in my way as I fell from the school building."
+  },
+  {
+    "message": "That's probably what happened."
+  },
+  {
+    "message": "An untold number of impacts left my ears ringing."
+  },
+  {
+    "message": "It was a disturbing sound."
+  },
+  {
+    "message": "There was no pain."
+  },
+  {
+    "message": "There was no light."
+  },
+  {
+    "message": "The only thing I could feel was Hasaki's warmth in my arms."
+  },
+  {
+    "message": "The moon laughed."
+  },
+  {
+    "message": "The moon laughed at me."
+  },
+  {
+    "message": "The moon laughed at me, as if it hadn't just seen me take that fall."
+  },
+  {
+    "message": "As if it knew nothing of the impure things in this world. As if it was ignorant of the filthy, the spoiled, the rotten things on Earth."
+  },
+  {
+    "message": "It simply bathed us with its beautiful light."
+  },
+  {
+    "message": "And it laughed at the world, dyed with blue moonlight, underneath it."
+  },
+  {
+    "message": "The moon laughed."
+  },
+  {
+    "message": "Underneath that laughing moon, I could only fall and get beaten up by the unceasing blows of gravity."
+  },
+  {
+    "message": "I fell, powerless to do anything else."
+  },
+  {
+    "message": "At the end, the moon came into view again."
+  },
+  {
+    "message": "But it wasn't laughing at me with scorn."
+  },
+  {
+    "message": "It looked truly sad."
+  },
+  {
+    "message": "As if it was crying."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You bastard...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So you weren't laughing at me...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You cried as you watched me fall...\""
+  },
+  {
+    "message": "My weak, broken voice barely escaped my throat."
+  },
+  {
+    "message": "And I thought that I could still speak. I'm not sure if I was actually making any sound, though."
+  },
+  {
+    "message": "Now that I think back on it, it was perfectly silent in that moment."
+  },
+  {
+    "message": "The sound of the wind I'd heard before."
+  },
+  {
+    "message": "The sound of the sirens."
+  },
+  {
+    "message": "The sound of crashing into the building time and time again."
+  },
+  {
+    "message": "All of those sounds had disappeared from the world."
+  },
+  {
+    "message": "The silence was unbroken."
+  },
+  {
+    "message": "And I thought to myself about how bad it was."
+  },
+  {
+    "message": "In my life up until that moment, I'd never experienced such a profound silence."
+  },
+  {
+    "message": "It was an impossible silence."
+  },
+  {
+    "message": "I thought it was the end."
+  },
+  {
+    "message": "I thought I was done for."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san... Tomo Nii-san...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hahaha... You're safe...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah. You protected me, so I'm safe.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I broke my promise so many times. I'm glad I was able to keep it this time.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah. Thank you, Tomo Nii-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then... can this be the end?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You liar.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Liar?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Are you trying to break your promise again?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Promise?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's right. You promised.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"This summer, you said we were going back to the village.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The village...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's right, Sawaimura. We were going to go together.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"And we were going to climb that hill one more time together.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"We were going to see the blooming sunflowers again together.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That hill, huh...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, that hill I could never climb when I was younger.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The hill where you found me on the day Dad died.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That hill...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's... not a promise a hero should make...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But a promise is a promise!\""
+  },
+  {
+    "message": "A promise is a promise..."
+  },
+  {
+    "message": "Hasaki usually never asks for anything from me."
+  },
+  {
+    "message": "But still, I was so tired."
+  },
+  {
+    "message": "I walked so far to get here."
+  },
+  {
+    "message": "So now..."
+  },
+  {
+    "message": "Yuki-nee..."
+  }
+]

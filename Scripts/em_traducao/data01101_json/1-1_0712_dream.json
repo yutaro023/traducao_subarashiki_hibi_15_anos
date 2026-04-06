@@ -1,0 +1,963 @@
+[
+  {
+    "message": "\"Yuki!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hã?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, a pequena irmãzinha Wakatsuki.\""
+  },
+  {
+    "message": "\"O que você quer dizer com 'pequena'?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sua altura?\""
+  },
+  {
+    "message": "\"Não sou assim tão baixa. Caramba.\""
+  },
+  {
+    "message": "Wakatsuki Tsukasa. Minha vizinha e amiga de infância."
+  },
+  {
+    "message": "Temos idades próximas e a casa dela fica ao lado da minha."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Que coincidência, encontrarmo-nos em Suginomiya\""
+  },
+  {
+    "message": "  Ah, sim. Você tem um emprego de meio período por aqui, certo?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, certo. Talvez isso estivesse na biografia da minha personagem.\""
+  },
+  {
+    "message": "\"Do que você está falando? O que a biografia de um personagem tem a ver com o seu trabalho?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, você é...\""
+  },
+  {
+    "message": "\"E? Pela sua atitude, deduzo que está faltando ao trabalho?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Quem é você mesmo?\""
+  },
+  {
+    "message": "\"Quem sou eu?"
+  },
+  {
+    "message": " Você sabe quem eu sou! Como se fosse esquecer!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O quê? Pare de agir como se fosse famosa com essa coisa de 'É claro que você deveria saber meu nome!'. Não fica bem.\""
+  },
+  {
+    "message": "\"Agir como se eu fosse famosa não tem nada a ver com isso! Por que você se lembra do nome do Tsukasa, mas não do meu?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Pode ser que tenha algo a ver com isso.\""
+  },
+  {
+    "message": "\"Que―?!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Você não deveria fazer isso, Yuki. Estamos sempre juntos desde o jardim de infância. Não há como você esquecer quem ela é.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sério? Já faz tanto tempo assim?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Então, Yuki, e quanto ao seu trabalho?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Infelizmente, foi suspenso por causa de assuntos de adulto.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Assuntos de adulto?\""
+  },
+  {
+    "message": "\"Nem ferrando que foi!"
+  },
+  {
+    "message": "  Ugh, já chega! Tsukasa, vou embora. Se eu ficar aqui e continuar conversando com ela, vou acabar sendo contagiado pela idiotice dela.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahahaha. Ser burra não é uma doença contagiosa, Onee-chan.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Agora entendi. Então você pegou isso do Tsu―\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ow!\""
+  },
+  {
+    "message": "\"Vou bater em você se disser algo ruim sobre Tsukasa.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Onee-chan.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Você deveria me avisar antes de me bater...\""
+  },
+  {
+    "message": "\"Um balé começa com o primeiro movimento.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O balé não tem nada a ver com isso! Além disso, você nunca fez balé!\""
+  },
+  {
+    "message": "\"Então você sabe disso, mas ainda não se lembra do meu nome?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Então... O que a gangue de Wakatsuki está fazendo aqui?\""
+  },
+  {
+    "message": "\"Essa 'gangue' está voltando da escola, diferente de você!\""
+  },
+  {
+    "message": "\"Até mais!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami continua tão mal-humorada como sempre.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Então você sabia o nome dela o tempo todo. Você é tão cruel.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Bem, eu sou uma tsundere.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ser tsundere não é desculpa para intimidar alguém dessa maneira.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sério?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Sim. Não tenho certeza, mas você provavelmente não deveria fazer isso.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Kagami está sempre zangada, no entanto.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Isso não é verdade. Ela é uma pessoa legal.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hã? Ela está sempre zangada quando a vejo.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Não, você a deixa irritada.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Não é como se eu tivesse dito algo para irritá-la.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahaha. Yuki, se você realmente pensa assim, então deve lembrar que o caminho para o inferno está pavimentado com boas intenções...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha, eu sei disso. Você está falando de si mesmo, certo? Você é muito crítica consigo mesma, não é?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Ahaha. Yuki!\""
+  },
+  {
+    "message": "Stomp!"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha... Hum, Tsukasa...\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Hm?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Você vai esmagar meu pé se continuar pressionando com tanta força.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Oh, desculpa!"
+  },
+  {
+    "message": "  Eu não percebi.\""
+  },
+  {
+    "message": "Não percebi, conta outra."
+  },
+  {
+    "message": "Elas são definitivamente irmãs, mesmo que suas personalidades sejam diametralmente opostas."
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Você está pensando em algo maldoso, Yuki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hã? N-Não, claro que não. Ahaha.\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Haa... Tudo bem, mas você sabe... Yuki, você sempre foi o exemplo da Onee-chan.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Exemplo?\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"Então, não custaria nada ser gentil com ela de vez em quando.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Seja gentil com ela, você diz?\""
+  },
+  {
+    "message": "Eu sabia muito bem o que Tsukasa estava tentando dizer, mas, sinceramente..."
+  },
+  {
+    "name": "Kagami",
+    "message": "\"Vamos, Tsukasa! Estamos indo para casa!\""
+  },
+  {
+    "name": "Tsukasa",
+    "message": "\"O-Okay! Até mais, Yuki.\""
+  },
+  {
+    "message": "Tsukasa correu atrás de Kagami, tentando alcançá-la."
+  },
+  {
+    "message": "A visão de Tsukasa perseguindo alguém assim..."
+  },
+  {
+    "message": "Por alguma razão, senti uma certa nostalgia."
+  },
+  {
+    "message": "Por que isso?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Talvez seja porque, no passado, Tsukasa sempre perseguiu Kagami dessa maneira.\""
+  },
+  {
+    "message": "Para ser sincero, não me lembrava de isso ter acontecido, mas mesmo assim senti uma grande nostalgia."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Agora, então.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, sim. Vim até aqui para comprar o novo álbum da minha banda favorita.\""
+  },
+  {
+    "message": "Segui em direção ao bairro residencial, deixando para trás a agitação da praça da estação."
+  },
+  {
+    "message": "O que chamamos de \"lojas especializadas\" geralmente estão localizadas em locais fora da principal área comercial."
+  },
+  {
+    "message": "Fui até Suginomiya só para visitar uma dessas lojas especializadas que vendem CDs."
+  },
+  {
+    "message": "No entanto..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O quê? Será que eu errei o caminho?\""
+  },
+  {
+    "message": "Não sei bem o que aconteceu, mas acabei por me encontrar num lugar que não me é familiar."
+  },
+  {
+    "message": "Hã? Eu achava que conhecia bem o caminho."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"A loja de CDs deveria estar por aqui. Não conheço este lugar.\""
+  },
+  {
+    "message": "Talvez eu tenha entrado no beco errado?"
+  },
+  {
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm? O que foi isso?\""
+  },
+  {
+    "message": "Acho que ouvi um grito agora mesmo... Foi isso mesmo que ouvi?"
+  },
+  {
+    "message": "De repente, algo caiu na minha cabeça, vindo de cima."
+  },
+  {
+    "message": "Quando levei a mão ao cabelo, senti algo como cascalho."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hã? Cascalho? Do alto?\""
+  },
+  {
+    "message": "Olhei para cima e vi algo no telhado do complexo de apartamentos."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"É uma pessoa? Hein? O quê?!\""
+  },
+  {
+    "message": "O que é isso...\n"
+  },
+  {
+    "message": "O que eles estão fazendo lá em cima?!"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tem gente lutando lá em cima!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Você deve estar brincando. Eles estão do lado errado da cerca!\""
+  },
+  {
+    "message": "Eles estavam prestes a cair. Estavam do lado errado da cerca, lutando e lutando no precipício."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O que diabos eles estão fazendo??!\""
+  },
+  {
+    "message": "Eu não fazia ideia do que estava acontecendo. O sol poente obscurecia seus rostos, mas achei ter visto o uniforme da minha escola."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Droga!\""
+  },
+  {
+    "message": "Eu corri para dentro do prédio."
+  },
+  {
+    "message": "Eu não fazia ideia do que eles estavam fazendo, mas precisava detê-los."
+  },
+  {
+    "message": "Apertei o botão, mas não havia sinal do elevador."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Por que está demorando tanto?!\""
+  },
+  {
+    "message": "Havia escadas do lado de fora?"
+  },
+  {
+    "message": "Saí correndo de volta para fora."
+  },
+  {
+    "message": "E o que eu vi...\n&"
+  },
+  {
+    "message": "Era difícil de acreditar."
+  },
+  {
+    "message": "Uma das silhuetas que lutava no telhado agora dançava pelo ar."
+  },
+  {
+    "message": "Caindo.\n&"
+  },
+  {
+    "message": "Alguém estava caindo do telhado."
+  },
+  {
+    "message": "Minha mente estava completamente em branco enquanto eu corria."
+  },
+  {
+    "message": "Espere, o que exatamente eu estava tentando fazer?\n&"
+  },
+  {
+    "message": "Eu vou tentar pegá-los?"
+  },
+  {
+    "message": "Tentar apanhar uma pessoa que está a cair de uma altura tão grande?\n&"
+  },
+  {
+    "message": "Não, isso é definitivamente impossível."
+  },
+  {
+    "message": "Mas eu sou bem forte."
+  },
+  {
+    "message": "Não, isso não tem nada a ver com isso.\n&"
+  },
+  {
+    "message": "Eu também morreria se tentasse pegá-los."
+  },
+  {
+    "message": "A lógica fria interrompeu todas as minhas racionalizações."
+  },
+  {
+    "message": "Afinal, por que eu estava analisando isso tanto?"
+  },
+  {
+    "message": "Na verdade..."
+  },
+  {
+    "message": "Por alguma razão, parecia que aquela pessoa que eu pensava estar caindo para a morte estava, na verdade, caindo bem devagar."
+  },
+  {
+    "message": "Provavelmente foi devido à descarga de adrenalina que as pessoas sentem em situações de vida ou morte."
+  },
+  {
+    "message": "Existe uma luz no fim do túnel?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oooaahhhhh!\""
+  },
+  {
+    "message": "Parecia que algo tinha sido esmagado. Um som mais alto do que se um tornado tivesse arrancado o telhado da casa de alguém ecoou pelo ar."
+  },
+  {
+    "message": "Ouvi um barulho tão alto que me convenceu de que o concreto sob meus pés certamente havia se partido em dois."
+  },
+  {
+    "message": "Ou pelo menos era o que eu pensava."
+  },
+  {
+    "message": "Não, tenho certeza de que foi isso que ouvi."
+  },
+  {
+    "message": "\"Boing.\""
+  },
+  {
+    "message": "Boing?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh?\""
+  },
+  {
+    "message": "Algo caiu na minha cabeça fazendo boing."
+  },
+  {
+    "message": "Depois, deslizou e caiu suavemente no chão."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh?\""
+  },
+  {
+    "message": "O que acabou de acontecer?"
+  },
+  {
+    "message": "O que é esse barulho?"
+  },
+  {
+    "message": "Eu peguei o objeto que havia caído."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uma boneca de pano...\""
+  },
+  {
+    "message": "O que há com esse cara? Não me olhe assim. Você é apenas uma boneca."
+  },
+  {
+    "message": "Está fazendo aquela coisa de tsundere?"
+  },
+  {
+    "message": "N-Não é como se eu estivesse procurando por você! Eu só estava de passagem, só isso!"
+  },
+  {
+    "message": "Esse tipo de coisa?"
+  },
+  {
+    "message": "Se assim fosse, esta seria minha resposta."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Eu estava prestes a arriscar minha vida por você! Pelo menos demonstre alguma gratidão!\""
+  },
+  {
+    "message": "Olhei para cima e..."
+  },
+  {
+    "message": "Boing."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Whoa!\""
+  },
+  {
+    "message": "Embora não tenha doído, não consegui evitar gritar quando algo bateu no meu rosto."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O que foi desta vez?\""
+  },
+  {
+    "message": "Eu peguei a coisa que caiu no meu rosto."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isso está começando a ficar um pouco assustador.\""
+  },
+  {
+    "message": "Corri para cá para salvá-los, preparado para morrer."
+  },
+  {
+    "message": "No entanto, essas bonecas apenas me olhavam sem expressão, como se estivessem dizendo: \"Eu só senti vontade de cair. Tem algum problema com isso??\""
+  },
+  {
+    "message": "Mmmm..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Que diabos? Por que há bonecas caindo do céu?\""
+  },
+  {
+    "message": "Não há muitos motivos para começar a chover bonecas de pelúcia."
+  },
+  {
+    "message": "Talvez uma garota com uma pedra de levitação?"
+  },
+  {
+    "message": "Embora, se fosse a Lum-chan... Bem, hoje em dia seria mais como Hani Hani. Não, isso também é bastante antigo."
+  },
+  {
+    "message": "Hoje em dia seria a série SoraOto, certo? Não, isso também ficará desatualizado em breve. Então, como devo descrevê-lo?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Não, essa não é a questão aqui.\""
+  },
+  {
+    "message": "Olhei para cima novamente."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Entendo.\""
+  },
+  {
+    "message": "Havia uma silhueta escura se movendo na beira do telhado do prédio."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O que eles estão fazendo?\""
+  },
+  {
+    "message": "Quando a silhueta escura olhou para baixo do telhado, percebeu minha presença e recuou surpresa."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Considero isso uma brincadeira.\""
+  },
+  {
+    "message": "Por enquanto, segurei os bonecos de pelúcia acima da cabeça, como se dissesse:, \"Você deixou cair isto.\""
+  },
+  {
+    "message": "A silhueta continuava olhando para mim."
+  },
+  {
+    "message": "Então, a figura pareceu dar um passo à frente."
+  },
+  {
+    "message": "Sem pensar, eu..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Aahh!\""
+  },
+  {
+    "message": "Por alguma razão, gritei e acenei para que ela voltasse."
+  },
+  {
+    "message": "Meus gritos pararam…"
+  },
+  {
+    "message": "E um silêncio constrangedor se instalou. Era como se o mundo tivesse parado por um momento."
+  },
+  {
+    "message": "A silhueta desapareceu de vista, voltando para o telhado."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa... Então não foi suicídio, afinal.\""
+  },
+  {
+    "message": "Fiquei um pouco em choque. Por um segundo, pensei mesmo que alguém tivesse saltado do prédio."
+  },
+  {
+    "message": "Cara, que saco."
+  },
+  {
+    "message": "Subi as escadas para devolver os bonecos de pelúcia. Também queria dar uma bronca nela enquanto estava lá."
+  },
+  {
+    "message": "Emoldurada pela luz do sol do entardecer, sua silhueta era realmente linda."
+  },
+  {
+    "message": "Seu cabelo comprido balançava lentamente com a brisa suave que soprava sobre o telhado. Ela parecia ter perdido qualquer conexão com o nosso plano terreno."
+  },
+  {
+    "message": "\"Sinto muito.\""
+  },
+  {
+    "message": "Eu ia reclamar, mas a primeira coisa que saiu da boca dela foi um pedido de desculpas."
+  },
+  {
+    "message": "Ela acabou com meu ímpeto desde o início. Eu estava realmente disposto a dar o troco nela."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Em vez de pedir desculpas depois do ocorrido, talvez você não devesse ter feito uma brincadeira dessas para começar.\""
+  },
+  {
+    "message": "\"Brincadeira?\""
+  },
+  {
+    "message": "Parecia que ela discordava da minha escolha de palavras."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hã? Não foi uma brincadeira?\""
+  },
+  {
+    "message": "\"Não, mas parece que te envolvi nisso. Sinto muito.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Envolvido?\""
+  },
+  {
+    "message": "\"Você é Minakami Yuki-san, certo?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, sim. Então você é aluno da Escola Secundária Kita, como eu imaginava\""
+  },
+  {
+    "message": "Era definitivamente o uniforme da Escola Secundária Kita que ela estava usando."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Quem é você?\""
+  },
+  {
+    "name": "\"I'm Takashima Zakuro, from the class next to yours.\"",
+    "message": "Zakuro"
+  },
+  {
+    "message": "\"Eu sou Takashima Zakuro,"
+  },
+  {
+    "name": "Zakuro",
+    "message": " da sala ao lado da sua.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Da sala ao lado da minha?\""
+  },
+  {
+    "message": "Pensando bem, talvez tenha existido uma garota assim."
+  },
+  {
+    "message": "Como regra geral, nem me lembro dos nomes das meninas da minha turma, quanto mais da turma ao lado da minha."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ahaha."
+  },
+  {
+    "message": " Então você não se lembra de mim?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahaha. Desculpa.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Bem... Por alguma razão,"
+  },
+  {
+    "message": " Eu meio que sabia que você não sabia.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Você meio que sabia disso?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh."
+  },
+  {
+    "message": " Não, desculpe. Quando minha boneca de pelúcia caiu e bateu em você, eu meio que tive essa sensação.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Hum... Então, resumindo..."
+  },
+  {
+    "message": "Assim que a boneca de pelúcia colidiu comigo, essa menina percebeu que eu na verdade não a conhecia."
+  },
+  {
+    "message": "Ou algo parecido."
+  },
+  {
+    "message": "Uh-huh."
+  },
+  {
+    "message": "Não estou entendendo nada!"
+  },
+  {
+    "message": "O que há com ela? Ela é do tipo \"garota misteriosa\"?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehe. Desculpe. Parece que o confundi.\""
+  },
+  {
+    "message": "Você acertou em cheio."
+  },
+  {
+    "message": "Por enquanto, apenas segurei as duas bonecas que havia pegado."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Parece que não foram aceitos.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Aceitos?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Achei que eles seriam aceitos, mas parece que não foi o caso.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"E ainda por cima, eu te envolvi nisso. Que resultado terrível.\""
+  },
+  {
+    "message": "Não, para dizer a verdade, o resultado foi bom. Sua explicação, por outro lado, foi horrível, se você quer minha opinião sincera."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Então, o que foi? Se não foi uma brincadeira, foi algum tipo de feitiço?\""
+  },
+  {
+    "message": "Ela estava falando sobre coisas como aceitação, então talvez fosse um conto de fadas ou algo assim."
+  },
+  {
+    "message": "Talvez houvesse uma história que dizia que, se você jogasse uma boneca de pelúcia de um prédio à noite, seu desejo seria realizado?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Feitiço? Ahahaha, acertou. É exatamente isso\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, entendo. É um feitiço de amor?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Por alguma razão, seu rosto ficou vermelho."
+  },
+  {
+    "message": "Por que ela corou?"
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hum, Minakami-san, por que você estava acenando com os braços há pouco?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Quando olhei para baixo do telhado, você acenou, certo?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah, bem, só pensei que talvez estivesse procurando seu boneco de pelúcia. E fiquei com um pouco de medo de que pudesse pular.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Pular...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Bem, como posso dizer isso? Tenho certeza de que estava apenas imaginando coisas, mas parecia que o vento estava prestes a te derrubar.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Então você estava abrindo os braços como se fosse 'Não pule!' ou 'Não desça!'?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Bem, talvez. Foi principalmente por instinto.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Instinto, não é?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hehe.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Heh... Hahaha... Hahahahahahaha.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Desculpe. Por alguma razão, há um ar que continua saindo dos meus pulmões!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O ar está saindo dos seus pulmões, não é? Normalmente chamamos isso de risada.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Hahahaha. É verdade. Por alguma razão, não consegui parar de rir. Desculpe.\""
+  },
+  {
+    "message": "Havia lágrimas escorrendo dos cantos dos olhos dela, como se achasse engraçado que alguém instintivamente tentasse salvá-la."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, certo.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm? O quê?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, nada. Só estou enviando uma mensagem de texto.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Uma mensagem de texto?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sim. Um texto comemorativo.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um texto comemorativo... Para quem você está enviando?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Vamos ver. Bem, tenho 158 pessoas no meu telefone, portanto 158 pessoas.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Que tipo de mensagem?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Não, hum..."
+  },
+  {
+    "message": " Por favor, não olhe. Você ficaria bastante desanimada.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Desanimada?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Ah, é só que..."
+  },
+  {
+    "message": " Pensei em fazer a primeira e a última brincadeira.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"TA primeira e última brincadeira?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Sim. A primeira e última brincadeira.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Achei que não haveria problema em fazer uma brincadeira dessas.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Certo...\""
+  },
+  {
+    "message": "O sorriso de Zakuro parecia um pouco assustador quando ela disse isso."
+  },
+  {
+    "message": "Ela parecia um pouco pálida."
+  },
+  {
+    "message": "Ela me lembrava uma bruxa lançando uma maldição."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"12 de julho de 2012. 22h44. Oh, já é essa hora?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Mas aqui ainda está anoitecendo.\""
+  },
+  {
+    "message": " "
+  }
+]

@@ -1,0 +1,1412 @@
+[
+  {
+    "message": "How long has it been since Tomo Nii-san disappeared?"
+  },
+  {
+    "message": "The last time I saw him was the day before yesterday."
+  },
+  {
+    "message": "I should've been more selfish back then."
+  },
+  {
+    "message": "Every time he leaves, I never know if I'll ever see him again."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Haa...\""
+  },
+  {
+    "message": "I came to Kita High again."
+  },
+  {
+    "message": "I was hoping to meet Tomo Nii-san again."
+  },
+  {
+    "message": "But the Nii-san I saw at school was Takuji Nii-san, and then later there was a Yuki-san that I didn't know."
+  },
+  {
+    "message": "They all look the same, but they're different people."
+  },
+  {
+    "message": "I've heard that humans are creatures of habit."
+  },
+  {
+    "message": "Whether it's good or bad, if it happens every day, it just becomes normal."
+  },
+  {
+    "message": "Maybe that's why, even if I didn't have any reason..."
+  },
+  {
+    "message": "I had a feeling that someday he would go back to normal."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ahahaha... There's no guarantee of that.\""
+  },
+  {
+    "message": "Sometimes I even thought he could stay with me forever."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm not a student here, so he told me not to come to school too much.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Well, here goes...\""
+  },
+  {
+    "message": "If I do something Tomo Nii-san told me not to, maybe I'll be able to see him..."
+  },
+  {
+    "message": "Maybe it's silly of me to think that."
+  },
+  {
+    "message": "Yuki-san bought lunch at the store, so I didn't have anything to deliver."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I don't have any real reason to be here... What am I doing?\""
+  },
+  {
+    "message": "I hugged my rabbit."
+  },
+  {
+    "message": "Its head slumped to the side when I squeezed it."
+  },
+  {
+    "message": "This doll was larger than I was when I got it from Nii-san, but now it's so small."
+  },
+  {
+    "message": "So... sometimes I feel like I'm still as small as I was when I got it."
+  },
+  {
+    "message": "I feel like I'm just one of the rabbit's dreams. Like the life I'm living now is just a dream I had when I was a child."
+  },
+  {
+    "message": "Even I know that's just one of my delusions, though."
+  },
+  {
+    "message": "But knowledge and emotion don't always agree."
+  },
+  {
+    "message": "With its inclined head, the rabbit looked like it was asking me a question."
+  },
+  {
+    "message": "But I couldn't hear its voice."
+  },
+  {
+    "message": "Even though it always listened to me."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "What? Is someone there?"
+  },
+  {
+    "message": "It was just a quiet sound."
+  },
+  {
+    "message": "It was almost inaudible. It was more like a disturbance in the air."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who... are you?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, uh... Well, uh...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's a big camera.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, uh... I'm a landscape photographer...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh, is that so?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Um... Well then...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ha!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Aaaahh!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You were taking pictures, weren't you?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ow, ow! You're a martial artist too?! What kind of siblings are you?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Me too? What does that mean?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ow, ow! You're gonna break it!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Were you... taking pictures of Tomo Nii-san?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Tomo Nii-san?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh, uh... I mean Takuji Nii-san.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"A-Ahaha... Why would you think I was taking pictures of your brother?"
+  },
+  {
+    "message": " Aaaah, ow, ow!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You know, I heard you mention siblings. I'm not gonna let you go now.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"E-Eek... Sorry, uh... could you loosen your grip a little?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No. You're following Nii-san around, aren't you? Maybe I should break one of your arms just to be safe?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Wait, you're scaring me!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why are you following Nii-san?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Uh, well, I'm a landscape photographer, so..."
+  },
+  {
+    "message": " Gyaawawa, ow, oww!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If I push a few more centimeters, I'm sure you know what'll happen to your arm.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Y-You're a lot scarier than you look. You really are Takuji-kun's sister.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You can stop wasting your breath. Tell me why you're following Nii-san.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"U-Um! At first I was investigating the drug problem in today's youth.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Drug problem?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, lots of college students grow pot nowadays. My client wanted me to gather material about that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What does that have to do with my brother?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well... he's famous around here. His name came up a lot when I was investigating around here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why would his name come up?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"He extorts people and takes their drugs. All the drug dealers around here have noticed him.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "Even the yakuza have their hands in drugs, you know? And they're being targeted by some random guy off the street.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What did he do?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Like I said, he takes drugs away from people.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? So he's doing drugs?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ahaha... At first, that's what I thought too. I was sure he was a junkie that needed to feed his habit.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But after a while I noticed... it was way more than any one person could ever use. I thought maybe he was selling it.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"So I tailed him for a while. It would've made a great article if I had found him stealing drugs from other people and reselling them.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So... was he?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I was way off the mark. He wasn't selling it at all. He threw them all away.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah... Why does he do that? It's so dangerous, and there's no real reason for him to do it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"So I investigated, and I found out about Mamiya Takuji's past.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"And I found a lot of interesting stuff. The White Lotus Association... Your mother was involved with them, right?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So you investigated all that too.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah. I was reading old news articles about the White Lotus Association, and it said your mother was involved with the cult founder.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You're missing the most important part.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"W-Wait! Why do you two both act the same way?! I'm a pacifist! Stop!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"We're siblings. We have to protect each other... So I have to eliminate problems before they come up.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No, no, wait. I don't think it's that simple.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, the way you're saying it, it sounds like everyone in the world is either trying to help or hurt you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I wouldn't say that.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"So let's just calm down. I know this camera makes me look suspicious, but does that mean I'm trying to hurt you? Does that make me an enemy?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I definitely can't think of you as an ally.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Gyaaa... I-I told you, you can't just divide the world into enemies and allies.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What are you trying to say?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"There are lots of strange things happening in this school, and you're brother is at the center of it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What? In the school?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, that's right. You didn't know? In the past few days, two students from this school have died.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Two students... have died?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah. In that short time period, there have been two deaths.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The first was Shiroyama Tsubasa. He was a third-year student. I saw him buying and selling drugs a few times during my investigation. He liked going out at night and hanging out at clubs, too.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What happened to him?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"He died. It was five days ago, I think. He probably had an accident while he was on drugs. He fell from the school roof.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who was the other?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Takashima Zakuro.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? T-Takashima Zakuro...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, she was a girl your brother knew. They were seen together several times in the days before she died.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"How did she die? An accident?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No. Didn't you see it on the news?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I don't watch TV much.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It was pretty sensational, so it got a lot of air time. Takashima and two girls from other schools jumped off an apartment building near Suginomiya station.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Two girls from another school? Does that mean it was a suicide?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Who knows? There hasn't been an official announcement yet, but it definitely looks like a suicide. They're saying on TV that they probably met online and formed a suicide pact.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"They met online?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, well, they weren't friends before they committed suicide. It's just an inference.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But I couldn't find any posts they made on any sites about suicide.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I don't think it was a suicide pact...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Then what do you think it was?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I'm not the only one. Some people online have noticed the same thing. Their deaths weren't just a bunch of people meeting up and committing suicide.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Some people online?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah. We don't have any proof, but there are a lot of people sleuthing around.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Sleuthing?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, people on the Internet have a lot of free time, and there are a bunch of people trying to figure out what happened.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But they're at a dead end. There's one thing they can't investigate.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What's that?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"There's a lot of speculation surrounding this one site...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The school's underground message board.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Underground message board?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah... Well, technically it just means a message board that's not recognized by the school.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Everyone's talking about it, but only people with an account can see the message board.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Um, I don't know much about the Internet, so I'm not sure what you mean.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"You have to get approved by the administrator just to see the message board, and the administrator is pretty strict about who can make an account.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It's hard for an outsider to see the site at all, and anyone who looks suspicious can get banned in a second.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Sometimes people get in, and they copy-paste threads onto other forums, or post screenshots.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um, I don't know what those words mean...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, sorry, that's just net slang. Anyway, a lot of people on the Internet are paying attention. This could turn into a major incident.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"A major incident?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, Kita High's Shiroyama Tsubasa... and then Takashima Zakuro, Tsukigawa Usami from Ebisugawa High, and Mizuo Ayumi from Seinogawa Girls' all died, and some people think this might just be the beginning.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The beginning? You mean...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"And your brother is at the center of it all.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Do you know about the prophecy that's supposed to be fulfilled this year?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The world's final day will come... and everything will return to the sky...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Apparently, the date carved in Mayan ruins corresponded to the year 2012. Though that's supposed to be in December.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But several people predicted the world would end on July 20th.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"One of those people was the founder of the White Lotus Association.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But the founder retracted his statement. He said he had caused a miracle and avoided the disaster.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hehehe... You know all about this, huh? The founder of the White Lotus Association has retracted his statement, but that was seven years ago.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"There are still people who believe in the prophecy.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...What are you trying to say?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Your mother... Or should I say, your former mother? I heard she got divorced. Her maiden name was Sanami, I believe.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She didn't get divorced! Our father died! Her name is still Mamiya Kotomi!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, is it now?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But... your mother still believes. There's another site on the Internet that's been getting a lot of attention.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The website my mother made, right?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yes, the predictions of the Web Bot Project. It still says that the world will end on July 20th, 2012.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The White Lotus Association denies the prophecy, but she still believes the world is going to end.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Haa... You sure did do a good job finding all that out.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ow, ow!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"W-Wait. Even if you beat me up, someone else will find out the truth soon.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It's not just people online. There are other journalists asking around.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"If anything else happens, the police will probably start investigating too.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The mistress of the White Lotus Association's founder is running the Web Bot Project!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"And her son, Mamiya Takuji, is likely at the center of the latest incidents.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Gah...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Jeez, the mass media sure is garbage...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Master...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Don't worry, I didn't kill him. I just put him to sleep. Let's bring him back to the shop, instead of talking here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"S-Sure...\""
+  },
+  {
+    "message": "Master picked up the self-proclaimed journalist and carried him on his back."
+  },
+  {
+    "name": "Master",
+    "message": "\"So... who is this?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"He's a journalist, apparently.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"A journalist, huh? Well, what should we do with him?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You're always sexually harassing Tomo Nii-san, so why don't you fulfill your urges with this guy?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? Huh?! Wait, what do you mean by that?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Exactly what I said.\""
+  },
+  {
+    "message": "Master woke him up once we got to the store. It's amazing how he's always perfectly in control of the situation."
+  },
+  {
+    "name": "Master",
+    "message": "\"Hmm... He's not really my type, but..."
+  },
+  {
+    "message": " I do like virgin boys...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No, wait, I'm not a virgin... Though I've only done it with prostitutes.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Ahahaha... What are you talking about?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ahaha, y-yeah, that's ridiculous.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I was talking about your anal virginity. I love showing little straight boys how to walk on the wild side.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Whoa, w-wait! They stuck their fingers in my ass, so I'm not a virgin there either!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Ahahaha, a girl's fingers can't take away your virginity. You have to get a real man to stick something nice and juicy up there.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"E-Eeeek!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um... Th-That's really nasty.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, sorry about that..."
+  },
+  {
+    "message": " So you're a jouranlist, Kimura-san?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? H-How do you know my name?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Not just that. I know your address and your phone number too. I searched all your stuff.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"N-No way...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Not like I really care, but why the heck are you toting around this huge camera? You must stand out with this thing.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ah, don't touch that. I just got it fixed!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Hmm... So, back to our conversation earlier.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"You said there were lots of people talking about the incidents at Kita High.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well yeah, a lot of crazy stuff went down.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Crazy stuff, huh...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"He said two people that Nii-san knew have died.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"And... Mom's site...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I thought that site hadn't been updated in ages?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, she's just been sitting in front of the computer every day since then. I don't think the site has been updated.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"How long has it been? There are lots of rumors going around that the site hasn't been updated for a while.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Why are there rumors about that?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, the site looks like it's operating automatically, and apparently the predictions actually come true...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No... I wonder... I think it uses a program...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What? So it uses a program to predict the future?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I wouldn't really say it predicts the future...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Does that mean a program is writing those predictions?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Well... According to Yuki-san, it takes trending keywords on the Internet and uses those to write the predictions.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? What do you mean?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's writing predictions for things that already happened.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What good is that?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's in beta right now. All it can do right now is take popular keywords and post them as predictions.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"How can you call that a prediction?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Um... From what I've heard, the time required to post the predictions will grow shorter and shorter, and ultimately it will be able to post the predictions before anyone else on the Internet mentions it.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's ridiculous.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Really? At first it took several days to post a prediction, but now it can post them within seconds.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's why she said it would overtake the future soon.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It won't, though...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Don't you think it's pretty impressive, though?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, Yuki-san spent a lot of time on it when she was bored. Apparently, it's really close to overtaking the future.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I told you, that's not the problem here...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I started researching the Web Bot Project on the Internet, and it's supposed to be way more than just that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, Yuki-san said something like that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She said occult stuff like the Web Bot Project was impossible.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She said it wasn't a problem of just improving the system, but that the theory itself is flawed... That's why she said it was just a superstition.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Haa... That sure sounds like Yuki, all right...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"She says it's impossible, but she was still too curious to pass up a chance to play around with it.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"So that means Yuki is part of the problem here...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ahaha... I guess so. Maybe we should delete the page.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"No, I don't think you should. If you do, the only thing left behind will be the rumors about its predictions coming true.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"If it's just making predictions after the fact, people will figure it out eventually.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I guess so... If we delete it, we won't have any proof that it's fake.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"On the Internet, it just takes one piece of decisive evidence to prove something true or false, but...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"If there's no way to prove it either way, people will speculate about it for years.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Of course, most people on the Internet are just curious. It's not like they actually believe in prophecies, but still...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The Web Bot Project website hasn't changed at all in the past few days.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Rather, the rumors on the Internet right now are all about the Web Bot Project's past predictions. If the system's predictions are what people are talking about on the Internet, then...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"There's no need to make a new prediction.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Though that'll change once something new crops up.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Putting that aside, what do you mean by occult? I don't really know anything about that stuff...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Well, that's...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? N-No way... B-But...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What? You must've made some crap up, old man... The occult isn't the kind of thing that would make a girl blush!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Jeez, how can you tell? Maybe I should fix that dumb mouth of yours for good...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Oh, no, don't mind me. Ahahaha.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Either way, Yuki-san said that the system can't make a prediction right now.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But still, I'm really amazed that no one's figured it out... Though I have to say, I'm kinda skeptical that it could make those predictions in just a few seconds.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"So what kind of rumors have there been about Kita High lately?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"The Web Bot Project has designated July 20th of this year as the date of a tragedy. It said those girls committed suicide in order to escape the disaster.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"They committed suicide in order to escape?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"If they were so afraid of dying, why would they commit suicide?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Don't ask me. I just heard that those girls claimed the world would end on July 20th just before they committed suicide.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh... So she...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Did you know the girl who committed suicide, Hasaki-chan?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh, no. I wouldn't say that. I just met her once when I was with Tomo Nii-san and Yuki-san...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"You keep mentioning him, but who is Tomo Nii-san?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Shut up, would you? You're not in a position to be asking questions.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I thought Takuji-kun was your only brother...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Takuji Nii-san isn't my only brother...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What do you mean?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I told you to shut up...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Agh!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So are they talking about my brother on the Internet too?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hmm... Well, no one's mentioned him by name, but there are definitely rumors that something big is gonna happen at Kita High.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"They say the ringleader is a male student from Kita High, but no outsiders have access to the underground message board, which is the epicenter of all the rumors.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So that's... Takuji Nii-san...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"How much do they know about him?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I'm not sure, but I realized it, so other people with good intuition might've noticed him too.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Is it true that people on the Internet can track down your address if they know your real name?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I guess so? I couldn't say for sure, but it's certainly possible that they could find his address and phone number.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Do you think we're fine for now?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Right now... Well, people are just trying to gather information without causing a fuss... But depending on what they find out, you might start getting unsolicited calls.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Calls? You mean from people we don't know?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yeah, they do that on the Internet sometimes. They call businesses or famous people and post the conversations online."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What for?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, I guess some of them do it to get information, but most people just do it as a form of harassment.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"You mean like when someone calls and immediately hangs up?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, it's a bit different from that old prank. Usually, they record the call so they can post it online.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Huh... They must have a lot of free time.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Most people do it to kill time, after all.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"They harass people just to kill time? There are an awful lot of terrible people in this country nowadays.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, there are laws against public indignation and the sort...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But we don't have a phone at our house. All we have is an Internet connection.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I think it's more common to call someone's school or work than their home.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"So they could do it any time, couldn't they? They already know that he goes to Kita High, don't they?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Like I said, people just seem to be investigating right now.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"So it's just a matter of time until they find out where the Mamiya house is...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Probably.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I see..."
+  },
+  {
+    "message": " Okay, Hasaki-chan.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yes?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"From now on, you're staying here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? B-But...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Write down everything you need.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That might be a good idea. It might get a little noisy over at your house.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Yeah, so make this Kimura guy run and get whatever you need from the house.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Me?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's right. I guess you don't have to... if you don't care about your camera.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"That's my beautiful fighting Nikon D3 Camera!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, this camera can fight? Maybe I should use it as a weapon next time I get a chance.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Wait, that's my heart and soul!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Then I'll tear your heart out. You know, they used to call my fist the 10cm Bomb...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"What?! Are you some kind of mercenary boxer?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Maybe I was Youhei?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Uh, wait, no one but old men are going to get that joke. Really, that wasn't funny at all.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I'm not an old man! I'm an old woman!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Gughah!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Th-That's what you're mad about?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"And that last part was a parody of Dr. Narihara.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Y-You're crazy... Jeez...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Eek! I-I'm here...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"What took so long?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"There was too much stuff. Are you moving in or what?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Of course there's a lot. She's a girl, so she has to have her necessities.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But why does she need the entire dresser?!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's a dumb question! We can't let you touch her underwear, now can we?!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Haa... So that's why.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Of course!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ahaha... Sorry...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"The room upstairs is free.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, it's not. There's only your room up there.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I told you, you can have that room.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What about you?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I'll go sleep with my boyfriend.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ahaha... It's kinda nasty hearing you say that.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Gughah!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Um, Master... If you don't mind, I'd like to sleep in the store.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"No way. I can't let a girl sleep in a place like this.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Really? I could sleep on the sofa in the back.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"What are you talking about? You'll be sore and tired when you wake up.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, I won't. It's plenty big enough for me, so I won't notice at all, and besides...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If Tomo Nii-san or the old Yuki-san comes in, I want to be the first one to meet them.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Hasaki-chan...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Really, I would rather stay at home, but to be honest, it's really hard to watch Yuki-san when she treats me like that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So I really have to thank you for letting me stay here.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"What? You could've asked any time.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Sorry... but I didn't want to be selfish.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Silly girl.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "Master gently embraced me."
+  },
+  {
+    "name": "Master",
+    "message": "\"You're the girl she gave her life to protect, so you're my daughter...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"And Tomosane is my son. Even now, she's protecting you both. I'm sure of that.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"The doctor might disagree... Maybe most people would disagree...\""
+  },
+  {
+    "name": "Master",
+    "message": "\"But... I believe. She protected you before, and now she's protecting Tomosane.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"From all the curses... From all the ghosts...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yes.\""
+  },
+  {
+    "message": "I hugged Master back."
+  },
+  {
+    "message": "Our father died, and our mother ended up like that... Ever since, it's been Master Minakami who's been looking out for me and my brother."
+  },
+  {
+    "message": "Maybe he's been spoiling me."
+  },
+  {
+    "message": "I cried into Master's chest."
+  },
+  {
+    "message": "I don't know why. I just needed to cry."
+  }
+]

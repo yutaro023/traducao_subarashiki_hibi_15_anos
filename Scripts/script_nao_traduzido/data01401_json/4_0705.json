@@ -1,0 +1,2527 @@
+[
+  {
+    "message": "Familiar music... but with a slightly different style than my own."
+  },
+  {
+    "message": "The same song can sound completely different depending on who's playing it... Well, it might sound the same to everyone else."
+  },
+  {
+    "message": "Yuki..."
+  },
+  {
+    "message": "The usual place... The usual piano... But the person playing was Yuki."
+  },
+  {
+    "message": "When I woke up, Yuki was sitting right next to me."
+  },
+  {
+    "message": "Yuki played with her eyes closed, but she had a smirk on her face, like she knew I was there."
+  },
+  {
+    "message": "I didn't think I was working today, though. Why is Yuki playing the piano here?"
+  },
+  {
+    "message": "I looked around the room."
+  },
+  {
+    "message": "The same faggots as usual were here."
+  },
+  {
+    "message": "I always have to wonder... It's not like this is a gay bar or anything."
+  },
+  {
+    "message": "It's just supposed to be a normal bar. These guys probably all come here because Master has no morals."
+  },
+  {
+    "message": "...Huh?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "That's... Takashima Zakuro..."
+  },
+  {
+    "message": "Why's she here?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm here on a date. With her.\""
+  },
+  {
+    "message": "Yuki spoke only to me, with her eyes still closed."
+  },
+  {
+    "message": "Naturally, her mouth didn't actually move."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What do you mean, a date?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, it was just a coincidence. I saw her on the train.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"On the train, huh...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What were you thinking? You're both girls, aren't you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But I look like a guy, don't I?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Still...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're in a bad mood, huh? What, are you jealous?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why would I be jealous of you?\""
+  },
+  {
+    "message": "Yuki smiled and played the piano."
+  },
+  {
+    "message": "There was a certain lilt in the music that wasn't there before."
+  },
+  {
+    "message": "To the rest of them, it must have looked like she was just playing silently, but in reality she always talks a lot while she's playing."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I haven't played this piano in quite a while.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You asked them to tune it, right? How is it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It feels really good. But it's been more than a month since I asked Master to get it tuned.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"They only finished tuning it earlier this week...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's a bit shady, but at least it still sounds good now since he only got it done last week.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah... Pretty good timing there.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...Well, I wouldn't say that.\""
+  },
+  {
+    "message": "The performance ended."
+  },
+  {
+    "message": "Apparently Takashima Zakuro was really impressed by Yuki's playing... Listening to her praise, I could tell that the girl wasn't the kind of person I would get along with."
+  },
+  {
+    "message": "She wouldn't really like me... though she probably wouldn't come near if I was the personality in control."
+  },
+  {
+    "message": "I watched Yuki and Takashima talk as I thought about that."
+  },
+  {
+    "message": "Yuki got along with Takashima really well. Really, Yuki gets along well with anyone."
+  },
+  {
+    "message": "She's completely different from me and Mamiya Takuji."
+  },
+  {
+    "message": "If I had the kind of social skills she does..."
+  },
+  {
+    "message": "I can't even imagine it."
+  },
+  {
+    "message": "Yuki is really something."
+  },
+  {
+    "message": "It's just such a pain in the ass talking to people..."
+  },
+  {
+    "message": "I don't want to get involved with people if I don't have to. I don't want to talk to them, and I don't even want to go anywhere near them."
+  },
+  {
+    "message": "Especially not women. I can't stand people who can just cry at the drop of a hat, like it's a normal thing that people do all the time."
+  },
+  {
+    "message": "I never know how I'm supposed to talk to them."
+  },
+  {
+    "message": "Men are easier, since I can just hit them and then they stop bothering me."
+  },
+  {
+    "message": "Women are just a pain in the ass..."
+  },
+  {
+    "message": "In other words, what really suits me is just being alone."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I hate people too, you know?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...Huh?\""
+  },
+  {
+    "message": "I was only thinking that to myself, so even Yuki shouldn't have been able to hear it."
+  },
+  {
+    "message": "I was just thinking to myself, and yet―"
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...How did you know what I was thinking?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I just had a feeling... but it sounds like I guessed right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah... It was like you were replying to my inner thoughts.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh really... Lately, it feels like I've been able to hear your thoughts sometimes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Though anyone watching would say that even this conversation is only in our thoughts.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, no one else can hear us right now. We can talk privately, just between the two of us.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The brain is a mysterious organ.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I wouldn't call it mysterious. I'd just call it a piece of shit. That's what I always say...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Anyway, like I said, you always say you hate people, but it's not like I enjoy their company either.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're not very convincing.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why not? I like to be alone, too. I'm really good at being alone.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How can you be good at being alone?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What? Did you imagine something perverted?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't worry, I didn't think anything like that at all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's your problem? You can fantasize about me if you want.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why would I fantasize about you? That's ridiculous...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then who do you fantasize about?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't fantasize about anyone. Shut up.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, you don't have a good imagination so you prefer to watch porn? You don't really have many porno mags, though..."
+  },
+  {
+    "message": " Oh! I get it! You only like 2D girls!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you don't have any ero manga either... Maybe you have a stash of porn on the computer?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're getting on my nerves. Are you going to keep spouting nonsense until I pop your bubble?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you do jerk off, don't you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Liar. If a healthy boy didn't jerk off, the semen would start coming out in his sweat.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, it wouldn't... What the hell do you think a healthy boy is, anyway?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Good boys are made of 50% kindness and 50% semen.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why, you... You're insulting all the boys in the country, you know?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, I'm complimenting them. I said 50% is made up of their innate kindness.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And the other half is pure semen.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isn't that about right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not right at all! It would be terrifying if that was true!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"L-Like I said, boys are scary!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's dumb! Don't act scared about something stupid like that!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... All right, so if that's true, then there's semen coming out when you sweat, too. We do share the same body, you know?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No way! That's awful! I'll get pregnant with your child!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, wait... That's impossible for a lot of reasons.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But your semen is mixed in with my sweat, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'll kill you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, you wanna take a shot at me for old times' sake? No cheap shots!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Whoa, what's your problem? Why are you trying to fight me? And besides, there's no semen in my sweat!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, right...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, I am right! You can't even keep a straight face when you say that shit.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you're not jerking off at all, right? Then there's gotta be semen in your sweat. By this point, it's probably pure semen.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why, you... All right, look here. This conversation is over. Drop it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then we can agree. You're sweating buckets of cum!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, right!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You admitted it!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No! I'm not admitting it, I just don't want to talk about it! Besides, even if there was semen in my sweat, how the hell would you get pregnant from it?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't make me spell it out for you. I'm a sensitive girl, you know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Did your brain leak out of your ears?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Can't you be a bit more sensitive when you're talking to girls? You shouldn't tell a girl she has no brains.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't even know where to start with that. You're the one who was saying semen over and over, so I don't know why you expect me to be sensitive!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But don't I look like an innocent girl? I'm so cute, you know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Not even a little.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes, I am. Are you stupid?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It's kind of rude to disregard someone's opinion and then top it off by calling them stupid.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Okay, let's get back to our serious conversation. Do you not have any interest in women?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This conversation wasn't serious for even one second... You're just making lewd jokes.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh come on, don't young guys like you get horny sometimes?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You have ED at your age?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not what I mean!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then what did you mean?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... You know, Mamiya Takuji probably loves doing stuff like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Mamiya Takuji... does?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. That thing people do when they're alone...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"O-Oh, okay... Mamiya Takuji, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Doesn't he do that several times a day? That's probably why I don't feel any lust.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh... So I don't have to worry about getting pregnant. Good to know.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That was impossible to begin with.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It was?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why do you sound so surprised?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Okay, let's start from the beginning. You share the same body as the two of us.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Share the same body... That's kind of erotic. I might be getting a little wet.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're not.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm. I think I understand. So you don't feel lust very often...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, that's right.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So that's why you never got turned on by your cute older sister.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Neither me nor Hasaki... If you were a normal guy we could do some rape roleplay or something.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Shit... I forgot about Takashima-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You were on a date with her, right?\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"S-Sorry... I must be boring you, huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, n-not at all... S-Sorry, I was just having a mental meeting.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"A mental meeting?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Don't you do that? I was just talking to the different mes in my head. You know, like, what should we have for dinner and stuff like that.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh, I understand. I do that too.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahaha. Plenty of people have mental meetings.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Yes. When I was going home earlier, I was thinking about this.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Conductor Takashima! We've been running on empty since lunchtime! We will need to stop for refueling soon! McDonalds spotted at two o'clock! Pilot Takashima taking a 90 degree right turn in 200 meters!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"We've infiltrated the store! All right, Loader Takashima! Load coins into the cannon! Ready, aim... Cannoneer Takashima! Now's your chance! Fire 100 yen! Bang!\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"You acquired one milkshake!"
+  },
+  {
+    "message": " Something like that, ahahahahaha!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahahaha... L-Like that, huh?\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "What on earth? And Yuki talks about me like we're having some kind of \"mental meeting\"?"
+  },
+  {
+    "message": "Jeez..."
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"So what was that meeting about?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Boys are made of kindness and semen... wasn't it?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like I can say that!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But it's the truth.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Um, I was just thinking, uh... there are two equal but opposite forces inside every man's heart.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Equal but opposite forces?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. Boys have two opposing forces within them.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"What are those?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The first is... lust.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Lust?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. Lust for various things. The desire to make things your own. For instance, the girl they like.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Oh... Uh...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Half of a man's heart is constantly awash with that lust.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"U-Um, y-you think so? Then... what's the other half?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"The other half... is kindness.\""
+  },
+  {
+    "name": "Zakuro",
+    "message": "\"Kindness?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes. They're always careful that they don't hurt the person they love with their lust. Boys are made of just such a kindness.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How about that?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So what?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wasn't that pretty good? I didn't tell a lie! I'm pretty quick on my feet!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't know about that... Well, whatever. Look at her.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She's bright red.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, you're right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She got bright red when you said that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh shit! She realized that was all sexual harassment?! What should I do, Tomosane? She saw right through me!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, I don't think she did...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then why is she blushing?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... It's not like she actually thinks you meant to say that boys are made up of semen and kindness.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? But the meaning is the same.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then maybe you were sexually harassing her.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh... I guess I was...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's a good point. I guess I'll have to give my title as the wittiest guy around to you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't want it! And when did you get the title in the first place?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Way before you were born!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why, you... Now I'm sure your brain is leaking out your ears.\""
+  },
+  {
+    "message": "Yuki kept up a conversation with both me and Takashima in that vein."
+  },
+  {
+    "message": "She really is a talented girl."
+  },
+  {
+    "name": "Master",
+    "message": "\"All right... Time to close up shop.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... Why are you making me work until close?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, what's up with that?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"J-Jeez, it's weird how you and Yuki are both there at the same time. Well, whatever. Hey, Hasaki-chan.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Hasaki-chan is here?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...I remember she was supposed to work today. I wonder why she didn't come out.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I didn't want to... bother you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"N-No! That girl was with me, not Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are you trying to cover for me all of a sudden?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh... I knew it was you, Yuki. That's not what I was talking about.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, then why didn't you come talk with us?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Well... It seems like Tomo Nii-san hates me. He doesn't want to be around me, I guess.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"You're bullying her again?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah, no...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"He doesn't want his little sister in the house, so he plays eroge in the living room.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Whoa, what did you just say?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What the hell?! Didn't you just say you don't jerk off?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-Why the hell would you say that here?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um, what do you mean by jerk off?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, uh... It's a weightlifting term. They do it at the Olympics, you know, uh... The clean and jerk, I think?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's impossible... Why is Tomo-chan saying he doesn't masturbate at his age?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"M-Masturbate?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"W-Wait! Wait just a second! Hasaki is right there, you know!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh, d-don't worry about me. I'm fine... Um, Yuki-san, i-i-is that true?\""
+  },
+  {
+    "message": "She couldn't even talk straight."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You know, he has all these cute girls around him, like me, or even you Hasaki, and me too! But he told me he's not attracted to us at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why would I lie about that?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh... So you're not attracted to us... at all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are you getting upset about that?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san, I think you're too self-centered. Why would I get upset about that?\""
+  },
+  {
+    "message": "The vein in her forehead was bulging. It was kind of obvious."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"E-Either way, you should be happy, since there won't be any misunderstandings.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's right. How wonderful. Not like there would be any misunderstandings about me anyway.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are you angry?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You're so self-centered! Why would I get angry about that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you don't feel anything for me either? You don't like the big sister archetype or the little sister archetype?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Then maybe I'm his type?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You don't even show up on my radar!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's ridiculous. Why wouldn't I show up?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's your problem? If you don't think sisters are cute and you don't think old men are cute, it's like you're saying you don't like anyone!\""
+  },
+  {
+    "message": "Uh, I don't think anyone finds old men cute..."
+  },
+  {
+    "name": "Master",
+    "message": "\"If you don't like them, you should at least like me. I'm made of pure, unadulterated cuteness!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't go around telling normal people about your fucked up version of cute!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Is incest normal, then?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Like I said, I'm not into that either!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Then... what do you think is cute?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"H-Huh? What do I think is cute?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, I'd like to know too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't think anything is cute... What the hell is 'cute' anyway? I'm not Mamiya...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If you don't want to put it that way, then what do you like in a girl? You have to have a type, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How would I know?! I've never thought about that!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Maybe Ecchan's your type?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who's Ecchan?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are you glaring at me?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who... is that?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ecchan is a former officer in the self-defense force, and he's gay! His real name is Echizen Kousuke!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, that pretty boy was a mercenary, not an officer. He had such a squeaky voice I couldn't even believe he was a gun for hire.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"I'd go crazy for that cute little lover boy if I could just hear him say, 'I want to break open Tomosane's vault of gold.'\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san's vault of gold? Wh-What's that?\""
+  },
+  {
+    "name": "Master",
+    "message": "\"It might not actually be gold, but it's a vault that needs opening!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Keep your hands off my gold, old man.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What are you guys talking about?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Forget it!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then who is it?!\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, I know! It's Kazu-chan!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Who's Kazu-chan...?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't look at me like it's my fault! That guy's not as old, but he's still a faggot! His real name is Hyoudou Kazutaka.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"But you seem like you'd get along well with a hardcore sadist like him, Tomo-chan, and he's really rich too... I heard him say that he had 10 billion in the bank.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That was a lie. No one rich comes here.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"Oh, I wouldn't go that far. There are some pretty famous people who come in here. One of the famous people that's involved with this industry is... Abe-san, you know?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That guy's just a plain old faggot!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san, there are a lot of rumors about you getting with men, aren't there?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's why he doesn't get turned on by us, Hasaki-chan. If there are that many rumors, then it must be true. I'm really sad to hear about all this.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"If you just jump in bed with anyone who asks, the guys around here will eat you up in no time.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You can't call those rumors! That's all just pure fabrication! And who said I was jumping in bed with any of those faggots?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then who do you like?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't know!\""
+  },
+  {
+    "message": "Wait... Is the conversation changing course?"
+  },
+  {
+    "message": "Why are we talking about the person I like?"
+  },
+  {
+    "name": "Master",
+    "message": "\"You don't have a favorite, huh? The other suspicious customers would be...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"None of your customers are suspicious in this case...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um, then maybe that girl from earlier.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"From earlier?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Uh, Takashima Zakuro?\""
+  },
+  {
+    "message": "Not at all."
+  },
+  {
+    "message": "That's what I'd like to say, but..."
+  },
+  {
+    "message": "I might be able to push Hasaki away if I say I like Takashima."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"O-Ohh... So you want to push me away.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wait! How did you know what I was thinking?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I told her.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-Why, you! Why can you read my mind all of a sudden?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Which means... you really were thinking that. You want to push me away...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"N-No, I didn't mean it in a bad way.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Besides, I don't like anyone! I hate people in general!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's up with that? Do you think you can just say that and run away?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not running away. Why do you think there has to be someone I like? I don't have any particular affection for anyone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, so you just hate people, huh? That's how much you love yourself, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What makes you say that?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Only myself can I love, so I hate all of the above."
+  },
+  {
+    "message": " By Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa...\""
+  },
+  {
+    "message": "This is getting a bit stupid. Whenever I talk to her, it's like we just get stuck in an infinite loop."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And besides, you're mistaken if you think young men are turned on all the time.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"In my case, I'm sharing this body with another person. Some dumbass is dealing with all that lust.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What, are you saying I'm a horny bitch in heat?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No! I'm not talking about you! Mamiya! I'm talking about Mamiya Takuji!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Takuji... Nii-san...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's right. That's why I don't get turned on. It's not your fault, Hasaki, or yours, Yuki.\""
+  },
+  {
+    "name": "Master",
+    "message": "\"That's right. And it's not my fault either. I was scared for a second there when you said you didn't get turned on by such a beautiful guy like me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're not even on my radar!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Isn't this the first time all three of us have walked home together?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Well, anyone else would say there are only two people here... including Hasaki.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, that's not true.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I feel like I can actually see both of you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yuki-san is like my big sister... and Tomo Nii-san is a big stinking bully.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Wha!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't just hug her all of a sudden. You're making me hug her too.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Jeez... You always say stuff like that, Tomo Nii-san.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like I said, he just gets embarrassed. He really wants to be nice to you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's just one of your delusions.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"My delusions, is it?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Nothing.\""
+  },
+  {
+    "message": "Nothing, huh?"
+  },
+  {
+    "message": "Yuki knows the real reason why I'm cold to Hasaki."
+  },
+  {
+    "message": "And we haven't explained that reason to Hasaki."
+  },
+  {
+    "message": "When Yuki is completely cut off... that will be the moment when Mamiya Takuji and I disappear."
+  },
+  {
+    "message": "Hasaki doesn't know."
+  },
+  {
+    "message": "If only Yuki remains, then there shouldn't be a problem."
+  },
+  {
+    "message": "Yuki is more human than us, and if nothing else she's definitely smart."
+  },
+  {
+    "message": "She's inherited all the abilities of Mamiya Takuji during the height of his prosperity."
+  },
+  {
+    "message": "She isn't twisted like me."
+  },
+  {
+    "message": "But if Hasaki knew that Mamiya Takuji and I were going to disappear... Well, that's why Yuki makes jokes like that but never says the truth."
+  },
+  {
+    "message": "When Yuki talks about the truth, she never jokes around."
+  },
+  {
+    "message": "She always speaks in a strong tone of voice and unconditionally denies our destiny."
+  },
+  {
+    "message": "She denies that my disappearance is inevitable."
+  },
+  {
+    "message": "And she argues without any basis or proof, which is unlike her. She just denies it based on her feelings."
+  },
+  {
+    "message": "We just got into an argument about it earlier, but it was a conversation that Hasaki couldn't hear."
+  },
+  {
+    "message": "Yuki loves Hasaki too."
+  },
+  {
+    "message": "She just wants to protect Hasaki."
+  },
+  {
+    "message": "Yuki seems to be searching for a different solution to our destiny."
+  },
+  {
+    "message": "And she's rushing to do it."
+  },
+  {
+    "message": "She was always talkative around me, but lately she's been even more so."
+  },
+  {
+    "message": "We'll pass each other by, and soon we'll never see each other again."
+  },
+  {
+    "message": "She seems to be striving for some other solution, some way to fight against our destiny."
+  },
+  {
+    "message": "Sometimes it pains me when she's trying so hard to be cheerful."
+  },
+  {
+    "message": "It's like she's just pretending... That's how it feels."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's how I look, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You were reading my mind again? Get a hobby.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahahaha... Sorry.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It pains you when I'm being so cheerful, huh? I never would've imagined you saying those words.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, but as times passes and your appearances have grown closer together, even you must have started to realize how powerless you are.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's ridiculous. It's not like I only just realized it. I knew I was powerless from the beginning.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I haven't accomplished anything! V for victory!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"If you failed, then there's no victory...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You think? Ahahahaha...\""
+  },
+  {
+    "message": "Yuki laughed."
+  },
+  {
+    "message": "She laughs a lot lately."
+  },
+  {
+    "message": "But it was painful for me to look at that smile."
+  },
+  {
+    "message": "Sometimes her face... looks more like she's crying than smiling."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You've maintained your existence for quite a while today.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, lately I've been working hard to stop myself from disappearing.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"To stop yourself from disappearing?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is that possible?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, I'm really putting my all into it. I'm making sure that I don't lose consciousness, and I'm trying to commit everything that happens to memory.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So you don't lose consciousness?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You should understand, Tomosane. It's like trying not to fall asleep, I guess?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I guess you could say it's kind of like sleeping... Though I always disappear in an instant, so it's more like getting knocked out for me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I understand that part, but what do you mean about your memory?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, you probably don't know what I mean.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Since you never have to worry about preserving the continuity of your memories.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You know, I have to be very careful to keep every memory I have fresh. If something fades from memory for a moment, it usually doesn't ever come back.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It doesn't come back?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, from what I can gather, it seems like my memories have lost their continuity more than once.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"From what you can gather? What's that supposed to mean?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Sadly enough, I don't know myself. This might be obvious, but since I'm losing my memories, I don't have any memories of what I've forgotten.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"When I have that experience, I just think... What is it that makes a human being human?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What makes a human being human?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. What's necessary for a human to be human? What's necessary for me to be me?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Would that be... the continuity of memory?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. The one thing that I need to be me is my memory.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Losing one's memory is the same as losing one's self.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's a pretty grim way of putting it.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, and Hasaki says that she's seen me during those moments.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You mean when you're talking to Hasaki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah. Until just recently, I've always seen Hasaki-chan as Hasaki-chan. But sometimes I'll see her as herself one moment, and then the next moment as the fictional person Wakatsuki Tsukasa.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I heard about it after the fact... But you know how she is. Hasaki-chan didn't want to tell me much about it.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see... So that's why you're working to preserve your continuity?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Pretty much.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Seems like it would wear you out.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, it does. But it's something I chose to do.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Your memory makes you the person you are, huh...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's the reason you are you. When I think about who I am, it makes me realize how precious memory is.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"If your memory is overwritten with new memories all the time, then there's no real proof that you really are you... Seriously.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That has nothing to do with it...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Memory... Realization... Even without those things, you are you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder about that. Besides, you've never met the new me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I guess I haven't met her yet, have I?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, and it's not just her memory that's messed up. Her perceptions are warped, too. She sees Hasaki-chan as Wakatsuki Tsukasa, and she thinks the rabbit doll is a girl called Wakatsuki Kagami.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder how would she see you, Tomosane.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just a stranger, probably.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You think? I'm not really sure, but... if I'm still me, then I doubt I would ever see you as a stranger.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's just what you want to think. I'm sure I would just be a guy with an attitude problem.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I dunno... You wouldn't talk to me anymore if I was like that, would you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The new you would probably hate me, so I would do my best to ignore you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"So you would hate the new me, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I never said I'd hate you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you wouldn't like me, would you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't know.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder if you'd still love me even if I wasn't me anymore. I'd like to believe that you would still love me as passionately as you do now. Can I believe in you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wait! I've never had any special feelings for you before!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ahahahaha... Gotcha.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And besides, we probably wouldn't even be able to speak to each other.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"When you're completely cut off from the world, Mamiya and I will be gone. It's not a matter of whether we would see each other or not, since it would be impossible.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There you go again.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Even if I can't see you, I'd like you to keep existing.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you talking about? Once you're cut off, even those thoughts will disappear.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe they'll disappear when it happens, but... right now, that's what I really want.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I don't care what the new me thinks. Right now I want you to keep existing.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you talking about?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa... I just wanted to tell you, that's what I was thinking.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, that's right! Hasaki-chan!\""
+  },
+  {
+    "message": "Yuki suddenly raised her voice."
+  },
+  {
+    "message": "She spoke in a voice that used our voicebox, so that other people could hear her speak."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan, why don't you sleep in my bed once in a while?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Upfh!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I know I look like a boy, but I'm a girl on the inside, so there's no danger.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But I'm a guy on the inside and the outside!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But you said you weren't attracted to me, Tomo Nii-san, so there's no problem.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Now you too?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I don't mind."
+  },
+  {
+    "message": " I want to spend as much time with Yuki-san as possible.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"W-Wait! I mind!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Y-You can't! You know damn well there's a problem with having a boy and a girl sleep in a bed together!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What, so you really would get turned on?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"N-No way!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Then it should be fine. It's not like I want to sleep with you, Tomo Nii-san. I want to sleep with Yuki-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But it's the same thing! We share a body!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But you said yourself it wouldn't be a problem. You just told us that you're not attracted to either one of us.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I-It's a problem morally!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There's a problem morally with two siblings sleeping in the same bed?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If not, then there should be no problem.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"U-Um, wait! What if Mamiya Takuji suddenly showed up?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That won't happen. He refuses to recognize anything that would cause inconsistencies in his world, so he won't come out.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Y-You never know. He's a lolicon, a pedo, and a pervert, so he might...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If he does, then I'll handle it. There won't be a problem.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right. Besides, Mamiya Takuji believes he's weaker than even a girl, right? He's not strong enough to overpower Hasaki.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Even weaker than Hasaki? What a freak.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So, now what?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Let's get some sleep!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hell no!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why not? It's bedtime.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So why are you sleeping in my room?! And why is Hasaki in her pajamas?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Because I'm going to sleep.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, that's not what I mean. Why in my room?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What are you blabbering about? I moved in before you, so it's my room!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Whatever... All right, fine, I don't care about you.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki, get out!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why can Yuki-san stay, but I can't?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That should be obvious!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's not a reason. I asked you why Yuki-san can stay, but I can't.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't need a reason! We can't do anything separately!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's not true. I'm only barely holding on, so I could disappear any time you want.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You can disappear?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like I said, I feel like I'm gonna faint. Let me get some sleep.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then just disappear right now!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No way. I held onto my consciousness for this long, so at least let me sleep in my own bed. You don't understand how stressful it is enduring this for so long, since you've never had to do it yourself!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I feel so sleepy, almost like I stayed up four nights in a row.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then just disappear already!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I endured it for so long. Why won't you just let me sleep in my bed?! Maybe you're the one who should just disappear already!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"If I could conveniently disappear right now, I would! I'm telling you to disappear because I can't!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Then why don't you practice until you can!"
+  },
+  {
+    "message": " All right, I'm getting in bed!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Stop it, you dumbass. Ah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ow! What are you doing?!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's my line!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Ah...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hm? What?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How did it end up like this?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are you so calm... in this situation...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You're the one who knocked me down.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No! You were the one that fell!\""
+  },
+  {
+    "message": "I've never been so glad Hasaki can't see us both. I don't understand how this happened."
+  },
+  {
+    "message": "I ended up on top of Yuki."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"How about you get off me before you space out?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why?"
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Well, not like I really care, but my panties are showing.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wha―?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wait, did you flip up my skirt on purpose when we fell?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's ridiculous.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Really? Well, if you wanna take a looksie, just say so. Giving a bit of fanservice to my little virgin brother is just one of my duties as a sister.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I really will kill you...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What's wrong, Yuki-san?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh, Hasaki-chan, come in the bed with us.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What are you saying?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No! Stop―whoa!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wow, the sheets are cool to the touch.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why are all three of us in the same bed?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So fluffy...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki! Get out!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No. I don't like you because you always order me around, Tomo Nii-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yuki!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"This is fun.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This is not fun at all!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"This is fun.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Look, Hasaki-chan is telling the truth. The majority vote says that this is fun!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You can't have a vote to decide if something's fun!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Oh right, Tomosane, do you wanna take a bath together next time?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, right!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But what would you do if you had to take a bath when our personalities were overlapping?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Th-That's never happened before.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's only because I wasn't able to control when I was awake. Now I'd be able to create just such a situation, if I wanted.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then it would be your fault!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"But it's still possible. Or would you just go days without a bath? That sounds like hell on earth.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't ask me! Anyway, I'm not taking a bath with you!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Couldn't you just wear a swimsuit?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's right!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That's not right!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If I wore a swimsuit, I could come in too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, you couldn't!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just think about it. Two siblings can't take a bath together in their swimsuits.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"No, I don't see any problem with that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Or rather... maybe it's only a problem because Tomosane would be looking at you with lust in his eyes?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Th-That's impossible!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Besides, a swimsuit is something that you can show other people at the beach or the pool, so why's he overreacting like that?! What's your conclusion, Hasaki-chan?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's probably because he would get turned on.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I would not! That's what I've been telling you!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Is that a fact?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ow, ow, ow, oww! Why are you pinching me, Hasaki?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That one was your fault. You can't tell a woman she's not attractive.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But I wouldn't, you know? We're siblings. Isn't that perverted?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Is that so? Then there should be no problem if I do this.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wh-What are you doing?! Yuki, wait!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Wh-What are you doing, Yuki-san?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I'm just holding you close. He said it wouldn't be a problem, after all.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't do that!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And it's so narrow that I don't have much choice anyway. We hardly fit in the bed.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Who cares if you're not covered? It's the middle of summer!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"We'll catch a cold, right, Hasaki-chan?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why would you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan always sets the air conditioning to 27 degrees Celsius and sleeps under the covers.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Otherwise I can't sleep...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"And today we set the air conditioning to 25 degrees because it's gonna be like an oven with three of us under the covers.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So if we're not all under the covers, we'll catch a cold.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wait, wait, I don't understand. Can't we at least sleep in separate beds?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you think, Hasaki-chan? I think it feels better this way.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I like this way too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Hasaki buried her face in my chest."
+  },
+  {
+    "message": "I couldn't believe how small and fragile she felt..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"...What?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Whoa, why are you holding her to my chest again?!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You were just thinking about how good Hasaki-chan's little body felt.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"N-No, I wasn't!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yes, you were. Lately, I've been able to hear your internal dialogue. You can't fool me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"B-But that's... Sh-She's just cute like a puppy. She's my sister, you know? She's cute like any little sister...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan is glad to hear that, even if it is that kind of cuteness.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"W-Well... It's better than hearing him say he's not interested at all.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Let me tell you a secret Hasaki-chan, just between the two of us. He's getting sexually aroused too.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Wait! That's a lie! How would you know that?! You said you could only read my mind!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hmm... So you're not?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Absolutely not!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Absolutely not...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wow, it's really hot in here.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then get out of the bed.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That would be a bit cold. Oh, it must be because I'm still wearing my clothes. Let's take these off now.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't take off your clothes for no reason!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"It's not like it really matters. I only exist in your head, after all. I'm taking my clothes off.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"W-Wait!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? D-Did she take them off?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, but only me. Tomosane didn't take anything off, so there's nothing to worry about.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You've been able to do a lot of new things lately, haven't you?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I've been around a lot longer than you. If you train your perceptions, you can control them more than you might think.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You shouldn't use your brain's defects like that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"I wonder if they really are defects. Maybe they're actually special powers. It just depends on how you wanna look at it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Um, I'm a bit hot too, so...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"W-Wait! You can't do that!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I already... pulled down my pajama bottoms.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Pull them back up!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why? You said I was just like a puppy, right? Would you get turned on by an animal if it wasn't wearing pants? If you saw a cat or dog without pants, would you get turned on?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, not at all... But even if you're cute like a puppy, we're still siblings, so...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Underwear is just a piece of fabric. It'll be okay... Besides, Yuki is already in her underwear, isn't she?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Wow, Hasaki-chan, you can be a scary girl sometimes.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, uh, I was just a bit jealous. I heard you were really beautiful, Yuki-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She's the only one who ever said that!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You have to admit I look pretty good!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I have to? By what standard?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Who cares about that? Let's get some sleep.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Don't wrap your leg around me!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Jeez... Don't wrap your leg around me, don't snuggle with Hasaki... You sure have a lot of demands.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I shouldn't have to demand them in the first place!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And Hasaki! Don't try to squeeze in between my arms just because you're small!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But I fit perfectly.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You shouldn't just stick it in without thinking because it's a perfect fit, or else you might get in trouble with the law.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Like rape?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I-I wasn't talking about that! Like parking, or illegal dumping of waste!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You mean... you just think of me like you think about parking... or illegal dumping?\""
+  },
+  {
+    "message": "Jeez, Hasaki is in a bad mood. It just keeps getting worse and worse. What's going on here?"
+  },
+  {
+    "message": "But still, Hasaki's body sure is something. I always knew she was really small, but I didn't know she was like this."
+  },
+  {
+    "message": "She's just the right size to fit in the crook of my arm."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What do you think about my boobs on your back?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're vulgar.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's your problem? I knew you were a lolicon that's obsessed with flat chests!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um, Yuki-san, I'm not that flat-chested. I have a little bit there.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Well, I'm not an A cup. I'm a B cup... Though it is kinda loose on me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Isn't that still pretty much flat-chested?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's not unusual at my age! Maybe I am on the small side, but I'm bigger than an AA cup or an AAA cup. Sometimes an A cup is too small and I don't fit.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Sometimes you don't fit in an A cup, huh?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But the most common size in my grade is a B cup, so I'm perfectly normal. My chest isn't that small.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan, are you wearing a bra?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Oh, well, yeah...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Why don't you take it off when you're sleeping?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? Th-That's...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You don't need to do that! Now go to sleep!\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "How unusual..."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Zzzz.\""
+  },
+  {
+    "message": "I'd never seen Yuki's sleeping face before. She saw me sleeping once, but I never expected to do the same to her."
+  },
+  {
+    "message": "This had never happened before."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Maybe this is the harbinger of a great change.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Oh, Hasaki, you were awake?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, I just woke up.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It must be rough for Yuki-san.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Y-Yeah...\""
+  },
+  {
+    "message": "We haven't told Hasaki what it will really mean when Yuki is cut off."
+  },
+  {
+    "message": "Well, she probably understands more or less."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I wish the three of us could live like this forever.\""
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "I was at a loss for words. No, I should just agree with her."
+  },
+  {
+    "message": "But as I looked at Hasaki's lonesome face, I couldn't find any words to say to her."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The three of us, huh? That might be nice.\""
+  },
+  {
+    "message": "I don't know the future."
+  },
+  {
+    "message": "Only God knows what will happen in the future."
+  },
+  {
+    "message": "But that's what Hasaki wished for."
+  },
+  {
+    "message": "She wished for this life."
+  },
+  {
+    "message": "She wished for a plain, boring life where one day melts into the next."
+  },
+  {
+    "message": "And I can't even give her that."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Zzz.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I can hear Yuki breathing in her sleep. And Hasaki too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I wonder if they're having good dreams.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... But...\""
+  },
+  {
+    "message": "This place can't be their Wonderful Everyday. They have to grasp something new in the new world that's waiting for them."
+  },
+  {
+    "message": "After I pondered on it for a while, I went to sleep feeling like there actually was something I wanted to accomplish of my own free will for the very first time."
+  }
+]

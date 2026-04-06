@@ -1,0 +1,2047 @@
+[
+  {
+    "message": "..."
+  },
+  {
+    "message": "The wind made no sound."
+  },
+  {
+    "message": "Until just now, I had heard the wind blowing."
+  },
+  {
+    "message": "Why did the wind stop blowing?"
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm in the store?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"B-But I was on the roof just now.\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Tomosane-kun carried you down here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Th-Then where is he now?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Kimura-san!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"I don't think I can tell you that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Kimura-san!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Y-Yeah, uh..."
+  },
+  {
+    "message": " This is a promise between men.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"A promise between men?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Yes, because I could never hold back a man who has set off for battle.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"To battle? Okay, great. Thanks, see you later!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Whoa! Why are you running off?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"There's only one place where Tomo Nii-san would go to fight!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? Why?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If he's going to fight with Takuji Nii-san, then Kita High is the only place!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"But do you know where in Kita High?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I won't know until I get there!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"So... where is he?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What, didn't he tell you?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Nope, he didn't tell me a thing.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Then he didn't make you swear not to tell! You just didn't know!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Well, I guess.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?! Who's that?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Huh? Wh-Where?\""
+  },
+  {
+    "message": "There on the moonlit rooftop..."
+  },
+  {
+    "message": "There was only one silhouette."
+  },
+  {
+    "message": "There was only one person..."
+  },
+  {
+    "message": "But it looked like he was facing off against some adversary."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san!\""
+  },
+  {
+    "message": "A statue underneath the moon."
+  },
+  {
+    "message": "A lone figure."
+  },
+  {
+    "message": "Something at his chest glittered and gleamed."
+  },
+  {
+    "message": "The hand held in front of his chest grasped the same knife from before."
+  },
+  {
+    "message": "It was the same pose as the one from seven years ago."
+  },
+  {
+    "message": "The only difference was that a single figure stood in the darkness, not two."
+  },
+  {
+    "message": "The knife's tip was aimed at his own heart."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No! You can't!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "I saw his face in the shadows, and I instantly knew who it was."
+  },
+  {
+    "message": "There's only one person in the world who could make that expression, a mixture of kindness and irritation."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Y-You can't... Tomo Nii-san, you can't do that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why did you follow me?\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Ahahaha... Sorry about that.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Damn it, Kimura...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Crap. I forgot to lock the door. If I had locked it, you wouldn't have been able to follow me up here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You can't... Tomo Nii-san, I-I won't let you do that!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If that's what you were planning to do... I should've just tied you up and never let you leave.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I told you, that was also an option.\""
+  },
+  {
+    "message": "In that moment, when Tomo Nii-san was worrying about me..."
+  },
+  {
+    "message": "His expression changed for just a split seocnd."
+  },
+  {
+    "message": "For a split second, his expression changed into... someone else's."
+  },
+  {
+    "message": "I tried to scream."
+  },
+  {
+    "message": "But it ended before I could get the scream out of my mouth."
+  },
+  {
+    "message": "That thing ended..."
+  },
+  {
+    "message": "Like fibers cracking upon steel. Then, blood and flesh..."
+  },
+  {
+    "message": "The sound rang out, lonesome in the dark."
+  },
+  {
+    "message": "The dirge of the end..."
+  },
+  {
+    "message": "It was a messenger, telling me that this was the end."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah?!\""
+  },
+  {
+    "message": "Cold iron flashed in the dark."
+  },
+  {
+    "message": "Bright red blood danced across the blade."
+  },
+  {
+    "message": "An endless, jet black sky hung over our heads."
+  },
+  {
+    "message": "The moon tinted our lacquer sky with shades of blue."
+  },
+  {
+    "message": "The steel flashed."
+  },
+  {
+    "message": "The red blood flowed."
+  },
+  {
+    "message": "Everything turned white."
+  },
+  {
+    "message": "All I could see..."
+  },
+  {
+    "message": "Was white."
+  },
+  {
+    "message": "Those words I never could say..."
+  },
+  {
+    "message": "Those words I never could hold back..."
+  },
+  {
+    "message": "All those words caught in my throat, and then my breath came out as a scream."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"NOOOOOO!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, Tomo Nii-san! NOOOOO!\""
+  },
+  {
+    "message": "I could only scream."
+  },
+  {
+    "message": "Tears ran down my face as I screamed for him."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"At the very end, I still messed up, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Pre-established... harmony, huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I see. So in your eyes, I've already outlived my purpose.\""
+  },
+  {
+    "message": "Tomo Nii-san whispered as if he was talking to himself."
+  },
+  {
+    "message": "He must have been talking to Takuji Nii-san."
+  },
+  {
+    "message": "I couldn't tell what had happened to the two of them."
+  },
+  {
+    "message": "All I knew was that Nii-san had stabbed himself in the chest with a knife."
+  },
+  {
+    "message": "As a result of that action, no one could be the victor."
+  },
+  {
+    "message": "If his phyiscal body died..."
+  },
+  {
+    "message": "It would mean the death of three souls."
+  },
+  {
+    "message": "Why did it have to come to this?"
+  },
+  {
+    "message": "I crumpled and fell on the spot."
+  },
+  {
+    "message": "My voice caught in my throat."
+  },
+  {
+    "message": "The tears wouldn't stop."
+  },
+  {
+    "message": "The trembling wouldn't stop."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hey, Hasaki... I'm sorry...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It looks like I won't be able to keep my promise. This is the end for me.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... I couldn't do anything for you, Hasaki... could I...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's not true... That's not true... Tomo Nii-san, don't go...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There's nothing I can do... I've been beaten...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Nothing I can do... huh?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is this too reality?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Then I can only accept it...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...Uwaah... Kh...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa... If this is how it was going to end, I shouldn't have used the last of my time like this...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I should've spent my time with you...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hahahaha... I've been an awful brother too...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I haven't changed at all...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Now then... Farewell, Mamiya Takuji. Congratulations. You've won.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"And I've lost...\""
+  },
+  {
+    "message": "I ran over to Tomo Nii-san."
+  },
+  {
+    "message": "I put my arms around him and held him close."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san... Don't go.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You dummy... Don't come near me. It's dangerous.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This body will be Mamiya Takuji's soon. I'm going to disappear.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You can't disappear, Tomo Nii-san! Please!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah... I don't really want to disappear.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I wanted to be with you longer.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Then please, don't go! Let's go home. Let's go home together. Let's just go home...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You're right... That was the promise.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, it was...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"To be together forever... and talk as much as we wanted...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, you promised we could talk as much as we wanted... I still want to talk to you, Tomo Nii-san...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"We didn't talk enough, did we?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Let's... talk.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, I-I... Last night, I saw a big sunflower.\""
+  },
+  {
+    "message": "The flower I saw on the hill at night."
+  },
+  {
+    "message": "I saw that sun of the night on a road I never passed by."
+  },
+  {
+    "message": "In a world ruled by the azure, the sunflowers shone bright with yellow."
+  },
+  {
+    "message": "I told him about the sunflowers."
+  },
+  {
+    "message": "The sunflowers on the hill."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"A big sunflower, yellow and beautiful in the sky...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"A sunflower...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's already summer, you know? It's the middle of the summer...\""
+  },
+  {
+    "message": "I knew that sun in the night."
+  },
+  {
+    "message": "Because we had seen that same sun together before."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Summer break is coming soon. I wish I could've gone somewhere with you this year, Tomo Nii-san...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Summer, huh?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah. You said you wouldn't ever leave me, so I wanted to go on vacation somewhere this summer.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Because this summer, it seemed like we were getting along again.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"This summer break... let's go back to our old town, together.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Our town?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's right. Our town. Where you and I were together before.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"That...\""
+  },
+  {
+    "message": "Tomo Nii-san gently laughed."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How did I forgot that? We were there together before.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, so this summer... let's go back.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This... summer?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, Tomo Nii-san!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, of course.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"This... summer?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Kimura-san, call an ambulance!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Nii-san pushed me away and stood on his own two feet."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What is this?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ow, damn...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san, don't move!\""
+  },
+  {
+    "message": "I tried to stop him, but he slapped away my hand."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"N-Nii-san...\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Th-That's...\""
+  },
+  {
+    "message": "His face was different from before."
+  },
+  {
+    "message": "His voice was different."
+  },
+  {
+    "message": "He looked precisely the same, and yet it was like he was a completely different person."
+  },
+  {
+    "message": "As he stood up, there in the moonlight, he looked like a vengeful demon back from the grave."
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hasaki-chan, be careful!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Don't do it! That's not Tomosane-kun! That's the man who tried to kill you!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san! Nii-san!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It's dangerous! Stop! You know how dangerous Mamiya Takuji really is!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Now he has hundreds of believers under his control too!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san! Nii-san! Please, come back!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"It's dangerous! Get back here! I'll call the police and the ambulance!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But... I still have so many things I have to do...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Agh...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Now, let's go home, to the ark. The final day is at hand.\""
+  },
+  {
+    "message": "He disappeared into the shadow of the building, holding his wound."
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Hasaki-chan!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm sorry!\""
+  },
+  {
+    "name": "Kimura",
+    "message": "\"Whoa!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Kimura-san, I'm really sorry, but...\""
+  },
+  {
+    "message": "I chased after my brother."
+  },
+  {
+    "message": "I found a small door over where he'd disappeared. There was a steel ladder hanging there."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "message": "The ladder led all the way down into the darkness underground."
+  },
+  {
+    "message": "I was definitely scared, but..."
+  },
+  {
+    "message": "Still, I went."
+  },
+  {
+    "message": "It was packed full of people down there."
+  },
+  {
+    "message": "An incredible number of people."
+  },
+  {
+    "message": "Just how many people could they cram into a place like this?"
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san...\""
+  },
+  {
+    "message": "I tried to find my brother among the crowd of people."
+  },
+  {
+    "message": "Just find him..."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Someone saw me and then started to talk to me."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Why are you here?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh, that's right. You don't know about me, do you?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I just know about you because I investigated the savior's background and personal details.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Do you know my brother?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well, yeah, I do.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Where is he? He's in a lot of trouble!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "message": "That woman stopped to think hard about something."
+  },
+  {
+    "message": "She then laughed caustically."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"That's right, isn't it? He's not just our savior. He's also your brother, too.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I have to eliminate anyone who would interfere with the plan.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...Ah!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"I thought I was ready to do anything, but I'm not that cold-hearted. I wonder if there's anything I can do.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The savior is in the room toward the back.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Follow the wall right next to the ladder, where you came down.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Th-Thank you so much.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Well, God only knows what will happen now.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"God only knows?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, so?"
+  },
+  {
+    "message": " I'm just saying that now your brother has to decide whether he wants to be our savior, or your brother.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"It would be better if God had decided that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "message": "That was his secret room."
+  },
+  {
+    "message": "I came here with Kimura-san before."
+  },
+  {
+    "message": "It was disguised to look like part of the wall. The only reason I saw it before was because the curtains were lifted."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"......\""
+  },
+  {
+    "message": "Nii-san..."
+  },
+  {
+    "message": "Takuji Nii-san was mumbling something to himself."
+  },
+  {
+    "message": "My voice didn't even reach him."
+  },
+  {
+    "message": "Because Takuji Nii-san hated me. Because he thought I should just disappear."
+  },
+  {
+    "message": "So he couldn't even see me."
+  },
+  {
+    "message": "I understand."
+  },
+  {
+    "message": "But..."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Just forgive him! Just forgive Tomo Nii-san, please! Why can't you just disappear already?!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Disappear!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Who are you?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The Wakatsuki sisters?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No! I'm Hasaki. I'm the sister you hated, Mamiya Hasaki!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The twins are here, huh?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No! That doll wasn't my twin!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You and I were the real twins!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You and me!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Not this rabbit doll!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You and I are twins, Takuji Nii-san!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "message": "He just looked at me."
+  },
+  {
+    "message": "His eyes were full of hate."
+  },
+  {
+    "message": "Just like they were back then."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, look. Two sources of the Black Surge just walked right on into the ark.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Takuji Nii-san, why... Why would you do that to Tomo Nii-san?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I see... Yuuki's actions... His abnormal strength...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahaha... Is that it? I thought that hurdle was too high for my mother to have set. He was too strong.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It was you. You two lent him your power as sources of the Black Surge, just like the White Surge's Riruru did for me. I see.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"So that's what Otonashi was talking about. It all makes sense now. The Destroyer, huh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yuuki was a Dark Savior created by you two to destroy me. He was created to prevent humanity's salvation.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It all makes sense now. Why he was so strong, why he hated me so much. It makes perfect sense.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"But sadly for you two, this is the result.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The Dark Savior has died.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The Dark Savior was erased, and I, the true savior, remained on this earth.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"This is my victory. That's right. I've won.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The battle between light and darkness... The battle between the White Surge and the Black Surge... I've won. The White Surge has won.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The savior has won.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why can't I reach you in there? Why?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Are you satisfied now, Takuji Nii-san? Jeez...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Disappear...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why don't you just disappear?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I told you to disappear from my sight. Stop spreading the Black Surge.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Takuji Nii-san, why? Why?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"If you won't stop the Black Surge, then I guess I have no choice.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'll forcibly expel you from this world.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Call the people!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh? What?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Anyone will do! Call a bunch of men here!\""
+  },
+  {
+    "message": "A bunch of people came over."
+  },
+  {
+    "message": "Everyone was glaring at me."
+  },
+  {
+    "name": "Male Student",
+    "message": "\"What is it, my savior?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You've been having sex for ages now, right?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Well, uh... I wouldn't say for ages...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You like sex, right? You like adultery, right?!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Uh, yes! I love it.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Defile this woman.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Huh? Can we?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Are you serious? Hell yeah!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Not her!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Huh? Not her? But she's the only one here.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Don't touch that woman! Make her watch as her sister is defiled and then killed. Make her watch it all.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Um, what do you mean? Who is her sister?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That one with the long ears and the red eyes. That woman made out of cloth!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Huh? Y-You mean...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"A-Are you serious? Are you talking about this doll?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's right. We will defile her, and after she's been so defiled that she wants to die, we'll kill her... in the most painful way possible.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Wh-What?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hold her down!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Oh, okay... G-Got it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Noo! That's the doll that Tomo Nii-san made! Tomo Nii-san made it for me!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Your little sister? Yeah, I got it. I won't hurt her. All I really need is for you two to disappear from my sight.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The reason it turned out like this is because you were so defiant and got in my face every time you could... I'll forgive Tsukasa.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Your sister can't do anything without you, right? All she can do is hide behind you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san! Can you hear me, Tomo Nii-san?! Please, Tomo Nii-san!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"They're going to break the doll you made for me!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up! Rape her!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"R-Rape... Um, rape this?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It'll be fine. She won't resist. She's more worried about her sister. There's nothing to be afraid of.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Worried about her sister? You really mean this doll here?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Wait, wasn't this other girl your sister, my savior?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"That's why we can't rape her, right?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What? Are you going to defy my orders?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Oh, no! We'll do it! Please, let us do it!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Hey, get over here, you guys. You have to fuck her too.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Huh? Me too?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It's the savior's order!\""
+  },
+  {
+    "name": "Everyone",
+    "message": "\"Yeah!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"All right, we're starting to get into it!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Knock her out before you start.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Knock her out? Oh, okay! We'll give her a few good licks!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"It's an order! Beat her up!\""
+  },
+  {
+    "name": "Everyone",
+    "message": "\"Yeah!\""
+  },
+  {
+    "message": "The men all moved in and started to beat up the doll that Tomo Nii-san made for me."
+  },
+  {
+    "message": "The parts that Yuki-san fixed up for me got torn open again."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, stop it!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ehehehe... Wow, what a pose.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Hehehehehe, it's just to make sure the ritual goes smoothly... Are you stupid? Why would we stop? Hehehehe, the fun time is just beginning.\""
+  },
+  {
+    "message": "Who are they talking to?"
+  },
+  {
+    "message": "They were kind of... mumbling and talking to the doll. It looked like all of their eyes weren't focused on any single point, too."
+  },
+  {
+    "message": "Could they hear some voice that I couldn't?"
+  },
+  {
+    "message": "I was too scared to say a thing."
+  },
+  {
+    "message": "I was trembling with fear, and Nii-san laughed with pleasure when he saw me trembling."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahaha, all you need to do is watch as your sister is defiled.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Now it's time for the show to begin. I can't wait. Hehehe, she's shaking already. I guess she's starting to figure out what's going to happen to her.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ahahahaha, of course she is! She knows! She knows exactly what's going to happen!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"What's this?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"She's not wearing any...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Do you always walk around without any panties?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "message": "I couldn't really hear what they were mumbling about as they hiked up the doll's skirt."
+  },
+  {
+    "message": "Apparently, they were complaining that the doll wasn't wearing underwear. I don't really know why, though."
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Whoa, her thigh really is soft! I can't take it!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"I-I want to touch her too.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Wow, I can't stand it... Her pussy is totally pink.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"P-Pull it open...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Whoa... Her pussy is so tight, like a child's...\""
+  },
+  {
+    "message": "They pulled open one of the tears on the doll's underside. They were breaking the doll."
+  },
+  {
+    "message": "The doll was already pretty old."
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Open it wider.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"The labia minora are inside the labia m-m-majora, right?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Y-Y-Yeah, that's r-right... So then, what would it be in th-this situation?\""
+  },
+  {
+    "message": "His words became even more difficult to understand."
+  },
+  {
+    "name": "Male Student",
+    "message": "\"I don't really know, uh, the de-de... de-de-details uh, ah...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Her p-p-pussy, it's... uh, i-it's, uh...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"H-How does it feeel? Uh, feels good?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Uh, ooh, she, she's being... d-d-d-def, uh, defiii―\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Hey, answer us! How is it?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Sorry, d-don't, don't yell, n-n-n-n-n-noo, not yell...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Wh-Wh-What are, you... doing? S-Stop you... scary me...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Hehehehehe... Scared? The saver toold us, we can, we c-can break... you. Scared? Scary?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Sc-sc-sc-scar―, scaryscaryscaryscary... It, the light, it's... scare, scary.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Less you it. Her pussy...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Yeah, lest you it, have to.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"N-No please, scare, scarescaryafraidscaryafraid, ee-eek, ah...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Look hard, hard, it hard. The bitch her critical lisp finally, she hard in... the window, the window now―\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Her chitinous cliffff... She's ready for us. Her look, frigid itch whah, uh... Ho, ah!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"soscarescaryscary―SCAREPLEASENOTTTHERE\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ahahahaha, do it more, more. Rub a dub dub, I'm in a tub.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Yeah, scare her, scare her, right in her PLEASE, NOT THERE! You had your meal, now eat your just desserts!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ahahaha, that's great, that's amazing. I think my headache went away, away...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Sc-sc-scare her, scare her, give it to her there. We're on top of the fucking world. Sc-Sc-Scare her, scare her, cum in her hair.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "All the men were spouting pure nonsense, and then they suddenly started taking off their pants."
+  },
+  {
+    "message": "I covered my eyes."
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Suck it, bitch! Suck me dry like magnets and r-r-rye.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Love the cocks, love, love them aaaaallll, eeeehehehehe...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"N-No, please, my mouth is so full with dicks, dicks and cocks, c-c-c-cock and balls...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Whoa, whoa ho hooooo! A d-dick here, a cock there, dicks and cocks all in the air!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Wh-What's it like? Her mouth, h-h-how izzz, her mouth inside her mouth like cream and custard, cust-t-tard, cast, cas―ji...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ahwha, whawhaaa... Your mouth better get, get, get along with yeast and barleeeyy...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ah, ahh... Ah, my Magnum, the day is not yet won!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ah, ahhhh... I'm gonna cum. To arms, men!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"The moment of ejaculation is truly... The moment of victory! I'm cumming!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ah, we have won! Ahh, victory is on the horizon! Ooouhgh...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"The moment of ejaculationn truly isss... true... victory... ohhgh.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"M-More... Call more people! L-Let's do it over here...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Y-Y-Yeah, let's do it. We need more men to con... c-c-continue the fight...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Huh? But scary... I'm scared to fight... to fight...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, don't...\""
+  },
+  {
+    "message": "The men carried the doll over to a larger open space nearby."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No! Why would you do such horrible things?!\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Wh-What's going on here?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"S-Say something, anything you want... We are praying for victory.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"M-Me, say something? To this doll?\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"H-Hurry, please... We will win, yes, we will triumph over the Black Surge.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Haa... Come on, just say something.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Tachibana-senpai...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"The girl in front of you is the elder of the two Wakatsuki sisters.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh? This doll is?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Yeah, it is, you dumb bitch. Will you ever be saved if you can't even recognize evil when you see it?\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"W-Wait, please. Uh... S-So you're the Wakatsuki sisters... Whatever, not like I care. Let's get started already.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"H-H-Hurry, hurry up. Faster, faster...\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"What are they doing?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"They're going to make her masturbate for them.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"Huh? They're going to make the doll masturbate?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Haa... Here, take some more elixir. You clearly haven't reached enlightenment yet. You need to drink a lot more before you'll understand.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"O-Okay... Thank you.\""
+  },
+  {
+    "message": "The entire crowd was looking at the rabbit doll."
+  },
+  {
+    "message": "Everyone just stared at the unmoving doll."
+  },
+  {
+    "message": "What did they see? There were a lot of people getting really worked up and excited."
+  },
+  {
+    "message": "There were also a lot of other people that didn't understand what was happening."
+  },
+  {
+    "message": "There were even some people that looked deathly afraid of the doll."
+  },
+  {
+    "message": "I wonder what those people saw there."
+  },
+  {
+    "name": "Female Student",
+    "message": "\"She's not doing it at all.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"I-If you don't do it right... all of the men will rape you.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe... You're really good this at this, Yasuko-chan.\""
+  },
+  {
+    "name": "Yasuko",
+    "message": "\"You masturbate every day, right? Now, think about the most important person in your life and masturbate.\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ah, ahh... I might achieve victory for a second time... Ah, ahh, victory, here I cum...\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Right now, my ejaculation leads me to victorrryyy!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"Ah, I'm right behind you, I'm cumming to victory too! I'm cumming!\""
+  },
+  {
+    "name": "Male Student",
+    "message": "\"I'm gonna blow.\""
+  },
+  {
+    "message": "They violated..."
+  },
+  {
+    "message": "My doll..."
+  },
+  {
+    "message": "My past self was defiled right before my eyes."
+  },
+  {
+    "message": "The embodiment of a precious time in my life, when time stopped for one part of my soul... That is what they defiled."
+  },
+  {
+    "message": "My very memories."
+  },
+  {
+    "message": "My very self, from a time past."
+  },
+  {
+    "message": "It was defiled at the hands of strangers."
+  },
+  {
+    "message": "I was violated."
+  },
+  {
+    "message": "My memory was desecrated."
+  },
+  {
+    "message": "My past self was ripped and torn to shreds."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"How's that? How does it feel?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Y-You're awful... Awful... Why would you do this? You're terrible...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehe... Kagami's totally broken.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Why? Why would you do that? She's my... my precious, precious...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Your precious sister is broken. She's utterly broken.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ah? Huh? Hawha, whahahawha?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"N-Nii-san?\""
+  },
+  {
+    "message": "His eyes suddenly rolled back, and then his face started convulsing."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"U-Um!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I-I'll break you. I'll totally break you... I'll break you, once and for all.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"M-M-Making a fool... Making a fool of me...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Someone get a hammer! Someone get a ladder! Get the stakes! It's a crucifixion... I'll crucify you. I'll crucify you, crucify you, crucify you, crucify you, crucify you, crucify you, crucify you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? Wh-Why? Why?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up! I can't let her go after she challenged me like that! This time I'll really break this fucking rabbit!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, stop!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That concrete pillar... Crucify her on that pillar. High up. Much higher than here... Crucify her. Crucify that bitch. Crucify her, crucify her, crucify her.\""
+  },
+  {
+    "message": "The boisterous atmosphere in the room disappeared as people ceased to talk, one by one."
+  },
+  {
+    "message": "One by one, they realized..."
+  },
+  {
+    "message": "And soon, the entire ark was silent."
+  },
+  {
+    "message": "There was no one with me."
+  },
+  {
+    "message": "In that enormous underground space, I could only cry."
+  },
+  {
+    "message": "It was all I could do. I just cried."
+  },
+  {
+    "message": "\"Tsukasa...\""
+  },
+  {
+    "message": "There was a person there, someone who called me... Tsukasa."
+  },
+  {
+    "message": "But I didn't want to meet anyone who would call me that."
+  },
+  {
+    "message": "\"This is... This is Kagami, right?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No, that's... That's not her name.\""
+  },
+  {
+    "message": "\"How did this happen? Why?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"What do you mean, why? You did it, of course.\""
+  },
+  {
+    "message": "\"This is awful... Who could do such a thing?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Nii-san...\""
+  },
+  {
+    "message": "I looked at my brother."
+  },
+  {
+    "message": "His face was Tomo Nii-san's."
+  },
+  {
+    "message": "But that wasn't Tomo Nii-san's soul in there."
+  },
+  {
+    "message": "That person was not the person I most wanted to see."
+  },
+  {
+    "message": "\"That's right...\""
+  },
+  {
+    "message": "\"Kagami... Let's go home.\""
+  },
+  {
+    "message": "Nii-san carried the doll in his arms."
+  },
+  {
+    "message": "\"Let's go... home.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "message": "The two of us walked through the city streets at night."
+  },
+  {
+    "message": "It was too late to catch a train."
+  },
+  {
+    "message": "It would take us at least an hour to walk all the way home."
+  },
+  {
+    "message": "The two of us just walked in silence."
+  },
+  {
+    "message": "Then..."
+  },
+  {
+    "message": "\"Back then, I carried you home on my back like this, didn't I?\""
+  },
+  {
+    "message": "\"That time, you tried too hard, and sprained your ankle running.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's...\""
+  },
+  {
+    "message": "\"I came right away when I heard about it from Tsukasa.\""
+  },
+  {
+    "message": "\"And then, this is what you said.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"No...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That was me...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That story about the hill...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That hill, where the two of us found the sunflowers.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I told you that I would climb that hill and go find Dad's soul somewhere out there.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I thought I could go out beyond that hill and find Dad's soul, so that he could come back to us.\""
+  },
+  {
+    "message": "\"How would you do that?\""
+  },
+  {
+    "message": "\"Where were you going to go looking, anyway?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I don't know.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"It's just... there was a big hill with sunflowers, and we could never go past it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The road of sunflowers, where the sunflowers stretch their stalks out to heaven above. I thought that I could climb that hill and go beyond it, to the place where Dad's soul was laid to rest.\""
+  },
+  {
+    "message": "\"A big hill?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, the big hill in Dad's hometown.\""
+  },
+  {
+    "message": "\"Was it really that big?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Not now it isn't, but back then, when I was a child, it seemed so big.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I thought it was the wall at the end of the world.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I thought if I could just get to the top of that hill, it would be the limit of the world.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But I was wrong.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"When I got to the top...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"There was more of the city, just like here.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"There was a hill after that, and another after that one too.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The city continued on forever.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That was when I realized the world has no end.\""
+  },
+  {
+    "message": "\"Wasn't that when you started crying?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Because that's when I knew Dad's soul wasn't coming back, so I got sad.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"That's when I learned that there are things in this world which will never come back.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"And then you came, Tomo Nii-san. That's how it always was.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"You always came for me when I was crying.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Because I'm always crying... Because I can't do anything...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"So I wanted to become stronger... I tried to be stronger.\""
+  },
+  {
+    "message": "\"I know you did. But maybe you tried too hard.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm no good, huh? I couldn't do anything.\""
+  },
+  {
+    "message": "\"That's not true. I'm still amazed at how hard you tried.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san...\""
+  },
+  {
+    "message": "He couldn't see me."
+  },
+  {
+    "message": "Some other person's soul was in his body. He couldn't see me."
+  },
+  {
+    "message": "But no one except Tomo Nii-san could say the things he was saying."
+  },
+  {
+    "message": "Even if he couldn't see me anymore, this person was still my brother after all."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san.\""
+  },
+  {
+    "message": "I quietly hugged his back."
+  },
+  {
+    "message": "Then he stopped walking."
+  },
+  {
+    "message": "\"Kagami, we're home.\""
+  },
+  {
+    "message": "He suddenly stopped in front of a house I didn't recognize."
+  },
+  {
+    "message": "\"Your parents are probably going to be really sad when they see what happened to you.\""
+  },
+  {
+    "message": "\"But you said you wanted to go home, right?\""
+  },
+  {
+    "message": "\"Kagami...\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Yes?\""
+  },
+  {
+    "message": "\"...\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"E-Excuse me?\""
+  },
+  {
+    "message": "\"...\""
+  },
+  {
+    "message": "\"Please forgive me... I... I couldn't protect Kagami.\""
+  },
+  {
+    "message": "\"I let them do this to her!\""
+  },
+  {
+    "message": "\"I'm so sorry!\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Um...\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Who are you?\""
+  },
+  {
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Is something wrong with your doll?\""
+  },
+  {
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "\"What's happening?\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Um... What are you talking about?\""
+  },
+  {
+    "message": "\"No, that's not it. This was Kagami just a second ago. Wakatsuki Kagami-san.\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Is that the doll's name?\""
+  },
+  {
+    "message": "\"No, that's not it. Kagami lives here, right? She's your daughter.\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Um, it's getting pretty late. If you don't mind, I'd really rather not keep talking like this.\""
+  },
+  {
+    "message": "\"But, Mrs. Wakatsuki!\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Um... We're the Hasegawa family, not Wakatsuki.\""
+  },
+  {
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Old Lady",
+    "message": "\"Um... If you don't leave, I'm going to have to call the police.\""
+  },
+  {
+    "message": "\"What's this? What's happening? I don't...\""
+  },
+  {
+    "message": "\"Tsukasa!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Are you satisfied yet?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Jeez! I don't even know who you are anymore! Give me back my Tomo Nii-san!\""
+  },
+  {
+    "message": "\"Eek!\""
+  },
+  {
+    "message": "\"AAAAAAAHHHHH!\""
+  }
+]

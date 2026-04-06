@@ -1,0 +1,723 @@
+[
+  {
+    "message": "I finished the Tamagushi offering, a ritual offering performed during the overnight vigil in the Shinto tradition."
+  },
+  {
+    "message": "Then I noticed for the first time that Hasaki wasn't there."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hey, Yuki-nee?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hm? What's up?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Have you seen Hasaki?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Huh? Wasn't she with you?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm pretty sure she was here, but after I offered the Tamagushi, she was gone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Maybe she's in the bathroom?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I already checked the bathroom in the house, but she wasn't there.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Where the heck is she?\""
+  },
+  {
+    "message": "Yuki-nee quickly ran off to search around the house."
+  },
+  {
+    "message": "I searched the area around the house too, looking in every place I could think of."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Find her?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"No, I didn't. I asked some other people too.\""
+  },
+  {
+    "name": "Minakami",
+    "message": "\"Tomosane, did you say Hasaki-chan is gone?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Master! Um, she's not in the house. I even checked the cupboards and drawers.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"We searched around the house too, but she's not around here.\""
+  },
+  {
+    "name": "Minakami",
+    "message": "\"Why would she run off at this time?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I don't know. I think she was here before I offered the Tamagushi, but then when I turned around she was gone.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Anyway, can you get some of the students to help us look for her?\""
+  },
+  {
+    "name": "Minakami",
+    "message": "\"Sure, of course. I'll go ask everyone that isn't busy.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Let's go, Tomosane. We should go look by the water.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"The water?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"That's the most dangerous place. We wouldn't want her to hurt herself!\""
+  },
+  {
+    "name": "Minakami",
+    "message": "\"I'll go look over by the beach.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"At her age, I don't think she could really get all the way out to the beach, so we don't have to worry about that.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"All right, Tomosane and I will go look by the irrigation ditches.\""
+  },
+  {
+    "name": "Minakami",
+    "message": "\"I'll leave it up to you.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Haa, haa, she's not over by the ditch... I'm pretty sure.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"There was a pond out there, right?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"What's wrong, Tomosane?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Oh, it's just... I think Hasaki said something weird earlier.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Something weird?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Uh, there's a road behind the school, right?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Yeah, there is.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She asked what was down that road.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"On the other side of the hill?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There's a field of sunflowers on the hill. It would be pretty hard for Hasaki to get out there on foot.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But Hasaki was always asking what was out there on the other side of the sunflowers.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"She liked to imagine that there was something out there.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Out there? It's just the mountain wilderness, isn't it?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, that's why she might be in trouble. It's getting late.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Tomosane, we need to hurry!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hasaki-chan!\""
+  },
+  {
+    "message": "I searched the field of sunflowers with Yuki-nee."
+  },
+  {
+    "name": "Yuki",
+    "message": "\"These sunflowers are as tall as us. I can hardly see a thing.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Maybe she kept going down this road.\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Gotcha, I'll search down the road, so you just wait here.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Why?\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"You dummy, I can't let a child go wandering out in the mountains at night!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not a kid!\""
+  },
+  {
+    "name": "Yuki",
+    "message": "\"Hush! Just wait here!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hey, Yuki-nee!\""
+  },
+  {
+    "message": "Just like that, she ran off down the road."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Damn it...\""
+  },
+  {
+    "message": "To be honest, I can't run nearly as fast as her. Even if I ran after her, I couldn't catch her."
+  },
+  {
+    "message": "I had nothing to do but look around the sunflower field."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki!\""
+  },
+  {
+    "message": "The sunflowers were even taller than I was, and my voice was drowned out in the thick vegetation."
+  },
+  {
+    "message": "No matter how much I yelled, my words were simply swallowed up by the sunflowers."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Damn it. She probably wouldn't hear me if she was here.\""
+  },
+  {
+    "message": "I kept yelling out into the field of sunflowers, but I wasn't accomplishing anything. Eventually, I went to search the top of the hill instead."
+  },
+  {
+    "message": "I figured my voice would carry further if I went up to the peak."
+  },
+  {
+    "message": "I stood up on a high place where I could look over the entire field, and as I was about to call out Hasaki's name again..."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh?\""
+  },
+  {
+    "message": "Once I could see out over the entire field of sunflowers, I noticed something for the first time."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Is that... a road?\""
+  },
+  {
+    "message": "Over on the far side of the field, there was some kind of trail."
+  },
+  {
+    "message": "The trail led up to the main mountain road."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"There's another path over there. The sunflowers were so tall that I didn't even notice.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"...\""
+  },
+  {
+    "message": "Yuki-nee told me to wait, but I couldn't keep that promise."
+  },
+  {
+    "message": "There was another road that Yuki-nee didn't go down."
+  },
+  {
+    "message": "It was possible that Hasaki actually went down this road."
+  },
+  {
+    "message": "So I..."
+  },
+  {
+    "message": "I cut through the field of sunflowers and ran up the steep road."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Haa, haa, haa, haa...\""
+  },
+  {
+    "message": "I had no idea where the road would lead."
+  },
+  {
+    "message": "On the other side of the monstrous blooming sunflowers, that road led into the darkness itself, like something from beyond the pale of our own familiar world."
+  },
+  {
+    "message": "If Hasaki took my words literally..."
+  },
+  {
+    "message": "Dad's soul is far away, in the sky. He made his journey to a place called Heaven."
+  },
+  {
+    "message": "If she took those words literally, she would want to follow this path to its end."
+  },
+  {
+    "message": "A path through the proud sunflowers into the heart of nature's darkness, like a path to connect the realms of life and death."
+  },
+  {
+    "message": "If there was any place that Hasaki would imagine her father's soul taking up its final residence, it would be this place, beyond the hill of sunflowers."
+  },
+  {
+    "message": "That's why I ran."
+  },
+  {
+    "message": "I ran up the steep hill with all my might."
+  },
+  {
+    "message": "I ran headlong into the night, and I saw a light before me."
+  },
+  {
+    "message": "It was like we were coming out upon the world's exterior."
+  },
+  {
+    "message": "A world of deep blue."
+  },
+  {
+    "message": "Brilliant, shining stars were woven into the tapestry."
+  },
+  {
+    "message": "I'd never seen such a night sky."
+  },
+  {
+    "message": "It looked like the sky was falling."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What's this?\""
+  },
+  {
+    "message": "I was taken aback by the sheer number of stars."
+  },
+  {
+    "message": "The starry night sky was always a beautiful sight in this village."
+  },
+  {
+    "message": "But in the three years I'd lived here, I had never seen such a beautiful sky. It was like..."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Like the souls of the dead flying away.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Hasaki!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san!\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "I barely caught Hasaki before she fell."
+  },
+  {
+    "message": "She was totally covered in mud."
+  },
+  {
+    "message": "She probably stumbled and fell when she was climbing up here."
+  },
+  {
+    "message": "She was obviously so tired she could hardly stand."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"One of these... One of them is Dad's soul, right?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But I'm not tall enough... I can't reach him...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You dummy... It doesn't matter how tall you are, no one could reach Dad's soul just by reaching up.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But they're all so close...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"It doesn't matter. You can't reach Dad anymore.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But we came all the way to the edge of the world...\""
+  },
+  {
+    "message": "A sky full of stars that seemed about to rain down upon our heads."
+  },
+  {
+    "message": "I wasn't really surprised that Hasaki would think it was the edge of the world."
+  },
+  {
+    "message": "That this could've been the edge of the world."
+  },
+  {
+    "message": "Hasaki started to cry."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"This isn't the edge of the world... Tomo Nii-san!\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Dad's soul isn't here...\""
+  },
+  {
+    "message": "Hasaki cried into my chest."
+  },
+  {
+    "message": "I just held her and tried to comfort her."
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"There's no edge to the world, is there? Look...\""
+  },
+  {
+    "message": "Hasaki pointed with her finger."
+  },
+  {
+    "message": "But she didn't point toward Sawaimura."
+  },
+  {
+    "message": "It was another village, just like Sawaimura, lit up with the lights of human life."
+  },
+  {
+    "message": "There was another village out there. And after that, a bigger town. No matter how far she walked, she would always find something else out there."
+  },
+  {
+    "message": "No matter how far she tried to journey into the unknown, she could never reach the place where our father's soul had come to rest."
+  },
+  {
+    "message": "That was the first time Hasaki was forced to face that truth."
+  },
+  {
+    "message": "The truth of her father's death."
+  },
+  {
+    "message": "The true meaning of the word."
+  },
+  {
+    "message": "I held Hasaki close."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Let's go back. Everyone is worried about you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Everyone is worried?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, they really are. Everyone in the village is probably looking for you by now. You just disappeared on us, you know?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Looking for me?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah. If Dad knew you went out alone at night like this, he would have to scold you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm sorry...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You dummy. Just don't do it again.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Come on.\""
+  },
+  {
+    "message": "I squatted down and gave Hasaki my back."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'll carry you. You can't walk, can you?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I-I'm not sure...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I just watched you fall a second ago. Hurry up and get on already.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"O-Okay...\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I'm sorry...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What for?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"For making you worry.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, no kidding.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But how did you know where I was?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"How? Are you stupid?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? Why?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I told you, I'm your hero. What kind of hero would I be if I didn't come rescue you when you were in trouble?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Tomo Nii-san...\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Heroes have to know things like that.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"I guess so.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So of course I knew where you were.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Um, Tomo Nii-san... Here.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"What? Isn't this your rabbit doll?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, I'll give you one.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Really? Won't the other one get lonely?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"She has me, so she'll be okay.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Ahaha... That's silly.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Oh, right. In that case, there was that rabbit in the store window, right? I'll buy that for you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Huh? The store?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You know, the one you saw when we went to Jasco. The great big rabbit in the window.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"The stuffed rabbit from that store called Wakatsuki?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You still remember the store name too?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, that rabbit was at the store called Wakatsuki.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Oh, really? In that case, I'll buy the rabbit from that store for you.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"But it was expensive.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you dumb? Don't underestimate me. My bank account is worth more than most countries' entire GDP.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Really?\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Yeah, really. So don't worry about it.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"If that's true, then I'll give you this one too.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Huh? Both of 'em?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Yeah, that way neither of them will get lonely.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You think?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"When you give me the big rabbit, I'll be her twin.\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"Then you can take both of the little rabbit twins.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Are you sure?\""
+  },
+  {
+    "name": "Hasaki",
+    "message": "\"...\""
+  },
+  {
+    "message": "Then Hasaki went quiet."
+  },
+  {
+    "message": "I realized she'd fallen asleep."
+  },
+  {
+    "message": "She was obviously tired."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"But still...\""
+  },
+  {
+    "message": "I told her I was her hero, but the truth is, it was just dumb luck that I found her."
+  },
+  {
+    "message": "Or maybe it really was Dad leading me to her."
+  },
+  {
+    "message": "They say a person's soul can stay on Earth for a while before leaving for Heaven."
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"In that case, Dad, I hope you're listening.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I... I'm gonna hold a grudge against you, Dad.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Because you were always too nice to people. That's why this happened.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"So now that you're dead, just look after Hasaki.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"You just need to protect Hasaki.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"I'm not asking anything else.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Just watch over her, so she can be happy.\""
+  },
+  {
+    "name": "Tomosane",
+    "message": "\"Please, Dad.\""
+  },
+  {
+    "message": "A starry sky, so full of stars that they could rain down upon our heads at any moment, laid above us."
+  },
+  {
+    "message": "I stood under just such a starry sky as I uttered the last words I would ever say to my father."
+  }
+]

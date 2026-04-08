@@ -1,0 +1,1932 @@
+//NAME
+<enN0001>Kimika
+<ptN0001>Kimika
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+//NAME
+<enN0003>Believer
+<ptN0003>Believer
+
+//NAME
+<enN0004>Megu
+<ptN0004>Megu
+
+//NAME
+<enN0005>Satoko
+<ptN0005>Satoko
+
+//NAME
+<enN0006>Yuki
+<ptN0006>Yuki
+
+///================================================================================
+
+//TEXT
+<enT0001>Maybe... that was the last sky.
+<ptT0001>Maybe... that was the last sky.
+
+//TEXT
+<enT0002>Maybe... that was the world's limit.
+<ptT0002>Maybe... that was the world's limit.
+
+//TEXT
+<enT0003>The final sky.
+<ptT0003>The final sky.
+
+//TEXT
+<enT0004>End Sky.
+<ptT0004>End Sky.
+
+//TEXT
+<enT0005>The world's edge... I was standing at the end of the earth...
+<ptT0005>The world's edge... I was standing at the end of the earth...
+
+//TEXT
+<enT0006>The place where the gigantic snake found its own tail.
+<ptT0006>The place where the gigantic snake found its own tail.
+
+//TEXT 【Kimika】
+<enT0007>"My savior!"
+<ptT0007>"My savior!"
+
+//TEXT 【Takuji】
+<enT0008>"Yeah... I wonder if everyone else can see it."
+<ptT0008>"Yeah... I wonder if everyone else can see it."
+
+//TEXT
+<enT0009>Everyone was celebrating.
+<ptT0009>Everyone was celebrating.
+
+//TEXT
+<enT0010>Like a dog pulling out a leash to ask for a walk... Bark, bark, bark.
+<ptT0010>Like a dog pulling out a leash to ask for a walk... Bark, bark, bark.
+
+//TEXT
+<enT0011>They danced around the rooftop.
+<ptT0011>They danced around the rooftop.
+
+//TEXT
+<enT0012>What an end for the world...
+<ptT0012>What an end for the world...
+
+//TEXT
+<enT0013>The world was ending.
+<ptT0013>The world was ending.
+
+//TEXT
+<enT0014>So we're going to return to the sky.
+<ptT0014>So we're going to return to the sky.
+
+//TEXT
+<enT0015>Like the first time a child sees snow. Bark, bark, bark... No, that would be a dog.
+<ptT0015>Like the first time a child sees snow. Bark, bark, bark... No, that would be a dog.
+
+//TEXT
+<enT0016>The world's final sky.
+<ptT0016>The world's final sky.
+
+//TEXT
+<enT0017>Instead of snow, we had a sky full of stars.
+<ptT0017>Instead of snow, we had a sky full of stars.
+
+//TEXT
+<enT0018>The stars sparkled on the world's final night.
+<ptT0018>The stars sparkled on the world's final night.
+
+//TEXT
+<enT0019>The time of fear recorded in the Book of Revelation.
+<ptT0019>The time of fear recorded in the Book of Revelation.
+
+//TEXT
+<enT0020>But the fools were celebrating... Bark, bark, bark...
+<ptT0020>But the fools were celebrating... Bark, bark, bark...
+
+//TEXT
+<enT0021>Whether the stars come out or snow falls for the first time, it's all the same.
+<ptT0021>Whether the stars come out or snow falls for the first time, it's all the same.
+
+//TEXT 【Kimika】
+<enT0022>"Why wouldn't they see it? I can see it just fine."
+<ptT0022>"Why wouldn't they see it? I can see it just fine."
+
+//TEXT 【Takuji】
+<enT0023>"What do you see?"
+<ptT0023>"What do you see?"
+
+//TEXT 【Kimika】
+<enT0024>"It's like, the border is held together with cellophane tape."
+<ptT0024>"It's like, the border is held together with cellophane tape."
+
+//TEXT 【Takuji】
+<enT0025>"What?"
+<ptT0025>"What?"
+
+//TEXT 【Kimika】
+<enT0026>"Well, I mean... You said the world's beginning and end are connected. It looks like you rolled it up and taped the ends together."
+<ptT0026>"Well, I mean... You said the world's beginning and end are connected. It looks like you rolled it up and taped the ends together."
+
+//TEXT 【Takuji】
+<enT0027>"That's what you see?"
+<ptT0027>"That's what you see?"
+
+//TEXT 【Kimika】
+<enT0028>"Yes! Clear as day!"
+<ptT0028>"Yes! Clear as day!"
+
+//TEXT 【Takuji】
+<enT0029>"That's your End Sky, huh..."
+<ptT0029>"That's your End Sky, huh..."
+
+//TEXT 【Kimika】
+<enT0030>"Yes. In my End Sky, the beginning and end are held together with tape!"
+<ptT0030>"Yes. In my End Sky, the beginning and end are held together with tape!"
+
+//TEXT 【Takuji】
+<enT0031>"Is that the kind of place where you want to go?"
+<ptT0031>"Is that the kind of place where you want to go?"
+
+//TEXT 【Kimika】
+<enT0032>"I SUPER want to go there!"
+<ptT0032>"I SUPER want to go there!"
+
+//TEXT 【Kimika】
+<enT0033>"Hey, everyone!"
+<ptT0033>"Hey, everyone!"
+
+//TEXT
+<enT0034>Kimika shouted to the crowd.
+<ptT0034>Kimika shouted to the crowd.
+
+//TEXT
+<enT0035>Everyone looked at her.
+<ptT0035>Everyone looked at her.
+
+//TEXT 【Kimika】
+<enT0036>"Do you want to go to the End Sky?"
+<ptT0036>"Do you want to go to the End Sky?"
+
+//TEXT 【Kimika】
+<enT0037>"Look, my savior! Everyone SUPER wants to go!"
+<ptT0037>"Look, my savior! Everyone SUPER wants to go!"
+
+//TEXT 【Kimika】
+<enT0038>"What does the End Sky look like to you all?"
+<ptT0038>"What does the End Sky look like to you all?"
+
+//TEXT
+<enT0039>I couldn't tell what they were screaming.
+<ptT0039>I couldn't tell what they were screaming.
+
+//TEXT
+<enT0040>Calm down a little... my believers.
+<ptT0040>Calm down a little... my believers.
+
+//TEXT
+<enT0041>You can talk about what you all see, one by one. You can even scream it.
+<ptT0041>You can talk about what you all see, one by one. You can even scream it.
+
+//TEXT 【Kimika】
+<enT0042>"Really?! I can't hear you at all... Well, anyway, this is the final sky!"
+<ptT0042>"Really?! I can't hear you at all... Well, anyway, this is the final sky!"
+
+//TEXT
+<enT0043>Kimika yelled.
+<ptT0043>Kimika yelled.
+
+//TEXT
+<enT0044>At my side... like she was having so much fun...
+<ptT0044>At my side... like she was having so much fun...
+
+//TEXT 【Kimika】
+<enT0045>"All right! Let's break that fence!"
+<ptT0045>"All right! Let's break that fence!"
+
+//TEXT
+<enT0046>Kimika picked up a mallet.
+<ptT0046>Kimika picked up a mallet.
+
+//TEXT
+<enT0047>Then several others waved their mallets over their heads.
+<ptT0047>Then several others waved their mallets over their heads.
+
+//TEXT
+<enT0048>That stupid woman... She brought mallets too? Or maybe she made the believers gather them?
+<ptT0048>That stupid woman... She brought mallets too? Or maybe she made the believers gather them?
+
+//TEXT
+<enT0049>Actually, now that I look, it seems like someone got hit with one of those.
+<ptT0049>Actually, now that I look, it seems like someone got hit with one of those.
+
+//TEXT
+<enT0050>There's so much blood...
+<ptT0050>There's so much blood...
+
+//TEXT
+<enT0051>What a silly ritual...
+<ptT0051>What a silly ritual...
+
+//TEXT 【Takuji】
+<enT0052>"Wait, wait... Kimika, calm down. You're messing up the ritual."
+<ptT0052>"Wait, wait... Kimika, calm down. You're messing up the ritual."
+
+//TEXT 【Kimika】
+<enT0053>"Really? Isn't it supposed to be a celebration? This is the last festival, my savior."
+<ptT0053>"Really? Isn't it supposed to be a celebration? This is the last festival, my savior."
+
+//TEXT 【Takuji】
+<enT0054>"Well, I guess so..."
+<ptT0054>"Well, I guess so..."
+
+//TEXT 【Kimika】
+<enT0055>"Go on, break that fence! That's the barrier standing in our way!"
+<ptT0055>"Go on, break that fence! That's the barrier standing in our way!"
+
+//TEXT 【Kimika】
+<enT0056>"Destroy the barrier! Destroy it! Return to the sky!"
+<ptT0056>"Destroy the barrier! Destroy it! Return to the sky!"
+
+//TEXT 【Kimika】
+<enT0057>"It's the Berlin Wall! This is a victory for democracy! Are you stupid? You actually believed that? Anyway, I want that wall torn down!"
+<ptT0057>"It's the Berlin Wall! This is a victory for democracy! Are you stupid? You actually believed that? Anyway, I want that wall torn down!"
+
+//TEXT 【Kimika】
+<enT0058>"Destroy! Destroy! Tear it down! Hammers! Heavy metal! Ma**o! Ha**er brothers!"
+<ptT0058>"Destroy! Destroy! Tear it down! Hammers! Heavy metal! Ma**o! Ha**er brothers!"
+
+//TEXT 【Kimika】
+<enT0059>"Do it, Ha**er Brothers! Take down Ma**o! Take down the psychiatrist who denies Ma**o-sama's great deeds! Rip him to pieces!
+<ptT0059>"Do it, Ha**er Brothers! Take down Ma**o! Take down the psychiatrist who denies Ma**o-sama's great deeds! Rip him to pieces!
+
+//TEXT 【Takuji】
+<enT0060>"Kimika... I don't get it. I don't know what you're talking about at all."
+<ptT0060>"Kimika... I don't get it. I don't know what you're talking about at all."
+
+//TEXT 【Kimika】
+<enT0061>"Ahahaha, I'm just going along with it. That's what's really important right now!"
+<ptT0061>"Ahahaha, I'm just going along with it. That's what's really important right now!"
+
+//TEXT 【Takuji】
+<enT0062>"Whatever you say, but don't take my job."
+<ptT0062>"Whatever you say, but don't take my job."
+
+//TEXT 【Kimika】
+<enT0063>"Ehehehe. It'll be all right... My savior, your voice isn't as loud as mine, is it? And your wounds look pretty bad..."
+<ptT0063>"Ehehehe. It'll be all right... My savior, your voice isn't as loud as mine, is it? And your wounds look pretty bad..."
+
+//TEXT 【Takuji】
+<enT0064>"I guess so..."
+<ptT0064>"I guess so..."
+
+//TEXT 【Kimika】
+<enT0065>"You don't look too good."
+<ptT0065>"You don't look too good."
+
+//TEXT 【Takuji】
+<enT0066>"Yeah, I might not have enough blood left."
+<ptT0066>"Yeah, I might not have enough blood left."
+
+//TEXT 【Kimika】
+<enT0067>"Do you want to drink some of mine?"
+<ptT0067>"Do you want to drink some of mine?"
+
+//TEXT 【Takuji】
+<enT0068>"The savior isn't a vampire. That won't heal me..."
+<ptT0068>"The savior isn't a vampire. That won't heal me..."
+
+//TEXT 【Kimika】
+<enT0069>"Oh, really? That's kind of inconvenient."
+<ptT0069>"Oh, really? That's kind of inconvenient."
+
+//TEXT 【Takuji】
+<enT0070>"Yeah, I guess."
+<ptT0070>"Yeah, I guess."
+
+//TEXT 【Believer】
+<enT0071>"W-Whoa..."
+<ptT0071>"W-Whoa..."
+
+//TEXT 【Believer】
+<enT0072>"A colossal cross..."
+<ptT0072>"A colossal cross..."
+
+//TEXT 【Believer】
+<enT0073>"It looks like a huge door."
+<ptT0073>"It looks like a huge door."
+
+//TEXT 【Believer】
+<enT0074>"I see a key and a keyhole..."
+<ptT0074>"I see a key and a keyhole..."
+
+//TEXT
+<enT0075>They all tried to put what they saw in the final sky into words.
+<ptT0075>They all tried to put what they saw in the final sky into words.
+
+//TEXT
+<enT0076>The world's last sky... How does it appear to them?
+<ptT0076>The world's last sky... How does it appear to them?
+
+//TEXT
+<enT0077>The world's final scene.
+<ptT0077>The world's final scene.
+
+//TEXT
+<enT0078>The world's final words.
+<ptT0078>The world's final words.
+
+//TEXT
+<enT0079>People dancing.
+<ptT0079>People dancing.
+
+//TEXT
+<enT0080>People fighting.
+<ptT0080>People fighting.
+
+//TEXT
+<enT0081>People laughing.
+<ptT0081>People laughing.
+
+//TEXT
+<enT0082>People happily destroying the building here under the sky.
+<ptT0082>People happily destroying the building here under the sky.
+
+//TEXT
+<enT0083>People already covered in blood.
+<ptT0083>People already covered in blood.
+
+//TEXT
+<enT0084>Under the final sky.
+<ptT0084>Under the final sky.
+
+//TEXT
+<enT0085>The stars shined out from every inch of that dark blue sky...
+<ptT0085>The stars shined out from every inch of that dark blue sky...
+
+//TEXT
+<enT0086>A beautiful night sky.
+<ptT0086>A beautiful night sky.
+
+//TEXT
+<enT0087>Someone set off fireworks.
+<ptT0087>Someone set off fireworks.
+
+//TEXT
+<enT0088>For some reason, a spark caused a pillar of flame to bellow up from the ground.
+<ptT0088>For some reason, a spark caused a pillar of flame to bellow up from the ground.
+
+//TEXT
+<enT0089>Someone brought a can of gasoline...
+<ptT0089>Someone brought a can of gasoline...
+
+//TEXT
+<enT0090>Some idiot must have brought the gasoline from the generator up here.
+<ptT0090>Some idiot must have brought the gasoline from the generator up here.
+
+//TEXT
+<enT0091>A pillar of flame on the rooftop.
+<ptT0091>A pillar of flame on the rooftop.
+
+//TEXT
+<enT0092>A huge pillar of flame.
+<ptT0092>A huge pillar of flame.
+
+//TEXT
+<enT0093>Several people got caught in the flames and burnt alive.
+<ptT0093>Several people got caught in the flames and burnt alive.
+
+//TEXT
+<enT0094>Even with the drugs, that must have hurt... They had burns all over their bodies.
+<ptT0094>Even with the drugs, that must have hurt... They had burns all over their bodies.
+
+//TEXT
+<enT0095>To an outsider, this sight would look like a peek into hell itself.
+<ptT0095>To an outsider, this sight would look like a peek into hell itself.
+
+//TEXT
+<enT0096>Why are they all having so much fun in this hell?
+<ptT0096>Why are they all having so much fun in this hell?
+
+//TEXT
+<enT0097>Under the End Sky... I hesitated.
+<ptT0097>Under the End Sky... I hesitated.
+
+//TEXT
+<enT0098>I hesitated at the end of the world.
+<ptT0098>I hesitated at the end of the world.
+
+//TEXT
+<enT0099>I was struck by the joy... and the happiness here.
+<ptT0099>I was struck by the joy... and the happiness here.
+
+//TEXT
+<enT0100>Why does it shine so?
+<ptT0100>Why does it shine so?
+
+//TEXT
+<enT0101>Why do they all shine so?
+<ptT0101>Why do they all shine so?
+
+//TEXT
+<enT0102>Everyone shone.
+<ptT0102>Everyone shone.
+
+//TEXT
+<enT0103>They all shone as if their lives were being illuminated by a great light.
+<ptT0103>They all shone as if their lives were being illuminated by a great light.
+
+//TEXT
+<enT0104>The final sky reflected their lives like nothing else could. It made them shine so beautifully that I was convinced this was the meaning to their lives.
+<ptT0104>The final sky reflected their lives like nothing else could. It made them shine so beautifully that I was convinced this was the meaning to their lives.
+
+//TEXT
+<enT0105>Shine brighter!
+<ptT0105>Shine brighter!
+
+//TEXT
+<enT0106>Light our lives!
+<ptT0106>Light our lives!
+
+//TEXT
+<enT0107>Suddenly, the words floated up from my memory.
+<ptT0107>Suddenly, the words floated up from my memory.
+
+//TEXT
+<enT0108>The time is during the first World War! The preeminent philosopher of the 20th century stood on the battlefield.
+<ptT0108>The time is during the first World War! The preeminent philosopher of the 20th century stood on the battlefield.
+
+//TEXT
+<enT0109>He saw the beauty of his life as he stood within that storm of bullets.
+<ptT0109>He saw the beauty of his life as he stood within that storm of bullets.
+
+//TEXT
+<enT0110>He wrote that his life was most beautiful in a world where he could die at any moment.
+<ptT0110>He wrote that his life was most beautiful in a world where he could die at any moment.
+
+//TEXT
+<enT0111>"God, light our lives!"
+<ptT0111>"God, light our lives!"
+
+//TEXT
+<enT0112>His name was Wittgenstein.
+<ptT0112>His name was Wittgenstein.
+
+//TEXT
+<enT0113>"Tell them."
+<ptT0113>"Tell them."
+
+//TEXT
+<enT0114>"I've had a wonderful life!"
+<ptT0114>"I've had a wonderful life!"
+
+//TEXT
+<enT0115>"Tell my friends I've had an amazing, wonderful life!"
+<ptT0115>"Tell my friends I've had an amazing, wonderful life!"
+
+//TEXT
+<enT0116>He said those words just before he died.
+<ptT0116>He said those words just before he died.
+
+//TEXT
+<enT0117>Anyone could see he had been unhappy in life.
+<ptT0117>Anyone could see he had been unhappy in life.
+
+//TEXT
+<enT0118>Anyone could see he had been troubled.
+<ptT0118>Anyone could see he had been troubled.
+
+//TEXT
+<enT0119>They say his pupil was confused by those words.
+<ptT0119>They say his pupil was confused by those words.
+
+//TEXT
+<enT0120>What part of your life was so wonderful?
+<ptT0120>What part of your life was so wonderful?
+
+//TEXT
+<enT0121>He had a bad temper, and he was always a rude person.
+<ptT0121>He had a bad temper, and he was always a rude person.
+
+//TEXT
+<enT0122>All the books talk about how he was such a bothersome person.
+<ptT0122>All the books talk about how he was such a bothersome person.
+
+//TEXT
+<enT0123>An incredibly bothersome person.
+<ptT0123>An incredibly bothersome person.
+
+//TEXT
+<enT0124>Nonsensical, selfish, and... a genius.
+<ptT0124>Nonsensical, selfish, and... a genius.
+
+//TEXT
+<enT0125>Huh? But why do I know his name...
+<ptT0125>Huh? But why do I know his name...
+
+//TEXT
+<enT0126>I hate difficult books like that.
+<ptT0126>I hate difficult books like that.
+
+//TEXT
+<enT0127>But Wittgenstein repudiated suicide.
+<ptT0127>But Wittgenstein repudiated suicide.
+
+//TEXT
+<enT0128>Since he was always on the verge of suicide himself...
+<ptT0128>Since he was always on the verge of suicide himself...
+
+//TEXT
+<enT0129>He was such a maniac that he wrote his diaries in cipher.
+<ptT0129>He was such a maniac that he wrote his diaries in cipher.
+
+//TEXT
+<enT0130>A genius, and a devil.
+<ptT0130>A genius, and a devil.
+
+//TEXT
+<enT0131>He said this.
+<ptT0131>He said this.
+
+//TEXT
+<enT0132>"Live happily!"
+<ptT0132>"Live happily!"
+
+//TEXT
+<enT0133>What right does such a thoroughly unhappy person have to say that?!
+<ptT0133>What right does such a thoroughly unhappy person have to say that?!
+
+//TEXT
+<enT0134>But now I understand.
+<ptT0134>But now I understand.
+
+//TEXT
+<enT0135>If this is the world's limit...
+<ptT0135>If this is the world's limit...
+
+//TEXT
+<enT0136>If this is the world's edge...
+<ptT0136>If this is the world's edge...
+
+//TEXT
+<enT0137>The world is nothing but a vessel...
+<ptT0137>The world is nothing but a vessel...
+
+//TEXT
+<enT0138>Someone once said that human life is empty and meaningless.
+<ptT0138>Someone once said that human life is empty and meaningless.
+
+//TEXT
+<enT0139>Of course... The world is nothing but a vessel. There's nothing that can fill it.
+<ptT0139>Of course... The world is nothing but a vessel. There's nothing that can fill it.
+
+//TEXT
+<enT0140>What can fill that vessel?
+<ptT0140>What can fill that vessel?
+
+//TEXT
+<enT0141>Money? Dreams? Fame? Women? Eroge?
+<ptT0141>Money? Dreams? Fame? Women? Eroge?
+
+//TEXT
+<enT0142>That's ridiculous... Those too are part of the vessel.
+<ptT0142>That's ridiculous... Those too are part of the vessel.
+
+//TEXT
+<enT0143>They're all part of the world.
+<ptT0143>They're all part of the world.
+
+//TEXT
+<enT0144>Everything that can be described... everything that can be put into words... is nothing more than the world.
+<ptT0144>Everything that can be described... everything that can be put into words... is nothing more than the world.
+
+//TEXT
+<enT0145>That which can fill the world must lie outside of the world.
+<ptT0145>That which can fill the world must lie outside of the world.
+
+//TEXT
+<enT0146>"The subject does not belong to the world but it is a limit of the world."
+<ptT0146>"The subject does not belong to the world but it is a limit of the world."
+
+//TEXT
+<enT0147>"The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen."
+<ptT0147>"The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen."
+
+//TEXT
+<enT0148>"In it there is no value."
+<ptT0148>"In it there is no value."
+
+//TEXT
+<enT0149>The words of the great philosopher who said, "Tell them I've had a wonderful life."
+<ptT0149>The words of the great philosopher who said, "Tell them I've had a wonderful life."
+
+//TEXT
+<enT0150>I feel like... I can understand the meaning of those words.
+<ptT0150>I feel like... I can understand the meaning of those words.
+
+//TEXT
+<enT0151>The words of a great philosopher who lived long ago, in a far away place, resonated within me.
+<ptT0151>The words of a great philosopher who lived long ago, in a far away place, resonated within me.
+
+//TEXT
+<enT0152>Now, let's fill our vessel!
+<ptT0152>Now, let's fill our vessel!
+
+//TEXT
+<enT0153>Let's light our lives!
+<ptT0153>Let's light our lives!
+
+//TEXT
+<enT0154>Don't hold back... Don't hold death back!
+<ptT0154>Don't hold back... Don't hold death back!
+
+//TEXT
+<enT0155>Life shines when freed from its restraints.
+<ptT0155>Life shines when freed from its restraints.
+
+//TEXT
+<enT0156>This sky will light our lives.
+<ptT0156>This sky will light our lives.
+
+//TEXT
+<enT0157>It will light our lives with its pale blue light.
+<ptT0157>It will light our lives with its pale blue light.
+
+//TEXT
+<enT0158>But we will be the ones shining in the sky!
+<ptT0158>But we will be the ones shining in the sky!
+
+//TEXT
+<enT0159>It is within this world of blue that we can understand that fact.
+<ptT0159>It is within this world of blue that we can understand that fact.
+
+//TEXT
+<enT0160>This is the last sky.
+<ptT0160>This is the last sky.
+
+//TEXT
+<enT0161>The sky of the end.
+<ptT0161>The sky of the end.
+
+//TEXT
+<enT0162>How will they all be reflected... in this final sky?
+<ptT0162>How will they all be reflected... in this final sky?
+
+//TEXT
+<enT0163>The border of the sky held together with tape.
+<ptT0163>The border of the sky held together with tape.
+
+//TEXT
+<enT0164>The colossal cross.
+<ptT0164>The colossal cross.
+
+//TEXT
+<enT0165>The blue ocean glimpsed from within a white room.
+<ptT0165>The blue ocean glimpsed from within a white room.
+
+//TEXT
+<enT0166>Power lines that continue into eternity.
+<ptT0166>Power lines that continue into eternity.
+
+//TEXT
+<enT0167>The Virgin Mary depicted within the Church of Rosaries.
+<ptT0167>The Virgin Mary depicted within the Church of Rosaries.
+
+//TEXT
+<enT0168>This is the final edge.
+<ptT0168>This is the final edge.
+
+//TEXT
+<enT0169>The sky where all duality ends.
+<ptT0169>The sky where all duality ends.
+
+//TEXT
+<enT0170>The shining moon.
+<ptT0170>The shining moon.
+
+//TEXT
+<enT0171>The sky full of stars.
+<ptT0171>The sky full of stars.
+
+//TEXT
+<enT0172>The lights of people spread out across the land...
+<ptT0172>The lights of people spread out across the land...
+
+//TEXT
+<enT0173>Like a party.
+<ptT0173>Like a party.
+
+//TEXT
+<enT0174>Beyond a ritual... Just a party.
+<ptT0174>Beyond a ritual... Just a party.
+
+//TEXT
+<enT0175>The world's final party.
+<ptT0175>The world's final party.
+
+//TEXT
+<enT0176>The first and last moment of life in this world.
+<ptT0176>The first and last moment of life in this world.
+
+//TEXT 【Kimika】
+<enT0177>"Now then, the savior has something to say."
+<ptT0177>"Now then, the savior has something to say."
+
+//TEXT 【Kimika】
+<enT0178>"Give him your undivided attention!"
+<ptT0178>"Give him your undivided attention!"
+
+//TEXT
+<enT0179>You're the one who's not paying attention to me...
+<ptT0179>You're the one who's not paying attention to me...
+
+//TEXT 【Takuji】
+<enT0180>"This is..."
+<ptT0180>"This is..."
+
+//TEXT 【Takuji】
+<enT0181>"This is the end of the sky..."
+<ptT0181>"This is the end of the sky..."
+
+//TEXT 【Takuji】
+<enT0182>"This is the world's limit..."
+<ptT0182>"This is the world's limit..."
+
+//TEXT 【Takuji】
+<enT0183>"We are standing beneath the final sky..."
+<ptT0183>"We are standing beneath the final sky..."
+
+//TEXT 【Takuji】
+<enT0184>"The rest is simple... The rest is easy."
+<ptT0184>"The rest is simple... The rest is easy."
+
+//TEXT 【Takuji】
+<enT0185>"You can reach the sky... effortlessly..."
+<ptT0185>"You can reach the sky... effortlessly..."
+
+//TEXT 【Takuji】
+<enT0186>"Let's return to the sky..."
+<ptT0186>"Let's return to the sky..."
+
+//TEXT 【Kimika】
+<enT0187>"Well then, my savior... This is it."
+<ptT0187>"Well then, my savior... This is it."
+
+//TEXT 【Takuji】
+<enT0188>"Kimika?"
+<ptT0188>"Kimika?"
+
+//TEXT 【Kimika】
+<enT0189>"Someone needs to go first... I'll go. I'll leave the rest to you."
+<ptT0189>"Someone needs to go first... I'll go. I'll leave the rest to you."
+
+//TEXT 【Kimika】
+<enT0190>"The last few days... I've had a lot of fun."
+<ptT0190>"The last few days... I've had a lot of fun."
+
+//TEXT 【Takuji】
+<enT0191>"Eh?"
+<ptT0191>"Eh?"
+
+//TEXT 【Kimika】
+<enT0192>"Does anyone have anything left to do in this world?"
+<ptT0192>"Does anyone have anything left to do in this world?"
+
+//TEXT
+<enT0193>My question was blocked out by her yelling.
+<ptT0193>My question was blocked out by her yelling.
+
+//TEXT 【Kimika】
+<enT0194>"Is there anything you still need to do in this world?"
+<ptT0194>"Is there anything you still need to do in this world?"
+
+//TEXT 【Kimika】
+<enT0195>"And what the hell do we really need to do anyway?"
+<ptT0195>"And what the hell do we really need to do anyway?"
+
+//TEXT 【Kimika】
+<enT0196>"Eat! Sleep! Jack off! That's all you guys do, right?!"
+<ptT0196>"Eat! Sleep! Jack off! That's all you guys do, right?!"
+
+//TEXT 【Kimika】
+<enT0197>"I'm pretty much the same! Eating, sleeping, or masturbating!"
+<ptT0197>"I'm pretty much the same! Eating, sleeping, or masturbating!"
+
+//TEXT 【Kimika】
+<enT0198>"But there's nothing left... Yeah, it feels like I've done everything I need to do."
+<ptT0198>"But there's nothing left... Yeah, it feels like I've done everything I need to do."
+
+//TEXT 【Kimika】
+<enT0199>"So I'm going to return to the sky!"
+<ptT0199>"So I'm going to return to the sky!"
+
+//TEXT 【Kimika】
+<enT0200>"Happily! Come on, follow me!"
+<ptT0200>"Happily! Come on, follow me!"
+
+//TEXT
+<enT0201>The broken fence.
+<ptT0201>The broken fence.
+
+//TEXT
+<enT0202>Nothing separated us from the sky anymore.
+<ptT0202>Nothing separated us from the sky anymore.
+
+//TEXT
+<enT0203>We just needed to take one step... and fly.
+<ptT0203>We just needed to take one step... and fly.
+
+//TEXT
+<enT0204>That's all.
+<ptT0204>That's all.
+
+//TEXT
+<enT0205>Kimika was smiling as she yelled out again.
+<ptT0205>Kimika was smiling as she yelled out again.
+
+//TEXT 【Kimika】
+<enT0206>"Now fly to the final sky!"
+<ptT0206>"Now fly to the final sky!"
+
+//TEXT
+<enT0207>Kimika flew.
+<ptT0207>Kimika flew.
+
+//TEXT
+<enT0208>Kimika flew like a shooting star in reverse.
+<ptT0208>Kimika flew like a shooting star in reverse.
+
+//TEXT
+<enT0209>Kimika floated in the sky... She rose and rose...
+<ptT0209>Kimika floated in the sky... She rose and rose...
+
+//TEXT
+<enT0210>She went faster and faster as her voice receded.
+<ptT0210>She went faster and faster as her voice receded.
+
+//TEXT
+<enT0211>They were inspired...
+<ptT0211>They were inspired...
+
+//TEXT 【Megu】
+<enT0212>"W-Wait, why do you think you get to go before me?!"
+<ptT0212>"W-Wait, why do you think you get to go before me?!"
+
+//TEXT 【Satoko】
+<enT0213>"M-Me too!"
+<ptT0213>"M-Me too!"
+
+//TEXT
+<enT0214>As Kimika flew into the sky... those two followed her.
+<ptT0214>As Kimika flew into the sky... those two followed her.
+
+//TEXT
+<enT0215>People flying through the sky.
+<ptT0215>People flying through the sky.
+
+//TEXT
+<enT0216>People returning to the sky.
+<ptT0216>People returning to the sky.
+
+//TEXT
+<enT0217>At the edge of the world... the people headed toward the sky.
+<ptT0217>At the edge of the world... the people headed toward the sky.
+
+//TEXT
+<enT0218>They extended their arms wider and wider, like they were trying to grab onto the world itself.
+<ptT0218>They extended their arms wider and wider, like they were trying to grab onto the world itself.
+
+//TEXT
+<enT0219>The people went to the sky.
+<ptT0219>The people went to the sky.
+
+//TEXT 【Believer】
+<enT0220>"Let's go together."
+<ptT0220>"Let's go together."
+
+//TEXT 【Believer】
+<enT0221>"Yeah."
+<ptT0221>"Yeah."
+
+//TEXT 【Believer】
+<enT0222>"We'll be together again in the complete world."
+<ptT0222>"We'll be together again in the complete world."
+
+//TEXT 【Believer】
+<enT0223>"Yeah."
+<ptT0223>"Yeah."
+
+//TEXT 【Believer】
+<enT0224>"Here goes."
+<ptT0224>"Here goes."
+
+//TEXT 【Believer】
+<enT0225>"Thank you, my savior."
+<ptT0225>"Thank you, my savior."
+
+//TEXT
+<enT0226>Some of them were hesitant.
+<ptT0226>Some of them were hesitant.
+
+//TEXT
+<enT0227>But most of them flew into the sky immediately without thinking twice.
+<ptT0227>But most of them flew into the sky immediately without thinking twice.
+
+//TEXT
+<enT0228>They just screamed.
+<ptT0228>They just screamed.
+
+//TEXT
+<enT0229>Words without meaning...
+<ptT0229>Words without meaning...
+
+//TEXT
+<enT0230>Truly meaningless words.
+<ptT0230>Truly meaningless words.
+
+//TEXT
+<enT0231>Today feels especially good... It feels especially comfortable.
+<ptT0231>Today feels especially good... It feels especially comfortable.
+
+//TEXT
+<enT0232>A cool breeze.
+<ptT0232>A cool breeze.
+
+//TEXT
+<enT0233>A beautiful blue.
+<ptT0233>A beautiful blue.
+
+//TEXT
+<enT0234>A world of light.
+<ptT0234>A world of light.
+
+//TEXT
+<enT0235>It's a good day to die.
+<ptT0235>It's a good day to die.
+
+//TEXT
+<enT0236>Someone said that once.
+<ptT0236>Someone said that once.
+
+//TEXT
+<enT0237>An amazing number of people passed over the broken fence and stepped over the borderline.
+<ptT0237>An amazing number of people passed over the broken fence and stepped over the borderline.
+
+//TEXT
+<enT0238>Some of them couldn't move because they had been injured or burnt, but there were several believers throwing these people into the sky as well.
+<ptT0238>Some of them couldn't move because they had been injured or burnt, but there were several believers throwing these people into the sky as well.
+
+//TEXT
+<enT0239>They too were sucked into the sky.
+<ptT0239>They too were sucked into the sky.
+
+//TEXT
+<enT0240>Before I realized it... all the commotion had disappeared.
+<ptT0240>Before I realized it... all the commotion had disappeared.
+
+//TEXT
+<enT0241>All that noise had changed into complete silence.
+<ptT0241>All that noise had changed into complete silence.
+
+//TEXT
+<enT0242>When I came to my senses... I was the only one standing there.
+<ptT0242>When I came to my senses... I was the only one standing there.
+
+//TEXT
+<enT0243>I stood on the rooftop... alone.
+<ptT0243>I stood on the rooftop... alone.
+
+//TEXT
+<enT0244>Hehehe, there's no one left.
+<ptT0244>Hehehe, there's no one left.
+
+//TEXT
+<enT0245>Just me...
+<ptT0245>Just me...
+
+//TEXT
+<enT0246>It's really over...
+<ptT0246>It's really over...
+
+//TEXT
+<enT0247>I heard the sounds of sirens in the distance.
+<ptT0247>I heard the sounds of sirens in the distance.
+
+//TEXT
+<enT0248>Of course the police were called after we made such a commotion.
+<ptT0248>Of course the police were called after we made such a commotion.
+
+//TEXT
+<enT0249>People dancing on the roof, committing vandalism, and then flying...
+<ptT0249>People dancing on the roof, committing vandalism, and then flying...
+
+//TEXT
+<enT0250>...
+<ptT0250>...
+
+//TEXT
+<enT0251>Now...
+<ptT0251>Now...
+
+//TEXT
+<enT0252>Now it's over...
+<ptT0252>Now it's over...
+
+//TEXT
+<enT0253>My...
+<ptT0253>My...
+
+//TEXT
+<enT0254>My wonderful life... is over.
+<ptT0254>My wonderful life... is over.
+
+//TEXT
+<enT0255>That's right... I was meant to do this from the beginning.
+<ptT0255>That's right... I was meant to do this from the beginning.
+
+//TEXT
+<enT0256>From the beginning?
+<ptT0256>From the beginning?
+
+//TEXT
+<enT0257>Huh? Why did I ever try to do this?
+<ptT0257>Huh? Why did I ever try to do this?
+
+//TEXT
+<enT0258>I feel like I can't quite remember something important.
+<ptT0258>I feel like I can't quite remember something important.
+
+//TEXT
+<enT0259>What was the reason why I had to do this?
+<ptT0259>What was the reason why I had to do this?
+
+//TEXT
+<enT0260>Actually, Yuuki...
+<ptT0260>Actually, Yuuki...
+
+//TEXT
+<enT0261>Yuuki Tomosane... Why did he apologize at the end?
+<ptT0261>Yuuki Tomosane... Why did he apologize at the end?
+
+//TEXT
+<enT0262>Who was he apologizing to...
+<ptT0262>Who was he apologizing to...
+
+//TEXT
+<enT0263>What was he apologizing for?
+<ptT0263>What was he apologizing for?
+
+//TEXT
+<enT0264>Who did he try to protect?
+<ptT0264>Who did he try to protect?
+
+//TEXT 【Takuji】
+<enT0265>"Hehehehe..."
+<ptT0265>"Hehehehe..."
+
+//TEXT 【Takuji】
+<enT0266>"It's not important. It doesn't matter anymore."
+<ptT0266>"It's not important. It doesn't matter anymore."
+
+//TEXT 【Takuji】
+<enT0267>"I have nothing left to do here."
+<ptT0267>"I have nothing left to do here."
+
+//TEXT 【Takuji】
+<enT0268>"I haven't forgotten anything..."
+<ptT0268>"I haven't forgotten anything..."
+
+//TEXT 【Takuji】
+<enT0269>"That's right... Nothing I've forgotten. Nothing..."
+<ptT0269>"That's right... Nothing I've forgotten. Nothing..."
+
+//TEXT 【Takuji】
+<enT0270>"I haven't forgotten it... I don't need it."
+<ptT0270>"I haven't forgotten it... I don't need it."
+
+//TEXT 【Takuji】
+<enT0271>"I don't need those words."
+<ptT0271>"I don't need those words."
+
+//TEXT 【Yuki】
+<enT0272>"Mamiya Takuji!"
+<ptT0272>"Mamiya Takuji!"
+
+//TEXT
+<enT0273>Huh?
+<ptT0273>Huh?
+
+//TEXT
+<enT0274>I've heard this voice before...
+<ptT0274>I've heard this voice before...
+
+//TEXT
+<enT0275>This voice is... Oh, it's her.
+<ptT0275>This voice is... Oh, it's her.
+
+//TEXT
+<enT0276>The woman who was intended to harmonize the world in the aftermath.
+<ptT0276>The woman who was intended to harmonize the world in the aftermath.
+
+//TEXT 【Yuki】
+<enT0277>"Mamiya, you―!"
+<ptT0277>"Mamiya, you―!"
+
+//TEXT 【Takuji】
+<enT0278>"Huh?"
+<ptT0278>"Huh?"
+
+//TEXT 【Takuji】
+<enT0279>"Oh."
+<ptT0279>"Oh."
+
+//TEXT 【Takuji】
+<enT0280>"Minakami Yuki-san..."
+<ptT0280>"Minakami Yuki-san..."
+
+//TEXT 【Yuki】
+<enT0281>"You..."
+<ptT0281>"You..."
+
+//TEXT 【Takuji】
+<enT0282>"So you were still there. I just saved everyone."
+<ptT0282>"So you were still there. I just saved everyone."
+
+//TEXT 【Yuki】
+<enT0283>"Saved? Is this salvation?"
+<ptT0283>"Saved? Is this salvation?"
+
+//TEXT 【Takuji】
+<enT0284>"That's right."
+<ptT0284>"That's right."
+
+//TEXT 【Yuki】
+<enT0285>"Are you that stupid?"
+<ptT0285>"Are you that stupid?"
+
+//TEXT 【Takuji】
+<enT0286>"Salvation, huh? Salvation..."
+<ptT0286>"Salvation, huh? Salvation..."
+
+//TEXT
+<enT0287>I thought about something completely unrelated.
+<ptT0287>I thought about something completely unrelated.
+
+//TEXT
+<enT0288>Something that's not even tangentially related.
+<ptT0288>Something that's not even tangentially related.
+
+//TEXT
+<enT0289>Minakami-san slowly explained the truth of the incident.
+<ptT0289>Minakami-san slowly explained the truth of the incident.
+
+//TEXT
+<enT0290>She's a great detective.
+<ptT0290>She's a great detective.
+
+//TEXT
+<enT0291>So I went along with her and acted like I was the culprit, caught red handed.
+<ptT0291>So I went along with her and acted like I was the culprit, caught red handed.
+
+//TEXT 【Takuji】
+<enT0292>"Heheheh. What a wonderful deduction, Minakami-san. You're almost totally correct."
+<ptT0292>"Heheheh. What a wonderful deduction, Minakami-san. You're almost totally correct."
+
+//TEXT
+<enT0293>I declared that in the voice of a charismatic cult leader.
+<ptT0293>I declared that in the voice of a charismatic cult leader.
+
+//TEXT
+<enT0294>It was strangely satisfying.
+<ptT0294>It was strangely satisfying.
+
+//TEXT
+<enT0295>Well...
+<ptT0295>Well...
+
+//TEXT
+<enT0296>More importantly, what I was thinking about.
+<ptT0296>More importantly, what I was thinking about.
+
+//TEXT
+<enT0297>If I'm going to jump, I should've taken a shower first. I haven't changed my clothes lately either...
+<ptT0297>If I'm going to jump, I should've taken a shower first. I haven't changed my clothes lately either...
+
+//TEXT
+<enT0298>And I didn't wash after having sex with Kimika... I just wiped myself off with a tissue.
+<ptT0298>And I didn't wash after having sex with Kimika... I just wiped myself off with a tissue.
+
+//TEXT
+<enT0299>Kimika didn't bathe herself either... She really should have. She is a girl after all...
+<ptT0299>Kimika didn't bathe herself either... She really should have. She is a girl after all...
+
+//TEXT
+<enT0300>I came inside, you know... Don't you mind, Kimika?
+<ptT0300>I came inside, you know... Don't you mind, Kimika?
+
+//TEXT 【Yuki】
+<enT0301>"It wasn't a supernatural phenomenon or God or a ghost or anything like that. Just a single person. You came up with the whole thing."
+<ptT0301>"It wasn't a supernatural phenomenon or God or a ghost or anything like that. Just a single person. You came up with the whole thing."
+
+//TEXT 【Yuki】
+<enT0302>"You broke into my room and left Takashima-san's phone. And Kagami and Tsukasa..."
+<ptT0302>"You broke into my room and left Takashima-san's phone. And Kagami and Tsukasa..."
+
+//TEXT 【Yuki】
+<enT0303>"What was that?"
+<ptT0303>"What was that?"
+
+//TEXT 【Yuki】
+<enT0304>"How did they..."
+<ptT0304>"How did they..."
+
+//TEXT 【Yuki】
+<enT0305>"They... They..."
+<ptT0305>"They... They..."
+
+//TEXT 【Yuki】
+<enT0306>"Just what did you do to me?!"
+<ptT0306>"Just what did you do to me?!"
+
+//TEXT 【Yuki】
+<enT0307>"Tell me that!"
+<ptT0307>"Tell me that!"
+
+//TEXT 【Takuji】
+<enT0308>"..."
+<ptT0308>"..."
+
+//TEXT 【Takuji】
+<enT0309>"I haven't done anything to you."
+<ptT0309>"I haven't done anything to you."
+
+//TEXT 【Yuki】
+<enT0310>"Th-That can't be true."
+<ptT0310>"Th-That can't be true."
+
+//TEXT 【Takuji】
+<enT0311>"Sorry to say, but I haven't done a single thing to you."
+<ptT0311>"Sorry to say, but I haven't done a single thing to you."
+
+//TEXT 【Yuki】
+<enT0312>"That's a lie! That can't be true! You did something to me!"
+<ptT0312>"That's a lie! That can't be true! You did something to me!"
+
+//TEXT 【Takuji】
+<enT0313>"I didn't. I can't do anything to you."
+<ptT0313>"I didn't. I can't do anything to you."
+
+//TEXT 【Yuki】
+<enT0314>"Then what was that I saw?! What is all this?!"
+<ptT0314>"Then what was that I saw?! What is all this?!"
+
+//TEXT
+<enT0315>Oh... The sirens are almost here.
+<ptT0315>Oh... The sirens are almost here.
+
+//TEXT
+<enT0316>I don't have any more time to play along with her.
+<ptT0316>I don't have any more time to play along with her.
+
+//TEXT
+<enT0317>Ahahahaha...
+<ptT0317>Ahahahaha...
+
+//TEXT
+<enT0318>That's right...
+<ptT0318>That's right...
+
+//TEXT
+<enT0319>I wonder if this will surprise her?
+<ptT0319>I wonder if this will surprise her?
+
+//TEXT 【Takuji】
+<enT0320>"Though I did love you."
+<ptT0320>"Though I did love you."
+
+//TEXT
+<enT0321>Not really.
+<ptT0321>Not really.
+
+//TEXT
+<enT0322>Now then.
+<ptT0322>Now then.
+
+//TEXT
+<enT0323>From parallel lines to the world of perpendicular descent.
+<ptT0323>From parallel lines to the world of perpendicular descent.
+
+//TEXT
+<enT0324>I was sucked down.
+<ptT0324>I was sucked down.
+
+//TEXT
+<enT0325>Complete freefall.
+<ptT0325>Complete freefall.
+
+//TEXT
+<enT0326>The final instant.
+<ptT0326>The final instant.
+
+//TEXT
+<enT0327>Ah...
+<ptT0327>Ah...
+
+//TEXT
+<enT0328>The sirens in the distance.
+<ptT0328>The sirens in the distance.
+
+//TEXT
+<enT0329>The blue sky.
+<ptT0329>The blue sky.
+
+//TEXT
+<enT0330>The laughing moon.
+<ptT0330>The laughing moon.
+
+//TEXT
+<enT0331>The spinning earth.
+<ptT0331>The spinning earth.
+
+//TEXT
+<enT0332>The dancing stars.
+<ptT0332>The dancing stars.
+
+//TEXT
+<enT0333>The cool air.
+<ptT0333>The cool air.
+
+//TEXT
+<enT0334>God and music.
+<ptT0334>God and music.
+
+//TEXT
+<enT0335>With a pleasant glow...
+<ptT0335>With a pleasant glow...
+
+//TEXT
+<enT0336>It all lit up.
+<ptT0336>It all lit up.
+
+///================================================================================
+
+//OTHER
+<enZ0001>2_0719_saviour.bss
+<ptZ0001>2_0719_saviour.bss
+
+//OTHER
+<enZ0002>July 19th
+<ptZ0002>July 19th
+
+//OTHER
+<enZ0003>It's my own Invention
+<ptZ0003>It's my own Invention
+
+//OTHER
+<enZ0004>daytk0719
+<ptZ0004>daytk0719
+
+//OTHER
+<enZ0005>map004
+<ptZ0005>map004
+
+//OTHER
+<enZ0006>sp0070
+<ptZ0006>sp0070
+
+//OTHER
+<enZ0007>bgm101
+<ptZ0007>bgm101
+
+//OTHER
+<enZ0008>kimi_001126
+<ptZ0008>kimi_001126
+
+//OTHER
+<enZ0009>taku_004358
+<ptZ0009>taku_004358
+
+//OTHER
+<enZ0010>kimi_001127
+<ptZ0010>kimi_001127
+
+//OTHER
+<enZ0011>taku_004359
+<ptZ0011>taku_004359
+
+//OTHER
+<enZ0012>kimi_001128
+<ptZ0012>kimi_001128
+
+//OTHER
+<enZ0013>taku_004360
+<ptZ0013>taku_004360
+
+//OTHER
+<enZ0014>kimi_001129
+<ptZ0014>kimi_001129
+
+//OTHER
+<enZ0015>taku_004361
+<ptZ0015>taku_004361
+
+//OTHER
+<enZ0016>kimi_001130
+<ptZ0016>kimi_001130
+
+//OTHER
+<enZ0017>taku_004362
+<ptZ0017>taku_004362
+
+//OTHER
+<enZ0018>kimi_001131
+<ptZ0018>kimi_001131
+
+//OTHER
+<enZ0019>taku_004363
+<ptZ0019>taku_004363
+
+//OTHER
+<enZ0020>kimi_001132
+<ptZ0020>kimi_001132
+
+//OTHER
+<enZ0021>kimi_001133
+<ptZ0021>kimi_001133
+
+//OTHER
+<enZ0022>map005
+<ptZ0022>map005
+
+//OTHER
+<enZ0023>ev5009a
+<ptZ0023>ev5009a
+
+//OTHER
+<enZ0024>kimi_001134
+<ptZ0024>kimi_001134
+
+//OTHER
+<enZ0025>kyod_000019
+<ptZ0025>kyod_000019
+
+//OTHER
+<enZ0026>kimi_001135
+<ptZ0026>kimi_001135
+
+//OTHER
+<enZ0027>kimi_001136
+<ptZ0027>kimi_001136
+
+//OTHER
+<enZ0028>kyod_000020
+<ptZ0028>kyod_000020
+
+//OTHER
+<enZ0029>kimi_001137
+<ptZ0029>kimi_001137
+
+//OTHER
+<enZ0030>kimi_001138
+<ptZ0030>kimi_001138
+
+//OTHER
+<enZ0031>ev5009b
+<ptZ0031>ev5009b
+
+//OTHER
+<enZ0032>sp0112a
+<ptZ0032>sp0112a
+
+//OTHER
+<enZ0033>kyod_000021
+<ptZ0033>kyod_000021
+
+//OTHER
+<enZ0034>taku_004364
+<ptZ0034>taku_004364
+
+//OTHER
+<enZ0035>kimi_001139
+<ptZ0035>kimi_001139
+
+//OTHER
+<enZ0036>taku_004365
+<ptZ0036>taku_004365
+
+//OTHER
+<enZ0037>kimi_001140
+<ptZ0037>kimi_001140
+
+//OTHER
+<enZ0038>kimi_001141
+<ptZ0038>kimi_001141
+
+//OTHER
+<enZ0039>kimi_001142
+<ptZ0039>kimi_001142
+
+//OTHER
+<enZ0040>kimi_001143
+<ptZ0040>kimi_001143
+
+//OTHER
+<enZ0041>kimi_001144
+<ptZ0041>kimi_001144
+
+//OTHER
+<enZ0042>taku_004366
+<ptZ0042>taku_004366
+
+//OTHER
+<enZ0043>kimi_001145
+<ptZ0043>kimi_001145
+
+//OTHER
+<enZ0044>taku_004367
+<ptZ0044>taku_004367
+
+//OTHER
+<enZ0045>kimi_001146
+<ptZ0045>kimi_001146
+
+//OTHER
+<enZ0046>taku_004368
+<ptZ0046>taku_004368
+
+//OTHER
+<enZ0047>kimi_001147
+<ptZ0047>kimi_001147
+
+//OTHER
+<enZ0048>taku_004369
+<ptZ0048>taku_004369
+
+//OTHER
+<enZ0049>kimi_001148
+<ptZ0049>kimi_001148
+
+//OTHER
+<enZ0050>taku_004370
+<ptZ0050>taku_004370
+
+//OTHER
+<enZ0051>kimi_001149
+<ptZ0051>kimi_001149
+
+//OTHER
+<enZ0052>taku_004371
+<ptZ0052>taku_004371
+
+//OTHER
+<enZ0053>josia_000079
+<ptZ0053>josia_000079
+
+//OTHER
+<enZ0054>josib_000059
+<ptZ0054>josib_000059
+
+//OTHER
+<enZ0055>josic_000051
+<ptZ0055>josic_000051
+
+//OTHER
+<enZ0056>se221
+<ptZ0056>se221
+
+//OTHER
+<enZ0057>se222
+<ptZ0057>se222
+
+//OTHER
+<enZ0058>white
+<ptZ0058>white
+
+//OTHER
+<enZ0059>kimi_001150
+<ptZ0059>kimi_001150
+
+//OTHER
+<enZ0060>kimi_001151
+<ptZ0060>kimi_001151
+
+//OTHER
+<enZ0061>taku_004372
+<ptZ0061>taku_004372
+
+//OTHER
+<enZ0062>taku_004373
+<ptZ0062>taku_004373
+
+//OTHER
+<enZ0063>taku_004374
+<ptZ0063>taku_004374
+
+//OTHER
+<enZ0064>taku_004375
+<ptZ0064>taku_004375
+
+//OTHER
+<enZ0065>taku_004376
+<ptZ0065>taku_004376
+
+//OTHER
+<enZ0066>taku_004377
+<ptZ0066>taku_004377
+
+//OTHER
+<enZ0067>taku_004378
+<ptZ0067>taku_004378
+
+//OTHER
+<enZ0068>kyod_000022
+<ptZ0068>kyod_000022
+
+//OTHER
+<enZ0069>km0003a
+<ptZ0069>km0003a
+
+//OTHER
+<enZ0070>bg1017c2
+<ptZ0070>bg1017c2
+
+//OTHER
+<enZ0071>km0002a
+<ptZ0071>km0002a
+
+//OTHER
+<enZ0072>kimi_001152
+<ptZ0072>kimi_001152
+
+//OTHER
+<enZ0073>taku_004379_a
+<ptZ0073>taku_004379_a
+
+//OTHER
+<enZ0074>km0001a
+<ptZ0074>km0001a
+
+//OTHER
+<enZ0075>kimi_001153
+<ptZ0075>kimi_001153
+
+//OTHER
+<enZ0076>kimi_001154
+<ptZ0076>kimi_001154
+
+//OTHER
+<enZ0077>taku_004380
+<ptZ0077>taku_004380
+
+//OTHER
+<enZ0078>ev5009a2
+<ptZ0078>ev5009a2
+
+//OTHER
+<enZ0079>kimi_001155
+<ptZ0079>kimi_001155
+
+//OTHER
+<enZ0080>kimi_001156
+<ptZ0080>kimi_001156
+
+//OTHER
+<enZ0081>kimi_001157
+<ptZ0081>kimi_001157
+
+//OTHER
+<enZ0082>kimi_001158
+<ptZ0082>kimi_001158
+
+//OTHER
+<enZ0083>kimi_001159
+<ptZ0083>kimi_001159
+
+//OTHER
+<enZ0084>kimi_001160
+<ptZ0084>kimi_001160
+
+//OTHER
+<enZ0085>kimi_001161
+<ptZ0085>kimi_001161
+
+//OTHER
+<enZ0086>kimi_001162
+<ptZ0086>kimi_001162
+
+//OTHER
+<enZ0087>kimi_001163
+<ptZ0087>kimi_001163
+
+//OTHER
+<enZ0088>map002
+<ptZ0088>map002
+
+//OTHER
+<enZ0089>map008
+<ptZ0089>map008
+
+//OTHER
+<enZ0090>ev5010b
+<ptZ0090>ev5010b
+
+//OTHER
+<enZ0091>megu_000120
+<ptZ0091>megu_000120
+
+//OTHER
+<enZ0092>sato_000077
+<ptZ0092>sato_000077
+
+//OTHER
+<enZ0093>ev5010c
+<ptZ0093>ev5010c
+
+//OTHER
+<enZ0094>kyod_000023
+<ptZ0094>kyod_000023
+
+//OTHER
+<enZ0095>ev5010a
+<ptZ0095>ev5010a
+
+//OTHER
+<enZ0096>josia_000080
+<ptZ0096>josia_000080
+
+//OTHER
+<enZ0097>josib_000060
+<ptZ0097>josib_000060
+
+//OTHER
+<enZ0098>josic_000052
+<ptZ0098>josic_000052
+
+//OTHER
+<enZ0099>josid_000001
+<ptZ0099>josid_000001
+
+//OTHER
+<enZ0100>josie_000001
+<ptZ0100>josie_000001
+
+//OTHER
+<enZ0101>josif_000001
+<ptZ0101>josif_000001
+
+//OTHER
+<enZ0102>black
+<ptZ0102>black
+
+//OTHER
+<enZ0103>sp0093b
+<ptZ0103>sp0093b
+
+//OTHER
+<enZ0104>taku_004381
+<ptZ0104>taku_004381
+
+//OTHER
+<enZ0105>taku_004382
+<ptZ0105>taku_004382
+
+//OTHER
+<enZ0106>taku_004383
+<ptZ0106>taku_004383
+
+//OTHER
+<enZ0107>taku_004384
+<ptZ0107>taku_004384
+
+//OTHER
+<enZ0108>taku_004385
+<ptZ0108>taku_004385
+
+//OTHER
+<enZ0109>taku_004386
+<ptZ0109>taku_004386
+
+//OTHER
+<enZ0110>taku_004387
+<ptZ0110>taku_004387
+
+//OTHER
+<enZ0111>yuki_003017
+<ptZ0111>yuki_003017
+
+//OTHER
+<enZ0112>yuki_003018
+<ptZ0112>yuki_003018
+
+//OTHER
+<enZ0113>taku_004388
+<ptZ0113>taku_004388
+
+//OTHER
+<enZ0114>ev6003a
+<ptZ0114>ev6003a
+
+//OTHER
+<enZ0115>taku_004389
+<ptZ0115>taku_004389
+
+//OTHER
+<enZ0116>taku_004390
+<ptZ0116>taku_004390
+
+//OTHER
+<enZ0117>yuki_003019
+<ptZ0117>yuki_003019
+
+//OTHER
+<enZ0118>taku_004391
+<ptZ0118>taku_004391
+
+//OTHER
+<enZ0119>yuki_003020
+<ptZ0119>yuki_003020
+
+//OTHER
+<enZ0120>taku_004392
+<ptZ0120>taku_004392
+
+//OTHER
+<enZ0121>yuki_003021
+<ptZ0121>yuki_003021
+
+//OTHER
+<enZ0122>taku_004393
+<ptZ0122>taku_004393
+
+//OTHER
+<enZ0123>taku_000276
+<ptZ0123>taku_000276
+
+//OTHER
+<enZ0124>yuki_002950
+<ptZ0124>yuki_002950
+
+//OTHER
+<enZ0125>yuki_002951
+<ptZ0125>yuki_002951
+
+//OTHER
+<enZ0126>yuki_002952
+<ptZ0126>yuki_002952
+
+//OTHER
+<enZ0127>yuki_002953
+<ptZ0127>yuki_002953
+
+//OTHER
+<enZ0128>yuki_002954
+<ptZ0128>yuki_002954
+
+//OTHER
+<enZ0129>yuki_002955
+<ptZ0129>yuki_002955
+
+//OTHER
+<enZ0130>yuki_002956
+<ptZ0130>yuki_002956
+
+//OTHER
+<enZ0131>taku_000277
+<ptZ0131>taku_000277
+
+//OTHER
+<enZ0132>taku_000278
+<ptZ0132>taku_000278
+
+//OTHER
+<enZ0133>yuki_002957
+<ptZ0133>yuki_002957
+
+//OTHER
+<enZ0134>taku_000279
+<ptZ0134>taku_000279
+
+//OTHER
+<enZ0135>yuki_002958
+<ptZ0135>yuki_002958
+
+//OTHER
+<enZ0136>taku_000280
+<ptZ0136>taku_000280
+
+//OTHER
+<enZ0137>yuki_002959
+<ptZ0137>yuki_002959
+
+//OTHER
+<enZ0138>taku_000284
+<ptZ0138>taku_000284
+
+//OTHER
+<enZ0139>sp0071
+<ptZ0139>sp0071
+
+//OTHER
+<enZ0140>end2true
+<ptZ0140>end2true
+

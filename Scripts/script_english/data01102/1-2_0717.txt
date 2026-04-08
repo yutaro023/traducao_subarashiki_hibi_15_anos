@@ -1,0 +1,3500 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Kiyokawa
+<ptN0002>Kiyokawa
+
+//NAME
+<enN0003>Announcement
+<ptN0003>Announcement
+
+//NAME
+<enN0004>Kimika
+<ptN0004>Kimika
+
+///================================================================================
+
+//TEXT 【Yuki】
+<enT0001>"..."
+<ptT0001>"..."
+
+//TEXT 【Yuki】
+<enT0002>"It's so quiet."
+<ptT0002>"It's so quiet."
+
+//TEXT
+<enT0003>Though that was to be expected, since school was closed.
+<ptT0003>Though that was to be expected, since school was closed.
+
+//TEXT
+<enT0004>And of course, it wasn't like a series of people dying one after the other was an everyday occurrence.
+<ptT0004>And of course, it wasn't like a series of people dying one after the other was an everyday occurrence.
+
+//TEXT 【Yuki】
+<enT0005>"..."
+<ptT0005>"..."
+
+//TEXT 【Yuki】
+<enT0006>"Good morning."
+<ptT0006>"Good morning."
+
+//TEXT 【Kiyokawa】
+<enT0007>"..."
+<ptT0007>"..."
+
+//TEXT 【Yuki】
+<enT0008>"Huh? What's wrong?"
+<ptT0008>"Huh? What's wrong?"
+
+//TEXT 【Kiyokawa】
+<enT0009>"Huh?"
+<ptT0009>"Huh?"
+
+//TEXT 【Kiyokawa】
+<enT0010>"A-Ah... I-I'm sorry. I'm sorry."
+<ptT0010>"A-Ah... I-I'm sorry. I'm sorry."
+
+//TEXT 【Kiyokawa】
+<enT0011>"U-Um... could I ask your name?"
+<ptT0011>"U-Um... could I ask your name?"
+
+//TEXT 【Yuki】
+<enT0012>"Huh? M-My name?"
+<ptT0012>"Huh? M-My name?"
+
+//TEXT 【Kiyokawa】
+<enT0013>"If you... don't mind."
+<ptT0013>"If you... don't mind."
+
+//TEXT 【Yuki】
+<enT0014>"I'm Minakami Yuki."
+<ptT0014>"I'm Minakami Yuki."
+
+//TEXT 【Kiyokawa】
+<enT0015>"I-I see... Th-That makes sense... That's right... you're not even wearing a white coat..."
+<ptT0015>"I-I see... Th-That makes sense... That's right... you're not even wearing a white coat..."
+
+//TEXT 【Yuki】
+<enT0016>"A white coat?"
+<ptT0016>"A white coat?"
+
+//TEXT 【Kiyokawa】
+<enT0017>"Uh, nothing. You don't need to worry about it."
+<ptT0017>"Uh, nothing. You don't need to worry about it."
+
+//TEXT
+<enT0018>What's up with her?
+<ptT0018>What's up with her?
+
+//TEXT 【Kiyokawa】
+<enT0019>"U-Um... so why are you here?"
+<ptT0019>"U-Um... so why are you here?"
+
+//TEXT 【Yuki】
+<enT0020>"Huh? What are you talking about? You guys are the ones who told me to come and get counseling."
+<ptT0020>"Huh? What are you talking about? You guys are the ones who told me to come and get counseling."
+
+//TEXT 【Kiyokawa】
+<enT0021>"Huh? Counseling? Oh, th-that's right... Ahahaha... I-I'm sorry..."
+<ptT0021>"Huh? Counseling? Oh, th-that's right... Ahahaha... I-I'm sorry..."
+
+//TEXT
+<enT0022>
+<ptT0022>
+
+//TEXT
+<enT0023>I had to wonder what was going on. She was clearly acting strange.
+<ptT0023>I had to wonder what was going on. She was clearly acting strange.
+
+//TEXT 【Kiyokawa】
+<enT0024>"Oh, yes... It looks like the counselor will be coming soon."
+<ptT0024>"Oh, yes... It looks like the counselor will be coming soon."
+
+//TEXT 【Yuki】
+<enT0025>"Haa... I really don't need counseling, though."
+<ptT0025>"Haa... I really don't need counseling, though."
+
+//TEXT 【Kiyokawa】
+<enT0026>"B-But... after what happened..."
+<ptT0026>"B-But... after what happened..."
+
+//TEXT 【Yuki】
+<enT0027>"You don't have to worry about me. I'm feeling great."
+<ptT0027>"You don't have to worry about me. I'm feeling great."
+
+//TEXT 【Kiyokawa】
+<enT0028>"That's not true. You saw a teacher fall to her death with your own eyes."
+<ptT0028>"That's not true. You saw a teacher fall to her death with your own eyes."
+
+//TEXT 【Kiyokawa】
+<enT0029>"There's a chance you're suffering from post-traumatic stress disorder. That's what the other teachers said."
+<ptT0029>"There's a chance you're suffering from post-traumatic stress disorder. That's what the other teachers said."
+
+//TEXT 【Yuki】
+<enT0030>"Post-traumatic stress disorder? I don't think you need to worry about it when I'm telling you I'm fine."
+<ptT0030>"Post-traumatic stress disorder? I don't think you need to worry about it when I'm telling you I'm fine."
+
+//TEXT 【Kiyokawa】
+<enT0031>"Don't say that. We have to do it for our sake as well."
+<ptT0031>"Don't say that. We have to do it for our sake as well."
+
+//TEXT 【Yuki】
+<enT0032>"But there's no need."
+<ptT0032>"But there's no need."
+
+//TEXT 【Kiyokawa】
+<enT0033>"Th-Though the counselor is late, isn't he?"
+<ptT0033>"Th-Though the counselor is late, isn't he?"
+
+//TEXT 【Yuki】
+<enT0034>"Looks like it."
+<ptT0034>"Looks like it."
+
+//TEXT 【Kiyokawa】
+<enT0035>"..."
+<ptT0035>"..."
+
+//TEXT 【Kiyokawa】
+<enT0036>"Um, I'd like to ask you something, if you don't mind."
+<ptT0036>"Um, I'd like to ask you something, if you don't mind."
+
+//TEXT 【Yuki】
+<enT0037>"What is it?"
+<ptT0037>"What is it?"
+
+//TEXT 【Kiyokawa】
+<enT0038>"It's kind of hard to ask, but..."
+<ptT0038>"It's kind of hard to ask, but..."
+
+//TEXT 【Yuki】
+<enT0039>"Is it about Mrs. Senagawa?"
+<ptT0039>"Is it about Mrs. Senagawa?"
+
+//TEXT 【Kiyokawa】
+<enT0040>"Yes."
+<ptT0040>"Yes."
+
+//TEXT
+<enT0041>This was supposed to be counseling, and yet she was asking me about that.
+<ptT0041>This was supposed to be counseling, and yet she was asking me about that.
+
+//TEXT
+<enT0042>Though she probably just wanted to know.
+<ptT0042>Though she probably just wanted to know.
+
+//TEXT
+<enT0043>They were colleagues at work, too.
+<ptT0043>They were colleagues at work, too.
+
+//TEXT 【Yuki】
+<enT0044>"I don't really know anything. She wasn't in a condition to talk. Her lungs were probably ruptured."
+<ptT0044>"I don't really know anything. She wasn't in a condition to talk. Her lungs were probably ruptured."
+
+//TEXT 【Kiyokawa】
+<enT0045>"O-Oh..."
+<ptT0045>"O-Oh..."
+
+//TEXT 【Yuki】
+<enT0046>"So why did Mrs. Senagawa commit suicide?"
+<ptT0046>"So why did Mrs. Senagawa commit suicide?"
+
+//TEXT 【Kiyokawa】
+<enT0047>"Um, you know, we're not certain that her death was a suicide."
+<ptT0047>"Um, you know, we're not certain that her death was a suicide."
+
+//TEXT 【Yuki】
+<enT0048>"I actually haven't heard what happened after all that."
+<ptT0048>"I actually haven't heard what happened after all that."
+
+//TEXT 【Kiyokawa】
+<enT0049>"After? The ambulance came, then the cops. It was a mess."
+<ptT0049>"After? The ambulance came, then the cops. It was a mess."
+
+//TEXT
+<enT0050>
+<ptT0050>
+
+//TEXT 【Yuki】
+<enT0051>"What happened to her?"
+<ptT0051>"What happened to her?"
+
+//TEXT 【Kiyokawa】
+<enT0052>"Oh, right... She was taken to the hospital, and then she stopped breathing."
+<ptT0052>"Oh, right... She was taken to the hospital, and then she stopped breathing."
+
+//TEXT 【Yuki】
+<enT0053>"I see."
+<ptT0053>"I see."
+
+//TEXT
+<enT0054>Well, that made sense.
+<ptT0054>Well, that made sense.
+
+//TEXT
+<enT0055>But she wasn't telling me what was really important.
+<ptT0055>But she wasn't telling me what was really important.
+
+//TEXT 【Yuki】
+<enT0056>"Was Mrs. Senagawa's death an accident? Or suicide?"
+<ptT0056>"Was Mrs. Senagawa's death an accident? Or suicide?"
+
+//TEXT 【Kiyokawa】
+<enT0057>"Right now, we're not sure, but we've confirmed that she went up to the roof of Building C alone."
+<ptT0057>"Right now, we're not sure, but we've confirmed that she went up to the roof of Building C alone."
+
+//TEXT 【Yuki】
+<enT0058>"Alone?"
+<ptT0058>"Alone?"
+
+//TEXT 【Kiyokawa】
+<enT0059>"We also have testimony that she fell by herself. And they said it looked more like an accident than a suicide."
+<ptT0059>"We also have testimony that she fell by herself. And they said it looked more like an accident than a suicide."
+
+//TEXT 【Yuki】
+<enT0060>"It looked like an accident?"
+<ptT0060>"It looked like an accident?"
+
+//TEXT 【Kiyokawa】
+<enT0061>"It looked like she climbed up the fence herself and was trying to do something, though we don't know what that might've been."
+<ptT0061>"It looked like she climbed up the fence herself and was trying to do something, though we don't know what that might've been."
+
+//TEXT 【Kiyokawa】
+<enT0062>"They say she didn't climb up the fence and jump off, but rather fell off while trying to do something up there."
+<ptT0062>"They say she didn't climb up the fence and jump off, but rather fell off while trying to do something up there."
+
+//TEXT 【Yuki】
+<enT0063>"Oh, there were witnesses?"
+<ptT0063>"Oh, there were witnesses?"
+
+//TEXT 【Kiyokawa】
+<enT0064>"There are several eyewitnesses. Not just students, but also people from the surrounding neighborhood who saw her."
+<ptT0064>"There are several eyewitnesses. Not just students, but also people from the surrounding neighborhood who saw her."
+
+//TEXT 【Yuki】
+<enT0065>"So it wasn't murder."
+<ptT0065>"So it wasn't murder."
+
+//TEXT 【Kiyokawa】
+<enT0066>"Probably."
+<ptT0066>"Probably."
+
+//TEXT 【Yuki】
+<enT0067>"Probably?"
+<ptT0067>"Probably?"
+
+//TEXT 【Kiyokawa】
+<enT0068>"Oh, it probably isn't directly related,
+<ptT0068>"Oh, it probably isn't directly related,
+
+//TEXT
+<enT0069> but a suspicious person was spotted in the school at the time of the accident."
+<ptT0069> but a suspicious person was spotted in the school at the time of the accident."
+
+//TEXT 【Yuki】
+<enT0070>"A suspicious person?"
+<ptT0070>"A suspicious person?"
+
+//TEXT 【Kiyokawa】
+<enT0071>"Apparently, that person wasn't a student. They had a large camera, and we're still not sure what their intentions were."
+<ptT0071>"Apparently, that person wasn't a student. They had a large camera, and we're still not sure what their intentions were."
+
+//TEXT
+<enT0072>A suspicious person holding a camera...
+<ptT0072>A suspicious person holding a camera...
+
+//TEXT
+<enT0073>That wasn't just suspicious. It sounded like the media was already monitoring the situation.
+<ptT0073>That wasn't just suspicious. It sounded like the media was already monitoring the situation.
+
+//TEXT
+<enT0074>After so many people had died in a row, it wasn't surprising at all.
+<ptT0074>After so many people had died in a row, it wasn't surprising at all.
+
+//TEXT 【Yuki】
+<enT0075>"Did Mrs. Senagawa have any particular problems lately?"
+<ptT0075>"Did Mrs. Senagawa have any particular problems lately?"
+
+//TEXT 【Kiyokawa】
+<enT0076>"I haven't heard anything like that."
+<ptT0076>"I haven't heard anything like that."
+
+//TEXT 【Yuki】
+<enT0077>"But she was the homeroom teacher of Takashima-san's class, so maybe..."
+<ptT0077>"But she was the homeroom teacher of Takashima-san's class, so maybe..."
+
+//TEXT 【Kiyokawa】
+<enT0078>"So maybe?"
+<ptT0078>"So maybe?"
+
+//TEXT 【Yuki】
+<enT0079>"If one of her students committed suicide, there might've been people who said it was her fault."
+<ptT0079>"If one of her students committed suicide, there might've been people who said it was her fault."
+
+//TEXT 【Kiyokawa】
+<enT0080>"Why would they? Her death was certainly regrettable, but it wasn't Yui's fault."
+<ptT0080>"Why would they? Her death was certainly regrettable, but it wasn't Yui's fault."
+
+//TEXT
+<enT0081>Why did she call her Yui all of a sudden?
+<ptT0081>Why did she call her Yui all of a sudden?
+
+//TEXT
+<enT0082>Actually, Ms. Kiyokawa and Mrs. Senagawa were pretty close, weren't they? The two of them didn't have any other colleagues close to their age.
+<ptT0082>Actually, Ms. Kiyokawa and Mrs. Senagawa were pretty close, weren't they? The two of them didn't have any other colleagues close to their age.
+
+//TEXT
+<enT0083>But she didn't seem terribly sad, all things considered.
+<ptT0083>But she didn't seem terribly sad, all things considered.
+
+//TEXT
+<enT0084>Rather than sad, she seemed...
+<ptT0084>Rather than sad, she seemed...
+
+//TEXT
+<enT0085>Scared?
+<ptT0085>Scared?
+
+//TEXT 【Yuki】
+<enT0086>"Even if she wasn't at fault, it was probably enough to make her worry, wasn't it?"
+<ptT0086>"Even if she wasn't at fault, it was probably enough to make her worry, wasn't it?"
+
+//TEXT 【Kiyokawa】
+<enT0087>"W-Well, maybe so, but that had nothing to do with her death."
+<ptT0087>"W-Well, maybe so, but that had nothing to do with her death."
+
+//TEXT 【Yuki】
+<enT0088>"How can you be so sure?"
+<ptT0088>"How can you be so sure?"
+
+//TEXT 【Kiyokawa】
+<enT0089>"B-Because..."
+<ptT0089>"B-Because..."
+
+//TEXT 【Yuki】
+<enT0090>"Anyway, they determined she wasn't at fault at all?"
+<ptT0090>"Anyway, they determined she wasn't at fault at all?"
+
+//TEXT 【Kiyokawa】
+<enT0091>"They did. Or rather, there was no doubt to begin with. The doctors and police say that Takashima-san's suicide happened because of a neurotic breakdown."
+<ptT0091>"They did. Or rather, there was no doubt to begin with. The doctors and police say that Takashima-san's suicide happened because of a neurotic breakdown."
+
+//TEXT 【Yuki】
+<enT0092>"I see. So it happened because of her mental illness, and the cause wasn't bullying or any other external factor like that."
+<ptT0092>"I see. So it happened because of her mental illness, and the cause wasn't bullying or any other external factor like that."
+
+//TEXT 【Kiyokawa】
+<enT0093>"Th-There was no bullying. W-We don't have any bullying here. Or, at least, we haven't been able to determine if there is any occurring."
+<ptT0093>"Th-There was no bullying. W-We don't have any bullying here. Or, at least, we haven't been able to determine if there is any occurring."
+
+//TEXT 【Yuki】
+<enT0094>"Oh, no, it's not like I'm saying there was any bullying involved."
+<ptT0094>"Oh, no, it's not like I'm saying there was any bullying involved."
+
+//TEXT 【Kiyokawa】
+<enT0095>"Oh.
+<ptT0095>"Oh.
+
+//TEXT
+<enT0096> I-I see."
+<ptT0096> I-I see."
+
+//TEXT
+<enT0097>......
+<ptT0097>......
+
+//TEXT
+<enT0098>She reacted pretty strongly there.
+<ptT0098>She reacted pretty strongly there.
+
+//TEXT
+<enT0099>It felt like she was already making excuses to the media.
+<ptT0099>It felt like she was already making excuses to the media.
+
+//TEXT
+<enT0100>The teachers were all on edge too, I guess.
+<ptT0100>The teachers were all on edge too, I guess.
+
+//TEXT
+<enT0101>When it came to them, they couldn't let people think that Takashima-san's suicide was caused by bullying, and Senagawa Yui's death was caused by her feeling of guilt.
+<ptT0101>When it came to them, they couldn't let people think that Takashima-san's suicide was caused by bullying, and Senagawa Yui's death was caused by her feeling of guilt.
+
+//TEXT
+<enT0102>The police and the attending doctor both said that Takashima-san jumped because of her neurosis.
+<ptT0102>The police and the attending doctor both said that Takashima-san jumped because of her neurosis.
+
+//TEXT
+<enT0103>And Mrs. Senagawa's death was a completely unrelated accident.
+<ptT0103>And Mrs. Senagawa's death was a completely unrelated accident.
+
+//TEXT
+<enT0104>That's the version of events they wanted to show to the public.
+<ptT0104>That's the version of events they wanted to show to the public.
+
+//TEXT
+<enT0105>But that was probably impossible.
+<ptT0105>But that was probably impossible.
+
+//TEXT
+<enT0106>Last week, Shiroyama Tsubasa fell to his death, and then the following Sunday, Takashima Zakuro committed suicide in Suginomiya.
+<ptT0106>Last week, Shiroyama Tsubasa fell to his death, and then the following Sunday, Takashima Zakuro committed suicide in Suginomiya.
+
+//TEXT
+<enT0107>And now, Senagawa Yui had fallen from the roof by accident and died.
+<ptT0107>And now, Senagawa Yui had fallen from the roof by accident and died.
+
+//TEXT
+<enT0108>The most convenient explanation for the school was to claim the incidents were all unrelated.
+<ptT0108>The most convenient explanation for the school was to claim the incidents were all unrelated.
+
+//TEXT
+<enT0109>The school was already being talked about on the Internet, and the media had probably contacted them too.
+<ptT0109>The school was already being talked about on the Internet, and the media had probably contacted them too.
+
+//TEXT
+<enT0110>The school was probably closed today because the phones were all ringing off their hooks in the staff room.
+<ptT0110>The school was probably closed today because the phones were all ringing off their hooks in the staff room.
+
+//TEXT
+<enT0111>They were probably getting calls from anonymous people on the Internet who found out about the school.
+<ptT0111>They were probably getting calls from anonymous people on the Internet who found out about the school.
+
+//TEXT
+<enT0112>This was about the time the media would get involved. Reporters always pay attention to what happens on the Internet.
+<ptT0112>This was about the time the media would get involved. Reporters always pay attention to what happens on the Internet.
+
+//TEXT
+<enT0113>And someone with a camera was actually spotted.
+<ptT0113>And someone with a camera was actually spotted.
+
+//TEXT
+<enT0114>If the mass media was already getting involved, the school's convenient interpretation of events could be overturned soon.
+<ptT0114>If the mass media was already getting involved, the school's convenient interpretation of events could be overturned soon.
+
+//TEXT
+<enT0115>What really bugged me was Mrs. Senagawa's death.
+<ptT0115>What really bugged me was Mrs. Senagawa's death.
+
+//TEXT
+<enT0116>The eyewitnesses claimed that it was closer to an "accident" than a "suicide."
+<ptT0116>The eyewitnesses claimed that it was closer to an "accident" than a "suicide."
+
+//TEXT
+<enT0117>Mrs. Senagawa was Takashima-san's homeroom teacher.
+<ptT0117>Mrs. Senagawa was Takashima-san's homeroom teacher.
+
+//TEXT
+<enT0118>Takashima-san was definitely being bullied.
+<ptT0118>Takashima-san was definitely being bullied.
+
+//TEXT
+<enT0119>The real question is whether Mrs. Senagawa actually knew that Takashima Zakuro was being bullied.
+<ptT0119>The real question is whether Mrs. Senagawa actually knew that Takashima Zakuro was being bullied.
+
+//TEXT
+<enT0120>If she knew about it, the likelihood that she committed suicide out of guilt was much higher.
+<ptT0120>If she knew about it, the likelihood that she committed suicide out of guilt was much higher.
+
+//TEXT
+<enT0121>If she didn't know, it would match up with the testimony, which would mean it was just an "accident."
+<ptT0121>If she didn't know, it would match up with the testimony, which would mean it was just an "accident."
+
+//TEXT 【Kiyokawa】
+<enT0122>"Excuse me, Minakami-san."
+<ptT0122>"Excuse me, Minakami-san."
+
+//TEXT 【Yuki】
+<enT0123>"Yes?"
+<ptT0123>"Yes?"
+
+//TEXT 【Kiyokawa】
+<enT0124>"I'd like to ask you something as well. Have you heard rumors of bullying? Even if it wasn't related to Takashima-san, have you heard any rumors about this school?"
+<ptT0124>"I'd like to ask you something as well. Have you heard rumors of bullying? Even if it wasn't related to Takashima-san, have you heard any rumors about this school?"
+
+//TEXT 【Yuki】
+<enT0125>"I don't really keep up with that stuff. I can't really say, but if you'd like to find out, why don't you try looking at the underground message board?"
+<ptT0125>"I don't really keep up with that stuff. I can't really say, but if you'd like to find out, why don't you try looking at the underground message board?"
+
+//TEXT 【Kiyokawa】
+<enT0126>"Th-The underground message board?!"
+<ptT0126>"Th-The underground message board?!"
+
+//TEXT 【Yuki】
+<enT0127>"..."
+<ptT0127>"..."
+
+//TEXT 【Kiyokawa】
+<enT0128>"Wh-What's that?"
+<ptT0128>"Wh-What's that?"
+
+//TEXT
+<enT0129>She was so bad at acting. It was obvious that she knew about it.
+<ptT0129>She was so bad at acting. It was obvious that she knew about it.
+
+//TEXT 【Kiyokawa】
+<enT0130>"Do we have one of those?"
+<ptT0130>"Do we have one of those?"
+
+//TEXT 【Yuki】
+<enT0131>"Who knows? I've only heard rumors, but they say there is one."
+<ptT0131>"Who knows? I've only heard rumors, but they say there is one."
+
+//TEXT 【Kiyokawa】
+<enT0132>"Right, according to the rumors."
+<ptT0132>"Right, according to the rumors."
+
+//TEXT
+<enT0133>She knew about it, so she knew the truth about Takashima Zakuro's bullying.
+<ptT0133>She knew about it, so she knew the truth about Takashima Zakuro's bullying.
+
+//TEXT
+<enT0134>She knew, but she was pretending like she didn't.
+<ptT0134>She knew, but she was pretending like she didn't.
+
+//TEXT
+<enT0135>So...
+<ptT0135>So...
+
+//TEXT
+<enT0136>If she knew, you could assume there was a pretty good chance her colleague, Mrs. Senagawa, also knew.
+<ptT0136>If she knew, you could assume there was a pretty good chance her colleague, Mrs. Senagawa, also knew.
+
+//TEXT
+<enT0137>In other words...
+<ptT0137>In other words...
+
+//TEXT
+<enT0138>I couldn't eliminate the possibility that Mrs. Senagawa's death was a suicide rather than an accident.
+<ptT0138>I couldn't eliminate the possibility that Mrs. Senagawa's death was a suicide rather than an accident.
+
+//TEXT 【Kiyokawa】
+<enT0139>"At the moment, the cause of Mrs. Senagawa's fall hasn't been determined. But from what I've heard from the police, they're only trying to determine whether it was a suicide or an accident."
+<ptT0139>"At the moment, the cause of Mrs. Senagawa's fall hasn't been determined. But from what I've heard from the police, they're only trying to determine whether it was a suicide or an accident."
+
+//TEXT 【Kiyokawa】
+<enT0140>"Building C's roof isn't open to the students. Several other teachers saw her borrow the key from the janitor right before she fell."
+<ptT0140>"Building C's roof isn't open to the students. Several other teachers saw her borrow the key from the janitor right before she fell."
+
+//TEXT 【Yuki】
+<enT0141>"I see. All of the evidence points to it being an accident, then."
+<ptT0141>"I see. All of the evidence points to it being an accident, then."
+
+//TEXT 【Kiyokawa】
+<enT0142>"That's right."
+<ptT0142>"That's right."
+
+//TEXT
+<enT0143>According to her, the school officials didn't believe it was related to Mamiya Takuji in any way, so the police hadn't heard anything about him, either.
+<ptT0143>According to her, the school officials didn't believe it was related to Mamiya Takuji in any way, so the police hadn't heard anything about him, either.
+
+//TEXT
+<enT0144>He might not have been directly related, but I couldn't be sure he wasn't involved.
+<ptT0144>He might not have been directly related, but I couldn't be sure he wasn't involved.
+
+//TEXT
+<enT0145>The school would probably prefer that the police knew as little as possible.
+<ptT0145>The school would probably prefer that the police knew as little as possible.
+
+//TEXT 【Yuki】
+<enT0146>"Now that I think of it, have the students who disappeared shown up again?"
+<ptT0146>"Now that I think of it, have the students who disappeared shown up again?"
+
+//TEXT 【Kiyokawa】
+<enT0147>"Th-The students who disappeared?
+<ptT0147>"Th-The students who disappeared?
+
+//TEXT
+<enT0148> Oh, I might've heard about something like that."
+<ptT0148> Oh, I might've heard about something like that."
+
+//TEXT 【Yuki】
+<enT0149>"What was going on there?"
+<ptT0149>"What was going on there?"
+
+//TEXT 【Kiyokawa】
+<enT0150>"R-Right. Most of them were staying home or loitering downtown."
+<ptT0150>"R-Right. Most of them were staying home or loitering downtown."
+
+//TEXT 【Yuki】
+<enT0151>"But aren't there still missing people?"
+<ptT0151>"But aren't there still missing people?"
+
+//TEXT 【Kiyokawa】
+<enT0152>"Oh, y-yes."
+<ptT0152>"Oh, y-yes."
+
+//TEXT
+<enT0153>Couldn't she give a better answer than that?
+<ptT0153>Couldn't she give a better answer than that?
+
+//TEXT 【Kiyokawa】
+<enT0154>"Oh, an announcement."
+<ptT0154>"Oh, an announcement."
+
+//TEXT 【Announcement】
+<enT0155>"Ms. Kiyokawa. Ms. Kiyokawa, if you are in the building, please come to the staff room immediately. There is a phone call from Mr. Katagai, the counselor."
+<ptT0155>"Ms. Kiyokawa. Ms. Kiyokawa, if you are in the building, please come to the staff room immediately. There is a phone call from Mr. Katagai, the counselor."
+
+//TEXT 【Kiyokawa】
+<enT0156>"From the counselor?"
+<ptT0156>"From the counselor?"
+
+//TEXT 【Yuki】
+<enT0157>"Maybe he's calling ahead because he's going to be late?"
+<ptT0157>"Maybe he's calling ahead because he's going to be late?"
+
+//TEXT 【Kiyokawa】
+<enT0158>"Please wait a moment. I'll go to the staff room."
+<ptT0158>"Please wait a moment. I'll go to the staff room."
+
+//TEXT 【Yuki】
+<enT0159>"Okay."
+<ptT0159>"Okay."
+
+//TEXT
+<enT0160>The call was probably just about the reason why he was late.
+<ptT0160>The call was probably just about the reason why he was late.
+
+//TEXT
+<enT0161>Though I really didn't want to receive any counseling.
+<ptT0161>Though I really didn't want to receive any counseling.
+
+//TEXT 【Yuki】
+<enT0162>"Aside from that..."
+<ptT0162>"Aside from that..."
+
+//TEXT
+<enT0163>Ms. Kiyokawa knew about the underground message board. She must've been getting the curse mail too.
+<ptT0163>Ms. Kiyokawa knew about the underground message board. She must've been getting the curse mail too.
+
+//TEXT
+<enT0164>But she was still acting like she didn't know about it.
+<ptT0164>But she was still acting like she didn't know about it.
+
+//TEXT
+<enT0165>Actually...
+<ptT0165>Actually...
+
+//TEXT
+<enT0166>Back then...
+<ptT0166>Back then...
+
+//TEXT 【Kimika】
+<enT0167>"Oh, I see. So she's been registered since way back then."
+<ptT0167>"Oh, I see. So she's been registered since way back then."
+
+//TEXT 【Kimika】
+<enT0168>"I see. Ms. Kiyokawa referred her."
+<ptT0168>"I see. Ms. Kiyokawa referred her."
+
+//TEXT 【Kimika】
+<enT0169>"Wow, she has a lot of emails."
+<ptT0169>"Wow, she has a lot of emails."
+
+//TEXT 【Yuki】
+<enT0170>"Huh?!"
+<ptT0170>"Huh?!"
+
+//TEXT 【Yuki】
+<enT0171>"She was registered? A lot of emails?"
+<ptT0171>"She was registered? A lot of emails?"
+
+//TEXT
+<enT0172>By registered, she must have been talking about the message board.
+<ptT0172>By registered, she must have been talking about the message board.
+
+//TEXT
+<enT0173>And "a lot of emails" was referring to the curse mail.
+<ptT0173>And "a lot of emails" was referring to the curse mail.
+
+//TEXT
+<enT0174>Which meant...
+<ptT0174>Which meant...
+
+//TEXT 【Yuki】
+<enT0175>"Mrs. Senagawa browsed the underground message board, and she was getting the curse mail."
+<ptT0175>"Mrs. Senagawa browsed the underground message board, and she was getting the curse mail."
+
+//TEXT 【Yuki】
+<enT0176>"And she said Mrs. Senagawa was referred by Ms. Kiyokawa."
+<ptT0176>"And she said Mrs. Senagawa was referred by Ms. Kiyokawa."
+
+//TEXT
+<enT0177>So Ms. Kiyokawa had been browsing it too, and she had definitely been getting the mail.
+<ptT0177>So Ms. Kiyokawa had been browsing it too, and she had definitely been getting the mail.
+
+//TEXT
+<enT0178>So then, could I trust her?
+<ptT0178>So then, could I trust her?
+
+//TEXT
+<enT0179>The underground message board had been turning them all into fanatics.
+<ptT0179>The underground message board had been turning them all into fanatics.
+
+//TEXT
+<enT0180>I couldn't say for certain that she hadn't gotten sucked up into all that as well.
+<ptT0180>I couldn't say for certain that she hadn't gotten sucked up into all that as well.
+
+//TEXT
+<enT0181>Especially since Mrs. Senagawa was her only real friend.
+<ptT0181>Especially since Mrs. Senagawa was her only real friend.
+
+//TEXT
+<enT0182>She was the one who referred her to the underground message board.
+<ptT0182>She was the one who referred her to the underground message board.
+
+//TEXT
+<enT0183>Was Ms. Kiyokawa still stable after having someone like that die?
+<ptT0183>Was Ms. Kiyokawa still stable after having someone like that die?
+
+//TEXT
+<enT0184>Normally, you'd expect her to take a leave of absence to grieve.
+<ptT0184>Normally, you'd expect her to take a leave of absence to grieve.
+
+//TEXT
+<enT0185>Despite that, she was...
+<ptT0185>Despite that, she was...
+
+//TEXT 【Yuki】
+<enT0186>"..."
+<ptT0186>"..."
+
+//TEXT 【Yuki】
+<enT0187>"I thought she seemed scared of something, but she didn't really seem sad about the death."
+<ptT0187>"I thought she seemed scared of something, but she didn't really seem sad about the death."
+
+//TEXT
+<enT0188>She left her bag and some of her papers on the desk where she was sitting.
+<ptT0188>She left her bag and some of her papers on the desk where she was sitting.
+
+//TEXT
+<enT0189>I casually looked at her bag.
+<ptT0189>I casually looked at her bag.
+
+//TEXT
+<enT0190>It was rather small.
+<ptT0190>It was rather small.
+
+//TEXT
+<enT0191>It was more of a pouch than a bag.
+<ptT0191>It was more of a pouch than a bag.
+
+//TEXT 【Yuki】
+<enT0192>"Huh?"
+<ptT0192>"Huh?"
+
+//TEXT
+<enT0193>There was a cell phone strap protruding from the bag.
+<ptT0193>There was a cell phone strap protruding from the bag.
+
+//TEXT 【Yuki】
+<enT0194>"I think I've seen that strap somewhere before."
+<ptT0194>"I think I've seen that strap somewhere before."
+
+//TEXT 【Yuki】
+<enT0195>"..."
+<ptT0195>"..."
+
+//TEXT
+<enT0196>I opened the fastener on her pouch.
+<ptT0196>I opened the fastener on her pouch.
+
+//TEXT 【Yuki】
+<enT0197>"This is..."
+<ptT0197>"This is..."
+
+//TEXT 【Yuki】
+<enT0198>"Mrs. Senagawa's cell phone."
+<ptT0198>"Mrs. Senagawa's cell phone."
+
+//TEXT
+<enT0199>It was the phone that I had picked up, which Tachibana-san had taken from me.
+<ptT0199>It was the phone that I had picked up, which Tachibana-san had taken from me.
+
+//TEXT
+<enT0200>Why was it in Ms. Kiyokawa's bag?
+<ptT0200>Why was it in Ms. Kiyokawa's bag?
+
+//TEXT
+<enT0201>Isn't that bizarre?
+<ptT0201>Isn't that bizarre?
+
+//TEXT
+<enT0202>Even if she found it after Tachibana-san dropped it, this wasn't the kind of thing someone would just hold on to and not say anything about.
+<ptT0202>Even if she found it after Tachibana-san dropped it, this wasn't the kind of thing someone would just hold on to and not say anything about.
+
+//TEXT
+<enT0203>Common sense says she should've handed it over to the police, or maybe Mrs. Senagawa's relatives.
+<ptT0203>Common sense says she should've handed it over to the police, or maybe Mrs. Senagawa's relatives.
+
+//TEXT
+<enT0204>Why did Ms. Kiyokawa have the cell phone?
+<ptT0204>Why did Ms. Kiyokawa have the cell phone?
+
+//TEXT
+<enT0205>This is just weird.
+<ptT0205>This is just weird.
+
+//TEXT
+<enT0206>Ms. Kiyokawa...
+<ptT0206>Ms. Kiyokawa...
+
+//TEXT 【Yuki】
+<enT0207>"Haa, haa, haa..."
+<ptT0207>"Haa, haa, haa..."
+
+//TEXT 【Yuki】
+<enT0208>"Haa, haa... I took her cell phone."
+<ptT0208>"Haa, haa... I took her cell phone."
+
+//TEXT 【Yuki】
+<enT0209>"But it's not like I can let them hold on to it."
+<ptT0209>"But it's not like I can let them hold on to it."
+
+//TEXT
+<enT0210>I wasn't sure what to do. It might have been better to hand it over to the police.
+<ptT0210>I wasn't sure what to do. It might have been better to hand it over to the police.
+
+//TEXT
+<enT0211>That would've been the easiest thing to do.
+<ptT0211>That would've been the easiest thing to do.
+
+//TEXT
+<enT0212>But my subconscious wouldn't let me do that.
+<ptT0212>But my subconscious wouldn't let me do that.
+
+//TEXT
+<enT0213>My heart was telling me that I couldn't just leave solving this mystery up to someone else.
+<ptT0213>My heart was telling me that I couldn't just leave solving this mystery up to someone else.
+
+//TEXT 【Yuki】
+<enT0214>"Why... Why do I feel like this?"
+<ptT0214>"Why... Why do I feel like this?"
+
+//TEXT
+<enT0215>I was totally unrelated to the incident.
+<ptT0215>I was totally unrelated to the incident.
+
+//TEXT
+<enT0216>I didn't really know Takashima Zakuro-san very well, and I'd only met Mamiya Takuji a few times before.
+<ptT0216>I didn't really know Takashima Zakuro-san very well, and I'd only met Mamiya Takuji a few times before.
+
+//TEXT
+<enT0217>Mrs. Senagawa, and Shiroyama Tsubasa before her too. They had nothing to do with me.
+<ptT0217>Mrs. Senagawa, and Shiroyama Tsubasa before her too. They had nothing to do with me.
+
+//TEXT
+<enT0218>But still, my heart was saying something to me.
+<ptT0218>But still, my heart was saying something to me.
+
+//TEXT
+<enT0219>"I have to stop this."
+<ptT0219>"I have to stop this."
+
+//TEXT
+<enT0220>Why?
+<ptT0220>Why?
+
+//TEXT
+<enT0221>Why did I feel like this?
+<ptT0221>Why did I feel like this?
+
+//TEXT
+<enT0222>I couldn't understand... Why did I feel the need to get involved?
+<ptT0222>I couldn't understand... Why did I feel the need to get involved?
+
+//TEXT 【Yuki】
+<enT0223>"Haa..."
+<ptT0223>"Haa..."
+
+//TEXT
+<enT0224>For the moment, I opened up Mrs. Senagawa's phone and checked.
+<ptT0224>For the moment, I opened up Mrs. Senagawa's phone and checked.
+
+//TEXT 【Yuki】
+<enT0225>"..."
+<ptT0225>"..."
+
+//TEXT 【Yuki】
+<enT0226>"It really is..."
+<ptT0226>"It really is..."
+
+//TEXT
+<enT0227>All the emails were deleted.
+<ptT0227>All the emails were deleted.
+
+//TEXT
+<enT0228>That wasn't surprising. If someone found it, the police would definitely get involved.
+<ptT0228>That wasn't surprising. If someone found it, the police would definitely get involved.
+
+//TEXT
+<enT0229>At this point, the police didn't consider the deaths to be related.
+<ptT0229>At this point, the police didn't consider the deaths to be related.
+
+//TEXT
+<enT0230>They thought the two deaths were completely separate. They hadn't even considered there might've been a third party orchestrating it.
+<ptT0230>They thought the two deaths were completely separate. They hadn't even considered there might've been a third party orchestrating it.
+
+//TEXT 【Yuki】
+<enT0231>"Maybe it was Tachibana-san. Or it might have been Ms. Kiyokawa."
+<ptT0231>"Maybe it was Tachibana-san. Or it might have been Ms. Kiyokawa."
+
+//TEXT
+<enT0232>Either way, someone had definitely deleted them all.
+<ptT0232>Either way, someone had definitely deleted them all.
+
+//TEXT
+<enT0233>Since she hadn't handed this over to the police as evidence, there was a high chance that Ms. Kiyokawa was an accomplice.
+<ptT0233>Since she hadn't handed this over to the police as evidence, there was a high chance that Ms. Kiyokawa was an accomplice.
+
+//TEXT 【Yuki】
+<enT0234>"What's going on?"
+<ptT0234>"What's going on?"
+
+//TEXT 【Yuki】
+<enT0235>"Since it's this model, if I do this..."
+<ptT0235>"Since it's this model, if I do this..."
+
+//TEXT
+<enT0236>I might have gotten a bit lucky.
+<ptT0236>I might have gotten a bit lucky.
+
+//TEXT
+<enT0237>It's almost impossible for an amateur to copy messages from a cell phone.
+<ptT0237>It's almost impossible for an amateur to copy messages from a cell phone.
+
+//TEXT
+<enT0238>Of course, logically it is possible, but as far as I knew, there's no software to copy messages from a cell phone.
+<ptT0238>Of course, logically it is possible, but as far as I knew, there's no software to copy messages from a cell phone.
+
+//TEXT
+<enT0239>Well, cell phones were developed by lots of different companies, whereas email on a computer is mostly all the same.
+<ptT0239>Well, cell phones were developed by lots of different companies, whereas email on a computer is mostly all the same.
+
+//TEXT
+<enT0240>But this particular brand of cell phone stored the messages on the server for thirty days after they'd been deleted.
+<ptT0240>But this particular brand of cell phone stored the messages on the server for thirty days after they'd been deleted.
+
+//TEXT
+<enT0241>So I could retrieve the messages that had been deleted.
+<ptT0241>So I could retrieve the messages that had been deleted.
+
+//TEXT 【Yuki】
+<enT0242>"They were deleted just yesterday, so I should be able to retrieve all the important messages.
+<ptT0242>"They were deleted just yesterday, so I should be able to retrieve all the important messages.
+
+//TEXT
+<enT0243>I turned on my computer and connected to the underground message board.
+<ptT0243>I turned on my computer and connected to the underground message board.
+
+//TEXT 【Yuki】
+<enT0244>"There was a list of the different messages from Takashima around here."
+<ptT0244>"There was a list of the different messages from Takashima around here."
+
+//TEXT
+<enT0245>There was a thread for people to talk about the messages they were all sent from Takashima.
+<ptT0245>There was a thread for people to talk about the messages they were all sent from Takashima.
+
+//TEXT
+<enT0246>From looking at the thread, it seemed like almost everyone was getting the same messages, but there were occasionally some personalized ones.
+<ptT0246>From looking at the thread, it seemed like almost everyone was getting the same messages, but there were occasionally some personalized ones.
+
+//TEXT
+<enT0247>So there were two types of Takashima mail, communal and individual.
+<ptT0247>So there were two types of Takashima mail, communal and individual.
+
+//TEXT
+<enT0248>For some reason, there weren't very many people posting the contents of their individual messages.
+<ptT0248>For some reason, there weren't very many people posting the contents of their individual messages.
+
+//TEXT
+<enT0249>That was probably because they talked about what kind of stuff that person had done to Takashima.
+<ptT0249>That was probably because they talked about what kind of stuff that person had done to Takashima.
+
+//TEXT
+<enT0250>The messages I retrieved with Mrs. Senagawa's phone, and the common messages posted on the message board...
+<ptT0250>The messages I retrieved with Mrs. Senagawa's phone, and the common messages posted on the message board...
+
+//TEXT
+<enT0251>With the two of these, I'd be able to figure out what kind of messages she was getting, and whether they drove her to her death.
+<ptT0251>With the two of these, I'd be able to figure out what kind of messages she was getting, and whether they drove her to her death.
+
+//TEXT
+<enT0252>...
+<ptT0252>...
+
+//TEXT
+<enT0253>......
+<ptT0253>......
+
+//TEXT
+<enT0254>.........
+<ptT0254>.........
+
+//TEXT 【Yuki】
+<enT0255>"Whoa... There are a ton of them."
+<ptT0255>"Whoa... There are a ton of them."
+
+//TEXT
+<enT0256>The two girls, "Satoko" and "Akasaka Megu," said on the message board that they were getting messages every hour, but...
+<ptT0256>The two girls, "Satoko" and "Akasaka Megu," said on the message board that they were getting messages every hour, but...
+
+//TEXT 【Yuki】
+<enT0257>"Mrs. Senagawa was getting them too."
+<ptT0257>"Mrs. Senagawa was getting them too."
+
+//TEXT
+<enT0258>There were way more of these messages than communal ones.
+<ptT0258>There were way more of these messages than communal ones.
+
+//TEXT
+<enT0259>The total number of messages from Takashima was 62. Even if she wasn't dead, getting that many messages from one person would be a bit scary.
+<ptT0259>The total number of messages from Takashima was 62. Even if she wasn't dead, getting that many messages from one person would be a bit scary.
+
+//TEXT
+<enT0260>I calmly read the 62 messages.
+<ptT0260>I calmly read the 62 messages.
+
+//TEXT
+<enT0261>The first email was to be expected.
+<ptT0261>The first email was to be expected.
+
+//TEXT
+<enT0262>―――――――――――――――――――――――――――\n
+<ptT0262>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0263>2012/7/12 22:44\n
+<ptT0263>2012/7/12 22:44\n
+
+//TEXT
+<enT0264>from: Takashima Zakuro\n
+<ptT0264>from: Takashima Zakuro\n
+
+//TEXT
+<enT0265>subject: no subject\n
+<ptT0265>subject: no subject\n
+
+//TEXT
+<enT0266>―――――――――――――――――――――――――――\n
+<ptT0266>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0267>through death i have been reborn as a warrior\n
+<ptT0267>through death i have been reborn as a warrior\n
+
+//TEXT
+<enT0268>or so they said but\n
+<ptT0268>or so they said but\n
+
+//TEXT
+<enT0269>it hurts\n
+<ptT0269>it hurts\n
+
+//TEXT
+<enT0270>i have no body but it still hurts\n
+<ptT0270>i have no body but it still hurts\n
+
+//TEXT
+<enT0271>it hurts because i've been broken\n
+<ptT0271>it hurts because i've been broken\n
+
+//TEXT
+<enT0272>therefore\n
+<ptT0272>therefore\n
+
+//TEXT
+<enT0273>everyone must die\n
+<ptT0273>everyone must die\n
+
+//TEXT
+<enT0274>you will die in 8 days\n
+<ptT0274>you will die in 8 days\n
+
+//TEXT
+<enT0275>all of you will die
+<ptT0275>all of you will die
+
+//TEXT
+<enT0276>The first of Takashima's messages.
+<ptT0276>The first of Takashima's messages.
+
+//TEXT 【Yuki】
+<enT0277>"Huh?"
+<ptT0277>"Huh?"
+
+//TEXT
+<enT0278>What's this? There was quite a gap between the first and second messages.
+<ptT0278>What's this? There was quite a gap between the first and second messages.
+
+//TEXT
+<enT0279>The next one was two days after the first message.
+<ptT0279>The next one was two days after the first message.
+
+//TEXT
+<enT0280>But still...
+<ptT0280>But still...
+
+//TEXT
+<enT0281>―――――――――――――――――――――――――――\n
+<ptT0281>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0282>2012/7/14 18:01\n
+<ptT0282>2012/7/14 18:01\n
+
+//TEXT
+<enT0283>from: Takashima Zakuro\n
+<ptT0283>from: Takashima Zakuro\n
+
+//TEXT
+<enT0284>subject: no subject\n
+<ptT0284>subject: no subject\n
+
+//TEXT
+<enT0285>―――――――――――――――――――――――――――\n
+<ptT0285>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0286>it hurts it hurts\n
+<ptT0286>it hurts it hurts\n
+
+//TEXT
+<enT0287>it hurts\n
+<ptT0287>it hurts\n
+
+//TEXT
+<enT0288>it hurts\n
+<ptT0288>it hurts\n
+
+//TEXT
+<enT0289>it hurts it hurts it hurts it hurts\n
+<ptT0289>it hurts it hurts it hurts it hurts\n
+
+//TEXT
+<enT0290>it hurts it hurts it hurts it hurts\n
+<ptT0290>it hurts it hurts it hurts it hurts\n
+
+//TEXT
+<enT0291>it hurts it hurts\n
+<ptT0291>it hurts it hurts\n
+
+//TEXT
+<enT0292>it hurts it hurts it hurts it hurts\n
+<ptT0292>it hurts it hurts it hurts it hurts\n
+
+//TEXT
+<enT0293>it hurts it hurts it hurts\n
+<ptT0293>it hurts it hurts it hurts\n
+
+//TEXT
+<enT0294>it hurts
+<ptT0294>it hurts
+
+//TEXT 【Yuki】
+<enT0295>"After the second one, they started coming every hour. They were all sent at fixed intervals."
+<ptT0295>"After the second one, they started coming every hour. They were all sent at fixed intervals."
+
+//TEXT 【Yuki】
+<enT0296>"The contents are mostly the same: 'it hurts' repeated over and over."
+<ptT0296>"The contents are mostly the same: 'it hurts' repeated over and over."
+
+//TEXT 【Yuki】
+<enT0297>"But look at all of these. The guy sending these must not have any hobbies."
+<ptT0297>"But look at all of these. The guy sending these must not have any hobbies."
+
+//TEXT
+<enT0298>......
+<ptT0298>......
+
+//TEXT 【Yuki】
+<enT0299>"Huh?"
+<ptT0299>"Huh?"
+
+//TEXT
+<enT0300>I continued reading...
+<ptT0300>I continued reading...
+
+//TEXT
+<enT0301>Starting on the night of the 15th, there were more messages with actual content.
+<ptT0301>Starting on the night of the 15th, there were more messages with actual content.
+
+//TEXT
+<enT0302>―――――――――――――――――――――――――――\n
+<ptT0302>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0303>2012/7/15 21:01\n
+<ptT0303>2012/7/15 21:01\n
+
+//TEXT
+<enT0304>from: Takashima Zakuro\n
+<ptT0304>from: Takashima Zakuro\n
+
+//TEXT
+<enT0305>subject: no subject\n
+<ptT0305>subject: no subject\n
+
+//TEXT
+<enT0306>―――――――――――――――――――――――――――\n
+<ptT0306>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0307>you definitely saw it\n
+<ptT0307>you definitely saw it\n
+
+//TEXT
+<enT0308>but you didn't do anything\n
+<ptT0308>but you didn't do anything\n
+
+//TEXT
+<enT0309>you knew\n
+<ptT0309>you knew\n
+
+//TEXT
+<enT0310>but you pretended like you didn't\n
+<ptT0310>but you pretended like you didn't\n
+
+//TEXT
+<enT0311>Of course, this was talking about the fact that Mrs. Senagawa knew about the bullying and didn't do anything to stop it.
+<ptT0311>Of course, this was talking about the fact that Mrs. Senagawa knew about the bullying and didn't do anything to stop it.
+
+//TEXT
+<enT0312>Takashima-san was blaming her for it even after her death.
+<ptT0312>Takashima-san was blaming her for it even after her death.
+
+//TEXT
+<enT0313>I see. That's pretty scary.
+<ptT0313>I see. That's pretty scary.
+
+//TEXT
+<enT0314>―――――――――――――――――――――――――――\n
+<ptT0314>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0315>2012/7/15 22:01\n
+<ptT0315>2012/7/15 22:01\n
+
+//TEXT
+<enT0316>from: Takashima Zakuro\n
+<ptT0316>from: Takashima Zakuro\n
+
+//TEXT
+<enT0317>subject: no subject\n
+<ptT0317>subject: no subject\n
+
+//TEXT
+<enT0318>―――――――――――――――――――――――――――\n
+<ptT0318>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0319>you knew they were always bullying me\n
+<ptT0319>you knew they were always bullying me\n
+
+//TEXT
+<enT0320>on the roof of building c\n
+<ptT0320>on the roof of building c\n
+
+//TEXT
+<enT0321>they borrowed the key from you after all
+<ptT0321>they borrowed the key from you after all
+
+//TEXT
+<enT0322>Building C?
+<ptT0322>Building C?
+
+//TEXT
+<enT0323>That was the place Mrs. Senagawa jumped from, right?
+<ptT0323>That was the place Mrs. Senagawa jumped from, right?
+
+//TEXT
+<enT0324>―――――――――――――――――――――――――――\n
+<ptT0324>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0325>2012/7/15 23:01\n
+<ptT0325>2012/7/15 23:01\n
+
+//TEXT
+<enT0326>from: Takashima Zakuro\n
+<ptT0326>from: Takashima Zakuro\n
+
+//TEXT
+<enT0327>subject: no subject\n
+<ptT0327>subject: no subject\n
+
+//TEXT
+<enT0328>―――――――――――――――――――――――――――\n
+<ptT0328>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0329>they threw my doll off the roof\n
+<ptT0329>they threw my doll off the roof\n
+
+//TEXT
+<enT0330>until i have that\n
+<ptT0330>until i have that\n
+
+//TEXT
+<enT0331>i can't rest in peace\n
+<ptT0331>i can't rest in peace\n
+
+//TEXT
+<enT0332>you\n
+<ptT0332>you\n
+
+//TEXT
+<enT0333>knew about it\n
+<ptT0333>knew about it\n
+
+//TEXT
+<enT0334>since you were the one who gave them the key
+<ptT0334>since you were the one who gave them the key
+
+//TEXT
+<enT0335>―――――――――――――――――――――――――――\n
+<ptT0335>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0336>2012/7/16 00:01\n
+<ptT0336>2012/7/16 00:01\n
+
+//TEXT
+<enT0337>from: Takashima Zakuro\n
+<ptT0337>from: Takashima Zakuro\n
+
+//TEXT
+<enT0338>subject: no subject\n
+<ptT0338>subject: no subject\n
+
+//TEXT
+<enT0339>―――――――――――――――――――――――――――\n
+<ptT0339>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0340>you had the key\n
+<ptT0340>you had the key\n
+
+//TEXT
+<enT0341>you knew\n
+<ptT0341>you knew\n
+
+//TEXT
+<enT0342>i want my doll back
+<ptT0342>i want my doll back
+
+//TEXT
+<enT0343>―――――――――――――――――――――――――――\n
+<ptT0343>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0344>2012/7/16 01:01\n
+<ptT0344>2012/7/16 01:01\n
+
+//TEXT
+<enT0345>from: Takashima Zakuro\n
+<ptT0345>from: Takashima Zakuro\n
+
+//TEXT
+<enT0346>subject: no subject\n
+<ptT0346>subject: no subject\n
+
+//TEXT
+<enT0347>―――――――――――――――――――――――――――\n
+<ptT0347>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0348>a black doll\n
+<ptT0348>a black doll\n
+
+//TEXT
+<enT0349>my black doll
+<ptT0349>my black doll
+
+//TEXT
+<enT0350>―――――――――――――――――――――――――――\n
+<ptT0350>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0351>2012/7/16 02:01\n
+<ptT0351>2012/7/16 02:01\n
+
+//TEXT
+<enT0352>from: Takashima Zakuro\n
+<ptT0352>from: Takashima Zakuro\n
+
+//TEXT
+<enT0353>subject: no subject\n
+<ptT0353>subject: no subject\n
+
+//TEXT
+<enT0354>―――――――――――――――――――――――――――\n
+<ptT0354>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0355>my doll says it's cold\n
+<ptT0355>my doll says it's cold\n
+
+//TEXT
+<enT0356>it wants to go with me\n
+<ptT0356>it wants to go with me\n
+
+//TEXT
+<enT0357>so i want to find it before i go
+<ptT0357>so i want to find it before i go
+
+//TEXT
+<enT0358>―――――――――――――――――――――――――――\n
+<ptT0358>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0359>2012/7/16 03:01\n
+<ptT0359>2012/7/16 03:01\n
+
+//TEXT
+<enT0360>from: Takashima Zakuro\n
+<ptT0360>from: Takashima Zakuro\n
+
+//TEXT
+<enT0361>subject: no subject\n
+<ptT0361>subject: no subject\n
+
+//TEXT
+<enT0362>―――――――――――――――――――――――――――\n
+<ptT0362>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0363>either i take the doll with me\n
+<ptT0363>either i take the doll with me\n
+
+//TEXT
+<enT0364>or i take you
+<ptT0364>or i take you
+
+//TEXT
+<enT0365>―――――――――――――――――――――――――――\n
+<ptT0365>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0366>2012/7/16 04:01\n
+<ptT0366>2012/7/16 04:01\n
+
+//TEXT
+<enT0367>from: Takashima Zakuro\n
+<ptT0367>from: Takashima Zakuro\n
+
+//TEXT
+<enT0368>subject: no subject\n
+<ptT0368>subject: no subject\n
+
+//TEXT
+<enT0369>―――――――――――――――――――――――――――\n
+<ptT0369>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0370>i don't have my black doll\n
+<ptT0370>i don't have my black doll\n
+
+//TEXT
+<enT0371>i'll take you instead
+<ptT0371>i'll take you instead
+
+//TEXT
+<enT0372>―――――――――――――――――――――――――――\n
+<ptT0372>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0373>2012/7/16 05:01\n
+<ptT0373>2012/7/16 05:01\n
+
+//TEXT
+<enT0374>from: Takashima Zakuro\n
+<ptT0374>from: Takashima Zakuro\n
+
+//TEXT
+<enT0375>subject: no subject\n
+<ptT0375>subject: no subject\n
+
+//TEXT
+<enT0376>―――――――――――――――――――――――――――\n
+<ptT0376>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0377>come with me
+<ptT0377>come with me
+
+//TEXT
+<enT0378>―――――――――――――――――――――――――――\n
+<ptT0378>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0379>2012/7/16 06:01\n
+<ptT0379>2012/7/16 06:01\n
+
+//TEXT
+<enT0380>from: Takashima Zakuro\n
+<ptT0380>from: Takashima Zakuro\n
+
+//TEXT
+<enT0381>subject: no subject\n
+<ptT0381>subject: no subject\n
+
+//TEXT
+<enT0382>―――――――――――――――――――――――――――\n
+<ptT0382>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0383>i want you to come with me, so i'm coming
+<ptT0383>i want you to come with me, so i'm coming
+
+//TEXT
+<enT0384>―――――――――――――――――――――――――――\n
+<ptT0384>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0385>2012/7/16 07:00\n
+<ptT0385>2012/7/16 07:00\n
+
+//TEXT
+<enT0386>from: Takashima Zakuro\n
+<ptT0386>from: Takashima Zakuro\n
+
+//TEXT
+<enT0387>subject: no subject\n
+<ptT0387>subject: no subject\n
+
+//TEXT
+<enT0388>―――――――――――――――――――――――――――\n
+<ptT0388>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0389>i came to your room but\n
+<ptT0389>i came to your room but\n
+
+//TEXT
+<enT0390>why aren't you here?\n
+<ptT0390>why aren't you here?\n
+
+//TEXT
+<enT0391>when i touched the cute dolls in your room\n
+<ptT0391>when i touched the cute dolls in your room\n
+
+//TEXT
+<enT0392>all their heads came off
+<ptT0392>all their heads came off
+
+//TEXT
+<enT0393>―――――――――――――――――――――――――――\n
+<ptT0393>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0394>2012/7/16 08:03\n
+<ptT0394>2012/7/16 08:03\n
+
+//TEXT
+<enT0395>from: Takashima Zakuro\n
+<ptT0395>from: Takashima Zakuro\n
+
+//TEXT
+<enT0396>subject: no subject\n
+<ptT0396>subject: no subject\n
+
+//TEXT
+<enT0397>―――――――――――――――――――――――――――\n
+<ptT0397>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0398>i have no body\n
+<ptT0398>i have no body\n
+
+//TEXT
+<enT0399>my body is broken\n
+<ptT0399>my body is broken\n
+
+//TEXT
+<enT0400>i need the doll\n
+<ptT0400>i need the doll\n
+
+//TEXT
+<enT0401>or i need you
+<ptT0401>or i need you
+
+//TEXT
+<enT0402>―――――――――――――――――――――――――――\n
+<ptT0402>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0403>2012/7/16 09:02\n
+<ptT0403>2012/7/16 09:02\n
+
+//TEXT
+<enT0404>from: Takashima Zakuro\n
+<ptT0404>from: Takashima Zakuro\n
+
+//TEXT
+<enT0405>subject: no subject\n
+<ptT0405>subject: no subject\n
+
+//TEXT
+<enT0406>―――――――――――――――――――――――――――\n
+<ptT0406>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0407>no body no body\n
+<ptT0407>no body no body\n
+
+//TEXT
+<enT0408>broken body\n
+<ptT0408>broken body\n
+
+//TEXT
+<enT0409>i need you\n
+<ptT0409>i need you\n
+
+//TEXT
+<enT0410>let's go together
+<ptT0410>let's go together
+
+//TEXT
+<enT0411>―――――――――――――――――――――――――――\n
+<ptT0411>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0412>2012/7/16 10:02\n
+<ptT0412>2012/7/16 10:02\n
+
+//TEXT
+<enT0413>from: Takashima Zakuro\n
+<ptT0413>from: Takashima Zakuro\n
+
+//TEXT
+<enT0414>subject: no subject\n
+<ptT0414>subject: no subject\n
+
+//TEXT
+<enT0415>―――――――――――――――――――――――――――\n
+<ptT0415>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0416>where are you?\n
+<ptT0416>where are you?\n
+
+//TEXT
+<enT0417>i\n
+<ptT0417>i\n
+
+//TEXT
+<enT0418>need you\n
+<ptT0418>need you\n
+
+//TEXT
+<enT0419>let's go together
+<ptT0419>let's go together
+
+//TEXT
+<enT0420>―――――――――――――――――――――――――――\n
+<ptT0420>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0421>2012/7/16 11:01\n
+<ptT0421>2012/7/16 11:01\n
+
+//TEXT
+<enT0422>from: Takashima Zakuro\n
+<ptT0422>from: Takashima Zakuro\n
+
+//TEXT
+<enT0423>subject: no subject\n
+<ptT0423>subject: no subject\n
+
+//TEXT
+<enT0424>―――――――――――――――――――――――――――\n
+<ptT0424>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0425>it hurts
+<ptT0425>it hurts
+
+//TEXT
+<enT0426>―――――――――――――――――――――――――――\n
+<ptT0426>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0427>2012/7/16 12:04\n
+<ptT0427>2012/7/16 12:04\n
+
+//TEXT
+<enT0428>from: Takashima Zakuro\n
+<ptT0428>from: Takashima Zakuro\n
+
+//TEXT
+<enT0429>subject: no subject\n
+<ptT0429>subject: no subject\n
+
+//TEXT
+<enT0430>―――――――――――――――――――――――――――\n
+<ptT0430>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0431>it hurts my body hurts
+<ptT0431>it hurts my body hurts
+
+//TEXT
+<enT0432>―――――――――――――――――――――――――――\n
+<ptT0432>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0433>2012/7/16 13:01\n
+<ptT0433>2012/7/16 13:01\n
+
+//TEXT
+<enT0434>from: Takashima Zakuro\n
+<ptT0434>from: Takashima Zakuro\n
+
+//TEXT
+<enT0435>subject: no subject\n
+<ptT0435>subject: no subject\n
+
+//TEXT
+<enT0436>―――――――――――――――――――――――――――\n
+<ptT0436>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0437>i failed\n
+<ptT0437>i failed\n
+
+//TEXT
+<enT0438>my arm is broken\n
+<ptT0438>my arm is broken\n
+
+//TEXT
+<enT0439>my skull is split\n
+<ptT0439>my skull is split\n
+
+//TEXT
+<enT0440>it hurts\n
+<ptT0440>it hurts\n
+
+//TEXT
+<enT0441>it hurts
+<ptT0441>it hurts
+
+//TEXT
+<enT0442>―――――――――――――――――――――――――――\n
+<ptT0442>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0443>2012/7/16 14:03\n
+<ptT0443>2012/7/16 14:03\n
+
+//TEXT
+<enT0444>from: Takashima Zakuro\n
+<ptT0444>from: Takashima Zakuro\n
+
+//TEXT
+<enT0445>subject: no subject\n
+<ptT0445>subject: no subject\n
+
+//TEXT
+<enT0446>―――――――――――――――――――――――――――\n
+<ptT0446>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0447>i bleed when i move\n
+<ptT0447>i bleed when i move\n
+
+//TEXT
+<enT0448>i'm cold\n
+<ptT0448>i'm cold\n
+
+//TEXT
+<enT0449>i'm so cold\n
+<ptT0449>i'm so cold\n
+
+//TEXT
+<enT0450>where are you?
+<ptT0450>where are you?
+
+//TEXT
+<enT0451>―――――――――――――――――――――――――――\n
+<ptT0451>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0452>2012/7/16 15:01\n
+<ptT0452>2012/7/16 15:01\n
+
+//TEXT
+<enT0453>from: Takashima Zakuro\n
+<ptT0453>from: Takashima Zakuro\n
+
+//TEXT
+<enT0454>subject: no subject\n
+<ptT0454>subject: no subject\n
+
+//TEXT
+<enT0455>―――――――――――――――――――――――――――\n
+<ptT0455>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0456>i saw you in the hallway\n
+<ptT0456>i saw you in the hallway\n
+
+//TEXT
+<enT0457>i'm coming for you
+<ptT0457>i'm coming for you
+
+//TEXT
+<enT0458>―――――――――――――――――――――――――――\n
+<ptT0458>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0459>2012/7/16 16:02\n
+<ptT0459>2012/7/16 16:02\n
+
+//TEXT
+<enT0460>from: Takashima Zakuro\n
+<ptT0460>from: Takashima Zakuro\n
+
+//TEXT
+<enT0461>subject: no subject\n
+<ptT0461>subject: no subject\n
+
+//TEXT
+<enT0462>―――――――――――――――――――――――――――\n
+<ptT0462>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0463>i saw you in the hallway\n
+<ptT0463>i saw you in the hallway\n
+
+//TEXT
+<enT0464>i'm coming for you
+<ptT0464>i'm coming for you
+
+//TEXT
+<enT0465>―――――――――――――――――――――――――――\n
+<ptT0465>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0466>2012/7/16 17:01\n
+<ptT0466>2012/7/16 17:01\n
+
+//TEXT
+<enT0467>from: Takashima Zakuro\n
+<ptT0467>from: Takashima Zakuro\n
+
+//TEXT
+<enT0468>subject: no subject\n
+<ptT0468>subject: no subject\n
+
+//TEXT
+<enT0469>―――――――――――――――――――――――――――\n
+<ptT0469>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0470>i can see you\n
+<ptT0470>i can see you\n
+
+//TEXT
+<enT0471>huddled on the floor in the staff room
+<ptT0471>huddled on the floor in the staff room
+
+//TEXT
+<enT0472>―――――――――――――――――――――――――――\n
+<ptT0472>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0473>2012/7/16 17:58\n
+<ptT0473>2012/7/16 17:58\n
+
+//TEXT
+<enT0474>from: Takashima Zakuro\n
+<ptT0474>from: Takashima Zakuro\n
+
+//TEXT
+<enT0475>subject: no subject\n
+<ptT0475>subject: no subject\n
+
+//TEXT
+<enT0476>―――――――――――――――――――――――――――\n
+<ptT0476>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0477>behind you\n
+<ptT0477>behind you\n
+
+//TEXT
+<enT0478> \n
+<ptT0478> \n
+
+//TEXT
+<enT0479> \n
+<ptT0479> \n
+
+//TEXT
+<enT0480> \n
+<ptT0480> \n
+
+//TEXT
+<enT0481> \n
+<ptT0481> \n
+
+//TEXT
+<enT0482> \n
+<ptT0482> \n
+
+//TEXT
+<enT0483> \n
+<ptT0483> \n
+
+//TEXT
+<enT0484>i got you
+<ptT0484>i got you
+
+//TEXT
+<enT0485>This last message.
+<ptT0485>This last message.
+
+//TEXT
+<enT0486>The time was 5:58 p.m.
+<ptT0486>The time was 5:58 p.m.
+
+//TEXT
+<enT0487>Right around the time she fell.
+<ptT0487>Right around the time she fell.
+
+//TEXT
+<enT0488>Or rather, the exact moment.
+<ptT0488>Or rather, the exact moment.
+
+//TEXT 【Yuki】
+<enT0489>"This doesn't seem like a ghost. It looks like someone was leading Mrs. Senagawa on."
+<ptT0489>"This doesn't seem like a ghost. It looks like someone was leading Mrs. Senagawa on."
+
+//TEXT
+<enT0490>Next, I looked at the messages she sent.
+<ptT0490>Next, I looked at the messages she sent.
+
+//TEXT
+<enT0491>Mrs. Senagawa had been sending replies back since she started receiving the messages.
+<ptT0491>Mrs. Senagawa had been sending replies back since she started receiving the messages.
+
+//TEXT
+<enT0492>―――――――――――――――――――――――――――\n
+<ptT0492>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0493>2012/7/12 19:02\n
+<ptT0493>2012/7/12 19:02\n
+
+//TEXT
+<enT0494>to: Takashima Zakuro\n
+<ptT0494>to: Takashima Zakuro\n
+
+//TEXT
+<enT0495>subject: Re:\n
+<ptT0495>subject: Re:\n
+
+//TEXT
+<enT0496>―――――――――――――――――――――――――――\n
+<ptT0496>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0497>Is this a prank?\n
+<ptT0497>Is this a prank?\n
+
+//TEXT
+<enT0498>Pretending to be Takashima-san is incredibly disrespectful.\n
+<ptT0498>Pretending to be Takashima-san is incredibly disrespectful.\n
+
+//TEXT
+<enT0499>Who are you?
+<ptT0499>Who are you?
+
+//TEXT
+<enT0500>These angry messages changed to fearful ones as more messages came from Takashima.
+<ptT0500>These angry messages changed to fearful ones as more messages came from Takashima.
+
+//TEXT
+<enT0501>She started apologizing, getting mad, and then apologizing again. There were a ton of them, but I still went through them one by one.
+<ptT0501>She started apologizing, getting mad, and then apologizing again. There were a ton of them, but I still went through them one by one.
+
+//TEXT
+<enT0502>―――――――――――――――――――――――――――\n
+<ptT0502>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0503>2012/7/15 21:06\n
+<ptT0503>2012/7/15 21:06\n
+
+//TEXT
+<enT0504>to: Takashima Zakuro\n
+<ptT0504>to: Takashima Zakuro\n
+
+//TEXT
+<enT0505>subject: Re:\n
+<ptT0505>subject: Re:\n
+
+//TEXT
+<enT0506>―――――――――――――――――――――――――――\n
+<ptT0506>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0507>That's wrong.\n
+<ptT0507>That's wrong.\n
+
+//TEXT
+<enT0508>I really didn't know.\n
+<ptT0508>I really didn't know.\n
+
+//TEXT
+<enT0509>Akasaka-san and Kitami-san said they were going to use the roof to draw sketches for their club.\n
+<ptT0509>Akasaka-san and Kitami-san said they were going to use the roof to draw sketches for their club.\n
+
+//TEXT
+<enT0510>I was just holding on to the key for the janitor.
+<ptT0510>I was just holding on to the key for the janitor.
+
+//TEXT
+<enT0511>―――――――――――――――――――――――――――\n
+<ptT0511>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0512>2012/7/15 22:08\n
+<ptT0512>2012/7/15 22:08\n
+
+//TEXT
+<enT0513>to: Takashima Zakuro\n
+<ptT0513>to: Takashima Zakuro\n
+
+//TEXT
+<enT0514>subject: Re:\n
+<ptT0514>subject: Re:\n
+
+//TEXT
+<enT0515>―――――――――――――――――――――――――――\n
+<ptT0515>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0516>They said they were just doing sketches.\n
+<ptT0516>They said they were just doing sketches.\n
+
+//TEXT
+<enT0517>I didn't know they were bullying you up there.\n
+<ptT0517>I didn't know they were bullying you up there.\n
+
+//TEXT
+<enT0518>I'm sorry, Takashima-san.
+<ptT0518>I'm sorry, Takashima-san.
+
+//TEXT
+<enT0519>―――――――――――――――――――――――――――\n
+<ptT0519>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0520>2012/7/15 23:09\n
+<ptT0520>2012/7/15 23:09\n
+
+//TEXT
+<enT0521>to: Takashima Zakuro\n
+<ptT0521>to: Takashima Zakuro\n
+
+//TEXT
+<enT0522>subject: Re:\n
+<ptT0522>subject: Re:\n
+
+//TEXT
+<enT0523>―――――――――――――――――――――――――――\n
+<ptT0523>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0524>A doll?\n
+<ptT0524>A doll?\n
+
+//TEXT
+<enT0525>Your doll was thrown away?\n
+<ptT0525>Your doll was thrown away?\n
+
+//TEXT
+<enT0526>If it was dropped off the roof,\n
+<ptT0526>If it was dropped off the roof,\n
+
+//TEXT
+<enT0527>it might be in the lost and found.\n
+<ptT0527>it might be in the lost and found.\n
+
+//TEXT
+<enT0528>I'll go look tomorrow.
+<ptT0528>I'll go look tomorrow.
+
+//TEXT
+<enT0529>―――――――――――――――――――――――――――\n
+<ptT0529>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0530>2012/7/16 00:06\n
+<ptT0530>2012/7/16 00:06\n
+
+//TEXT
+<enT0531>to: Takashima Zakuro\n
+<ptT0531>to: Takashima Zakuro\n
+
+//TEXT
+<enT0532>subject: Re:\n
+<ptT0532>subject: Re:\n
+
+//TEXT
+<enT0533>―――――――――――――――――――――――――――\n
+<ptT0533>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0534>I really didn't know.\n
+<ptT0534>I really didn't know.\n
+
+//TEXT
+<enT0535>I'll look for your doll tomorrow.
+<ptT0535>I'll look for your doll tomorrow.
+
+//TEXT
+<enT0536>So Mrs. Senagawa was the one who gave them permission to use the rooftop for their club.
+<ptT0536>So Mrs. Senagawa was the one who gave them permission to use the rooftop for their club.
+
+//TEXT
+<enT0537>I didn't think she would have lent it to them so they could bully someone.
+<ptT0537>I didn't think she would have lent it to them so they could bully someone.
+
+//TEXT
+<enT0538>But still, this must've been really scary.
+<ptT0538>But still, this must've been really scary.
+
+//TEXT
+<enT0539>―――――――――――――――――――――――――――\n
+<ptT0539>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0540>2012/7/16 06:06\n
+<ptT0540>2012/7/16 06:06\n
+
+//TEXT
+<enT0541>to: Takashima Zakuro\n
+<ptT0541>to: Takashima Zakuro\n
+
+//TEXT
+<enT0542>subject: Re:\n
+<ptT0542>subject: Re:\n
+
+//TEXT
+<enT0543>―――――――――――――――――――――――――――\n
+<ptT0543>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0544>No, don't come to my room,\n
+<ptT0544>No, don't come to my room,\n
+
+//TEXT
+<enT0545>Please.\n
+<ptT0545>Please.\n
+
+//TEXT
+<enT0546>Please don't come here.\n
+<ptT0546>Please don't come here.\n
+
+//TEXT
+<enT0547>I'll go find your doll right away.
+<ptT0547>I'll go find your doll right away.
+
+//TEXT
+<enT0548>―――――――――――――――――――――――――――\n
+<ptT0548>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0549>2012/7/16 07:09\n
+<ptT0549>2012/7/16 07:09\n
+
+//TEXT
+<enT0550>to: Takashima Zakuro\n
+<ptT0550>to: Takashima Zakuro\n
+
+//TEXT
+<enT0551>subject: Re:\n
+<ptT0551>subject: Re:\n
+
+//TEXT
+<enT0552>―――――――――――――――――――――――――――\n
+<ptT0552>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0553>I looked but it wasn't in the lost and found.\n
+<ptT0553>I looked but it wasn't in the lost and found.\n
+
+//TEXT
+<enT0554>But the janitor will be here in just a little bit.\n
+<ptT0554>But the janitor will be here in just a little bit.\n
+
+//TEXT
+<enT0555>I'll ask him about it.
+<ptT0555>I'll ask him about it.
+
+//TEXT
+<enT0556>Her sentences sounded like she was at her wit's end.
+<ptT0556>Her sentences sounded like she was at her wit's end.
+
+//TEXT
+<enT0557>Like she was so scared she couldn't even tell what was real.
+<ptT0557>Like she was so scared she couldn't even tell what was real.
+
+//TEXT 【Yuki】
+<enT0558>"The last time I saw her, this is what she was feeling."
+<ptT0558>"The last time I saw her, this is what she was feeling."
+
+//TEXT
+<enT0559>―――――――――――――――――――――――――――\n
+<ptT0559>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0560>2012/7/16 17:08\n
+<ptT0560>2012/7/16 17:08\n
+
+//TEXT
+<enT0561>to: Takashima Zakuro\n
+<ptT0561>to: Takashima Zakuro\n
+
+//TEXT
+<enT0562>subject: Re:\n
+<ptT0562>subject: Re:\n
+
+//TEXT
+<enT0563>―――――――――――――――――――――――――――\n
+<ptT0563>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0564>Oh, it might still be around Building C. I'll go check to see if it got caught on one of the eaves.
+<ptT0564>Oh, it might still be around Building C. I'll go check to see if it got caught on one of the eaves.
+
+//TEXT
+<enT0565>That was the last message Mrs. Senagawa sent.
+<ptT0565>That was the last message Mrs. Senagawa sent.
+
+//TEXT
+<enT0566>After that, she went to the janitor, borrowed the key, and then fell from the roof.
+<ptT0566>After that, she went to the janitor, borrowed the key, and then fell from the roof.
+
+//TEXT
+<enT0567>Mrs. Senagawa was killed by Takashima's messages.
+<ptT0567>Mrs. Senagawa was killed by Takashima's messages.
+
+//TEXT
+<enT0568>Honestly, I probably shouldn't stick my nose in any further.
+<ptT0568>Honestly, I probably shouldn't stick my nose in any further.
+
+//TEXT
+<enT0569>Anyone could tell this was getting dangerous.
+<ptT0569>Anyone could tell this was getting dangerous.
+
+//TEXT
+<enT0570>This wasn't a game.
+<ptT0570>This wasn't a game.
+
+//TEXT
+<enT0571>This wasn't something a person like me should ever get involved with just for fun.
+<ptT0571>This wasn't something a person like me should ever get involved with just for fun.
+
+//TEXT
+<enT0572>If I just handed this phone over to the police, the culprit would be caught.
+<ptT0572>If I just handed this phone over to the police, the culprit would be caught.
+
+//TEXT
+<enT0573>If I did that, it would all end.
+<ptT0573>If I did that, it would all end.
+
+//TEXT 【Yuki】
+<enT0574>"Yeah, that's what I should do."
+<ptT0574>"Yeah, that's what I should do."
+
+//TEXT
+<enT0575>......
+<ptT0575>......
+
+//TEXT
+<enT0576>If there was a culprit, it would all end there.
+<ptT0576>If there was a culprit, it would all end there.
+
+//TEXT
+<enT0577>If there was a culprit.
+<ptT0577>If there was a culprit.
+
+//TEXT 【Yuki】
+<enT0578>"But if..."
+<ptT0578>"But if..."
+
+//TEXT
+<enT0579>If these messages weren't being sent out by a human...
+<ptT0579>If these messages weren't being sent out by a human...
+
+//TEXT
+<enT0580>If Takashima Zakuro really was sending these messages...
+<ptT0580>If Takashima Zakuro really was sending these messages...
+
+//TEXT
+<enT0581>......
+<ptT0581>......
+
+//TEXT 【Yuki】
+<enT0582>"No way. It's stupid to even consider that."
+<ptT0582>"No way. It's stupid to even consider that."
+
+//TEXT 【Yuki】
+<enT0583>"A dead person couldn't send a message like this. The person sending these messages has to be a living, breathing person."
+<ptT0583>"A dead person couldn't send a message like this. The person sending these messages has to be a living, breathing person."
+
+//TEXT
+<enT0584>......
+<ptT0584>......
+
+//TEXT 【Yuki】
+<enT0585>"Actually..."
+<ptT0585>"Actually..."
+
+//TEXT
+<enT0586>The name listed in the 'sent from' section was "Takashima Zakuro."
+<ptT0586>The name listed in the 'sent from' section was "Takashima Zakuro."
+
+//TEXT 【Yuki】
+<enT0587>"Which means she had Takashima Zakuro's mail address."
+<ptT0587>"Which means she had Takashima Zakuro's mail address."
+
+//TEXT
+<enT0588>I opened up her contact list.
+<ptT0588>I opened up her contact list.
+
+//TEXT 【Yuki】
+<enT0589>"This..."
+<ptT0589>"This..."
+
+//TEXT
+<enT0590>She didn't just have Takashima Zakuro's email address, she also had her phone number.
+<ptT0590>She didn't just have Takashima Zakuro's email address, she also had her phone number.
+
+//TEXT 【Yuki】
+<enT0591>"Her phone number..."
+<ptT0591>"Her phone number..."
+
+//TEXT
+<enT0592>This went directly to Takashima's phone.
+<ptT0592>This went directly to Takashima's phone.
+
+//TEXT
+<enT0593>......
+<ptT0593>......
+
+//TEXT
+<enT0594>Though, of course, no one was going to answer.
+<ptT0594>Though, of course, no one was going to answer.
+
+//TEXT 【Yuki】
+<enT0595>"I'm just curious."
+<ptT0595>"I'm just curious."
+
+//TEXT 【Yuki】
+<enT0596>"Huh?!"
+<ptT0596>"Huh?!"
+
+//TEXT
+<enT0597>
+<ptT0597>
+
+//TEXT
+<enT0598>Why?
+<ptT0598>Why?
+
+//TEXT
+<enT0599>Why is it coming from inside this room?
+<ptT0599>Why is it coming from inside this room?
+
+//TEXT 【Yuki】
+<enT0600>"Why is the sound coming from inside this room when I called Takashima-san's phone?"
+<ptT0600>"Why is the sound coming from inside this room when I called Takashima-san's phone?"
+
+//TEXT 【Yuki】
+<enT0601>"What the―!"
+<ptT0601>"What the―!"
+
+//TEXT
+<enT0602>I opened the desk drawer where the sound was coming from.
+<ptT0602>I opened the desk drawer where the sound was coming from.
+
+//TEXT
+<enT0603>And...
+<ptT0603>And...
+
+//TEXT 【Yuki】
+<enT0604>"N-No way."
+<ptT0604>"N-No way."
+
+//TEXT 【Yuki】
+<enT0605>"This is..."
+<ptT0605>"This is..."
+
+//TEXT
+<enT0606>The case was eerily cracked.
+<ptT0606>The case was eerily cracked.
+
+//TEXT
+<enT0607>It was covered in blood, and hair was stuck to it.
+<ptT0607>It was covered in blood, and hair was stuck to it.
+
+//TEXT
+<enT0608>That was...
+<ptT0608>That was...
+
+//TEXT 【Yuki】
+<enT0609>"Takashima... Zakuro's cell phone?"
+<ptT0609>"Takashima... Zakuro's cell phone?"
+
+//TEXT
+<enT0610>Why is it in my room?
+<ptT0610>Why is it in my room?
+
+//TEXT
+<enT0611>Why?
+<ptT0611>Why?
+
+//TEXT
+<enT0612>Full of apprehension, I checked the phone.
+<ptT0612>Full of apprehension, I checked the phone.
+
+//TEXT
+<enT0613>The phone's email address read...
+<ptT0613>The phone's email address read...
+
+//TEXT 【Yuki】
+<enT0614>"N-No way..."
+<ptT0614>"N-No way..."
+
+//TEXT
+<enT0615>The email address was the same one that was sending out all of Takashima's messages.
+<ptT0615>The email address was the same one that was sending out all of Takashima's messages.
+
+//TEXT 【Yuki】
+<enT0616>"W-Wait. Just calm down for a moment."
+<ptT0616>"W-Wait. Just calm down for a moment."
+
+//TEXT
+<enT0617>I collapsed into the chair.
+<ptT0617>I collapsed into the chair.
+
+//TEXT 【Yuki】
+<enT0618>"Wh-What am I doing?"
+<ptT0618>"Wh-What am I doing?"
+
+//TEXT
+<enT0619>When I sat down to try to relax, I knocked something off the desk.
+<ptT0619>When I sat down to try to relax, I knocked something off the desk.
+
+//TEXT 【Yuki】
+<enT0620>"Kuh... What's this?"
+<ptT0620>"Kuh... What's this?"
+
+//TEXT
+<enT0621>Crap. It was the aluminum powder from my detective kit.
+<ptT0621>Crap. It was the aluminum powder from my detective kit.
+
+//TEXT
+<enT0622>The case was empty. I probably knocked it over when I pulled out the desk drawer earlier.
+<ptT0622>The case was empty. I probably knocked it over when I pulled out the desk drawer earlier.
+
+//TEXT
+<enT0623>I just knocked the case to the ground, that's all.
+<ptT0623>I just knocked the case to the ground, that's all.
+
+//TEXT 【Yuki】
+<enT0624>"Wh-What am I doing?"
+<ptT0624>"Wh-What am I doing?"
+
+//TEXT
+<enT0625>I cleaned up the detective kit that I'd knocked over.
+<ptT0625>I cleaned up the detective kit that I'd knocked over.
+
+//TEXT
+<enT0626>I'd knocked the fingerprints I'd collected out of the case as well.
+<ptT0626>I'd knocked the fingerprints I'd collected out of the case as well.
+
+//TEXT 【Yuki】
+<enT0627>"What's wrong with me?"
+<ptT0627>"What's wrong with me?"
+
+//TEXT 【Yuki】
+<enT0628>"Huh?"
+<ptT0628>"Huh?"
+
+//TEXT
+<enT0629>The moment I saw it...
+<ptT0629>The moment I saw it...
+
+//TEXT
+<enT0630>The blood drained from my face.
+<ptT0630>The blood drained from my face.
+
+//TEXT 【Yuki】
+<enT0631>"What is this?"
+<ptT0631>"What is this?"
+
+//TEXT
+<enT0632>A chill ran up my spine when I saw the fingerprints.
+<ptT0632>A chill ran up my spine when I saw the fingerprints.
+
+//TEXT 【Yuki】
+<enT0633>"These are..."
+<ptT0633>"These are..."
+
+//TEXT
+<enT0634>The aluminum powder I'd knocked over was showing the fingerprints all over the room. On the desk, on the drawer, on the closet...
+<ptT0634>The aluminum powder I'd knocked over was showing the fingerprints all over the room. On the desk, on the drawer, on the closet...
+
+//TEXT
+<enT0635>And those fingerprints...
+<ptT0635>And those fingerprints...
+
+//TEXT 【Yuki】
+<enT0636>"Th-They're the same as the ones on Takashima-san's desk. Why?"
+<ptT0636>"Th-They're the same as the ones on Takashima-san's desk. Why?"
+
+//TEXT
+<enT0637>I felt a cold sweat.
+<ptT0637>I felt a cold sweat.
+
+//TEXT
+<enT0638>I tried to make sense of the situation.
+<ptT0638>I tried to make sense of the situation.
+
+//TEXT
+<enT0639>What could this mean?
+<ptT0639>What could this mean?
+
+//TEXT
+<enT0640>That was the first time I'd touched her desk, so those fingerprints couldn't have been mine.
+<ptT0640>That was the first time I'd touched her desk, so those fingerprints couldn't have been mine.
+
+//TEXT
+<enT0641>Which meant...
+<ptT0641>Which meant...
+
+//TEXT
+<enT0642>Either Takashima Zakuro herself...
+<ptT0642>Either Takashima Zakuro herself...
+
+//TEXT
+<enT0643>Or the second person who touched her desk, came into my room.
+<ptT0643>Or the second person who touched her desk, came into my room.
+
+//TEXT
+<enT0644>And left this phone.
+<ptT0644>And left this phone.
+
+//TEXT
+<enT0645>A chill ran up my spine.
+<ptT0645>A chill ran up my spine.
+
+//TEXT 【Yuki】
+<enT0646>"Wh-Why? Her cell phone is in my room, along with the same fingerprints that were on her desk."
+<ptT0646>"Wh-Why? Her cell phone is in my room, along with the same fingerprints that were on her desk."
+
+//TEXT 【Yuki】
+<enT0647>"Why?"
+<ptT0647>"Why?"
+
+//TEXT 【Yuki】
+<enT0648>"This is..."
+<ptT0648>"This is..."
+
+//TEXT 【Yuki】
+<enT0649>"Huh?"
+<ptT0649>"Huh?"
+
+//TEXT
+<enT0650>Wh-What's this?
+<ptT0650>Wh-What's this?
+
+//TEXT
+<enT0651>An almost humanoid shape, like a black space, had been carved out of the air.
+<ptT0651>An almost humanoid shape, like a black space, had been carved out of the air.
+
+//TEXT
+<enT0652>It...
+<ptT0652>It...
+
+//TEXT
+<enT0653>It was coming toward me.
+<ptT0653>It was coming toward me.
+
+//TEXT 【Yuki】
+<enT0654>"Eek!"
+<ptT0654>"Eek!"
+
+//TEXT
+<enT0655>"Ha!"
+<ptT0655>"Ha!"
+
+//TEXT
+<enT0656>"ehhnonaa... eh... ahshiia"
+<ptT0656>"ehhnonaa... eh... ahshiia"
+
+//TEXT
+<enT0657>"†〓†‡"
+<ptT0657>"†〓†‡"
+
+//TEXT
+<enT0658>"〓†"
+<ptT0658>"〓†"
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-2_0717.bss
+<ptZ0001>1-2_0717.bss
+
+//OTHER
+<enZ0002>July 17th
+<ptZ0002>July 17th
+
+//OTHER
+<enZ0003>Down the Rabbit-Hole II
+<ptZ0003>Down the Rabbit-Hole II
+
+//OTHER
+<enZ0004>dayyk0717_2
+<ptZ0004>dayyk0717_2
+
+//OTHER
+<enZ0005>bg1008a
+<ptZ0005>bg1008a
+
+//OTHER
+<enZ0006>bg1009a
+<ptZ0006>bg1009a
+
+//OTHER
+<enZ0007>bg1010a
+<ptZ0007>bg1010a
+
+//OTHER
+<enZ0008>yuki_002453
+<ptZ0008>yuki_002453
+
+//OTHER
+<enZ0009>yuki_002454
+<ptZ0009>yuki_002454
+
+//OTHER
+<enZ0010>se522
+<ptZ0010>se522
+
+//OTHER
+<enZ0011>bg1013a
+<ptZ0011>bg1013a
+
+//OTHER
+<enZ0012>yuki_002455
+<ptZ0012>yuki_002455
+
+//OTHER
+<enZ0013>yuki_002456
+<ptZ0013>yuki_002456
+
+//OTHER
+<enZ0014>as0006
+<ptZ0014>as0006
+
+//OTHER
+<enZ0015>asu_000007
+<ptZ0015>asu_000007
+
+//OTHER
+<enZ0016>yuki_002457
+<ptZ0016>yuki_002457
+
+//OTHER
+<enZ0017>as0008
+<ptZ0017>as0008
+
+//OTHER
+<enZ0018>asu_000008
+<ptZ0018>asu_000008
+
+//OTHER
+<enZ0019>asu_000009
+<ptZ0019>asu_000009
+
+//OTHER
+<enZ0020>asu_000010
+<ptZ0020>asu_000010
+
+//OTHER
+<enZ0021>yuki_002458
+<ptZ0021>yuki_002458
+
+//OTHER
+<enZ0022>asu_000011
+<ptZ0022>asu_000011
+
+//OTHER
+<enZ0023>yuki_002459
+<ptZ0023>yuki_002459
+
+//OTHER
+<enZ0024>as0001
+<ptZ0024>as0001
+
+//OTHER
+<enZ0025>bgm109
+<ptZ0025>bgm109
+
+//OTHER
+<enZ0026>asu_000012
+<ptZ0026>asu_000012
+
+//OTHER
+<enZ0027>yuki_002460
+<ptZ0027>yuki_002460
+
+//OTHER
+<enZ0028>as0009
+<ptZ0028>as0009
+
+//OTHER
+<enZ0029>asu_000013
+<ptZ0029>asu_000013
+
+//OTHER
+<enZ0030>asu_000014
+<ptZ0030>asu_000014
+
+//OTHER
+<enZ0031>yuki_002461
+<ptZ0031>yuki_002461
+
+//OTHER
+<enZ0032>asu_000015
+<ptZ0032>asu_000015
+
+//OTHER
+<enZ0033>asu_000016
+<ptZ0033>asu_000016
+
+//OTHER
+<enZ0034>yuki_002462
+<ptZ0034>yuki_002462
+
+//OTHER
+<enZ0035>asu_000017
+<ptZ0035>asu_000017
+
+//OTHER
+<enZ0036>yuki_002463
+<ptZ0036>yuki_002463
+
+//OTHER
+<enZ0037>asu_000018
+<ptZ0037>asu_000018
+
+//OTHER
+<enZ0038>asu_000019
+<ptZ0038>asu_000019
+
+//OTHER
+<enZ0039>yuki_002464
+<ptZ0039>yuki_002464
+
+//OTHER
+<enZ0040>asu_000020
+<ptZ0040>asu_000020
+
+//OTHER
+<enZ0041>yuki_002465
+<ptZ0041>yuki_002465
+
+//OTHER
+<enZ0042>asu_000021
+<ptZ0042>asu_000021
+
+//OTHER
+<enZ0043>yuki_002466
+<ptZ0043>yuki_002466
+
+//OTHER
+<enZ0044>asu_000022
+<ptZ0044>asu_000022
+
+//OTHER
+<enZ0045>asu_000023
+<ptZ0045>asu_000023
+
+//OTHER
+<enZ0046>yuki_002467
+<ptZ0046>yuki_002467
+
+//OTHER
+<enZ0047>asu_000024
+<ptZ0047>asu_000024
+
+//OTHER
+<enZ0048>yuki_002468
+<ptZ0048>yuki_002468
+
+//OTHER
+<enZ0049>asu_000025
+<ptZ0049>asu_000025
+
+//OTHER
+<enZ0050>yuki_002469
+<ptZ0050>yuki_002469
+
+//OTHER
+<enZ0051>asu_000026
+<ptZ0051>asu_000026
+
+//OTHER
+<enZ0052>yuki_002470
+<ptZ0052>yuki_002470
+
+//OTHER
+<enZ0053>asu_000027
+<ptZ0053>asu_000027
+
+//OTHER
+<enZ0054>yuki_002471
+<ptZ0054>yuki_002471
+
+//OTHER
+<enZ0055>asu_000028
+<ptZ0055>asu_000028
+
+//OTHER
+<enZ0056>yuki_002472
+<ptZ0056>yuki_002472
+
+//OTHER
+<enZ0057>asu_000029
+<ptZ0057>asu_000029
+
+//OTHER
+<enZ0058>yuki_002473
+<ptZ0058>yuki_002473
+
+//OTHER
+<enZ0059>yuki_002474
+<ptZ0059>yuki_002474
+
+//OTHER
+<enZ0060>asu_000030
+<ptZ0060>asu_000030
+
+//OTHER
+<enZ0061>yuki_002475
+<ptZ0061>yuki_002475
+
+//OTHER
+<enZ0062>asu_000031
+<ptZ0062>asu_000031
+
+//OTHER
+<enZ0063>yuki_002476
+<ptZ0063>yuki_002476
+
+//OTHER
+<enZ0064>asu_000032
+<ptZ0064>asu_000032
+
+//OTHER
+<enZ0065>asu_000033
+<ptZ0065>asu_000033
+
+//OTHER
+<enZ0066>yuki_002477
+<ptZ0066>yuki_002477
+
+//OTHER
+<enZ0067>asu_000034
+<ptZ0067>asu_000034
+
+//OTHER
+<enZ0068>yuki_002478
+<ptZ0068>yuki_002478
+
+//OTHER
+<enZ0069>asu_000035
+<ptZ0069>asu_000035
+
+//OTHER
+<enZ0070>yuki_002479
+<ptZ0070>yuki_002479
+
+//OTHER
+<enZ0071>asu_000036
+<ptZ0071>asu_000036
+
+//OTHER
+<enZ0072>yuki_002480
+<ptZ0072>yuki_002480
+
+//OTHER
+<enZ0073>asu_000037
+<ptZ0073>asu_000037
+
+//OTHER
+<enZ0074>yuki_002481
+<ptZ0074>yuki_002481
+
+//OTHER
+<enZ0075>asu_000038
+<ptZ0075>asu_000038
+
+//OTHER
+<enZ0076>yuki_002482
+<ptZ0076>yuki_002482
+
+//OTHER
+<enZ0077>as0004
+<ptZ0077>as0004
+
+//OTHER
+<enZ0078>asu_000039
+<ptZ0078>asu_000039
+
+//OTHER
+<enZ0079>yuki_002483
+<ptZ0079>yuki_002483
+
+//OTHER
+<enZ0080>as0005
+<ptZ0080>as0005
+
+//OTHER
+<enZ0081>asu_000040
+<ptZ0081>asu_000040
+
+//OTHER
+<enZ0082>yuki_002484
+<ptZ0082>yuki_002484
+
+//OTHER
+<enZ0083>asu_000041
+<ptZ0083>asu_000041
+
+//OTHER
+<enZ0084>yuki_002485
+<ptZ0084>yuki_002485
+
+//OTHER
+<enZ0085>asu_000042
+<ptZ0085>asu_000042
+
+//OTHER
+<enZ0086>yuki_002486
+<ptZ0086>yuki_002486
+
+//OTHER
+<enZ0087>asu_000043
+<ptZ0087>asu_000043
+
+//OTHER
+<enZ0088>yuki_002487
+<ptZ0088>yuki_002487
+
+//OTHER
+<enZ0089>asu_000044
+<ptZ0089>asu_000044
+
+//OTHER
+<enZ0090>yuki_002488
+<ptZ0090>yuki_002488
+
+//OTHER
+<enZ0091>asu_000045
+<ptZ0091>asu_000045
+
+//OTHER
+<enZ0092>asu_000046
+<ptZ0092>asu_000046
+
+//OTHER
+<enZ0093>yuki_002489
+<ptZ0093>yuki_002489
+
+//OTHER
+<enZ0094>asu_000047
+<ptZ0094>asu_000047
+
+//OTHER
+<enZ0095>yuki_002490
+<ptZ0095>yuki_002490
+
+//OTHER
+<enZ0096>asu_000048
+<ptZ0096>asu_000048
+
+//OTHER
+<enZ0097>yuki_002491
+<ptZ0097>yuki_002491
+
+//OTHER
+<enZ0098>asu_000049
+<ptZ0098>asu_000049
+
+//OTHER
+<enZ0099>asu_000050
+<ptZ0099>asu_000050
+
+//OTHER
+<enZ0100>yuki_002492
+<ptZ0100>yuki_002492
+
+//OTHER
+<enZ0101>asu_000051
+<ptZ0101>asu_000051
+
+//OTHER
+<enZ0102>asu_000052
+<ptZ0102>asu_000052
+
+//OTHER
+<enZ0103>asu_000053
+<ptZ0103>asu_000053
+
+//OTHER
+<enZ0104>yuki_002493
+<ptZ0104>yuki_002493
+
+//OTHER
+<enZ0105>asu_000054
+<ptZ0105>asu_000054
+
+//OTHER
+<enZ0106>yuki_002494
+<ptZ0106>yuki_002494
+
+//OTHER
+<enZ0107>asu_000055
+<ptZ0107>asu_000055
+
+//OTHER
+<enZ0108>yuki_002495
+<ptZ0108>yuki_002495
+
+//OTHER
+<enZ0109>asu_000056
+<ptZ0109>asu_000056
+
+//OTHER
+<enZ0110>yuki_002496
+<ptZ0110>yuki_002496
+
+//OTHER
+<enZ0111>asu_000057
+<ptZ0111>asu_000057
+
+//OTHER
+<enZ0112>se356
+<ptZ0112>se356
+
+//OTHER
+<enZ0113>asu_000058
+<ptZ0113>asu_000058
+
+//OTHER
+<enZ0114>khou_000001
+<ptZ0114>khou_000001
+
+//OTHER
+<enZ0115>asu_000059
+<ptZ0115>asu_000059
+
+//OTHER
+<enZ0116>yuki_002497
+<ptZ0116>yuki_002497
+
+//OTHER
+<enZ0117>asu_000060
+<ptZ0117>asu_000060
+
+//OTHER
+<enZ0118>yuki_002498
+<ptZ0118>yuki_002498
+
+//OTHER
+<enZ0119>yuki_002499
+<ptZ0119>yuki_002499
+
+//OTHER
+<enZ0120>black
+<ptZ0120>black
+
+//OTHER
+<enZ0121>map004
+<ptZ0121>map004
+
+//OTHER
+<enZ0122>km0000
+<ptZ0122>km0000
+
+//OTHER
+<enZ0123>kimi_000025_z
+<ptZ0123>kimi_000025_z
+
+//OTHER
+<enZ0124>kimi_000026_z
+<ptZ0124>kimi_000026_z
+
+//OTHER
+<enZ0125>kimi_000027_z
+<ptZ0125>kimi_000027_z
+
+//OTHER
+<enZ0126>bgm007
+<ptZ0126>bgm007
+
+//OTHER
+<enZ0127>yuki_002500
+<ptZ0127>yuki_002500
+
+//OTHER
+<enZ0128>yuki_002501
+<ptZ0128>yuki_002501
+
+//OTHER
+<enZ0129>yuki_002502
+<ptZ0129>yuki_002502
+
+//OTHER
+<enZ0130>yuki_002503
+<ptZ0130>yuki_002503
+
+//OTHER
+<enZ0131>yuki_002504
+<ptZ0131>yuki_002504
+
+//OTHER
+<enZ0132>yuki_002505
+<ptZ0132>yuki_002505
+
+//OTHER
+<enZ0133>yuki_002506
+<ptZ0133>yuki_002506
+
+//OTHER
+<enZ0134>yuki_002507
+<ptZ0134>yuki_002507
+
+//OTHER
+<enZ0135>yuki_002508
+<ptZ0135>yuki_002508
+
+//OTHER
+<enZ0136>yuki_002509
+<ptZ0136>yuki_002509
+
+//OTHER
+<enZ0137>yuki_002510
+<ptZ0137>yuki_002510
+
+//OTHER
+<enZ0138>map001
+<ptZ0138>map001
+
+//OTHER
+<enZ0139>se021
+<ptZ0139>se021
+
+//OTHER
+<enZ0140>bg1011a
+<ptZ0140>bg1011a
+
+//OTHER
+<enZ0141>yuki_002511
+<ptZ0141>yuki_002511
+
+//OTHER
+<enZ0142>bg1006a
+<ptZ0142>bg1006a
+
+//OTHER
+<enZ0143>yuki_002512
+<ptZ0143>yuki_002512
+
+//OTHER
+<enZ0144>yuki_002513
+<ptZ0144>yuki_002513
+
+//OTHER
+<enZ0145>yuki_002514
+<ptZ0145>yuki_002514
+
+//OTHER
+<enZ0146>yuki_002515
+<ptZ0146>yuki_002515
+
+//OTHER
+<enZ0147>yuki_002516
+<ptZ0147>yuki_002516
+
+//OTHER
+<enZ0148>bgm010
+<ptZ0148>bgm010
+
+//OTHER
+<enZ0149>yuki_002517
+<ptZ0149>yuki_002517
+
+//OTHER
+<enZ0150>yuki_002518
+<ptZ0150>yuki_002518
+
+//OTHER
+<enZ0151>yuki_002519
+<ptZ0151>yuki_002519
+
+//OTHER
+<enZ0152>map029
+<ptZ0152>map029
+
+//OTHER
+<enZ0153>bg1003e
+<ptZ0153>bg1003e
+
+//OTHER
+<enZ0154>yuki_002520
+<ptZ0154>yuki_002520
+
+//OTHER
+<enZ0155>yuki_002521
+<ptZ0155>yuki_002521
+
+//OTHER
+<enZ0156>yuki_002522
+<ptZ0156>yuki_002522
+
+//OTHER
+<enZ0157>se555
+<ptZ0157>se555
+
+//OTHER
+<enZ0158>yuki_002523
+<ptZ0158>yuki_002523
+
+//OTHER
+<enZ0159>yuki_002524
+<ptZ0159>yuki_002524
+
+//OTHER
+<enZ0160>yuki_002525
+<ptZ0160>yuki_002525
+
+//OTHER
+<enZ0161>yuki_002526
+<ptZ0161>yuki_002526
+
+//OTHER
+<enZ0162>yuki_002527
+<ptZ0162>yuki_002527
+
+//OTHER
+<enZ0163>yuki_002528
+<ptZ0163>yuki_002528
+
+//OTHER
+<enZ0164>yuki_002529
+<ptZ0164>yuki_002529
+
+//OTHER
+<enZ0165>yuki_002530
+<ptZ0165>yuki_002530
+
+//OTHER
+<enZ0166>yuki_002531
+<ptZ0166>yuki_002531
+
+//OTHER
+<enZ0167>yuki_002532
+<ptZ0167>yuki_002532
+
+//OTHER
+<enZ0168>yuki_002533
+<ptZ0168>yuki_002533
+
+//OTHER
+<enZ0169>yuki_002534
+<ptZ0169>yuki_002534
+
+//OTHER
+<enZ0170>yuki_002535
+<ptZ0170>yuki_002535
+
+//OTHER
+<enZ0171>yuki_002536
+<ptZ0171>yuki_002536
+
+//OTHER
+<enZ0172>yuki_002537
+<ptZ0172>yuki_002537
+
+//OTHER
+<enZ0173>yuki_002538
+<ptZ0173>yuki_002538
+
+//OTHER
+<enZ0174>yuki_002539
+<ptZ0174>yuki_002539
+
+//OTHER
+<enZ0175>yuki_002540
+<ptZ0175>yuki_002540
+
+//OTHER
+<enZ0176>se917
+<ptZ0176>se917
+
+//OTHER
+<enZ0177>yuki_002541
+<ptZ0177>yuki_002541
+
+//OTHER
+<enZ0178>yuki_002542
+<ptZ0178>yuki_002542
+
+//OTHER
+<enZ0179>yuki_002543
+<ptZ0179>yuki_002543
+
+//OTHER
+<enZ0180>bgm025
+<ptZ0180>bgm025
+
+//OTHER
+<enZ0181>se650
+<ptZ0181>se650
+
+//OTHER
+<enZ0182>se648
+<ptZ0182>se648
+
+//OTHER
+<enZ0183>yuki_002544
+<ptZ0183>yuki_002544
+
+//OTHER
+<enZ0184>sp0057a3
+<ptZ0184>sp0057a3
+
+//OTHER
+<enZ0185>yuki_002545
+<ptZ0185>yuki_002545
+
+//OTHER
+<enZ0186>yuki_002546
+<ptZ0186>yuki_002546
+
+//OTHER
+<enZ0187>yuki_002547
+<ptZ0187>yuki_002547
+
+//OTHER
+<enZ0188>yuki_002548
+<ptZ0188>yuki_002548
+
+//OTHER
+<enZ0189>yuki_002549
+<ptZ0189>yuki_002549
+
+//OTHER
+<enZ0190>yuki_002550
+<ptZ0190>yuki_002550
+
+//OTHER
+<enZ0191>yuki_002551
+<ptZ0191>yuki_002551
+
+//OTHER
+<enZ0192>yuki_002552
+<ptZ0192>yuki_002552
+
+//OTHER
+<enZ0193>yuki_002553
+<ptZ0193>yuki_002553
+
+//OTHER
+<enZ0194>yuki_002554
+<ptZ0194>yuki_002554
+
+//OTHER
+<enZ0195>yuki_002555
+<ptZ0195>yuki_002555
+
+//OTHER
+<enZ0196>yuki_002556
+<ptZ0196>yuki_002556
+
+//OTHER
+<enZ0197>yuki_002557
+<ptZ0197>yuki_002557
+
+//OTHER
+<enZ0198>yuki_002558
+<ptZ0198>yuki_002558
+
+//OTHER
+<enZ0199>yuki_002559
+<ptZ0199>yuki_002559
+
+//OTHER
+<enZ0200>yuki_002560
+<ptZ0200>yuki_002560
+
+//OTHER
+<enZ0201>sp0037a
+<ptZ0201>sp0037a
+
+//OTHER
+<enZ0202>sp0037b
+<ptZ0202>sp0037b
+
+//OTHER
+<enZ0203>yuki_002561
+<ptZ0203>yuki_002561
+
+//OTHER
+<enZ0204>sp0037c
+<ptZ0204>sp0037c
+
+//OTHER
+<enZ0205>yuki_002730
+<ptZ0205>yuki_002730
+
+//OTHER
+<enZ0206>map023
+<ptZ0206>map023
+
+//OTHER
+<enZ0207>hasa_001085_z
+<ptZ0207>hasa_001085_z
+
+//OTHER
+<enZ0208>hasa_001086_z
+<ptZ0208>hasa_001086_z
+
+//OTHER
+<enZ0209>hasa_001087_z
+<ptZ0209>hasa_001087_z
+
+//OTHER
+<enZ0210>se216
+<ptZ0210>se216
+
+//OTHER
+<enZ0211>map200
+<ptZ0211>map200
+
+//OTHER
+<enZ0212>1-2_0718
+<ptZ0212>1-2_0718
+

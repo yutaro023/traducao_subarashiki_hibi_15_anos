@@ -1,0 +1,80 @@
+///================================================================================
+
+//TEXT
+<enT0001>The wind was just a little bit chilly.
+<ptT0001>The wind was just a little bit chilly.
+
+//TEXT
+<enT0002>As the chilly wind blew in our faces, we held hands and walked forward.
+<ptT0002>As the chilly wind blew in our faces, we held hands and walked forward.
+
+//TEXT
+<enT0003>The first step into everyday life.
+<ptT0003>The first step into everyday life.
+
+//TEXT
+<enT0004>We took one completely normal step into the future.
+<ptT0004>We took one completely normal step into the future.
+
+//TEXT
+<enT0005>We are grateful for every moment...
+<ptT0005>We are grateful for every moment...
+
+//TEXT
+<enT0006>As we move forward in life...
+<ptT0006>As we move forward in life...
+
+//TEXT
+<enT0007>As we go... let's laugh together.
+<ptT0007>As we go... let's laugh together.
+
+//TEXT
+<enT0008>I promised myself in my heart that we would.
+<ptT0008>I promised myself in my heart that we would.
+
+//TEXT
+<enT0009>Just like so many other lifeforms.
+<ptT0009>Just like so many other lifeforms.
+
+//TEXT
+<enT0010>I too took that first step.
+<ptT0010>I too took that first step.
+
+//TEXT
+<enT0011>  What lies before me... 
+<ptT0011>  What lies before me... 
+
+//TEXT
+<enT0012>Is probably...
+<ptT0012>Is probably...
+
+//TEXT
+<enT0013>A Wonderful Life.
+<ptT0013>A Wonderful Life.
+
+///================================================================================
+
+//OTHER
+<enZ0001>end3zk.bss
+<ptZ0001>end3zk.bss
+
+//OTHER
+<enZ0002>naguru
+<ptZ0002>naguru
+
+//OTHER
+<enZ0003>white
+<ptZ0003>white
+
+//OTHER
+<enZ0004>ED_white_Gra
+<ptZ0004>ED_white_Gra
+
+//OTHER
+<enZ0005>ED3zk_staff
+<ptZ0005>ED3zk_staff
+
+//OTHER
+<enZ0006>ED3zk_logo
+<ptZ0006>ED3zk_logo
+

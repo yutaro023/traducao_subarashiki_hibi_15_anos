@@ -1,0 +1,2441 @@
+[
+  {
+    "message": "Cantando no fim do mundo."
+  },
+  {
+    "message": "Ela Canta."
+  },
+  {
+    "message": "Orgulhosa das asas que brotam —— um anjo canta."
+  },
+  {
+    "message": "O cérebro ―— é mais amplo que o céu ——"
+  },
+  {
+    "message": "Pois, colocai-os lado a lado ——"
+  },
+  {
+    "message": "Coloque o cérebro ao lado —— e o céu ele conterá ——"
+  },
+  {
+    "message": "O céu... o mundo... e você —— também conterá ——"
+  },
+  {
+    "message": "Nossos cérebros conterão ——"
+  },
+  {
+    "message": "Será que nossos cérebros são mais profundos que o mar?"
+  },
+  {
+    "message": "Veja —— mantenha-os —— azul com azul ——"
+  },
+  {
+    "message": "O mar que nossos cérebros absorverão ——"
+  },
+  {
+    "message": "Assim como as esponjas —— fazem com a água ——"
+  },
+  {
+    "message": "O cérebro —— é apenas o peso de Deus ——"
+  },
+  {
+    "message": "Pois, ao pesá-los —— grama a grama ——"
+  },
+  {
+    "message": "Nossos Cérebros e Deus —— Comparai-os ——"
+  },
+  {
+    "message": "Pesam o mesmo ——"
+  },
+  {
+    "message": "O cérebro tem o peso de Deus ——"
+  },
+  {
+    "message": "Só diferem —— se diferirem ——"
+  },
+  {
+    "message": "Como a sílaba"
+  },
+  {
+    "message": "do som ——"
+  },
+  {
+    "message": "Como a melodia"
+  },
+  {
+    "message": "da canção ——"
+  },
+  {
+    "message": "Eu preciso proteger ——"
+  },
+  {
+    "message": "O anjo que canta."
+  },
+  {
+    "message": "Ela cria asas —— e canta alegremente ——"
+  },
+  {
+    "message": "no fim do mundo ——"
+  },
+  {
+    "message": "\"    sama.\""
+  },
+  {
+    "message": "\"A cor   de.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Mm...\""
+  },
+  {
+    "message": "\"Acorda p-por favor.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Mmmm...\""
+  },
+  {
+    "message": "\"Acorde.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...Onde estou?\""
+  },
+  {
+    "message": "Minhas memórias estavam um pouco confusas..."
+  },
+  {
+    "message": "Sempro me sinto assim quando acordo... Não é algo que me preocupe."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Estamos na arca... Isso não é óbvio?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Na arca?\""
+  },
+  {
+    "message": " Arca? Arca... A fundação do prédio da escola é a arca?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"A arca, hein...\""
+  },
+  {
+    "message": "Mais importante ainda..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Mais importante ainda...\""
+  },
+  {
+    "message": "Que horas são?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Que horas são?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hum, são um pouco mais de 18h do dia 17...\""
+  },
+  {
+    "message": "Seis horas, hein... Dormi demais."
+  },
+  {
+    "message": "Mesmo dormindo bastante, ainda me sinto cansado."
+  },
+  {
+    "message": "Bem, eu sempre me sinto assim."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"E ontem a noite?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"E a noite passada?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hã? O que você quis dizer?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ah, é... Depois que eu desapareci..\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, ontem à noite? Bem, depois que você saiu para uma caminhada, eles continuaram daquele jeito.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Daquele jeito...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O que eles estão fazendo?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe... Eles estão nessa há séculos.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Por que?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Do que você está falando? Foi você quem ordenou que eles fizessem sexo com o Nishimura-kun.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Eu mandei? Mas Nishimura não está lá?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Isso mesmo. O motivo de ele não está lá é...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não me interessa o motivo. O que aconteceu com ele?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ele disse que estava cansado e se deitou.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"E então?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ele tem estado deitado ali desse jeito.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Que jeito?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ele tem estado deitado ali, sem se mexer.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ele não está se movendo?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Pensei que ele estava apenas dormindo, mas ele não se mexe de maneira nehuma. Ele não reage a nada.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Sem reação, hein...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Não deveria curar ele, meu salvador?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não há necessidade disso.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sério?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ele queria muito fazer sexo. Depois que seu desejo foi concedido, ele não precisou se mover mais. Não há necessidade de curá-lo.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, é verdade. Lembro-me de você dizendo algo parecido, meu salvador.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Entendo. Então tudo se resume a como ele se sente.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Bem, acho que sim. Ele parou de se mover assim que seu desejo foi atendido. É isso.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Agora é só questão de sua força de vontade... Hum, faz sentido.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Bem, mesmo que ele estivesse vivo, ele só continuaria fazendo sexo. Assim é melhor.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Sim, é.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Mesmo assim, eles não estão se cansando nem um pouco.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eles não estão cansados graças ao elixir do salvador. Há propósito... Olha só até as pupillas se dilatam.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Look, look, my savior, look. It makes your pupils dilate, so you can see everything. Even in the darkness you can see perfectly fine.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Claro, Essa é uma poção para todos os fins.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Agora que você mencionou isso, eu dei o elixir para alguém além de Nishimura? Eu meio que me lembro de ter borrifado neles, mas...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Não se preocupe com os detalhes. Você é o salvador!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não é apenas um detalhe...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mas veja... graças ao elixir, todos estão felizes.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Bem, sim... todos estão se divertindo naquela orgia.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehehe... É tipo, olha só essas putas.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O que?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, nada. Só to falando comigo mesmo. Ah isso aí. Só to falando comigo mesmo.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ah, certo...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"A Minha cabeça dói muito...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Deve ser porque você estava de bom humor ontem à noite. Talvez tenha batido a cabeça?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Bati a cabeça? O que você quer dizer?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Você estava dançando... Você estava gritando, 'É a música de Deus!'\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Música de Deus...\""
+  },
+  {
+    "message": "Deus... música... telhado..."
+  },
+  {
+    "message": "O que é..."
+  },
+  {
+    "message": "Sinto que aquilo foi algo incrivelmente importante... Deus, mísica, e... e... o que?"
+  },
+  {
+    "name": "Kimika",
+    "message": "\"tem algo errado?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não, não é nada... Absolutamente nada.\""
+  },
+  {
+    "message": "Não... Não é como se fosse raro eu esquecer alguma coisa."
+  },
+  {
+    "message": "Então não preciso me lembrar disso. Posso simplesmente esquecer."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"E então por que exatamente eu bati a cabeça?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Você estava dançando muito feliz e, de repente, caiu.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"É sério?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim, falando sério.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Entendo... Depois disso, fui dormir?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Não, você levantou várias vezes. Você estava fazendo muita coisa.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Muitas coisas?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim, você estava só dormia e acordava... Você conseguiu descansar assim?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Enquanto estava me observando dormir, você também não conseguiu descansar?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Não, de jeito nenhum. Eu tenho bebido Cat's Eye too.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não é Cat's Eye... É água benta.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim, é agua sagrada para gatos, certo?\""
+  },
+  {
+    "message": "Será que essa mulher tá me ouvindo?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Haa... ainda drogado né?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mais ou menos... Não tenho sono.\""
+  },
+  {
+    "message": "Puxa... É por isso que ela é tão mal-educada? Bom, acho que repreendê-la por isso não vai adiantar."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"E depois? Quando estava acoradado, O que eu fiz na maior parte do tempo?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Na maior parte do tempo? Nesse tempo, você deu uma voltas pela escola. Na real, tô surpreso que não tenha sido pego... Você está na lista de procurados da escola.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não fui pego, né? Eu sou o salvador, sabia?...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"É, dava pra usar só  o Savior Dash pra sair dali, né?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Sua premissa está errada. O salvador não tem motivo para fugir ou se esconder.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Porque o Savior Dash é muito rápida?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não! Porque sou uma existência sagrada!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Entendi... Você é uma dessas pessoas.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não tem nada haver com pessoas! Eu sou o salvador, sua idiota!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Oh... Então o salvador não é humano, né?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Isso aí, o salvador não é humano.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Entendi... Você não é humano... e...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Kimika... dá pra parar com isso?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, sim. Quando você foi passear, levou junto a professora Kiyokawa.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hã? Kiyokawa? Por que eu a trouxe comigo?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"O salvador disse algo como: 'Vou te mostrar o demônio!', e então agarrou pelos cabelos e arrastou para fora...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não...  não sou tão cruel, sou?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, conseguiu me entender? Exagerei muito?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não se trata de entendimento... Minha personalidade não é assim. O salvador não faz algo tão bárbaro.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"As únicas pessoas que falam com os punhos são aquelas que não têm nada a dizer com a boca.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Conversar com os paus deles?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Aff... não é nada disso. Falam com os punhos, os punhos! Você só acertou a parte do 'falar'.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eu sei disso. Falar com os punhos. Isso é violência. Guepardo!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não faça piadas idiotas assim.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eles não são chatos. Só queria ver o que aconteceria se eu dissesse algo grosseiro assim.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Por que... você diria uma coisa dessas?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hahaha, pode não parecer, mas sempre fui sempre certinho.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Já foi?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mas eu sempre fui meio deprimido...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Realmente?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim, às vezes eu sofria bullying. Ou melhor, sofro bullying todos os dias desde que entrei na escola.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Agora que mencionou, acho que já ouvi falar.\""
+  },
+  {
+    "message": "e então traiu Takashima Zakuro..."
+  },
+  {
+    "message": "Pra que pudesse escapar do bullying que sofria."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Isso mesmo... Tudo o que acabou de passar na sua cabeça está certo.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O que você está...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, não, eu não tenho o poder de ler mentes como você e aquelas pessoas...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mas... bem, é natural que esteja pensando nisso, Eu acho.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Porque... Eu sou uma traidora...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Então...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Então?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sou eternamente grato a ti, meu salvador!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Huh?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sinto muito por ter duvidado de você!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O q-que você está falando?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ah, nada. Você é tão incrível, meu salvador!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh... Sério?\""
+  },
+  {
+    "message": "Era... mesmo isso que ela estava pensando?"
+  },
+  {
+    "message": "Não consigo entender ela de jeito nenhum."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Onde está a Kiyokawa?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"A professora Kiyokawa tá lá, morrendo de medo, dizendo, 'O demônio tem a mesma cara do salvador. Vou morrer!'\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Lá?\""
+  },
+  {
+    "message": "Havia alguém encolhido e tremendo no canto."
+  },
+  {
+    "message": "É Kiyokawa?"
+  },
+  {
+    "message": "Por que ela está tão assustada?"
+  },
+  {
+    "name": "Kimika",
+    "message": "\"E ela disse que o demônio também pegou o celular dela\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O demônio fez isso?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim. O que mostrou a ela, meu salvador? Qual é o demônio?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Quem sabe... Acho que mostrei alguma coisa para ela, mas não me lembro direito.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"você é bom em assustar pessoas.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Como assim? Não assusto as pessoas, eu faço só milagres... As pessoas que têm medos deles.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Bem, esse é o resultado. O resultado.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Isso é o que eles chamam de carisma, né?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"É claro que o salvador tem que ter isso!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Você também deveria ter medo de mim...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eu estou... Você é super assustador, meu salvador!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Você está zombando de mim? Parece que está mais se divertindo.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Não, de jeito nenhum. Você está apenas entendendo errado.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mas...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Mas agora que você mencionou, você realmente me assusta, meu salvador.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"O medo surge quando o coração se move. Você é bom em comover os corações das pessoas... O meu também está se comovendo.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O que quer dizer?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Quem sabe. Do que estou falando? Talvez seja só uma ilusão?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Então, eu cuidarei deles. Você está cansado, não é, meu salvador?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Bem, sim, mas... mas...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Eu sou sua serva... Por favor, me use.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Claro...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Você acha que eu algum dia o trairia ou atrapalharia seus planos, meu salvador?\""
+  },
+  {
+    "name": "Takuji", 
+    "message": "\"Não, mas...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Isso mesmo. Você mataria alguém no exato instante em que fosse traido.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Se você não confia em mim, por-favor, me mate.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não, não acho que você me trairia, mas...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehehe... Você não sabe a história completa.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Quer dizer, na primeira vez que nos conhecemos, eu tentei matar você.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Achei que parecia suspeito, mas era isso mesmo  que você ia fazer?\""
+  },
+  {
+    "message": "Então ela realmente estava escondendo uma faca na mão direita... Minha intuição estava certa."
+  },
+  {
+    "message": "Abaixei a guarda logo depois, mas isso foi perigoso."
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Hehehe... eu sou uma yandere... louca, depressiva e austista.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Tem um motivo para terem começado a me intimidar antes de Zakuro.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Haa... Por que quer matar alguém que te salvou de um maldição? Você é retardada?\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Ahahaha... Como eu disse, tava enganado. Estava completamente enganado.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Estava completamente enganada. Você é meu aliado!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não sou seu aliado... Sou o salvador da humanidade.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim! Nunca vou me esquecer disso!\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Então cuide do seu corpo até o útimo dia, meu salvador.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Sim... É claro...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hum, três vezes ao dia.\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Encham a arca com o elixir vaporizado! Saciem sua fome com o elixir!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não, não foi isso que eu disse. Limpem seus corpos borrifando o elixir um no outro. Lambam um pouquinho do elixir para matar a fome...\""
+  },
+  {
+    "name": "Kimika",
+    "message": "\"Sim, Senhor!\""
+  },
+  {
+    "message": "Depois disso..."
+  },
+  {
+    "message": "Está quase na hora."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Vou meditar um pouco.\""
+  },
+  {
+    "message": "Voltei ao meu lugar, sozinho."
+  },
+  {
+    "message": "Para o meu quarto..."
+  },
+  {
+    "message": "Estava de pé diante do pôster que havia pedido para Tachibana comprar."
+  },
+  {
+    "message": "O ícone de Mahou Shoujo Riruru."
+  },
+  {
+    "message": "Ontem à noite, com isso... conheci Riruru-chan... e ainda..."
+  },
+  {
+    "message": "Encontrei o próprio Pai."
+  },
+  {
+    "message": "Acho que sim, mas..."
+  },
+  {
+    "message": "Honestamente, não me lembro."
+  },
+  {
+    "message": "Por algum motivo... Uma canção... Tenho a impressão de que Deus cantou uma canção."
+  },
+  {
+    "message": "Deus é melódia."
+  },
+  {
+    "message": "O mundo é feito de palavras."
+  },
+  {
+    "message": "Na verdade, tenho a impressão de que já ouvi essa música há muito tempo..."
+  },
+  {
+    "message": "Meio que me lembro disso."
+  },
+  {
+    "message": "De quem era essa música?"
+  },
+  {
+    "message": "Por que me lembro dessa música?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O cerébro e o céu são iguais... O cerébro e o mar são iguais...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O cerébro é o peso de Deus...\""
+  },
+  {
+    "message": "Esse tipo de canção."
+  },
+  {
+    "message": "Por que me lembro dessa canção com tanta clareza?"
+  },
+  {
+    "message": "Quando ouvi essa música? De quem era essa música?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O cerébro do salvador... ainda não está completo, eu acho.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Haa... Bem, acho que não.\""
+  },
+  {
+    "message": "Suspirei diante do ícone da Mahou Shoujo Riruru."
+  },
+  {
+    "message": "Não me lembrava da música de Deus, mas havia muitas outras coisas que eu lembrava."
+  },
+  {
+    "message": "O cadáver de shiroyama ainda andava por aí..."
+  },
+  {
+    "message": "Até o cadáver de Takashima-san ainda vagava pela escola..."
+  },
+  {
+    "message": "E a sua alma residia em sua mesa, e aquela mesa vagava pela escola à procura do corpo dela..."
+  },
+  {
+    "message": "E finalmente..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Haa... Riruru-chan... Você é terrível...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"O que você fez ontem foi mais do que horrível.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Não acredito que você possui o corpo da Takashima-san... Até eu ficaria assustado com uma coisa dessas.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Isso é terrível... Ela morreu há bastante tempo, seu corpo estava totalmente apodrecido, e tinha um cheiro horrível, simplesmente terrível.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Bem, acho que... é graças ao seu corpo que Riruru-chan e eu conseguimos nos comunicar fisicamente, então... Ah, bem.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"E hoje? Será que vai ter alguém lá de novo?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Talvez eu devesse ir ao telhado de novo... Pode ser que alguém esteja lá hoje.\""
+  },
+  {
+    "message": "Dessa vez, subi diretamente para o telhado a partir do interior do prédio."
+  },
+  {
+    "message": "Existe uma escada que liga a fundação ao telhado do novo edifício."
+  },
+  {
+    "message": "O novo edifício. Em outras palavras, o prédio C..."
+  },
+  {
+    "message": "O vento estava frio... exatamente como ontem."
+  },
+  {
+    "message": "Esse lugar está mais próximo do céu que o prédio A."
+  },
+  {
+    "message": "É o ponto mais alto do campus."
+  },
+  {
+    "message": "Não havia ninguém lá..."
+  },
+  {
+    "message": "Hoje realmente... não sinto nada."
+  },
+  {
+    "message": "Será que realmente... não existe nada?"
+  },
+  {
+    "message": "Eu já me encontrei com Deus ontem, então..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Q-Quem é?\""
+  },
+  {
+    "message": "Por que tem alguém aqui?"
+  },
+  {
+    "message": "O prédio C deveria estar completamente isolado..."
+  },
+  {
+    "message": "Ninguém deveria poder vir aqui..."
+  },
+  {
+    "message": "Did someone follow me?"
+  },
+  {
+    "message": "From the ark..."
+  },
+  {
+    "message": "Then why?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hey, come out already...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"There's someone there...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I know you're hiding.\""
+  },
+  {
+    "message": "I know this feeling."
+  },
+  {
+    "message": "This is the feeling of the Black Surge."
+  },
+  {
+    "message": "Black Riruru's waves..."
+  },
+  {
+    "message": "Which means..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It's Black Riruru, isn't it?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"How about a consolation prize.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"...Otonashi?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hello, Takuji-kun... I'm the girl known as Otonashi Ayana. Who are you? Are you Mamiya Takuji-kun?\""
+  },
+  {
+    "message": "Why is Otonashi here..."
+  },
+  {
+    "message": "No, she's Riruru-chan's shadow... Sediment... In other words, she's Black Riruru."
+  },
+  {
+    "message": "She's the devil himself."
+  },
+  {
+    "message": "BEWARE..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Otonashi Ayana... Also known as Black Riruru.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"What's that, my new nickname?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You... The reason you came here is so you could have sex with me, right?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Why would I do that?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe... You're jealous because I came into physical contact with White Riruru yesterday... You're afraid I'm going to be taken by their side.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I see... But I don't want to have sex with you.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You're right. You might even hate me. The frequencies of our surges all match, but...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You came here so that you could have sex with me. This is the Building C rooftop, the bow of our ark...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Why would you... say... that..."
+  },
+  {
+    "message": " Ahh...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I knew it. You too, huh...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe... Look, it's started...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"A-Ahh... Wh-Why? Why is this...\""
+  },
+  {
+    "message": "From her skirt..."
+  },
+  {
+    "message": "Something that a girl should absolutely never have was poking out, just like with Riruru-chan yesterday."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-No, wh-why am I―\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehehe... What is it? Do you want to do it that badly?\""
+  },
+  {
+    "message": "She tried desperately to hide the thing poking out of her skirt, but her swelling penis moved without regard to her will, stopping her from covering it up."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-No, d-don't.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe, you were acting all high and mighty, and now look at you...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Noo, don't look... Th-This is strange... It's strange...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"It's like you're asking for it.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Th-That's not true...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"No, you're asking for it. You want me to cum in you just like I did White Riruru, and you want to cum in me!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That's... impossib―aah.\""
+  },
+  {
+    "message": "Her swelling penis lifted up her skirt... Her skirt was lifted up so far that her underwear was completely exposed."
+  },
+  {
+    "message": "But still, the panties under her skirt... Wow, they're striped panties. Was she planning on this happening? How much of this was planned?\""
+  },
+  {
+    "message": "Well, she was made to tempt me, so... they must have made her to match my tastes."
+  },
+  {
+    "message": "But... it won't go as smoothly as the dark powers expect."
+  },
+  {
+    "message": "In this ritual, I have to cum inside her, and she has to cum inside me."
+  },
+  {
+    "message": "We both have to cum inside each other."
+  },
+  {
+    "message": "So I'll just cum inside her. I'll purify her insides with my holy semen."
+  },
+  {
+    "message": "Then I'll make her shoot her load of black semen all over the ground."
+  },
+  {
+    "message": "I'll keep making her waste her sperm... I'll make her spray every drop on the ground."
+  },
+  {
+    "message": "Hehehe... Prepare yourself."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I thought Black Riruru would be just like White Riruru, but... I can't believe you really are another perverted futanari girl.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-No, I'm not a pervert...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You are... You're a big pervert. Your high and mighty attitude up until now, like you were pushing people away... You were afraid I was going to find out the truth about you...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Th-That's... not true. That's impossible!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You have special powers because you're Riruru-chan's shadow... and because of those powers, you look down on humans, but the truth is that you're just a perverted dickgirl, and you were always scared someone was going to find out.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe... What would everyone think if they found out about this, Otonashi-san?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Eh?!\""
+  },
+  {
+    "message": "Her face instantly stiffened in fear."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Y-You don't mean...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Your grades are good, right? You're smart, right? Then you know what I'm going to say.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, a-anything but that... P-Please don't tell everyone.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I wonder about that. Wouldn't it be a waste if I didn't tell everyone this hilarious story?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"The honors student Otonashi Ayana is actually a dick girl..."
+  },
+  {
+    "message": " and I saw her get a hard-on on the roof in the middle of the night...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No... Don't tell them...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Come on... Try showing a little backbone... Are you begging already? You are an angel, even if you are a black one."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh well... Anyway, show it to me.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Eh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I won't say it again... Show me your nasty, disgusting penis.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Th-That's...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What? Are you really going to disobey me?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You should've figured out by now what will happen if you disobey me.\""
+  },
+  {
+    "message": "She gave up... and slowly moved her hand behind her."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-Now... please... forgive me.\""
+  },
+  {
+    "message": "She moved her hand, but I still couldn't see it very well... I told her to show it all to me."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I said show it to me... All you did was move your hand.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"P-Please... leave it at this.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Don't make me repeat myself... I won't say it again!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "That girl who hardly ever changed expression was already crying. It must have been mortifying."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehehe, now don't you look good... You're always looking down on people, but now you just look like a bitch in heat.\""
+  },
+  {
+    "message": "Otonashi slowly lifted up her skirt..."
+  },
+  {
+    "message": "Her glans revealed its face..."
+  },
+  {
+    "message": "She was exactly like Riruru-chan."
+  },
+  {
+    "message": "White, uncut... with a pink tip."
+  },
+  {
+    "message": "Her pink tip was crying just a little bit."
+  },
+  {
+    "message": "Moist and glittering, just like Riruru-chan was... Just like pink jelly..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, don't look at me like that... If you do that, I-I'll...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What'll happen?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe, what's wrong?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Don't... Don't do that.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What's wrong? Say it! Hurry up and say it!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-It'll get bigger...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What will?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"My penis... My penis will get bigger... Ooh...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahahaha, oh really? You're just a perverted little dick girl! Are you turned on? Is your girly penis getting hot and bothered?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, aaah...\""
+  },
+  {
+    "message": "The face of despair... Her face was pale as a ghost even though her lower body was bright red. Is her swelling erection draining the blood from the rest of her body?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Answer... Quickly! Answer! Am I right?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Y-Yes... That's right... That's exactly it... So, so please forgive me...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehe...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Please don't look at me anymore... If you keep looking at me, I, I...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What will happen if I keep looking at you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Answer me.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-I can't say that... I can't... Please forgive me.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up... Be quiet... I don't want to hear your excuses. Say it. Answer. Hurry up, say it. Now, now!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Eek!\""
+  },
+  {
+    "message": "She's completely terrified... She's no different from the scum in the Ark. No different at all..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"U-Um, i-if you keep looking at me, my... my penis...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I can't hear you! Say it clearly! Say it over again...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Y-Yes!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"If you keep looking at me, my penis will get bigger and come out of the foreskin... You'll see everything.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"S-So... please forgive me...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"No.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"B-But...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah...\""
+  },
+  {
+    "message": "Right after she said that, her penis swelled even further... The end of her foreskin was forced back."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Noooo, you can see... You can see everything.\""
+  },
+  {
+    "message": "She quickly tried to hide it with her hand, but―"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Don't move!\""
+  },
+  {
+    "message": "Of course, I yelled at her for that."
+  },
+  {
+    "message": "Her entire voice stiffened after I yelled."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Who told you you could hide it? Leave it, just like that...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"B-But...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Come on... You fucking pervert. Thrust it forward so I can see... Come on!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"O-Okay...\""
+  },
+  {
+    "message": "She hesitantly moved her hips forward."
+  },
+  {
+    "message": "Her penis was exposed to the cold outside air."
+  },
+  {
+    "message": "Showing it to anyone else had probably been the greatest taboo throughout her life."
+  },
+  {
+    "message": "And then... it was on show for me, here in this foreign place."
+  },
+  {
+    "message": "Her face was wet with tears."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You pervert... You're an exhibitionist.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-No... That's not true.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Then why does your dick react whenever I look at it?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, ah...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Answer me!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Th-That's terrible... Terrible...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Answer!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Y-Yes... It's just like you said. I-I get excited when someone looks at me... I'm a pervert. Otonashi Ayana is a pervert.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"And? You get excited when someone looks at your what?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...Huh?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Answer me! I said, answer me!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"U-Um... my penis...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I can't hear you... I can't hear you at all. If you don't cooperate, you'll make me really angry. Is that what you want?\""
+  },
+  {
+    "message": "She resigned herself to her fate and opened her mouth."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"My penis... Ayana's penis.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You're a fucking futanari girl who gets turned on by having a guy look at her cock on the rooftop at night, right?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Well?! Say it! I won't let you remain silent!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Y-Yes...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Yes, what? Say it. Explain it for me...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Y-Yes... I-I'm... a futanari girl who gets turned on by having a guy look at her cock on the rooftop at night.\""
+  },
+  {
+    "message": "When she said that, a drop of white liquid dripped off the end of her dick."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You really are an exhibitionist... You fucking nasty dickgirl...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No... D-Don't say that... I-I'm not, I'm not like that...\""
+  },
+  {
+    "message": "Every time she made an excuse, another drop of white liquid fell from her dick."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Says who?\""
+  },
+  {
+    "message": "I suddenly knocked her down."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Wh-What? Eeaaah!\""
+  },
+  {
+    "message": "I grabbed her dick hard."
+  },
+  {
+    "message": "Unlike when I did it with Riruru-chan, I didn't hold back at all. I grabbed it really, really hard."
+  },
+  {
+    "message": "I don't care if my fingernails make her bleed. It's not my problem."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"D-Don't grab so hard... Aaah!\""
+  },
+  {
+    "message": "I didn't care for her pleas... I mercilessly stroked her dick. I wanted to see what would happen if I just kept stroking it."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, stop! I can't take it!\""
+  },
+  {
+    "message": "I firmly grasped the most sensitive spot."
+  },
+  {
+    "message": "And I pumped my fist up and down... over and over."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Don't do it like that, be gentler... Ah!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up! I can tell you're turned on, so why are you complaining? This is the perfect way of handling a fucking pervert like you!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-No! Ah!\""
+  },
+  {
+    "message": "Sloosh, sloosh, sloosh..."
+  },
+  {
+    "message": "Her dick was already covered in a frothing white liquid... There was so much of it that it almost looked like she had already come."
+  },
+  {
+    "message": "That was proof that all the pain she was experiencing before had changed into pleasure."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, stop, I'm-!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What is it... Hmm? I hope you're not going to say you're scared because it feels too good.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-It doesn't feel good... Not at all... Ah!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Then why are you so wet? Your female and male parts are both turned on!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"How about it? Are you gonna cum? Would you like to try cumming?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-I can't do that...\""
+  },
+  {
+    "message": "As I held her penis in my hand, I could feel that she was at her limit. There was no turning back."
+  },
+  {
+    "message": "It was just a matter of time until she came."
+  },
+  {
+    "message": "But surely it was an unbearable shame for her... For a woman like her to be forced to cum with her man parts in a place like this..."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hahahaha, are you gonna cum? You are, aren't you?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ahh! I don't want to, I don't want to cum!\""
+  },
+  {
+    "message": "Smack, smack, smack..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, ah, ah! N-No, I don't want to, I don't want to!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up and cum! Just like that! Cum, cum, cum, cum! Ejaculate, right now!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-I... I won't do that...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You're still saying that?! Then how about this? How about this?!\""
+  },
+  {
+    "message": "I moved my hand even faster."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah! N-No, be gentler, be gentler! If you don't, I-I'm... I'm going to--\""
+  },
+  {
+    "message": "Her body quivered."
+  },
+  {
+    "message": "It was like she was begging for her life..."
+  },
+  {
+    "message": "Smack, smack, smack..."
+  },
+  {
+    "message": "The sound echoed across the summer rooftop."
+  },
+  {
+    "message": "It was a sound so incredible that it was hard to imagine it coming from the stroking of a dick. It sounded like someone was playing around with a bottle of lotion."
+  },
+  {
+    "message": "It wasn't just her dick. Her thighs were wet with the liquid dripping off her dick too..."
+  },
+  {
+    "message": "Smack, smack, smack..."
+  },
+  {
+    "message": "At this point, it didn't matter what I did. No matter how rough I was, she wouldn't feel anything but pleasure."
+  },
+  {
+    "message": "It was so wet that when I grabbed it as hard as I could, it just slipped out of my hand."
+  },
+  {
+    "message": "I grabbed her dick and started pumping again."
+  },
+  {
+    "message": "I extended my other hand to her pussy... It was really wet too."
+  },
+  {
+    "message": "The moisture on her thigh might have actually come from here, not from her dick."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, ah, th-that's... Ah, don't touch them both at the same time, ah! Ahh!\""
+  },
+  {
+    "message": "I attacked her male and female parts simultaneously."
+  },
+  {
+    "message": "What a convenient body she has..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, ah, ah!\""
+  },
+  {
+    "message": "She squirmed madly... She convulsed on the ground, losing control of herself."
+  },
+  {
+    "message": "Her brain couldn't even tell the difference between pleasure and pain anymore."
+  },
+  {
+    "message": "The signals from her body just kept attacking her brain, numbing it to the outside world."
+  },
+  {
+    "message": "She reacted strangely to my touch, as if she had gone completely mad, but the semen dripping from her penis and the moisture dripping out of her pussy made it clear that she was in ecstacy."
+  },
+  {
+    "message": "Smack, smack, smack..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No, no, I can't! I'm going to--\""
+  },
+  {
+    "message": "I could tell from the feeling of her penis that she was about to cum."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What? You're going to cum? Are you? You're gonna ejaculate all over, even though you're a girl? Fucking pervert!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-Noo... I-It doesn't feel good...\""
+  },
+  {
+    "message": "Smack, smack, smack..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, no, I-I'm a girl, I shouldn't be cumming like this, no, no... I can't, I'm going to, I'm going to cum, ahh!\""
+  },
+  {
+    "message": "Wow!"
+  },
+  {
+    "message": "She suddenly jumped."
+  },
+  {
+    "message": "In that moment."
+  },
+  {
+    "message": "I felt something passing through the penis I held in my hand."
+  },
+  {
+    "message": "In that moment."
+  },
+  {
+    "message": "Spurt, spurt, spurt... She convulsed on the ground."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Noooo!\""
+  },
+  {
+    "message": "A ton of semen shot from her penis."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-I'm cumming, I'm cumming. It's all coming out, it's all coming out!\""
+  },
+  {
+    "message": "Her body convulsed even more wildly."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Wh-Whoa, there's so much... Is it ever going to stop?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, no, I-I'm a girl, I shouldn't be ejaculating like this. I'm cumming everywhere, even though I'm a girl, ahh!\""
+  },
+  {
+    "message": "What an awful sight... I can't bear to look at it."
+  },
+  {
+    "message": "This is just disgusting."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What the fuck, you look ridiculous! This, what the fuck is this?!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, ah, ah, stop, stop it. If you don't, I'm going to, I'm going to, I'm going to keep cumming. I'm a girl, but I can't stop!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"There's so much... Are you still cumming?\""
+  },
+  {
+    "message": "I know she's not human, but still... This is awful. I don't know if I can get it all out of her."
+  },
+  {
+    "message": "Oh well, I'll keep going as long as I can. I can probably get most of it out."
+  },
+  {
+    "message": "The white liquid kept gushing from her penis."
+  },
+  {
+    "message": "Spurt, spurt, spurt, spurt, spurt..."
+  },
+  {
+    "message": "Spurt, spurt, spurt..."
+  },
+  {
+    "message": "Spurt..."
+  },
+  {
+    "message": "Her convulsions gradually came to a stop."
+  },
+  {
+    "message": "I could see the ecstacy on her face."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-I came... You made me cum by stroking my penis... even though I'm a girl...\""
+  },
+  {
+    "message": "Otonashi muttered that to herself as she cast her unsteady gaze into the sky."
+  },
+  {
+    "message": "I wasn't going to let her off that easily, though."
+  },
+  {
+    "message": "I began to stroke her dick again."
+  },
+  {
+    "message": "Sloosh, sloosh, sloosh, sloosh, sloosh..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah! N-No, I just came, don't!\""
+  },
+  {
+    "message": "Like I care. I'm not doing it to pleasure you..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"I-I just came. It's still sensitive, stop, ah!\""
+  },
+  {
+    "message": "Smack, smack, smack..."
+  },
+  {
+    "message": "Thanks to the semen, my hand moved much more smoothly than before."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, noo, no, give me a minute. I feel... I feel so strange, nooo!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehe...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You lied... You said it didn't feel good? From now on, I'm not going to believe anything you say... I'm going to have to do an experiment to find out how many times you can cum.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"E-Experiment?\""
+  },
+  {
+    "message": "Her face went pale."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"That's right! I'm going to ignore your pleas and keep stroking your dick until it stops cumming!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"N-No, if you do that, I'll die!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Die? Then go ahead! Go right ahead and die!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Aaagh, ah!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehe... I'll pull every drop out of you. Prepare yourself.\""
+  },
+  {
+    "message": "Over and over and over... My hand was getting tired."
+  },
+  {
+    "message": "It felt like my hand had gone up and down ten thousand times."
+  },
+  {
+    "message": "How long had I been moving my hand up and down? I was almost out of stamina."
+  },
+  {
+    "message": "Nevertheless, I kept going through sheer persistence."
+  },
+  {
+    "message": "Over and over, over and over. Every time she came, it told me that I had to keep going."
+  },
+  {
+    "message": "And every time she came, she desperately begged me to stop... She fainted several times, but even then, I kept going."
+  },
+  {
+    "message": "Her consciousness came back every time she came."
+  },
+  {
+    "message": "The words coming out of her mouth didn't even sound like Japanese."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Mno... Mnoo, Mnoo, leth me goo... Mno, Mno, I can't cum anymore. Aahh!\""
+  },
+  {
+    "message": "She fainted again... She fainted in front of me."
+  },
+  {
+    "message": "She stopped cumming. She just convulsed on the floor instead... I had completely drained her."
+  },
+  {
+    "message": "Now then... Time to purify her with the Holy Semen, so she can never ejaculate Black Surge again."
+  },
+  {
+    "message": "I'll fill her with the Holy Surge."
+  },
+  {
+    "message": "I forcibly pulled her up."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Noo, let me, let me goo... I-I can't stand...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Shut up! I'm going to purify your insides with the Holy Surge! Let me see your ass!\""
+  },
+  {
+    "message": "I firmly grasped her ass and spread her legs apart."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Wha―?! N-Noo! S-Stop it!\""
+  },
+  {
+    "message": "I only attacked her penis before. She must have realized that I had changed my target."
+  },
+  {
+    "message": "She started resisting again."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Nooo, d-don't do that, don't spread it apart!\""
+  },
+  {
+    "message": "She tried to resist, but there was nothing she could do. She couldn't even stand under her own power."
+  },
+  {
+    "message": "I spread apart her labia."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No, d-don't look!\""
+  },
+  {
+    "message": "Her lips were red and swollen. It must be because she had come so many times."
+  },
+  {
+    "message": "It was incredibly wet. It was glittering with dew."
+  },
+  {
+    "name": "Takuji",
+    "message": "I can't see inside at all... Are you a virgin?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Bullseye?\""
+  },
+  {
+    "message": "Honestly, I can't tell the difference between a girl who's a virgin and one who's not."
+  },
+  {
+    "message": "But it's hard to imagine that an anomaly like Ayana has had a sexual encounter with someone in the past."
+  },
+  {
+    "message": "I was just guessing, but I could tell from her reaction that I was right."
+  },
+  {
+    "message": "Lick!"
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "I licked her swollen pussy."
+  },
+  {
+    "message": "She fell to her knees."
+  },
+  {
+    "message": "I licked it more and more."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, no, not there... Ahh!\""
+  },
+  {
+    "message": "I suddenly stuck my tongue in."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehehe, was that a surprise? Did you think I suddenly stuck something in?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah... P-Please, don't stick your dick in. Anything but that. I'll do anything...\""
+  },
+  {
+    "message": "She knows how dangerous it is for her to be filled with the Holy Surge, since she's the incarnation of Black Riruru."
+  },
+  {
+    "message": "She would rather die than let that happen..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Anything but that... Please...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Oh, so you want to protect your virginity? I respect that, I really do...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Huh?!\""
+  },
+  {
+    "message": "Her face reacted."
+  },
+  {
+    "message": "I thrust my penis into her pussy."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah! N-No, you can't do that, you can't do that!\""
+  },
+  {
+    "message": "She was so wet that my penis slid in without any resistance."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"O-Ow... It hurts.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Why? Why would you do this?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe, can you feel it? Right now... I'm not wearing a condom. You're about to be creampied by the guy you always look down on. How does it feel?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah... Waaahh...\""
+  },
+  {
+    "message": "She started crying."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Well? Crying doesn't tell me anything... Well, whatever. Here I go. I'm going to cum inside you.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Wha―?!\""
+  },
+  {
+    "message": "I started moving my hips violently."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"D-Don't cum inside me! Anything but that!\""
+  },
+  {
+    "message": "She struggled against me, but she was powerless, utterly unable to resist."
+  },
+  {
+    "message": "I was afraid of her?"
+  },
+  {
+    "message": "I, the savior, was afraid of someone so weak?"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"I'll drive you mad with the semen of the Holy Surge.\""
+  },
+  {
+    "message": "I grabbed her dick."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehe, will you come again if I stroke this?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"...I-I can't come anymore...\""
+  },
+  {
+    "message": "Her face was pale with fear."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Here I go!\""
+  },
+  {
+    "message": "I simultaneously stroked her dick and pumped my hips."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah, ah, no, no, no, stop, ah!\""
+  },
+  {
+    "message": "She moaned uncontrollably."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"How does it feel? You fucking pervert, pervert, pervert, pervert! Die, you nasty fucking pervert! I hope you go fucking crazy from my dick and my hand. I hope you fucking die!\""
+  },
+  {
+    "message": "I moved my hips even faster."
+  },
+  {
+    "message": "The savior's hips can move several hundred times faster than a normal human's."
+  },
+  {
+    "message": "And they can give several thousand times as much pleasure."
+  },
+  {
+    "message": "Even an angel can't resist."
+  },
+  {
+    "message": "Black Angel, lose yourself in ecstacy!"
+  },
+  {
+    "name": "Takuji",
+    "message": "\"You nasty fucking whore! I won't let you go! I'll never let you go!\""
+  },
+  {
+    "message": "I moved my hips even faster, even more violently. My hips almost broke the speed of sound... If I moved my hips any faster, the shockwaves would destroy the building."
+  },
+  {
+    "message": "Almost at the speed of sound... This is truly a great feat."
+  },
+  {
+    "message": "I modulated the speed of my hips so that I got as close to the speed of sound as possible without ever breaking it."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah! Ahhhh! Ah, ah, nooo, stop, forgive me...\""
+  },
+  {
+    "message": "Smack, smack, smack, smack, smack, smack..."
+  },
+  {
+    "message": "Our thighs were so soaked that I couldn't tell whose juices were whose."
+  },
+  {
+    "message": "Smack, smack, smack, smack, smack, smack..."
+  },
+  {
+    "message": "She writhed in pain, as if she had gone completely mad."
+  },
+  {
+    "message": "She had lost all control of her body..."
+  },
+  {
+    "message": "After being forced to cum over and over, now she was being violated while being forced to cum yet again."
+  },
+  {
+    "message": "This would drive anyone insane."
+  },
+  {
+    "message": "Something spurted from her pussy... Is she a squirter?"
+  },
+  {
+    "message": "But still, she's incredibly tight... I'm about to cum..."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No, no, stop, let me go! Stop, please!\""
+  },
+  {
+    "message": "She must be about to cum, too."
+  },
+  {
+    "message": "I could tell her dick was about to cum again."
+  },
+  {
+    "message": "She cried and begged me to stop, but I ignored her and moved my hand even faster."
+  },
+  {
+    "message": "My fist pumped up and down at almost the speed of sound."
+  },
+  {
+    "message": "And I thrust my hips."
+  },
+  {
+    "message": "My hips moved every bit as fast as my fist."
+  },
+  {
+    "message": "I felt her pussy get even tighter... It just got tighter and tighter..."
+  },
+  {
+    "message": "It's all perfect."
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Ah, ah, I'm at my limit... I'm at my limit!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ah!\""
+  },
+  {
+    "message": "Her body visibly convulsed."
+  },
+  {
+    "message": "In that moment, she came once again."
+  },
+  {
+    "message": "Even after cumming so many times before."
+  },
+  {
+    "message": "She came again... I never expected her to have this much Black Surge left in her."
+  },
+  {
+    "message": "I came inside her at the same time."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Noooooo!! Not inside! Don't cum inside me!\""
+  },
+  {
+    "message": "Spurt, spurt, spurt..."
+  },
+  {
+    "message": "I came inside her. I did it!"
+  },
+  {
+    "name": "Ayana",
+    "message": "\"No... Y-You're cumming inside... I'm being cummed inside...\""
+  },
+  {
+    "message": "Spurt, spurt, spurt, spurt..."
+  },
+  {
+    "message": "Spurt, spurt, spurt..."
+  },
+  {
+    "message": "Spurt..."
+  },
+  {
+    "message": "I launched all the Holy Semen into her."
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Ugh, y-you're awful...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehe.\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"How does it feel to be filled with the sperm of the Holy Surge? How does it feel to be creampied?\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Hehehehe... Hahahahaha.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Wha―?"
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Hehe, hehe, hehe... The sperm of the Holy surge... That's funny. Hehehehe...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Wh-What did you say?\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"And the part about being one step away from the speed of sound. That was a masterpiece... Hehehehe, you're too funny... Too amusing...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"What did you say!\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"That's what you desire of me... Hehehehe...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Huh?!\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Otonashi... Wh-Why are you over there? Y-You were...\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Raped by you and left without even the energy to stand... But I'm terribly sorry. Nothing has begun or ended. What a pitiful outcome.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"And... I don't have one of those... Hehe, though I don't want to show you the proof, so I won't.\""
+  },
+  {
+    "name": "Ayana",
+    "message": "\"Too bad. I don't have one of those. It's really too bad, Mamiya-kun. Hehehe...\""
+  },
+  {
+    "name": "Takuji",
+    "message": "\"Eh?!\""
+  },
+  {
+    "message": "Time advanced, and the day changed."
+  },
+  {
+    "message": "The final time was in front of us."
+  }
+]

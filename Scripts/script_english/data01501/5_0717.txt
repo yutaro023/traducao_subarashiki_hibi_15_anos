@@ -1,0 +1,3628 @@
+//NAME
+<enN0001>Hasaki
+<ptN0001>Hasaki
+
+//NAME
+<enN0002>Kimura
+<ptN0002>Kimura
+
+//NAME
+<enN0003>Mamiya
+<ptN0003>Mamiya
+
+//NAME
+<enN0004>Master
+<ptN0004>Master
+
+//NAME
+<enN0005>Tomosane
+<ptN0005>Tomosane
+
+///================================================================================
+
+//TEXT
+<enT0001>That day, it was evening before I woke up.
+<ptT0001>That day, it was evening before I woke up.
+
+//TEXT
+<enT0002>After what happened yesterday, I couldn't sleep until early morning.
+<ptT0002>After what happened yesterday, I couldn't sleep until early morning.
+
+//TEXT
+<enT0003>Master closed the store down for the day, so I just slept until now.
+<ptT0003>Master closed the store down for the day, so I just slept until now.
+
+//TEXT 【Hasaki】
+<enT0004>"Th-The phone... It's Kimura-san!"
+<ptT0004>"Th-The phone... It's Kimura-san!"
+
+//TEXT 【Hasaki】
+<enT0005>"Kimura-san?"
+<ptT0005>"Kimura-san?"
+
+//TEXT 【Kimura】
+<enT0006>"Yeah, it's me."
+<ptT0006>"Yeah, it's me."
+
+//TEXT 【Hasaki】
+<enT0007>"What happened?"
+<ptT0007>"What happened?"
+
+//TEXT 【Kimura】
+<enT0008>"Well, that incident from yesterday is being treated as a suicide, so no one is accusing me of being a murderer."
+<ptT0008>"Well, that incident from yesterday is being treated as a suicide, so no one is accusing me of being a murderer."
+
+//TEXT 【Hasaki】
+<enT0009>"Oh, that's good."
+<ptT0009>"Oh, that's good."
+
+//TEXT 【Kimura】
+<enT0010>"The police don't think that I'm the culprit, but they're investigating me as a person potentially involved with the past several deaths."
+<ptT0010>"The police don't think that I'm the culprit, but they're investigating me as a person potentially involved with the past several deaths."
+
+//TEXT 【Hasaki】
+<enT0011>"R-Really?"
+<ptT0011>"R-Really?"
+
+//TEXT 【Kimura】
+<enT0012>"Apparently, a drug dealer was attacked by a young man last night."
+<ptT0012>"Apparently, a drug dealer was attacked by a young man last night."
+
+//TEXT 【Hasaki】
+<enT0013>"A drug dealer? Um..."
+<ptT0013>"A drug dealer? Um..."
+
+//TEXT 【Kimura】
+<enT0014>"Illegal drugs, of course. After that, the members of some sort of gang moved to protect themselves, and the police have been moving in response to them."
+<ptT0014>"Illegal drugs, of course. After that, the members of some sort of gang moved to protect themselves, and the police have been moving in response to them."
+
+//TEXT 【Kimura】
+<enT0015>"People have told me that I should just hand myself in to the police. The police would put me in jail at worse, but this gang would kill me if they caught me."
+<ptT0015>"People have told me that I should just hand myself in to the police. The police would put me in jail at worse, but this gang would kill me if they caught me."
+
+//TEXT 【Hasaki】
+<enT0016>"W-Will you be okay?"
+<ptT0016>"W-Will you be okay?"
+
+//TEXT 【Kimura】
+<enT0017>"I was investigating the drug trade in this town, so it's not like I'm completely unrelated. One of my friends is trying to help clear up the misunderstanding."
+<ptT0017>"I was investigating the drug trade in this town, so it's not like I'm completely unrelated. One of my friends is trying to help clear up the misunderstanding."
+
+//TEXT 【Kimura】
+<enT0018>"I met with a bunch of people who wanted to talk about that stuff, so I wasn't able to gather much information today. Sorry."
+<ptT0018>"I met with a bunch of people who wanted to talk about that stuff, so I wasn't able to gather much information today. Sorry."
+
+//TEXT 【Hasaki】
+<enT0019>"You don't have to be sorry. You had a lot on your plate."
+<ptT0019>"You don't have to be sorry. You had a lot on your plate."
+
+//TEXT 【Kimura】
+<enT0020>"I sure did. I'm not completely cleared of all guilt yet either, so it's not like this is past tense."
+<ptT0020>"I sure did. I'm not completely cleared of all guilt yet either, so it's not like this is past tense."
+
+//TEXT 【Kimura】
+<enT0021>"If we can bring the truth to light, people will have no reason to doubt me anymore. Then I won't be targeted by anyone. But right now both the police and the thugs are looking for me."
+<ptT0021>"If we can bring the truth to light, people will have no reason to doubt me anymore. Then I won't be targeted by anyone. But right now both the police and the thugs are looking for me."
+
+//TEXT 【Kimura】
+<enT0022>"The police think that the deaths might've happened under the influence of illegal drugs, even if they weren't homicides. They're definitely still investigating the situation."
+<ptT0022>"The police think that the deaths might've happened under the influence of illegal drugs, even if they weren't homicides. They're definitely still investigating the situation."
+
+//TEXT 【Hasaki】
+<enT0023>"Under the influence..."
+<ptT0023>"Under the influence..."
+
+//TEXT 【Kimura】
+<enT0024>"Yeah. That's the reason why I wanted to investigate the drug trade here. This city is pretty famous for being the center of a lot of drug activity."
+<ptT0024>"Yeah. That's the reason why I wanted to investigate the drug trade here. This city is pretty famous for being the center of a lot of drug activity."
+
+//TEXT 【Hasaki】
+<enT0025>"What about my brother?"
+<ptT0025>"What about my brother?"
+
+//TEXT 【Kimura】
+<enT0026>"It doesn't seem like he's being targeted. All the attention is focused on me right now."
+<ptT0026>"It doesn't seem like he's being targeted. All the attention is focused on me right now."
+
+//TEXT 【Kimura】
+<enT0027>"But that's just a matter of time."
+<ptT0027>"But that's just a matter of time."
+
+//TEXT 【Kimura】
+<enT0028>"The police say that they've gotten the names of several students who were in frequent contact with the dead drug dealer, though."
+<ptT0028>"The police say that they've gotten the names of several students who were in frequent contact with the dead drug dealer, though."
+
+//TEXT 【Hasaki】
+<enT0029>"Did my brother know those people?"
+<ptT0029>"Did my brother know those people?"
+
+//TEXT 【Kimura】
+<enT0030>"I don't think the police will hear his name from any of them. At the very least, I've never seen him talking to any of them."
+<ptT0030>"I don't think the police will hear his name from any of them. At the very least, I've never seen him talking to any of them."
+
+//TEXT 【Kimura】
+<enT0031>"But if any of the students who were buying drugs happen to get caught, there's a good chance they might snitch on your brother."
+<ptT0031>"But if any of the students who were buying drugs happen to get caught, there's a good chance they might snitch on your brother."
+
+//TEXT 【Kimura】
+<enT0032>"I've seen him taking drugs away from them with my own eyes."
+<ptT0032>"I've seen him taking drugs away from them with my own eyes."
+
+//TEXT 【Hasaki】
+<enT0033>"I see..."
+<ptT0033>"I see..."
+
+//TEXT 【Kimura】
+<enT0034>"And the things that happened at Kita High... Like when your brother injured a teacher."
+<ptT0034>"And the things that happened at Kita High... Like when your brother injured a teacher."
+
+//TEXT 【Hasaki】
+<enT0035>"Did something like that actually happen?"
+<ptT0035>"Did something like that actually happen?"
+
+//TEXT 【Kimura】
+<enT0036>"They say that he smashed a flower vase over a teacher's head during class."
+<ptT0036>"They say that he smashed a flower vase over a teacher's head during class."
+
+//TEXT 【Kimura】
+<enT0037>"The school hasn't told the police about what happened, but that's probably just a matter of time too."
+<ptT0037>"The school hasn't told the police about what happened, but that's probably just a matter of time too."
+
+//TEXT 【Kimura】
+<enT0038>"Because of his unusual behavior, people will assume that he's got his hands in the drug trade as well."
+<ptT0038>"Because of his unusual behavior, people will assume that he's got his hands in the drug trade as well."
+
+//TEXT 【Hasaki】
+<enT0039>"Oh..."
+<ptT0039>"Oh..."
+
+//TEXT 【Kimura】
+<enT0040>"Well, for better or worse, they're chasing me because I was in the school when Mrs. Senagawa jumped off the roof and killed herself, so they're not focused on anyone else right now."
+<ptT0040>"Well, for better or worse, they're chasing me because I was in the school when Mrs. Senagawa jumped off the roof and killed herself, so they're not focused on anyone else right now."
+
+//TEXT 【Hasaki】
+<enT0041>"Sorry. It seems like I've gotten you into a lot of trouble."
+<ptT0041>"Sorry. It seems like I've gotten you into a lot of trouble."
+
+//TEXT 【Kimura】
+<enT0042>"What do you mean? This is my job. I got involved because I wanted to. It's a lot of fun being right in the middle of everything, though."
+<ptT0042>"What do you mean? This is my job. I got involved because I wanted to. It's a lot of fun being right in the middle of everything, though."
+
+//TEXT 【Hasaki】
+<enT0043>"Hahaha, try to be serious here. I wouldn't want anything to happen to you."
+<ptT0043>"Hahaha, try to be serious here. I wouldn't want anything to happen to you."
+
+//TEXT 【Kimura】
+<enT0044>"What if it did? Are you worried about me?"
+<ptT0044>"What if it did? Are you worried about me?"
+
+//TEXT 【Hasaki】
+<enT0045>"Of course I'm worried about you."
+<ptT0045>"Of course I'm worried about you."
+
+//TEXT 【Kimura】
+<enT0046>"That must be my adult charm at work."
+<ptT0046>"That must be my adult charm at work."
+
+//TEXT 【Hasaki】
+<enT0047>"You don't have any of that."
+<ptT0047>"You don't have any of that."
+
+//TEXT 【Kimura】
+<enT0048>"Oh, you're so quick to cut me down."
+<ptT0048>"Oh, you're so quick to cut me down."
+
+//TEXT 【Kimura】
+<enT0049>"Oh, right. There's one more thing, but I'm not sure if I should tell you about this."
+<ptT0049>"Oh, right. There's one more thing, but I'm not sure if I should tell you about this."
+
+//TEXT 【Hasaki】
+<enT0050>"What is it?"
+<ptT0050>"What is it?"
+
+//TEXT 【Kimura】
+<enT0051>"Your brother... He came home."
+<ptT0051>"Your brother... He came home."
+
+//TEXT 【Hasaki】
+<enT0052>"Huh?"
+<ptT0052>"Huh?"
+
+//TEXT 【Kimura】
+<enT0053>"I don't know whether he's the man you call Tomosane, though."
+<ptT0053>"I don't know whether he's the man you call Tomosane, though."
+
+//TEXT 【Kimura】
+<enT0054>"Anyway, I have somewhere else I have to go right now."
+<ptT0054>"Anyway, I have somewhere else I have to go right now."
+
+//TEXT 【Hasaki】
+<enT0055>"U-Um, Kimura-san!"
+<ptT0055>"U-Um, Kimura-san!"
+
+//TEXT 【Hasaki】
+<enT0056>"He hung up..."
+<ptT0056>"He hung up..."
+
+//TEXT
+<enT0057>Nii-san is in the house?
+<ptT0057>Nii-san is in the house?
+
+//TEXT
+<enT0058>That was probably the new Yuki-san.
+<ptT0058>That was probably the new Yuki-san.
+
+//TEXT
+<enT0059>She was always the one I saw at the house.
+<ptT0059>She was always the one I saw at the house.
+
+//TEXT
+<enT0060>But if it was Tomo Nii-san...
+<ptT0060>But if it was Tomo Nii-san...
+
+//TEXT 【Hasaki】
+<enT0061>"If Tomo Nii-san went back to the house, he wouldn't know that I'm staying here."
+<ptT0061>"If Tomo Nii-san went back to the house, he wouldn't know that I'm staying here."
+
+//TEXT
+<enT0062>I hadn't thought of a way of telling him that.
+<ptT0062>I hadn't thought of a way of telling him that.
+
+//TEXT
+<enT0063>I thought Kimura-san might be able to tell him, but Kimura-san wasn't watching the house at all times.
+<ptT0063>I thought Kimura-san might be able to tell him, but Kimura-san wasn't watching the house at all times.
+
+//TEXT
+<enT0064>If Tomo Nii-san came home when no one was there...
+<ptT0064>If Tomo Nii-san came home when no one was there...
+
+//TEXT 【Hasaki】
+<enT0065>"No one would be able to tell him where I am."
+<ptT0065>"No one would be able to tell him where I am."
+
+//TEXT 【Hasaki】
+<enT0066>"I don't know who's in the house right now, but..."
+<ptT0066>"I don't know who's in the house right now, but..."
+
+//TEXT
+<enT0067>But still, if that was Tomo Nii-san...
+<ptT0067>But still, if that was Tomo Nii-san...
+
+//TEXT
+<enT0068>And even if it wasn't him, the other two wouldn't be able to recognize me at all.
+<ptT0068>And even if it wasn't him, the other two wouldn't be able to recognize me at all.
+
+//TEXT
+<enT0069>In the classroom, they just recognize me as the twins, but in the house I would probably be removed from their consciousness in order to maintain consistency.
+<ptT0069>In the classroom, they just recognize me as the twins, but in the house I would probably be removed from their consciousness in order to maintain consistency.
+
+//TEXT 【Hasaki】
+<enT0070>"Maybe..."
+<ptT0070>"Maybe..."
+
+//TEXT
+<enT0071>Maybe I should leave a note for Nii-san, in case he comes home, telling him that I'm at the Hakushuukyou bar.
+<ptT0071>Maybe I should leave a note for Nii-san, in case he comes home, telling him that I'm at the Hakushuukyou bar.
+
+//TEXT 【Hasaki】
+<enT0072>"There's no danger, right?"
+<ptT0072>"There's no danger, right?"
+
+//TEXT
+<enT0073>I knew I was just making convenient excuses for my actions.
+<ptT0073>I knew I was just making convenient excuses for my actions.
+
+//TEXT
+<enT0074>No matter what the reason, though, I wanted to be sure.
+<ptT0074>No matter what the reason, though, I wanted to be sure.
+
+//TEXT
+<enT0075>It'd been so long since I saw Tomo Nii-san... I just wanted to see him again.
+<ptT0075>It'd been so long since I saw Tomo Nii-san... I just wanted to see him again.
+
+//TEXT
+<enT0076>If there was even a small chance of seeing him again, then I'd bet it all on that.
+<ptT0076>If there was even a small chance of seeing him again, then I'd bet it all on that.
+
+//TEXT
+<enT0077>I took the train from Suginomiya back to my house.
+<ptT0077>I took the train from Suginomiya back to my house.
+
+//TEXT
+<enT0078>It wasn't that far.
+<ptT0078>It wasn't that far.
+
+//TEXT
+<enT0079>It always felt like a quick ride before, but this time it was a very long train ride.
+<ptT0079>It always felt like a quick ride before, but this time it was a very long train ride.
+
+//TEXT 【Hasaki】
+<enT0080>"Haa..."
+<ptT0080>"Haa..."
+
+//TEXT
+<enT0081>As I watched the scenery drift by...
+<ptT0081>As I watched the scenery drift by...
+
+//TEXT
+<enT0082>I thought about a lot of different things.
+<ptT0082>I thought about a lot of different things.
+
+//TEXT
+<enT0083>About today.
+<ptT0083>About today.
+
+//TEXT
+<enT0084>About the past.
+<ptT0084>About the past.
+
+//TEXT
+<enT0085>About Tomo Nii-san's relationship with Takuji Nii-san. And about Yuki-san, who protected me.
+<ptT0085>About Tomo Nii-san's relationship with Takuji Nii-san. And about Yuki-san, who protected me.
+
+//TEXT
+<enT0086>And, after that... the days I've lived with him since that day.
+<ptT0086>And, after that... the days I've lived with him since that day.
+
+//TEXT
+<enT0087>No, not just with him.
+<ptT0087>No, not just with him.
+
+//TEXT
+<enT0088>I lived those days with Tomo Nii-san and Yuki-san, and Takuji Nii-san as well.
+<ptT0088>I lived those days with Tomo Nii-san and Yuki-san, and Takuji Nii-san as well.
+
+//TEXT
+<enT0089>The incident that changed everything in my life, and the incident that completely changed my family...
+<ptT0089>The incident that changed everything in my life, and the incident that completely changed my family...
+
+//TEXT
+<enT0090>Everything from that moment in time, leading up to me being here today...
+<ptT0090>Everything from that moment in time, leading up to me being here today...
+
+//TEXT
+<enT0091>Tomo Nii-san's kindness...
+<ptT0091>Tomo Nii-san's kindness...
+
+//TEXT
+<enT0092>Takuji Nii-san's curse...
+<ptT0092>Takuji Nii-san's curse...
+
+//TEXT
+<enT0093>And Yuki-san's...
+<ptT0093>And Yuki-san's...
+
+//TEXT 【Hasaki】
+<enT0094>"Ah!"
+<ptT0094>"Ah!"
+
+//TEXT
+<enT0095>I was lost in thought, but then a sign flashed by with my station's name on it.
+<ptT0095>I was lost in thought, but then a sign flashed by with my station's name on it.
+
+//TEXT
+<enT0096>The train slowed as it approached the station.
+<ptT0096>The train slowed as it approached the station.
+
+//TEXT
+<enT0097>I arrived at my destination.
+<ptT0097>I arrived at my destination.
+
+//TEXT
+<enT0098>There was a light on in the house.
+<ptT0098>There was a light on in the house.
+
+//TEXT
+<enT0099>So he really did come home.
+<ptT0099>So he really did come home.
+
+//TEXT 【Hasaki】
+<enT0100>"I wonder who it is."
+<ptT0100>"I wonder who it is."
+
+//TEXT
+<enT0101>There was a light on in the living room.
+<ptT0101>There was a light on in the living room.
+
+//TEXT
+<enT0102>Someone was in my brother's room on the second floor.
+<ptT0102>Someone was in my brother's room on the second floor.
+
+//TEXT
+<enT0103>I quietly went upstairs.
+<ptT0103>I quietly went upstairs.
+
+//TEXT
+<enT0104>He was doing something with his phone in the middle of the room.
+<ptT0104>He was doing something with his phone in the middle of the room.
+
+//TEXT
+<enT0105>That wasn't his phone.
+<ptT0105>That wasn't his phone.
+
+//TEXT
+<enT0106>None of them really spend that much time playing with their phone.
+<ptT0106>None of them really spend that much time playing with their phone.
+
+//TEXT
+<enT0107>I wonder who it is...
+<ptT0107>I wonder who it is...
+
+//TEXT 【Mamiya】
+<enT0108>"They were deleted just yesterday, so I should be able to retrieve all the important messages."
+<ptT0108>"They were deleted just yesterday, so I should be able to retrieve all the important messages."
+
+//TEXT 【Mamiya】
+<enT0109>"There was a list of the different messages from Takashima around here."
+<ptT0109>"There was a list of the different messages from Takashima around here."
+
+//TEXT
+<enT0110>He was doing something with the phone while watching the computer out of the corner of his eye.
+<ptT0110>He was doing something with the phone while watching the computer out of the corner of his eye.
+
+//TEXT
+<enT0111>He must be investigating something.
+<ptT0111>He must be investigating something.
+
+//TEXT 【Mamiya】
+<enT0112>"Whoa... There are a ton of them."
+<ptT0112>"Whoa... There are a ton of them."
+
+//TEXT
+<enT0113>I wonder whose phone that is.
+<ptT0113>I wonder whose phone that is.
+
+//TEXT 【Mamiya】
+<enT0114>"This doesn't seem like a ghost. It looks like someone was leading Mrs. Senagawa on."
+<ptT0114>"This doesn't seem like a ghost. It looks like someone was leading Mrs. Senagawa on."
+
+//TEXT
+<enT0115>Mrs. Senagawa. She's the one who died yesterday.
+<ptT0115>Mrs. Senagawa. She's the one who died yesterday.
+
+//TEXT
+<enT0116>He must be investigating Mrs. Senagawa's death, which means...
+<ptT0116>He must be investigating Mrs. Senagawa's death, which means...
+
+//TEXT 【Hasaki】
+<enT0117>"It's Yuki-san... Or maybe Tomo Nii-san?"
+<ptT0117>"It's Yuki-san... Or maybe Tomo Nii-san?"
+
+//TEXT
+<enT0118>Which one is it?
+<ptT0118>Which one is it?
+
+//TEXT
+<enT0119>I couldn't tell because he wasn't saying much.
+<ptT0119>I couldn't tell because he wasn't saying much.
+
+//TEXT
+<enT0120>If I come out now, Yuki-san won't recognize me, but Tomo Nii-san will.
+<ptT0120>If I come out now, Yuki-san won't recognize me, but Tomo Nii-san will.
+
+//TEXT
+<enT0121>Then I should just go for it.
+<ptT0121>Then I should just go for it.
+
+//TEXT 【Mamiya】
+<enT0122>"I'm just curious."
+<ptT0122>"I'm just curious."
+
+//TEXT
+<enT0123>He called someone with the phone in his hand.
+<ptT0123>He called someone with the phone in his hand.
+
+//TEXT
+<enT0124>And then...
+<ptT0124>And then...
+
+//TEXT 【Mamiya】
+<enT0125>"Huh?!"
+<ptT0125>"Huh?!"
+
+//TEXT
+<enT0126>There was a quiet ringing sound in the room.
+<ptT0126>There was a quiet ringing sound in the room.
+
+//TEXT
+<enT0127>Which means that the phone he called was in the room.
+<ptT0127>Which means that the phone he called was in the room.
+
+//TEXT 【Hasaki】
+<enT0128>"..."
+<ptT0128>"..."
+
+//TEXT
+<enT0129>For some reason, he was shocked by that fact.
+<ptT0129>For some reason, he was shocked by that fact.
+
+//TEXT
+<enT0130>It was like he couldn't believe what he was hearing.
+<ptT0130>It was like he couldn't believe what he was hearing.
+
+//TEXT 【Mamiya】
+<enT0131>"Why is the sound coming from inside this room when I called Takashima-san's phone?"
+<ptT0131>"Why is the sound coming from inside this room when I called Takashima-san's phone?"
+
+//TEXT
+<enT0132>He called Takashima-san's phone?
+<ptT0132>He called Takashima-san's phone?
+
+//TEXT
+<enT0133>Then that ringing just now was Takashima-san's phone?
+<ptT0133>Then that ringing just now was Takashima-san's phone?
+
+//TEXT 【Mamiya】
+<enT0134>"What the―!"
+<ptT0134>"What the―!"
+
+//TEXT
+<enT0135>He pulled open the desk drawer where the sound was coming from.
+<ptT0135>He pulled open the desk drawer where the sound was coming from.
+
+//TEXT
+<enT0136>And lying there was...
+<ptT0136>And lying there was...
+
+//TEXT 【Mamiya】
+<enT0137>"This is..."
+<ptT0137>"This is..."
+
+//TEXT
+<enT0138>That cell phone.
+<ptT0138>That cell phone.
+
+//TEXT
+<enT0139>It was the phone that Takuji Nii-san brought back to the house a few days ago.
+<ptT0139>It was the phone that Takuji Nii-san brought back to the house a few days ago.
+
+//TEXT
+<enT0140>I remembered how he was touching it and mumbling something to himself.
+<ptT0140>I remembered how he was touching it and mumbling something to himself.
+
+//TEXT
+<enT0141>I remembered that it was creepy how the case was broken.
+<ptT0141>I remembered that it was creepy how the case was broken.
+
+//TEXT
+<enT0142>That was... Takashima-san's phone.
+<ptT0142>That was... Takashima-san's phone.
+
+//TEXT
+<enT0143>But why would Takuji Nii-san have something like that?
+<ptT0143>But why would Takuji Nii-san have something like that?
+
+//TEXT 【Mamiya】
+<enT0144>"Takashima... Zakuro's cell phone?"
+<ptT0144>"Takashima... Zakuro's cell phone?"
+
+//TEXT
+<enT0145>He fearfully picked up the phone.
+<ptT0145>He fearfully picked up the phone.
+
+//TEXT
+<enT0146>He probably didn't know that Takuji Nii-san was the one that put it there.
+<ptT0146>He probably didn't know that Takuji Nii-san was the one that put it there.
+
+//TEXT
+<enT0147>Does that mean this is the new Yuki-san?
+<ptT0147>Does that mean this is the new Yuki-san?
+
+//TEXT 【Mamiya】
+<enT0148>"N-No way... Wait. For the moment, just calm down."
+<ptT0148>"N-No way... Wait. For the moment, just calm down."
+
+//TEXT
+<enT0149>After looking at the phone, he collapsed back into his chair.
+<ptT0149>After looking at the phone, he collapsed back into his chair.
+
+//TEXT 【Mamiya】
+<enT0150>"Wh-What am I doing... Kuh... What's this?"
+<ptT0150>"Wh-What am I doing... Kuh... What's this?"
+
+//TEXT
+<enT0151>When he sat down, he knocked some white powder off the table...
+<ptT0151>When he sat down, he knocked some white powder off the table...
+
+//TEXT
+<enT0152>What is that powder?
+<ptT0152>What is that powder?
+
+//TEXT 【Mamiya】
+<enT0153>"Wh-What am I doing?"
+<ptT0153>"Wh-What am I doing?"
+
+//TEXT
+<enT0154>He opened the window and tried to dump the powder out the window, but then the wind blew it all over the room.
+<ptT0154>He opened the window and tried to dump the powder out the window, but then the wind blew it all over the room.
+
+//TEXT 【Mamiya】
+<enT0155>"What's wrong with me?"
+<ptT0155>"What's wrong with me?"
+
+//TEXT 【Hasaki】
+<enT0156>"Whoa."
+<ptT0156>"Whoa."
+
+//TEXT
+<enT0157>I looked at the door post that I was holding onto and saw fingerprints on it.
+<ptT0157>I looked at the door post that I was holding onto and saw fingerprints on it.
+
+//TEXT 【Hasaki】
+<enT0158>"They use this stuff in detective shows, right?"
+<ptT0158>"They use this stuff in detective shows, right?"
+
+//TEXT
+<enT0159>It was some kind of powder that reveals fingerprints.
+<ptT0159>It was some kind of powder that reveals fingerprints.
+
+//TEXT
+<enT0160>I didn't know he had something like that.
+<ptT0160>I didn't know he had something like that.
+
+//TEXT 【Mamiya】
+<enT0161>"Huh? What is this?"
+<ptT0161>"Huh? What is this?"
+
+//TEXT
+<enT0162>I heard a note of despair in his voice.
+<ptT0162>I heard a note of despair in his voice.
+
+//TEXT 【Mamiya】
+<enT0163>"These are..."
+<ptT0163>"These are..."
+
+//TEXT
+<enT0164>The scattered powder showed all the fingerprints in the room. On the desk, on the drawer, on the closet...
+<ptT0164>The scattered powder showed all the fingerprints in the room. On the desk, on the drawer, on the closet...
+
+//TEXT
+<enT0165>Nii-san trembled at the sight of those fingerprints.
+<ptT0165>Nii-san trembled at the sight of those fingerprints.
+
+//TEXT 【Mamiya】
+<enT0166>"Th-They're the same as the ones on Takashima-san's desk... Why?"
+<ptT0166>"Th-They're the same as the ones on Takashima-san's desk... Why?"
+
+//TEXT 【Mamiya】
+<enT0167>"Wh-Why? Her cell phone is in my room, as well as the same fingerprints that were on her desk."
+<ptT0167>"Wh-Why? Her cell phone is in my room, as well as the same fingerprints that were on her desk."
+
+//TEXT 【Mamiya】
+<enT0168>"Why?"
+<ptT0168>"Why?"
+
+//TEXT
+<enT0169>It was the new Yuki-san.
+<ptT0169>It was the new Yuki-san.
+
+//TEXT
+<enT0170>And she was under a terrible misunderstanding.
+<ptT0170>And she was under a terrible misunderstanding.
+
+//TEXT
+<enT0171>Those were her own fingerprints.
+<ptT0171>Those were her own fingerprints.
+
+//TEXT
+<enT0172>She thought those were someone else's fingerprints. They're probably the fingerprints of the culprit she was chasing after.
+<ptT0172>She thought those were someone else's fingerprints. They're probably the fingerprints of the culprit she was chasing after.
+
+//TEXT
+<enT0173>In other words, they were Takuji Nii-san's fingerprints.
+<ptT0173>In other words, they were Takuji Nii-san's fingerprints.
+
+//TEXT
+<enT0174>She was probably terrified because she saw Takuji Nii-san's fingerprints all over the room.
+<ptT0174>She was probably terrified because she saw Takuji Nii-san's fingerprints all over the room.
+
+//TEXT
+<enT0175>Of course his fingerprints were all over the room.
+<ptT0175>Of course his fingerprints were all over the room.
+
+//TEXT
+<enT0176>Because Yuki-san and Takuji Nii-san are the same person, they have the same fingerprints.
+<ptT0176>Because Yuki-san and Takuji Nii-san are the same person, they have the same fingerprints.
+
+//TEXT
+<enT0177>It's not surprising at all that his fingerprints would be all over the room.
+<ptT0177>It's not surprising at all that his fingerprints would be all over the room.
+
+//TEXT 【Mamiya】
+<enT0178>"This is..."
+<ptT0178>"This is..."
+
+//TEXT
+<enT0179>When I saw Yuki-san trembling like that, I ran into the room without thinking.
+<ptT0179>When I saw Yuki-san trembling like that, I ran into the room without thinking.
+
+//TEXT 【Mamiya】
+<enT0180>"Huh?"
+<ptT0180>"Huh?"
+
+//TEXT
+<enT0181>When she saw me, Yuki-san's expression froze.
+<ptT0181>When she saw me, Yuki-san's expression froze.
+
+//TEXT
+<enT0182>Oh, shoot...
+<ptT0182>Oh, shoot...
+
+//TEXT
+<enT0183>I was just worried about Yuki-san.
+<ptT0183>I was just worried about Yuki-san.
+
+//TEXT 【Hasaki】
+<enT0184>"U-Um, Yuki-san, wait!"
+<ptT0184>"U-Um, Yuki-san, wait!"
+
+//TEXT 【Hasaki】
+<enT0185>"Calm down! You don't need to be afraid of me!"
+<ptT0185>"Calm down! You don't need to be afraid of me!"
+
+//TEXT 【Mamiya】
+<enT0186>"Eek!"
+<ptT0186>"Eek!"
+
+//TEXT
+<enT0187>N-No good. She probably did recognize me, but she refused the information.
+<ptT0187>N-No good. She probably did recognize me, but she refused the information.
+
+//TEXT
+<enT0188>When someone refuses to recognize something, that recognition always turns to fear.
+<ptT0188>When someone refuses to recognize something, that recognition always turns to fear.
+
+//TEXT
+<enT0189>So right now I must be terrifying to her.
+<ptT0189>So right now I must be terrifying to her.
+
+//TEXT 【Hasaki】
+<enT0190>"I'm sorry, Yuki-san."
+<ptT0190>"I'm sorry, Yuki-san."
+
+//TEXT 【Hasaki】
+<enT0191>"Um..."
+<ptT0191>"Um..."
+
+//TEXT 【Mamiya】
+<enT0192>"Aaaaaahh!"
+<ptT0192>"Aaaaaahh!"
+
+//TEXT 【Hasaki】
+<enT0193>"Yuki-san!"
+<ptT0193>"Yuki-san!"
+
+//TEXT 【Hasaki】
+<enT0194>"..."
+<ptT0194>"..."
+
+//TEXT
+<enT0195>What was I doing?
+<ptT0195>What was I doing?
+
+//TEXT
+<enT0196>I probably only confused Yuki-san even more, and in a situation like that... I'm really the worst.
+<ptT0196>I probably only confused Yuki-san even more, and in a situation like that... I'm really the worst.
+
+//TEXT 【Hasaki】
+<enT0197>"Haa..."
+<ptT0197>"Haa..."
+
+//TEXT
+<enT0198>Anyway, I should clean this up.
+<ptT0198>Anyway, I should clean this up.
+
+//TEXT
+<enT0199>I wiped off all the powder on the surfaces in the room.
+<ptT0199>I wiped off all the powder on the surfaces in the room.
+
+//TEXT
+<enT0200>Then...
+<ptT0200>Then...
+
+//TEXT 【Kimura】
+<enT0201>"Hasaki-chan, you came back to the house."
+<ptT0201>"Hasaki-chan, you came back to the house."
+
+//TEXT 【Hasaki】
+<enT0202>"Oh, yeah..."
+<ptT0202>"Oh, yeah..."
+
+//TEXT
+<enT0203>Kimura-san apologized when he saw my expression and figured out what had happened.
+<ptT0203>Kimura-san apologized when he saw my expression and figured out what had happened.
+
+//TEXT 【Kimura】
+<enT0204>"I guess I shouldn't have said anything. It wasn't him."
+<ptT0204>"I guess I shouldn't have said anything. It wasn't him."
+
+//TEXT 【Hasaki】
+<enT0205>"Yes."
+<ptT0205>"Yes."
+
+//TEXT 【Kimura】
+<enT0206>"Oh... Sorry, I guess my information wasn't useful this time."
+<ptT0206>"Oh... Sorry, I guess my information wasn't useful this time."
+
+//TEXT 【Kimura】
+<enT0207>"I had someone watching the house for me. He told me someone was in the house, so I came back to see who it was."
+<ptT0207>"I had someone watching the house for me. He told me someone was in the house, so I came back to see who it was."
+
+//TEXT 【Hasaki】
+<enT0208>"What about the job you were doing?"
+<ptT0208>"What about the job you were doing?"
+
+//TEXT 【Kimura】
+<enT0209>"Yeah, we're pretty much finished."
+<ptT0209>"Yeah, we're pretty much finished."
+
+//TEXT 【Kimura】
+<enT0210>"I can't do anything about the police, but I managed to clear up the misunderstanding with the people I work with."
+<ptT0210>"I can't do anything about the police, but I managed to clear up the misunderstanding with the people I work with."
+
+//TEXT 【Hasaki】
+<enT0211>"That's good to hear."
+<ptT0211>"That's good to hear."
+
+//TEXT 【Kimura】
+<enT0212>"And I did a bit of digging while I was there."
+<ptT0212>"And I did a bit of digging while I was there."
+
+//TEXT 【Kimura】
+<enT0213>"You said something happened seven years ago, so I went through all the national and local newspapers from that time period."
+<ptT0213>"You said something happened seven years ago, so I went through all the national and local newspapers from that time period."
+
+//TEXT 【Kimura】
+<enT0214>"I found out about a certain incident that took place in a town called Sawaimura."
+<ptT0214>"I found out about a certain incident that took place in a town called Sawaimura."
+
+//TEXT 【Kimura】
+<enT0215>"Everyone involved was underage, so there were no names. I got in touch with the reporter, though, and made him give me the names."
+<ptT0215>"Everyone involved was underage, so there were no names. I got in touch with the reporter, though, and made him give me the names."
+
+//TEXT 【Kimura】
+<enT0216>"This tragedy began on that day."
+<ptT0216>"This tragedy began on that day."
+
+//TEXT 【Kimura】
+<enT0217>"I'm right, aren't I?"
+<ptT0217>"I'm right, aren't I?"
+
+//TEXT 【Hasaki】
+<enT0218>"Yes."
+<ptT0218>"Yes."
+
+//TEXT 【Kimura】
+<enT0219>"Tell me if I'm wrong about any of this... Or, well, I understand if you don't want to talk about it. Pretend like I'm just talking to myself."
+<ptT0219>"Tell me if I'm wrong about any of this... Or, well, I understand if you don't want to talk about it. Pretend like I'm just talking to myself."
+
+//TEXT 【Kimura】
+<enT0220>"But if my inference is correct, then I might be able to find this Tomosane-kun that you've been looking for."
+<ptT0220>"But if my inference is correct, then I might be able to find this Tomosane-kun that you've been looking for."
+
+//TEXT 【Hasaki】
+<enT0221>"..."
+<ptT0221>"..."
+
+//TEXT 【Kimura】
+<enT0222>"The Mamiya Takuji-kun here today... isn't the real Mamiya Takuji-kun."
+<ptT0222>"The Mamiya Takuji-kun here today... isn't the real Mamiya Takuji-kun."
+
+//TEXT 【Hasaki】
+<enT0223>"..."
+<ptT0223>"..."
+
+//TEXT 【Kimura】
+<enT0224>"The person who is called Mamiya Takuji today isn't listed as Mamiya Takuji on the family register."
+<ptT0224>"The person who is called Mamiya Takuji today isn't listed as Mamiya Takuji on the family register."
+
+//TEXT 【Kimura】
+<enT0225>"According to official records, Mamiya Takuji is already dead."
+<ptT0225>"According to official records, Mamiya Takuji is already dead."
+
+//TEXT 【Kimura】
+<enT0226>"He's a person that no longer exists."
+<ptT0226>"He's a person that no longer exists."
+
+//TEXT 【Kimura】
+<enT0227>"The family register says that the only living brother you have today is the eldest Mamiya brother, Mamiya Tomosane."
+<ptT0227>"The family register says that the only living brother you have today is the eldest Mamiya brother, Mamiya Tomosane."
+
+//TEXT 【Kimura】
+<enT0228>"The person you call Tomo Nii-san."
+<ptT0228>"The person you call Tomo Nii-san."
+
+//TEXT 【Kimura】
+<enT0229>"Is that correct?"
+<ptT0229>"Is that correct?"
+
+//TEXT 【Hasaki】
+<enT0230>"..."
+<ptT0230>"..."
+
+//TEXT 【Hasaki】
+<enT0231>"Yes."
+<ptT0231>"Yes."
+
+//TEXT 【Kimura】
+<enT0232>"And during the incident which happened seven years ago, he killed Mamiya Takuji-kun."
+<ptT0232>"And during the incident which happened seven years ago, he killed Mamiya Takuji-kun."
+
+//TEXT 【Hasaki】
+<enT0233>"Ah..."
+<ptT0233>"Ah..."
+
+//TEXT 【Hasaki】
+<enT0234>"No, that's not true."
+<ptT0234>"No, that's not true."
+
+//TEXT 【Hasaki】
+<enT0235>"Tomo Nii-san didn't kill him."
+<ptT0235>"Tomo Nii-san didn't kill him."
+
+//TEXT 【Hasaki】
+<enT0236>"It's not his fault! Tomo Nii-san was just―"
+<ptT0236>"It's not his fault! Tomo Nii-san was just―"
+
+//TEXT 【Kimura】
+<enT0237>"I understand. I heard what happened back then."
+<ptT0237>"I understand. I heard what happened back then."
+
+//TEXT 【Kimura】
+<enT0238>"Tomosane-kun was the victim. It wasn't his fault."
+<ptT0238>"Tomosane-kun was the victim. It wasn't his fault."
+
+//TEXT 【Kimura】
+<enT0239>"It was a classic case of self-defense. Mamiya Takuji-kun was the one at fault."
+<ptT0239>"It was a classic case of self-defense. Mamiya Takuji-kun was the one at fault."
+
+//TEXT 【Kimura】
+<enT0240>"He was just protecting you from Takuji-kun, who threatened you with a knife, and then Takuji-kun was killed in the struggle."
+<ptT0240>"He was just protecting you from Takuji-kun, who threatened you with a knife, and then Takuji-kun was killed in the struggle."
+
+//TEXT 【Kimura】
+<enT0241>"It was a complete accident."
+<ptT0241>"It was a complete accident."
+
+//TEXT 【Kimura】
+<enT0242>"No one has any reason to blame Tomosane-kun."
+<ptT0242>"No one has any reason to blame Tomosane-kun."
+
+//TEXT 【Kimura】
+<enT0243>"That was the official ruling as well."
+<ptT0243>"That was the official ruling as well."
+
+//TEXT 【Kimura】
+<enT0244>"But there were some people who thought differently."
+<ptT0244>"But there were some people who thought differently."
+
+//TEXT 【Kimura】
+<enT0245>"One was your mother, and the other was..."
+<ptT0245>"One was your mother, and the other was..."
+
+//TEXT 【Kimura】
+<enT0246>"Tomosane-kun himself."
+<ptT0246>"Tomosane-kun himself."
+
+//TEXT 【Kimura】
+<enT0247>"He felt so much guilt for killing his own brother, Mamiya Takuji, that he denied his own personality."
+<ptT0247>"He felt so much guilt for killing his own brother, Mamiya Takuji, that he denied his own personality."
+
+//TEXT 【Kimura】
+<enT0248>"He wanted to do something for Mamiya Kotomi-san, who had been traumatized by the loss of her Takuji-kun... and so his personality changed, as if Takuji-kun's soul had been transferred into his body."
+<ptT0248>"He wanted to do something for Mamiya Kotomi-san, who had been traumatized by the loss of her Takuji-kun... and so his personality changed, as if Takuji-kun's soul had been transferred into his body."
+
+//TEXT 【Kimura】
+<enT0249>The doctor's diagnosis was secondary structural dissociation associated with PTSD. Personality misidentification thought to be a type of dissociative disorder or depersonalization."
+<ptT0249>The doctor's diagnosis was secondary structural dissociation associated with PTSD. Personality misidentification thought to be a type of dissociative disorder or depersonalization."
+
+//TEXT 【Kimura】
+<enT0250>"The symptoms include a disassociation of the experiencing self and the observing self, but it's rare for the disassociated self to take the shape of a dead person like Mamiya Takuji-kun."
+<ptT0250>"The symptoms include a disassociation of the experiencing self and the observing self, but it's rare for the disassociated self to take the shape of a dead person like Mamiya Takuji-kun."
+
+//TEXT 【Kimura】
+<enT0251>"To put it simply, he has a disease which causes him to mistake himself for another person. That was the diagnosis."
+<ptT0251>"To put it simply, he has a disease which causes him to mistake himself for another person. That was the diagnosis."
+
+//TEXT 【Kimura】
+<enT0252>"I met the doctor who first diagnosed him."
+<ptT0252>"I met the doctor who first diagnosed him."
+
+//TEXT 【Kimura】
+<enT0253>"Normally, he wouldn't be able to tell me any of this, but he opened up when I told him that Tomosane-kun might be related to the recent deaths."
+<ptT0253>"Normally, he wouldn't be able to tell me any of this, but he opened up when I told him that Tomosane-kun might be related to the recent deaths."
+
+//TEXT 【Kimura】
+<enT0254>"But the doctor didn't know how far his case had progressed."
+<ptT0254>"But the doctor didn't know how far his case had progressed."
+
+//TEXT 【Kimura】
+<enT0255>"He was shocked when he heard that the disassociated self had split into a third personality."
+<ptT0255>"He was shocked when he heard that the disassociated self had split into a third personality."
+
+//TEXT 【Kimura】
+<enT0256>"The third personality... In other words, he has dissociative identity disorder, which is more commonly known as multiple personality disorder."
+<ptT0256>"The third personality... In other words, he has dissociative identity disorder, which is more commonly known as multiple personality disorder."
+
+//TEXT 【Kimura】
+<enT0257>"These symptoms appeared after he got out of the hospital."
+<ptT0257>"These symptoms appeared after he got out of the hospital."
+
+//TEXT 【Kimura】
+<enT0258>"From what I've heard, his mother made a unilateral decision to stop all treatment."
+<ptT0258>"From what I've heard, his mother made a unilateral decision to stop all treatment."
+
+//TEXT 【Kimura】
+<enT0259>"It's still a mystery why Minakami Yuki and Tomosane-kun's personalities later reappeared."
+<ptT0259>"It's still a mystery why Minakami Yuki and Tomosane-kun's personalities later reappeared."
+
+//TEXT 【Kimura】
+<enT0260>"And something else I heard from the doctor... There's no clear medical reason why he would begin to believe his own name is Yuuki Tomosane rather than Mamiya Tomosane."
+<ptT0260>"And something else I heard from the doctor... There's no clear medical reason why he would begin to believe his own name is Yuuki Tomosane rather than Mamiya Tomosane."
+
+//TEXT 【Kimura】
+<enT0261>"The only thing they can say for sure is that these symptoms appeared in his particular case."
+<ptT0261>"The only thing they can say for sure is that these symptoms appeared in his particular case."
+
+//TEXT 【Kimura】
+<enT0262>"After that, your mother raised Tomosane-kun as if he was actually Takuji-kun."
+<ptT0262>"After that, your mother raised Tomosane-kun as if he was actually Takuji-kun."
+
+//TEXT 【Kimura】
+<enT0263>"That's why he's listed as Mamiya Takuji in the school records."
+<ptT0263>"That's why he's listed as Mamiya Takuji in the school records."
+
+//TEXT 【Kimura】
+<enT0264>"Of course, that's inconsistent with the family register, but the school never had a reason to investigate him."
+<ptT0264>"Of course, that's inconsistent with the family register, but the school never had a reason to investigate him."
+
+//TEXT 【Kimura】
+<enT0265>"Kotomi-san also must've forged quite a few official documents. Otherwise, there are too many things that can't be explained."
+<ptT0265>"Kotomi-san also must've forged quite a few official documents. Otherwise, there are too many things that can't be explained."
+
+//TEXT 【Kimura】
+<enT0266>"We don't know whether she did all this maliciously, or if she was simply out of her mind."
+<ptT0266>"We don't know whether she did all this maliciously, or if she was simply out of her mind."
+
+//TEXT 【Kimura】
+<enT0267>"The tragedy unfolding right now was engendered by the tragedy of seven years past."
+<ptT0267>"The tragedy unfolding right now was engendered by the tragedy of seven years past."
+
+//TEXT 【Hasaki】
+<enT0268>"That's not true."
+<ptT0268>"That's not true."
+
+//TEXT 【Kimura】
+<enT0269>"..."
+<ptT0269>"..."
+
+//TEXT 【Hasaki】
+<enT0270>"What happened seven years ago isn't causing all of this to happen."
+<ptT0270>"What happened seven years ago isn't causing all of this to happen."
+
+//TEXT 【Hasaki】
+<enT0271>"My birth itself set into motion all the events leading up to today."
+<ptT0271>"My birth itself set into motion all the events leading up to today."
+
+//TEXT 【Hasaki】
+<enT0272>"The tragedy began in the moment that I was born into this world."
+<ptT0272>"The tragedy began in the moment that I was born into this world."
+
+//TEXT 【Kimura】
+<enT0273>"That's wrong."
+<ptT0273>"That's wrong."
+
+//TEXT 【Hasaki】
+<enT0274>"No, it's true. My life―my cursed life―brought unhappiness to everyone around me."
+<ptT0274>"No, it's true. My life―my cursed life―brought unhappiness to everyone around me."
+
+//TEXT 【Hasaki】
+<enT0275>"I killed Takuji Nii-san, and I made Tomo Nii-san bear that curse."
+<ptT0275>"I killed Takuji Nii-san, and I made Tomo Nii-san bear that curse."
+
+//TEXT 【Hasaki】
+<enT0276>"And Yuki-san, who was completely innocent... I got her wrapped up in this too."
+<ptT0276>"And Yuki-san, who was completely innocent... I got her wrapped up in this too."
+
+//TEXT 【Hasaki】
+<enT0277>"The entire tragedy came about because I was born."
+<ptT0277>"The entire tragedy came about because I was born."
+
+//TEXT 【Kimura】
+<enT0278>"No! That's not true!"
+<ptT0278>"No! That's not true!"
+
+//TEXT 【Kimura】
+<enT0279>"Please don't say that!"
+<ptT0279>"Please don't say that!"
+
+//TEXT 【Kimura】
+<enT0280>"What about the woman who saved your life so many years ago? What would she think if she heard you saying that?"
+<ptT0280>"What about the woman who saved your life so many years ago? What would she think if she heard you saying that?"
+
+//TEXT 【Kimura】
+<enT0281>"The young daughter of Master Minakami, the one who protected you."
+<ptT0281>"The young daughter of Master Minakami, the one who protected you."
+
+//TEXT 【Kimura】
+<enT0282>"What about her? What would she think if she heard you saying such sad things about yourself?"
+<ptT0282>"What about her? What would she think if she heard you saying such sad things about yourself?"
+
+//TEXT 【Hasaki】
+<enT0283>"Yuki-san..."
+<ptT0283>"Yuki-san..."
+
+//TEXT 【Kimura】
+<enT0284>"Minakami Yuki was the daughter of Master Minakami, the owner of Hakushuukyou."
+<ptT0284>"Minakami Yuki was the daughter of Master Minakami, the owner of Hakushuukyou."
+
+//TEXT 【Kimura】
+<enT0285>"His daughter put her life on the line to protect you both, so now he treats you like you're his own children."
+<ptT0285>"His daughter put her life on the line to protect you both, so now he treats you like you're his own children."
+
+//TEXT 【Kimura】
+<enT0286>"He chose to give up his life as a warrior and live together with the two of you."
+<ptT0286>"He chose to give up his life as a warrior and live together with the two of you."
+
+//TEXT 【Hasaki】
+<enT0287>"Yes."
+<ptT0287>"Yes."
+
+//TEXT 【Kimura】
+<enT0288>"Your birth didn't cause any of this to happen."
+<ptT0288>"Your birth didn't cause any of this to happen."
+
+//TEXT 【Kimura】
+<enT0289>"It's not your fault. It's not Tomosane-kun's fault either."
+<ptT0289>"It's not your fault. It's not Tomosane-kun's fault either."
+
+//TEXT 【Kimura】
+<enT0290>"So..."
+<ptT0290>"So..."
+
+//TEXT 【Kimura】
+<enT0291>"So we have to stop Mamiya Takuji."
+<ptT0291>"So we have to stop Mamiya Takuji."
+
+//TEXT 【Kimura】
+<enT0292>"We have to expel his vengeful spirit."
+<ptT0292>"We have to expel his vengeful spirit."
+
+//TEXT 【Hasaki】
+<enT0293>"Kimura-san..."
+<ptT0293>"Kimura-san..."
+
+//TEXT 【Hasaki】
+<enT0294>"Aren't you completely unrelated to all of this? I wouldn't want to cause you more trouble."
+<ptT0294>"Aren't you completely unrelated to all of this? I wouldn't want to cause you more trouble."
+
+//TEXT 【Kimura】
+<enT0295>"What are you talking about? I'm here of my own free will. I want to be here for you until the end."
+<ptT0295>"What are you talking about? I'm here of my own free will. I want to be here for you until the end."
+
+//TEXT 【Hasaki】
+<enT0296>"Kimura-san..."
+<ptT0296>"Kimura-san..."
+
+//TEXT 【Kimura】
+<enT0297>"Have I finally captivated you with my adult charm? What do you think?"
+<ptT0297>"Have I finally captivated you with my adult charm? What do you think?"
+
+//TEXT 【Hasaki】
+<enT0298>"Kimura-san, are you an idiot?"
+<ptT0298>"Kimura-san, are you an idiot?"
+
+//TEXT 【Hasaki】
+<enT0299>"I... I only love Tomo Nii-san."
+<ptT0299>"I... I only love Tomo Nii-san."
+
+//TEXT 【Kimura】
+<enT0300>"Hahaha, I know that."
+<ptT0300>"Hahaha, I know that."
+
+//TEXT 【Kimura】
+<enT0301>"I'm cursed to be a virgin forever."
+<ptT0301>"I'm cursed to be a virgin forever."
+
+//TEXT 【Kimura】
+<enT0302>"I understand."
+<ptT0302>"I understand."
+
+//TEXT 【Kimura】
+<enT0303>"The kind of wonderful woman that I would fall in love with will always have someone else in their thoughts."
+<ptT0303>"The kind of wonderful woman that I would fall in love with will always have someone else in their thoughts."
+
+//TEXT 【Kimura】
+<enT0304>"I'm used to getting turned down."
+<ptT0304>"I'm used to getting turned down."
+
+//TEXT 【Kimura】
+<enT0305>"So go ahead and cry it out."
+<ptT0305>"So go ahead and cry it out."
+
+//TEXT 【Kimura】
+<enT0306>"You can cry on my shoulder."
+<ptT0306>"You can cry on my shoulder."
+
+//TEXT 【Hasaki】
+<enT0307>"Kimura-san..."
+<ptT0307>"Kimura-san..."
+
+//TEXT 【Hasaki】
+<enT0308>"Are you seriously trying to seduce me?"
+<ptT0308>"Are you seriously trying to seduce me?"
+
+//TEXT 【Kimura】
+<enT0309>"Huh? Did you think I was joking?"
+<ptT0309>"Huh? Did you think I was joking?"
+
+//TEXT 【Hasaki】
+<enT0310>"I mean, you and me... No matter what happened, that's a bit..."
+<ptT0310>"I mean, you and me... No matter what happened, that's a bit..."
+
+//TEXT 【Kimura】
+<enT0311>"I guess so, hahaha."
+<ptT0311>"I guess so, hahaha."
+
+//TEXT
+<enT0312>Kimura-san patted me on the head.
+<ptT0312>Kimura-san patted me on the head.
+
+//TEXT 【Kimura】
+<enT0313>"It's a joke. Just a joke. I know how much you love your Tomosane Nii-san."
+<ptT0313>"It's a joke. Just a joke. I know how much you love your Tomosane Nii-san."
+
+//TEXT 【Kimura】
+<enT0314>"There's no way you could fall in love with an old man like me."
+<ptT0314>"There's no way you could fall in love with an old man like me."
+
+//TEXT 【Hasaki】
+<enT0315>"I might've considered it if Tomo Nii-san wasn't alive."
+<ptT0315>"I might've considered it if Tomo Nii-san wasn't alive."
+
+//TEXT 【Kimura】
+<enT0316>"Huh?"
+<ptT0316>"Huh?"
+
+//TEXT 【Hasaki】
+<enT0317>"But Tomo Nii-san is still alive, so I can't."
+<ptT0317>"But Tomo Nii-san is still alive, so I can't."
+
+//TEXT 【Kimura】
+<enT0318>"I figured..."
+<ptT0318>"I figured..."
+
+//TEXT
+<enT0319>Kimura-san drove me back to Hakushuukyou.
+<ptT0319>Kimura-san drove me back to Hakushuukyou.
+
+//TEXT
+<enT0320>On the way home...
+<ptT0320>On the way home...
+
+//TEXT
+<enT0321>We passed over a hill I'd never gone over before.
+<ptT0321>We passed over a hill I'd never gone over before.
+
+//TEXT
+<enT0322>As I crested that hill...
+<ptT0322>As I crested that hill...
+
+//TEXT
+<enT0323>I saw the night's sun.
+<ptT0323>I saw the night's sun.
+
+//TEXT
+<enT0324>It was in the same neighborhood where I'd grown up, but I never even knew these huge sunflowers were here.
+<ptT0324>It was in the same neighborhood where I'd grown up, but I never even knew these huge sunflowers were here.
+
+//TEXT
+<enT0325>The downy flowers sparkled white with dew.
+<ptT0325>The downy flowers sparkled white with dew.
+
+//TEXT
+<enT0326>The moon was blue and the flowers were yellow.
+<ptT0326>The moon was blue and the flowers were yellow.
+
+//TEXT
+<enT0327>It looked as if the sun and moon each stood in the other's place.
+<ptT0327>It looked as if the sun and moon each stood in the other's place.
+
+//TEXT
+<enT0328>The ever-dazzling sun stood upon our Earth, and the moon in the sky finally shone with its own brilliance.
+<ptT0328>The ever-dazzling sun stood upon our Earth, and the moon in the sky finally shone with its own brilliance.
+
+//TEXT
+<enT0329>The yellow of the sunflower was dyed with the blue of the moonlight.
+<ptT0329>The yellow of the sunflower was dyed with the blue of the moonlight.
+
+//TEXT
+<enT0330>It was a beautiful sight to behold.
+<ptT0330>It was a beautiful sight to behold.
+
+//TEXT
+<enT0331>But the vigorously blooming sunflowers looked somehow frail.
+<ptT0331>But the vigorously blooming sunflowers looked somehow frail.
+
+//TEXT
+<enT0332>Sunflowers reaching out to the darkness of a night sky.
+<ptT0332>Sunflowers reaching out to the darkness of a night sky.
+
+//TEXT
+<enT0333>My eyes chased after the sunflowers even as I sat inside the car.
+<ptT0333>My eyes chased after the sunflowers even as I sat inside the car.
+
+//TEXT
+<enT0334>Like suns reflecting the light of the moon.
+<ptT0334>Like suns reflecting the light of the moon.
+
+//TEXT
+<enT0335>Suns bathed in blue...
+<ptT0335>Suns bathed in blue...
+
+//TEXT
+<enT0336>My eyes followed them until they faded from view.
+<ptT0336>My eyes followed them until they faded from view.
+
+//TEXT
+<enT0337>I never told Master where I was going, so he was very stern with me.
+<ptT0337>I never told Master where I was going, so he was very stern with me.
+
+//TEXT
+<enT0338>He was so mad at me that he made me cry.
+<ptT0338>He was so mad at me that he made me cry.
+
+//TEXT
+<enT0339>But when I saw how upset he was, I felt like I really understood what Kimura-san was trying to tell me before.
+<ptT0339>But when I saw how upset he was, I felt like I really understood what Kimura-san was trying to tell me before.
+
+//TEXT
+<enT0340>Master... Yuki-san's father... He loves us like his children.
+<ptT0340>Master... Yuki-san's father... He loves us like his children.
+
+//TEXT
+<enT0341>The very same children who Yuki-san gave her life to protect.
+<ptT0341>The very same children who Yuki-san gave her life to protect.
+
+//TEXT
+<enT0342>Kimura-san escorted me to the bar and then went back to the Mamiya house.
+<ptT0342>Kimura-san escorted me to the bar and then went back to the Mamiya house.
+
+//TEXT 【Kimura】
+<enT0343>"There are still a lot of things I need to investigate."
+<ptT0343>"There are still a lot of things I need to investigate."
+
+//TEXT 【Kimura】
+<enT0344>"Next time I see him, I'll bring him to you if I can confirm who he is."
+<ptT0344>"Next time I see him, I'll bring him to you if I can confirm who he is."
+
+//TEXT 【Kimura】
+<enT0345>"I just need to check whether or not he's your Tomo Nii-san."
+<ptT0345>"I just need to check whether or not he's your Tomo Nii-san."
+
+//TEXT
+<enT0346>.........
+<ptT0346>.........
+
+//TEXT
+<enT0347>......
+<ptT0347>......
+
+//TEXT
+<enT0348>...
+<ptT0348>...
+
+//TEXT
+<enT0349>Near midnight, the bar's heavy door opened.
+<ptT0349>Near midnight, the bar's heavy door opened.
+
+//TEXT
+<enT0350>The bell on the door tinkled quietly.
+<ptT0350>The bell on the door tinkled quietly.
+
+//TEXT
+<enT0351>Even though the sign had read closed all day.
+<ptT0351>Even though the sign had read closed all day.
+
+//TEXT
+<enT0352>Master tried to tell the customer that we weren't open today.
+<ptT0352>Master tried to tell the customer that we weren't open today.
+
+//TEXT
+<enT0353>Then he froze in place.
+<ptT0353>Then he froze in place.
+
+//TEXT
+<enT0354>A familiar face stood in the doorway.
+<ptT0354>A familiar face stood in the doorway.
+
+//TEXT
+<enT0355>A face I'd seen just hours before.
+<ptT0355>A face I'd seen just hours before.
+
+//TEXT
+<enT0356>But something was a little different.
+<ptT0356>But something was a little different.
+
+//TEXT 【Master】
+<enT0357>"O-Oh?"
+<ptT0357>"O-Oh?"
+
+//TEXT 【Kimura】
+<enT0358>"Hello... It's me, Kimura."
+<ptT0358>"Hello... It's me, Kimura."
+
+//TEXT 【Master】
+<enT0359>"Oh, does that mean..."
+<ptT0359>"Oh, does that mean..."
+
+//TEXT
+<enT0360>Kimura took a bow, as if he was introducing a royal guest.
+<ptT0360>Kimura took a bow, as if he was introducing a royal guest.
+
+//TEXT
+<enT0361>The person that Kimura-san had brought with him...
+<ptT0361>The person that Kimura-san had brought with him...
+
+//TEXT
+<enT0362>There was only one person it could be.
+<ptT0362>There was only one person it could be.
+
+//TEXT
+<enT0363>It was exactly who I was looking for.
+<ptT0363>It was exactly who I was looking for.
+
+//TEXT
+<enT0364>My jaw shook as I tried to say something.
+<ptT0364>My jaw shook as I tried to say something.
+
+//TEXT
+<enT0365>The words were stuck in my throat.
+<ptT0365>The words were stuck in my throat.
+
+//TEXT
+<enT0366>I couldn't get the words to come out right.
+<ptT0366>I couldn't get the words to come out right.
+
+//TEXT
+<enT0367>Just one word...
+<ptT0367>Just one word...
+
+//TEXT
+<enT0368>It's just my brother's name.
+<ptT0368>It's just my brother's name.
+
+//TEXT
+<enT0369>I gathered all my courage...
+<ptT0369>I gathered all my courage...
+
+//TEXT
+<enT0370>Just so that I could speak.
+<ptT0370>Just so that I could speak.
+
+//TEXT 【Hasaki】
+<enT0371>"T-Tomo Nii-san?"
+<ptT0371>"T-Tomo Nii-san?"
+
+//TEXT
+<enT0372>The man in front of me gave a sly smile.
+<ptT0372>The man in front of me gave a sly smile.
+
+//TEXT
+<enT0373>Then he finally answered.
+<ptT0373>Then he finally answered.
+
+//TEXT 【Tomosane】
+<enT0374>"Yeah... It's me, Tomosane."
+<ptT0374>"Yeah... It's me, Tomosane."
+
+//TEXT 【Hasaki】
+<enT0375>"Uwaaaah!"
+<ptT0375>"Uwaaaah!"
+
+//TEXT 【Tomosane】
+<enT0376>"Wh-Whoa, Hasaki."
+<ptT0376>"Wh-Whoa, Hasaki."
+
+//TEXT
+<enT0377>I jumped into his arms so fast that he fell back against the door. I couldn't restrain myself.
+<ptT0377>I jumped into his arms so fast that he fell back against the door. I couldn't restrain myself.
+
+//TEXT
+<enT0378>I couldn't hold back. I just cried into his chest.
+<ptT0378>I couldn't hold back. I just cried into his chest.
+
+//TEXT
+<enT0379>It was Tomo Nii-san, right here with me.
+<ptT0379>It was Tomo Nii-san, right here with me.
+
+//TEXT
+<enT0380>The Tomosane Nii-san who I fell in love with.
+<ptT0380>The Tomosane Nii-san who I fell in love with.
+
+//TEXT
+<enT0381>The person who was always, always there by my side.
+<ptT0381>The person who was always, always there by my side.
+
+//TEXT
+<enT0382>He tried to mask his embarrassment by laughing at me.
+<ptT0382>He tried to mask his embarrassment by laughing at me.
+
+//TEXT
+<enT0383>His was a smile that neither Yuki-san nor Takuji Nii-san could ever replicate.
+<ptT0383>His was a smile that neither Yuki-san nor Takuji Nii-san could ever replicate.
+
+//TEXT
+<enT0384>There was only one person in the world that could show me a smile like that.
+<ptT0384>There was only one person in the world that could show me a smile like that.
+
+//TEXT
+<enT0385>That's why...
+<ptT0385>That's why...
+
+//TEXT
+<enT0386>That's why I...
+<ptT0386>That's why I...
+
+//TEXT 【Hasaki】
+<enT0387>"I thought I would never see you again. I was so sure. Things were just getting crazier and crazier with Takuji Nii-san."
+<ptT0387>"I thought I would never see you again. I was so sure. Things were just getting crazier and crazier with Takuji Nii-san."
+
+//TEXT 【Tomosane】
+<enT0388>"Crazy, huh? I guess so..."
+<ptT0388>"Crazy, huh? I guess so..."
+
+//TEXT 【Hasaki】
+<enT0389>"You probably don't know what's been happening, but a lot of people have been dying and going missing."
+<ptT0389>"You probably don't know what's been happening, but a lot of people have been dying and going missing."
+
+//TEXT 【Tomosane】
+<enT0390>"No, I can follow the traces of his memory. I do share the same brain with that bastard, for what it's worth."
+<ptT0390>"No, I can follow the traces of his memory. I do share the same brain with that bastard, for what it's worth."
+
+//TEXT 【Master】
+<enT0391>"Huh? You can do that?"
+<ptT0391>"Huh? You can do that?"
+
+//TEXT 【Tomosane】
+<enT0392>"I learned how to do it just recently. I got a bit of training."
+<ptT0392>"I learned how to do it just recently. I got a bit of training."
+
+//TEXT 【Master】
+<enT0393>"Hmm, and it seems like you've grown up a bit since I last saw you. Something's changed, for sure. Did something happen?"
+<ptT0393>"Hmm, and it seems like you've grown up a bit since I last saw you. Something's changed, for sure. Did something happen?"
+
+//TEXT 【Tomosane】
+<enT0394>"Nothing in particular, really.
+<ptT0394>"Nothing in particular, really.
+
+//TEXT
+<enT0395> After Mamiya Takuji beat me up, I spent a lot of time wandering through a dream."
+<ptT0395> After Mamiya Takuji beat me up, I spent a lot of time wandering through a dream."
+
+//TEXT 【Master】
+<enT0396>"A dream?"
+<ptT0396>"A dream?"
+
+//TEXT 【Tomosane】
+<enT0397>"Yeah. I met Yuki for a little while."
+<ptT0397>"Yeah. I met Yuki for a little while."
+
+//TEXT 【Master】
+<enT0398>"Yuki? Oh, I see. Hmm..."
+<ptT0398>"Yuki? Oh, I see. Hmm..."
+
+//TEXT 【Tomosane】
+<enT0399>"What?"
+<ptT0399>"What?"
+
+//TEXT
+<enT0400>Master looked very happy.
+<ptT0400>Master looked very happy.
+
+//TEXT
+<enT0401>Master never told Yuki-san's personality that he was actually her father.
+<ptT0401>Master never told Yuki-san's personality that he was actually her father.
+
+//TEXT
+<enT0402>Neither did Yuki-san ever know that she had been Master's daughter when she was alive.
+<ptT0402>Neither did Yuki-san ever know that she had been Master's daughter when she was alive.
+
+//TEXT
+<enT0403>People view Yuki-san as nothing more than a split personality, the side effect of a disease.
+<ptT0403>People view Yuki-san as nothing more than a split personality, the side effect of a disease.
+
+//TEXT
+<enT0404>As if she was nothing more than another one of Tomo Nii-san's delusions.
+<ptT0404>As if she was nothing more than another one of Tomo Nii-san's delusions.
+
+//TEXT
+<enT0405>But Master always believed.
+<ptT0405>But Master always believed.
+
+//TEXT
+<enT0406>He always believed that the Yuki-san personality really was his daughter, and that her soul had gone into Tomo Nii-san's body so that she could save him.
+<ptT0406>He always believed that the Yuki-san personality really was his daughter, and that her soul had gone into Tomo Nii-san's body so that she could save him.
+
+//TEXT
+<enT0407>He told me that Yuki-san was still here on Earth because she needed to protect Tomo Nii-san and expel Takuji's curse from his body.
+<ptT0407>He told me that Yuki-san was still here on Earth because she needed to protect Tomo Nii-san and expel Takuji's curse from his body.
+
+//TEXT
+<enT0408>Dissociative identity disorder.
+<ptT0408>Dissociative identity disorder.
+
+//TEXT
+<enT0409>It's easy to rationalize the phenomenon with a label, but the human heart has more intricacies than that diagnosis could ever convey.
+<ptT0409>It's easy to rationalize the phenomenon with a label, but the human heart has more intricacies than that diagnosis could ever convey.
+
+//TEXT
+<enT0410>And the soul, too, holds its own secrets.
+<ptT0410>And the soul, too, holds its own secrets.
+
+//TEXT 【Master】
+<enT0411>"Hahahaha, I can still see a bit of her in you."
+<ptT0411>"Hahahaha, I can still see a bit of her in you."
+
+//TEXT 【Tomosane】
+<enT0412>"Who?"
+<ptT0412>"Who?"
+
+//TEXT 【Master】
+<enT0413>"Oh, nothing. I'm just talking to myself. Besides, don't you need to talk to Hasaki-chan about something?"
+<ptT0413>"Oh, nothing. I'm just talking to myself. Besides, don't you need to talk to Hasaki-chan about something?"
+
+//TEXT 【Tomosane】
+<enT0414>"Yes."
+<ptT0414>"Yes."
+
+//TEXT 【Master】
+<enT0415>"Weren't you in a rush? Go right ahead."
+<ptT0415>"Weren't you in a rush? Go right ahead."
+
+//TEXT 【Tomosane】
+<enT0416>"All right."
+<ptT0416>"All right."
+
+//TEXT
+<enT0417>Then Nii-san took a step away from me.
+<ptT0417>Then Nii-san took a step away from me.
+
+//TEXT
+<enT0418>He saw the disappointment on my face and held up one finger, as if to say that it would only be for a moment.
+<ptT0418>He saw the disappointment on my face and held up one finger, as if to say that it would only be for a moment.
+
+//TEXT
+<enT0419>Even a moment together with him was precious to me.
+<ptT0419>Even a moment together with him was precious to me.
+
+//TEXT 【Master】
+<enT0420>"Hmm?"
+<ptT0420>"Hmm?"
+
+//TEXT 【Tomosane】
+<enT0421>"But first... Master!"
+<ptT0421>"But first... Master!"
+
+//TEXT 【Master】
+<enT0422>"What?"
+<ptT0422>"What?"
+
+//TEXT 【Tomosane】
+<enT0423>"Please step outside!"
+<ptT0423>"Please step outside!"
+
+//TEXT 【Master】
+<enT0424>"Outside? What, you want to talk to me alone?"
+<ptT0424>"Outside? What, you want to talk to me alone?"
+
+//TEXT 【Tomosane】
+<enT0425>"No. I'm telling you to step outside with me!"
+<ptT0425>"No. I'm telling you to step outside with me!"
+
+//TEXT 【Master】
+<enT0426>"Huh?"
+<ptT0426>"Huh?"
+
+//TEXT 【Master】
+<enT0427>"You want to hook up?!"
+<ptT0427>"You want to hook up?!"
+
+//TEXT 【Tomosane】
+<enT0428>"No! I'm telling you to step your ass outside!"
+<ptT0428>"No! I'm telling you to step your ass outside!"
+
+//TEXT 【Master】
+<enT0429>"Hehehe... What's wrong? This is rare from you."
+<ptT0429>"Hehehe... What's wrong? This is rare from you."
+
+//TEXT 【Tomosane】
+<enT0430>"It's not just rare. It's the first time... Asking your instructor to step outside is like suicide."
+<ptT0430>"It's not just rare. It's the first time... Asking your instructor to step outside is like suicide."
+
+//TEXT 【Master】
+<enT0431>"But you're still saying it?"
+<ptT0431>"But you're still saying it?"
+
+//TEXT 【Tomosane】
+<enT0432>"Yes... Please."
+<ptT0432>"Yes... Please."
+
+//TEXT 【Master】
+<enT0433>"All right."
+<ptT0433>"All right."
+
+//TEXT 【Hasaki】
+<enT0434>"Huh? Tomo Nii-san?"
+<ptT0434>"Huh? Tomo Nii-san?"
+
+//TEXT 【Tomosane】
+<enT0435>"The truth is, I came home just to tell you one thing. But there's something I have to confirm before I can say it."
+<ptT0435>"The truth is, I came home just to tell you one thing. But there's something I have to confirm before I can say it."
+
+//TEXT 【Hasaki】
+<enT0436>"U-Um, Tomo Nii-san..."
+<ptT0436>"U-Um, Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0437>"I had a dream..."
+<ptT0437>"I had a dream..."
+
+//TEXT 【Hasaki】
+<enT0438>"A dream?"
+<ptT0438>"A dream?"
+
+//TEXT 【Master】
+<enT0439>"That's what you said earlier. You met Yuki, right?"
+<ptT0439>"That's what you said earlier. You met Yuki, right?"
+
+//TEXT 【Tomosane】
+<enT0440>"Yes, I met Yuki, and she taught me how to control my dreams."
+<ptT0440>"Yes, I met Yuki, and she taught me how to control my dreams."
+
+//TEXT 【Master】
+<enT0441>"Controlling your dreams, huh?
+<ptT0441>"Controlling your dreams, huh?
+
+//TEXT
+<enT0442> Like a lucid dream?"
+<ptT0442> Like a lucid dream?"
+
+//TEXT 【Tomosane】
+<enT0443>"You know about it?"
+<ptT0443>"You know about it?"
+
+//TEXT 【Master】
+<enT0444>"Yeah, that state of mind is often used in the world of martial arts."
+<ptT0444>"Yeah, that state of mind is often used in the world of martial arts."
+
+//TEXT 【Tomosane】
+<enT0445>"Is it? Then I definitely need to ask you something, so please step outside."
+<ptT0445>"Is it? Then I definitely need to ask you something, so please step outside."
+
+//TEXT 【Master】
+<enT0446>"Jeez, is that the hip new catchphrase that all the fresh meat are saying?"
+<ptT0446>"Jeez, is that the hip new catchphrase that all the fresh meat are saying?"
+
+//TEXT 【Tomosane】
+<enT0447>"Please don't call me fresh meat. That's disgusting."
+<ptT0447>"Please don't call me fresh meat. That's disgusting."
+
+//TEXT 【Hasaki】
+<enT0448>"Huh? Wh-What?"
+<ptT0448>"Huh? Wh-What?"
+
+//TEXT 【Hasaki】
+<enT0449>"Master? Tomo Nii-san?"
+<ptT0449>"Master? Tomo Nii-san?"
+
+//TEXT 【Tomosane】
+<enT0450>"Just give us a moment."
+<ptT0450>"Just give us a moment."
+
+//TEXT 【Hasaki】
+<enT0451>"B-But I haven't seen you in so long..."
+<ptT0451>"B-But I haven't seen you in so long..."
+
+//TEXT 【Tomosane】
+<enT0452>"Don't worry about me. I'll be right back."
+<ptT0452>"Don't worry about me. I'll be right back."
+
+//TEXT 【Hasaki】
+<enT0453>"Tomo Nii-san!"
+<ptT0453>"Tomo Nii-san!"
+
+//TEXT
+<enT0454>I tried to chase after him.
+<ptT0454>I tried to chase after him.
+
+//TEXT
+<enT0455>Then Kimura-san stopped me.
+<ptT0455>Then Kimura-san stopped me.
+
+//TEXT 【Hasaki】
+<enT0456>"Kimura-san!"
+<ptT0456>"Kimura-san!"
+
+//TEXT 【Kimura】
+<enT0457>Calm down. They're probably just going up to the roof."
+<ptT0457>Calm down. They're probably just going up to the roof."
+
+//TEXT 【Hasaki】
+<enT0458>"The roof?"
+<ptT0458>"The roof?"
+
+//TEXT 【Kimura】
+<enT0459>"Yeah, they go up there if they're going to practice martial arts. That's what I heard, anyway."
+<ptT0459>"Yeah, they go up there if they're going to practice martial arts. That's what I heard, anyway."
+
+//TEXT 【Hasaki】
+<enT0460>"Why do they need to practice?"
+<ptT0460>"Why do they need to practice?"
+
+//TEXT 【Kimura】
+<enT0461>"No, today they're not practicing."
+<ptT0461>"No, today they're not practicing."
+
+//TEXT 【Hasaki】
+<enT0462>"Wh-What are you talking about?"
+<ptT0462>"Wh-What are you talking about?"
+
+//TEXT 【Kimura】
+<enT0463>"Tomosane-kun is trying to surpass his master, Minakami-san."
+<ptT0463>"Tomosane-kun is trying to surpass his master, Minakami-san."
+
+//TEXT 【Hasaki】
+<enT0464>"Huh? He's trying to beat Master?"
+<ptT0464>"Huh? He's trying to beat Master?"
+
+//TEXT 【Kimura】
+<enT0465>"Yeah, that's right."
+<ptT0465>"Yeah, that's right."
+
+//TEXT 【Hasaki】
+<enT0466>"Wh-Why?"
+<ptT0466>"Wh-Why?"
+
+//TEXT 【Kimura】
+<enT0467>"I think you should hear that from Tomosane-kun."
+<ptT0467>"I think you should hear that from Tomosane-kun."
+
+//TEXT 【Hasaki】
+<enT0468>"Kh!"
+<ptT0468>"Kh!"
+
+//TEXT 【Hasaki】
+<enT0469>"Tomo Nii-san!"
+<ptT0469>"Tomo Nii-san!"
+
+//TEXT 【Hasaki】
+<enT0470>"It's been so long, Tomo Nii-san!"
+<ptT0470>"It's been so long, Tomo Nii-san!"
+
+//TEXT 【Hasaki】
+<enT0471>"Tomo Nii-san!"
+<ptT0471>"Tomo Nii-san!"
+
+//TEXT 【Tomosane】
+<enT0472>"H-Hasaki?"
+<ptT0472>"H-Hasaki?"
+
+//TEXT 【Kimura】
+<enT0473>"Ahahaha,
+<ptT0473>"Ahahaha,
+
+//TEXT
+<enT0474> I couldn't stop her. She insisted..."
+<ptT0474> I couldn't stop her. She insisted..."
+
+//TEXT 【Hasaki】
+<enT0475>"Master, stop it! Tomo Nii-san looks awful."
+<ptT0475>"Master, stop it! Tomo Nii-san looks awful."
+
+//TEXT 【Tomosane】
+<enT0476>"Shut up! Just be quiet, Hasaki!"
+<ptT0476>"Shut up! Just be quiet, Hasaki!"
+
+//TEXT 【Hasaki】
+<enT0477>"Ah..."
+<ptT0477>"Ah..."
+
+//TEXT
+<enT0478>
+<ptT0478>
+
+//TEXT 【Master】
+<enT0479>"Oh... Is that what you really want to say to her?"
+<ptT0479>"Oh... Is that what you really want to say to her?"
+
+//TEXT 【Hasaki】
+<enT0480>"...I'm not going to shut up..."
+<ptT0480>"...I'm not going to shut up..."
+
+//TEXT 【Hasaki】
+<enT0481>"I'm not going to shut up! Do... Do you understand how I feel seeing..."
+<ptT0481>"I'm not going to shut up! Do... Do you understand how I feel seeing..."
+
+//TEXT 【Tomosane】
+<enT0482>"I understand."
+<ptT0482>"I understand."
+
+//TEXT 【Hasaki】
+<enT0483>"You don't understand! You're only saying that because you don't understand!"
+<ptT0483>"You don't understand! You're only saying that because you don't understand!"
+
+//TEXT 【Tomosane】
+<enT0484>"That's not true!"
+<ptT0484>"That's not true!"
+
+//TEXT 【Tomosane】
+<enT0485>"It's not because I don't understand. I'm only saying this because I really do understand."
+<ptT0485>"It's not because I don't understand. I'm only saying this because I really do understand."
+
+//TEXT 【Hasaki】
+<enT0486>"Tomo Nii-san..."
+<ptT0486>"Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0487>"I only came back because there was one thing I needed to tell you."
+<ptT0487>"I only came back because there was one thing I needed to tell you."
+
+//TEXT 【Tomosane】
+<enT0488>"If I say those words, then nothing else matters."
+<ptT0488>"If I say those words, then nothing else matters."
+
+//TEXT 【Hasaki】
+<enT0489>"That's what I mean! You don't understand at all! You can't just say one thing and leave! I want to sit and talk with you more... I want to talk with you as long as I can, Tomo Nii-san!"
+<ptT0489>"That's what I mean! You don't understand at all! You can't just say one thing and leave! I want to sit and talk with you more... I want to talk with you as long as I can, Tomo Nii-san!"
+
+//TEXT 【Hasaki】
+<enT0490>"But you always make up your mind and decide things on your own."
+<ptT0490>"But you always make up your mind and decide things on your own."
+
+//TEXT 【Tomosane】
+<enT0491>"Yeah, that's right. You're right, Hasaki. I'm always being stubborn and making selfish decisions."
+<ptT0491>"Yeah, that's right. You're right, Hasaki. I'm always being stubborn and making selfish decisions."
+
+//TEXT 【Hasaki】
+<enT0492>"Then why is there just one thing? That's nowhere near enough! I want to talk to you more! Just one thing isn't enough!"
+<ptT0492>"Then why is there just one thing? That's nowhere near enough! I want to talk to you more! Just one thing isn't enough!"
+
+//TEXT 【Tomosane】
+<enT0493>"Hasaki... How many is enough? If this one thing I came to tell you isn't enough, then how many is?"
+<ptT0493>"Hasaki... How many is enough? If this one thing I came to tell you isn't enough, then how many is?"
+
+//TEXT 【Hasaki】
+<enT0494>"I don't know. I just want to talk to you more, more, more... As much as I can... That's all."
+<ptT0494>"I don't know. I just want to talk to you more, more, more... As much as I can... That's all."
+
+//TEXT 【Tomosane】
+<enT0495>"Me too..."
+<ptT0495>"Me too..."
+
+//TEXT 【Hasaki】
+<enT0496>"Huh?"
+<ptT0496>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0497>"I want to talk to you, Hasaki! Not just about one thing, but as much as I can!"
+<ptT0497>"I want to talk to you, Hasaki! Not just about one thing, but as much as I can!"
+
+//TEXT 【Tomosane】
+<enT0498>"That's why I came here tonight to tell you this one thing!"
+<ptT0498>"That's why I came here tonight to tell you this one thing!"
+
+//TEXT 【Hasaki】
+<enT0499>"Huh? You mean..."
+<ptT0499>"Huh? You mean..."
+
+//TEXT 【Tomosane】
+<enT0500>"I won't disappear! I will beat Mamiya Takuji! And I'll still be here to protect you!"
+<ptT0500>"I won't disappear! I will beat Mamiya Takuji! And I'll still be here to protect you!"
+
+//TEXT 【Hasaki】
+<enT0501>"T-Tomo Nii-san..."
+<ptT0501>"T-Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0502>"It won't be Yuki or Master protecting you... It will be me!"
+<ptT0502>"It won't be Yuki or Master protecting you... It will be me!"
+
+//TEXT 【Tomosane】
+<enT0503>"Hasaki! I'll come home alive! I'll definitely come back for you!"
+<ptT0503>"Hasaki! I'll come home alive! I'll definitely come back for you!"
+
+//TEXT 【Tomosane】
+<enT0504>"So don't worry!"
+<ptT0504>"So don't worry!"
+
+//TEXT 【Hasaki】
+<enT0505>"T-Tomo Nii-san..."
+<ptT0505>"T-Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0506>"I'll beat this stupid tranny, and then I'll beat Mamiya Takuji!"
+<ptT0506>"I'll beat this stupid tranny, and then I'll beat Mamiya Takuji!"
+
+//TEXT 【Master】
+<enT0507>"Who's a stupid tranny? That's not how you should talk to your master, especially after he just beat you up."
+<ptT0507>"Who's a stupid tranny? That's not how you should talk to your master, especially after he just beat you up."
+
+//TEXT 【Tomosane】
+<enT0508>"Sorry, Master... I shouldn't have said that, but..."
+<ptT0508>"Sorry, Master... I shouldn't have said that, but..."
+
+//TEXT 【Tomosane】
+<enT0509>"I will defeat you!"
+<ptT0509>"I will defeat you!"
+
+//TEXT 【Master】
+<enT0510>"I can see your knees quaking, you know?"
+<ptT0510>"I can see your knees quaking, you know?"
+
+//TEXT 【Tomosane】
+<enT0511>"A warrior shakes with anticipation before a battle!"
+<ptT0511>"A warrior shakes with anticipation before a battle!"
+
+//TEXT 【Master】
+<enT0512>"You've sure changed."
+<ptT0512>"You've sure changed."
+
+//TEXT 【Tomosane】
+<enT0513>"I'm fed up with all this shit. I don't care about being cool and mysterious or whatever anymore."
+<ptT0513>"I'm fed up with all this shit. I don't care about being cool and mysterious or whatever anymore."
+
+//TEXT 【Tomosane】
+<enT0514>"I'm totally done with that shit, so yeah, I've changed."
+<ptT0514>"I'm totally done with that shit, so yeah, I've changed."
+
+//TEXT
+<enT0515>He was already beaten up.
+<ptT0515>He was already beaten up.
+
+//TEXT
+<enT0516>He got knocked around by Master before I came.
+<ptT0516>He got knocked around by Master before I came.
+
+//TEXT
+<enT0517>He was covered in bruises and cuts.
+<ptT0517>He was covered in bruises and cuts.
+
+//TEXT
+<enT0518>Anyone could see that there was a difference in absolute power here.
+<ptT0518>Anyone could see that there was a difference in absolute power here.
+
+//TEXT
+<enT0519>The situation was desperate.
+<ptT0519>The situation was desperate.
+
+//TEXT
+<enT0520>And still, he fought on.
+<ptT0520>And still, he fought on.
+
+//TEXT 【Tomosane】
+<enT0521>"Master, you never could beat the master back at the dojo, my grandfather."
+<ptT0521>"Master, you never could beat the master back at the dojo, my grandfather."
+
+//TEXT 【Master】
+<enT0522>"Of course not. Who could?"
+<ptT0522>"Of course not. Who could?"
+
+//TEXT 【Master】
+<enT0523>"This school of ancient martial arts, passed down from the Sengoku Period, has just a few hundred basic techniques."
+<ptT0523>"This school of ancient martial arts, passed down from the Sengoku Period, has just a few hundred basic techniques."
+
+//TEXT 【Master】
+<enT0524>"There are tens of thousands of different combinations of those techniques."
+<ptT0524>"There are tens of thousands of different combinations of those techniques."
+
+//TEXT 【Master】
+<enT0525>"But for him, that wasn't a problem. He had some sort of primal instinct... Well, that was a very religious dojo, and each successor to the dojo had something like psychic powers."
+<ptT0525>"But for him, that wasn't a problem. He had some sort of primal instinct... Well, that was a very religious dojo, and each successor to the dojo had something like psychic powers."
+
+//TEXT 【Tomosane】
+<enT0526>"That blood flows in my veins too... That's probably what I'm feeling right now."
+<ptT0526>"That blood flows in my veins too... That's probably what I'm feeling right now."
+
+//TEXT 【Tomosane】
+<enT0527>"I gave you my word..."
+<ptT0527>"I gave you my word..."
+
+//TEXT 【Tomosane】
+<enT0528>"Now it's my turn."
+<ptT0528>"Now it's my turn."
+
+//TEXT 【Master】
+<enT0529>"Your... turn?"
+<ptT0529>"Your... turn?"
+
+//TEXT 【Tomosane】
+<enT0530>"Controlling one's dreams... I only understood the meaning of those words by standing here before you, Master, in the real world."
+<ptT0530>"Controlling one's dreams... I only understood the meaning of those words by standing here before you, Master, in the real world."
+
+//TEXT 【Master】
+<enT0531>"Grr..."
+<ptT0531>"Grr..."
+
+//TEXT 【Hasaki】
+<enT0532>"Tomo Nii-san!"
+<ptT0532>"Tomo Nii-san!"
+
+//TEXT
+<enT0533>It felt like time stopped in that moment.
+<ptT0533>It felt like time stopped in that moment.
+
+//TEXT
+<enT0534>Time stood still, not moving into the past or the future.
+<ptT0534>Time stood still, not moving into the past or the future.
+
+//TEXT
+<enT0535>Like something that simply exists.
+<ptT0535>Like something that simply exists.
+
+//TEXT
+<enT0536>The next moment seemed to stretch into eternity.
+<ptT0536>The next moment seemed to stretch into eternity.
+
+//TEXT
+<enT0537>The two silhouettes sprang into motion.
+<ptT0537>The two silhouettes sprang into motion.
+
+//TEXT 【Master】
+<enT0538>"Ugh!"
+<ptT0538>"Ugh!"
+
+//TEXT 【Master】
+<enT0539>"Whoa... Take... it easy..."
+<ptT0539>"Whoa... Take... it easy..."
+
+//TEXT 【Tomosane】
+<enT0540>"...I did it!"
+<ptT0540>"...I did it!"
+
+//TEXT
+<enT0541>
+<ptT0541>
+
+//TEXT 【Hasaki】
+<enT0542>"Tomo Nii-san! You're covered in bruises..."
+<ptT0542>"Tomo Nii-san! You're covered in bruises..."
+
+//TEXT 【Kimura】
+<enT0543>"Wow... He won."
+<ptT0543>"Wow... He won."
+
+//TEXT 【Master】
+<enT0544>"Hey, isn't anyone worried about me?"
+<ptT0544>"Hey, isn't anyone worried about me?"
+
+//TEXT 【Hasaki】
+<enT0545>"Does it hurt?"
+<ptT0545>"Does it hurt?"
+
+//TEXT 【Tomosane】
+<enT0546>"I would be lying if I said it didn't."
+<ptT0546>"I would be lying if I said it didn't."
+
+//TEXT
+<enT0547>I went and got the medicine box.
+<ptT0547>I went and got the medicine box.
+
+//TEXT
+<enT0548>Why did he have to get beaten up right after he came back?
+<ptT0548>Why did he have to get beaten up right after he came back?
+
+//TEXT
+<enT0549>He's just like he always was.
+<ptT0549>He's just like he always was.
+
+//TEXT
+<enT0550>Every time Tomo Nii-san comes back to me, it's just like this.
+<ptT0550>Every time Tomo Nii-san comes back to me, it's just like this.
+
+//TEXT 【Hasaki】
+<enT0551>"You're covered in bruises."
+<ptT0551>"You're covered in bruises."
+
+//TEXT 【Tomosane】
+<enT0552>"Well, I got in a bit of a fight. Of course I am."
+<ptT0552>"Well, I got in a bit of a fight. Of course I am."
+
+//TEXT
+<enT0553>Every time you come back, you look like this...
+<ptT0553>Every time you come back, you look like this...
+
+//TEXT
+<enT0554>I almost said that, but then I stopped.
+<ptT0554>I almost said that, but then I stopped.
+
+//TEXT
+<enT0555>Tomo Nii-san had no memory of the distant past.
+<ptT0555>Tomo Nii-san had no memory of the distant past.
+
+//TEXT
+<enT0556>He was convinced that he was actually Mamiya Takuji, and his personality was just created by Takuji Nii-san.
+<ptT0556>He was convinced that he was actually Mamiya Takuji, and his personality was just created by Takuji Nii-san.
+
+//TEXT
+<enT0557>So... Tomo Nii-san had thrown away all of his own memories.
+<ptT0557>So... Tomo Nii-san had thrown away all of his own memories.
+
+//TEXT
+<enT0558>And all of our happy days in Sawaimura, too.
+<ptT0558>And all of our happy days in Sawaimura, too.
+
+//TEXT 【Hasaki】
+<enT0559>"Why would you do that? Jeez, Tomo Nii-san..."
+<ptT0559>"Why would you do that? Jeez, Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0560>"I told you. I did it so I could protect you."
+<ptT0560>"I told you. I did it so I could protect you."
+
+//TEXT 【Hasaki】
+<enT0561>"But..."
+<ptT0561>"But..."
+
+//TEXT 【Tomosane】
+<enT0562>"So that I can be with you from now on."
+<ptT0562>"So that I can be with you from now on."
+
+//TEXT 【Hasaki】
+<enT0563>"You'll be with me... from now on?"
+<ptT0563>"You'll be with me... from now on?"
+
+//TEXT 【Tomosane】
+<enT0564>"Yeah, that's right."
+<ptT0564>"Yeah, that's right."
+
+//TEXT 【Hasaki】
+<enT0565>"Tomo Nii-san, you won't go away?"
+<ptT0565>"Tomo Nii-san, you won't go away?"
+
+//TEXT 【Tomosane】
+<enT0566>"Of course not. I'm not going anywhere. We can talk for as long as you want."
+<ptT0566>"Of course not. I'm not going anywhere. We can talk for as long as you want."
+
+//TEXT 【Hasaki】
+<enT0567>"Really?"
+<ptT0567>"Really?"
+
+//TEXT 【Tomosane】
+<enT0568>"Really."
+<ptT0568>"Really."
+
+//TEXT 【Hasaki】
+<enT0569>"But you always lie to me like that."
+<ptT0569>"But you always lie to me like that."
+
+//TEXT 【Tomosane】
+<enT0570>"Heh... I guess I do."
+<ptT0570>"Heh... I guess I do."
+
+//TEXT 【Hasaki】
+<enT0571>"Honestly, I want to tie you up with duct tape so you can't go anywhere."
+<ptT0571>"Honestly, I want to tie you up with duct tape so you can't go anywhere."
+
+//TEXT 【Tomosane】
+<enT0572>"That might work."
+<ptT0572>"That might work."
+
+//TEXT 【Hasaki】
+<enT0573>"Yeah, but..."
+<ptT0573>"Yeah, but..."
+
+//TEXT 【Hasaki】
+<enT0574>"I believe in you, Tomo Nii-san..."
+<ptT0574>"I believe in you, Tomo Nii-san..."
+
+//TEXT 【Hasaki】
+<enT0575>"I've been betrayed so many times before, but I still believe in you, Tomo Nii-san."
+<ptT0575>"I've been betrayed so many times before, but I still believe in you, Tomo Nii-san."
+
+//TEXT 【Tomosane】
+<enT0576>"Why? I'm such a good-for-nothing brother."
+<ptT0576>"Why? I'm such a good-for-nothing brother."
+
+//TEXT 【Hasaki】
+<enT0577>"Because you're my hero."
+<ptT0577>"Because you're my hero."
+
+//TEXT 【Tomosane】
+<enT0578>"Hero?"
+<ptT0578>"Hero?"
+
+//TEXT 【Hasaki】
+<enT0579>"That's right. The hero is stronger than the savior."
+<ptT0579>"That's right. The hero is stronger than the savior."
+
+//TEXT 【Tomosane】
+<enT0580>"What? That doesn't make any sense."
+<ptT0580>"What? That doesn't make any sense."
+
+//TEXT 【Hasaki】
+<enT0581>"But it's true."
+<ptT0581>"But it's true."
+
+//TEXT 【Tomosane】
+<enT0582>"You're right."
+<ptT0582>"You're right."
+
+//TEXT 【Tomosane】
+<enT0583>"I'm stronger than him."
+<ptT0583>"I'm stronger than him."
+
+//TEXT 【Tomosane】
+<enT0584>"I definitely won't lose."
+<ptT0584>"I definitely won't lose."
+
+//TEXT
+<enT0585>My promise with Tomo Nii-san.
+<ptT0585>My promise with Tomo Nii-san.
+
+//TEXT
+<enT0586>He broke the last promise, but...
+<ptT0586>He broke the last promise, but...
+
+//TEXT
+<enT0587>I still believe.
+<ptT0587>I still believe.
+
+//TEXT
+<enT0588>Because he's my brother, and he's my hero.
+<ptT0588>Because he's my brother, and he's my hero.
+
+//TEXT
+<enT0589>So I'll believe in him.
+<ptT0589>So I'll believe in him.
+
+///================================================================================
+
+//OTHER
+<enZ0001>5_0717.bss
+<ptZ0001>5_0717.bss
+
+//OTHER
+<enZ0002>July 17th
+<ptZ0002>July 17th
+
+//OTHER
+<enZ0003>Which Dreamed It
+<ptZ0003>Which Dreamed It
+
+//OTHER
+<enZ0004>map023
+<ptZ0004>map023
+
+//OTHER
+<enZ0005>dayhs0717
+<ptZ0005>dayhs0717
+
+//OTHER
+<enZ0006>se241
+<ptZ0006>se241
+
+//OTHER
+<enZ0007>hasa_001051
+<ptZ0007>hasa_001051
+
+//OTHER
+<enZ0008>bg1030c
+<ptZ0008>bg1030c
+
+//OTHER
+<enZ0009>bgm013
+<ptZ0009>bgm013
+
+//OTHER
+<enZ0010>hasa_001052
+<ptZ0010>hasa_001052
+
+//OTHER
+<enZ0011>hasa_001053
+<ptZ0011>hasa_001053
+
+//OTHER
+<enZ0012>hasa_001054
+<ptZ0012>hasa_001054
+
+//OTHER
+<enZ0013>hasa_001055
+<ptZ0013>hasa_001055
+
+//OTHER
+<enZ0014>hasa_001056
+<ptZ0014>hasa_001056
+
+//OTHER
+<enZ0015>hasa_001057
+<ptZ0015>hasa_001057
+
+//OTHER
+<enZ0016>hasa_001058
+<ptZ0016>hasa_001058
+
+//OTHER
+<enZ0017>hasa_001059
+<ptZ0017>hasa_001059
+
+//OTHER
+<enZ0018>hasa_001060
+<ptZ0018>hasa_001060
+
+//OTHER
+<enZ0019>hasa_001061
+<ptZ0019>hasa_001061
+
+//OTHER
+<enZ0020>hasa_001062
+<ptZ0020>hasa_001062
+
+//OTHER
+<enZ0021>hasa_001063
+<ptZ0021>hasa_001063
+
+//OTHER
+<enZ0022>hasa_001064
+<ptZ0022>hasa_001064
+
+//OTHER
+<enZ0023>hasa_001065
+<ptZ0023>hasa_001065
+
+//OTHER
+<enZ0024>hasa_001066
+<ptZ0024>hasa_001066
+
+//OTHER
+<enZ0025>hasa_001067
+<ptZ0025>hasa_001067
+
+//OTHER
+<enZ0026>hasa_001068
+<ptZ0026>hasa_001068
+
+//OTHER
+<enZ0027>hasa_001069
+<ptZ0027>hasa_001069
+
+//OTHER
+<enZ0028>hasa_001070
+<ptZ0028>hasa_001070
+
+//OTHER
+<enZ0029>hasa_001071
+<ptZ0029>hasa_001071
+
+//OTHER
+<enZ0030>se242
+<ptZ0030>se242
+
+//OTHER
+<enZ0031>hasa_001072
+<ptZ0031>hasa_001072
+
+//OTHER
+<enZ0032>bgm114
+<ptZ0032>bgm114
+
+//OTHER
+<enZ0033>hasa_001073
+<ptZ0033>hasa_001073
+
+//OTHER
+<enZ0034>hasa_001074
+<ptZ0034>hasa_001074
+
+//OTHER
+<enZ0035>hasa_001075
+<ptZ0035>hasa_001075
+
+//OTHER
+<enZ0036>hasa_001076
+<ptZ0036>hasa_001076
+
+//OTHER
+<enZ0037>hasa_001077
+<ptZ0037>hasa_001077
+
+//OTHER
+<enZ0038>map017
+<ptZ0038>map017
+
+//OTHER
+<enZ0039>se272
+<ptZ0039>se272
+
+//OTHER
+<enZ0040>black
+<ptZ0040>black
+
+//OTHER
+<enZ0041>se912
+<ptZ0041>se912
+
+//OTHER
+<enZ0042>sp0011c
+<ptZ0042>sp0011c
+
+//OTHER
+<enZ0043>sp0013_window3
+<ptZ0043>sp0013_window3
+
+//OTHER
+<enZ0044>hasa_001078
+<ptZ0044>hasa_001078
+
+//OTHER
+<enZ0045>hasa_001079
+<ptZ0045>hasa_001079
+
+//OTHER
+<enZ0046>map001
+<ptZ0046>map001
+
+//OTHER
+<enZ0047>bg1001d
+<ptZ0047>bg1001d
+
+//OTHER
+<enZ0048>hasa_001080
+<ptZ0048>hasa_001080
+
+//OTHER
+<enZ0049>bg1002c
+<ptZ0049>bg1002c
+
+//OTHER
+<enZ0050>tkj0000b
+<ptZ0050>tkj0000b
+
+//OTHER
+<enZ0051>bg1003e
+<ptZ0051>bg1003e
+
+//OTHER
+<enZ0052>taku_005385
+<ptZ0052>taku_005385
+
+//OTHER
+<enZ0053>taku_005386
+<ptZ0053>taku_005386
+
+//OTHER
+<enZ0054>taku_005387
+<ptZ0054>taku_005387
+
+//OTHER
+<enZ0055>taku_005388
+<ptZ0055>taku_005388
+
+//OTHER
+<enZ0056>hasa_001081
+<ptZ0056>hasa_001081
+
+//OTHER
+<enZ0057>taku_005389
+<ptZ0057>taku_005389
+
+//OTHER
+<enZ0058>se917
+<ptZ0058>se917
+
+//OTHER
+<enZ0059>taku_005390
+<ptZ0059>taku_005390
+
+//OTHER
+<enZ0060>hasa_001082
+<ptZ0060>hasa_001082
+
+//OTHER
+<enZ0061>bgm109
+<ptZ0061>bgm109
+
+//OTHER
+<enZ0062>taku_005391
+<ptZ0062>taku_005391
+
+//OTHER
+<enZ0063>taku_005392
+<ptZ0063>taku_005392
+
+//OTHER
+<enZ0064>se650
+<ptZ0064>se650
+
+//OTHER
+<enZ0065>se648
+<ptZ0065>se648
+
+//OTHER
+<enZ0066>map003
+<ptZ0066>map003
+
+//OTHER
+<enZ0067>sp0057a
+<ptZ0067>sp0057a
+
+//OTHER
+<enZ0068>taku_005393
+<ptZ0068>taku_005393
+
+//OTHER
+<enZ0069>taku_005394
+<ptZ0069>taku_005394
+
+//OTHER
+<enZ0070>taku_005395
+<ptZ0070>taku_005395
+
+//OTHER
+<enZ0071>taku_005396
+<ptZ0071>taku_005396
+
+//OTHER
+<enZ0072>taku_005397
+<ptZ0072>taku_005397
+
+//OTHER
+<enZ0073>taku_005398
+<ptZ0073>taku_005398
+
+//OTHER
+<enZ0074>hasa_001083
+<ptZ0074>hasa_001083
+
+//OTHER
+<enZ0075>hasa_001084
+<ptZ0075>hasa_001084
+
+//OTHER
+<enZ0076>taku_005399
+<ptZ0076>taku_005399
+
+//OTHER
+<enZ0077>taku_005400
+<ptZ0077>taku_005400
+
+//OTHER
+<enZ0078>taku_005401
+<ptZ0078>taku_005401
+
+//OTHER
+<enZ0079>taku_005402
+<ptZ0079>taku_005402
+
+//OTHER
+<enZ0080>taku_005403
+<ptZ0080>taku_005403
+
+//OTHER
+<enZ0081>taku_005404
+<ptZ0081>taku_005404
+
+//OTHER
+<enZ0082>tkj3008
+<ptZ0082>tkj3008
+
+//OTHER
+<enZ0083>taku_005405
+<ptZ0083>taku_005405
+
+//OTHER
+<enZ0084>hasa_001085
+<ptZ0084>hasa_001085
+
+//OTHER
+<enZ0085>hasa_001086
+<ptZ0085>hasa_001086
+
+//OTHER
+<enZ0086>taku_005406
+<ptZ0086>taku_005406
+
+//OTHER
+<enZ0087>hasa_001087
+<ptZ0087>hasa_001087
+
+//OTHER
+<enZ0088>hasa_001088
+<ptZ0088>hasa_001088
+
+//OTHER
+<enZ0089>se020
+<ptZ0089>se020
+
+//OTHER
+<enZ0090>taku_005407
+<ptZ0090>taku_005407
+
+//OTHER
+<enZ0091>hasa_001089
+<ptZ0091>hasa_001089
+
+//OTHER
+<enZ0092>hasa_001090
+<ptZ0092>hasa_001090
+
+//OTHER
+<enZ0093>hasa_001091
+<ptZ0093>hasa_001091
+
+//OTHER
+<enZ0094>kmr0000a
+<ptZ0094>kmr0000a
+
+//OTHER
+<enZ0095>map006
+<ptZ0095>map006
+
+//OTHER
+<enZ0096>hasa_001092
+<ptZ0096>hasa_001092
+
+//OTHER
+<enZ0097>kmr0030a
+<ptZ0097>kmr0030a
+
+//OTHER
+<enZ0098>hasa_001093
+<ptZ0098>hasa_001093
+
+//OTHER
+<enZ0099>hasa_001094
+<ptZ0099>hasa_001094
+
+//OTHER
+<enZ0100>hasa_001095
+<ptZ0100>hasa_001095
+
+//OTHER
+<enZ0101>kmr0033a
+<ptZ0101>kmr0033a
+
+//OTHER
+<enZ0102>hasa_001096
+<ptZ0102>hasa_001096
+
+//OTHER
+<enZ0103>hasa_001097
+<ptZ0103>hasa_001097
+
+//OTHER
+<enZ0104>hasa_001098
+<ptZ0104>hasa_001098
+
+//OTHER
+<enZ0105>hasa_001099
+<ptZ0105>hasa_001099
+
+//OTHER
+<enZ0106>hasa_001100
+<ptZ0106>hasa_001100
+
+//OTHER
+<enZ0107>hasa_001101
+<ptZ0107>hasa_001101
+
+//OTHER
+<enZ0108>hasa_001102
+<ptZ0108>hasa_001102
+
+//OTHER
+<enZ0109>hasa_001103
+<ptZ0109>hasa_001103
+
+//OTHER
+<enZ0110>hasa_001104
+<ptZ0110>hasa_001104
+
+//OTHER
+<enZ0111>hasa_001105
+<ptZ0111>hasa_001105
+
+//OTHER
+<enZ0112>hasa_001106
+<ptZ0112>hasa_001106
+
+//OTHER
+<enZ0113>hasa_001107
+<ptZ0113>hasa_001107
+
+//OTHER
+<enZ0114>hasa_001108
+<ptZ0114>hasa_001108
+
+//OTHER
+<enZ0115>hasa_001109
+<ptZ0115>hasa_001109
+
+//OTHER
+<enZ0116>hasa_001110
+<ptZ0116>hasa_001110
+
+//OTHER
+<enZ0117>hasa_001111
+<ptZ0117>hasa_001111
+
+//OTHER
+<enZ0118>hasa_001112
+<ptZ0118>hasa_001112
+
+//OTHER
+<enZ0119>kmr0034a
+<ptZ0119>kmr0034a
+
+//OTHER
+<enZ0120>hasa_001113
+<ptZ0120>hasa_001113
+
+//OTHER
+<enZ0121>hasa_001114
+<ptZ0121>hasa_001114
+
+//OTHER
+<enZ0122>hasa_001115
+<ptZ0122>hasa_001115
+
+//OTHER
+<enZ0123>bgm016
+<ptZ0123>bgm016
+
+//OTHER
+<enZ0124>hasa_001116
+<ptZ0124>hasa_001116
+
+//OTHER
+<enZ0125>hasa_001117
+<ptZ0125>hasa_001117
+
+//OTHER
+<enZ0126>kmr0002a
+<ptZ0126>kmr0002a
+
+//OTHER
+<enZ0127>kmr0003a
+<ptZ0127>kmr0003a
+
+//OTHER
+<enZ0128>hasa_001118
+<ptZ0128>hasa_001118
+
+//OTHER
+<enZ0129>hasa_001119
+<ptZ0129>hasa_001119
+
+//OTHER
+<enZ0130>hasa_001120
+<ptZ0130>hasa_001120
+
+//OTHER
+<enZ0131>hasa_001121
+<ptZ0131>hasa_001121
+
+//OTHER
+<enZ0132>kmr0009a
+<ptZ0132>kmr0009a
+
+//OTHER
+<enZ0133>hasa_001122
+<ptZ0133>hasa_001122
+
+//OTHER
+<enZ0134>kmr0031a
+<ptZ0134>kmr0031a
+
+//OTHER
+<enZ0135>kmr0000a_l
+<ptZ0135>kmr0000a_l
+
+//OTHER
+<enZ0136>hasa_001123
+<ptZ0136>hasa_001123
+
+//OTHER
+<enZ0137>kmr0002a_l
+<ptZ0137>kmr0002a_l
+
+//OTHER
+<enZ0138>hasa_001124
+<ptZ0138>hasa_001124
+
+//OTHER
+<enZ0139>kmr0007a_l
+<ptZ0139>kmr0007a_l
+
+//OTHER
+<enZ0140>map011
+<ptZ0140>map011
+
+//OTHER
+<enZ0141>map021
+<ptZ0141>map021
+
+//OTHER
+<enZ0142>sp0084a
+<ptZ0142>sp0084a
+
+//OTHER
+<enZ0143>bgm017
+<ptZ0143>bgm017
+
+//OTHER
+<enZ0144>bgm003
+<ptZ0144>bgm003
+
+//OTHER
+<enZ0145>bg1030a
+<ptZ0145>bg1030a
+
+//OTHER
+<enZ0146>bgm102
+<ptZ0146>bgm102
+
+//OTHER
+<enZ0147>tkj2000
+<ptZ0147>tkj2000
+
+//OTHER
+<enZ0148>hasa_001125
+<ptZ0148>hasa_001125
+
+//OTHER
+<enZ0149>tkj2001
+<ptZ0149>tkj2001
+
+//OTHER
+<enZ0150>tomo_000000
+<ptZ0150>tomo_000000
+
+//OTHER
+<enZ0151>hasa_000616
+<ptZ0151>hasa_000616
+
+//OTHER
+<enZ0152>tkj2009
+<ptZ0152>tkj2009
+
+//OTHER
+<enZ0153>tomo_000001
+<ptZ0153>tomo_000001
+
+//OTHER
+<enZ0154>tkj2009_l
+<ptZ0154>tkj2009_l
+
+//OTHER
+<enZ0155>se521
+<ptZ0155>se521
+
+//OTHER
+<enZ0156>tkj2001_l
+<ptZ0156>tkj2001_l
+
+//OTHER
+<enZ0157>map004
+<ptZ0157>map004
+
+//OTHER
+<enZ0158>hasa_000617
+<ptZ0158>hasa_000617
+
+//OTHER
+<enZ0159>tkj2000_l
+<ptZ0159>tkj2000_l
+
+//OTHER
+<enZ0160>tomo_000002
+<ptZ0160>tomo_000002
+
+//OTHER
+<enZ0161>hasa_000618
+<ptZ0161>hasa_000618
+
+//OTHER
+<enZ0162>tkj2004_l
+<ptZ0162>tkj2004_l
+
+//OTHER
+<enZ0163>tomo_000003
+<ptZ0163>tomo_000003
+
+//OTHER
+<enZ0164>ms0000
+<ptZ0164>ms0000
+
+//OTHER
+<enZ0165>tomo_000004
+<ptZ0165>tomo_000004
+
+//OTHER
+<enZ0166>ms0001
+<ptZ0166>ms0001
+
+//OTHER
+<enZ0167>tkj2008
+<ptZ0167>tkj2008
+
+//OTHER
+<enZ0168>tomo_000005
+<ptZ0168>tomo_000005
+
+//OTHER
+<enZ0169>ms0006
+<ptZ0169>ms0006
+
+//OTHER
+<enZ0170>tomo_000006
+<ptZ0170>tomo_000006
+
+//OTHER
+<enZ0171>tomo_000007
+<ptZ0171>tomo_000007
+
+//OTHER
+<enZ0172>ms0003
+<ptZ0172>ms0003
+
+//OTHER
+<enZ0173>tomo_000008
+<ptZ0173>tomo_000008
+
+//OTHER
+<enZ0174>tomo_000009
+<ptZ0174>tomo_000009
+
+//OTHER
+<enZ0175>tomo_000010
+<ptZ0175>tomo_000010
+
+//OTHER
+<enZ0176>tkj2004
+<ptZ0176>tkj2004
+
+//OTHER
+<enZ0177>tomo_000011
+<ptZ0177>tomo_000011
+
+//OTHER
+<enZ0178>tomo_000012
+<ptZ0178>tomo_000012
+
+//OTHER
+<enZ0179>tkj2005
+<ptZ0179>tkj2005
+
+//OTHER
+<enZ0180>tomo_000013
+<ptZ0180>tomo_000013
+
+//OTHER
+<enZ0181>ms0009
+<ptZ0181>ms0009
+
+//OTHER
+<enZ0182>tkj2109
+<ptZ0182>tkj2109
+
+//OTHER
+<enZ0183>tomo_000014
+<ptZ0183>tomo_000014
+
+//OTHER
+<enZ0184>tkj2010
+<ptZ0184>tkj2010
+
+//OTHER
+<enZ0185>tomo_000015
+<ptZ0185>tomo_000015
+
+//OTHER
+<enZ0186>tomo_000016
+<ptZ0186>tomo_000016
+
+//OTHER
+<enZ0187>hasa_000619
+<ptZ0187>hasa_000619
+
+//OTHER
+<enZ0188>tomo_000017
+<ptZ0188>tomo_000017
+
+//OTHER
+<enZ0189>hasa_000620
+<ptZ0189>hasa_000620
+
+//OTHER
+<enZ0190>tomo_000018
+<ptZ0190>tomo_000018
+
+//OTHER
+<enZ0191>hasa_000621
+<ptZ0191>hasa_000621
+
+//OTHER
+<enZ0192>tomo_000019
+<ptZ0192>tomo_000019
+
+//OTHER
+<enZ0193>ms0010
+<ptZ0193>ms0010
+
+//OTHER
+<enZ0194>tomo_000020
+<ptZ0194>tomo_000020
+
+//OTHER
+<enZ0195>tomo_000021
+<ptZ0195>tomo_000021
+
+//OTHER
+<enZ0196>tomo_000022
+<ptZ0196>tomo_000022
+
+//OTHER
+<enZ0197>hasa_000622
+<ptZ0197>hasa_000622
+
+//OTHER
+<enZ0198>hasa_000623
+<ptZ0198>hasa_000623
+
+//OTHER
+<enZ0199>tomo_000023
+<ptZ0199>tomo_000023
+
+//OTHER
+<enZ0200>hasa_000624
+<ptZ0200>hasa_000624
+
+//OTHER
+<enZ0201>tomo_000024
+<ptZ0201>tomo_000024
+
+//OTHER
+<enZ0202>hasa_001126
+<ptZ0202>hasa_001126
+
+//OTHER
+<enZ0203>hasa_001127
+<ptZ0203>hasa_001127
+
+//OTHER
+<enZ0204>hasa_001128
+<ptZ0204>hasa_001128
+
+//OTHER
+<enZ0205>hasa_001129
+<ptZ0205>hasa_001129
+
+//OTHER
+<enZ0206>hasa_001130
+<ptZ0206>hasa_001130
+
+//OTHER
+<enZ0207>hasa_001131
+<ptZ0207>hasa_001131
+
+//OTHER
+<enZ0208>hasa_001132
+<ptZ0208>hasa_001132
+
+//OTHER
+<enZ0209>hasa_001133
+<ptZ0209>hasa_001133
+
+//OTHER
+<enZ0210>se624
+<ptZ0210>se624
+
+//OTHER
+<enZ0211>hasa_001134
+<ptZ0211>hasa_001134
+
+//OTHER
+<enZ0212>hasa_001135
+<ptZ0212>hasa_001135
+
+//OTHER
+<enZ0213>se049
+<ptZ0213>se049
+
+//OTHER
+<enZ0214>hasa_000625
+<ptZ0214>hasa_000625
+
+//OTHER
+<enZ0215>tkj5012
+<ptZ0215>tkj5012
+
+//OTHER
+<enZ0216>ms0033
+<ptZ0216>ms0033
+
+//OTHER
+<enZ0217>bg1052a
+<ptZ0217>bg1052a
+
+//OTHER
+<enZ0218>bgm024
+<ptZ0218>bgm024
+
+//OTHER
+<enZ0219>tomo_000025
+<ptZ0219>tomo_000025
+
+//OTHER
+<enZ0220>hasa_000626
+<ptZ0220>hasa_000626
+
+//OTHER
+<enZ0221>tkj5004
+<ptZ0221>tkj5004
+
+//OTHER
+<enZ0222>tomo_000026
+<ptZ0222>tomo_000026
+
+//OTHER
+<enZ0223>hasa_000627
+<ptZ0223>hasa_000627
+
+//OTHER
+<enZ0224>hasa_000628
+<ptZ0224>hasa_000628
+
+//OTHER
+<enZ0225>hasa_000629
+<ptZ0225>hasa_000629
+
+//OTHER
+<enZ0226>tkj5000
+<ptZ0226>tkj5000
+
+//OTHER
+<enZ0227>tomo_000027
+<ptZ0227>tomo_000027
+
+//OTHER
+<enZ0228>hasa_000630
+<ptZ0228>hasa_000630
+
+//OTHER
+<enZ0229>tomo_000028
+<ptZ0229>tomo_000028
+
+//OTHER
+<enZ0230>tomo_000029
+<ptZ0230>tomo_000029
+
+//OTHER
+<enZ0231>hasa_000631
+<ptZ0231>hasa_000631
+
+//OTHER
+<enZ0232>tomo_000030
+<ptZ0232>tomo_000030
+
+//OTHER
+<enZ0233>tomo_000031
+<ptZ0233>tomo_000031
+
+//OTHER
+<enZ0234>hasa_000632
+<ptZ0234>hasa_000632
+
+//OTHER
+<enZ0235>hasa_000633
+<ptZ0235>hasa_000633
+
+//OTHER
+<enZ0236>tomo_000032
+<ptZ0236>tomo_000032
+
+//OTHER
+<enZ0237>hasa_000634
+<ptZ0237>hasa_000634
+
+//OTHER
+<enZ0238>tomo_000033
+<ptZ0238>tomo_000033
+
+//OTHER
+<enZ0239>hasa_000635
+<ptZ0239>hasa_000635
+
+//OTHER
+<enZ0240>tkj5002
+<ptZ0240>tkj5002
+
+//OTHER
+<enZ0241>tomo_000034
+<ptZ0241>tomo_000034
+
+//OTHER
+<enZ0242>hasa_000636
+<ptZ0242>hasa_000636
+
+//OTHER
+<enZ0243>tomo_000035
+<ptZ0243>tomo_000035
+
+//OTHER
+<enZ0244>tomo_000036
+<ptZ0244>tomo_000036
+
+//OTHER
+<enZ0245>hasa_000637
+<ptZ0245>hasa_000637
+
+//OTHER
+<enZ0246>tomo_000037
+<ptZ0246>tomo_000037
+
+//OTHER
+<enZ0247>hasa_000638
+<ptZ0247>hasa_000638
+
+//OTHER
+<enZ0248>tomo_000038
+<ptZ0248>tomo_000038
+
+//OTHER
+<enZ0249>tomo_000039
+<ptZ0249>tomo_000039
+
+//OTHER
+<enZ0250>tomo_000040
+<ptZ0250>tomo_000040
+
+//OTHER
+<enZ0251>hasa_000639
+<ptZ0251>hasa_000639
+
+//OTHER
+<enZ0252>tomo_000041
+<ptZ0252>tomo_000041
+
+//OTHER
+<enZ0253>ms0060
+<ptZ0253>ms0060
+
+//OTHER
+<enZ0254>tomo_000042
+<ptZ0254>tomo_000042
+
+//OTHER
+<enZ0255>tomo_000043
+<ptZ0255>tomo_000043
+
+//OTHER
+<enZ0256>tkj5008
+<ptZ0256>tkj5008
+
+//OTHER
+<enZ0257>tomo_000044
+<ptZ0257>tomo_000044
+
+//OTHER
+<enZ0258>tomo_000045
+<ptZ0258>tomo_000045
+
+//OTHER
+<enZ0259>tomo_000046
+<ptZ0259>tomo_000046
+
+//OTHER
+<enZ0260>tomo_000047
+<ptZ0260>tomo_000047
+
+//OTHER
+<enZ0261>tomo_000049
+<ptZ0261>tomo_000049
+
+//OTHER
+<enZ0262>tkj5013
+<ptZ0262>tkj5013
+
+//OTHER
+<enZ0263>tomo_000050
+<ptZ0263>tomo_000050
+
+//OTHER
+<enZ0264>tomo_000051
+<ptZ0264>tomo_000051
+
+//OTHER
+<enZ0265>tomo_000052
+<ptZ0265>tomo_000052
+
+//OTHER
+<enZ0266>hasa_000640
+<ptZ0266>hasa_000640
+
+//OTHER
+<enZ0267>se072
+<ptZ0267>se072
+
+//OTHER
+<enZ0268>map0300b
+<ptZ0268>map0300b
+
+//OTHER
+<enZ0269>bgm002
+<ptZ0269>bgm002
+
+//OTHER
+<enZ0270>sp0300e
+<ptZ0270>sp0300e
+
+//OTHER
+<enZ0271>tkj5013_l
+<ptZ0271>tkj5013_l
+
+//OTHER
+<enZ0272>map027
+<ptZ0272>map027
+
+//OTHER
+<enZ0273>white
+<ptZ0273>white
+
+//OTHER
+<enZ0274>ms0009_l
+<ptZ0274>ms0009_l
+
+//OTHER
+<enZ0275>tkj5008_l
+<ptZ0275>tkj5008_l
+
+//OTHER
+<enZ0276>tkj2003_l
+<ptZ0276>tkj2003_l
+
+//OTHER
+<enZ0277>tomo_000053
+<ptZ0277>tomo_000053
+
+//OTHER
+<enZ0278>hasa_000641
+<ptZ0278>hasa_000641
+
+//OTHER
+<enZ0279>ms0007_l
+<ptZ0279>ms0007_l
+
+//OTHER
+<enZ0280>hasa_000642
+<ptZ0280>hasa_000642
+
+//OTHER
+<enZ0281>tomo_000054
+<ptZ0281>tomo_000054
+
+//OTHER
+<enZ0282>ev4004c
+<ptZ0282>ev4004c
+
+//OTHER
+<enZ0283>bgm006
+<ptZ0283>bgm006
+
+//OTHER
+<enZ0284>hasa_000643
+<ptZ0284>hasa_000643
+
+//OTHER
+<enZ0285>tomo_000055
+<ptZ0285>tomo_000055
+
+//OTHER
+<enZ0286>hasa_000644
+<ptZ0286>hasa_000644
+
+//OTHER
+<enZ0287>tomo_000056
+<ptZ0287>tomo_000056
+
+//OTHER
+<enZ0288>hasa_000645
+<ptZ0288>hasa_000645
+
+//OTHER
+<enZ0289>tomo_000057
+<ptZ0289>tomo_000057
+
+//OTHER
+<enZ0290>hasa_000646
+<ptZ0290>hasa_000646
+
+//OTHER
+<enZ0291>tomo_000058
+<ptZ0291>tomo_000058
+
+//OTHER
+<enZ0292>hasa_000647
+<ptZ0292>hasa_000647
+
+//OTHER
+<enZ0293>tomo_000059
+<ptZ0293>tomo_000059
+
+//OTHER
+<enZ0294>hasa_000648
+<ptZ0294>hasa_000648
+
+//OTHER
+<enZ0295>tomo_000060
+<ptZ0295>tomo_000060
+
+//OTHER
+<enZ0296>hasa_000649
+<ptZ0296>hasa_000649
+
+//OTHER
+<enZ0297>tomo_000061
+<ptZ0297>tomo_000061
+
+//OTHER
+<enZ0298>hasa_000650
+<ptZ0298>hasa_000650
+
+//OTHER
+<enZ0299>tomo_000062
+<ptZ0299>tomo_000062
+
+//OTHER
+<enZ0300>hasa_000651
+<ptZ0300>hasa_000651
+
+//OTHER
+<enZ0301>hasa_000652
+<ptZ0301>hasa_000652
+
+//OTHER
+<enZ0302>hasa_000653
+<ptZ0302>hasa_000653
+
+//OTHER
+<enZ0303>tomo_000063
+<ptZ0303>tomo_000063
+
+//OTHER
+<enZ0304>hasa_000654
+<ptZ0304>hasa_000654
+
+//OTHER
+<enZ0305>tomo_000064
+<ptZ0305>tomo_000064
+
+//OTHER
+<enZ0306>hasa_000655
+<ptZ0306>hasa_000655
+
+//OTHER
+<enZ0307>tomo_000065
+<ptZ0307>tomo_000065
+
+//OTHER
+<enZ0308>hasa_000656
+<ptZ0308>hasa_000656
+
+//OTHER
+<enZ0309>tomo_000066
+<ptZ0309>tomo_000066
+
+//OTHER
+<enZ0310>tomo_000067
+<ptZ0310>tomo_000067
+
+//OTHER
+<enZ0311>tomo_000068
+<ptZ0311>tomo_000068
+
+//OTHER
+<enZ0312>5_0718
+<ptZ0312>5_0718
+

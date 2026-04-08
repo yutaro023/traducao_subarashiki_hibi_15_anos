@@ -1,0 +1,5488 @@
+//NAME
+<enN0001>Kimika
+<ptN0001>Kimika
+
+//NAME
+<enN0002>Zakuro
+<ptN0002>Zakuro
+
+//NAME
+<enN0003>Satoko
+<ptN0003>Satoko
+
+//NAME
+<enN0004>Megu
+<ptN0004>Megu
+
+//NAME
+<enN0005>Senagawa
+<ptN0005>Senagawa
+
+//NAME
+<enN0006>Teacher
+<ptN0006>Teacher
+
+//NAME
+<enN0007>Shiroyama
+<ptN0007>Shiroyama
+
+//NAME
+<enN0008>Iida
+<ptN0008>Iida
+
+//NAME
+<enN0009>Nishimura
+<ptN0009>Nishimura
+
+//NAME
+<enN0010>Takuji
+<ptN0010>Takuji
+
+//NAME
+<enN0011>Mamiya
+<ptN0011>Mamiya
+
+///================================================================================
+
+//TEXT 【Kimika】
+<enT0001>"Haa... I should've seen this coming."
+<ptT0001>"Haa... I should've seen this coming."
+
+//TEXT 【Zakuro】
+<enT0002>"...A vase of flowers on my desk."
+<ptT0002>"...A vase of flowers on my desk."
+
+//TEXT 【Kimika】
+<enT0003>"I don't know whether to call it a classic... or just say they have no creativity... Don't worry about it, Zakuro."
+<ptT0003>"I don't know whether to call it a classic... or just say they have no creativity... Don't worry about it, Zakuro."
+
+//TEXT 【Zakuro】
+<enT0004>"O-Okay..."
+<ptT0004>"O-Okay..."
+
+//TEXT
+<enT0005>They looked at us differently.
+<ptT0005>They looked at us differently.
+
+//TEXT
+<enT0006>The moment we entered the classroom, the atmosphere changed.
+<ptT0006>The moment we entered the classroom, the atmosphere changed.
+
+//TEXT
+<enT0007>Akasaka-san and Kitami-san sat in the back, smirking.
+<ptT0007>Akasaka-san and Kitami-san sat in the back, smirking.
+
+//TEXT
+<enT0008>No one would defy them...
+<ptT0008>No one would defy them...
+
+//TEXT
+<enT0009>Even the guys in the class were afraid of making them mad.
+<ptT0009>Even the guys in the class were afraid of making them mad.
+
+//TEXT
+<enT0010>Kitami-san is incredibly strong for a girl... and Akasaka-san is rich, plus her boyfriend is supposed to be a thug.
+<ptT0010>Kitami-san is incredibly strong for a girl... and Akasaka-san is rich, plus her boyfriend is supposed to be a thug.
+
+//TEXT
+<enT0011>His name is Shiroyama Tsubasa... He hangs out with three other lowlifes.
+<ptT0011>His name is Shiroyama Tsubasa... He hangs out with three other lowlifes.
+
+//TEXT
+<enT0012>It takes pretty high test scores to get into this school, so thugs like them stand out from the rest of the students.
+<ptT0012>It takes pretty high test scores to get into this school, so thugs like them stand out from the rest of the students.
+
+//TEXT
+<enT0013>No one thinks well of them, but at the same time no one dares to defy them.
+<ptT0013>No one thinks well of them, but at the same time no one dares to defy them.
+
+//TEXT
+<enT0014>No one wants to get involved with them... That's the surest way to avoid conflict.
+<ptT0014>No one wants to get involved with them... That's the surest way to avoid conflict.
+
+//TEXT 【Satoko】
+<enT0015>"Morning... Tachibana."
+<ptT0015>"Morning... Tachibana."
+
+//TEXT 【Kimika】
+<enT0016>"Good morning. You look cheerful this morning, Kitami-san. Just like always."
+<ptT0016>"Good morning. You look cheerful this morning, Kitami-san. Just like always."
+
+//TEXT 【Satoko】
+<enT0017>"What did you say?"
+<ptT0017>"What did you say?"
+
+//TEXT 【Kimika】
+<enT0018>"..."
+<ptT0018>"..."
+
+//TEXT 【Satoko】
+<enT0019>"Are you trying to say I'm some ditz who always has a stupid smile on her face?"
+<ptT0019>"Are you trying to say I'm some ditz who always has a stupid smile on her face?"
+
+//TEXT
+<enT0020>Kitami-san grabbed Kimika by the collar... Kitami-san was tall for a girl, and Kimika was petite, so Kimika had to stand on her tiptoes so she wouldn't get choked by her collar.
+<ptT0020>Kitami-san grabbed Kimika by the collar... Kitami-san was tall for a girl, and Kimika was petite, so Kimika had to stand on her tiptoes so she wouldn't get choked by her collar.
+
+//TEXT 【Satoko】
+<enT0021>"You all heard her. She was trying to pick a fight just now, wasn't she?"
+<ptT0021>"You all heard her. She was trying to pick a fight just now, wasn't she?"
+
+//TEXT 【Megu】
+<enT0022>"Yeah, she was... You all heard her, right?"
+<ptT0022>"Yeah, she was... You all heard her, right?"
+
+//TEXT
+<enT0023>"..."
+<ptT0023>"..."
+
+//TEXT
+<enT0024>No one answered. No one could possibly answer them.
+<ptT0024>No one answered. No one could possibly answer them.
+
+//TEXT 【Satoko】
+<enT0025>"This is slander, you know?"
+<ptT0025>"This is slander, you know?"
+
+//TEXT
+<enT0026>They're not making any sense... She just said hello. Why do they think she was trying to pick a fight?
+<ptT0026>They're not making any sense... She just said hello. Why do they think she was trying to pick a fight?
+
+//TEXT
+<enT0027>But Kimika just laughed.
+<ptT0027>But Kimika just laughed.
+
+//TEXT 【Kimika】
+<enT0028>"I just said hello. Are you really going to use that as a pretext?"
+<ptT0028>"I just said hello. Are you really going to use that as a pretext?"
+
+//TEXT 【Satoko】
+<enT0029>"What'd you just say?!"
+<ptT0029>"What'd you just say?!"
+
+//TEXT 【Megu】
+<enT0030>"Hehehehe... Are you misunderstanding something just because we were nice to you for a while? Do you know what happens to people who make Satoko mad?"
+<ptT0030>"Hehehehe... Are you misunderstanding something just because we were nice to you for a while? Do you know what happens to people who make Satoko mad?"
+
+//TEXT
+<enT0031>Kimika is in the track and field club.
+<ptT0031>Kimika is in the track and field club.
+
+//TEXT
+<enT0032>So she should be fairly strong... but in reality she's not at all.
+<ptT0032>So she should be fairly strong... but in reality she's not at all.
+
+//TEXT
+<enT0033>She joined the track and field club because she was so unathletic and wanted to improve.
+<ptT0033>She joined the track and field club because she was so unathletic and wanted to improve.
+
+//TEXT
+<enT0034>She might be even weaker than me...
+<ptT0034>She might be even weaker than me...
+
+//TEXT
+<enT0035>In contrast, Kitami-san is tall, and I heard she's been studying martial arts since she was a child.
+<ptT0035>In contrast, Kitami-san is tall, and I heard she's been studying martial arts since she was a child.
+
+//TEXT
+<enT0036>Though she doesn't study them anymore.
+<ptT0036>Though she doesn't study them anymore.
+
+//TEXT
+<enT0037>I heard she used to be in a biker gang and wore crazy outfits before she came to this school.
+<ptT0037>I heard she used to be in a biker gang and wore crazy outfits before she came to this school.
+
+//TEXT
+<enT0038>She's changed since she came to this school, especially since she met Akasaka Megu.
+<ptT0038>She's changed since she came to this school, especially since she met Akasaka Megu.
+
+//TEXT
+<enT0039>Akasaka Megu cleaned her up and made her look much more feminine.
+<ptT0039>Akasaka Megu cleaned her up and made her look much more feminine.
+
+//TEXT
+<enT0040>But she hasn't changed at all inside.
+<ptT0040>But she hasn't changed at all inside.
+
+//TEXT
+<enT0041>If Kimika got in a fight with her, she wouldn't last a minute...
+<ptT0041>If Kimika got in a fight with her, she wouldn't last a minute...
+
+//TEXT
+<enT0042>There are rumors that Kitami-san was famous for fighting dirty back when she was in that biker gang.
+<ptT0042>There are rumors that Kitami-san was famous for fighting dirty back when she was in that biker gang.
+
+//TEXT
+<enT0043>She never lost a fight. She was especially cruel to the people she beat because she had never experienced a loss herself.
+<ptT0043>She never lost a fight. She was especially cruel to the people she beat because she had never experienced a loss herself.
+
+//TEXT
+<enT0044>After she beat someone up so badly that they had lost their will to fight, she would make them strip naked and burn their clothes.
+<ptT0044>After she beat someone up so badly that they had lost their will to fight, she would make them strip naked and burn their clothes.
+
+//TEXT
+<enT0045>She would carry around a pair of hair clippers so she could cut the hair off girls she beat.
+<ptT0045>She would carry around a pair of hair clippers so she could cut the hair off girls she beat.
+
+//TEXT
+<enT0046>It was common for her to shove baseball bats and cans of pop up other girls' vaginas for amusement.
+<ptT0046>It was common for her to shove baseball bats and cans of pop up other girls' vaginas for amusement.
+
+//TEXT
+<enT0047>People say she cut off a girl's nipples with a knife once, too.
+<ptT0047>People say she cut off a girl's nipples with a knife once, too.
+
+//TEXT
+<enT0048>Once, Akasaka-san asked her why she did that... and her answer was shocking.
+<ptT0048>Once, Akasaka-san asked her why she did that... and her answer was shocking.
+
+//TEXT 【Satoko】
+<enT0049>"I'll never lose, so why should I care what it feels like to be the loser? Ahahahaha."
+<ptT0049>"I'll never lose, so why should I care what it feels like to be the loser? Ahahahaha."
+
+//TEXT
+<enT0050>That's how Kitami-san thinks... Akasaka-san felt fear and disgust when she heard that, but at the same time she found it refreshing.
+<ptT0050>That's how Kitami-san thinks... Akasaka-san felt fear and disgust when she heard that, but at the same time she found it refreshing.
+
+//TEXT
+<enT0051>How can she be so confident... Is there anything that she does fear?
+<ptT0051>How can she be so confident... Is there anything that she does fear?
+
+//TEXT
+<enT0052>But Kimika didn't budge an inch when confronted by Kitami Satoko.
+<ptT0052>But Kimika didn't budge an inch when confronted by Kitami Satoko.
+
+//TEXT
+<enT0053>She looked almost at ease.
+<ptT0053>She looked almost at ease.
+
+//TEXT 【Satoko】
+<enT0054>"Your face doesn't look so good... and class hasn't even started."
+<ptT0054>"Your face doesn't look so good... and class hasn't even started."
+
+//TEXT 【Kimika】
+<enT0055>"Ugh!"
+<ptT0055>"Ugh!"
+
+//TEXT
+<enT0056>Kimika's body suddenly flew through the air. It took a few seconds for me to even realize Kitami-san had struck her.
+<ptT0056>Kimika's body suddenly flew through the air. It took a few seconds for me to even realize Kitami-san had struck her.
+
+//TEXT
+<enT0057>Kimika's body flew through the air and knocked over a few desks.
+<ptT0057>Kimika's body flew through the air and knocked over a few desks.
+
+//TEXT 【Satoko】
+<enT0058>"Maybe we should have her, you know, accidentally fall down the stairs. Then she can spend the rest of the day in the infirmary."
+<ptT0058>"Maybe we should have her, you know, accidentally fall down the stairs. Then she can spend the rest of the day in the infirmary."
+
+//TEXT
+<enT0059>The stairs?
+<ptT0059>The stairs?
+
+//TEXT
+<enT0060>Is that the lie they're going to tell the teacher?
+<ptT0060>Is that the lie they're going to tell the teacher?
+
+//TEXT 【Kimika】
+<enT0061>"..."
+<ptT0061>"..."
+
+//TEXT 【Zakuro】
+<enT0062>"K-Kimika!"
+<ptT0062>"K-Kimika!"
+
+//TEXT
+<enT0063>Kitami-san slowly moved toward Kimika, still sprawled on the floor.
+<ptT0063>Kitami-san slowly moved toward Kimika, still sprawled on the floor.
+
+//TEXT 【Satoko】
+<enT0064>"Now then... I'll punch you till you puke."
+<ptT0064>"Now then... I'll punch you till you puke."
+
+//TEXT 【Kimika】
+<enT0065>"Bitch... Why don't you try it out for once, see what it feels like..."
+<ptT0065>"Bitch... Why don't you try it out for once, see what it feels like..."
+
+//TEXT 【Satoko】
+<enT0066>"Agh!"
+<ptT0066>"Agh!"
+
+//TEXT
+<enT0067>An unnatural sound. A strange sound I had never heard before.
+<ptT0067>An unnatural sound. A strange sound I had never heard before.
+
+//TEXT 【Kimika】
+<enT0068>"A 90,000 volt stun gun... It's really powerful for how small it is. It hurts, doesn't it?"
+<ptT0068>"A 90,000 volt stun gun... It's really powerful for how small it is. It hurts, doesn't it?"
+
+//TEXT 【Zakuro】
+<enT0069>"Th-That's a stun gun?"
+<ptT0069>"Th-That's a stun gun?"
+
+//TEXT 【Kimika】
+<enT0070>"That's right, a stun gun. And...
+<ptT0070>"That's right, a stun gun. And...
+
+//TEXT
+<enT0071> the product description said this was a stab-proof vest, but getting hit with this on still really hurts."
+<ptT0071> the product description said this was a stab-proof vest, but getting hit with this on still really hurts."
+
+//TEXT 【Satoko】
+<enT0072>"Stab-proof?"
+<ptT0072>"Stab-proof?"
+
+//TEXT 【Kimika】
+<enT0073>"It's stab-proof all right... I bought it just in case you pulled a knife on me."
+<ptT0073>"It's stab-proof all right... I bought it just in case you pulled a knife on me."
+
+//TEXT 【Satoko】
+<enT0074>"Th-That's why it felt weird when I punched you..."
+<ptT0074>"Th-That's why it felt weird when I punched you..."
+
+//TEXT 【Kimika】
+<enT0075>"Probably... Did it hurt? But you were stupid and ignored it out of pride, since you've never lost before. And that's how you ended up in this mess... You let your guard down."
+<ptT0075>"Probably... Did it hurt? But you were stupid and ignored it out of pride, since you've never lost before. And that's how you ended up in this mess... You let your guard down."
+
+//TEXT 【Satoko】
+<enT0076>"Tch!"
+<ptT0076>"Tch!"
+
+//TEXT 【Kimika】
+<enT0077>"Unlike you, I'm weak... I'm desperately trying to protect myself..."
+<ptT0077>"Unlike you, I'm weak... I'm desperately trying to protect myself..."
+
+//TEXT 【Kimika】
+<enT0078>"I'm so desperate...
+<ptT0078>"I'm so desperate...
+
+//TEXT
+<enT0079> I might just kill you."
+<ptT0079> I might just kill you."
+
+//TEXT 【Megu】
+<enT0080>"T-Tachibana!"
+<ptT0080>"T-Tachibana!"
+
+//TEXT 【Kimika】
+<enT0081>"Don't move...
+<ptT0081>"Don't move...
+
+//TEXT
+<enT0082> I wouldn't want to injure the rich bitch. It would be a pain to deal with, for both of us."
+<ptT0082> I wouldn't want to injure the rich bitch. It would be a pain to deal with, for both of us."
+
+//TEXT
+<enT0083>The classroom was silent.
+<ptT0083>The classroom was silent.
+
+//TEXT
+<enT0084>It was hard to believe it was homeroom... No one spoke a word. No one even dared to move...
+<ptT0084>It was hard to believe it was homeroom... No one spoke a word. No one even dared to move...
+
+//TEXT 【Zakuro】
+<enT0085>"Ah..."
+<ptT0085>"Ah..."
+
+//TEXT 【Zakuro】
+<enT0086>"Kimika!"
+<ptT0086>"Kimika!"
+
+//TEXT 【Kimika】
+<enT0087>"O-Oh crap..."
+<ptT0087>"O-Oh crap..."
+
+//TEXT
+<enT0088>Kimika quickly hid the stun gun in her bag.
+<ptT0088>Kimika quickly hid the stun gun in her bag.
+
+//TEXT 【Satoko】
+<enT0089>"Tch..."
+<ptT0089>"Tch..."
+
+//TEXT 【Megu】
+<enT0090>"..."
+<ptT0090>"..."
+
+//TEXT
+<enT0091>The two of them hurried back to their seats.
+<ptT0091>The two of them hurried back to their seats.
+
+//TEXT 【Senagawa】
+<enT0092>"Good morning, everyone."
+<ptT0092>"Good morning, everyone."
+
+//TEXT 【Senagawa】
+<enT0093>"In homeroom today, we're going to..."
+<ptT0093>"In homeroom today, we're going to..."
+
+//TEXT 【Megu】
+<enT0094>"Um, Mrs. Senagawa."
+<ptT0094>"Um, Mrs. Senagawa."
+
+//TEXT 【Senagawa】
+<enT0095>"Huh? Akasaka-san? What's wrong?"
+<ptT0095>"Huh? Akasaka-san? What's wrong?"
+
+//TEXT 【Megu】
+<enT0096>"Someone's brought something dangerous into the school."
+<ptT0096>"Someone's brought something dangerous into the school."
+
+//TEXT 【Kimika】
+<enT0097>"..."
+<ptT0097>"..."
+
+//TEXT 【Senagawa】
+<enT0098>"Something dangerous?"
+<ptT0098>"Something dangerous?"
+
+//TEXT 【Megu】
+<enT0099>"Yes, it's some kind of electric shocking thing."
+<ptT0099>"Yes, it's some kind of electric shocking thing."
+
+//TEXT 【Senagawa】
+<enT0100>"Haa, who would bring something like that to school..."
+<ptT0100>"Haa, who would bring something like that to school..."
+
+//TEXT 【Megu】
+<enT0101>"No, it's not a toy... It's a real weapon."
+<ptT0101>"No, it's not a toy... It's a real weapon."
+
+//TEXT 【Senagawa】
+<enT0102>"A weapon?"
+<ptT0102>"A weapon?"
+
+//TEXT 【Senagawa】
+<enT0103>"Huh? What's that sound?"
+<ptT0103>"Huh? What's that sound?"
+
+//TEXT 【Kimika】
+<enT0104>"Oh, I'm sorry... I dropped my pencil case."
+<ptT0104>"Oh, I'm sorry... I dropped my pencil case."
+
+//TEXT 【Megu】
+<enT0105>"Th-That's some crap! You just broke it, didn't you?"
+<ptT0105>"Th-That's some crap! You just broke it, didn't you?"
+
+//TEXT 【Kimika】
+<enT0106>"Eh? What are you talking about?"
+<ptT0106>"Eh? What are you talking about?"
+
+//TEXT 【Megu】
+<enT0107>"Mrs. Senagawa, she has a stun gun! Shouldn't she be suspended for bringing something like that to school?"
+<ptT0107>"Mrs. Senagawa, she has a stun gun! Shouldn't she be suspended for bringing something like that to school?"
+
+//TEXT 【Senagawa】
+<enT0108>"A stun gun?"
+<ptT0108>"A stun gun?"
+
+//TEXT 【Megu】
+<enT0109>"That's right. Look in that bag!"
+<ptT0109>"That's right. Look in that bag!"
+
+//TEXT 【Senagawa】
+<enT0110>"Tachibana-san... Would you show me what's in your bag, please?"
+<ptT0110>"Tachibana-san... Would you show me what's in your bag, please?"
+
+//TEXT 【Kimika】
+<enT0111>"Y-Yes..."
+<ptT0111>"Y-Yes..."
+
+//TEXT
+<enT0112>The teacher took out the contents of her bag... and found some electronic parts and pieces of broken plastic.
+<ptT0112>The teacher took out the contents of her bag... and found some electronic parts and pieces of broken plastic.
+
+//TEXT 【Senagawa】
+<enT0113>"Tachibana-san...
+<ptT0113>"Tachibana-san...
+
+//TEXT
+<enT0114> what is this?"
+<ptT0114> what is this?"
+
+//TEXT 【Kimika】
+<enT0115>"I'm sorry... That's my cell phone."
+<ptT0115>"I'm sorry... That's my cell phone."
+
+//TEXT 【Senagawa】
+<enT0116>"Your cell phone?"
+<ptT0116>"Your cell phone?"
+
+//TEXT 【Kimika】
+<enT0117>"I'm sorry for bringing it to school. I know I'm not supposed to have it in class, but it's broken, so..."
+<ptT0117>"I'm sorry for bringing it to school. I know I'm not supposed to have it in class, but it's broken, so..."
+
+//TEXT 【Senagawa】
+<enT0118>"Why do you have a broken cell phone?"
+<ptT0118>"Why do you have a broken cell phone?"
+
+//TEXT 【Kimika】
+<enT0119>"There's a soldering iron in the science room, so I was going to use that to fix it. I don't have anything like that at home, so I thought I could use the one at school."
+<ptT0119>"There's a soldering iron in the science room, so I was going to use that to fix it. I don't have anything like that at home, so I thought I could use the one at school."
+
+//TEXT 【Senagawa】
+<enT0120>"But... it's in pieces."
+<ptT0120>"But... it's in pieces."
+
+//TEXT 【Kimika】
+<enT0121>"Yes... That's why I thought it wouldn't be a problem if I brought it to school."
+<ptT0121>"Yes... That's why I thought it wouldn't be a problem if I brought it to school."
+
+//TEXT 【Megu】
+<enT0122>"Y-You're lying!"
+<ptT0122>"Y-You're lying!"
+
+//TEXT 【Kimika】
+<enT0123>"Eh? Why would I do that?"
+<ptT0123>"Eh? Why would I do that?"
+
+//TEXT 【Megu】
+<enT0124>"There's no way that's a cell phone! That was a stun gun!"
+<ptT0124>"There's no way that's a cell phone! That was a stun gun!"
+
+//TEXT 【Kimika】
+<enT0125>"Hehehe... Why's that?
+<ptT0125>"Hehehe... Why's that?
+
+//TEXT
+<enT0126> Can you think of any particular reason why I would need to bring a stun gun to school?"
+<ptT0126> Can you think of any particular reason why I would need to bring a stun gun to school?"
+
+//TEXT 【Megu】
+<enT0127>"Ah!"
+<ptT0127>"Ah!"
+
+//TEXT 【Kimika】
+<enT0128>"Why would I need to bring a weapon to school to defend myself?"
+<ptT0128>"Why would I need to bring a weapon to school to defend myself?"
+
+//TEXT 【Megu】
+<enT0129>"...
+<ptT0129>"...
+
+//TEXT
+<enT0130>L-Like I would know that."
+<ptT0130>L-Like I would know that."
+
+//TEXT 【Kimika】
+<enT0131>"Then please don't make stuff up... That's ridiculous."
+<ptT0131>"Then please don't make stuff up... That's ridiculous."
+
+//TEXT 【Megu】
+<enT0132>"Wh-What?!"
+<ptT0132>"Wh-What?!"
+
+//TEXT
+<enT0133>That's a good idea... If she asks them why, there's only one answer.
+<ptT0133>That's a good idea... If she asks them why, there's only one answer.
+
+//TEXT
+<enT0134>'Because there's a chance that she'll need to defend herself from violence.'
+<ptT0134>'Because there's a chance that she'll need to defend herself from violence.'
+
+//TEXT
+<enT0135>That fact wasn't convenient for Akasaka-san.
+<ptT0135>That fact wasn't convenient for Akasaka-san.
+
+//TEXT
+<enT0136>She couldn't answer Kimika's question.
+<ptT0136>She couldn't answer Kimika's question.
+
+//TEXT
+<enT0137>They glared at each other, but neither said anything.
+<ptT0137>They glared at each other, but neither said anything.
+
+//TEXT 【Senagawa】
+<enT0138>"Haa... I don't really understand what's going on,
+<ptT0138>"Haa... I don't really understand what's going on,
+
+//TEXT
+<enT0139> but either way, I'll be confiscating this."
+<ptT0139> but either way, I'll be confiscating this."
+
+//TEXT 【Kimika】
+<enT0140>"I'm sorry about this."
+<ptT0140>"I'm sorry about this."
+
+//TEXT 【Senagawa】
+<enT0141>"Anyway, please don't cause any more problems.
+<ptT0141>"Anyway, please don't cause any more problems.
+
+//TEXT
+<enT0142> Jeez..."
+<ptT0142> Jeez..."
+
+//TEXT
+<enT0143>Homeroom continued like normal after that... The moment of unnatural tension was soon painted over with a facade of normalcy.
+<ptT0143>Homeroom continued like normal after that... The moment of unnatural tension was soon painted over with a facade of normalcy.
+
+//TEXT
+<enT0144>But it was nothing more than a facade.
+<ptT0144>But it was nothing more than a facade.
+
+//TEXT
+<enT0145>Akasaka-san and Kitami-san glared at Kimika all throughout homeroom... Their eyes burned with hate.
+<ptT0145>Akasaka-san and Kitami-san glared at Kimika all throughout homeroom... Their eyes burned with hate.
+
+//TEXT
+<enT0146>Will Kimika be all right?
+<ptT0146>Will Kimika be all right?
+
+//TEXT
+<enT0147>After that incident, she lost her only weapon.
+<ptT0147>After that incident, she lost her only weapon.
+
+//TEXT
+<enT0148>If the two of them went after her again, Kimika wouldn't have any way of fighting back.
+<ptT0148>If the two of them went after her again, Kimika wouldn't have any way of fighting back.
+
+//TEXT
+<enT0149>What's she going to do?
+<ptT0149>What's she going to do?
+
+//TEXT 【Zakuro】
+<enT0150>"K-Kimika!"
+<ptT0150>"K-Kimika!"
+
+//TEXT 【Kimika】
+<enT0151>"Hmm?
+<ptT0151>"Hmm?
+
+//TEXT
+<enT0152> What is it, Zakuro?"
+<ptT0152> What is it, Zakuro?"
+
+//TEXT 【Zakuro】
+<enT0153>"U-Um, will you be okay?"
+<ptT0153>"U-Um, will you be okay?"
+
+//TEXT 【Kimika】
+<enT0154>"Why?"
+<ptT0154>"Why?"
+
+//TEXT 【Zakuro】
+<enT0155>"You lost your stun gun... and now that you did that..."
+<ptT0155>"You lost your stun gun... and now that you did that..."
+
+//TEXT 【Kimika】
+<enT0156>"Oh, that...
+<ptT0156>"Oh, that...
+
+//TEXT
+<enT0157> Here, take this."
+<ptT0157> Here, take this."
+
+//TEXT 【Zakuro】
+<enT0158>"Eh? What's this?"
+<ptT0158>"Eh? What's this?"
+
+//TEXT 【Kimika】
+<enT0159>"It's not quite as powerful as the stun gun I had before, but it's small enough to fit in your pocket."
+<ptT0159>"It's not quite as powerful as the stun gun I had before, but it's small enough to fit in your pocket."
+
+//TEXT 【Zakuro】
+<enT0160>"What is it?"
+<ptT0160>"What is it?"
+
+//TEXT 【Kimika】
+<enT0161>"It's pepper spray... It's pretty strong."
+<ptT0161>"It's pepper spray... It's pretty strong."
+
+//TEXT 【Zakuro】
+<enT0162>"Y-You still have more..."
+<ptT0162>"Y-You still have more..."
+
+//TEXT 【Kimika】
+<enT0163>"Of course. If I'm going to fight against those two, I have to go all out."
+<ptT0163>"Of course. If I'm going to fight against those two, I have to go all out."
+
+//TEXT 【Zakuro】
+<enT0164>"Fighting..."
+<ptT0164>"Fighting..."
+
+//TEXT 【Kimika】
+<enT0165>"...This is war."
+<ptT0165>"...This is war."
+
+//TEXT 【Zakuro】
+<enT0166>"War?"
+<ptT0166>"War?"
+
+//TEXT 【Kimika】
+<enT0167>"That's right. It might just be a game for them, but for the ants underneath the magnifying glass, it's war."
+<ptT0167>"That's right. It might just be a game for them, but for the ants underneath the magnifying glass, it's war."
+
+//TEXT 【Kimika】
+<enT0168>"But I don't want to get you involved, so please don't come near me."
+<ptT0168>"But I don't want to get you involved, so please don't come near me."
+
+//TEXT 【Zakuro】
+<enT0169>"I-I can't do that. I'll fight too."
+<ptT0169>"I-I can't do that. I'll fight too."
+
+//TEXT 【Kimika】
+<enT0170>"You can't just run headlong into a fight without a plan.
+<ptT0170>"You can't just run headlong into a fight without a plan.
+
+//TEXT
+<enT0171> Don't worry. I'm always carrying around weapons to protect myself."
+<ptT0171> Don't worry. I'm always carrying around weapons to protect myself."
+
+//TEXT 【Satoko】
+<enT0172>"Hey... Tachibana."
+<ptT0172>"Hey... Tachibana."
+
+//TEXT 【Kimika】
+<enT0173>"Oh, hello... How are you feeling?"
+<ptT0173>"Oh, hello... How are you feeling?"
+
+//TEXT 【Satoko】
+<enT0174>"What did you say?! Are you mocking me?"
+<ptT0174>"What did you say?! Are you mocking me?"
+
+//TEXT 【Kimika】
+<enT0175>"Hehehe...
+<ptT0175>"Hehehe...
+
+//TEXT
+<enT0176> I'm not mocking you. I came prepared, didn't I?"
+<ptT0176> I'm not mocking you. I came prepared, didn't I?"
+
+//TEXT 【Kimika】
+<enT0177>"And besides, I noticed you didn't grab me by the collar this time... Are you scared?"
+<ptT0177>"And besides, I noticed you didn't grab me by the collar this time... Are you scared?"
+
+//TEXT 【Satoko】
+<enT0178>"The hell'd you say?!"
+<ptT0178>"The hell'd you say?!"
+
+//TEXT 【Megu】
+<enT0179>"Knock it off, Satoko..."
+<ptT0179>"Knock it off, Satoko..."
+
+//TEXT 【Megu】
+<enT0180>"Really...
+<ptT0180>"Really...
+
+//TEXT
+<enT0181> let's stop this, Tachibana... This is dangerous."
+<ptT0181> let's stop this, Tachibana... This is dangerous."
+
+//TEXT 【Kimika】
+<enT0182>"Stop it, huh...
+<ptT0182>"Stop it, huh...
+
+//TEXT
+<enT0183> Stop what?"
+<ptT0183> Stop what?"
+
+//TEXT 【Megu】
+<enT0184>"You still have more, don't you? You have to, if you're acting like that."
+<ptT0184>"You still have more, don't you? You have to, if you're acting like that."
+
+//TEXT 【Kimika】
+<enT0185>"I wonder. Maybe?"
+<ptT0185>"I wonder. Maybe?"
+
+//TEXT 【Megu】
+<enT0186>"We won't come after you anymore, so knock it off, all right?"
+<ptT0186>"We won't come after you anymore, so knock it off, all right?"
+
+//TEXT 【Kimika】
+<enT0187>"Knock what off? I'm not going to do anything...
+<ptT0187>"Knock what off? I'm not going to do anything...
+
+//TEXT
+<enT0188> so long as you two don't."
+<ptT0188> so long as you two don't."
+
+//TEXT 【Megu】
+<enT0189>"Like I said, we won't do anything to you."
+<ptT0189>"Like I said, we won't do anything to you."
+
+//TEXT 【Kimika】
+<enT0190>"So what are you trying to say?"
+<ptT0190>"So what are you trying to say?"
+
+//TEXT 【Megu】
+<enT0191>"You should stop carrying around dangerous stuff like that..."
+<ptT0191>"You should stop carrying around dangerous stuff like that..."
+
+//TEXT 【Kimika】
+<enT0192>"I'm not...
+<ptT0192>"I'm not...
+
+//TEXT
+<enT0193> carrying anything around..."
+<ptT0193> carrying anything around..."
+
+//TEXT 【Megu】
+<enT0194>"Is that really true?"
+<ptT0194>"Is that really true?"
+
+//TEXT 【Kimika】
+<enT0195>"Why wouldn't it be?"
+<ptT0195>"Why wouldn't it be?"
+
+//TEXT 【Satoko】
+<enT0196>"You bitch! Quit acting so full of your―"
+<ptT0196>"You bitch! Quit acting so full of your―"
+
+//TEXT 【Kimika】
+<enT0197>"I wish the guard dog would stop barking."
+<ptT0197>"I wish the guard dog would stop barking."
+
+//TEXT 【Satoko】
+<enT0198>"Wh-What?"
+<ptT0198>"Wh-What?"
+
+//TEXT 【Kimika】
+<enT0199>"I don't care if you used to be a gangster or whatever, just knock it off with the barking... Are you a dog or something?"
+<ptT0199>"I don't care if you used to be a gangster or whatever, just knock it off with the barking... Are you a dog or something?"
+
+//TEXT
+<enT0200>I could see her face light up with anger.
+<ptT0200>I could see her face light up with anger.
+
+//TEXT
+<enT0201>But...
+<ptT0201>But...
+
+//TEXT 【Megu】
+<enT0202>"Satoko, just shut up!"
+<ptT0202>"Satoko, just shut up!"
+
+//TEXT 【Satoko】
+<enT0203>"M-Megu..."
+<ptT0203>"M-Megu..."
+
+//TEXT 【Megu】
+<enT0204>"What are you hiding, Tachibana..."
+<ptT0204>"What are you hiding, Tachibana..."
+
+//TEXT 【Kimika】
+<enT0205>"Who knows? What am I hiding?"
+<ptT0205>"Who knows? What am I hiding?"
+
+//TEXT 【Megu】
+<enT0206>"You're hiding something... You've had your hand in your pocket this whole time. You look like you're about to pull something on us..."
+<ptT0206>"You're hiding something... You've had your hand in your pocket this whole time. You look like you're about to pull something on us..."
+
+//TEXT 【Kimika】
+<enT0207>"Whatever do you mean?"
+<ptT0207>"Whatever do you mean?"
+
+//TEXT 【Megu】
+<enT0208>"You know what I mean..."
+<ptT0208>"You know what I mean..."
+
+//TEXT 【Megu】
+<enT0209>"You know damn well what I mean... Stop playing tough."
+<ptT0209>"You know damn well what I mean... Stop playing tough."
+
+//TEXT 【Megu】
+<enT0210>"I don't know what you have in your pocket, but you should know this isn't going to end here."
+<ptT0210>"I don't know what you have in your pocket, but you should know this isn't going to end here."
+
+//TEXT 【Kimika】
+<enT0211>"I guess so...
+<ptT0211>"I guess so...
+
+//TEXT
+<enT0212> It doesn't look like it's going to end here at all, does it?"
+<ptT0212> It doesn't look like it's going to end here at all, does it?"
+
+//TEXT 【Megu】
+<enT0213>"Hmm... So you understand.
+<ptT0213>"Hmm... So you understand.
+
+//TEXT
+<enT0214> You know damn well what you're doing."
+<ptT0214> You know damn well what you're doing."
+
+//TEXT 【Kimika】
+<enT0215>"Yeah, it's not like I didn't learn anything in all the time you two bullied me... I know very well what you two are capable of."
+<ptT0215>"Yeah, it's not like I didn't learn anything in all the time you two bullied me... I know very well what you two are capable of."
+
+//TEXT 【Megu】
+<enT0216>"All right then... We've made ourselves clear. We'll have fun, at least. This is a game for us."
+<ptT0216>"All right then... We've made ourselves clear. We'll have fun, at least. This is a game for us."
+
+//TEXT 【Kimika】
+<enT0217>"Yeah, you go ahead and have fun,
+<ptT0217>"Yeah, you go ahead and have fun,
+
+//TEXT
+<enT0218> but I'm fighting for my life."
+<ptT0218> but I'm fighting for my life."
+
+//TEXT 【Megu】
+<enT0219>"Of course...
+<ptT0219>"Of course...
+
+//TEXT
+<enT0220> since you're just a worm."
+<ptT0220> since you're just a worm."
+
+//TEXT 【Kimika】
+<enT0221>"That's right... I'm a worm. But did you know?"
+<ptT0221>"That's right... I'm a worm. But did you know?"
+
+//TEXT 【Megu】
+<enT0222>"Know what?"
+<ptT0222>"Know what?"
+
+//TEXT 【Kimika】
+<enT0223>"Do you know what animal has killed the most humans?"
+<ptT0223>"Do you know what animal has killed the most humans?"
+
+//TEXT 【Megu】
+<enT0224>"What are you going on about?"
+<ptT0224>"What are you going on about?"
+
+//TEXT 【Kimika】
+<enT0225>"The mosquito."
+<ptT0225>"The mosquito."
+
+//TEXT 【Megu】
+<enT0226>"The mosquito?"
+<ptT0226>"The mosquito?"
+
+//TEXT 【Kimika】
+<enT0227>"It's a carrier for infectious diseases...
+<ptT0227>"It's a carrier for infectious diseases...
+
+//TEXT
+<enT0228> It carries everything you could imagine. Malaria, filaria, yellow fever, dengue fever, West Nile virus, Chikungunya fever, and encephalitis too..."
+<ptT0228> It carries everything you could imagine. Malaria, filaria, yellow fever, dengue fever, West Nile virus, Chikungunya fever, and encephalitis too..."
+
+//TEXT 【Megu】
+<enT0229>"Ha! Are you a mosquito now?"
+<ptT0229>"Ha! Are you a mosquito now?"
+
+//TEXT 【Kimika】
+<enT0230>"I'm just a worm...
+<ptT0230>"I'm just a worm...
+
+//TEXT
+<enT0231> Though a wasp would be fine too."
+<ptT0231> Though a wasp would be fine too."
+
+//TEXT 【Megu】
+<enT0232>"Well, whatever you want... Give it your best shot.
+<ptT0232>"Well, whatever you want... Give it your best shot.
+
+//TEXT
+<enT0233> I'll be showing you what hell looks like pretty soon."
+<ptT0233> I'll be showing you what hell looks like pretty soon."
+
+//TEXT 【Kimika】
+<enT0234>"Yep, I'll be giving it my best shot all right."
+<ptT0234>"Yep, I'll be giving it my best shot all right."
+
+//TEXT 【Satoko】
+<enT0235>"Tch..."
+<ptT0235>"Tch..."
+
+//TEXT 【Zakuro】
+<enT0236>"K-Kimika..."
+<ptT0236>"K-Kimika..."
+
+//TEXT 【Kimika】
+<enT0237>"A... Ah... Aah..."
+<ptT0237>"A... Ah... Aah..."
+
+//TEXT 【Zakuro】
+<enT0238>"Eh?"
+<ptT0238>"Eh?"
+
+//TEXT 【Kimika】
+<enT0239>"Th-That was really close... That could've been bad."
+<ptT0239>"Th-That was really close... That could've been bad."
+
+//TEXT 【Zakuro】
+<enT0240>"Eh?"
+<ptT0240>"Eh?"
+
+//TEXT 【Kimika】
+<enT0241>"Ahahaha,
+<ptT0241>"Ahahaha,
+
+//TEXT
+<enT0242> the truth is... I'm totally defenseless right now."
+<ptT0242> the truth is... I'm totally defenseless right now."
+
+//TEXT 【Zakuro】
+<enT0243>"Y-You are?"
+<ptT0243>"Y-You are?"
+
+//TEXT 【Kimika】
+<enT0244>"I gave the pepper spray to you, so I didn't have anything... That was scary."
+<ptT0244>"I gave the pepper spray to you, so I didn't have anything... That was scary."
+
+//TEXT 【Zakuro】
+<enT0245>"R-Really?"
+<ptT0245>"R-Really?"
+
+//TEXT 【Kimika】
+<enT0246>"It was a bluff. My heart is beating so fast."
+<ptT0246>"It was a bluff. My heart is beating so fast."
+
+//TEXT 【Zakuro】
+<enT0247>"So you were scared... I couldn't tell at all."
+<ptT0247>"So you were scared... I couldn't tell at all."
+
+//TEXT 【Kimika】
+<enT0248>"After my main weapon broke, I didn't feel safe with just my backup weapon. I was just about to go get another one."
+<ptT0248>"After my main weapon broke, I didn't feel safe with just my backup weapon. I was just about to go get another one."
+
+//TEXT 【Zakuro】
+<enT0249>"This pepper spray was your backup weapon?"
+<ptT0249>"This pepper spray was your backup weapon?"
+
+//TEXT 【Kimika】
+<enT0250>"That's right... Ahahahahaha, I made the same mistake as Kitami. I got overconfident just because I won once."
+<ptT0250>"That's right... Ahahahahaha, I made the same mistake as Kitami. I got overconfident just because I won once."
+
+//TEXT 【Zakuro】
+<enT0251>"But they fell for it... That's amazing."
+<ptT0251>"But they fell for it... That's amazing."
+
+//TEXT 【Kimika】
+<enT0252>"Though bluffing was just my last resort...
+<ptT0252>"Though bluffing was just my last resort...
+
+//TEXT
+<enT0253> Well, I guess it worked out, since they fell for it."
+<ptT0253> Well, I guess it worked out, since they fell for it."
+
+//TEXT
+<enT0254>After that, Kimika retrieved several suspicious objects from the track and field club's locker room.
+<ptT0254>After that, Kimika retrieved several suspicious objects from the track and field club's locker room.
+
+//TEXT
+<enT0255>I couldn't even tell they were weapons.
+<ptT0255>I couldn't even tell they were weapons.
+
+//TEXT 【Zakuro】
+<enT0256>"There's some kind of liquid in here, isn't there?"
+<ptT0256>"There's some kind of liquid in here, isn't there?"
+
+//TEXT 【Kimika】
+<enT0257>"Yeah... Make sure you don't break it open."
+<ptT0257>"Yeah... Make sure you don't break it open."
+
+//TEXT 【Zakuro】
+<enT0258>"What is it?"
+<ptT0258>"What is it?"
+
+//TEXT 【Kimika】
+<enT0259>"A weapon."
+<ptT0259>"A weapon."
+
+//TEXT 【Zakuro】
+<enT0260>"How can a liquid like this be a weapon?"
+<ptT0260>"How can a liquid like this be a weapon?"
+
+//TEXT 【Kimika】
+<enT0261>"Don't underestimate it... There are a lot of liquids that are way more dangerous than a blade or a club."
+<ptT0261>"Don't underestimate it... There are a lot of liquids that are way more dangerous than a blade or a club."
+
+//TEXT 【Zakuro】
+<enT0262>"This... is a petri dish."
+<ptT0262>"This... is a petri dish."
+
+//TEXT 【Kimika】
+<enT0263>"Oh, that's a culture."
+<ptT0263>"Oh, that's a culture."
+
+//TEXT 【Zakuro】
+<enT0264>"A culture? Is it a weapon?"
+<ptT0264>"A culture? Is it a weapon?"
+
+//TEXT 【Kimika】
+<enT0265>"Of course... A biological weapon can be more powerful than a nuclear missile."
+<ptT0265>"Of course... A biological weapon can be more powerful than a nuclear missile."
+
+//TEXT 【Zakuro】
+<enT0266>"Eh? A nuclear missile? I-Is this really that dangerous?"
+<ptT0266>"Eh? A nuclear missile? I-Is this really that dangerous?"
+
+//TEXT 【Kimika】
+<enT0267>"No way... There's no way I could get my hands on anthrax."
+<ptT0267>"No way... There's no way I could get my hands on anthrax."
+
+//TEXT 【Kimika】
+<enT0268>"But naturally occurring bacteria are far more effective poisons than any manmade poison. Clostridium botulinum, for instance."
+<ptT0268>"But naturally occurring bacteria are far more effective poisons than any manmade poison. Clostridium botulinum, for instance."
+
+//TEXT 【Zakuro】
+<enT0269>"I-Is that what this is?"
+<ptT0269>"I-Is that what this is?"
+
+//TEXT 【Kimika】
+<enT0270>"No way... The police would arrest me for that in a flash."
+<ptT0270>"No way... The police would arrest me for that in a flash."
+
+//TEXT 【Zakuro】
+<enT0271>"Then what is it?"
+<ptT0271>"Then what is it?"
+
+//TEXT 【Kimika】
+<enT0272>"It smells really bad. There's one that makes people itch, too... I have a few different ones."
+<ptT0272>"It smells really bad. There's one that makes people itch, too... I have a few different ones."
+
+//TEXT 【Zakuro】
+<enT0273>"O-Oh, I see."
+<ptT0273>"O-Oh, I see."
+
+//TEXT 【Kimika】
+<enT0274>"Yeah, I have a few to pick from."
+<ptT0274>"Yeah, I have a few to pick from."
+
+//TEXT
+<enT0275>We went back to the classroom... The moment we entered, the classroom went silent and everyone stared at us.
+<ptT0275>We went back to the classroom... The moment we entered, the classroom went silent and everyone stared at us.
+
+//TEXT 【Zakuro】
+<enT0276>"Eh?"
+<ptT0276>"Eh?"
+
+//TEXT
+<enT0277>Kimika grabbed my hand as I was going back to my seat.
+<ptT0277>Kimika grabbed my hand as I was going back to my seat.
+
+//TEXT 【Kimika】
+<enT0278>"Let's see..."
+<ptT0278>"Let's see..."
+
+//TEXT
+<enT0279>For some reason, Kimika put her foot on my chair.
+<ptT0279>For some reason, Kimika put her foot on my chair.
+
+//TEXT 【Zakuro】
+<enT0280>"Eh? What?"
+<ptT0280>"Eh? What?"
+
+//TEXT 【Zakuro】
+<enT0281>"Eh? Eh? Wh-What's this?"
+<ptT0281>"Eh? Eh? Wh-What's this?"
+
+//TEXT 【Kimika】
+<enT0282>"They loosened the bolts... Or rather, they removed the bolts all together and put wire in instead."
+<ptT0282>"They loosened the bolts... Or rather, they removed the bolts all together and put wire in instead."
+
+//TEXT 【Kimika】
+<enT0283>"And I bet..."
+<ptT0283>"And I bet..."
+
+//TEXT
+<enT0284>Kimika looked inside my desk.
+<ptT0284>Kimika looked inside my desk.
+
+//TEXT 【Kimika】
+<enT0285>"Hmm... I was right."
+<ptT0285>"Hmm... I was right."
+
+//TEXT
+<enT0286>It didn't look like there was anything unusual inside my desk, but Kimika stuck her hand in and pulled out several of my textbooks.
+<ptT0286>It didn't look like there was anything unusual inside my desk, but Kimika stuck her hand in and pulled out several of my textbooks.
+
+//TEXT 【Zakuro】
+<enT0287>"Eh? What's this?"
+<ptT0287>"Eh? What's this?"
+
+//TEXT 【Kimika】
+<enT0288>"Just what it looks like... Your books are ruined. You really shouldn't have left them here in between classes, though."
+<ptT0288>"Just what it looks like... Your books are ruined. You really shouldn't have left them here in between classes, though."
+
+//TEXT 【Zakuro】
+<enT0289>"Ah..."
+<ptT0289>"Ah..."
+
+//TEXT
+<enT0290>Thinking back on it, Kimika brought her bag with her when she left the classroom. I thought it was just because she was going to retrieve her weapons, but... she was also protecting her property.
+<ptT0290>Thinking back on it, Kimika brought her bag with her when she left the classroom. I thought it was just because she was going to retrieve her weapons, but... she was also protecting her property.
+
+//TEXT 【Kimika】
+<enT0291>"Akasaka-san."
+<ptT0291>"Akasaka-san."
+
+//TEXT 【Megu】
+<enT0292>"What is it, Tachibana? Do you have something to say to me?"
+<ptT0292>"What is it, Tachibana? Do you have something to say to me?"
+
+//TEXT 【Kimika】
+<enT0293>"No, not really...
+<ptT0293>"No, not really...
+
+//TEXT
+<enT0294> But I was thinking, your family might not be so pleased to hear about this."
+<ptT0294> But I was thinking, your family might not be so pleased to hear about this."
+
+//TEXT 【Megu】
+<enT0295>"What do you mean... Are you trying to pick a fight with me?"
+<ptT0295>"What do you mean... Are you trying to pick a fight with me?"
+
+//TEXT 【Kimika】
+<enT0296>"Not really... But you know, your father is on this school's board of directors, so things might not all go the way you want them to."
+<ptT0296>"Not really... But you know, your father is on this school's board of directors, so things might not all go the way you want them to."
+
+//TEXT 【Megu】
+<enT0297>"Huh? What are you talking about?"
+<ptT0297>"Huh? What are you talking about?"
+
+//TEXT 【Kimika】
+<enT0298>"Nothing... I'm just saying. If this got out to the media, it would be a problem for your parents as well, wouldn't it?"
+<ptT0298>"Nothing... I'm just saying. If this got out to the media, it would be a problem for your parents as well, wouldn't it?"
+
+//TEXT 【Megu】
+<enT0299>"Wh-What's that?"
+<ptT0299>"Wh-What's that?"
+
+//TEXT 【Kimika】
+<enT0300>"Hmm, it's a picture...
+<ptT0300>"Hmm, it's a picture...
+
+//TEXT
+<enT0301> What do you think?"
+<ptT0301> What do you think?"
+
+//TEXT 【Megu】
+<enT0302>"Huh?"
+<ptT0302>"Huh?"
+
+//TEXT
+<enT0303>Kimika passed the camera to Akasaka-san and showed her the picture.
+<ptT0303>Kimika passed the camera to Akasaka-san and showed her the picture.
+
+//TEXT 【Megu】
+<enT0304>"Wha―?!"
+<ptT0304>"Wha―?!"
+
+//TEXT 【Kimika】
+<enT0305>"How about that..."
+<ptT0305>"How about that..."
+
+//TEXT
+<enT0306>Akasaka-san's face went pale as she looked at the picture... I wondered what it was...
+<ptT0306>Akasaka-san's face went pale as she looked at the picture... I wondered what it was...
+
+//TEXT 【Kimika】
+<enT0307>"You probably shouldn't be doing this. You might be thinking that the people on the board will protect each other, but..."
+<ptT0307>"You probably shouldn't be doing this. You might be thinking that the people on the board will protect each other, but..."
+
+//TEXT 【Kimika】
+<enT0308>"But someone famous like your father could lose everything if he got caught up in a scandal like this, you know?"
+<ptT0308>"But someone famous like your father could lose everything if he got caught up in a scandal like this, you know?"
+
+//TEXT 【Megu】
+<enT0309>"You bitch... So you're threatening me now?"
+<ptT0309>"You bitch... So you're threatening me now?"
+
+//TEXT 【Kimika】
+<enT0310>"Threatening you?
+<ptT0310>"Threatening you?
+
+//TEXT
+<enT0311> No way... Why would I do that? I'm just trying to tell you that you're not special."
+<ptT0311> No way... Why would I do that? I'm just trying to tell you that you're not special."
+
+//TEXT 【Kimika】
+<enT0312>"If you want to pull something, you'd better think it through. Hehehe... Otherwise, you'll just end up digging your own grave."
+<ptT0312>"If you want to pull something, you'd better think it through. Hehehe... Otherwise, you'll just end up digging your own grave."
+
+//TEXT 【Teacher】
+<enT0313>"Come on, what are you standing around for? Class is starting."
+<ptT0313>"Come on, what are you standing around for? Class is starting."
+
+//TEXT 【Kimika】
+<enT0314>"Uh, my chair is broken."
+<ptT0314>"Uh, my chair is broken."
+
+//TEXT 【Teacher】
+<enT0315>"Your chair?"
+<ptT0315>"Your chair?"
+
+//TEXT 【Kimika】
+<enT0316>"Yes, it's broken... By the way, could you touch my chair as well?"
+<ptT0316>"Yes, it's broken... By the way, could you touch my chair as well?"
+
+//TEXT 【Teacher】
+<enT0317>"Huh? Touch your chair?"
+<ptT0317>"Huh? Touch your chair?"
+
+//TEXT 【Kimika】
+<enT0318>"Yes, just touch it with your hand..."
+<ptT0318>"Yes, just touch it with your hand..."
+
+//TEXT 【Teacher】
+<enT0319>"What do you mean... Whoa, what?!"
+<ptT0319>"What do you mean... Whoa, what?!"
+
+//TEXT 【Teacher】
+<enT0320>"Wh-What's going on?!"
+<ptT0320>"Wh-What's going on?!"
+
+//TEXT 【Kimika】
+<enT0321>"It's exactly what it looks like."
+<ptT0321>"It's exactly what it looks like."
+
+//TEXT 【Teacher】
+<enT0322>"A-Are you trying to pull a prank on me?"
+<ptT0322>"A-Are you trying to pull a prank on me?"
+
+//TEXT 【Kimika】
+<enT0323>"Oh? Why would you think that? Why on earth would I mess with my own chair if I was trying to pull a prank?"
+<ptT0323>"Oh? Why would you think that? Why on earth would I mess with my own chair if I was trying to pull a prank?"
+
+//TEXT 【Kimika】
+<enT0324>"If I was trying to pull a prank on a teacher, there are tons of easier ways to do it."
+<ptT0324>"If I was trying to pull a prank on a teacher, there are tons of easier ways to do it."
+
+//TEXT 【Teacher】
+<enT0325>"Th-That's true, but... Then what is this?!"
+<ptT0325>"Th-That's true, but... Then what is this?!"
+
+//TEXT 【Kimika】
+<enT0326>"I think it's exactly what it looks like."
+<ptT0326>"I think it's exactly what it looks like."
+
+//TEXT 【Teacher】
+<enT0327>"What it looks like?"
+<ptT0327>"What it looks like?"
+
+//TEXT 【Kimika】
+<enT0328>"Somehow the chair ended up like this, where it would break if anyone sat down on it... Do you understand what I'm trying to say?"
+<ptT0328>"Somehow the chair ended up like this, where it would break if anyone sat down on it... Do you understand what I'm trying to say?"
+
+//TEXT 【Teacher】
+<enT0329>"Um, in other words..."
+<ptT0329>"Um, in other words..."
+
+//TEXT 【Kimika】
+<enT0330>"Hehehe..."
+<ptT0330>"Hehehe..."
+
+//TEXT 【Teacher】
+<enT0331>"R-Really? I guess the chairs must be getting old."
+<ptT0331>"R-Really? I guess the chairs must be getting old."
+
+//TEXT 【Kimika】
+<enT0332>"Hehehe... If that's what you think, then I guess that must be it."
+<ptT0332>"Hehehe... If that's what you think, then I guess that must be it."
+
+//TEXT 【Kimika】
+<enT0333>"So I trust you won't mind if I go retrieve a chair from an empty classroom?"
+<ptT0333>"So I trust you won't mind if I go retrieve a chair from an empty classroom?"
+
+//TEXT 【Teacher】
+<enT0334>"Oh, sure. Go ahead... Come back quickly, though."
+<ptT0334>"Oh, sure. Go ahead... Come back quickly, though."
+
+//TEXT 【Kimika】
+<enT0335>"All right. Oh, and I know you wouldn't count me as tardy because of this, right?"
+<ptT0335>"All right. Oh, and I know you wouldn't count me as tardy because of this, right?"
+
+//TEXT 【Teacher】
+<enT0336>"J-Just hurry up and go."
+<ptT0336>"J-Just hurry up and go."
+
+//TEXT 【Kimika】
+<enT0337>"All right.
+<ptT0337>"All right.
+
+//TEXT
+<enT0338> Zakuro, I'm going..."
+<ptT0338> Zakuro, I'm going..."
+
+//TEXT 【Zakuro】
+<enT0339>"Oh, okay..."
+<ptT0339>"Oh, okay..."
+
+//TEXT 【Zakuro】
+<enT0340>"Kimika, how did you know?"
+<ptT0340>"Kimika, how did you know?"
+
+//TEXT 【Kimika】
+<enT0341>"Yeah, I figured they would probably try to do something to our desks, so I sprinkled calcium carbonate on them earlier."
+<ptT0341>"Yeah, I figured they would probably try to do something to our desks, so I sprinkled calcium carbonate on them earlier."
+
+//TEXT 【Zakuro】
+<enT0342>"Calcium carbonate?"
+<ptT0342>"Calcium carbonate?"
+
+//TEXT 【Kimika】
+<enT0343>"Uh, it's one of the ingredients they use to make chalk...
+<ptT0343>"Uh, it's one of the ingredients they use to make chalk...
+
+//TEXT
+<enT0344> It's so common in the classroom that no one even noticed... Or at least those idiots didn't."
+<ptT0344> It's so common in the classroom that no one even noticed... Or at least those idiots didn't."
+
+//TEXT 【Kimika】
+<enT0345>"And I could see a hand print in the calcium carbonate, so I knew someone had touched our desks."
+<ptT0345>"And I could see a hand print in the calcium carbonate, so I knew someone had touched our desks."
+
+//TEXT 【Zakuro】
+<enT0346>"And you did all that just this morning?"
+<ptT0346>"And you did all that just this morning?"
+
+//TEXT 【Kimika】
+<enT0347>"Yeah, it comes in a spray can... It comes out like perfume."
+<ptT0347>"Yeah, it comes in a spray can... It comes out like perfume."
+
+//TEXT 【Zakuro】
+<enT0348>"K-Kimika, you're really amazing... Why have you always been bullied if you could do this?"
+<ptT0348>"K-Kimika, you're really amazing... Why have you always been bullied if you could do this?"
+
+//TEXT 【Kimika】
+<enT0349>"It was actually because I got bullied that I imagined all the things I could do. I've been researching this stuff for years... I never thought I would actually do it, though."
+<ptT0349>"It was actually because I got bullied that I imagined all the things I could do. I've been researching this stuff for years... I never thought I would actually do it, though."
+
+//TEXT 【Zakuro】
+<enT0350>"Then why?"
+<ptT0350>"Then why?"
+
+//TEXT 【Kimika】
+<enT0351>"Because of you."
+<ptT0351>"Because of you."
+
+//TEXT 【Zakuro】
+<enT0352>"Eh? Me?"
+<ptT0352>"Eh? Me?"
+
+//TEXT 【Kimika】
+<enT0353>"Because I dragged you into this..."
+<ptT0353>"Because I dragged you into this..."
+
+//TEXT 【Kimika】
+<enT0354>"Humans are funny creatures... When they're suffering, they start to go numb. After a while, they can't tell whether their experiences are terrible, or if they're just going through the same stuff everyone else goes through."
+<ptT0354>"Humans are funny creatures... When they're suffering, they start to go numb. After a while, they can't tell whether their experiences are terrible, or if they're just going through the same stuff everyone else goes through."
+
+//TEXT 【Kimika】
+<enT0355>"The first time I understood my situation was when you got dragged into this...
+<ptT0355>"The first time I understood my situation was when you got dragged into this...
+
+//TEXT
+<enT0356> Looking at you was like looking at myself in the mirror, I guess?"
+<ptT0356> Looking at you was like looking at myself in the mirror, I guess?"
+
+//TEXT 【Zakuro】
+<enT0357>"S-So that's what it was...
+<ptT0357>"S-So that's what it was...
+
+//TEXT 【Kimika】
+<enT0358>"Who knows... I can't speak for other people, but that's how it is for me. I can't really grasp my own situation. I can't tell if I should be upset about something or if I should just let it go... Not at all."
+<ptT0358>"Who knows... I can't speak for other people, but that's how it is for me. I can't really grasp my own situation. I can't tell if I should be upset about something or if I should just let it go... Not at all."
+
+//TEXT 【Kimika】
+<enT0359>"And the lines you recited..."
+<ptT0359>"And the lines you recited..."
+
+//TEXT 【Zakuro】
+<enT0360>"Lines?"
+<ptT0360>"Lines?"
+
+//TEXT 【Kimika】
+<enT0361>"You said they were from a play or something?"
+<ptT0361>"You said they were from a play or something?"
+
+//TEXT 【Zakuro】
+<enT0362>"Cyrano?"
+<ptT0362>"Cyrano?"
+
+//TEXT 【Kimika】
+<enT0363>"Yeah, that. You declared war on them when you said that... and there's no way I could leave you to fight alone, you know?"
+<ptT0363>"Yeah, that. You declared war on them when you said that... and there's no way I could leave you to fight alone, you know?"
+
+//TEXT 【Zakuro】
+<enT0364>"I-I see..."
+<ptT0364>"I-I see..."
+
+//TEXT
+<enT0365>So really I dragged her into this...
+<ptT0365>So really I dragged her into this...
+
+//TEXT 【Kimika】
+<enT0366>"If you're thinking that you were the one that dragged me into it, don't."
+<ptT0366>"If you're thinking that you were the one that dragged me into it, don't."
+
+//TEXT 【Zakuro】
+<enT0367>"Eh?"
+<ptT0367>"Eh?"
+
+//TEXT 【Kimika】
+<enT0368>"I had to fight this battle at some point... You weren't the one who got me into this."
+<ptT0368>"I had to fight this battle at some point... You weren't the one who got me into this."
+
+//TEXT 【Zakuro】
+<enT0369>"...Kimika."
+<ptT0369>"...Kimika."
+
+//TEXT 【Kimika】
+<enT0370>"In a way, I'm even grateful to you, Zakuro.."
+<ptT0370>"In a way, I'm even grateful to you, Zakuro.."
+
+//TEXT 【Zakuro】
+<enT0371>"O-Oh..."
+<ptT0371>"O-Oh..."
+
+//TEXT 【Zakuro】
+<enT0372>"Oh, by the way, what was that picture you showed to Akasaka-san?"
+<ptT0372>"Oh, by the way, what was that picture you showed to Akasaka-san?"
+
+//TEXT 【Kimika】
+<enT0373>"O-Oh, that was, uh... this."
+<ptT0373>"O-Oh, that was, uh... this."
+
+//TEXT
+<enT0374>The image was really fuzzy... It was just a picture of a foreigner in the park at night handing something to Akasaka-san.
+<ptT0374>The image was really fuzzy... It was just a picture of a foreigner in the park at night handing something to Akasaka-san.
+
+//TEXT 【Zakuro】
+<enT0375>"Wh-What's this?"
+<ptT0375>"Wh-What's this?"
+
+//TEXT 【Kimika】
+<enT0376>"She's giving him money, and he's giving her a key."
+<ptT0376>"She's giving him money, and he's giving her a key."
+
+//TEXT 【Zakuro】
+<enT0377>"Why?"
+<ptT0377>"Why?"
+
+//TEXT 【Kimika】
+<enT0378>"After that, she went to a specified location and got the drugs she paid for... That's the next picture."
+<ptT0378>"After that, she went to a specified location and got the drugs she paid for... That's the next picture."
+
+//TEXT 【Zakuro】
+<enT0379>"A coin locker?"
+<ptT0379>"A coin locker?"
+
+//TEXT 【Kimika】
+<enT0380>"Yeah, they divide the drugs up and put a bit in each locker... They can't sell it casually like they used to."
+<ptT0380>"Yeah, they divide the drugs up and put a bit in each locker... They can't sell it casually like they used to."
+
+//TEXT 【Kimika】
+<enT0381>"I spied on her for a few days because I heard she was buying drugs from someone."
+<ptT0381>"I spied on her for a few days because I heard she was buying drugs from someone."
+
+//TEXT 【Zakuro】
+<enT0382>"S-So she really was buying drugs."
+<ptT0382>"S-So she really was buying drugs."
+
+//TEXT 【Kimika】
+<enT0383>"If I wanted, I could just send these pictures to the police, but..."
+<ptT0383>"If I wanted, I could just send these pictures to the police, but..."
+
+//TEXT 【Zakuro】
+<enT0384>"But?"
+<ptT0384>"But?"
+
+//TEXT 【Kimika】
+<enT0385>"If I could get evidence on all of them, that would be perfect... If they weren't all arrested, then, well..."
+<ptT0385>"If I could get evidence on all of them, that would be perfect... If they weren't all arrested, then, well..."
+
+//TEXT 【Zakuro】
+<enT0386>"What would happen?"
+<ptT0386>"What would happen?"
+
+//TEXT 【Kimika】
+<enT0387>"They would probably try to kill me... If I send this to the police, that's it, I have no more ace up my sleeve."
+<ptT0387>"They would probably try to kill me... If I send this to the police, that's it, I have no more ace up my sleeve."
+
+//TEXT 【Kimika】
+<enT0388>"The rumors say that the people dealing drugs in this school are Akasaka's boyfriend Shiroyama, Numada, Nishimura, and Iinuma... as well as Mamiya Takuji."
+<ptT0388>"The rumors say that the people dealing drugs in this school are Akasaka's boyfriend Shiroyama, Numada, Nishimura, and Iinuma... as well as Mamiya Takuji."
+
+//TEXT 【Zakuro】
+<enT0389>"Eh? Mamiya-kun?"
+<ptT0389>"Eh? Mamiya-kun?"
+
+//TEXT 【Kimika】
+<enT0390>"That's right. So be careful around him. He hangs out with those guys... Or rather, he's the leader."
+<ptT0390>"That's right. So be careful around him. He hangs out with those guys... Or rather, he's the leader."
+
+//TEXT 【Zakuro】
+<enT0391>"The leader? Mamiya-kun is their leader?"
+<ptT0391>"The leader? Mamiya-kun is their leader?"
+
+//TEXT 【Kimika】
+<enT0392>"Yeah. Well, I've only heard rumors, though... I'm not actually sure just how Mamiya Takuji is related to the rest of them. I heard he was being bullied, too..."
+<ptT0392>"Yeah. Well, I've only heard rumors, though... I'm not actually sure just how Mamiya Takuji is related to the rest of them. I heard he was being bullied, too..."
+
+//TEXT 【Zakuro】
+<enT0393>"He's the leader, but he's being bullied? Isn't that the complete opposite?"
+<ptT0393>"He's the leader, but he's being bullied? Isn't that the complete opposite?"
+
+//TEXT 【Kimika】
+<enT0394>"Like I said, he's an enigma... Either way, you shouldn't let your guard down around him."
+<ptT0394>"Like I said, he's an enigma... Either way, you shouldn't let your guard down around him."
+
+//TEXT 【Kimika】
+<enT0395>"He might end up being one of our enemies too."
+<ptT0395>"He might end up being one of our enemies too."
+
+//TEXT 【Kimika】
+<enT0396>"This school always covers up any incidents that happen... You saw how the teacher reacted just now, didn't you?"
+<ptT0396>"This school always covers up any incidents that happen... You saw how the teacher reacted just now, didn't you?"
+
+//TEXT 【Zakuro】
+<enT0397>"The teacher... You mean the physics teacher?"
+<ptT0397>"The teacher... You mean the physics teacher?"
+
+//TEXT 【Kimika】
+<enT0398>"He pretended like he didn't understand that we were being bullied... It's probably not convenient for them to admit there's a bullying problem here."
+<ptT0398>"He pretended like he didn't understand that we were being bullied... It's probably not convenient for them to admit there's a bullying problem here."
+
+//TEXT 【Zakuro】
+<enT0399>"I-I see..."
+<ptT0399>"I-I see..."
+
+//TEXT 【Kimika】
+<enT0400>"So most teachers probably won't be any use to us. Senagawa knows about everything that's happened up until now..."
+<ptT0400>"So most teachers probably won't be any use to us. Senagawa knows about everything that's happened up until now..."
+
+//TEXT 【Zakuro】
+<enT0401>"How would she know?"
+<ptT0401>"How would she know?"
+
+//TEXT 【Kimika】
+<enT0402>"Because I told her directly."
+<ptT0402>"Because I told her directly."
+
+//TEXT 【Zakuro】
+<enT0403>"O-Oh, you actually told Mrs. Senagawa."
+<ptT0403>"O-Oh, you actually told Mrs. Senagawa."
+
+//TEXT 【Kimika】
+<enT0404>"I told her Akasaka and Kitami were bullying me. What do you think she did when she heard that?"
+<ptT0404>"I told her Akasaka and Kitami were bullying me. What do you think she did when she heard that?"
+
+//TEXT 【Zakuro】
+<enT0405>"I don't know... What happened?"
+<ptT0405>"I don't know... What happened?"
+
+//TEXT 【Kimika】
+<enT0406>"'I checked with Akasaka-san and Kitami-san, and they said that nothing of the sort was happening.' That's what she told me... More than anyone else, I really want to kill that woman."
+<ptT0406>"'I checked with Akasaka-san and Kitami-san, and they said that nothing of the sort was happening.' That's what she told me... More than anyone else, I really want to kill that woman."
+
+//TEXT 【Kimika】
+<enT0407>"She asked the perpetrators if they had done anything, and they said no... Is she really that fucking stupid?"
+<ptT0407>"She asked the perpetrators if they had done anything, and they said no... Is she really that fucking stupid?"
+
+//TEXT 【Zakuro】
+<enT0408>"S-So that's what happened..."
+<ptT0408>"S-So that's what happened..."
+
+//TEXT 【Kimika】
+<enT0409>"And of course nothing happened when I told her it was getting worse... I really started to wonder if I should just kill myself and get it over with."
+<ptT0409>"And of course nothing happened when I told her it was getting worse... I really started to wonder if I should just kill myself and get it over with."
+
+//TEXT 【Zakuro】
+<enT0410>"But you didn't."
+<ptT0410>"But you didn't."
+
+//TEXT 【Kimika】
+<enT0411>"It would've been stupid for me to kill myself after seeing you being bullied too."
+<ptT0411>"It would've been stupid for me to kill myself after seeing you being bullied too."
+
+//TEXT 【Zakuro】
+<enT0412>"What do you mean?"
+<ptT0412>"What do you mean?"
+
+//TEXT 【Kimika】
+<enT0413>"Looking at it from afar, I had to think... why should the person who's suffering die while they get to go on with their lives like nothing happened? I couldn't stand it."
+<ptT0413>"Looking at it from afar, I had to think... why should the person who's suffering die while they get to go on with their lives like nothing happened? I couldn't stand it."
+
+//TEXT 【Zakuro】
+<enT0414>"Oh, I see..."
+<ptT0414>"Oh, I see..."
+
+//TEXT 【Kimika】
+<enT0415>"After all, the law will protect us, since we're still young."
+<ptT0415>"After all, the law will protect us, since we're still young."
+
+//TEXT 【Kimika】
+<enT0416>"If it's so bad that I would kill myself, I might as well kill them instead... That's the conclusion I came to."
+<ptT0416>"If it's so bad that I would kill myself, I might as well kill them instead... That's the conclusion I came to."
+
+//TEXT 【Zakuro】
+<enT0417>"O-Oh, I never knew you were thinking about anything like that."
+<ptT0417>"O-Oh, I never knew you were thinking about anything like that."
+
+//TEXT 【Kimika】
+<enT0418>"Well, it's not like I've talked to you about it."
+<ptT0418>"Well, it's not like I've talked to you about it."
+
+//TEXT 【Zakuro】
+<enT0419>"But you were prepared to go that far... I couldn't do that at all."
+<ptT0419>"But you were prepared to go that far... I couldn't do that at all."
+
+//TEXT 【Kimika】
+<enT0420>"Oh, don't worry about it. That's just your personality. You should just keep living your life, oblivious to the rest of us."
+<ptT0420>"Oh, don't worry about it. That's just your personality. You should just keep living your life, oblivious to the rest of us."
+
+//TEXT 【Zakuro】
+<enT0421>"What do you mean by oblivious?!"
+<ptT0421>"What do you mean by oblivious?!"
+
+//TEXT 【Kimika】
+<enT0422>"You're always spacing out... Especially lately."
+<ptT0422>"You're always spacing out... Especially lately."
+
+//TEXT 【Zakuro】
+<enT0423>"Th-That's..."
+<ptT0423>"Th-That's..."
+
+//TEXT 【Kimika】
+<enT0424>"Well, putting that aside,
+<ptT0424>"Well, putting that aside,
+
+//TEXT
+<enT0425> these pictures are our only trump card... If possible, I'd like to end this whole mess with just these."
+<ptT0425> these pictures are our only trump card... If possible, I'd like to end this whole mess with just these."
+
+//TEXT 【Zakuro】
+<enT0426>"Do you think we'll be able to?"
+<ptT0426>"Do you think we'll be able to?"
+
+//TEXT 【Kimika】
+<enT0427>"No, it probably won't be that simple... Akasaka has too much pride to just let us go... We'll have to do something else."
+<ptT0427>"No, it probably won't be that simple... Akasaka has too much pride to just let us go... We'll have to do something else."
+
+//TEXT 【Zakuro】
+<enT0428>"O-Oh..."
+<ptT0428>"O-Oh..."
+
+//TEXT 【Kimika】
+<enT0429>"Ah!"
+<ptT0429>"Ah!"
+
+//TEXT 【Zakuro】
+<enT0430>"Eh? What's wrong?"
+<ptT0430>"Eh? What's wrong?"
+
+//TEXT 【Kimika】
+<enT0431>"Crap... It was a trap."
+<ptT0431>"Crap... It was a trap."
+
+//TEXT 【Zakuro】
+<enT0432>"Ah!"
+<ptT0432>"Ah!"
+
+//TEXT 【Shiroyama】
+<enT0433>"Oh, there they are... So that's where you were hiding."
+<ptT0433>"Oh, there they are... So that's where you were hiding."
+
+//TEXT 【Iida】
+<enT0434>"Oh wow, they really are walking around the halls during class."
+<ptT0434>"Oh wow, they really are walking around the halls during class."
+
+//TEXT 【Zakuro】
+<enT0435>"Wh-What is it?"
+<ptT0435>"Wh-What is it?"
+
+//TEXT 【Nishimura】
+<enT0436>"Oh, if it isn't Takashima Zakuro and Tachibana Kimika... Good, good."
+<ptT0436>"Oh, if it isn't Takashima Zakuro and Tachibana Kimika... Good, good."
+
+//TEXT 【Kimika】
+<enT0437>"Wh-What do you want?"
+<ptT0437>"Wh-What do you want?"
+
+//TEXT 【Shiroyama】
+<enT0438>"Oh, nothing. We just want to talk to you... How about you two come with us for a while?"
+<ptT0438>"Oh, nothing. We just want to talk to you... How about you two come with us for a while?"
+
+//TEXT 【Kimika】
+<enT0439>"Don't you think we could talk here?"
+<ptT0439>"Don't you think we could talk here?"
+
+//TEXT 【Shiroyama】
+<enT0440>"Oh, that's right..."
+<ptT0440>"Oh, that's right..."
+
+//TEXT 【Kimika】
+<enT0441>"Hmm... So what do you want with us?"
+<ptT0441>"Hmm... So what do you want with us?"
+
+//TEXT 【Shiroyama】
+<enT0442>"Follow us and you'll find out."
+<ptT0442>"Follow us and you'll find out."
+
+//TEXT 【Kimika】
+<enT0443>"Oh... Well then..."
+<ptT0443>"Oh... Well then..."
+
+//TEXT 【Zakuro】
+<enT0444>"Oh?"
+<ptT0444>"Oh?"
+
+//TEXT
+<enT0445>Kimika covered my eyes with her hand.
+<ptT0445>Kimika covered my eyes with her hand.
+
+//TEXT
+<enT0446>The next moment.
+<ptT0446>The next moment.
+
+//TEXT 【Shiroyama】
+<enT0447>"Agh!"
+<ptT0447>"Agh!"
+
+//TEXT 【Iida】
+<enT0448>"Wh-What?"
+<ptT0448>"Wh-What?"
+
+//TEXT 【Nishimura】
+<enT0449>"My eyes, my eyes!"
+<ptT0449>"My eyes, my eyes!"
+
+//TEXT 【Kimika】
+<enT0450>"Zakuro!"
+<ptT0450>"Zakuro!"
+
+//TEXT 【Zakuro】
+<enT0451>"Eh? Ah, sure..."
+<ptT0451>"Eh? Ah, sure..."
+
+//TEXT
+<enT0452>Kimika grabbed my hand and took off running.
+<ptT0452>Kimika grabbed my hand and took off running.
+
+//TEXT 【Shiroyama】
+<enT0453>"D-Damn it! Get the hell back here!"
+<ptT0453>"D-Damn it! Get the hell back here!"
+
+//TEXT 【Zakuro】
+<enT0454>"Wh-What was that?"
+<ptT0454>"Wh-What was that?"
+
+//TEXT 【Kimika】
+<enT0455>"It was a xenon flashlight!"
+<ptT0455>"It was a xenon flashlight!"
+
+//TEXT 【Zakuro】
+<enT0456>"What's that?"
+<ptT0456>"What's that?"
+
+//TEXT 【Kimika】
+<enT0457>"Well, you just need to know it's a really bright kind of flashlight. It won't blind someone permanently, but it'll mess with their vision if they look directly at it. It's perfect for running away."
+<ptT0457>"Well, you just need to know it's a really bright kind of flashlight. It won't blind someone permanently, but it'll mess with their vision if they look directly at it. It's perfect for running away."
+
+//TEXT 【Shiroyama】
+<enT0458>"You bitch!"
+<ptT0458>"You bitch!"
+
+//TEXT 【Kimika】
+<enT0459>"Whoa! They're already starting to recover!"
+<ptT0459>"Whoa! They're already starting to recover!"
+
+//TEXT
+<enT0460>Kimika pulled my hand and ran.
+<ptT0460>Kimika pulled my hand and ran.
+
+//TEXT 【Kimika】
+<enT0461>"Take this!"
+<ptT0461>"Take this!"
+
+//TEXT
+<enT0462>Kimika threw something that looked like a test tube at them.
+<ptT0462>Kimika threw something that looked like a test tube at them.
+
+//TEXT
+<enT0463>It must have been really thin glass, since it broke instantly when it hit one of them.
+<ptT0463>It must have been really thin glass, since it broke instantly when it hit one of them.
+
+//TEXT 【Shiroyama】
+<enT0464>"The fuck is this shit?! God damn, it smells like shit!"
+<ptT0464>"The fuck is this shit?! God damn, it smells like shit!"
+
+//TEXT 【Nishimura】
+<enT0465>"Wh-whoa... What the fuck... Is this nattou?"
+<ptT0465>"Wh-whoa... What the fuck... Is this nattou?"
+
+//TEXT 【Shiroyama】
+<enT0466>"N-Nattou?! Fuck, it smells so bad."
+<ptT0466>"N-Nattou?! Fuck, it smells so bad."
+
+//TEXT 【Iida】
+<enT0467>"It probably is nattou... It's like rotten nattou."
+<ptT0467>"It probably is nattou... It's like rotten nattou."
+
+//TEXT 【Zakuro】
+<enT0468>"Wh-What was that? W-Will they be all right?"
+<ptT0468>"Wh-What was that? W-Will they be all right?"
+
+//TEXT 【Kimika】
+<enT0469>"It'll be fine. They won't die from it."
+<ptT0469>"It'll be fine. They won't die from it."
+
+//TEXT 【Zakuro】
+<enT0470>"B-But they were yelling... Was that poison?"
+<ptT0470>"B-But they were yelling... Was that poison?"
+
+//TEXT 【Kimika】
+<enT0471>"It's not poison. It's just Bacillus nattou."
+<ptT0471>"It's not poison. It's just Bacillus nattou."
+
+//TEXT 【Zakuro】
+<enT0472>"Nattou?"
+<ptT0472>"Nattou?"
+
+//TEXT 【Kimika】
+<enT0473>"Yeah, it's just a sticky liquid made from cultured nattou bacteria.
+<ptT0473>"Yeah, it's just a sticky liquid made from cultured nattou bacteria.
+
+//TEXT
+<enT0474> But those bacteria are really amazing. They're super resistant to heat, salinity, and antibiotics!"
+<ptT0474> But those bacteria are really amazing. They're super resistant to heat, salinity, and antibiotics!"
+
+//TEXT 【Zakuro】
+<enT0475>"Wh-What do you mean?"
+<ptT0475>"Wh-What do you mean?"
+
+//TEXT 【Kimika】
+<enT0476>"Once they're on your clothes, it's over. Even if you wash your clothes in boiling water for two hours, the bacteria won't die. Even ultraviolet rays can't kill them.
+<ptT0476>"Once they're on your clothes, it's over. Even if you wash your clothes in boiling water for two hours, the bacteria won't die. Even ultraviolet rays can't kill them.
+
+//TEXT
+<enT0477> And benzalkonium chloride won't do anything!"
+<ptT0477> And benzalkonium chloride won't do anything!"
+
+//TEXT
+<enT0478>Kimika really does know a lot about this stuff... She keeps saying words I've never heard before.
+<ptT0478>Kimika really does know a lot about this stuff... She keeps saying words I've never heard before.
+
+//TEXT 【Zakuro】
+<enT0479>"A-Anyway... It's really amazing, isn't it?"
+<ptT0479>"A-Anyway... It's really amazing, isn't it?"
+
+//TEXT 【Kimika】
+<enT0480>"Yeah, yeah. And I used the bulb from a fluorescent lamp so it would break easily. I even cut notches into the bulb and heated it up so it would break even easier."
+<ptT0480>"Yeah, yeah. And I used the bulb from a fluorescent lamp so it would break easily. I even cut notches into the bulb and heated it up so it would break even easier."
+
+//TEXT
+<enT0481>Kimika kept explaining as she ran.
+<ptT0481>Kimika kept explaining as she ran.
+
+//TEXT
+<enT0482>That's probably why...
+<ptT0482>That's probably why...
+
+//TEXT 【Kimika】
+<enT0483>"Haa, haa... C-Can we take a break, Zakuro?"
+<ptT0483>"Haa, haa... C-Can we take a break, Zakuro?"
+
+//TEXT 【Zakuro】
+<enT0484>"Oh, sure..."
+<ptT0484>"Oh, sure..."
+
+//TEXT
+<enT0485>She ran out of stamina around the time we passed through the school's front gate.
+<ptT0485>She ran out of stamina around the time we passed through the school's front gate.
+
+//TEXT 【Kimika】
+<enT0486>"Haa, haa... Zakuro, you're a pretty fast runner. Why don't you join the track and field club?"
+<ptT0486>"Haa, haa... Zakuro, you're a pretty fast runner. Why don't you join the track and field club?"
+
+//TEXT 【Zakuro】
+<enT0487>"Y-You think so?"
+<ptT0487>"Y-You think so?"
+
+//TEXT
+<enT0488>That can't be true. I'm the fourth slowest runner in our class.
+<ptT0488>That can't be true. I'm the fourth slowest runner in our class.
+
+//TEXT 【Kimika】
+<enT0489>"Haa, I'm pooped...
+<ptT0489>"Haa, I'm pooped...
+
+//TEXT
+<enT0490> Oh, we forgot to grab your stuff!"
+<ptT0490> Oh, we forgot to grab your stuff!"
+
+//TEXT 【Zakuro】
+<enT0491>"It'll be okay... My textbooks are already ruined, and I have a lock on all the stuff in my locker. All that stuff should be okay."
+<ptT0491>"It'll be okay... My textbooks are already ruined, and I have a lock on all the stuff in my locker. All that stuff should be okay."
+
+//TEXT 【Kimika】
+<enT0492>"You know I can open a school locker in a few seconds? That's hardly even a lock."
+<ptT0492>"You know I can open a school locker in a few seconds? That's hardly even a lock."
+
+//TEXT 【Zakuro】
+<enT0493>"But you're the only one who can do that. There's no way they could manage to do it."
+<ptT0493>"But you're the only one who can do that. There's no way they could manage to do it."
+
+//TEXT 【Kimika】
+<enT0494>"They could do it in half a second with a crowbar. I hear you can even open safes with a good crowbar."
+<ptT0494>"They could do it in half a second with a crowbar. I hear you can even open safes with a good crowbar."
+
+//TEXT 【Zakuro】
+<enT0495>"I see... Still, it'll be fine. We can't really go back for it now anyway."
+<ptT0495>"I see... Still, it'll be fine. We can't really go back for it now anyway."
+
+//TEXT 【Kimika】
+<enT0496>"But what are we going to do tomorrow? It'll pretty much be the same whether we go back now or wait until tomorrow."
+<ptT0496>"But what are we going to do tomorrow? It'll pretty much be the same whether we go back now or wait until tomorrow."
+
+//TEXT 【Zakuro】
+<enT0497>"No, we really shouldn't go back now... Doesn't it smell really bad in the hallway right now?"
+<ptT0497>"No, we really shouldn't go back now... Doesn't it smell really bad in the hallway right now?"
+
+//TEXT 【Kimika】
+<enT0498>"Well, I guess so..."
+<ptT0498>"Well, I guess so..."
+
+//TEXT 【Zakuro】
+<enT0499>"If we're wandering around the halls, the teachers might figure out it was us."
+<ptT0499>"If we're wandering around the halls, the teachers might figure out it was us."
+
+//TEXT 【Kimika】
+<enT0500>"I guess..."
+<ptT0500>"I guess..."
+
+//TEXT 【Zakuro】
+<enT0501>"Anyway, do you mind if I photocopy your textbooks? Without a textbook, I can't even go to class."
+<ptT0501>"Anyway, do you mind if I photocopy your textbooks? Without a textbook, I can't even go to class."
+
+//TEXT 【Kimika】
+<enT0502>"I don't mind at all, but you really don't need to go get anything out of your locker?"
+<ptT0502>"I don't mind at all, but you really don't need to go get anything out of your locker?"
+
+//TEXT 【Zakuro】
+<enT0503>"No. I can order more textbooks at school if I need to."
+<ptT0503>"No. I can order more textbooks at school if I need to."
+
+//TEXT 【Kimika】
+<enT0504>"Oh... All right, gotcha."
+<ptT0504>"Oh... All right, gotcha."
+
+//TEXT 【Zakuro】
+<enT0505>"Ah!"
+<ptT0505>"Ah!"
+
+//TEXT 【Takuji】
+<enT0506>"Eh?"
+<ptT0506>"Eh?"
+
+//TEXT 【Zakuro】
+<enT0507>"Mamiya-kun!"
+<ptT0507>"Mamiya-kun!"
+
+//TEXT 【Mamiya】
+<enT0508>"...Who are you?"
+<ptT0508>"...Who are you?"
+
+//TEXT 【Zakuro】
+<enT0509>"Y-You forgot again? Takashima Zakuro. I'm Takashima Zakuro!"
+<ptT0509>"Y-You forgot again? Takashima Zakuro. I'm Takashima Zakuro!"
+
+//TEXT 【Mamiya】
+<enT0510>"Takashima Zakuro... Zakuro..."
+<ptT0510>"Takashima Zakuro... Zakuro..."
+
+//TEXT 【Zakuro】
+<enT0511>"U-Um, you really don't remember? You lent me one of your books."
+<ptT0511>"U-Um, you really don't remember? You lent me one of your books."
+
+//TEXT 【Mamiya】
+<enT0512>"A book? Now that you mention it...
+<ptT0512>"A book? Now that you mention it...
+
+//TEXT
+<enT0513> Oh, right. I remember, or I guess I should say, I understand."
+<ptT0513> Oh, right. I remember, or I guess I should say, I understand."
+
+//TEXT 【Mamiya】
+<enT0514>"Takashima Zakuro... The girl whose clothes I stole and had to give back, huh..."
+<ptT0514>"Takashima Zakuro... The girl whose clothes I stole and had to give back, huh..."
+
+//TEXT 【Zakuro】
+<enT0515>"Huh?! U-Um..."
+<ptT0515>"Huh?! U-Um..."
+
+//TEXT 【Kimika】
+<enT0516>"Mamiya... Takuji, was it?"
+<ptT0516>"Mamiya... Takuji, was it?"
+
+//TEXT 【Mamiya】
+<enT0517>"..."
+<ptT0517>"..."
+
+//TEXT 【Kimika】
+<enT0518>"What do you mean stole?"
+<ptT0518>"What do you mean stole?"
+
+//TEXT 【Mamiya】
+<enT0519>"I'm not sure what you mean... What are you asking me?"
+<ptT0519>"I'm not sure what you mean... What are you asking me?"
+
+//TEXT 【Kimika】
+<enT0520>"Does that mean you were bullying Zakuro too?"
+<ptT0520>"Does that mean you were bullying Zakuro too?"
+
+//TEXT 【Zakuro】
+<enT0521>"Ah, n-no, that's not it! Uh, Kimika!"
+<ptT0521>"Ah, n-no, that's not it! Uh, Kimika!"
+
+//TEXT 【Mamiya】
+<enT0522>"Hehehehe... Not that I care, but you really do have a lot of those, don't you?"
+<ptT0522>"Hehehehe... Not that I care, but you really do have a lot of those, don't you?"
+
+//TEXT 【Kimika】
+<enT0523>"You...
+<ptT0523>"You...
+
+//TEXT
+<enT0524> Wh-What are you talking about?"
+<ptT0524> Wh-What are you talking about?"
+
+//TEXT 【Mamiya】
+<enT0525>"You should think a little harder about which hand you're using to hold the bag and which hand you're using to pull something out..."
+<ptT0525>"You should think a little harder about which hand you're using to hold the bag and which hand you're using to pull something out..."
+
+//TEXT 【Kimika】
+<enT0526>"Why, you!"
+<ptT0526>"Why, you!"
+
+//TEXT 【Zakuro】
+<enT0527>"Mamiya-kun!"
+<ptT0527>"Mamiya-kun!"
+
+//TEXT
+<enT0528>She struck out.
+<ptT0528>She struck out.
+
+//TEXT
+<enT0529>But he easily avoided it.
+<ptT0529>But he easily avoided it.
+
+//TEXT 【Mamiya】
+<enT0530>"Simultaneously extending the baton and striking with it. That's what I thought... Well, an amateur wouldn't be able to dodge that, but..."
+<ptT0530>"Simultaneously extending the baton and striking with it. That's what I thought... Well, an amateur wouldn't be able to dodge that, but..."
+
+//TEXT 【Kimika】
+<enT0531>"Tch!"
+<ptT0531>"Tch!"
+
+//TEXT 【Zakuro】
+<enT0532>"K-Kimika, what are you doing?! Mamiya-kun isn't our enemy!"
+<ptT0532>"K-Kimika, what are you doing?! Mamiya-kun isn't our enemy!"
+
+//TEXT 【Kimika】
+<enT0533>"He just said he stole your clothes! He's one of Shiroyama's cronies!"
+<ptT0533>"He just said he stole your clothes! He's one of Shiroyama's cronies!"
+
+//TEXT 【Mamiya】
+<enT0534>"What a pain..."
+<ptT0534>"What a pain..."
+
+//TEXT 【Kimika】
+<enT0535>"Ah!"
+<ptT0535>"Ah!"
+
+//TEXT 【Kimika】
+<enT0536>"A-Ahh... L-Let go!"
+<ptT0536>"A-Ahh... L-Let go!"
+
+//TEXT 【Zakuro】
+<enT0537>"Mamiya-kun, don't! She didn't mean to do that!"
+<ptT0537>"Mamiya-kun, don't! She didn't mean to do that!"
+
+//TEXT 【Mamiya】
+<enT0538>"I don't see how you could accidentally whip out a baton and try to hit someone with it."
+<ptT0538>"I don't see how you could accidentally whip out a baton and try to hit someone with it."
+
+//TEXT 【Kimika】
+<enT0539>"D-Don't touch me in weird places!"
+<ptT0539>"D-Don't touch me in weird places!"
+
+//TEXT 【Zakuro】
+<enT0540>"W-Weird places?!"
+<ptT0540>"W-Weird places?!"
+
+//TEXT 【Mamiya】
+<enT0541>"Huh? You mean the boobs you don't have?"
+<ptT0541>"Huh? You mean the boobs you don't have?"
+
+//TEXT 【Kimika】
+<enT0542>"I do have boobs! They're just average!"
+<ptT0542>"I do have boobs! They're just average!"
+
+//TEXT 【Mamiya】
+<enT0543>"Really? Aren't most girls a bit bigger? In magazines and stuff they're always..."
+<ptT0543>"Really? Aren't most girls a bit bigger? In magazines and stuff they're always..."
+
+//TEXT 【Kimika】
+<enT0544>"Are you fucking stupid?! Those girls are practically made in photoshop! No one actually looks like that!"
+<ptT0544>"Are you fucking stupid?! Those girls are practically made in photoshop! No one actually looks like that!"
+
+//TEXT 【Zakuro】
+<enT0545>"No, that's a bit of a stretch, Kimika."
+<ptT0545>"No, that's a bit of a stretch, Kimika."
+
+//TEXT 【Mamiya】
+<enT0546>"Whatever you say..."
+<ptT0546>"Whatever you say..."
+
+//TEXT 【Kimika】
+<enT0547>"..."
+<ptT0547>"..."
+
+//TEXT 【Mamiya】
+<enT0548>"So then, what do you want? Why did you two show up and suddenly start attacking me?"
+<ptT0548>"So then, what do you want? Why did you two show up and suddenly start attacking me?"
+
+//TEXT 【Zakuro】
+<enT0549>"Eh? Y-You're misunderstanding. That's not what this is about!"
+<ptT0549>"Eh? Y-You're misunderstanding. That's not what this is about!"
+
+//TEXT 【Kimika】
+<enT0550>"It's because you're deceiving Zakuro!"
+<ptT0550>"It's because you're deceiving Zakuro!"
+
+//TEXT 【Mamiya】
+<enT0551>"Deceiving?"
+<ptT0551>"Deceiving?"
+
+//TEXT 【Kimika】
+<enT0552>"That's right. You're one of Shiroyama's goons, but you keep saying nice things to Zakuro... What are you trying to pull?"
+<ptT0552>"That's right. You're one of Shiroyama's goons, but you keep saying nice things to Zakuro... What are you trying to pull?"
+
+//TEXT 【Mamiya】
+<enT0553>"By Zakuro, you mean... this girl here, the one with bigger boobs than you?"
+<ptT0553>"By Zakuro, you mean... this girl here, the one with bigger boobs than you?"
+
+//TEXT 【Kimika】
+<enT0554>"Wh-
+<ptT0554>"Wh-
+
+//TEXT
+<enT0555>What did you just say?!"
+<ptT0555>What did you just say?!"
+
+//TEXT 【Zakuro】
+<enT0556>"Ah, ah, wha―Mamiya-kun! You can't say that!"
+<ptT0556>"Ah, ah, wha―Mamiya-kun! You can't say that!"
+
+//TEXT 【Kimika】
+<enT0557>"I'll kill you! I'll put you ten fucking feet under!"
+<ptT0557>"I'll kill you! I'll put you ten fucking feet under!"
+
+//TEXT 【Zakuro】
+<enT0558>"K-Kimika! That's a knife!"
+<ptT0558>"K-Kimika! That's a knife!"
+
+//TEXT 【Mamiya】
+<enT0559>"What's wrong with you...
+<ptT0559>"What's wrong with you...
+
+//TEXT
+<enT0560> Hey, Takashima, what's going on here?"
+<ptT0560> Hey, Takashima, what's going on here?"
+
+//TEXT 【Zakuro】
+<enT0561>"Eh? Uh, this is a misunderstanding! Kimika, stop!"
+<ptT0561>"Eh? Uh, this is a misunderstanding! Kimika, stop!"
+
+//TEXT 【Mamiya】
+<enT0562>"Isn't she your friend?"
+<ptT0562>"Isn't she your friend?"
+
+//TEXT 【Kimika】
+<enT0563>"Take this! And this! You! Little!"
+<ptT0563>"Take this! And this! You! Little!"
+
+//TEXT 【Mamiya】
+<enT0564>"It's not that I really care, but that is a very nice knife... What is it?"
+<ptT0564>"It's not that I really care, but that is a very nice knife... What is it?"
+
+//TEXT 【Kimika】
+<enT0565>"It's the famous Extreme Ratio BF2 Tactical Tanto! And don't you forget it!"
+<ptT0565>"It's the famous Extreme Ratio BF2 Tactical Tanto! And don't you forget it!"
+
+//TEXT 【Mamiya】
+<enT0566>"Hmm."
+<ptT0566>"Hmm."
+
+//TEXT 【Kimika】
+<enT0567>"Ow!"
+<ptT0567>"Ow!"
+
+//TEXT 【Mamiya】
+<enT0568>"Oh, wow... This is really cool."
+<ptT0568>"Oh, wow... This is really cool."
+
+//TEXT 【Kimika】
+<enT0569>"Eh? Where's my knife?"
+<ptT0569>"Eh? Where's my knife?"
+
+//TEXT 【Mamiya】
+<enT0570>"This is too dangerous for you. I'll be confiscating it."
+<ptT0570>"This is too dangerous for you. I'll be confiscating it."
+
+//TEXT 【Kimika】
+<enT0571>"Wh-What?! I saved up my allowance forever to buy that!"
+<ptT0571>"Wh-What?! I saved up my allowance forever to buy that!"
+
+//TEXT 【Mamiya】
+<enT0572>"Oh, really? What a strange woman... Why would you buy a knife?"
+<ptT0572>"Oh, really? What a strange woman... Why would you buy a knife?"
+
+//TEXT 【Kimika】
+<enT0573>"L-Like it matters to you!"
+<ptT0573>"L-Like it matters to you!"
+
+//TEXT 【Mamiya】
+<enT0574>"Then I won't give it back..."
+<ptT0574>"Then I won't give it back..."
+
+//TEXT 【Kimika】
+<enT0575>"Y-You can't do that!"
+<ptT0575>"Y-You can't do that!"
+
+//TEXT 【Mamiya】
+<enT0576>"How much was it?"
+<ptT0576>"How much was it?"
+
+//TEXT 【Kimika】
+<enT0577>"It was over 20,000 yen."
+<ptT0577>"It was over 20,000 yen."
+
+//TEXT 【Mamiya】
+<enT0578>"Oh, really...
+<ptT0578>"Oh, really...
+
+//TEXT
+<enT0579> Then I'll be taking it off your hands."
+<ptT0579> Then I'll be taking it off your hands."
+
+//TEXT 【Kimika】
+<enT0580>"You can't do that!
+<ptT0580>"You can't do that!
+
+//TEXT
+<enT0581> And besides."
+<ptT0581> And besides."
+
+//TEXT 【Kimika】
+<enT0582>"Do you really think I'm just gonna let you take it?"
+<ptT0582>"Do you really think I'm just gonna let you take it?"
+
+//TEXT 【Mamiya】
+<enT0583>"You really think there's anyone blind enough that they wouldn't see you fishing around for that pepper spray?"
+<ptT0583>"You really think there's anyone blind enough that they wouldn't see you fishing around for that pepper spray?"
+
+//TEXT 【Kimika】
+<enT0584>"Behind me?"
+<ptT0584>"Behind me?"
+
+//TEXT 【Mamiya】
+<enT0585>"I don't know what your problem is, but... I'll let you go for today in exchange for this knife. Go home."
+<ptT0585>"I don't know what your problem is, but... I'll let you go for today in exchange for this knife. Go home."
+
+//TEXT 【Kimika】
+<enT0586>"As if I could go home without my Extreme Ratio!"
+<ptT0586>"As if I could go home without my Extreme Ratio!"
+
+//TEXT 【Mamiya】
+<enT0587>"Haa... Sure, sure.
+<ptT0587>"Haa... Sure, sure.
+
+//TEXT
+<enT0588> Hey Takashima, could you say something to her."
+<ptT0588> Hey Takashima, could you say something to her."
+
+//TEXT 【Zakuro】
+<enT0589>"Eh? Wh-What should I say?"
+<ptT0589>"Eh? Wh-What should I say?"
+
+//TEXT 【Mamiya】
+<enT0590>"Isn't it dangerous for a girl to be carrying something like this around? Besides, someone's going to get hurt if a violent woman like this has a knife."
+<ptT0590>"Isn't it dangerous for a girl to be carrying something like this around? Besides, someone's going to get hurt if a violent woman like this has a knife."
+
+//TEXT 【Zakuro】
+<enT0591>"U-Um, there's a good reason for all this..."
+<ptT0591>"U-Um, there's a good reason for all this..."
+
+//TEXT 【Mamiya】
+<enT0592>"No, I'm sure everyone has some kind of excuse. That doesn't mean I'm gonna let her go around pulling knives on people."
+<ptT0592>"No, I'm sure everyone has some kind of excuse. That doesn't mean I'm gonna let her go around pulling knives on people."
+
+//TEXT 【Zakuro】
+<enT0593>"Of course, but..."
+<ptT0593>"Of course, but..."
+
+//TEXT
+<enT0594>Wh-What is it... Today, he's different from normal...
+<ptT0594>Wh-What is it... Today, he's different from normal...
+
+//TEXT
+<enT0595>He's not even close to the same amazing person I know... but he's nothing like the Mamiya-kun that's always in his underground room, either...
+<ptT0595>He's not even close to the same amazing person I know... but he's nothing like the Mamiya-kun that's always in his underground room, either...
+
+//TEXT 【Kimika】
+<enT0596>"So you really are our enemy, Mamiya Takuji!"
+<ptT0596>"So you really are our enemy, Mamiya Takuji!"
+
+//TEXT 【Mamiya】
+<enT0597>"Enemy?
+<ptT0597>"Enemy?
+
+//TEXT
+<enT0598> The hell are you talking about..."
+<ptT0598> The hell are you talking about..."
+
+//TEXT 【Kimika】
+<enT0599>"Look! This is what he's really like, Zakuro! He's the kind of villain who would steal my knife!"
+<ptT0599>"Look! This is what he's really like, Zakuro! He's the kind of villain who would steal my knife!"
+
+//TEXT 【Zakuro】
+<enT0600>"Uh, but you did suddenly attack him with..."
+<ptT0600>"Uh, but you did suddenly attack him with..."
+
+//TEXT 【Kimika】
+<enT0601>"He said I had a flat chest!"
+<ptT0601>"He said I had a flat chest!"
+
+//TEXT 【Zakuro】
+<enT0602>"H-He didn't quite say that..."
+<ptT0602>"H-He didn't quite say that..."
+
+//TEXT 【Mamiya】
+<enT0603>"No, that would probably be the best way to describe it."
+<ptT0603>"No, that would probably be the best way to describe it."
+
+//TEXT 【Kimika】
+<enT0604>"The hell did you just say?!"
+<ptT0604>"The hell did you just say?!"
+
+//TEXT 【Mamiya】
+<enT0605>"There's really no reason for you to even wear a bra if you're that flat... You know? Wouldn't you be fine just using a couple bandaids?"
+<ptT0605>"There's really no reason for you to even wear a bra if you're that flat... You know? Wouldn't you be fine just using a couple bandaids?"
+
+//TEXT 【Kimika】
+<enT0606>"Wh-Wh-Wh-What?!
+<ptT0606>"Wh-Wh-Wh-What?!
+
+//TEXT
+<enT0607> That's what you fucking say after groping a maiden's chest?! There's no way I'm letting you go now!"
+<ptT0607> That's what you fucking say after groping a maiden's chest?! There's no way I'm letting you go now!"
+
+//TEXT 【Mamiya】
+<enT0608>"Wha―?!"
+<ptT0608>"Wha―?!"
+
+//TEXT
+<enT0609>Mamiya-kun was completely at ease before, but this time he was surprised. Kimika pulled out a pistol.
+<ptT0609>Mamiya-kun was completely at ease before, but this time he was surprised. Kimika pulled out a pistol.
+
+//TEXT 【Kimika】
+<enT0610>"Die!"
+<ptT0610>"Die!"
+
+//TEXT 【Mamiya】
+<enT0611>"A-Are you stupid? That hurt!"
+<ptT0611>"A-Are you stupid? That hurt!"
+
+//TEXT 【Mamiya】
+<enT0612>"How stupid are you?!"
+<ptT0612>"How stupid are you?!"
+
+//TEXT 【Kimika】
+<enT0613>"Ah!"
+<ptT0613>"Ah!"
+
+//TEXT 【Mamiya】
+<enT0614>"I didn't expect you to pull out an airgun... I thought it was pepper spray again, so I let my guard down."
+<ptT0614>"I didn't expect you to pull out an airgun... I thought it was pepper spray again, so I let my guard down."
+
+//TEXT 【Zakuro】
+<enT0615>"An airgun?"
+<ptT0615>"An airgun?"
+
+//TEXT 【Mamiya】
+<enT0616>"I was wondering why you were backing away from me... I can't believe you had an airgun in there too. I'll be confiscating this as well."
+<ptT0616>"I was wondering why you were backing away from me... I can't believe you had an airgun in there too. I'll be confiscating this as well."
+
+//TEXT 【Kimika】
+<enT0617>"Aaah!
+<ptT0617>"Aaah!
+
+//TEXT
+<enT0618> A-At least let me keep that! Some of the parts in that gun are authentic!"
+<ptT0618> A-At least let me keep that! Some of the parts in that gun are authentic!"
+
+//TEXT 【Mamiya】
+<enT0619>"I don't care... Anyway,
+<ptT0619>"I don't care... Anyway,
+
+//TEXT
+<enT0620> I'll be taking this knife and this airgun as reparations."
+<ptT0620> I'll be taking this knife and this airgun as reparations."
+
+//TEXT 【Zakuro】
+<enT0621>"U-Um..."
+<ptT0621>"U-Um..."
+
+//TEXT 【Mamiya】
+<enT0622>"What? Is there a problem with that?"
+<ptT0622>"What? Is there a problem with that?"
+
+//TEXT 【Zakuro】
+<enT0623>"Um, no... She did attack you with a knife, so we should really be glad that you're not calling the police."
+<ptT0623>"Um, no... She did attack you with a knife, so we should really be glad that you're not calling the police."
+
+//TEXT 【Zakuro】
+<enT0624>"B-Besides..."
+<ptT0624>"B-Besides..."
+
+//TEXT 【Mamiya】
+<enT0625>"Besides?"
+<ptT0625>"Besides?"
+
+//TEXT 【Zakuro】
+<enT0626>"Today, you kind of seem different from normal, Mamiya-kun."
+<ptT0626>"Today, you kind of seem different from normal, Mamiya-kun."
+
+//TEXT 【Mamiya】
+<enT0627>"From normal?
+<ptT0627>"From normal?
+
+//TEXT
+<enT0628> Oh, that's right... I like to lay low at school. That's probably why I seem different."
+<ptT0628> Oh, that's right... I like to lay low at school. That's probably why I seem different."
+
+//TEXT 【Zakuro】
+<enT0629>"I-I guess so..."
+<ptT0629>"I-I guess so..."
+
+//TEXT
+<enT0630>But last time I met him outside of school, he wasn't like this...
+<ptT0630>But last time I met him outside of school, he wasn't like this...
+
+//TEXT 【Mamiya】
+<enT0631>"Oh, wait... You're talking about the times when I read lots of books?"
+<ptT0631>"Oh, wait... You're talking about the times when I read lots of books?"
+
+//TEXT 【Zakuro】
+<enT0632>"Ah, yes."
+<ptT0632>"Ah, yes."
+
+//TEXT 【Mamiya】
+<enT0633>"Then you don't need to worry... Pretty soon, you won't be able to meet any Mamiya Takuji other than that one."
+<ptT0633>"Then you don't need to worry... Pretty soon, you won't be able to meet any Mamiya Takuji other than that one."
+
+//TEXT 【Zakuro】
+<enT0634>"Eh? Wh-What do you mean?"
+<ptT0634>"Eh? Wh-What do you mean?"
+
+//TEXT 【Mamiya】
+<enT0635>"What do I mean? There's no meaning...
+<ptT0635>"What do I mean? There's no meaning...
+
+//TEXT
+<enT0636> Think of it as a change of personality. I'd like to be a bit more diligent and studious from now on."
+<ptT0636> Think of it as a change of personality. I'd like to be a bit more diligent and studious from now on."
+
+//TEXT 【Zakuro】
+<enT0637>"Oh, th-that's why you're always reading on the rooftop?"
+<ptT0637>"Oh, th-that's why you're always reading on the rooftop?"
+
+//TEXT 【Mamiya】
+<enT0638>"Yeah."
+<ptT0638>"Yeah."
+
+//TEXT 【Zakuro】
+<enT0639>"But that's weird."
+<ptT0639>"But that's weird."
+
+//TEXT 【Mamiya】
+<enT0640>"Weird? How so?"
+<ptT0640>"Weird? How so?"
+
+//TEXT 【Zakuro】
+<enT0641>"I wouldn't call a person diligent and studious if they were skipping class."
+<ptT0641>"I wouldn't call a person diligent and studious if they were skipping class."
+
+//TEXT 【Mamiya】
+<enT0642>"I guess you're right...
+<ptT0642>"I guess you're right...
+
+//TEXT
+<enT0643> Not that it really matters."
+<ptT0643> Not that it really matters."
+
+//TEXT 【Zakuro】
+<enT0644>"U-Um, thank you for lending me <i>Cyrano de Bergerac</i>!"
+<ptT0644>"U-Um, thank you for lending me <i>Cyrano de Bergerac</i>!"
+
+//TEXT 【Mamiya】
+<enT0645>"Cyrano? Oh, the play."
+<ptT0645>"Cyrano? Oh, the play."
+
+//TEXT
+<enT0646>Oh, he does know...
+<ptT0646>Oh, he does know...
+
+//TEXT
+<enT0647>Maybe he really is the same Mamiya-kun that I met on the rooftop?
+<ptT0647>Maybe he really is the same Mamiya-kun that I met on the rooftop?
+
+//TEXT 【Mamiya】
+<enT0648>"What, you like stuffy books like that?"
+<ptT0648>"What, you like stuffy books like that?"
+
+//TEXT 【Zakuro】
+<enT0649>"Eh?"
+<ptT0649>"Eh?"
+
+//TEXT 【Kimika】
+<enT0650>"Stuffy like a stuffy nose?"
+<ptT0650>"Stuffy like a stuffy nose?"
+
+//TEXT 【Zakuro】
+<enT0651>"No, he's talking about sophisticated literature...
+<ptT0651>"No, he's talking about sophisticated literature...
+
+//TEXT
+<enT0652> Books that are aimed at intellectuals and high society... Stuff like that."
+<ptT0652> Books that are aimed at intellectuals and high society... Stuff like that."
+
+//TEXT 【Zakuro】
+<enT0653>"Hey, wait! You were the one that recommended Cyrano to me, Mamiya-kun!"
+<ptT0653>"Hey, wait! You were the one that recommended Cyrano to me, Mamiya-kun!"
+
+//TEXT 【Mamiya】
+<enT0654>"Maybe I did. Did you like it? Then don't mind me."
+<ptT0654>"Maybe I did. Did you like it? Then don't mind me."
+
+//TEXT 【Zakuro】
+<enT0655>"B-But Mamiya-kun, you said you liked it too!"
+<ptT0655>"B-But Mamiya-kun, you said you liked it too!"
+
+//TEXT 【Mamiya】
+<enT0656>"Like I said, that's when I'm at school."
+<ptT0656>"Like I said, that's when I'm at school."
+
+//TEXT 【Zakuro】
+<enT0657>"Th-Then you don't like it?"
+<ptT0657>"Th-Then you don't like it?"
+
+//TEXT 【Mamiya】
+<enT0658>"Dunno...
+<ptT0658>"Dunno...
+
+//TEXT
+<enT0659> Why do you care about that?"
+<ptT0659> Why do you care about that?"
+
+//TEXT 【Zakuro】
+<enT0660>"Eh?"
+<ptT0660>"Eh?"
+
+//TEXT 【Mamiya】
+<enT0661>"Would you change your opinion and say you liked something just because someone else said they liked it?"
+<ptT0661>"Would you change your opinion and say you liked something just because someone else said they liked it?"
+
+//TEXT 【Zakuro】
+<enT0662>"Th-That's..."
+<ptT0662>"Th-That's..."
+
+//TEXT 【Mamiya】
+<enT0663>"It doesn't matter whether I like it or not."
+<ptT0663>"It doesn't matter whether I like it or not."
+
+//TEXT 【Zakuro】
+<enT0664>"That's true, but..."
+<ptT0664>"That's true, but..."
+
+//TEXT 【Kimika】
+<enT0665>"Who cares about that? Give me back my weapons!"
+<ptT0665>"Who cares about that? Give me back my weapons!"
+
+//TEXT 【Mamiya】
+<enT0666>"No way. I'm holding onto these."
+<ptT0666>"No way. I'm holding onto these."
+
+//TEXT 【Kimika】
+<enT0667>"Why, you..."
+<ptT0667>"Why, you..."
+
+//TEXT 【Zakuro】
+<enT0668>"S-Stop. If you keep going, he's just going to take more of your weapons away."
+<ptT0668>"S-Stop. If you keep going, he's just going to take more of your weapons away."
+
+//TEXT 【Mamiya】
+<enT0669>"That's right. You should listen to her. There's no point in fighting me."
+<ptT0669>"That's right. You should listen to her. There's no point in fighting me."
+
+//TEXT 【Kimika】
+<enT0670>"I-I have to try!"
+<ptT0670>"I-I have to try!"
+
+//TEXT 【Mamiya】
+<enT0671>"Are you dumb...
+<ptT0671>"Are you dumb...
+
+//TEXT
+<enT0672> I thought you hated people like that."
+<ptT0672> I thought you hated people like that."
+
+//TEXT 【Kimika】
+<enT0673>"Wh-What do you mean?"
+<ptT0673>"Wh-What do you mean?"
+
+//TEXT 【Mamiya】
+<enT0674>"You're not the type to run headlong into a fight without a plan, are you?"
+<ptT0674>"You're not the type to run headlong into a fight without a plan, are you?"
+
+//TEXT 【Mamiya】
+<enT0675>"You're incredibly weak, even for a woman. Your reflexes are slow, too..."
+<ptT0675>"You're incredibly weak, even for a woman. Your reflexes are slow, too..."
+
+//TEXT 【Kimika】
+<enT0676>"Th-Thats...
+<ptT0676>"Th-Thats...
+
+//TEXT
+<enT0677> Just how the hell would you know what type of person I am anyway?!"
+<ptT0677> Just how the hell would you know what type of person I am anyway?!"
+
+//TEXT 【Mamiya】
+<enT0678>"I can tell. It's a simple deduction. If I see a person who's incredibly weak carrying around that many backup weapons, it's obvious that they're the type to plan ahead."
+<ptT0678>"I can tell. It's a simple deduction. If I see a person who's incredibly weak carrying around that many backup weapons, it's obvious that they're the type to plan ahead."
+
+//TEXT 【Mamiya】
+<enT0679>"A lot of people like that fail to actually act when the time comes, though... but I can see that you're not one of them."
+<ptT0679>"A lot of people like that fail to actually act when the time comes, though... but I can see that you're not one of them."
+
+//TEXT 【Mamiya】
+<enT0680>"Either way, you came and picked a fight with me..."
+<ptT0680>"Either way, you came and picked a fight with me..."
+
+//TEXT 【Kimika】
+<enT0681>"You're so cocky. You act like you're some famous swordsman or something..."
+<ptT0681>"You're so cocky. You act like you're some famous swordsman or something..."
+
+//TEXT 【Mamiya】
+<enT0682>"I wouldn't say that,
+<ptT0682>"I wouldn't say that,
+
+//TEXT
+<enT0683> but you know what kind of person I am. You said I was one of Shiroyama's cronies, after all."
+<ptT0683> but you know what kind of person I am. You said I was one of Shiroyama's cronies, after all."
+
+//TEXT 【Kimika】
+<enT0684>"You're the one pulling Shiroyama and Numada's strings, aren't you?"
+<ptT0684>"You're the one pulling Shiroyama and Numada's strings, aren't you?"
+
+//TEXT 【Mamiya】
+<enT0685>"Who knows... I couldn't tell you that. Anyway,
+<ptT0685>"Who knows... I couldn't tell you that. Anyway,
+
+//TEXT
+<enT0686> I'll let you go for today.
+<ptT0686> I'll let you go for today.
+
+//TEXT
+<enT0687> If this happens again, I'll be taking more of your toys!"
+<ptT0687> If this happens again, I'll be taking more of your toys!"
+
+//TEXT
+<enT0688>He laughed and slowly walked off.
+<ptT0688>He laughed and slowly walked off.
+
+//TEXT
+<enT0689>Completely unflustered...
+<ptT0689>Completely unflustered...
+
+//TEXT 【Kimika】
+<enT0690>"If this happens again, you'll be going home in a wheelchair!"
+<ptT0690>"If this happens again, you'll be going home in a wheelchair!"
+
+//TEXT 【Mamiya】
+<enT0691>"Hahahaha... I'm looking forward to it."
+<ptT0691>"Hahahaha... I'm looking forward to it."
+
+//TEXT
+<enT0692>Why is his personality so different every time I meet him?
+<ptT0692>Why is his personality so different every time I meet him?
+
+//TEXT
+<enT0693>Is he really just acting when he's at school?
+<ptT0693>Is he really just acting when he's at school?
+
+//TEXT
+<enT0694>Then what on earth could he have been pretending to be when I met him in that underground room?
+<ptT0694>Then what on earth could he have been pretending to be when I met him in that underground room?
+
+//TEXT
+<enT0695>The more I learn about him, the more mysterious he seems.
+<ptT0695>The more I learn about him, the more mysterious he seems.
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0709.bss
+<ptZ0001>3_0709.bss
+
+//OTHER
+<enZ0002>July 9th
+<ptZ0002>July 9th
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>dayzk0709
+<ptZ0004>dayzk0709
+
+//OTHER
+<enZ0005>bg1014d
+<ptZ0005>bg1014d
+
+//OTHER
+<enZ0006>km0010a
+<ptZ0006>km0010a
+
+//OTHER
+<enZ0007>bgm020
+<ptZ0007>bgm020
+
+//OTHER
+<enZ0008>kimi_001324
+<ptZ0008>kimi_001324
+
+//OTHER
+<enZ0009>zaku_002242
+<ptZ0009>zaku_002242
+
+//OTHER
+<enZ0010>km0000a
+<ptZ0010>km0000a
+
+//OTHER
+<enZ0011>kimi_001325
+<ptZ0011>kimi_001325
+
+//OTHER
+<enZ0012>zaku_002243
+<ptZ0012>zaku_002243
+
+//OTHER
+<enZ0013>sato_000145
+<ptZ0013>sato_000145
+
+//OTHER
+<enZ0014>km0000
+<ptZ0014>km0000
+
+//OTHER
+<enZ0015>st0050
+<ptZ0015>st0050
+
+//OTHER
+<enZ0016>mg0050
+<ptZ0016>mg0050
+
+//OTHER
+<enZ0017>km0011
+<ptZ0017>km0011
+
+//OTHER
+<enZ0018>kimi_001326
+<ptZ0018>kimi_001326
+
+//OTHER
+<enZ0019>st0004
+<ptZ0019>st0004
+
+//OTHER
+<enZ0020>mg0004
+<ptZ0020>mg0004
+
+//OTHER
+<enZ0021>sato_000146
+<ptZ0021>sato_000146
+
+//OTHER
+<enZ0022>st0005
+<ptZ0022>st0005
+
+//OTHER
+<enZ0023>km0004
+<ptZ0023>km0004
+
+//OTHER
+<enZ0024>kimi_001327
+<ptZ0024>kimi_001327
+
+//OTHER
+<enZ0025>bgm025
+<ptZ0025>bgm025
+
+//OTHER
+<enZ0026>sato_000147
+<ptZ0026>sato_000147
+
+//OTHER
+<enZ0027>sato_000148
+<ptZ0027>sato_000148
+
+//OTHER
+<enZ0028>mg0005
+<ptZ0028>mg0005
+
+//OTHER
+<enZ0029>megu_000228
+<ptZ0029>megu_000228
+
+//OTHER
+<enZ0030>sato_000149
+<ptZ0030>sato_000149
+
+//OTHER
+<enZ0031>km0003
+<ptZ0031>km0003
+
+//OTHER
+<enZ0032>kimi_001328
+<ptZ0032>kimi_001328
+
+//OTHER
+<enZ0033>km0001
+<ptZ0033>km0001
+
+//OTHER
+<enZ0034>sato_000150
+<ptZ0034>sato_000150
+
+//OTHER
+<enZ0035>megu_000229
+<ptZ0035>megu_000229
+
+//OTHER
+<enZ0036>st0020
+<ptZ0036>st0020
+
+//OTHER
+<enZ0037>Black
+<ptZ0037>Black
+
+//OTHER
+<enZ0038>sato_000151
+<ptZ0038>sato_000151
+
+//OTHER
+<enZ0039>map013
+<ptZ0039>map013
+
+//OTHER
+<enZ0040>bg1014a
+<ptZ0040>bg1014a
+
+//OTHER
+<enZ0041>sato_000152
+<ptZ0041>sato_000152
+
+//OTHER
+<enZ0042>kimi_001329
+<ptZ0042>kimi_001329
+
+//OTHER
+<enZ0043>se015
+<ptZ0043>se015
+
+//OTHER
+<enZ0044>se268
+<ptZ0044>se268
+
+//OTHER
+<enZ0045>km0004a
+<ptZ0045>km0004a
+
+//OTHER
+<enZ0046>sato_000153
+<ptZ0046>sato_000153
+
+//OTHER
+<enZ0047>kimi_001330
+<ptZ0047>kimi_001330
+
+//OTHER
+<enZ0048>zaku_002244
+<ptZ0048>zaku_002244
+
+//OTHER
+<enZ0049>st0004_l
+<ptZ0049>st0004_l
+
+//OTHER
+<enZ0050>sato_000154
+<ptZ0050>sato_000154
+
+//OTHER
+<enZ0051>kimi_001331
+<ptZ0051>kimi_001331
+
+//OTHER
+<enZ0052>se245
+<ptZ0052>se245
+
+//OTHER
+<enZ0053>st0009_l
+<ptZ0053>st0009_l
+
+//OTHER
+<enZ0054>sato_000155
+<ptZ0054>sato_000155
+
+//OTHER
+<enZ0055>kimi_001332
+<ptZ0055>kimi_001332
+
+//OTHER
+<enZ0056>zaku_002245
+<ptZ0056>zaku_002245
+
+//OTHER
+<enZ0057>km0001a
+<ptZ0057>km0001a
+
+//OTHER
+<enZ0058>kimi_001333
+<ptZ0058>kimi_001333
+
+//OTHER
+<enZ0059>km0006a
+<ptZ0059>km0006a
+
+//OTHER
+<enZ0060>km0010
+<ptZ0060>km0010
+
+//OTHER
+<enZ0061>st0007
+<ptZ0061>st0007
+
+//OTHER
+<enZ0062>mg0009
+<ptZ0062>mg0009
+
+//OTHER
+<enZ0063>sato_000156
+<ptZ0063>sato_000156
+
+//OTHER
+<enZ0064>kimi_001334
+<ptZ0064>kimi_001334
+
+//OTHER
+<enZ0065>st0006
+<ptZ0065>st0006
+
+//OTHER
+<enZ0066>mg0006
+<ptZ0066>mg0006
+
+//OTHER
+<enZ0067>sato_000157
+<ptZ0067>sato_000157
+
+//OTHER
+<enZ0068>kimi_001335
+<ptZ0068>kimi_001335
+
+//OTHER
+<enZ0069>sato_000158
+<ptZ0069>sato_000158
+
+//OTHER
+<enZ0070>kimi_001336
+<ptZ0070>kimi_001336
+
+//OTHER
+<enZ0071>kimi_001337
+<ptZ0071>kimi_001337
+
+//OTHER
+<enZ0072>megu_000230
+<ptZ0072>megu_000230
+
+//OTHER
+<enZ0073>kimi_001338
+<ptZ0073>kimi_001338
+
+//OTHER
+<enZ0074>se255
+<ptZ0074>se255
+
+//OTHER
+<enZ0075>zaku_002246
+<ptZ0075>zaku_002246
+
+//OTHER
+<enZ0076>zaku_002247
+<ptZ0076>zaku_002247
+
+//OTHER
+<enZ0077>km0009
+<ptZ0077>km0009
+
+//OTHER
+<enZ0078>kimi_001339
+<ptZ0078>kimi_001339
+
+//OTHER
+<enZ0079>sato_000159
+<ptZ0079>sato_000159
+
+//OTHER
+<enZ0080>megu_000231
+<ptZ0080>megu_000231
+
+//OTHER
+<enZ0081>se522
+<ptZ0081>se522
+
+//OTHER
+<enZ0082>sn0000
+<ptZ0082>sn0000
+
+//OTHER
+<enZ0083>sena_000046
+<ptZ0083>sena_000046
+
+//OTHER
+<enZ0084>sena_000047
+<ptZ0084>sena_000047
+
+//OTHER
+<enZ0085>bgm105
+<ptZ0085>bgm105
+
+//OTHER
+<enZ0086>megu_000232
+<ptZ0086>megu_000232
+
+//OTHER
+<enZ0087>sn0008
+<ptZ0087>sn0008
+
+//OTHER
+<enZ0088>sena_000048
+<ptZ0088>sena_000048
+
+//OTHER
+<enZ0089>megu_000233
+<ptZ0089>megu_000233
+
+//OTHER
+<enZ0090>kimi_001340
+<ptZ0090>kimi_001340
+
+//OTHER
+<enZ0091>sn0006
+<ptZ0091>sn0006
+
+//OTHER
+<enZ0092>sena_000049
+<ptZ0092>sena_000049
+
+//OTHER
+<enZ0093>megu_000234
+<ptZ0093>megu_000234
+
+//OTHER
+<enZ0094>sn0010
+<ptZ0094>sn0010
+
+//OTHER
+<enZ0095>sena_000050
+<ptZ0095>sena_000050
+
+//OTHER
+<enZ0096>megu_000235
+<ptZ0096>megu_000235
+
+//OTHER
+<enZ0097>sena_000051
+<ptZ0097>sena_000051
+
+//OTHER
+<enZ0098>se341
+<ptZ0098>se341
+
+//OTHER
+<enZ0099>sena_000052
+<ptZ0099>sena_000052
+
+//OTHER
+<enZ0100>kimi_001341
+<ptZ0100>kimi_001341
+
+//OTHER
+<enZ0101>megu_000236
+<ptZ0101>megu_000236
+
+//OTHER
+<enZ0102>km0008a
+<ptZ0102>km0008a
+
+//OTHER
+<enZ0103>kimi_001342
+<ptZ0103>kimi_001342
+
+//OTHER
+<enZ0104>megu_000237
+<ptZ0104>megu_000237
+
+//OTHER
+<enZ0105>sena_000053
+<ptZ0105>sena_000053
+
+//OTHER
+<enZ0106>megu_000238
+<ptZ0106>megu_000238
+
+//OTHER
+<enZ0107>sn0004
+<ptZ0107>sn0004
+
+//OTHER
+<enZ0108>sena_000054
+<ptZ0108>sena_000054
+
+//OTHER
+<enZ0109>kimi_001343
+<ptZ0109>kimi_001343
+
+//OTHER
+<enZ0110>mg0001
+<ptZ0110>mg0001
+
+//OTHER
+<enZ0111>sena_000055
+<ptZ0111>sena_000055
+
+//OTHER
+<enZ0112>km0006
+<ptZ0112>km0006
+
+//OTHER
+<enZ0113>kimi_001344
+<ptZ0113>kimi_001344
+
+//OTHER
+<enZ0114>sena_000056
+<ptZ0114>sena_000056
+
+//OTHER
+<enZ0115>kimi_001345
+<ptZ0115>kimi_001345
+
+//OTHER
+<enZ0116>sena_000057
+<ptZ0116>sena_000057
+
+//OTHER
+<enZ0117>kimi_001346
+<ptZ0117>kimi_001346
+
+//OTHER
+<enZ0118>sena_000058
+<ptZ0118>sena_000058
+
+//OTHER
+<enZ0119>kimi_001347
+<ptZ0119>kimi_001347
+
+//OTHER
+<enZ0120>megu_000239
+<ptZ0120>megu_000239
+
+//OTHER
+<enZ0121>sn0009
+<ptZ0121>sn0009
+
+//OTHER
+<enZ0122>kimi_001348
+<ptZ0122>kimi_001348
+
+//OTHER
+<enZ0123>megu_000240
+<ptZ0123>megu_000240
+
+//OTHER
+<enZ0124>kimi_001349
+<ptZ0124>kimi_001349
+
+//OTHER
+<enZ0125>megu_000241
+<ptZ0125>megu_000241
+
+//OTHER
+<enZ0126>km0012
+<ptZ0126>km0012
+
+//OTHER
+<enZ0127>kimi_001350
+<ptZ0127>kimi_001350
+
+//OTHER
+<enZ0128>megu_000242
+<ptZ0128>megu_000242
+
+//OTHER
+<enZ0129>kimi_001351
+<ptZ0129>kimi_001351
+
+//OTHER
+<enZ0130>megu_000243
+<ptZ0130>megu_000243
+
+//OTHER
+<enZ0131>sn0007
+<ptZ0131>sn0007
+
+//OTHER
+<enZ0132>sena_000059
+<ptZ0132>sena_000059
+
+//OTHER
+<enZ0133>kimi_001352
+<ptZ0133>kimi_001352
+
+//OTHER
+<enZ0134>sena_000060
+<ptZ0134>sena_000060
+
+//OTHER
+<enZ0135>se022
+<ptZ0135>se022
+
+//OTHER
+<enZ0136>zaku_002248
+<ptZ0136>zaku_002248
+
+//OTHER
+<enZ0137>map001
+<ptZ0137>map001
+
+//OTHER
+<enZ0138>bg1010a
+<ptZ0138>bg1010a
+
+//OTHER
+<enZ0139>kimi_001353
+<ptZ0139>kimi_001353
+
+//OTHER
+<enZ0140>zaku_002249
+<ptZ0140>zaku_002249
+
+//OTHER
+<enZ0141>kimi_001354
+<ptZ0141>kimi_001354
+
+//OTHER
+<enZ0142>zaku_002250
+<ptZ0142>zaku_002250
+
+//OTHER
+<enZ0143>kimi_001355
+<ptZ0143>kimi_001355
+
+//OTHER
+<enZ0144>km0001a_l
+<ptZ0144>km0001a_l
+
+//OTHER
+<enZ0145>zaku_002251
+<ptZ0145>zaku_002251
+
+//OTHER
+<enZ0146>kimi_001356
+<ptZ0146>kimi_001356
+
+//OTHER
+<enZ0147>zaku_002252
+<ptZ0147>zaku_002252
+
+//OTHER
+<enZ0148>kimi_001357
+<ptZ0148>kimi_001357
+
+//OTHER
+<enZ0149>zaku_002253
+<ptZ0149>zaku_002253
+
+//OTHER
+<enZ0150>kimi_001358
+<ptZ0150>kimi_001358
+
+//OTHER
+<enZ0151>zaku_002254
+<ptZ0151>zaku_002254
+
+//OTHER
+<enZ0152>kimi_001359
+<ptZ0152>kimi_001359
+
+//OTHER
+<enZ0153>zaku_002255
+<ptZ0153>zaku_002255
+
+//OTHER
+<enZ0154>kimi_001360
+<ptZ0154>kimi_001360
+
+//OTHER
+<enZ0155>kimi_001361
+<ptZ0155>kimi_001361
+
+//OTHER
+<enZ0156>zaku_002256
+<ptZ0156>zaku_002256
+
+//OTHER
+<enZ0157>kimi_001362
+<ptZ0157>kimi_001362
+
+//OTHER
+<enZ0158>sato_000160
+<ptZ0158>sato_000160
+
+//OTHER
+<enZ0159>bgm103
+<ptZ0159>bgm103
+
+//OTHER
+<enZ0160>kimi_001363
+<ptZ0160>kimi_001363
+
+//OTHER
+<enZ0161>sato_000161
+<ptZ0161>sato_000161
+
+//OTHER
+<enZ0162>kimi_001364
+<ptZ0162>kimi_001364
+
+//OTHER
+<enZ0163>kimi_001365
+<ptZ0163>kimi_001365
+
+//OTHER
+<enZ0164>sato_000162
+<ptZ0164>sato_000162
+
+//OTHER
+<enZ0165>megu_000244
+<ptZ0165>megu_000244
+
+//OTHER
+<enZ0166>megu_000245
+<ptZ0166>megu_000245
+
+//OTHER
+<enZ0167>mg0000
+<ptZ0167>mg0000
+
+//OTHER
+<enZ0168>kimi_001366
+<ptZ0168>kimi_001366
+
+//OTHER
+<enZ0169>megu_000246
+<ptZ0169>megu_000246
+
+//OTHER
+<enZ0170>kimi_001367
+<ptZ0170>kimi_001367
+
+//OTHER
+<enZ0171>megu_000247
+<ptZ0171>megu_000247
+
+//OTHER
+<enZ0172>kimi_001368
+<ptZ0172>kimi_001368
+
+//OTHER
+<enZ0173>megu_000248
+<ptZ0173>megu_000248
+
+//OTHER
+<enZ0174>kimi_001369
+<ptZ0174>kimi_001369
+
+//OTHER
+<enZ0175>megu_000249
+<ptZ0175>megu_000249
+
+//OTHER
+<enZ0176>kimi_001370
+<ptZ0176>kimi_001370
+
+//OTHER
+<enZ0177>megu_000250
+<ptZ0177>megu_000250
+
+//OTHER
+<enZ0178>kimi_001371
+<ptZ0178>kimi_001371
+
+//OTHER
+<enZ0179>sato_000163
+<ptZ0179>sato_000163
+
+//OTHER
+<enZ0180>kimi_001372
+<ptZ0180>kimi_001372
+
+//OTHER
+<enZ0181>sato_000164
+<ptZ0181>sato_000164
+
+//OTHER
+<enZ0182>kimi_001373
+<ptZ0182>kimi_001373
+
+//OTHER
+<enZ0183>st0009
+<ptZ0183>st0009
+
+//OTHER
+<enZ0184>megu_000251
+<ptZ0184>megu_000251
+
+//OTHER
+<enZ0185>sato_000165
+<ptZ0185>sato_000165
+
+//OTHER
+<enZ0186>megu_000252
+<ptZ0186>megu_000252
+
+//OTHER
+<enZ0187>kimi_001374
+<ptZ0187>kimi_001374
+
+//OTHER
+<enZ0188>megu_000253
+<ptZ0188>megu_000253
+
+//OTHER
+<enZ0189>kimi_001375
+<ptZ0189>kimi_001375
+
+//OTHER
+<enZ0190>megu_000254
+<ptZ0190>megu_000254
+
+//OTHER
+<enZ0191>megu_000255
+<ptZ0191>megu_000255
+
+//OTHER
+<enZ0192>megu_000256
+<ptZ0192>megu_000256
+
+//OTHER
+<enZ0193>kimi_001376
+<ptZ0193>kimi_001376
+
+//OTHER
+<enZ0194>megu_000257
+<ptZ0194>megu_000257
+
+//OTHER
+<enZ0195>kimi_001377
+<ptZ0195>kimi_001377
+
+//OTHER
+<enZ0196>megu_000258
+<ptZ0196>megu_000258
+
+//OTHER
+<enZ0197>kimi_001378
+<ptZ0197>kimi_001378
+
+//OTHER
+<enZ0198>megu_000259
+<ptZ0198>megu_000259
+
+//OTHER
+<enZ0199>kimi_001379
+<ptZ0199>kimi_001379
+
+//OTHER
+<enZ0200>megu_000260
+<ptZ0200>megu_000260
+
+//OTHER
+<enZ0201>kimi_001380
+<ptZ0201>kimi_001380
+
+//OTHER
+<enZ0202>megu_000261
+<ptZ0202>megu_000261
+
+//OTHER
+<enZ0203>kimi_001381
+<ptZ0203>kimi_001381
+
+//OTHER
+<enZ0204>megu_000262
+<ptZ0204>megu_000262
+
+//OTHER
+<enZ0205>kimi_001382
+<ptZ0205>kimi_001382
+
+//OTHER
+<enZ0206>megu_000263
+<ptZ0206>megu_000263
+
+//OTHER
+<enZ0207>kimi_001383
+<ptZ0207>kimi_001383
+
+//OTHER
+<enZ0208>megu_000264
+<ptZ0208>megu_000264
+
+//OTHER
+<enZ0209>kimi_001384
+<ptZ0209>kimi_001384
+
+//OTHER
+<enZ0210>sato_000166
+<ptZ0210>sato_000166
+
+//OTHER
+<enZ0211>zaku_002257
+<ptZ0211>zaku_002257
+
+//OTHER
+<enZ0212>km0008
+<ptZ0212>km0008
+
+//OTHER
+<enZ0213>kimi_001385
+<ptZ0213>kimi_001385
+
+//OTHER
+<enZ0214>zaku_002258
+<ptZ0214>zaku_002258
+
+//OTHER
+<enZ0215>km0022a
+<ptZ0215>km0022a
+
+//OTHER
+<enZ0216>kimi_001386
+<ptZ0216>kimi_001386
+
+//OTHER
+<enZ0217>zaku_002259
+<ptZ0217>zaku_002259
+
+//OTHER
+<enZ0218>kimi_001387
+<ptZ0218>kimi_001387
+
+//OTHER
+<enZ0219>zaku_002260
+<ptZ0219>zaku_002260
+
+//OTHER
+<enZ0220>kimi_001388
+<ptZ0220>kimi_001388
+
+//OTHER
+<enZ0221>zaku_002261
+<ptZ0221>zaku_002261
+
+//OTHER
+<enZ0222>kimi_001389
+<ptZ0222>kimi_001389
+
+//OTHER
+<enZ0223>zaku_002262
+<ptZ0223>zaku_002262
+
+//OTHER
+<enZ0224>kimi_001390
+<ptZ0224>kimi_001390
+
+//OTHER
+<enZ0225>zaku_002263
+<ptZ0225>zaku_002263
+
+//OTHER
+<enZ0226>kimi_001391
+<ptZ0226>kimi_001391
+
+//OTHER
+<enZ0227>zaku_002264
+<ptZ0227>zaku_002264
+
+//OTHER
+<enZ0228>kimi_001392
+<ptZ0228>kimi_001392
+
+//OTHER
+<enZ0229>map034
+<ptZ0229>map034
+
+//OTHER
+<enZ0230>zaku_002265
+<ptZ0230>zaku_002265
+
+//OTHER
+<enZ0231>kimi_001393
+<ptZ0231>kimi_001393
+
+//OTHER
+<enZ0232>zaku_002266
+<ptZ0232>zaku_002266
+
+//OTHER
+<enZ0233>kimi_001394
+<ptZ0233>kimi_001394
+
+//OTHER
+<enZ0234>zaku_002267
+<ptZ0234>zaku_002267
+
+//OTHER
+<enZ0235>kimi_001395
+<ptZ0235>kimi_001395
+
+//OTHER
+<enZ0236>zaku_002268
+<ptZ0236>zaku_002268
+
+//OTHER
+<enZ0237>kimi_001396
+<ptZ0237>kimi_001396
+
+//OTHER
+<enZ0238>zaku_002269
+<ptZ0238>zaku_002269
+
+//OTHER
+<enZ0239>kimi_001397
+<ptZ0239>kimi_001397
+
+//OTHER
+<enZ0240>zaku_002270
+<ptZ0240>zaku_002270
+
+//OTHER
+<enZ0241>kimi_001398
+<ptZ0241>kimi_001398
+
+//OTHER
+<enZ0242>kimi_001399
+<ptZ0242>kimi_001399
+
+//OTHER
+<enZ0243>zaku_002271
+<ptZ0243>zaku_002271
+
+//OTHER
+<enZ0244>kimi_001400
+<ptZ0244>kimi_001400
+
+//OTHER
+<enZ0245>zaku_002272
+<ptZ0245>zaku_002272
+
+//OTHER
+<enZ0246>kimi_001401
+<ptZ0246>kimi_001401
+
+//OTHER
+<enZ0247>zaku_002273
+<ptZ0247>zaku_002273
+
+//OTHER
+<enZ0248>kimi_001402
+<ptZ0248>kimi_001402
+
+//OTHER
+<enZ0249>map029
+<ptZ0249>map029
+
+//OTHER
+<enZ0250>km0004a_l
+<ptZ0250>km0004a_l
+
+//OTHER
+<enZ0251>zaku_002274
+<ptZ0251>zaku_002274
+
+//OTHER
+<enZ0252>km0010a_l
+<ptZ0252>km0010a_l
+
+//OTHER
+<enZ0253>kimi_001403
+<ptZ0253>kimi_001403
+
+//OTHER
+<enZ0254>zaku_002275
+<ptZ0254>zaku_002275
+
+//OTHER
+<enZ0255>se293
+<ptZ0255>se293
+
+//OTHER
+<enZ0256>zaku_002276
+<ptZ0256>zaku_002276
+
+//OTHER
+<enZ0257>kimi_001404
+<ptZ0257>kimi_001404
+
+//OTHER
+<enZ0258>kimi_001405
+<ptZ0258>kimi_001405
+
+//OTHER
+<enZ0259>kimi_001406
+<ptZ0259>kimi_001406
+
+//OTHER
+<enZ0260>zaku_002277
+<ptZ0260>zaku_002277
+
+//OTHER
+<enZ0261>kimi_001407
+<ptZ0261>kimi_001407
+
+//OTHER
+<enZ0262>zaku_002278
+<ptZ0262>zaku_002278
+
+//OTHER
+<enZ0263>km0002
+<ptZ0263>km0002
+
+//OTHER
+<enZ0264>kimi_001408
+<ptZ0264>kimi_001408
+
+//OTHER
+<enZ0265>mg0051
+<ptZ0265>mg0051
+
+//OTHER
+<enZ0266>megu_000265
+<ptZ0266>megu_000265
+
+//OTHER
+<enZ0267>kimi_001409
+<ptZ0267>kimi_001409
+
+//OTHER
+<enZ0268>megu_000266
+<ptZ0268>megu_000266
+
+//OTHER
+<enZ0269>kimi_001410
+<ptZ0269>kimi_001410
+
+//OTHER
+<enZ0270>megu_000267
+<ptZ0270>megu_000267
+
+//OTHER
+<enZ0271>kimi_001411
+<ptZ0271>kimi_001411
+
+//OTHER
+<enZ0272>megu_000268
+<ptZ0272>megu_000268
+
+//OTHER
+<enZ0273>kimi_001412
+<ptZ0273>kimi_001412
+
+//OTHER
+<enZ0274>megu_000269
+<ptZ0274>megu_000269
+
+//OTHER
+<enZ0275>megu_000270
+<ptZ0275>megu_000270
+
+//OTHER
+<enZ0276>kimi_001413
+<ptZ0276>kimi_001413
+
+//OTHER
+<enZ0277>kimi_001414
+<ptZ0277>kimi_001414
+
+//OTHER
+<enZ0278>kimi_001415
+<ptZ0278>kimi_001415
+
+//OTHER
+<enZ0279>megu_000271
+<ptZ0279>megu_000271
+
+//OTHER
+<enZ0280>kimi_001416
+<ptZ0280>kimi_001416
+
+//OTHER
+<enZ0281>kimi_001417
+<ptZ0281>kimi_001417
+
+//OTHER
+<enZ0282>kimi_001418
+<ptZ0282>kimi_001418
+
+//OTHER
+<enZ0283>kimi_001419
+<ptZ0283>kimi_001419
+
+//OTHER
+<enZ0284>kimi_001420
+<ptZ0284>kimi_001420
+
+//OTHER
+<enZ0285>kimi_001421
+<ptZ0285>kimi_001421
+
+//OTHER
+<enZ0286>kimi_001422
+<ptZ0286>kimi_001422
+
+//OTHER
+<enZ0287>kimi_001423
+<ptZ0287>kimi_001423
+
+//OTHER
+<enZ0288>kimi_001424
+<ptZ0288>kimi_001424
+
+//OTHER
+<enZ0289>kimi_001425
+<ptZ0289>kimi_001425
+
+//OTHER
+<enZ0290>kimi_001426
+<ptZ0290>kimi_001426
+
+//OTHER
+<enZ0291>kimi_001427
+<ptZ0291>kimi_001427
+
+//OTHER
+<enZ0292>kimi_001428
+<ptZ0292>kimi_001428
+
+//OTHER
+<enZ0293>kimi_001429
+<ptZ0293>kimi_001429
+
+//OTHER
+<enZ0294>kimi_001430
+<ptZ0294>kimi_001430
+
+//OTHER
+<enZ0295>zaku_002279
+<ptZ0295>zaku_002279
+
+//OTHER
+<enZ0296>bgm008
+<ptZ0296>bgm008
+
+//OTHER
+<enZ0297>zaku_002280
+<ptZ0297>zaku_002280
+
+//OTHER
+<enZ0298>kimi_001431
+<ptZ0298>kimi_001431
+
+//OTHER
+<enZ0299>zaku_002281
+<ptZ0299>zaku_002281
+
+//OTHER
+<enZ0300>kimi_001432
+<ptZ0300>kimi_001432
+
+//OTHER
+<enZ0301>kimi_001433
+<ptZ0301>kimi_001433
+
+//OTHER
+<enZ0302>zaku_002282
+<ptZ0302>zaku_002282
+
+//OTHER
+<enZ0303>kimi_001434
+<ptZ0303>kimi_001434
+
+//OTHER
+<enZ0304>zaku_002283
+<ptZ0304>zaku_002283
+
+//OTHER
+<enZ0305>kimi_001435
+<ptZ0305>kimi_001435
+
+//OTHER
+<enZ0306>zaku_002284
+<ptZ0306>zaku_002284
+
+//OTHER
+<enZ0307>kimi_001436
+<ptZ0307>kimi_001436
+
+//OTHER
+<enZ0308>zaku_002285
+<ptZ0308>zaku_002285
+
+//OTHER
+<enZ0309>kimi_001437
+<ptZ0309>kimi_001437
+
+//OTHER
+<enZ0310>kimi_001438
+<ptZ0310>kimi_001438
+
+//OTHER
+<enZ0311>kimi_001439
+<ptZ0311>kimi_001439
+
+//OTHER
+<enZ0312>zaku_002286
+<ptZ0312>zaku_002286
+
+//OTHER
+<enZ0313>kimi_001440
+<ptZ0313>kimi_001440
+
+//OTHER
+<enZ0314>kimi_001441
+<ptZ0314>kimi_001441
+
+//OTHER
+<enZ0315>zaku_002287
+<ptZ0315>zaku_002287
+
+//OTHER
+<enZ0316>kimi_001442
+<ptZ0316>kimi_001442
+
+//OTHER
+<enZ0317>zaku_002288
+<ptZ0317>zaku_002288
+
+//OTHER
+<enZ0318>km0003a
+<ptZ0318>km0003a
+
+//OTHER
+<enZ0319>kimi_001443
+<ptZ0319>kimi_001443
+
+//OTHER
+<enZ0320>km0015a
+<ptZ0320>km0015a
+
+//OTHER
+<enZ0321>zaku_002289
+<ptZ0321>zaku_002289
+
+//OTHER
+<enZ0322>kimi_001444
+<ptZ0322>kimi_001444
+
+//OTHER
+<enZ0323>zaku_002290
+<ptZ0323>zaku_002290
+
+//OTHER
+<enZ0324>kimi_001445
+<ptZ0324>kimi_001445
+
+//OTHER
+<enZ0325>zaku_002291
+<ptZ0325>zaku_002291
+
+//OTHER
+<enZ0326>kimi_001446
+<ptZ0326>kimi_001446
+
+//OTHER
+<enZ0327>zaku_002292
+<ptZ0327>zaku_002292
+
+//OTHER
+<enZ0328>zaku_002293
+<ptZ0328>zaku_002293
+
+//OTHER
+<enZ0329>kimi_001447
+<ptZ0329>kimi_001447
+
+//OTHER
+<enZ0330>zaku_002294
+<ptZ0330>zaku_002294
+
+//OTHER
+<enZ0331>kimi_001448
+<ptZ0331>kimi_001448
+
+//OTHER
+<enZ0332>zaku_002295
+<ptZ0332>zaku_002295
+
+//OTHER
+<enZ0333>kimi_001449
+<ptZ0333>kimi_001449
+
+//OTHER
+<enZ0334>zaku_002296
+<ptZ0334>zaku_002296
+
+//OTHER
+<enZ0335>kimi_001450
+<ptZ0335>kimi_001450
+
+//OTHER
+<enZ0336>kimi_001451
+<ptZ0336>kimi_001451
+
+//OTHER
+<enZ0337>zaku_002297
+<ptZ0337>zaku_002297
+
+//OTHER
+<enZ0338>km0050
+<ptZ0338>km0050
+
+//OTHER
+<enZ0339>kimi_001452
+<ptZ0339>kimi_001452
+
+//OTHER
+<enZ0340>zaku_002298
+<ptZ0340>zaku_002298
+
+//OTHER
+<enZ0341>kimi_001453
+<ptZ0341>kimi_001453
+
+//OTHER
+<enZ0342>zaku_002299
+<ptZ0342>zaku_002299
+
+//OTHER
+<enZ0343>kimi_001454
+<ptZ0343>kimi_001454
+
+//OTHER
+<enZ0344>kimi_001455
+<ptZ0344>kimi_001455
+
+//OTHER
+<enZ0345>zaku_002300
+<ptZ0345>zaku_002300
+
+//OTHER
+<enZ0346>kimi_001456
+<ptZ0346>kimi_001456
+
+//OTHER
+<enZ0347>zaku_002301
+<ptZ0347>zaku_002301
+
+//OTHER
+<enZ0348>kimi_001457
+<ptZ0348>kimi_001457
+
+//OTHER
+<enZ0349>zaku_002302
+<ptZ0349>zaku_002302
+
+//OTHER
+<enZ0350>kimi_001458
+<ptZ0350>kimi_001458
+
+//OTHER
+<enZ0351>kimi_001459
+<ptZ0351>kimi_001459
+
+//OTHER
+<enZ0352>kimi_001460
+<ptZ0352>kimi_001460
+
+//OTHER
+<enZ0353>zaku_002303
+<ptZ0353>zaku_002303
+
+//OTHER
+<enZ0354>kimi_001461
+<ptZ0354>kimi_001461
+
+//OTHER
+<enZ0355>zaku_002304
+<ptZ0355>zaku_002304
+
+//OTHER
+<enZ0356>kimi_001462
+<ptZ0356>kimi_001462
+
+//OTHER
+<enZ0357>zaku_002305
+<ptZ0357>zaku_002305
+
+//OTHER
+<enZ0358>kimi_001463
+<ptZ0358>kimi_001463
+
+//OTHER
+<enZ0359>zaku_002306
+<ptZ0359>zaku_002306
+
+//OTHER
+<enZ0360>kimi_001464
+<ptZ0360>kimi_001464
+
+//OTHER
+<enZ0361>zaku_002307
+<ptZ0361>zaku_002307
+
+//OTHER
+<enZ0362>kimi_001465
+<ptZ0362>kimi_001465
+
+//OTHER
+<enZ0363>kimi_001466
+<ptZ0363>kimi_001466
+
+//OTHER
+<enZ0364>zaku_002308
+<ptZ0364>zaku_002308
+
+//OTHER
+<enZ0365>kimi_001467
+<ptZ0365>kimi_001467
+
+//OTHER
+<enZ0366>zaku_002309
+<ptZ0366>zaku_002309
+
+//OTHER
+<enZ0367>kimi_001468
+<ptZ0367>kimi_001468
+
+//OTHER
+<enZ0368>zaku_002310
+<ptZ0368>zaku_002310
+
+//OTHER
+<enZ0369>km0018a
+<ptZ0369>km0018a
+
+//OTHER
+<enZ0370>kimi_001469
+<ptZ0370>kimi_001469
+
+//OTHER
+<enZ0371>zaku_002311
+<ptZ0371>zaku_002311
+
+//OTHER
+<enZ0372>kimi_001470
+<ptZ0372>kimi_001470
+
+//OTHER
+<enZ0373>kimi_001471
+<ptZ0373>kimi_001471
+
+//OTHER
+<enZ0374>zaku_002312
+<ptZ0374>zaku_002312
+
+//OTHER
+<enZ0375>kimi_001472
+<ptZ0375>kimi_001472
+
+//OTHER
+<enZ0376>zaku_002313
+<ptZ0376>zaku_002313
+
+//OTHER
+<enZ0377>kimi_001473
+<ptZ0377>kimi_001473
+
+//OTHER
+<enZ0378>zaku_002314
+<ptZ0378>zaku_002314
+
+//OTHER
+<enZ0379>kimi_001474
+<ptZ0379>kimi_001474
+
+//OTHER
+<enZ0380>zaku_002315
+<ptZ0380>zaku_002315
+
+//OTHER
+<enZ0381>kimi_001475
+<ptZ0381>kimi_001475
+
+//OTHER
+<enZ0382>zaku_002316
+<ptZ0382>zaku_002316
+
+//OTHER
+<enZ0383>kimi_001476
+<ptZ0383>kimi_001476
+
+//OTHER
+<enZ0384>zaku_002317
+<ptZ0384>zaku_002317
+
+//OTHER
+<enZ0385>kimi_001477
+<ptZ0385>kimi_001477
+
+//OTHER
+<enZ0386>zaku_002318
+<ptZ0386>zaku_002318
+
+//OTHER
+<enZ0387>km0005
+<ptZ0387>km0005
+
+//OTHER
+<enZ0388>kimi_001478
+<ptZ0388>kimi_001478
+
+//OTHER
+<enZ0389>zaku_002319
+<ptZ0389>zaku_002319
+
+//OTHER
+<enZ0390>sr0042
+<ptZ0390>sr0042
+
+//OTHER
+<enZ0391>nm0042
+<ptZ0391>nm0042
+
+//OTHER
+<enZ0392>zaku_002320
+<ptZ0392>zaku_002320
+
+//OTHER
+<enZ0393>ns0001
+<ptZ0393>ns0001
+
+//OTHER
+<enZ0394>kimi_001479
+<ptZ0394>kimi_001479
+
+//OTHER
+<enZ0395>kimi_001480
+<ptZ0395>kimi_001480
+
+//OTHER
+<enZ0396>kimi_001481
+<ptZ0396>kimi_001481
+
+//OTHER
+<enZ0397>kimi_001482
+<ptZ0397>kimi_001482
+
+//OTHER
+<enZ0398>zaku_002321
+<ptZ0398>zaku_002321
+
+//OTHER
+<enZ0399>se340
+<ptZ0399>se340
+
+//OTHER
+<enZ0400>sr0040
+<ptZ0400>sr0040
+
+//OTHER
+<enZ0401>nm0040
+<ptZ0401>nm0040
+
+//OTHER
+<enZ0402>ns0009
+<ptZ0402>ns0009
+
+//OTHER
+<enZ0403>kimi_001483
+<ptZ0403>kimi_001483
+
+//OTHER
+<enZ0404>zaku_002322
+<ptZ0404>zaku_002322
+
+//OTHER
+<enZ0405>bgm018
+<ptZ0405>bgm018
+
+//OTHER
+<enZ0406>zaku_002323
+<ptZ0406>zaku_002323
+
+//OTHER
+<enZ0407>km0003_l
+<ptZ0407>km0003_l
+
+//OTHER
+<enZ0408>kimi_001484
+<ptZ0408>kimi_001484
+
+//OTHER
+<enZ0409>zaku_002324
+<ptZ0409>zaku_002324
+
+//OTHER
+<enZ0410>km0001_l
+<ptZ0410>km0001_l
+
+//OTHER
+<enZ0411>kimi_001485
+<ptZ0411>kimi_001485
+
+//OTHER
+<enZ0412>km0009_l
+<ptZ0412>km0009_l
+
+//OTHER
+<enZ0413>kimi_001486
+<ptZ0413>kimi_001486
+
+//OTHER
+<enZ0414>kimi_001487
+<ptZ0414>kimi_001487
+
+//OTHER
+<enZ0415>se616
+<ptZ0415>se616
+
+//OTHER
+<enZ0416>sr0005
+<ptZ0416>sr0005
+
+//OTHER
+<enZ0417>nm0005
+<ptZ0417>nm0005
+
+//OTHER
+<enZ0418>ns0005
+<ptZ0418>ns0005
+
+//OTHER
+<enZ0419>map002
+<ptZ0419>map002
+
+//OTHER
+<enZ0420>sr0041
+<ptZ0420>sr0041
+
+//OTHER
+<enZ0421>nm0041
+<ptZ0421>nm0041
+
+//OTHER
+<enZ0422>zaku_002325
+<ptZ0422>zaku_002325
+
+//OTHER
+<enZ0423>km0003a_l
+<ptZ0423>km0003a_l
+
+//OTHER
+<enZ0424>kimi_001488
+<ptZ0424>kimi_001488
+
+//OTHER
+<enZ0425>zaku_002326
+<ptZ0425>zaku_002326
+
+//OTHER
+<enZ0426>km0002_l
+<ptZ0426>km0002_l
+
+//OTHER
+<enZ0427>kimi_001489
+<ptZ0427>kimi_001489
+
+//OTHER
+<enZ0428>zaku_002327
+<ptZ0428>zaku_002327
+
+//OTHER
+<enZ0429>kimi_001490
+<ptZ0429>kimi_001490
+
+//OTHER
+<enZ0430>zaku_002328
+<ptZ0430>zaku_002328
+
+//OTHER
+<enZ0431>kimi_001491
+<ptZ0431>kimi_001491
+
+//OTHER
+<enZ0432>zaku_002329
+<ptZ0432>zaku_002329
+
+//OTHER
+<enZ0433>kimi_001492
+<ptZ0433>kimi_001492
+
+//OTHER
+<enZ0434>bg1008a
+<ptZ0434>bg1008a
+
+//OTHER
+<enZ0435>kimi_001493
+<ptZ0435>kimi_001493
+
+//OTHER
+<enZ0436>zaku_002330
+<ptZ0436>zaku_002330
+
+//OTHER
+<enZ0437>kimi_001494
+<ptZ0437>kimi_001494
+
+//OTHER
+<enZ0438>zaku_002331
+<ptZ0438>zaku_002331
+
+//OTHER
+<enZ0439>kimi_001495
+<ptZ0439>kimi_001495
+
+//OTHER
+<enZ0440>zaku_002332
+<ptZ0440>zaku_002332
+
+//OTHER
+<enZ0441>kimi_001496
+<ptZ0441>kimi_001496
+
+//OTHER
+<enZ0442>zaku_002333
+<ptZ0442>zaku_002333
+
+//OTHER
+<enZ0443>kimi_001497
+<ptZ0443>kimi_001497
+
+//OTHER
+<enZ0444>zaku_002334
+<ptZ0444>zaku_002334
+
+//OTHER
+<enZ0445>kimi_001498
+<ptZ0445>kimi_001498
+
+//OTHER
+<enZ0446>zaku_002335
+<ptZ0446>zaku_002335
+
+//OTHER
+<enZ0447>kimi_001499
+<ptZ0447>kimi_001499
+
+//OTHER
+<enZ0448>zaku_002336
+<ptZ0448>zaku_002336
+
+//OTHER
+<enZ0449>kimi_001500
+<ptZ0449>kimi_001500
+
+//OTHER
+<enZ0450>zaku_002337
+<ptZ0450>zaku_002337
+
+//OTHER
+<enZ0451>kimi_001501
+<ptZ0451>kimi_001501
+
+//OTHER
+<enZ0452>zaku_002338
+<ptZ0452>zaku_002338
+
+//OTHER
+<enZ0453>kimi_001502
+<ptZ0453>kimi_001502
+
+//OTHER
+<enZ0454>map023
+<ptZ0454>map023
+
+//OTHER
+<enZ0455>bg1007a
+<ptZ0455>bg1007a
+
+//OTHER
+<enZ0456>zaku_002339
+<ptZ0456>zaku_002339
+
+//OTHER
+<enZ0457>taku_004903
+<ptZ0457>taku_004903
+
+//OTHER
+<enZ0458>zaku_002340
+<ptZ0458>zaku_002340
+
+//OTHER
+<enZ0459>tkj2000
+<ptZ0459>tkj2000
+
+//OTHER
+<enZ0460>taku_004904
+<ptZ0460>taku_004904
+
+//OTHER
+<enZ0461>zaku_002341
+<ptZ0461>zaku_002341
+
+//OTHER
+<enZ0462>tkj2703
+<ptZ0462>tkj2703
+
+//OTHER
+<enZ0463>taku_004905
+<ptZ0463>taku_004905
+
+//OTHER
+<enZ0464>zaku_002342
+<ptZ0464>zaku_002342
+
+//OTHER
+<enZ0465>tkj2008
+<ptZ0465>tkj2008
+
+//OTHER
+<enZ0466>taku_004906
+<ptZ0466>taku_004906
+
+//OTHER
+<enZ0467>taku_004907
+<ptZ0467>taku_004907
+
+//OTHER
+<enZ0468>zaku_002343
+<ptZ0468>zaku_002343
+
+//OTHER
+<enZ0469>kimi_001503
+<ptZ0469>kimi_001503
+
+//OTHER
+<enZ0470>taku_004908
+<ptZ0470>taku_004908
+
+//OTHER
+<enZ0471>kimi_001504
+<ptZ0471>kimi_001504
+
+//OTHER
+<enZ0472>taku_004909
+<ptZ0472>taku_004909
+
+//OTHER
+<enZ0473>kimi_001505
+<ptZ0473>kimi_001505
+
+//OTHER
+<enZ0474>zaku_002344
+<ptZ0474>zaku_002344
+
+//OTHER
+<enZ0475>tkj2002
+<ptZ0475>tkj2002
+
+//OTHER
+<enZ0476>taku_004910
+<ptZ0476>taku_004910
+
+//OTHER
+<enZ0477>kimi_001506
+<ptZ0477>kimi_001506
+
+//OTHER
+<enZ0478>tkj2701
+<ptZ0478>tkj2701
+
+//OTHER
+<enZ0479>taku_004911
+<ptZ0479>taku_004911
+
+//OTHER
+<enZ0480>kimi_001507
+<ptZ0480>kimi_001507
+
+//OTHER
+<enZ0481>se072
+<ptZ0481>se072
+
+//OTHER
+<enZ0482>map005
+<ptZ0482>map005
+
+//OTHER
+<enZ0483>sp0200b
+<ptZ0483>sp0200b
+
+//OTHER
+<enZ0484>zaku_002345
+<ptZ0484>zaku_002345
+
+//OTHER
+<enZ0485>taku_004912
+<ptZ0485>taku_004912
+
+//OTHER
+<enZ0486>km4004
+<ptZ0486>km4004
+
+//OTHER
+<enZ0487>kimi_001508
+<ptZ0487>kimi_001508
+
+//OTHER
+<enZ0488>km4005
+<ptZ0488>km4005
+
+//OTHER
+<enZ0489>sp0200a
+<ptZ0489>sp0200a
+
+//OTHER
+<enZ0490>sp0200c
+<ptZ0490>sp0200c
+
+//OTHER
+<enZ0491>zaku_002346
+<ptZ0491>zaku_002346
+
+//OTHER
+<enZ0492>kimi_001509
+<ptZ0492>kimi_001509
+
+//OTHER
+<enZ0493>taku_004913
+<ptZ0493>taku_004913
+
+//OTHER
+<enZ0494>tkj2004
+<ptZ0494>tkj2004
+
+//OTHER
+<enZ0495>km1008
+<ptZ0495>km1008
+
+//OTHER
+<enZ0496>kimi_001510
+<ptZ0496>kimi_001510
+
+//OTHER
+<enZ0497>se320
+<ptZ0497>se320
+
+//OTHER
+<enZ0498>kimi_001511
+<ptZ0498>kimi_001511
+
+//OTHER
+<enZ0499>zaku_002347
+<ptZ0499>zaku_002347
+
+//OTHER
+<enZ0500>taku_004914
+<ptZ0500>taku_004914
+
+//OTHER
+<enZ0501>km0105a
+<ptZ0501>km0105a
+
+//OTHER
+<enZ0502>kimi_001512
+<ptZ0502>kimi_001512
+
+//OTHER
+<enZ0503>km0104a
+<ptZ0503>km0104a
+
+//OTHER
+<enZ0504>zaku_002348
+<ptZ0504>zaku_002348
+
+//OTHER
+<enZ0505>taku_004915
+<ptZ0505>taku_004915
+
+//OTHER
+<enZ0506>kimi_001513
+<ptZ0506>kimi_001513
+
+//OTHER
+<enZ0507>taku_004916
+<ptZ0507>taku_004916
+
+//OTHER
+<enZ0508>km0117a
+<ptZ0508>km0117a
+
+//OTHER
+<enZ0509>kimi_001514
+<ptZ0509>kimi_001514
+
+//OTHER
+<enZ0510>zaku_002349
+<ptZ0510>zaku_002349
+
+//OTHER
+<enZ0511>tkj2051
+<ptZ0511>tkj2051
+
+//OTHER
+<enZ0512>taku_004917
+<ptZ0512>taku_004917
+
+//OTHER
+<enZ0513>km0104
+<ptZ0513>km0104
+
+//OTHER
+<enZ0514>kimi_001515
+<ptZ0514>kimi_001515
+
+//OTHER
+<enZ0515>taku_004918
+<ptZ0515>taku_004918
+
+//OTHER
+<enZ0516>zaku_002350
+<ptZ0516>zaku_002350
+
+//OTHER
+<enZ0517>km0005a
+<ptZ0517>km0005a
+
+//OTHER
+<enZ0518>kimi_001516
+<ptZ0518>kimi_001516
+
+//OTHER
+<enZ0519>taku_004919
+<ptZ0519>taku_004919
+
+//OTHER
+<enZ0520>kimi_001517
+<ptZ0520>kimi_001517
+
+//OTHER
+<enZ0521>taku_004920
+<ptZ0521>taku_004920
+
+//OTHER
+<enZ0522>kimi_001518
+<ptZ0522>kimi_001518
+
+//OTHER
+<enZ0523>zaku_002351
+<ptZ0523>zaku_002351
+
+//OTHER
+<enZ0524>kimi_001519
+<ptZ0524>kimi_001519
+
+//OTHER
+<enZ0525>se337
+<ptZ0525>se337
+
+//OTHER
+<enZ0526>sp0066
+<ptZ0526>sp0066
+
+//OTHER
+<enZ0527>km6005
+<ptZ0527>km6005
+
+//OTHER
+<enZ0528>zaku_002352
+<ptZ0528>zaku_002352
+
+//OTHER
+<enZ0529>km6004
+<ptZ0529>km6004
+
+//OTHER
+<enZ0530>se071
+<ptZ0530>se071
+
+//OTHER
+<enZ0531>sp0200e
+<ptZ0531>sp0200e
+
+//OTHER
+<enZ0532>sp0200f
+<ptZ0532>sp0200f
+
+//OTHER
+<enZ0533>sp0200g
+<ptZ0533>sp0200g
+
+//OTHER
+<enZ0534>taku_004921
+<ptZ0534>taku_004921
+
+//OTHER
+<enZ0535>zaku_002353
+<ptZ0535>zaku_002353
+
+//OTHER
+<enZ0536>taku_004922
+<ptZ0536>taku_004922
+
+//OTHER
+<enZ0537>kimi_001520
+<ptZ0537>kimi_001520
+
+//OTHER
+<enZ0538>taku_004923
+<ptZ0538>taku_004923
+
+//OTHER
+<enZ0539>kimi_001521
+<ptZ0539>kimi_001521
+
+//OTHER
+<enZ0540>taku_004924
+<ptZ0540>taku_004924
+
+//OTHER
+<enZ0541>se005
+<ptZ0541>se005
+
+//OTHER
+<enZ0542>km2023a
+<ptZ0542>km2023a
+
+//OTHER
+<enZ0543>km0023a
+<ptZ0543>km0023a
+
+//OTHER
+<enZ0544>kimi_001522
+<ptZ0544>kimi_001522
+
+//OTHER
+<enZ0545>tkj2001
+<ptZ0545>tkj2001
+
+//OTHER
+<enZ0546>taku_004925
+<ptZ0546>taku_004925
+
+//OTHER
+<enZ0547>kimi_001523
+<ptZ0547>kimi_001523
+
+//OTHER
+<enZ0548>taku_004926
+<ptZ0548>taku_004926
+
+//OTHER
+<enZ0549>km0021a
+<ptZ0549>km0021a
+
+//OTHER
+<enZ0550>kimi_001524
+<ptZ0550>kimi_001524
+
+//OTHER
+<enZ0551>taku_004927
+<ptZ0551>taku_004927
+
+//OTHER
+<enZ0552>km0017a
+<ptZ0552>km0017a
+
+//OTHER
+<enZ0553>kimi_001525
+<ptZ0553>kimi_001525
+
+//OTHER
+<enZ0554>taku_004928
+<ptZ0554>taku_004928
+
+//OTHER
+<enZ0555>kimi_001526
+<ptZ0555>kimi_001526
+
+//OTHER
+<enZ0556>taku_004929
+<ptZ0556>taku_004929
+
+//OTHER
+<enZ0557>km0118a
+<ptZ0557>km0118a
+
+//OTHER
+<enZ0558>kimi_001527
+<ptZ0558>kimi_001527
+
+//OTHER
+<enZ0559>taku_004930
+<ptZ0559>taku_004930
+
+//OTHER
+<enZ0560>km0107a
+<ptZ0560>km0107a
+
+//OTHER
+<enZ0561>kimi_001528
+<ptZ0561>kimi_001528
+
+//OTHER
+<enZ0562>se069
+<ptZ0562>se069
+
+//OTHER
+<enZ0563>kimi_001529
+<ptZ0563>kimi_001529
+
+//OTHER
+<enZ0564>se248
+<ptZ0564>se248
+
+//OTHER
+<enZ0565>taku_004931
+<ptZ0565>taku_004931
+
+//OTHER
+<enZ0566>km0009a
+<ptZ0566>km0009a
+
+//OTHER
+<enZ0567>kimi_001530
+<ptZ0567>kimi_001530
+
+//OTHER
+<enZ0568>tkj2050
+<ptZ0568>tkj2050
+
+//OTHER
+<enZ0569>taku_004932
+<ptZ0569>taku_004932
+
+//OTHER
+<enZ0570>km0116a
+<ptZ0570>km0116a
+
+//OTHER
+<enZ0571>kimi_001531
+<ptZ0571>kimi_001531
+
+//OTHER
+<enZ0572>tkj2010
+<ptZ0572>tkj2010
+
+//OTHER
+<enZ0573>taku_004933
+<ptZ0573>taku_004933
+
+//OTHER
+<enZ0574>tkj2006
+<ptZ0574>tkj2006
+
+//OTHER
+<enZ0575>zaku_002354
+<ptZ0575>zaku_002354
+
+//OTHER
+<enZ0576>taku_004934
+<ptZ0576>taku_004934
+
+//OTHER
+<enZ0577>zaku_002355
+<ptZ0577>zaku_002355
+
+//OTHER
+<enZ0578>taku_004935
+<ptZ0578>taku_004935
+
+//OTHER
+<enZ0579>zaku_002356
+<ptZ0579>zaku_002356
+
+//OTHER
+<enZ0580>kimi_001532
+<ptZ0580>kimi_001532
+
+//OTHER
+<enZ0581>taku_004936
+<ptZ0581>taku_004936
+
+//OTHER
+<enZ0582>kimi_001533
+<ptZ0582>kimi_001533
+
+//OTHER
+<enZ0583>zaku_002357
+<ptZ0583>zaku_002357
+
+//OTHER
+<enZ0584>km0121a
+<ptZ0584>km0121a
+
+//OTHER
+<enZ0585>kimi_001534
+<ptZ0585>kimi_001534
+
+//OTHER
+<enZ0586>zaku_002358
+<ptZ0586>zaku_002358
+
+//OTHER
+<enZ0587>taku_004937
+<ptZ0587>taku_004937
+
+//OTHER
+<enZ0588>km0109a
+<ptZ0588>km0109a
+
+//OTHER
+<enZ0589>kimi_001535
+<ptZ0589>kimi_001535
+
+//OTHER
+<enZ0590>taku_004938
+<ptZ0590>taku_004938
+
+//OTHER
+<enZ0591>kimi_001536
+<ptZ0591>kimi_001536
+
+//OTHER
+<enZ0592>tkj2009
+<ptZ0592>tkj2009
+
+//OTHER
+<enZ0593>taku_004939
+<ptZ0593>taku_004939
+
+//OTHER
+<enZ0594>kimi_001537
+<ptZ0594>kimi_001537
+
+//OTHER
+<enZ0595>se233
+<ptZ0595>se233
+
+//OTHER
+<enZ0596>tkj2007
+<ptZ0596>tkj2007
+
+//OTHER
+<enZ0597>taku_004940
+<ptZ0597>taku_004940
+
+//OTHER
+<enZ0598>tkj2702
+<ptZ0598>tkj2702
+
+//OTHER
+<enZ0599>taku_004941
+<ptZ0599>taku_004941
+
+//OTHER
+<enZ0600>se518
+<ptZ0600>se518
+
+//OTHER
+<enZ0601>kimi_001538
+<ptZ0601>kimi_001538
+
+//OTHER
+<enZ0602>taku_004942
+<ptZ0602>taku_004942
+
+//OTHER
+<enZ0603>zaku_002359
+<ptZ0603>zaku_002359
+
+//OTHER
+<enZ0604>taku_004943
+<ptZ0604>taku_004943
+
+//OTHER
+<enZ0605>kimi_001539
+<ptZ0605>kimi_001539
+
+//OTHER
+<enZ0606>taku_004944
+<ptZ0606>taku_004944
+
+//OTHER
+<enZ0607>km0016a
+<ptZ0607>km0016a
+
+//OTHER
+<enZ0608>zaku_002360
+<ptZ0608>zaku_002360
+
+//OTHER
+<enZ0609>taku_004945
+<ptZ0609>taku_004945
+
+//OTHER
+<enZ0610>zaku_002361
+<ptZ0610>zaku_002361
+
+//OTHER
+<enZ0611>zaku_002362
+<ptZ0611>zaku_002362
+
+//OTHER
+<enZ0612>taku_004946
+<ptZ0612>taku_004946
+
+//OTHER
+<enZ0613>zaku_002363
+<ptZ0613>zaku_002363
+
+//OTHER
+<enZ0614>taku_004947
+<ptZ0614>taku_004947
+
+//OTHER
+<enZ0615>zaku_002364
+<ptZ0615>zaku_002364
+
+//OTHER
+<enZ0616>taku_004948
+<ptZ0616>taku_004948
+
+//OTHER
+<enZ0617>zaku_002365
+<ptZ0617>zaku_002365
+
+//OTHER
+<enZ0618>taku_004949
+<ptZ0618>taku_004949
+
+//OTHER
+<enZ0619>zaku_002366
+<ptZ0619>zaku_002366
+
+//OTHER
+<enZ0620>taku_004950
+<ptZ0620>taku_004950
+
+//OTHER
+<enZ0621>zaku_002367
+<ptZ0621>zaku_002367
+
+//OTHER
+<enZ0622>taku_004951
+<ptZ0622>taku_004951
+
+//OTHER
+<enZ0623>zaku_002368
+<ptZ0623>zaku_002368
+
+//OTHER
+<enZ0624>taku_004952
+<ptZ0624>taku_004952
+
+//OTHER
+<enZ0625>zaku_002369
+<ptZ0625>zaku_002369
+
+//OTHER
+<enZ0626>taku_004953
+<ptZ0626>taku_004953
+
+//OTHER
+<enZ0627>zaku_002370
+<ptZ0627>zaku_002370
+
+//OTHER
+<enZ0628>taku_004954
+<ptZ0628>taku_004954
+
+//OTHER
+<enZ0629>taku_004955
+<ptZ0629>taku_004955
+
+//OTHER
+<enZ0630>zaku_002371
+<ptZ0630>zaku_002371
+
+//OTHER
+<enZ0631>kimi_001540
+<ptZ0631>kimi_001540
+
+//OTHER
+<enZ0632>zaku_002372
+<ptZ0632>zaku_002372
+
+//OTHER
+<enZ0633>zaku_002373
+<ptZ0633>zaku_002373
+
+//OTHER
+<enZ0634>taku_004956
+<ptZ0634>taku_004956
+
+//OTHER
+<enZ0635>zaku_002374
+<ptZ0635>zaku_002374
+
+//OTHER
+<enZ0636>tkj2700
+<ptZ0636>tkj2700
+
+//OTHER
+<enZ0637>taku_004957
+<ptZ0637>taku_004957
+
+//OTHER
+<enZ0638>zaku_002375
+<ptZ0638>zaku_002375
+
+//OTHER
+<enZ0639>taku_004958
+<ptZ0639>taku_004958
+
+//OTHER
+<enZ0640>zaku_002376
+<ptZ0640>zaku_002376
+
+//OTHER
+<enZ0641>taku_004959
+<ptZ0641>taku_004959
+
+//OTHER
+<enZ0642>zaku_002377
+<ptZ0642>zaku_002377
+
+//OTHER
+<enZ0643>taku_004960
+<ptZ0643>taku_004960
+
+//OTHER
+<enZ0644>zaku_002378
+<ptZ0644>zaku_002378
+
+//OTHER
+<enZ0645>kimi_001541
+<ptZ0645>kimi_001541
+
+//OTHER
+<enZ0646>taku_004961
+<ptZ0646>taku_004961
+
+//OTHER
+<enZ0647>kimi_001542
+<ptZ0647>kimi_001542
+
+//OTHER
+<enZ0648>zaku_002379
+<ptZ0648>zaku_002379
+
+//OTHER
+<enZ0649>taku_004962
+<ptZ0649>taku_004962
+
+//OTHER
+<enZ0650>kimi_001543
+<ptZ0650>kimi_001543
+
+//OTHER
+<enZ0651>taku_004963
+<ptZ0651>taku_004963
+
+//OTHER
+<enZ0652>kimi_001544
+<ptZ0652>kimi_001544
+
+//OTHER
+<enZ0653>taku_004964
+<ptZ0653>taku_004964
+
+//OTHER
+<enZ0654>taku_004965
+<ptZ0654>taku_004965
+
+//OTHER
+<enZ0655>kimi_001545
+<ptZ0655>kimi_001545
+
+//OTHER
+<enZ0656>taku_004966
+<ptZ0656>taku_004966
+
+//OTHER
+<enZ0657>taku_004967
+<ptZ0657>taku_004967
+
+//OTHER
+<enZ0658>taku_004968
+<ptZ0658>taku_004968
+
+//OTHER
+<enZ0659>kimi_001546
+<ptZ0659>kimi_001546
+
+//OTHER
+<enZ0660>taku_004969
+<ptZ0660>taku_004969
+
+//OTHER
+<enZ0661>kimi_001547
+<ptZ0661>kimi_001547
+
+//OTHER
+<enZ0662>taku_004970
+<ptZ0662>taku_004970
+
+//OTHER
+<enZ0663>kimi_001548
+<ptZ0663>kimi_001548
+
+//OTHER
+<enZ0664>taku_004971
+<ptZ0664>taku_004971
+
+//OTHER
+<enZ0665>3_0710
+<ptZ0665>3_0710
+

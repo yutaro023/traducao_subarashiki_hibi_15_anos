@@ -1,0 +1,3628 @@
+//NAME
+<enN0001>Kotomi
+<ptN0001>Kotomi
+
+//NAME
+<enN0002>Tomosane
+<ptN0002>Tomosane
+
+//NAME
+<enN0003>Hasaki
+<ptN0003>Hasaki
+
+//NAME
+<enN0004>Kimura
+<ptN0004>Kimura
+
+///================================================================================
+
+//TEXT BACKLOG
+<enT0001>Live happily!
+<ptT0001>Live happily!
+
+//TEXT BACKLOG
+<enT0002>Ludwig Josef Johann Wittgenstein   July 8, 1916
+<ptT0002>Ludwig Josef Johann Wittgenstein   July 8, 1916
+
+//TEXT
+<enT0003>The end of summer.
+<ptT0003>The end of summer.
+
+//TEXT
+<enT0004>Even at the end of summer, the sun shone high in the sky.
+<ptT0004>Even at the end of summer, the sun shone high in the sky.
+
+//TEXT
+<enT0005>Cumulonimbi gathered strength far off in the distance.
+<ptT0005>Cumulonimbi gathered strength far off in the distance.
+
+//TEXT
+<enT0006>It'd been a while since I came out to Hasaki's apartment.
+<ptT0006>It'd been a while since I came out to Hasaki's apartment.
+
+//TEXT
+<enT0007>The Sanami woman.
+<ptT0007>The Sanami woman.
+
+//TEXT
+<enT0008>That's what they always called my mother in the village.
+<ptT0008>That's what they always called my mother in the village.
+
+//TEXT
+<enT0009>Her expression only barely changed when she saw me.
+<ptT0009>Her expression only barely changed when she saw me.
+
+//TEXT 【Kotomi】
+<enT0010>"T-Takuji?"
+<ptT0010>"T-Takuji?"
+
+//TEXT 【Tomosane】
+<enT0011>"..."
+<ptT0011>"..."
+
+//TEXT
+<enT0012>I shook my head.
+<ptT0012>I shook my head.
+
+//TEXT 【Tomosane】
+<enT0013>"I'm Tomosane. Mamiya Tomosane."
+<ptT0013>"I'm Tomosane. Mamiya Tomosane."
+
+//TEXT 【Kotomi】
+<enT0014>"Tomo...sane..."
+<ptT0014>"Tomo...sane..."
+
+//TEXT 【Tomosane】
+<enT0015>"That's right. Tomosane, the child you had with Hiroo. Takuji is dead."
+<ptT0015>"That's right. Tomosane, the child you had with Hiroo. Takuji is dead."
+
+//TEXT 【Kotomi】
+<enT0016>"Takuji is... dead..."
+<ptT0016>"Takuji is... dead..."
+
+//TEXT 【Tomosane】
+<enT0017>"That's right. Don't you remember?"
+<ptT0017>"That's right. Don't you remember?"
+
+//TEXT 【Kotomi】
+<enT0018>"Takuji is... dead..."
+<ptT0018>"Takuji is... dead..."
+
+//TEXT
+<enT0019>She mumbled those words with an empty heart. Then she just turned back to the wall and stared, unmoving.
+<ptT0019>She mumbled those words with an empty heart. Then she just turned back to the wall and stared, unmoving.
+
+//TEXT 【Tomosane】
+<enT0020>"Nothing has changed..."
+<ptT0020>"Nothing has changed..."
+
+//TEXT 【Hasaki】
+<enT0021>"That's not true at all."
+<ptT0021>"That's not true at all."
+
+//TEXT 【Tomosane】
+<enT0022>"Really?"
+<ptT0022>"Really?"
+
+//TEXT 【Hasaki】
+<enT0023>"Yeah, she started getting better after July 20th last year. It's a miracle that she can even hold a basic conversation like that."
+<ptT0023>"Yeah, she started getting better after July 20th last year. It's a miracle that she can even hold a basic conversation like that."
+
+//TEXT 【Tomosane】
+<enT0024>"I see."
+<ptT0024>"I see."
+
+//TEXT 【Hasaki】
+<enT0025>"But this is the most dangerous time for her. I have to keep a close eye on her."
+<ptT0025>"But this is the most dangerous time for her. I have to keep a close eye on her."
+
+//TEXT 【Tomosane】
+<enT0026>"The most dangerous time?"
+<ptT0026>"The most dangerous time?"
+
+//TEXT 【Hasaki】
+<enT0027>"When she's just talking to the wall, I don't have to worry about her committing suicide, but when she has enough willpower to talk to people, then she might also have enough willpower to do something."
+<ptT0027>"When she's just talking to the wall, I don't have to worry about her committing suicide, but when she has enough willpower to talk to people, then she might also have enough willpower to do something."
+
+//TEXT 【Tomosane】
+<enT0028>"She has willpower... In other words, you think there's the possibility of her committing suicide?"
+<ptT0028>"She has willpower... In other words, you think there's the possibility of her committing suicide?"
+
+//TEXT 【Hasaki】
+<enT0029>"That's right. I have to take her to the Mamiya house and watch over her."
+<ptT0029>"That's right. I have to take her to the Mamiya house and watch over her."
+
+//TEXT 【Tomosane】
+<enT0030>"Hasaki."
+<ptT0030>"Hasaki."
+
+//TEXT 【Hasaki】
+<enT0031>"Hm? What?"
+<ptT0031>"Hm? What?"
+
+//TEXT 【Tomosane】
+<enT0032>"You know, I... I hate this woman so much I could kill her. The blame for this entire tragedy lies on her shoulders."
+<ptT0032>"You know, I... I hate this woman so much I could kill her. The blame for this entire tragedy lies on her shoulders."
+
+//TEXT 【Hasaki】
+<enT0033>"Yeah. You might be right."
+<ptT0033>"Yeah. You might be right."
+
+//TEXT 【Tomosane】
+<enT0034>"You should hate her even more than I do, so why are you taking care of her?"
+<ptT0034>"You should hate her even more than I do, so why are you taking care of her?"
+
+//TEXT 【Hasaki】
+<enT0035>"Because she's my mother."
+<ptT0035>"Because she's my mother."
+
+//TEXT 【Tomosane】
+<enT0036>"Even if that's what you believe, she threw you away."
+<ptT0036>"Even if that's what you believe, she threw you away."
+
+//TEXT 【Hasaki】
+<enT0037>"You just didn't know her, Tomo Nii-san."
+<ptT0037>"You just didn't know her, Tomo Nii-san."
+
+//TEXT 【Tomosane】
+<enT0038>"I didn't know her?"
+<ptT0038>"I didn't know her?"
+
+//TEXT 【Hasaki】
+<enT0039>"She... didn't love Dad, and that's why she committed that taboo and gave birth to us, right?"
+<ptT0039>"She... didn't love Dad, and that's why she committed that taboo and gave birth to us, right?"
+
+//TEXT 【Tomosane】
+<enT0040>"..."
+<ptT0040>"..."
+
+//TEXT
+<enT0041>Those words silenced me.
+<ptT0041>Those words silenced me.
+
+//TEXT
+<enT0042>I didn't understand what train of thought could lead her to that conclusion.
+<ptT0042>I didn't understand what train of thought could lead her to that conclusion.
+
+//TEXT 【Tomosane】
+<enT0043>"You know, Hasaki, you don't need to make excuses for her."
+<ptT0043>"You know, Hasaki, you don't need to make excuses for her."
+
+//TEXT 【Hasaki】
+<enT0044>"No, it's the truth. It's not a question of perspective. It's the truth."
+<ptT0044>"No, it's the truth. It's not a question of perspective. It's the truth."
+
+//TEXT 【Tomosane】
+<enT0045>"The truth?"
+<ptT0045>"The truth?"
+
+//TEXT 【Hasaki】
+<enT0046>"She loved Dad, and she loved Takuji Nii-san, you, and even me. She really loved us."
+<ptT0046>"She loved Dad, and she loved Takuji Nii-san, you, and even me. She really loved us."
+
+//TEXT 【Tomosane】
+<enT0047>"That's ridiculous. That's not true!"
+<ptT0047>"That's ridiculous. That's not true!"
+
+//TEXT 【Hasaki】
+<enT0048>"Dad died very young, didn't he? He knew that he didn't have very much time left."
+<ptT0048>"Dad died very young, didn't he? He knew that he didn't have very much time left."
+
+//TEXT 【Tomosane】
+<enT0049>"He knew?"
+<ptT0049>"He knew?"
+
+//TEXT 【Hasaki】
+<enT0050>"Yeah. He had a really bad, chronic condition. Especially after you went back to the village, he constantly needed dialysis or else he was at risk of dying."
+<ptT0050>"Yeah. He had a really bad, chronic condition. Especially after you went back to the village, he constantly needed dialysis or else he was at risk of dying."
+
+//TEXT 【Tomosane】
+<enT0051>"But he had cancer."
+<ptT0051>"But he had cancer."
+
+//TEXT 【Hasaki】
+<enT0052>"Yeah, he did. He knew that either way, he wouldn't live for much longer."
+<ptT0052>"Yeah, he did. He knew that either way, he wouldn't live for much longer."
+
+//TEXT 【Hasaki】
+<enT0053>"You probably didn't know, but I heard from the doctor at the hospital after he died."
+<ptT0053>"You probably didn't know, but I heard from the doctor at the hospital after he died."
+
+//TEXT 【Hasaki】
+<enT0054>"If not for his chronic condition, they could've healed his cancer without a problem."
+<ptT0054>"If not for his chronic condition, they could've healed his cancer without a problem."
+
+//TEXT 【Tomosane】
+<enT0055>"They could've?"
+<ptT0055>"They could've?"
+
+//TEXT 【Hasaki】
+<enT0056>"Mom wanted to save him because he was the only person who protected her when she was persecuted by everyone else in the village."
+<ptT0056>"Mom wanted to save him because he was the only person who protected her when she was persecuted by everyone else in the village."
+
+//TEXT 【Hasaki】
+<enT0057>"She just wanted to save Dad..."
+<ptT0057>"She just wanted to save Dad..."
+
+//TEXT 【Hasaki】
+<enT0058>"That's why she started experimenting with new religions. She was tricked by that new cult's pastor."
+<ptT0058>"That's why she started experimenting with new religions. She was tricked by that new cult's pastor."
+
+//TEXT 【Tomosane】
+<enT0059>"The White Lotus Association..."
+<ptT0059>"The White Lotus Association..."
+
+//TEXT 【Hasaki】
+<enT0060>"Yeah, and Mom was a beautiful woman. More importantly, she was the successor to the bloodline of the Sanagi shrine maidens."
+<ptT0060>"Yeah, and Mom was a beautiful woman. More importantly, she was the successor to the bloodline of the Sanagi shrine maidens."
+
+//TEXT 【Hasaki】
+<enT0061>"In the religious industry, the traditional shrine maiden bloodline simply has market value."
+<ptT0061>"In the religious industry, the traditional shrine maiden bloodline simply has market value."
+
+//TEXT 【Tomosane】
+<enT0062>"Market value?"
+<ptT0062>"Market value?"
+
+//TEXT 【Hasaki】
+<enT0063>"Yeah, the pastor and the isolated woman... He wanted to have a child with the shrine maiden who had inherited her powers from ancient times."
+<ptT0063>"Yeah, the pastor and the isolated woman... He wanted to have a child with the shrine maiden who had inherited her powers from ancient times."
+
+//TEXT 【Hasaki】
+<enT0064>"He didn't even know for sure if the Sanami family had real powers, but he wanted people to believe that they did."
+<ptT0064>"He didn't even know for sure if the Sanami family had real powers, but he wanted people to believe that they did."
+
+//TEXT 【Hasaki】
+<enT0065>"And as for the rest of the organization, don't you think they would support this child as the next pastor too?"
+<ptT0065>"And as for the rest of the organization, don't you think they would support this child as the next pastor too?"
+
+//TEXT 【Tomosane】
+<enT0066>"Just because of her family name?"
+<ptT0066>"Just because of her family name?"
+
+//TEXT 【Hasaki】
+<enT0067>"Yes. She only did it because she thought that Dad would be saved if she gave birth to the savior."
+<ptT0067>"Yes. She only did it because she thought that Dad would be saved if she gave birth to the savior."
+
+//TEXT 【Hasaki】
+<enT0068>"That's not all. She thought that the pastor could help her make peace with the village people who persecuted her as well."
+<ptT0068>"That's not all. She thought that the pastor could help her make peace with the village people who persecuted her as well."
+
+//TEXT 【Tomosane】
+<enT0069>"Th-That's ridiculous..."
+<ptT0069>"Th-That's ridiculous..."
+
+//TEXT 【Hasaki】
+<enT0070>"It's true. She was desperate because she wanted to save Dad, and she regretted that he couldn't go back to the village because he eloped with her. She was trying to make peace with them."
+<ptT0070>"It's true. She was desperate because she wanted to save Dad, and she regretted that he couldn't go back to the village because he eloped with her. She was trying to make peace with them."
+
+//TEXT 【Tomosane】
+<enT0071>"That's... That's too stupid..."
+<ptT0071>"That's... That's too stupid..."
+
+//TEXT 【Hasaki】
+<enT0072>"She was a fool. In truth, she was naive. So naive that she slept with a man she didn't like and bore his child."
+<ptT0072>"She was a fool. In truth, she was naive. So naive that she slept with a man she didn't like and bore his child."
+
+//TEXT 【Hasaki】
+<enT0073>"All to birth a savior who would save the world."
+<ptT0073>"All to birth a savior who would save the world."
+
+//TEXT 【Tomosane】
+<enT0074>"But for better or worse, she gave birth to twins."
+<ptT0074>"But for better or worse, she gave birth to twins."
+
+//TEXT 【Hasaki】
+<enT0075>"What I think is the pastor had grown tired of her, since he was only using her for her body."
+<ptT0075>"What I think is the pastor had grown tired of her, since he was only using her for her body."
+
+//TEXT 【Hasaki】
+<enT0076>"He had plenty of other women anyway. So when Mom gave birth to twins, he made up an excuse to get rid of her by saying that Takuji Nii-san had lost his qualification to be the savior."
+<ptT0076>"He had plenty of other women anyway. So when Mom gave birth to twins, he made up an excuse to get rid of her by saying that Takuji Nii-san had lost his qualification to be the savior."
+
+//TEXT 【Hasaki】
+<enT0077>"She was thrown away just because he got tired of using her."
+<ptT0077>"She was thrown away just because he got tired of using her."
+
+//TEXT 【Hasaki】
+<enT0078>"But she still tried to raise Takuji Nii-san as the savior. She believed that it was still possible."
+<ptT0078>"But she still tried to raise Takuji Nii-san as the savior. She believed that it was still possible."
+
+//TEXT 【Hasaki】
+<enT0079>"It's true that Mom and Takuji Nii-san were cold to me, but it was even harder on Mom. She was trying to accomplish something that no human could ever accomplish."
+<ptT0079>"It's true that Mom and Takuji Nii-san were cold to me, but it was even harder on Mom. She was trying to accomplish something that no human could ever accomplish."
+
+//TEXT 【Hasaki】
+<enT0080>"That's why... the day that Dad died, Mom was completely broken by the shock."
+<ptT0080>"That's why... the day that Dad died, Mom was completely broken by the shock."
+
+//TEXT 【Hasaki】
+<enT0081>"She gave birth to a child that would be the savior just so she could save Dad... but her plan was fruitless, and he died anyway."
+<ptT0081>"She gave birth to a child that would be the savior just so she could save Dad... but her plan was fruitless, and he died anyway."
+
+//TEXT 【Tomosane】
+<enT0082>"Then why did she try to hurt you?"
+<ptT0082>"Then why did she try to hurt you?"
+
+//TEXT 【Hasaki】
+<enT0083>"She seriously believed that Takuji Nii-san could cross the border between life and death if he awakened to his powers as the savior."
+<ptT0083>"She seriously believed that Takuji Nii-san could cross the border between life and death if he awakened to his powers as the savior."
+
+//TEXT 【Hasaki】
+<enT0084>"She believed that if she could just kill me and restore the powers that Takuji Nii-san originally had, then he would be able to bring me back to life afterward, and his father as well."
+<ptT0084>"She believed that if she could just kill me and restore the powers that Takuji Nii-san originally had, then he would be able to bring me back to life afterward, and his father as well."
+
+//TEXT 【Tomosane】
+<enT0085>"What do you mean?"
+<ptT0085>"What do you mean?"
+
+//TEXT 【Hasaki】
+<enT0086>"If I died and Takuji Nii-san's powers came back, Dad and I would both be able to come back to life."
+<ptT0086>"If I died and Takuji Nii-san's powers came back, Dad and I would both be able to come back to life."
+
+//TEXT 【Tomosane】
+<enT0087>"That's totally absurd."
+<ptT0087>"That's totally absurd."
+
+//TEXT 【Hasaki】
+<enT0088>"Yeah... It's absurd."
+<ptT0088>"Yeah... It's absurd."
+
+//TEXT 【Hasaki】
+<enT0089>"But, you know, I can understand it."
+<ptT0089>"But, you know, I can understand it."
+
+//TEXT 【Hasaki】
+<enT0090>"You heard she was bullied in that village, right?"
+<ptT0090>"You heard she was bullied in that village, right?"
+
+//TEXT 【Hasaki】
+<enT0091>"I wasn't bullied like that, but it really felt like I didn't even exist, both at home and at school. It's not like I can't understand how she must've felt."
+<ptT0091>"I wasn't bullied like that, but it really felt like I didn't even exist, both at home and at school. It's not like I can't understand how she must've felt."
+
+//TEXT 【Hasaki】
+<enT0092>"I always thought I was just an unnecessary person. I was just someone who didn't matter much either way. I wonder if that's what she thought to herself too."
+<ptT0092>"I always thought I was just an unnecessary person. I was just someone who didn't matter much either way. I wonder if that's what she thought to herself too."
+
+//TEXT 【Hasaki】
+<enT0093>"And then for the first time in your life, someone in this world discovers that you exist."
+<ptT0093>"And then for the first time in your life, someone in this world discovers that you exist."
+
+//TEXT 【Hasaki】
+<enT0094>"You would do absolutely anything for that person."
+<ptT0094>"You would do absolutely anything for that person."
+
+//TEXT 【Hasaki】
+<enT0095>"If you've always felt like you weren't needed, then if there was anything in the world you could do for the one person who finally loved you, you would do it."
+<ptT0095>"If you've always felt like you weren't needed, then if there was anything in the world you could do for the one person who finally loved you, you would do it."
+
+//TEXT 【Hasaki】
+<enT0096>"Because that's how I feel, too."
+<ptT0096>"Because that's how I feel, too."
+
+//TEXT 【Tomosane】
+<enT0097>"Hasaki..."
+<ptT0097>"Hasaki..."
+
+//TEXT 【Hasaki】
+<enT0098>"I would do anything to save you, Tomo Nii-san."
+<ptT0098>"I would do anything to save you, Tomo Nii-san."
+
+//TEXT 【Hasaki】
+<enT0099>"I would die if it meant that you could live. If I had to sacrifice my body in order to protect you, then I would do it without hesitation."
+<ptT0099>"I would die if it meant that you could live. If I had to sacrifice my body in order to protect you, then I would do it without hesitation."
+
+//TEXT 【Hasaki】
+<enT0100>"Maybe that's because I got that from her. We really are mother and daughter."
+<ptT0100>"Maybe that's because I got that from her. We really are mother and daughter."
+
+//TEXT 【Hasaki】
+<enT0101>"But my heart is weak, so if there wasn't anyone who needed my sullied body anymore, then I would just die, right then and there."
+<ptT0101>"But my heart is weak, so if there wasn't anyone who needed my sullied body anymore, then I would just die, right then and there."
+
+//TEXT 【Hasaki】
+<enT0102>"But Mom wanted to save him with all her heart. That was the only reason why she betrayed him."
+<ptT0102>"But Mom wanted to save him with all her heart. That was the only reason why she betrayed him."
+
+//TEXT 【Hasaki】
+<enT0103>"Hahahaha... Mom really was a fool."
+<ptT0103>"Hahahaha... Mom really was a fool."
+
+//TEXT 【Tomosane】
+<enT0104>"Hasaki..."
+<ptT0104>"Hasaki..."
+
+//TEXT
+<enT0105>I was at a loss for words.
+<ptT0105>I was at a loss for words.
+
+//TEXT
+<enT0106>Until this very moment, I'd lived my entire life hating my mother.
+<ptT0106>Until this very moment, I'd lived my entire life hating my mother.
+
+//TEXT
+<enT0107>Now I didn't have it in me to truly hate this woman.
+<ptT0107>Now I didn't have it in me to truly hate this woman.
+
+//TEXT
+<enT0108>She was just a fool, and her foolish attempts to find happiness caused all this.
+<ptT0108>She was just a fool, and her foolish attempts to find happiness caused all this.
+
+//TEXT
+<enT0109>Even then, I just think she was...
+<ptT0109>Even then, I just think she was...
+
+//TEXT 【Tomosane】
+<enT0110>"She was so stupid. She really was a fool."
+<ptT0110>"She was so stupid. She really was a fool."
+
+//TEXT 【Hasaki】
+<enT0111>"Yeah, and so was her daughter, me..."
+<ptT0111>"Yeah, and so was her daughter, me..."
+
+//TEXT 【Tomosane】
+<enT0112>"Yeah..."
+<ptT0112>"Yeah..."
+
+//TEXT
+<enT0113>Even the person I had pinned as the first cause in this entire tragedy... It's not that easy to just say that she was the root of all evil.
+<ptT0113>Even the person I had pinned as the first cause in this entire tragedy... It's not that easy to just say that she was the root of all evil.
+
+//TEXT
+<enT0114>Of course, she wasn't without sin either.
+<ptT0114>Of course, she wasn't without sin either.
+
+//TEXT
+<enT0115>Her sin was that she was ignorant, incompetent, and overly confident.
+<ptT0115>Her sin was that she was ignorant, incompetent, and overly confident.
+
+//TEXT
+<enT0116>She was a fool, but she tried as hard as she could despite being a fool, and this was the result.
+<ptT0116>She was a fool, but she tried as hard as she could despite being a fool, and this was the result.
+
+//TEXT
+<enT0117>But I wonder if I can blame her alone.
+<ptT0117>But I wonder if I can blame her alone.
+
+//TEXT
+<enT0118>I wonder if my father's choice was right.
+<ptT0118>I wonder if my father's choice was right.
+
+//TEXT
+<enT0119>I wonder if he made the wrong choice.
+<ptT0119>I wonder if he made the wrong choice.
+
+//TEXT
+<enT0120>What about Hasaki's choice?
+<ptT0120>What about Hasaki's choice?
+
+//TEXT
+<enT0121>What about mine?
+<ptT0121>What about mine?
+
+//TEXT
+<enT0122>Or Takuji's decision, which led to his death.
+<ptT0122>Or Takuji's decision, which led to his death.
+
+//TEXT
+<enT0123>And then Yuki-nee's decision...
+<ptT0123>And then Yuki-nee's decision...
+
+//TEXT
+<enT0124>I wonder if their decisions were right. How much faith did they have in their own decisions?
+<ptT0124>I wonder if their decisions were right. How much faith did they have in their own decisions?
+
+//TEXT
+<enT0125>Each one believed their decision was the right one, and this was the result.
+<ptT0125>Each one believed their decision was the right one, and this was the result.
+
+//TEXT
+<enT0126>People like to attach a single cause to the problems they face.
+<ptT0126>People like to attach a single cause to the problems they face.
+
+//TEXT
+<enT0127>But the cause of a tragedy like this can't be traced back to one decision.
+<ptT0127>But the cause of a tragedy like this can't be traced back to one decision.
+
+//TEXT
+<enT0128>The combination of several correct individual choices can even cause terrible tragedy.
+<ptT0128>The combination of several correct individual choices can even cause terrible tragedy.
+
+//TEXT
+<enT0129>In that sense...
+<ptT0129>In that sense...
+
+//TEXT
+<enT0130>It must be true that the road to hell is paved with good intentions.
+<ptT0130>It must be true that the road to hell is paved with good intentions.
+
+//TEXT
+<enT0131>Man is blissfully unaware as he walks along that road to hell.
+<ptT0131>Man is blissfully unaware as he walks along that road to hell.
+
+//TEXT 【Hasaki】
+<enT0132>"What's wrong, Tomo Nii-san?"
+<ptT0132>"What's wrong, Tomo Nii-san?"
+
+//TEXT 【Tomosane】
+<enT0133>"Oh, nothing. It's nothing."
+<ptT0133>"Oh, nothing. It's nothing."
+
+//TEXT
+<enT0134>My mother just looked at the wall, same as ever.
+<ptT0134>My mother just looked at the wall, same as ever.
+
+//TEXT
+<enT0135>What did she see there?
+<ptT0135>What did she see there?
+
+//TEXT
+<enT0136>For a moment, I lost sight of the fundamental difference between her actions and the actions carried out by all the rest of humanity over the course of their lives.
+<ptT0136>For a moment, I lost sight of the fundamental difference between her actions and the actions carried out by all the rest of humanity over the course of their lives.
+
+//TEXT
+<enT0137>I quoted the words of a philosopher.
+<ptT0137>I quoted the words of a philosopher.
+
+//TEXT
+<enT0138>The words of the world's most difficult philosopher.
+<ptT0138>The words of the world's most difficult philosopher.
+
+//TEXT 【Tomosane】
+<enT0139>"The subject does not belong to the world but it is a limit of the world."
+<ptT0139>"The subject does not belong to the world but it is a limit of the world."
+
+//TEXT 【Tomosane】
+<enT0140>"The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen."
+<ptT0140>"The sense of the world must lie outside the world. In the world everything is as it is and happens as it does happen."
+
+//TEXT 【Tomosane】
+<enT0141>"Therefore, no value exists in the world."
+<ptT0141>"Therefore, no value exists in the world."
+
+//TEXT
+<enT0142>No value exists in the world.
+<ptT0142>No value exists in the world.
+
+//TEXT
+<enT0143>
+<ptT0143>
+
+//TEXT
+<enT0144>Not money,\n
+<ptT0144>Not money,\n
+
+//TEXT
+<enT0145>
+<ptT0145>
+
+//TEXT
+<enT0146>or fame,\n
+<ptT0146>or fame,\n
+
+//TEXT
+<enT0147>
+<ptT0147>
+
+//TEXT
+<enT0148>or women,\n
+<ptT0148>or women,\n
+
+//TEXT
+<enT0149>
+<ptT0149>
+
+//TEXT
+<enT0150>or dreams.
+<ptT0150>or dreams.
+
+//TEXT
+<enT0151>
+<ptT0151>
+
+//TEXT
+<enT0152> Not human rights,\n
+<ptT0152> Not human rights,\n
+
+//TEXT
+<enT0153>
+<ptT0153>
+
+//TEXT
+<enT0154>or democracy,\n
+<ptT0154>or democracy,\n
+
+//TEXT
+<enT0155>
+<ptT0155>
+
+//TEXT
+<enT0156>or missiles,\n
+<ptT0156>or missiles,\n
+
+//TEXT
+<enT0157>
+<ptT0157>
+
+//TEXT
+<enT0158>or government.\n
+<ptT0158>or government.\n
+
+//TEXT
+<enT0159>
+<ptT0159>
+
+//TEXT
+<enT0160>Or religion,\n
+<ptT0160>Or religion,\n
+
+//TEXT
+<enT0161>
+<ptT0161>
+
+//TEXT
+<enT0162>or god,\n
+<ptT0162>or god,\n
+
+//TEXT
+<enT0163>
+<ptT0163>
+
+//TEXT
+<enT0164>or faith,\n
+<ptT0164>or faith,\n
+
+//TEXT
+<enT0165>
+<ptT0165>
+
+//TEXT
+<enT0166>or thought.
+<ptT0166>or thought.
+
+//TEXT
+<enT0167>
+<ptT0167>
+
+//TEXT
+<enT0168>Not philosophy,\n
+<ptT0168>Not philosophy,\n
+
+//TEXT
+<enT0169>
+<ptT0169>
+
+//TEXT
+<enT0170>or science,
+<ptT0170>or science,
+
+//TEXT
+<enT0171>
+<ptT0171>
+
+//TEXT
+<enT0172>or family,\n
+<ptT0172>or family,\n
+
+//TEXT
+<enT0173>
+<ptT0173>
+
+//TEXT
+<enT0174>or love.
+<ptT0174>or love.
+
+//TEXT
+<enT0175>And of course, every story ever told is just another part of the world.
+<ptT0175>And of course, every story ever told is just another part of the world.
+
+//TEXT
+<enT0176>All of them are neither outside the world nor the world's limits.
+<ptT0176>All of them are neither outside the world nor the world's limits.
+
+//TEXT
+<enT0177>The world...\n&
+<ptT0177>The world...\n&
+
+//TEXT
+<enT0178>To put it in words, it's a container.
+<ptT0178>To put it in words, it's a container.
+
+//TEXT
+<enT0179>The world can't be anything other than a container.
+<ptT0179>The world can't be anything other than a container.
+
+//TEXT
+<enT0180>A container can't be filled with other containers.
+<ptT0180>A container can't be filled with other containers.
+
+//TEXT
+<enT0181>All the different materials which make up the world are incapable of filling us.
+<ptT0181>All the different materials which make up the world are incapable of filling us.
+
+//TEXT
+<enT0182>That's why I say this.
+<ptT0182>That's why I say this.
+
+//TEXT
+<enT0183>No one can tell you what you should fill that container with.
+<ptT0183>No one can tell you what you should fill that container with.
+
+//TEXT 【Hasaki】
+<enT0184>"What was that?"
+<ptT0184>"What was that?"
+
+//TEXT 【Tomosane】
+<enT0185>"Huh? I was just talking to myself. Forget it."
+<ptT0185>"Huh? I was just talking to myself. Forget it."
+
+//TEXT 【Hasaki】
+<enT0186>"Grr."
+<ptT0186>"Grr."
+
+//TEXT 【Tomosane】
+<enT0187>"Wh-What?"
+<ptT0187>"Wh-What?"
+
+//TEXT 【Hasaki】
+<enT0188>"You and Yuki-san are always saying things that are hard to understand, like you figured something out. It's not fair."
+<ptT0188>"You and Yuki-san are always saying things that are hard to understand, like you figured something out. It's not fair."
+
+//TEXT 【Tomosane】
+<enT0189>"What do you mean, it's not fair? Besides, it's not a big deal."
+<ptT0189>"What do you mean, it's not fair? Besides, it's not a big deal."
+
+//TEXT 【Hasaki】
+<enT0190>"But it sounded like it was really hard to understand."
+<ptT0190>"But it sounded like it was really hard to understand."
+
+//TEXT 【Tomosane】
+<enT0191>"Hard to understand? It wasn't anything important."
+<ptT0191>"Hard to understand? It wasn't anything important."
+
+//TEXT 【Tomosane】
+<enT0192>"It's something that everyone knows. The old man down the street, the cashier at the dollar store, and even the bearded taxi driver."
+<ptT0192>"It's something that everyone knows. The old man down the street, the cashier at the dollar store, and even the bearded taxi driver."
+
+//TEXT 【Hasaki】
+<enT0193>"They all understand what you just said?"
+<ptT0193>"They all understand what you just said?"
+
+//TEXT 【Tomosane】
+<enT0194>"Yeah."
+<ptT0194>"Yeah."
+
+//TEXT 【Hasaki】
+<enT0195>"Wh-Why is that?"
+<ptT0195>"Wh-Why is that?"
+
+//TEXT 【Tomosane】
+<enT0196>"Live happily!"
+<ptT0196>"Live happily!"
+
+//TEXT 【Tomosane】
+<enT0197>"That's all."
+<ptT0197>"That's all."
+
+//TEXT 【Hasaki】
+<enT0198>"Jeez, I don't get it."
+<ptT0198>"Jeez, I don't get it."
+
+//TEXT 【Tomosane】
+<enT0199>"Don't overthink it. The most important thing to remember is that it's a command."
+<ptT0199>"Don't overthink it. The most important thing to remember is that it's a command."
+
+//TEXT 【Hasaki】
+<enT0200>"A command?"
+<ptT0200>"A command?"
+
+//TEXT 【Tomosane】
+<enT0201>"Yes. Those who consider themselves unfortunate spend most of their time complaining. No matter how unfortunate you believe your life to be, you must live happily!"
+<ptT0201>"Yes. Those who consider themselves unfortunate spend most of their time complaining. No matter how unfortunate you believe your life to be, you must live happily!"
+
+//TEXT 【Tomosane】
+<enT0202>"That's all."
+<ptT0202>"That's all."
+
+//TEXT 【Tomosane】
+<enT0203>"And..."
+<ptT0203>"And..."
+
+//TEXT 【Hasaki】
+<enT0204>"Whoa!"
+<ptT0204>"Whoa!"
+
+//TEXT
+<enT0205>I grabbed Hasaki's head in a vice grip.
+<ptT0205>I grabbed Hasaki's head in a vice grip.
+
+//TEXT 【Tomosane】
+<enT0206>"That's how you're already living, so don't worry about it."
+<ptT0206>"That's how you're already living, so don't worry about it."
+
+//TEXT
+<enT0207>I ruminated on the words of a genius, the world's most difficult philosopher.
+<ptT0207>I ruminated on the words of a genius, the world's most difficult philosopher.
+
+//TEXT
+<enT0208>Even though it's such an easy answer, which everyone already knows, arriving at that answer was difficult beyond measure.
+<ptT0208>Even though it's such an easy answer, which everyone already knows, arriving at that answer was difficult beyond measure.
+
+//TEXT
+<enT0209>The reason why is because God lives in these words.
+<ptT0209>The reason why is because God lives in these words.
+
+//TEXT
+<enT0210>"To believe in a God means to understand the question about the meaning of life."
+<ptT0210>"To believe in a God means to understand the question about the meaning of life."
+
+//TEXT
+<enT0211>"To believe in a God means to see that the facts of the world are not the end of the matter."
+<ptT0211>"To believe in a God means to see that the facts of the world are not the end of the matter."
+
+//TEXT
+<enT0212>"To believe in a God means to see that life has a meaning."
+<ptT0212>"To believe in a God means to see that life has a meaning."
+
+//TEXT
+<enT0213>That God doesn't need to work miracles.
+<ptT0213>That God doesn't need to work miracles.
+
+//TEXT
+<enT0214>He didn't create the world in one week.
+<ptT0214>He didn't create the world in one week.
+
+//TEXT
+<enT0215>He fundamentally does nothing.
+<ptT0215>He fundamentally does nothing.
+
+//TEXT
+<enT0216>Even then, he irresponsibly tells us...
+<ptT0216>Even then, he irresponsibly tells us...
+
+//TEXT
+<enT0217>He whispers in our ears that we must "live happily."
+<ptT0217>He whispers in our ears that we must "live happily."
+
+//TEXT
+<enT0218>All he did was establish the workings of the universe, and he didn't do it for anyone's sake in particular.
+<ptT0218>All he did was establish the workings of the universe, and he didn't do it for anyone's sake in particular.
+
+//TEXT
+<enT0219>That's the truth of the person we call God.
+<ptT0219>That's the truth of the person we call God.
+
+//TEXT
+<enT0220>All the world's lies, injustices, fakes, lechers, and filth... All of those are permitted by God.
+<ptT0220>All the world's lies, injustices, fakes, lechers, and filth... All of those are permitted by God.
+
+//TEXT
+<enT0221>No matter what injustices befall us in life, God still says to us.
+<ptT0221>No matter what injustices befall us in life, God still says to us.
+
+//TEXT
+<enT0222>"Live happily!"
+<ptT0222>"Live happily!"
+
+//TEXT
+<enT0223>On a whim, I decided to say something to my mother.
+<ptT0223>On a whim, I decided to say something to my mother.
+
+//TEXT 【Tomosane】
+<enT0224>"Live happily. That's what God has told us."
+<ptT0224>"Live happily. That's what God has told us."
+
+//TEXT 【Kotomi】
+<enT0225>"..."
+<ptT0225>"..."
+
+//TEXT
+<enT0226>She looked at me with dead eyes.
+<ptT0226>She looked at me with dead eyes.
+
+//TEXT
+<enT0227>So I said to her...
+<ptT0227>So I said to her...
+
+//TEXT 【Tomosane】
+<enT0228>"Everything has been saved. Hasaki and me were saved, and so were you, Takuji, and Dad, too."
+<ptT0228>"Everything has been saved. Hasaki and me were saved, and so were you, Takuji, and Dad, too."
+
+//TEXT 【Tomosane】
+<enT0229>"Don't drown in your sorrow. That sorrow is nothing more than a liquor to get you drunk on happiness."
+<ptT0229>"Don't drown in your sorrow. That sorrow is nothing more than a liquor to get you drunk on happiness."
+
+//TEXT 【Tomosane】
+<enT0230>"You shouldn't use alcohol to fill the void inside you, though."
+<ptT0230>"You shouldn't use alcohol to fill the void inside you, though."
+
+//TEXT 【Tomosane】
+<enT0231>"What container is worth filling?"
+<ptT0231>"What container is worth filling?"
+
+//TEXT
+<enT0232>I posed that question to my mother.
+<ptT0232>I posed that question to my mother.
+
+//TEXT
+<enT0233>I was just talking to myself.
+<ptT0233>I was just talking to myself.
+
+//TEXT
+<enT0234>I left the apartment.
+<ptT0234>I left the apartment.
+
+//TEXT 【Hasaki】
+<enT0235>"I'm going to the store."
+<ptT0235>"I'm going to the store."
+
+//TEXT 【Tomosane】
+<enT0236>"Yeah, sure. I'm gonna go home and take a nap."
+<ptT0236>"Yeah, sure. I'm gonna go home and take a nap."
+
+//TEXT 【Hasaki】
+<enT0237>"What are you talking about? You have a shift to work tonight."
+<ptT0237>"What are you talking about? You have a shift to work tonight."
+
+//TEXT 【Tomosane】
+<enT0238>"Do I?"
+<ptT0238>"Do I?"
+
+//TEXT 【Hasaki】
+<enT0239>"You do!
+<ptT0239>"You do!
+
+//TEXT
+<enT0240> And you can't skip out on work today."
+<ptT0240> And you can't skip out on work today."
+
+//TEXT 【Tomosane】
+<enT0241>"Yeah, I gotcha."
+<ptT0241>"Yeah, I gotcha."
+
+//TEXT
+<enT0242>Hasaki and I parted ways after that.
+<ptT0242>Hasaki and I parted ways after that.
+
+//TEXT
+<enT0243>Hasaki went straight to the train station, but I decided to walk.
+<ptT0243>Hasaki went straight to the train station, but I decided to walk.
+
+//TEXT
+<enT0244>I walked through the unfamiliar city and came to the river.
+<ptT0244>I walked through the unfamiliar city and came to the river.
+
+//TEXT
+<enT0245>If you follow this road, you'll come to a place near Suginomiya.
+<ptT0245>If you follow this road, you'll come to a place near Suginomiya.
+
+//TEXT
+<enT0246>I walked alone down the river terrace.
+<ptT0246>I walked alone down the river terrace.
+
+//TEXT
+<enT0247>"Hey, Unidentified Minor #1! It's been a while!"
+<ptT0247>"Hey, Unidentified Minor #1! It's been a while!"
+
+//TEXT 【Tomosane】
+<enT0248>"..."
+<ptT0248>"..."
+
+//TEXT
+<enT0249>I met another person I didn't really want to see.
+<ptT0249>I met another person I didn't really want to see.
+
+//TEXT
+<enT0250>Or in his case, the probability is higher that I was tailed by a person I didn't really want to see.
+<ptT0250>Or in his case, the probability is higher that I was tailed by a person I didn't really want to see.
+
+//TEXT
+<enT0251>"So the trial is over... Congratulations."
+<ptT0251>"So the trial is over... Congratulations."
+
+//TEXT 【Kimura】
+<enT0252>"Even if you were found not guilty, is it really safe for you to be out walking alone?"
+<ptT0252>"Even if you were found not guilty, is it really safe for you to be out walking alone?"
+
+//TEXT 【Kimura】
+<enT0253>"Your face and name got posted all over the Internet. There were a lot of people who weren't happy with that ruling."
+<ptT0253>"Your face and name got posted all over the Internet. There were a lot of people who weren't happy with that ruling."
+
+//TEXT 【Tomosane】
+<enT0254>"Seems like it, huh?"
+<ptT0254>"Seems like it, huh?"
+
+//TEXT 【Kimura】
+<enT0255>"Yeah, for sure. Is it okay for you to be taking a leisurely walk outside?"
+<ptT0255>"Yeah, for sure. Is it okay for you to be taking a leisurely walk outside?"
+
+//TEXT 【Tomosane】
+<enT0256>"It's been more than a year since that incident. Nothing has happened so far, so it should be fine, right?"
+<ptT0256>"It's been more than a year since that incident. Nothing has happened so far, so it should be fine, right?"
+
+//TEXT 【Kimura】
+<enT0257>"No, no, don't you think you could get in trouble?"
+<ptT0257>"No, no, don't you think you could get in trouble?"
+
+//TEXT 【Tomosane】
+<enT0258>"How? I haven't had any trouble. I'm just living my life like normal."
+<ptT0258>"How? I haven't had any trouble. I'm just living my life like normal."
+
+//TEXT 【Kimura】
+<enT0259>"Really? Isn't it scary that a bunch of people you don't know are talking about you?"
+<ptT0259>"Really? Isn't it scary that a bunch of people you don't know are talking about you?"
+
+//TEXT 【Tomosane】
+<enT0260>"I'm not afraid of what other people think. They're not people I know."
+<ptT0260>"I'm not afraid of what other people think. They're not people I know."
+
+//TEXT 【Kimura】
+<enT0261>"Oh, look at you. You really are strong."
+<ptT0261>"Oh, look at you. You really are strong."
+
+//TEXT 【Tomosane】
+<enT0262>"I don't care if they're not happy about the ruling. If they want to do something, then they should confront me directly."
+<ptT0262>"I don't care if they're not happy about the ruling. If they want to do something, then they should confront me directly."
+
+//TEXT 【Kimura】
+<enT0263>"Directly? You know that there's no one who can fight you and hope to win.
+<ptT0263>"Directly? You know that there's no one who can fight you and hope to win.
+
+//TEXT 【Tomosane】
+<enT0264>"A few people tried, though."
+<ptT0264>"A few people tried, though."
+
+//TEXT 【Kimura】
+<enT0265>"They did?"
+<ptT0265>"They did?"
+
+//TEXT 【Tomosane】
+<enT0266>"They were gangsters or thugs, I think. I'm not sure, but they thought they were tough. They came after me a few times."
+<ptT0266>"They were gangsters or thugs, I think. I'm not sure, but they thought they were tough. They came after me a few times."
+
+//TEXT 【Kimura】
+<enT0267>"Ahaha... I see. How did that go?"
+<ptT0267>"Ahaha... I see. How did that go?"
+
+//TEXT 【Tomosane】
+<enT0268>"Nothing really happened. They weren't any different from the guys I ran into around here. None of them were on the same level as Yuki or Master."
+<ptT0268>"Nothing really happened. They weren't any different from the guys I ran into around here. None of them were on the same level as Yuki or Master."
+
+//TEXT 【Kimura】
+<enT0269>"It seems like a lot of lowlifes do that nowadays. Some of them even post on social media that they're looking for someone to fight."
+<ptT0269>"It seems like a lot of lowlifes do that nowadays. Some of them even post on social media that they're looking for someone to fight."
+
+//TEXT 【Kimura】
+<enT0270>"Your picture and address might've been posted on those sites, you know?"
+<ptT0270>"Your picture and address might've been posted on those sites, you know?"
+
+//TEXT 【Tomosane】
+<enT0271>"I don't really care."
+<ptT0271>"I don't really care."
+
+//TEXT 【Kimura】
+<enT0272>"Jeez, you're always so cool-headed. You could at least humor me and look a little upset."
+<ptT0272>"Jeez, you're always so cool-headed. You could at least humor me and look a little upset."
+
+//TEXT 【Tomosane】
+<enT0273>"Are you still investigating?"
+<ptT0273>"Are you still investigating?"
+
+//TEXT 【Kimura】
+<enT0274>"If I called it an investigation... it would be a lie."
+<ptT0274>"If I called it an investigation... it would be a lie."
+
+//TEXT 【Kimura】
+<enT0275>"You're not valuable enough for a weekly magazine to keep chasing now."
+<ptT0275>"You're not valuable enough for a weekly magazine to keep chasing now."
+
+//TEXT 【Tomosane】
+<enT0276>"Then why are you here?"
+<ptT0276>"Then why are you here?"
+
+//TEXT 【Kimura】
+<enT0277>"Just personal interest. Is that good enough?"
+<ptT0277>"Just personal interest. Is that good enough?"
+
+//TEXT 【Tomosane】
+<enT0278>"Hmph. Do you think I'm going to play along?"
+<ptT0278>"Hmph. Do you think I'm going to play along?"
+
+//TEXT 【Kimura】
+<enT0279>"Who knows?"
+<ptT0279>"Who knows?"
+
+//TEXT
+<enT0280>Kimura slowly followed after me when I walked away.
+<ptT0280>Kimura slowly followed after me when I walked away.
+
+//TEXT
+<enT0281>I had no reason to run away either, so we kept walking, looking as if we were going somewhere together.
+<ptT0281>I had no reason to run away either, so we kept walking, looking as if we were going somewhere together.
+
+//TEXT 【Kimura】
+<enT0282>"What was the deal with that whole incident, anyway?"
+<ptT0282>"What was the deal with that whole incident, anyway?"
+
+//TEXT 【Tomosane】
+<enT0283>"..."
+<ptT0283>"..."
+
+//TEXT 【Kimura】
+<enT0284>"Why did it turn into such a ridiculous situation?"
+<ptT0284>"Why did it turn into such a ridiculous situation?"
+
+//TEXT 【Tomosane】
+<enT0285>"It's your job to figure that out."
+<ptT0285>"It's your job to figure that out."
+
+//TEXT 【Kimura】
+<enT0286>"Yeah, it's my job."
+<ptT0286>"Yeah, it's my job."
+
+//TEXT 【Tomosane】
+<enT0287>"But didn't you already finish that job?"
+<ptT0287>"But didn't you already finish that job?"
+
+//TEXT 【Kimura】
+<enT0288>"Yeah, but my hobby is just an extension of my job, so I don't really mind."
+<ptT0288>"Yeah, but my hobby is just an extension of my job, so I don't really mind."
+
+//TEXT 【Tomosane】
+<enT0289>"How convenient."
+<ptT0289>"How convenient."
+
+//TEXT
+<enT0290>I wanted to point out all the flaws in his logic, but...
+<ptT0290>I wanted to point out all the flaws in his logic, but...
+
+//TEXT 【Kimura】
+<enT0291>"I was thinking... I wonder why so many people played along with his absurd tragedy."
+<ptT0291>"I was thinking... I wonder why so many people played along with his absurd tragedy."
+
+//TEXT 【Kimura】
+<enT0292>"Normally, no one would play along with that kind of absurd farce."
+<ptT0292>"Normally, no one would play along with that kind of absurd farce."
+
+//TEXT 【Kimura】
+<enT0293>"How did he even know the world was ending? And why would someone want to kill themselves before it ends? I don't understand it."
+<ptT0293>"How did he even know the world was ending? And why would someone want to kill themselves before it ends? I don't understand it."
+
+//TEXT 【Tomosane】
+<enT0294>"He didn't want anyone to kill themselves. From his perspective, they were all just returning to the sky."
+<ptT0294>"He didn't want anyone to kill themselves. From his perspective, they were all just returning to the sky."
+
+//TEXT 【Kimura】
+<enT0295>"Now that you mention it, there were a lot of people who took part in that group suicide even though they weren't students at Kita High."
+<ptT0295>"Now that you mention it, there were a lot of people who took part in that group suicide even though they weren't students at Kita High."
+
+//TEXT 【Tomosane】
+<enT0296>"..."
+<ptT0296>"..."
+
+//TEXT 【Kimura】
+<enT0297>"Even those who weren't alumni at the school―people who were completely unrelated―were involved."
+<ptT0297>"Even those who weren't alumni at the school―people who were completely unrelated―were involved."
+
+//TEXT 【Kimura】
+<enT0298>"Group hysteria... That's what they called it in the newspapers and magazines."
+<ptT0298>"Group hysteria... That's what they called it in the newspapers and magazines."
+
+//TEXT 【Kimura】
+<enT0299>"But then why did so many unrelated people end up dying?"
+<ptT0299>"But then why did so many unrelated people end up dying?"
+
+//TEXT 【Kimura】
+<enT0300>"That kind of hysteria only occurs in group settings. People from all over, even completely unrelated people, gathered in that place."
+<ptT0300>"That kind of hysteria only occurs in group settings. People from all over, even completely unrelated people, gathered in that place."
+
+//TEXT 【Tomosane】
+<enT0301>"I don't know much about this, but aren't they saying that all that crazy stuff happened because the whole group was suffering from hysteria?"
+<ptT0301>"I don't know much about this, but aren't they saying that all that crazy stuff happened because the whole group was suffering from hysteria?"
+
+//TEXT 【Kimura】
+<enT0302>"I guess that's what they've been saying, but that doesn't really explain anything, does it?"
+<ptT0302>"I guess that's what they've been saying, but that doesn't really explain anything, does it?"
+
+//TEXT 【Kimura】
+<enT0303>"None of those unrelated people were registered on the underground message board either."
+<ptT0303>"None of those unrelated people were registered on the underground message board either."
+
+//TEXT 【Kimura】
+<enT0304>"I don't know how they all heard about it, but it seems like they all came for different reasons."
+<ptT0304>"I don't know how they all heard about it, but it seems like they all came for different reasons."
+
+//TEXT 【Tomosane】
+<enT0305>"Apparently some people just heard rumors that they could have sex there."
+<ptT0305>"Apparently some people just heard rumors that they could have sex there."
+
+//TEXT 【Kimura】
+<enT0306>"Yeah, of course, but isn't it ridiculous that they would die just to have sex?"
+<ptT0306>"Yeah, of course, but isn't it ridiculous that they would die just to have sex?"
+
+//TEXT 【Tomosane】
+<enT0307>"I guess so."
+<ptT0307>"I guess so."
+
+//TEXT 【Kimura】
+<enT0308>"But after I spent so much time reading the forums, I'm not really surprised that people would do that."
+<ptT0308>"But after I spent so much time reading the forums, I'm not really surprised that people would do that."
+
+//TEXT 【Tomosane】
+<enT0309>"They would die just to have sex?"
+<ptT0309>"They would die just to have sex?"
+
+//TEXT 【Kimura】
+<enT0310>"I guess they would. It seems ridiculous to me."
+<ptT0310>"I guess they would. It seems ridiculous to me."
+
+//TEXT 【Kimura】
+<enT0311>"It actually seems like a pretty common scene in this world... That's what I think."
+<ptT0311>"It actually seems like a pretty common scene in this world... That's what I think."
+
+//TEXT 【Tomosane】
+<enT0312>"A pretty common scene?"
+<ptT0312>"A pretty common scene?"
+
+//TEXT 【Kimura】
+<enT0313>"Yeah, it can even seem perfectly natural for this kind of incident to happen. Sometimes I fall prey to that illusion."
+<ptT0313>"Yeah, it can even seem perfectly natural for this kind of incident to happen. Sometimes I fall prey to that illusion."
+
+//TEXT 【Tomosane】
+<enT0314>"No, I don't think it can be natural."
+<ptT0314>"No, I don't think it can be natural."
+
+//TEXT 【Kimura】
+<enT0315>"Of course, it doesn't actually happen that easily, but sometimes it really does happen."
+<ptT0315>"Of course, it doesn't actually happen that easily, but sometimes it really does happen."
+
+//TEXT 【Tomosane】
+<enT0316>"Sometimes?"
+<ptT0316>"Sometimes?"
+
+//TEXT 【Kimura】
+<enT0317>"Every time we hear rumors about missile attacks from neighboring countries, a new strain of a virus that could wipe out humanity, or a prophecy about some great disaster that is going to strike us."
+<ptT0317>"Every time we hear rumors about missile attacks from neighboring countries, a new strain of a virus that could wipe out humanity, or a prophecy about some great disaster that is going to strike us."
+
+//TEXT 【Kimura】
+<enT0318>"It happens every time."
+<ptT0318>"It happens every time."
+
+//TEXT 【Tomosane】
+<enT0319>"What does?"
+<ptT0319>"What does?"
+
+//TEXT 【Kimura】
+<enT0320>"They say, 'Here it is at last.'"
+<ptT0320>"They say, 'Here it is at last.'"
+
+//TEXT 【Tomosane】
+<enT0321>"Here it is at last?"
+<ptT0321>"Here it is at last?"
+
+//TEXT 【Kimura】
+<enT0322>"A young man once said that war is the only solution, and he became famous overnight."
+<ptT0322>"A young man once said that war is the only solution, and he became famous overnight."
+
+//TEXT 【Kimura】
+<enT0323>"If a war starts, then it will at least change the situation we're stuck in. So sometimes we need to wage war."
+<ptT0323>"If a war starts, then it will at least change the situation we're stuck in. So sometimes we need to wage war."
+
+//TEXT 【Kimura】
+<enT0324>"In a sense, that's a logical way of thinking."
+<ptT0324>"In a sense, that's a logical way of thinking."
+
+//TEXT 【Kimura】
+<enT0325>"But that's not all it is."
+<ptT0325>"But that's not all it is."
+
+//TEXT 【Kimura】
+<enT0326>"Every time someone predicts a great disaster, you hear these words."
+<ptT0326>"Every time someone predicts a great disaster, you hear these words."
+
+//TEXT
+<enT0327>Now I can finally die.\n\n\n\n\n\n\n
+<ptT0327>Now I can finally die.\n\n\n\n\n\n\n
+
+//TEXT
+<enT0328>
+<ptT0328>
+
+//TEXT
+<enT0329>
+<ptT0329>
+
+//TEXT
+<enT0330>Now it's finally over.\n\n\n\n\n
+<ptT0330>Now it's finally over.\n\n\n\n\n
+
+//TEXT
+<enT0331>
+<ptT0331>
+
+//TEXT
+<enT0332>
+<ptT0332>
+
+//TEXT 【Tomosane】
+<enT0333>"Hmm... If you want to die, then you should just go and die already."
+<ptT0333>"Hmm... If you want to die, then you should just go and die already."
+
+//TEXT 【Kimura】
+<enT0334>"No, I totally agree. They should."
+<ptT0334>"No, I totally agree. They should."
+
+//TEXT 【Kimura】
+<enT0335>"If they want to die, then they should. Why do they have to wait for some disaster to kill them?"
+<ptT0335>"If they want to die, then they should. Why do they have to wait for some disaster to kill them?"
+
+//TEXT 【Kimura】
+<enT0336>"That's right..."
+<ptT0336>"That's right..."
+
+//TEXT 【Kimura】
+<enT0337>"But you know, every time one of these disasters is predicted, you see people online saying that they can finally die."
+<ptT0337>"But you know, every time one of these disasters is predicted, you see people online saying that they can finally die."
+
+//TEXT 【Kimura】
+<enT0338>"Even if it's not quite the end of the world, all they need is a large-scale disaster."
+<ptT0338>"Even if it's not quite the end of the world, all they need is a large-scale disaster."
+
+//TEXT 【Kimura】
+<enT0339>"With that, they can say that it's finally over."
+<ptT0339>"With that, they can say that it's finally over."
+
+//TEXT 【Kimura】
+<enT0340>"Why do they look for a reason to end it?"
+<ptT0340>"Why do they look for a reason to end it?"
+
+//TEXT 【Tomosane】
+<enT0341>"A reason..."
+<ptT0341>"A reason..."
+
+//TEXT 【Kimura】
+<enT0342>"Yes... A reason to die."
+<ptT0342>"Yes... A reason to die."
+
+//TEXT 【Tomosane】
+<enT0343>"..."
+<ptT0343>"..."
+
+//TEXT 【Tomosane】
+<enT0344>"I see. So then what are you trying to say, as a journalist?"
+<ptT0344>"I see. So then what are you trying to say, as a journalist?"
+
+//TEXT 【Tomosane】
+<enT0345>"Are you trying to say that our repressive society caused this incident?"
+<ptT0345>"Are you trying to say that our repressive society caused this incident?"
+
+//TEXT 【Kimura】
+<enT0346>"Oh, that's a good one. Our repressive society... The feeling of repression spreading among our youth is the real cause of this incident! That would be a good headline."
+<ptT0346>"Oh, that's a good one. Our repressive society... The feeling of repression spreading among our youth is the real cause of this incident! That would be a good headline."
+
+//TEXT 【Kimura】
+<enT0347>"Hahahaha, you have talent, Tomosane-kun. Why don't you become a writer? You wouldn't make it as a journalist, but we still have plenty of room for extra writers."
+<ptT0347>"Hahahaha, you have talent, Tomosane-kun. Why don't you become a writer? You wouldn't make it as a journalist, but we still have plenty of room for extra writers."
+
+//TEXT 【Tomosane】
+<enT0348>"Haa... What did you really come here for?"
+<ptT0348>"Haa... What did you really come here for?"
+
+//TEXT 【Kimura】
+<enT0349>"Hahahaha... Our repressive society, huh?
+<ptT0349>"Hahahaha... Our repressive society, huh?
+
+//TEXT
+<enT0350> This country has definitely been dominated by that kind of atmosphere for a while now."
+<ptT0350> This country has definitely been dominated by that kind of atmosphere for a while now."
+
+//TEXT 【Kimura】
+<enT0351>"This city, you know..."
+<ptT0351>"This city, you know..."
+
+//TEXT 【Kimura】
+<enT0352>"Once upon a time, people called this place a new town."
+<ptT0352>"Once upon a time, people called this place a new town."
+
+//TEXT 【Kimura】
+<enT0353>"That was before I was born. It was a long time ago that this city was new."
+<ptT0353>"That was before I was born. It was a long time ago that this city was new."
+
+//TEXT 【Kimura】
+<enT0354>"It was new before we ever knew it."
+<ptT0354>"It was new before we ever knew it."
+
+//TEXT 【Kimura】
+<enT0355>"All sorts of things were new before we were ever born."
+<ptT0355>"All sorts of things were new before we were ever born."
+
+//TEXT 【Kimura】
+<enT0356>"A world of only new things..."
+<ptT0356>"A world of only new things..."
+
+//TEXT 【Kimura】
+<enT0357>"Everything was new, and everything in the world was complete."
+<ptT0357>"Everything was new, and everything in the world was complete."
+
+//TEXT 【Tomosane】
+<enT0358>"Haa... Can I say something?"
+<ptT0358>"Haa... Can I say something?"
+
+//TEXT 【Tomosane】
+<enT0359>"Don't you think there were a lot of people who felt like they were being repressed, even in the distant past?"
+<ptT0359>"Don't you think there were a lot of people who felt like they were being repressed, even in the distant past?"
+
+//TEXT 【Tomosane】
+<enT0360>"It's not just the modern generation. There have always been those people."
+<ptT0360>"It's not just the modern generation. There have always been those people."
+
+//TEXT 【Kimura】
+<enT0361>"Oh, then how about this?"
+<ptT0361>"Oh, then how about this?"
+
+//TEXT 【Kimura】
+<enT0362>"How vast is the earth? How far is the past? I face a great foe, and hope I will last."
+<ptT0362>"How vast is the earth? How far is the past? I face a great foe, and hope I will last."
+
+//TEXT 【Kimura】
+<enT0363>"Learnt of Horatio, but truly all for naught."
+<ptT0363>"Learnt of Horatio, but truly all for naught."
+
+//TEXT 【Kimura】
+<enT0364>"The world's lies, all told..."
+<ptT0364>"The world's lies, all told..."
+
+//TEXT 【Kimura】
+<enT0365>"The truth which I sought."
+<ptT0365>"The truth which I sought."
+
+//TEXT 【Kimura】
+<enT0366>"Fire burns in my chest. I seek my final rest."
+<ptT0366>"Fire burns in my chest. I seek my final rest."
+
+//TEXT 【Kimura】
+<enT0367>"No hell for fearing, nor lord for saving. Now I see with hope, hopelessness melding."
+<ptT0367>"No hell for fearing, nor lord for saving. Now I see with hope, hopelessness melding."
+
+//TEXT 【Tomosane】
+<enT0368>"Is that Fujimura Misao?"
+<ptT0368>"Is that Fujimura Misao?"
+
+//TEXT 【Kimura】
+<enT0369>"Oh, I thought you would recognize it. That was a poem called 'To Stand Upon a Great Precipice.'"
+<ptT0369>"Oh, I thought you would recognize it. That was a poem called 'To Stand Upon a Great Precipice.'"
+
+//TEXT 【Tomosane】
+<enT0370>"I don't really understand, but that was the suicide note left by a high school student who committed suicide at the Kegon waterfall in the Meiji era, am I right?"
+<ptT0370>"I don't really understand, but that was the suicide note left by a high school student who committed suicide at the Kegon waterfall in the Meiji era, am I right?"
+
+//TEXT 【Kimura】
+<enT0371>"Yeah, yeah."
+<ptT0371>"Yeah, yeah."
+
+//TEXT 【Tomosane】
+<enT0372>"I heard there were a lot of copycat suicides afterward, too."
+<ptT0372>"I heard there were a lot of copycat suicides afterward, too."
+
+//TEXT 【Kimura】
+<enT0373>"That's true, there were. People always feel like they're being repressed by society, no matter what era it is."
+<ptT0373>"That's true, there were. People always feel like they're being repressed by society, no matter what era it is."
+
+//TEXT 【Kimura】
+<enT0374>"As if their human life has no value in this universe, in this world..."
+<ptT0374>"As if their human life has no value in this universe, in this world..."
+
+//TEXT 【Kimura】
+<enT0375>"Not only in this era."
+<ptT0375>"Not only in this era."
+
+//TEXT 【Tomosane】
+<enT0376>"Then..."
+<ptT0376>"Then..."
+
+//TEXT 【Kimura】
+<enT0377>"Then... what do you think?"
+<ptT0377>"Then... what do you think?"
+
+//TEXT 【Tomosane】
+<enT0378>"..."
+<ptT0378>"..."
+
+//TEXT 【Kimura】
+<enT0379>"It's not something that only happens in the modern era. This wasn't the only time..."
+<ptT0379>"It's not something that only happens in the modern era. This wasn't the only time..."
+
+//TEXT 【Kimura】
+<enT0380>"But the only era we can live in is this one."
+<ptT0380>"But the only era we can live in is this one."
+
+//TEXT 【Kimura】
+<enT0381>"We aren't living in the same era as Fujimura Misao, Natsume Souseki, or Ozaki Housai."
+<ptT0381>"We aren't living in the same era as Fujimura Misao, Natsume Souseki, or Ozaki Housai."
+
+//TEXT 【Kimura】
+<enT0382>"The suffering we experience is our own, present suffering."
+<ptT0382>"The suffering we experience is our own, present suffering."
+
+//TEXT 【Kimura】
+<enT0383>"Not the suffering of someone from a distant past."
+<ptT0383>"Not the suffering of someone from a distant past."
+
+//TEXT 【Kimura】
+<enT0384>"The pain we feel right now will never belong to anyone else. That's why it's precious."
+<ptT0384>"The pain we feel right now will never belong to anyone else. That's why it's precious."
+
+//TEXT 【Tomosane】
+<enT0385>"Haa..."
+<ptT0385>"Haa..."
+
+//TEXT 【Tomosane】
+<enT0386>"Are you okay, Kimura-san? Did Mamiya Takuji decide to possess you next?"
+<ptT0386>"Are you okay, Kimura-san? Did Mamiya Takuji decide to possess you next?"
+
+//TEXT 【Kimura】
+<enT0387>"No, no, hahahaha... No, I just got a bit worked up."
+<ptT0387>"No, no, hahahaha... No, I just got a bit worked up."
+
+//TEXT 【Tomosane】
+<enT0388>"..."
+<ptT0388>"..."
+
+//TEXT 【Tomosane】
+<enT0389>"I see. The pain we feel right now will never belong to anyone else, huh?"
+<ptT0389>"I see. The pain we feel right now will never belong to anyone else, huh?"
+
+//TEXT 【Tomosane】
+<enT0390>"Well... Honestly, I think that's a pretty boring argument."
+<ptT0390>"Well... Honestly, I think that's a pretty boring argument."
+
+//TEXT 【Kimura】
+<enT0391>"Really?"
+<ptT0391>"Really?"
+
+//TEXT 【Tomosane】
+<enT0392>"For instance, you say 'our' pain, when really it's just one person's pain. Your pronoun usage is all over the place."
+<ptT0392>"For instance, you say 'our' pain, when really it's just one person's pain. Your pronoun usage is all over the place."
+
+//TEXT 【Kimura】
+<enT0393>"Oh wow, I guess you're right."
+<ptT0393>"Oh wow, I guess you're right."
+
+//TEXT 【Tomosane】
+<enT0394>"Haa..."
+<ptT0394>"Haa..."
+
+//TEXT 【Tomosane】
+<enT0395>"But I understand that feeling."
+<ptT0395>"But I understand that feeling."
+
+//TEXT 【Tomosane】
+<enT0396>"The feeling when you want to say, 'This is my pain, not anyone else's.'"
+<ptT0396>"The feeling when you want to say, 'This is my pain, not anyone else's.'"
+
+//TEXT
+<enT0397>Kimura and I kept walking on and on along the river embankment.
+<ptT0397>Kimura and I kept walking on and on along the river embankment.
+
+//TEXT
+<enT0398>On and on...
+<ptT0398>On and on...
+
+//TEXT 【Kimura】
+<enT0399>"What I'm trying to get at is... what is our raison d'etre?"
+<ptT0399>"What I'm trying to get at is... what is our raison d'etre?"
+
+//TEXT 【Tomosane】
+<enT0400>"Raison d'etre?"
+<ptT0400>"Raison d'etre?"
+
+//TEXT 【Kimura】
+<enT0401>"I mean to ask what our life is worth."
+<ptT0401>"I mean to ask what our life is worth."
+
+//TEXT 【Tomosane】
+<enT0402>"Ah..."
+<ptT0402>"Ah..."
+
+//TEXT 【Kimura】
+<enT0403>"The meaning of life..."
+<ptT0403>"The meaning of life..."
+
+//TEXT 【Kimura】
+<enT0404>"Well, everyone gets a bit existential when they're teenagers. It's an unsolvable problem that everyone thinks about, and everyone believes a certain way about, but no one can answer for sure."
+<ptT0404>"Well, everyone gets a bit existential when they're teenagers. It's an unsolvable problem that everyone thinks about, and everyone believes a certain way about, but no one can answer for sure."
+
+//TEXT 【Kimura】
+<enT0405>"Maybe that's why the question has such an allure."
+<ptT0405>"Maybe that's why the question has such an allure."
+
+//TEXT 【Tomosane】
+<enT0406>"Do you think so?"
+<ptT0406>"Do you think so?"
+
+//TEXT 【Kimura】
+<enT0407>"Don't you?"
+<ptT0407>"Don't you?"
+
+//TEXT 【Kimura】
+<enT0408>"Well, it certainly depends on the person, too. Some people worry about it more than others."
+<ptT0408>"Well, it certainly depends on the person, too. Some people worry about it more than others."
+
+//TEXT 【Kimura】
+<enT0409>"But everyone who's ever felt powerless has worried about the meaning of their life, right?"
+<ptT0409>"But everyone who's ever felt powerless has worried about the meaning of their life, right?"
+
+//TEXT 【Kimura】
+<enT0410>"Is there ultimately a meaning to my life, or yours, or anyone else's? To any human life? Is there some meaning behind our existence? Everyone wonders that sometimes."
+<ptT0410>"Is there ultimately a meaning to my life, or yours, or anyone else's? To any human life? Is there some meaning behind our existence? Everyone wonders that sometimes."
+
+//TEXT 【Tomosane】
+<enT0411>"I see."
+<ptT0411>"I see."
+
+//TEXT 【Kimura】
+<enT0412>"That's the question you have to wrestle with all your life, no matter how rich or poor you are.
+<ptT0412>"That's the question you have to wrestle with all your life, no matter how rich or poor you are.
+
+//TEXT
+<enT0413> Well, it's still better to have money, though."
+<ptT0413> Well, it's still better to have money, though."
+
+//TEXT 【Kimura】
+<enT0414>"People always feel a certain anxiety toward their own raison d'etre. That question of why we exist."
+<ptT0414>"People always feel a certain anxiety toward their own raison d'etre. That question of why we exist."
+
+//TEXT 【Kimura】
+<enT0415>"D'ou venons-nous? Que Sommes-nous? Ou allons-nous?"
+<ptT0415>"D'ou venons-nous? Que Sommes-nous? Ou allons-nous?"
+
+//TEXT 【Tomosane】
+<enT0416>"Where do we come from? What are we? Where are we going?"
+<ptT0416>"Where do we come from? What are we? Where are we going?"
+
+//TEXT 【Kimura】
+<enT0417>"That's right. That was the final painting by the French artist Paul Gauguin. He gave it that name right before he committed suicide."
+<ptT0417>"That's right. That was the final painting by the French artist Paul Gauguin. He gave it that name right before he committed suicide."
+
+//TEXT 【Tomosane】
+<enT0418>"It was technically just a suicide attempt, though."
+<ptT0418>"It was technically just a suicide attempt, though."
+
+//TEXT 【Kimura】
+<enT0419>"Hahahaha, that's right."
+<ptT0419>"Hahahaha, that's right."
+
+//TEXT 【Kimura】
+<enT0420>"The moon which is a dream, and the sixpence which is reality... Where did we come from, and where we going?"
+<ptT0420>"The moon which is a dream, and the sixpence which is reality... Where did we come from, and where we going?"
+
+//TEXT 【Tomosane】
+<enT0421>"Isn't it all just from the cradle to the grave?"
+<ptT0421>"Isn't it all just from the cradle to the grave?"
+
+//TEXT 【Kimura】
+<enT0422>"Hahahaha, what's that? You mean to say that the object of human effort should always be on improving our lives in this world?"
+<ptT0422>"Hahahaha, what's that? You mean to say that the object of human effort should always be on improving our lives in this world?"
+
+//TEXT 【Tomosane】
+<enT0423>"That's what a human life is, isn't it?"
+<ptT0423>"That's what a human life is, isn't it?"
+
+//TEXT 【Kimura】
+<enT0424>"..."
+<ptT0424>"..."
+
+//TEXT 【Kimura】
+<enT0425>"It might be..."
+<ptT0425>"It might be..."
+
+//TEXT 【Kimura】
+<enT0426>"That might be all there is in our lives."
+<ptT0426>"That might be all there is in our lives."
+
+//TEXT 【Kimura】
+<enT0427>"Especially for us, who were born into a world where everything has already been set up and manufactured for us. Isn't it kind of cruel?"
+<ptT0427>"Especially for us, who were born into a world where everything has already been set up and manufactured for us. Isn't it kind of cruel?"
+
+//TEXT 【Tomosane】
+<enT0428>"Hehehe... Now we're criticizing modern society?"
+<ptT0428>"Hehehe... Now we're criticizing modern society?"
+
+//TEXT 【Kimura】
+<enT0429>"Ahahaha, I guess so. I suppose that's what it sounds like, ahaha."
+<ptT0429>"Ahahaha, I guess so. I suppose that's what it sounds like, ahaha."
+
+//TEXT 【Tomosane】
+<enT0430>"..."
+<ptT0430>"..."
+
+//TEXT
+<enT0431>How long had we been walking?
+<ptT0431>How long had we been walking?
+
+//TEXT
+<enT0432>The water flowing in the river now reflected a sheen of golden light.
+<ptT0432>The water flowing in the river now reflected a sheen of golden light.
+
+//TEXT
+<enT0433>Our two shadows, standing side by side, had also grown longer and darker.
+<ptT0433>Our two shadows, standing side by side, had also grown longer and darker.
+
+//TEXT 【Tomosane】
+<enT0434>"Is there any meaning to the pieces of a jigsaw puzzle?"
+<ptT0434>"Is there any meaning to the pieces of a jigsaw puzzle?"
+
+//TEXT 【Kimura】
+<enT0435>"Huh? What do you mean?"
+<ptT0435>"Huh? What do you mean?"
+
+//TEXT 【Tomosane】
+<enT0436>"Every individual piece of a jigsaw puzzle has no meaning whatsoever."
+<ptT0436>"Every individual piece of a jigsaw puzzle has no meaning whatsoever."
+
+//TEXT 【Tomosane】
+<enT0437>"Each one is completely meaningless in its existence."
+<ptT0437>"Each one is completely meaningless in its existence."
+
+//TEXT 【Tomosane】
+<enT0438>"From the way you're talking, a human being is an existence no better than a single piece of a jigsaw puzzle."
+<ptT0438>"From the way you're talking, a human being is an existence no better than a single piece of a jigsaw puzzle."
+
+//TEXT 【Kimura】
+<enT0439>"No better than a single piece of a jigsaw puzzle..."
+<ptT0439>"No better than a single piece of a jigsaw puzzle..."
+
+//TEXT 【Tomosane】
+<enT0440>"Yes. Without a place to fit. For instance, if a person has no place they belong, then that one piece has no meaning."
+<ptT0440>"Yes. Without a place to fit. For instance, if a person has no place they belong, then that one piece has no meaning."
+
+//TEXT 【Kimura】
+<enT0441>"..."
+<ptT0441>"..."
+
+//TEXT 【Tomosane】
+<enT0442>"One piece of a jigsaw puzzle. One misshapen fragment."
+<ptT0442>"One piece of a jigsaw puzzle. One misshapen fragment."
+
+//TEXT 【Tomosane】
+<enT0443>"Without a place where it fits, it's just an ugly, meaningless existence."
+<ptT0443>"Without a place where it fits, it's just an ugly, meaningless existence."
+
+//TEXT 【Kimura】
+<enT0444>"That's..."
+<ptT0444>"That's..."
+
+//TEXT 【Tomosane】
+<enT0445>"But is a human life really equal to a single puzzle piece?"
+<ptT0445>"But is a human life really equal to a single puzzle piece?"
+
+//TEXT 【Tomosane】
+<enT0446>"Are we really puzzle pieces?"
+<ptT0446>"Are we really puzzle pieces?"
+
+//TEXT 【Kimura】
+<enT0447>"..."
+<ptT0447>"..."
+
+//TEXT 【Tomosane】
+<enT0448>"A piece of a puzzle has a place where it fits because of its outside edge."
+<ptT0448>"A piece of a puzzle has a place where it fits because of its outside edge."
+
+//TEXT 【Kimura】
+<enT0449>"Because of its outside edge?"
+<ptT0449>"Because of its outside edge?"
+
+//TEXT 【Tomosane】
+<enT0450>"Yeah. It fits right into a place in the puzzle because of its exterior."
+<ptT0450>"Yeah. It fits right into a place in the puzzle because of its exterior."
+
+//TEXT 【Kimura】
+<enT0451>"Its exterior..."
+<ptT0451>"Its exterior..."
+
+//TEXT 【Tomosane】
+<enT0452>"Yes, its exterior."
+<ptT0452>"Yes, its exterior."
+
+//TEXT 【Tomosane】
+<enT0453>"Take that argument to its logical end. Where is the outside edge on my world, or the outside edge on your world?"
+<ptT0453>"Take that argument to its logical end. Where is the outside edge on my world, or the outside edge on your world?"
+
+//TEXT 【Kimura】
+<enT0454>"The outside edge of my world..."
+<ptT0454>"The outside edge of my world..."
+
+//TEXT 【Tomosane】
+<enT0455>"That's right. Where is the world which your world is supposed to fit into?"
+<ptT0455>"That's right. Where is the world which your world is supposed to fit into?"
+
+//TEXT 【Tomosane】
+<enT0456>"The place where my world fits perfectly like a piece of a jigsaw puzzle... Does such a larger world even exist?"
+<ptT0456>"The place where my world fits perfectly like a piece of a jigsaw puzzle... Does such a larger world even exist?"
+
+//TEXT 【Tomosane】
+<enT0457>"What I think is..."
+<ptT0457>"What I think is..."
+
+//TEXT 【Tomosane】
+<enT0458>"We have no exterior."
+<ptT0458>"We have no exterior."
+
+//TEXT 【Tomosane】
+<enT0459>"Our world has no exterior."
+<ptT0459>"Our world has no exterior."
+
+//TEXT 【Tomosane】
+<enT0460>"This world, including you, this river, the sun, and even the bloodshot sky overhead."
+<ptT0460>"This world, including you, this river, the sun, and even the bloodshot sky overhead."
+
+//TEXT 【Tomosane】
+<enT0461>"There is no exterior or anything."
+<ptT0461>"There is no exterior or anything."
+
+//TEXT 【Tomosane】
+<enT0462>"It's all just the world."
+<ptT0462>"It's all just the world."
+
+//TEXT 【Tomosane】
+<enT0463>"It's all just my world."
+<ptT0463>"It's all just my world."
+
+//TEXT 【Kimura】
+<enT0464>"Is that solipsism?"
+<ptT0464>"Is that solipsism?"
+
+//TEXT 【Kimura】
+<enT0465>"The world is only in your head. Your own existence is the world."
+<ptT0465>"The world is only in your head. Your own existence is the world."
+
+//TEXT 【Tomosane】
+<enT0466>"Who knows? I'm not sure, myself."
+<ptT0466>"Who knows? I'm not sure, myself."
+
+//TEXT 【Tomosane】
+<enT0467>"I don't really feel like I'm alone in the world."
+<ptT0467>"I don't really feel like I'm alone in the world."
+
+//TEXT 【Tomosane】
+<enT0468>"You're right in front of my eyes, so you definitely exist. I would even go so far as to say that Minakami Yuki and the Wakatsuki sisters existed as well, even if they didn't exist to you."
+<ptT0468>"You're right in front of my eyes, so you definitely exist. I would even go so far as to say that Minakami Yuki and the Wakatsuki sisters existed as well, even if they didn't exist to you."
+
+//TEXT 【Tomosane】
+<enT0469>"But still, even then, my world ends at the limit of my world."
+<ptT0469>"But still, even then, my world ends at the limit of my world."
+
+//TEXT 【Tomosane】
+<enT0470>"I don't know anything beyond the limit of my own world. I have no way of knowing anything else."
+<ptT0470>"I don't know anything beyond the limit of my own world. I have no way of knowing anything else."
+
+//TEXT 【Tomosane】
+<enT0471>"That's why I'm only me."
+<ptT0471>"That's why I'm only me."
+
+//TEXT 【Tomosane】
+<enT0472>"It's a bit strange for me to say this after sharing my body with multiple people. No, especially because of that, I can say that I'm no one except myself."
+<ptT0472>"It's a bit strange for me to say this after sharing my body with multiple people. No, especially because of that, I can say that I'm no one except myself."
+
+//TEXT 【Tomosane】
+<enT0473>"I'm not this arm, this leg, this heart, this body, or even this brain."
+<ptT0473>"I'm not this arm, this leg, this heart, this body, or even this brain."
+
+//TEXT 【Tomosane】
+<enT0474>"Of course, I'm not the road, the river, or the sky either."
+<ptT0474>"Of course, I'm not the road, the river, or the sky either."
+
+//TEXT 【Tomosane】
+<enT0475>"I'm me."
+<ptT0475>"I'm me."
+
+//TEXT 【Tomosane】
+<enT0476>"And my world is the world. There is no exterior to that world."
+<ptT0476>"And my world is the world. There is no exterior to that world."
+
+//TEXT 【Tomosane】
+<enT0477>"So I don't need a meaning."
+<ptT0477>"So I don't need a meaning."
+
+//TEXT 【Tomosane】
+<enT0478>"My world needs no addendum."
+<ptT0478>"My world needs no addendum."
+
+//TEXT 【Tomosane】
+<enT0479>"The world is not a piece of a jigsaw puzzle."
+<ptT0479>"The world is not a piece of a jigsaw puzzle."
+
+//TEXT 【Tomosane】
+<enT0480>"Just look at how wide our world is. It extends out into the infinite vastness of space and time."
+<ptT0480>"Just look at how wide our world is. It extends out into the infinite vastness of space and time."
+
+//TEXT 【Kimura】
+<enT0481>"Space and time?"
+<ptT0481>"Space and time?"
+
+//TEXT 【Tomosane】
+<enT0482>"How wide is our brain?"
+<ptT0482>"How wide is our brain?"
+
+//TEXT 【Tomosane】
+<enT0483>"The brain is wider than the sky."
+<ptT0483>"The brain is wider than the sky."
+
+//TEXT 【Tomosane】
+<enT0484>"For, put them side by side, the one the other will include..."
+<ptT0484>"For, put them side by side, the one the other will include..."
+
+//TEXT 【Tomosane】
+<enT0485>"With ease, and you beside."
+<ptT0485>"With ease, and you beside."
+
+//TEXT 【Tomosane】
+<enT0486>"The brain is deeper than the sea."
+<ptT0486>"The brain is deeper than the sea."
+
+//TEXT 【Tomosane】
+<enT0487>"For, hold them, blue to blue..."
+<ptT0487>"For, hold them, blue to blue..."
+
+//TEXT 【Tomosane】
+<enT0488>"The one the other will absorb..."
+<ptT0488>"The one the other will absorb..."
+
+//TEXT 【Tomosane】
+<enT0489>"As sponges, buckets do."
+<ptT0489>"As sponges, buckets do."
+
+//TEXT 【Tomosane】
+<enT0490>"The brain is just the weight of God."
+<ptT0490>"The brain is just the weight of God."
+
+//TEXT 【Tomosane】
+<enT0491>"For, lift them, pound for pound..."
+<ptT0491>"For, lift them, pound for pound..."
+
+//TEXT 【Tomosane】
+<enT0492>"And they will differ, if they do..."
+<ptT0492>"And they will differ, if they do..."
+
+//TEXT 【Tomosane】
+<enT0493>"As syllable from sound."
+<ptT0493>"As syllable from sound."
+
+//TEXT 【Tomosane】
+<enT0494>"You know?"
+<ptT0494>"You know?"
+
+//TEXT 【Kimura】
+<enT0495>"What was that?"
+<ptT0495>"What was that?"
+
+//TEXT 【Tomosane】
+<enT0496>"That was Emily Dickinson."
+<ptT0496>"That was Emily Dickinson."
+
+//TEXT 【Kimura】
+<enT0497>"Oh, Dickinson, the American poet. It's impressive that you know her at your age."
+<ptT0497>"Oh, Dickinson, the American poet. It's impressive that you know her at your age."
+
+//TEXT 【Tomosane】
+<enT0498>"There's no need to look for a meaning in life."
+<ptT0498>"There's no need to look for a meaning in life."
+
+//TEXT 【Tomosane】
+<enT0499>"There's no need to hesitate in the face of an incomprehensible existence."
+<ptT0499>"There's no need to hesitate in the face of an incomprehensible existence."
+
+//TEXT 【Tomosane】
+<enT0500>"There's no need to hesitate in the face of the incomprehensibility of this world, this universe, this sky, this river, or this road."
+<ptT0500>"There's no need to hesitate in the face of the incomprehensibility of this world, this universe, this sky, this river, or this road."
+
+//TEXT 【Tomosane】
+<enT0501>"It's all so vast that it can absorb everything which is a human life."
+<ptT0501>"It's all so vast that it can absorb everything which is a human life."
+
+//TEXT 【Tomosane】
+<enT0502>"It's just the size of God."
+<ptT0502>"It's just the size of God."
+
+//TEXT 【Tomosane】
+<enT0503>"It's just the weight of God."
+<ptT0503>"It's just the weight of God."
+
+//TEXT 【Tomosane】
+<enT0504>"It's a beautiful syllable and a beautiful sound."
+<ptT0504>"It's a beautiful syllable and a beautiful sound."
+
+//TEXT 【Kimura】
+<enT0505>"..."
+<ptT0505>"..."
+
+//TEXT
+<enT0506>Kimura laughed.
+<ptT0506>Kimura laughed.
+
+//TEXT
+<enT0507>His face kind of got on my nerves.
+<ptT0507>His face kind of got on my nerves.
+
+//TEXT 【Kimura】
+<enT0508>"Ooh, you're pretty good too. You really know how to talk."
+<ptT0508>"Ooh, you're pretty good too. You really know how to talk."
+
+//TEXT 【Tomosane】
+<enT0509>"Wha―"
+<ptT0509>"Wha―"
+
+//TEXT 【Kimura】
+<enT0510>"Hehehehe... What's wrong? You always act so tough, like no one could ever get under your skin."
+<ptT0510>"Hehehehe... What's wrong? You always act so tough, like no one could ever get under your skin."
+
+//TEXT 【Tomosane】
+<enT0511>"I-I'm not trying to act tough or anything..."
+<ptT0511>"I-I'm not trying to act tough or anything..."
+
+//TEXT 【Kimura】
+<enT0512>"Come on, it's nothing to get embarrassed about."
+<ptT0512>"Come on, it's nothing to get embarrassed about."
+
+//TEXT 【Tomosane】
+<enT0513>"Sh-Shut up!"
+<ptT0513>"Sh-Shut up!"
+
+//TEXT 【Kimura】
+<enT0514>"All right, but that was really funny."
+<ptT0514>"All right, but that was really funny."
+
+//TEXT 【Kimura】
+<enT0515>"We have no exterior..."
+<ptT0515>"We have no exterior..."
+
+//TEXT 【Kimura】
+<enT0516>"I see..."
+<ptT0516>"I see..."
+
+//TEXT 【Kimura】
+<enT0517>"It's true. Even if we had an exterior, it would just be another part of the world we know."
+<ptT0517>"It's true. Even if we had an exterior, it would just be another part of the world we know."
+
+//TEXT 【Kimura】
+<enT0518>"Maybe, at some point, we started looking for some kind of exterior. We started trying to see some kind of scene which we can never see."
+<ptT0518>"Maybe, at some point, we started looking for some kind of exterior. We started trying to see some kind of scene which we can never see."
+
+//TEXT 【Tomosane】
+<enT0519>"A scene that doesn't exist..."
+<ptT0519>"A scene that doesn't exist..."
+
+//TEXT 【Kimura】
+<enT0520>"That's right."
+<ptT0520>"That's right."
+
+//TEXT 【Kimura】
+<enT0521>"The far shore. A better place. An exterior world. The world of the gods. That's what it is, no matter what you call it."
+<ptT0521>"The far shore. A better place. An exterior world. The world of the gods. That's what it is, no matter what you call it."
+
+//TEXT 【Kimura】
+<enT0522>"So people fall into despair."
+<ptT0522>"So people fall into despair."
+
+//TEXT 【Kimura】
+<enT0523>"They despair of the meaning in their lives, the meaning in their worlds, the meaning in their selves."
+<ptT0523>"They despair of the meaning in their lives, the meaning in their worlds, the meaning in their selves."
+
+//TEXT 【Kimura】
+<enT0524>"Despair might be a word which describes people who are trying to see a scene which can never be seen."
+<ptT0524>"Despair might be a word which describes people who are trying to see a scene which can never be seen."
+
+//TEXT 【Tomosane】
+<enT0525>"Trying to see a scene which can never be seen..."
+<ptT0525>"Trying to see a scene which can never be seen..."
+
+//TEXT 【Kimura】
+<enT0526>"Of course! When we try to speak of a scene which can never be seen, our words trip on themselves, standing meaningless in space and explaining nothing."
+<ptT0526>"Of course! When we try to speak of a scene which can never be seen, our words trip on themselves, standing meaningless in space and explaining nothing."
+
+//TEXT 【Kimura】
+<enT0527>"If you think of it that way, looking at the scene which can never be seen and feeling the emotion of despair, it's like unrequited love."
+<ptT0527>"If you think of it that way, looking at the scene which can never be seen and feeling the emotion of despair, it's like unrequited love."
+
+//TEXT 【Tomosane】
+<enT0528>"Huh? Despair is unrequited love? What are you talking about?"
+<ptT0528>"Huh? Despair is unrequited love? What are you talking about?"
+
+//TEXT 【Kimura】
+<enT0529>"Why do people try to see the exterior which can never exist?"
+<ptT0529>"Why do people try to see the exterior which can never exist?"
+
+//TEXT 【Kimura】
+<enT0530>"Because they wish that it could exist!"
+<ptT0530>"Because they wish that it could exist!"
+
+//TEXT 【Kimura】
+<enT0531>"People look to the outside because they hope for it to exist. There might be no one out there, no one and nothing. They look to the outside because they're not even sure if that outside exists."
+<ptT0531>"People look to the outside because they hope for it to exist. There might be no one out there, no one and nothing. They look to the outside because they're not even sure if that outside exists."
+
+//TEXT 【Kimura】
+<enT0532>"Why is that?"
+<ptT0532>"Why is that?"
+
+//TEXT 【Tomosane】
+<enT0533>"Haa... Because of that longing?"
+<ptT0533>"Haa... Because of that longing?"
+
+//TEXT 【Kimura】
+<enT0534>"That's right. Despair is longing."
+<ptT0534>"That's right. Despair is longing."
+
+//TEXT 【Kimura】
+<enT0535>"And that longing is actually very similar to unrequited love."
+<ptT0535>"And that longing is actually very similar to unrequited love."
+
+//TEXT 【Tomosane】
+<enT0536>"Haa..."
+<ptT0536>"Haa..."
+
+//TEXT 【Tomosane】
+<enT0537>"I don't agree at all."
+<ptT0537>"I don't agree at all."
+
+//TEXT 【Kimura】
+<enT0538>"Really? I think you agree, more than you know."
+<ptT0538>"Really? I think you agree, more than you know."
+
+//TEXT 【Tomosane】
+<enT0539>"Despair is longing, and that longing is like an unrequited love..."
+<ptT0539>"Despair is longing, and that longing is like an unrequited love..."
+
+//TEXT 【Tomosane】
+<enT0540>"It's like hearing some desperate virgin who lashes out at people because of his insecurities."
+<ptT0540>"It's like hearing some desperate virgin who lashes out at people because of his insecurities."
+
+//TEXT 【Kimura】
+<enT0541>"Hm?"
+<ptT0541>"Hm?"
+
+//TEXT 【Tomosane】
+<enT0542>"Huh?"
+<ptT0542>"Huh?"
+
+//TEXT 【Kimura】
+<enT0543>"Hmmm?"
+<ptT0543>"Hmmm?"
+
+//TEXT 【Tomosane】
+<enT0544>"Wh-What?"
+<ptT0544>"Wh-What?"
+
+//TEXT 【Kimura】
+<enT0545>"Huuuh?"
+<ptT0545>"Huuuh?"
+
+//TEXT 【Tomosane】
+<enT0546>"Wh-What are you laughing at?"
+<ptT0546>"Wh-What are you laughing at?"
+
+//TEXT 【Kimura】
+<enT0547>"Yuuki-kun, weren't you a virgin?"
+<ptT0547>"Yuuki-kun, weren't you a virgin?"
+
+//TEXT 【Tomosane】
+<enT0548>"Wha―Th-That's not..."
+<ptT0548>"Wha―Th-That's not..."
+
+//TEXT 【Kimura】
+<enT0549>"Hehehehe... You know, I might look dim, but I've investigated your past very thoroughly."
+<ptT0549>"Hehehehe... You know, I might look dim, but I've investigated your past very thoroughly."
+
+//TEXT 【Kimura】
+<enT0550>"There were an awful lot of bad rumors about you, but in reality you don't have any experience with women."
+<ptT0550>"There were an awful lot of bad rumors about you, but in reality you don't have any experience with women."
+
+//TEXT 【Tomosane】
+<enT0551>"Wh-What have you been investigating?!"
+<ptT0551>"Wh-What have you been investigating?!"
+
+//TEXT 【Kimura】
+<enT0552>"Huh? That's my job, you know!"
+<ptT0552>"Huh? That's my job, you know!"
+
+//TEXT 【Tomosane】
+<enT0553>"Th-Then maybe I am a virgin..."
+<ptT0553>"Th-Then maybe I am a virgin..."
+
+//TEXT 【Kimura】
+<enT0554>"Hehehehe... You guys can't legally get married, either."
+<ptT0554>"Hehehehe... You guys can't legally get married, either."
+
+//TEXT 【Tomosane】
+<enT0555>"Wha―!"
+<ptT0555>"Wha―!"
+
+//TEXT 【Kimura】
+<enT0556>"There are ethical problems there, too."
+<ptT0556>"There are ethical problems there, too."
+
+//TEXT 【Tomosane】
+<enT0557>"K-Kimura! Have you been going behind my back?!"
+<ptT0557>"K-Kimura! Have you been going behind my back?!"
+
+//TEXT 【Kimura】
+<enT0558>"Hahahaha, but the law has nothing to do with real love. People will fall in love no matter what the punishment."
+<ptT0558>"Hahahaha, but the law has nothing to do with real love. People will fall in love no matter what the punishment."
+
+//TEXT 【Kimura】
+<enT0559>"Romeo and Juliet!"
+<ptT0559>"Romeo and Juliet!"
+
+//TEXT 【Tomosane】
+<enT0560>"No, that's not actually a story about incest..."
+<ptT0560>"No, that's not actually a story about incest..."
+
+//TEXT 【Kimura】
+<enT0561>"Oh? So it really is your sister?"
+<ptT0561>"Oh? So it really is your sister?"
+
+//TEXT 【Tomosane】
+<enT0562>"Huh?!"
+<ptT0562>"Huh?!"
+
+//TEXT 【Kimura】
+<enT0563>"Ooh, I better get going!"
+<ptT0563>"Ooh, I better get going!"
+
+//TEXT 【Tomosane】
+<enT0564>"Kimura, you asshole! Get back here!"
+<ptT0564>"Kimura, you asshole! Get back here!"
+
+//TEXT 【Kimura】
+<enT0565>"No thanks. I'd like to keep all my bones intact, if you don't mind."
+<ptT0565>"No thanks. I'd like to keep all my bones intact, if you don't mind."
+
+//TEXT 【Kimura】
+<enT0566>"Make sure you wear a rubber, kid. Not like I really care, though."
+<ptT0566>"Make sure you wear a rubber, kid. Not like I really care, though."
+
+//TEXT 【Tomosane】
+<enT0567>"Kimura!"
+<ptT0567>"Kimura!"
+
+//TEXT
+<enT0568>Kimura ran and jumped down off the embankment.
+<ptT0568>Kimura ran and jumped down off the embankment.
+
+//TEXT
+<enT0569>Then he disappeared into the city.
+<ptT0569>Then he disappeared into the city.
+
+//TEXT
+<enT0570>Dusk enveloped the city.
+<ptT0570>Dusk enveloped the city.
+
+//TEXT
+<enT0571>The sky slowly turned a darker shade of red, and the buildings' shadows grew longer by the moment.
+<ptT0571>The sky slowly turned a darker shade of red, and the buildings' shadows grew longer by the moment.
+
+//TEXT
+<enT0572>When the world sank into darkness, the lights came on in the city.
+<ptT0572>When the world sank into darkness, the lights came on in the city.
+
+//TEXT
+<enT0573>The lights of human activity buzzed into life.
+<ptT0573>The lights of human activity buzzed into life.
+
+//TEXT 【Tomosane】
+<enT0574>"Better get going. I have work tonight."
+<ptT0574>"Better get going. I have work tonight."
+
+//TEXT
+<enT0575>I had a shift to work tonight.
+<ptT0575>I had a shift to work tonight.
+
+//TEXT
+<enT0576>I play the piano at that same bar.
+<ptT0576>I play the piano at that same bar.
+
+//TEXT
+<enT0577>I play the piano however I feel like, and occasionally I even take requests from the customers. But mostly, I just play.
+<ptT0577>I play the piano however I feel like, and occasionally I even take requests from the customers. But mostly, I just play.
+
+///================================================================================
+
+//OTHER
+<enZ0001>7-2_Wonderful.bss
+<ptZ0001>7-2_Wonderful.bss
+
+//OTHER
+<enZ0002>Epilogue
+<ptZ0002>Epilogue
+
+//OTHER
+<enZ0003>Wonderful Everyday
+<ptZ0003>Wonderful Everyday
+
+//OTHER
+<enZ0004>white
+<ptZ0004>white
+
+//OTHER
+<enZ0005>map020
+<ptZ0005>map020
+
+//OTHER
+<enZ0006>sp0001j
+<ptZ0006>sp0001j
+
+//OTHER
+<enZ0007>map019
+<ptZ0007>map019
+
+//OTHER
+<enZ0008>sp0007b
+<ptZ0008>sp0007b
+
+//OTHER
+<enZ0009>map023
+<ptZ0009>map023
+
+//OTHER
+<enZ0010>se503
+<ptZ0010>se503
+
+//OTHER
+<enZ0011>sp0008a
+<ptZ0011>sp0008a
+
+//OTHER
+<enZ0012>bgm113
+<ptZ0012>bgm113
+
+//OTHER
+<enZ0013>ev8002a
+<ptZ0013>ev8002a
+
+//OTHER
+<enZ0014>koto_000034
+<ptZ0014>koto_000034
+
+//OTHER
+<enZ0015>tomo_100070
+<ptZ0015>tomo_100070
+
+//OTHER
+<enZ0016>tomo_100071
+<ptZ0016>tomo_100071
+
+//OTHER
+<enZ0017>koto_000035
+<ptZ0017>koto_000035
+
+//OTHER
+<enZ0018>tomo_100072
+<ptZ0018>tomo_100072
+
+//OTHER
+<enZ0019>koto_000036
+<ptZ0019>koto_000036
+
+//OTHER
+<enZ0020>tomo_100073
+<ptZ0020>tomo_100073
+
+//OTHER
+<enZ0021>koto_000037
+<ptZ0021>koto_000037
+
+//OTHER
+<enZ0022>tomo_100074
+<ptZ0022>tomo_100074
+
+//OTHER
+<enZ0023>hs0006a
+<ptZ0023>hs0006a
+
+//OTHER
+<enZ0024>bg1029
+<ptZ0024>bg1029
+
+//OTHER
+<enZ0025>hasa_001620
+<ptZ0025>hasa_001620
+
+//OTHER
+<enZ0026>tomo_100075
+<ptZ0026>tomo_100075
+
+//OTHER
+<enZ0027>hs0000a
+<ptZ0027>hs0000a
+
+//OTHER
+<enZ0028>hasa_001621
+<ptZ0028>hasa_001621
+
+//OTHER
+<enZ0029>tomo_100076
+<ptZ0029>tomo_100076
+
+//OTHER
+<enZ0030>hs0006
+<ptZ0030>hs0006
+
+//OTHER
+<enZ0031>hasa_001622
+<ptZ0031>hasa_001622
+
+//OTHER
+<enZ0032>tomo_100077
+<ptZ0032>tomo_100077
+
+//OTHER
+<enZ0033>hasa_001623
+<ptZ0033>hasa_001623
+
+//OTHER
+<enZ0034>tomo_100078
+<ptZ0034>tomo_100078
+
+//OTHER
+<enZ0035>hs0004a
+<ptZ0035>hs0004a
+
+//OTHER
+<enZ0036>hasa_001624
+<ptZ0036>hasa_001624
+
+//OTHER
+<enZ0037>tomo_100079
+<ptZ0037>tomo_100079
+
+//OTHER
+<enZ0038>hs0008a
+<ptZ0038>hs0008a
+
+//OTHER
+<enZ0039>hasa_001625
+<ptZ0039>hasa_001625
+
+//OTHER
+<enZ0040>tomo_100080
+<ptZ0040>tomo_100080
+
+//OTHER
+<enZ0041>hasa_001626
+<ptZ0041>hasa_001626
+
+//OTHER
+<enZ0042>tomo_100081
+<ptZ0042>tomo_100081
+
+//OTHER
+<enZ0043>hs0001
+<ptZ0043>hs0001
+
+//OTHER
+<enZ0044>hasa_001627
+<ptZ0044>hasa_001627
+
+//OTHER
+<enZ0045>tomo_100082
+<ptZ0045>tomo_100082
+
+//OTHER
+<enZ0046>hasa_001628
+<ptZ0046>hasa_001628
+
+//OTHER
+<enZ0047>tomo_100083
+<ptZ0047>tomo_100083
+
+//OTHER
+<enZ0048>hasa_001629
+<ptZ0048>hasa_001629
+
+//OTHER
+<enZ0049>tomo_100084
+<ptZ0049>tomo_100084
+
+//OTHER
+<enZ0050>tomo_100085
+<ptZ0050>tomo_100085
+
+//OTHER
+<enZ0051>hasa_001630
+<ptZ0051>hasa_001630
+
+//OTHER
+<enZ0052>tomo_100086
+<ptZ0052>tomo_100086
+
+//OTHER
+<enZ0053>hasa_001631
+<ptZ0053>hasa_001631
+
+//OTHER
+<enZ0054>tomo_100087
+<ptZ0054>tomo_100087
+
+//OTHER
+<enZ0055>hasa_001632
+<ptZ0055>hasa_001632
+
+//OTHER
+<enZ0056>tomo_100088
+<ptZ0056>tomo_100088
+
+//OTHER
+<enZ0057>hasa_001633
+<ptZ0057>hasa_001633
+
+//OTHER
+<enZ0058>tomo_100089
+<ptZ0058>tomo_100089
+
+//OTHER
+<enZ0059>hasa_001634
+<ptZ0059>hasa_001634
+
+//OTHER
+<enZ0060>hasa_001635
+<ptZ0060>hasa_001635
+
+//OTHER
+<enZ0061>hasa_001636
+<ptZ0061>hasa_001636
+
+//OTHER
+<enZ0062>tomo_100090
+<ptZ0062>tomo_100090
+
+//OTHER
+<enZ0063>hasa_001637
+<ptZ0063>hasa_001637
+
+//OTHER
+<enZ0064>hasa_001638
+<ptZ0064>hasa_001638
+
+//OTHER
+<enZ0065>hasa_001639
+<ptZ0065>hasa_001639
+
+//OTHER
+<enZ0066>tomo_100091
+<ptZ0066>tomo_100091
+
+//OTHER
+<enZ0067>hasa_001640
+<ptZ0067>hasa_001640
+
+//OTHER
+<enZ0068>hasa_001641
+<ptZ0068>hasa_001641
+
+//OTHER
+<enZ0069>tomo_100092
+<ptZ0069>tomo_100092
+
+//OTHER
+<enZ0070>hasa_001642
+<ptZ0070>hasa_001642
+
+//OTHER
+<enZ0071>hasa_001643
+<ptZ0071>hasa_001643
+
+//OTHER
+<enZ0072>hasa_001644
+<ptZ0072>hasa_001644
+
+//OTHER
+<enZ0073>tomo_100093
+<ptZ0073>tomo_100093
+
+//OTHER
+<enZ0074>hasa_001645
+<ptZ0074>hasa_001645
+
+//OTHER
+<enZ0075>hasa_001646
+<ptZ0075>hasa_001646
+
+//OTHER
+<enZ0076>tomo_100094
+<ptZ0076>tomo_100094
+
+//OTHER
+<enZ0077>hasa_001647
+<ptZ0077>hasa_001647
+
+//OTHER
+<enZ0078>tomo_100095
+<ptZ0078>tomo_100095
+
+//OTHER
+<enZ0079>hasa_001648
+<ptZ0079>hasa_001648
+
+//OTHER
+<enZ0080>hasa_001649
+<ptZ0080>hasa_001649
+
+//OTHER
+<enZ0081>tomo_100096
+<ptZ0081>tomo_100096
+
+//OTHER
+<enZ0082>hasa_001650
+<ptZ0082>hasa_001650
+
+//OTHER
+<enZ0083>hasa_001651
+<ptZ0083>hasa_001651
+
+//OTHER
+<enZ0084>hasa_001652
+<ptZ0084>hasa_001652
+
+//OTHER
+<enZ0085>hasa_001653
+<ptZ0085>hasa_001653
+
+//OTHER
+<enZ0086>hasa_001654
+<ptZ0086>hasa_001654
+
+//OTHER
+<enZ0087>hasa_001655
+<ptZ0087>hasa_001655
+
+//OTHER
+<enZ0088>hasa_001656
+<ptZ0088>hasa_001656
+
+//OTHER
+<enZ0089>tomo_100097
+<ptZ0089>tomo_100097
+
+//OTHER
+<enZ0090>hasa_001657
+<ptZ0090>hasa_001657
+
+//OTHER
+<enZ0091>hasa_001658
+<ptZ0091>hasa_001658
+
+//OTHER
+<enZ0092>tomo_100098
+<ptZ0092>tomo_100098
+
+//OTHER
+<enZ0093>hasa_001659
+<ptZ0093>hasa_001659
+
+//OTHER
+<enZ0094>tomo_100099
+<ptZ0094>tomo_100099
+
+//OTHER
+<enZ0095>hasa_001660
+<ptZ0095>hasa_001660
+
+//OTHER
+<enZ0096>hasa_001661
+<ptZ0096>hasa_001661
+
+//OTHER
+<enZ0097>hasa_001662
+<ptZ0097>hasa_001662
+
+//OTHER
+<enZ0098>hasa_001663
+<ptZ0098>hasa_001663
+
+//OTHER
+<enZ0099>hasa_001664
+<ptZ0099>hasa_001664
+
+//OTHER
+<enZ0100>hasa_001665
+<ptZ0100>hasa_001665
+
+//OTHER
+<enZ0101>hasa_001666
+<ptZ0101>hasa_001666
+
+//OTHER
+<enZ0102>hasa_001667
+<ptZ0102>hasa_001667
+
+//OTHER
+<enZ0103>hasa_001668
+<ptZ0103>hasa_001668
+
+//OTHER
+<enZ0104>tomo_100100
+<ptZ0104>tomo_100100
+
+//OTHER
+<enZ0105>hasa_001669
+<ptZ0105>hasa_001669
+
+//OTHER
+<enZ0106>hasa_001670
+<ptZ0106>hasa_001670
+
+//OTHER
+<enZ0107>hasa_001671
+<ptZ0107>hasa_001671
+
+//OTHER
+<enZ0108>hasa_001672
+<ptZ0108>hasa_001672
+
+//OTHER
+<enZ0109>hasa_001673
+<ptZ0109>hasa_001673
+
+//OTHER
+<enZ0110>hasa_001674
+<ptZ0110>hasa_001674
+
+//OTHER
+<enZ0111>tomo_100101
+<ptZ0111>tomo_100101
+
+//OTHER
+<enZ0112>tomo_100102
+<ptZ0112>tomo_100102
+
+//OTHER
+<enZ0113>hasa_001675
+<ptZ0113>hasa_001675
+
+//OTHER
+<enZ0114>tomo_100103
+<ptZ0114>tomo_100103
+
+//OTHER
+<enZ0115>hasa_001676
+<ptZ0115>hasa_001676
+
+//OTHER
+<enZ0116>tomo_100104
+<ptZ0116>tomo_100104
+
+//OTHER
+<enZ0117>tomo_100105
+<ptZ0117>tomo_100105
+
+//OTHER
+<enZ0118>tomo_100106
+<ptZ0118>tomo_100106
+
+//OTHER
+<enZ0119>tomo_100107
+<ptZ0119>tomo_100107
+
+//OTHER
+<enZ0120>hasa_001677
+<ptZ0120>hasa_001677
+
+//OTHER
+<enZ0121>tomo_100108
+<ptZ0121>tomo_100108
+
+//OTHER
+<enZ0122>hs0051
+<ptZ0122>hs0051
+
+//OTHER
+<enZ0123>hasa_001678
+<ptZ0123>hasa_001678
+
+//OTHER
+<enZ0124>tomo_100109
+<ptZ0124>tomo_100109
+
+//OTHER
+<enZ0125>hasa_001679
+<ptZ0125>hasa_001679
+
+//OTHER
+<enZ0126>tomo_100110
+<ptZ0126>tomo_100110
+
+//OTHER
+<enZ0127>hs0012
+<ptZ0127>hs0012
+
+//OTHER
+<enZ0128>hasa_001680
+<ptZ0128>hasa_001680
+
+//OTHER
+<enZ0129>tomo_100111
+<ptZ0129>tomo_100111
+
+//OTHER
+<enZ0130>tomo_100112
+<ptZ0130>tomo_100112
+
+//OTHER
+<enZ0131>hs0008
+<ptZ0131>hs0008
+
+//OTHER
+<enZ0132>hasa_001681
+<ptZ0132>hasa_001681
+
+//OTHER
+<enZ0133>tomo_100113
+<ptZ0133>tomo_100113
+
+//OTHER
+<enZ0134>hasa_001682
+<ptZ0134>hasa_001682
+
+//OTHER
+<enZ0135>tomo_100114
+<ptZ0135>tomo_100114
+
+//OTHER
+<enZ0136>tomo_100115
+<ptZ0136>tomo_100115
+
+//OTHER
+<enZ0137>hasa_001683
+<ptZ0137>hasa_001683
+
+//OTHER
+<enZ0138>tomo_100116
+<ptZ0138>tomo_100116
+
+//OTHER
+<enZ0139>hasa_001684
+<ptZ0139>hasa_001684
+
+//OTHER
+<enZ0140>tomo_100117
+<ptZ0140>tomo_100117
+
+//OTHER
+<enZ0141>tomo_100118
+<ptZ0141>tomo_100118
+
+//OTHER
+<enZ0142>tomo_100119
+<ptZ0142>tomo_100119
+
+//OTHER
+<enZ0143>hs0109a_l
+<ptZ0143>hs0109a_l
+
+//OTHER
+<enZ0144>hasa_001685
+<ptZ0144>hasa_001685
+
+//OTHER
+<enZ0145>tomo_100120
+<ptZ0145>tomo_100120
+
+//OTHER
+<enZ0146>hs0103_l
+<ptZ0146>hs0103_l
+
+//OTHER
+<enZ0147>tomo_100121
+<ptZ0147>tomo_100121
+
+//OTHER
+<enZ0148>koto_000038
+<ptZ0148>koto_000038
+
+//OTHER
+<enZ0149>tomo_100122
+<ptZ0149>tomo_100122
+
+//OTHER
+<enZ0150>tomo_100123
+<ptZ0150>tomo_100123
+
+//OTHER
+<enZ0151>tomo_100124
+<ptZ0151>tomo_100124
+
+//OTHER
+<enZ0152>tomo_100125
+<ptZ0152>tomo_100125
+
+//OTHER
+<enZ0153>ev8002b
+<ptZ0153>ev8002b
+
+//OTHER
+<enZ0154>hs0001a
+<ptZ0154>hs0001a
+
+//OTHER
+<enZ0155>bg1028
+<ptZ0155>bg1028
+
+//OTHER
+<enZ0156>bgm014
+<ptZ0156>bgm014
+
+//OTHER
+<enZ0157>hasa_001686
+<ptZ0157>hasa_001686
+
+//OTHER
+<enZ0158>tomo_100126
+<ptZ0158>tomo_100126
+
+//OTHER
+<enZ0159>hasa_001687
+<ptZ0159>hasa_001687
+
+//OTHER
+<enZ0160>tomo_100127
+<ptZ0160>tomo_100127
+
+//OTHER
+<enZ0161>hasa_001688
+<ptZ0161>hasa_001688
+
+//OTHER
+<enZ0162>hs0051_l
+<ptZ0162>hs0051_l
+
+//OTHER
+<enZ0163>tomo_100128
+<ptZ0163>tomo_100128
+
+//OTHER
+<enZ0164>tomo_100129
+<ptZ0164>tomo_100129
+
+//OTHER
+<enZ0165>bg1034
+<ptZ0165>bg1034
+
+//OTHER
+<enZ0166>kmr0000a
+<ptZ0166>kmr0000a
+
+//OTHER
+<enZ0167>tomo_100130
+<ptZ0167>tomo_100130
+
+//OTHER
+<enZ0168>tomo_100131
+<ptZ0168>tomo_100131
+
+//OTHER
+<enZ0169>kmr0009a
+<ptZ0169>kmr0009a
+
+//OTHER
+<enZ0170>tomo_100132
+<ptZ0170>tomo_100132
+
+//OTHER
+<enZ0171>kmr0033a
+<ptZ0171>kmr0033a
+
+//OTHER
+<enZ0172>tomo_100133
+<ptZ0172>tomo_100133
+
+//OTHER
+<enZ0173>kmr0003a
+<ptZ0173>kmr0003a
+
+//OTHER
+<enZ0174>tomo_100134
+<ptZ0174>tomo_100134
+
+//OTHER
+<enZ0175>kmr0030a
+<ptZ0175>kmr0030a
+
+//OTHER
+<enZ0176>tomo_100135
+<ptZ0176>tomo_100135
+
+//OTHER
+<enZ0177>kmr0031a
+<ptZ0177>kmr0031a
+
+//OTHER
+<enZ0178>tomo_100136
+<ptZ0178>tomo_100136
+
+//OTHER
+<enZ0179>tomo_100137
+<ptZ0179>tomo_100137
+
+//OTHER
+<enZ0180>tomo_100138
+<ptZ0180>tomo_100138
+
+//OTHER
+<enZ0181>tomo_100139
+<ptZ0181>tomo_100139
+
+//OTHER
+<enZ0182>tomo_100140
+<ptZ0182>tomo_100140
+
+//OTHER
+<enZ0183>tomo_100141
+<ptZ0183>tomo_100141
+
+//OTHER
+<enZ0184>tomo_100142
+<ptZ0184>tomo_100142
+
+//OTHER
+<enZ0185>tomo_100143
+<ptZ0185>tomo_100143
+
+//OTHER
+<enZ0186>kmr0002a
+<ptZ0186>kmr0002a
+
+//OTHER
+<enZ0187>tomo_100144
+<ptZ0187>tomo_100144
+
+//OTHER
+<enZ0188>tomo_100145
+<ptZ0188>tomo_100145
+
+//OTHER
+<enZ0189>tomo_100146
+<ptZ0189>tomo_100146
+
+//OTHER
+<enZ0190>tomo_100147
+<ptZ0190>tomo_100147
+
+//OTHER
+<enZ0191>tomo_100148
+<ptZ0191>tomo_100148
+
+//OTHER
+<enZ0192>tomo_100149
+<ptZ0192>tomo_100149
+
+//OTHER
+<enZ0193>tomo_100150
+<ptZ0193>tomo_100150
+
+//OTHER
+<enZ0194>tomo_100151
+<ptZ0194>tomo_100151
+
+//OTHER
+<enZ0195>tomo_100152
+<ptZ0195>tomo_100152
+
+//OTHER
+<enZ0196>tomo_100153
+<ptZ0196>tomo_100153
+
+//OTHER
+<enZ0197>tomo_100154
+<ptZ0197>tomo_100154
+
+//OTHER
+<enZ0198>tomo_100155
+<ptZ0198>tomo_100155
+
+//OTHER
+<enZ0199>tomo_100156
+<ptZ0199>tomo_100156
+
+//OTHER
+<enZ0200>bg1034b
+<ptZ0200>bg1034b
+
+//OTHER
+<enZ0201>tomo_100157
+<ptZ0201>tomo_100157
+
+//OTHER
+<enZ0202>tomo_100158
+<ptZ0202>tomo_100158
+
+//OTHER
+<enZ0203>tomo_100159
+<ptZ0203>tomo_100159
+
+//OTHER
+<enZ0204>tomo_100160
+<ptZ0204>tomo_100160
+
+//OTHER
+<enZ0205>tomo_100161
+<ptZ0205>tomo_100161
+
+//OTHER
+<enZ0206>tomo_100162
+<ptZ0206>tomo_100162
+
+//OTHER
+<enZ0207>tomo_100163
+<ptZ0207>tomo_100163
+
+//OTHER
+<enZ0208>tomo_100164
+<ptZ0208>tomo_100164
+
+//OTHER
+<enZ0209>tomo_100165
+<ptZ0209>tomo_100165
+
+//OTHER
+<enZ0210>tomo_100166_a
+<ptZ0210>tomo_100166_a
+
+//OTHER
+<enZ0211>tomo_100167
+<ptZ0211>tomo_100167
+
+//OTHER
+<enZ0212>tomo_100168
+<ptZ0212>tomo_100168
+
+//OTHER
+<enZ0213>tomo_100169
+<ptZ0213>tomo_100169
+
+//OTHER
+<enZ0214>tomo_100170
+<ptZ0214>tomo_100170
+
+//OTHER
+<enZ0215>tomo_100171
+<ptZ0215>tomo_100171
+
+//OTHER
+<enZ0216>tomo_100172
+<ptZ0216>tomo_100172
+
+//OTHER
+<enZ0217>tomo_100173
+<ptZ0217>tomo_100173
+
+//OTHER
+<enZ0218>tomo_100174
+<ptZ0218>tomo_100174
+
+//OTHER
+<enZ0219>tomo_100175
+<ptZ0219>tomo_100175
+
+//OTHER
+<enZ0220>tomo_100176
+<ptZ0220>tomo_100176
+
+//OTHER
+<enZ0221>tomo_100177
+<ptZ0221>tomo_100177
+
+//OTHER
+<enZ0222>tomo_100178
+<ptZ0222>tomo_100178
+
+//OTHER
+<enZ0223>tomo_100179
+<ptZ0223>tomo_100179
+
+//OTHER
+<enZ0224>tomo_100180
+<ptZ0224>tomo_100180
+
+//OTHER
+<enZ0225>tomo_100181
+<ptZ0225>tomo_100181
+
+//OTHER
+<enZ0226>tomo_100182
+<ptZ0226>tomo_100182
+
+//OTHER
+<enZ0227>tomo_100183
+<ptZ0227>tomo_100183
+
+//OTHER
+<enZ0228>tomo_100184
+<ptZ0228>tomo_100184
+
+//OTHER
+<enZ0229>tomo_100185
+<ptZ0229>tomo_100185
+
+//OTHER
+<enZ0230>tomo_100186
+<ptZ0230>tomo_100186
+
+//OTHER
+<enZ0231>tomo_100187
+<ptZ0231>tomo_100187
+
+//OTHER
+<enZ0232>tomo_100188
+<ptZ0232>tomo_100188
+
+//OTHER
+<enZ0233>tomo_100189
+<ptZ0233>tomo_100189
+
+//OTHER
+<enZ0234>ev7010
+<ptZ0234>ev7010
+
+//OTHER
+<enZ0235>tomo_100190
+<ptZ0235>tomo_100190
+
+//OTHER
+<enZ0236>tomo_100191
+<ptZ0236>tomo_100191
+
+//OTHER
+<enZ0237>tomo_100192
+<ptZ0237>tomo_100192
+
+//OTHER
+<enZ0238>tomo_100193
+<ptZ0238>tomo_100193
+
+//OTHER
+<enZ0239>tomo_100194
+<ptZ0239>tomo_100194
+
+//OTHER
+<enZ0240>tomo_100195
+<ptZ0240>tomo_100195
+
+//OTHER
+<enZ0241>tomo_100196
+<ptZ0241>tomo_100196
+
+//OTHER
+<enZ0242>tomo_100197
+<ptZ0242>tomo_100197
+
+//OTHER
+<enZ0243>tomo_100198
+<ptZ0243>tomo_100198
+
+//OTHER
+<enZ0244>tomo_100199
+<ptZ0244>tomo_100199
+
+//OTHER
+<enZ0245>tomo_100200
+<ptZ0245>tomo_100200
+
+//OTHER
+<enZ0246>tomo_100201
+<ptZ0246>tomo_100201
+
+//OTHER
+<enZ0247>tomo_100202
+<ptZ0247>tomo_100202
+
+//OTHER
+<enZ0248>tomo_100203
+<ptZ0248>tomo_100203
+
+//OTHER
+<enZ0249>tomo_100204
+<ptZ0249>tomo_100204
+
+//OTHER
+<enZ0250>tomo_100205
+<ptZ0250>tomo_100205
+
+//OTHER
+<enZ0251>tomo_100206
+<ptZ0251>tomo_100206
+
+//OTHER
+<enZ0252>tomo_100207
+<ptZ0252>tomo_100207
+
+//OTHER
+<enZ0253>tomo_100208
+<ptZ0253>tomo_100208
+
+//OTHER
+<enZ0254>tomo_100209
+<ptZ0254>tomo_100209
+
+//OTHER
+<enZ0255>tomo_100210
+<ptZ0255>tomo_100210
+
+//OTHER
+<enZ0256>tomo_100211
+<ptZ0256>tomo_100211
+
+//OTHER
+<enZ0257>tomo_100212
+<ptZ0257>tomo_100212
+
+//OTHER
+<enZ0258>tomo_100213
+<ptZ0258>tomo_100213
+
+//OTHER
+<enZ0259>tomo_100214
+<ptZ0259>tomo_100214
+
+//OTHER
+<enZ0260>tomo_100215
+<ptZ0260>tomo_100215
+
+//OTHER
+<enZ0261>tomo_100216
+<ptZ0261>tomo_100216
+
+//OTHER
+<enZ0262>tomo_100217
+<ptZ0262>tomo_100217
+
+//OTHER
+<enZ0263>tomo_100218
+<ptZ0263>tomo_100218
+
+//OTHER
+<enZ0264>tomo_100219
+<ptZ0264>tomo_100219
+
+//OTHER
+<enZ0265>tomo_100220
+<ptZ0265>tomo_100220
+
+//OTHER
+<enZ0266>tomo_100221
+<ptZ0266>tomo_100221
+
+//OTHER
+<enZ0267>tomo_100222
+<ptZ0267>tomo_100222
+
+//OTHER
+<enZ0268>tomo_100223
+<ptZ0268>tomo_100223
+
+//OTHER
+<enZ0269>tomo_100224
+<ptZ0269>tomo_100224
+
+//OTHER
+<enZ0270>tomo_100225
+<ptZ0270>tomo_100225
+
+//OTHER
+<enZ0271>tomo_100226
+<ptZ0271>tomo_100226
+
+//OTHER
+<enZ0272>tomo_100227
+<ptZ0272>tomo_100227
+
+//OTHER
+<enZ0273>tomo_100227a
+<ptZ0273>tomo_100227a
+
+//OTHER
+<enZ0274>tomo_100228
+<ptZ0274>tomo_100228
+
+//OTHER
+<enZ0275>tomo_100229
+<ptZ0275>tomo_100229
+
+//OTHER
+<enZ0276>tomo_100230
+<ptZ0276>tomo_100230
+
+//OTHER
+<enZ0277>tomo_100231
+<ptZ0277>tomo_100231
+
+//OTHER
+<enZ0278>tomo_100232
+<ptZ0278>tomo_100232
+
+//OTHER
+<enZ0279>tomo_100233
+<ptZ0279>tomo_100233
+
+//OTHER
+<enZ0280>tomo_100234
+<ptZ0280>tomo_100234
+
+//OTHER
+<enZ0281>tomo_100235
+<ptZ0281>tomo_100235
+
+//OTHER
+<enZ0282>tomo_100236
+<ptZ0282>tomo_100236
+
+//OTHER
+<enZ0283>tomo_100237
+<ptZ0283>tomo_100237
+
+//OTHER
+<enZ0284>tomo_100238
+<ptZ0284>tomo_100238
+
+//OTHER
+<enZ0285>tomo_100239
+<ptZ0285>tomo_100239
+
+//OTHER
+<enZ0286>tomo_100240
+<ptZ0286>tomo_100240
+
+//OTHER
+<enZ0287>tomo_100241
+<ptZ0287>tomo_100241
+
+//OTHER
+<enZ0288>tomo_100242
+<ptZ0288>tomo_100242
+
+//OTHER
+<enZ0289>tomo_100243
+<ptZ0289>tomo_100243
+
+//OTHER
+<enZ0290>tomo_100244
+<ptZ0290>tomo_100244
+
+//OTHER
+<enZ0291>tomo_100245
+<ptZ0291>tomo_100245
+
+//OTHER
+<enZ0292>tomo_100246
+<ptZ0292>tomo_100246
+
+//OTHER
+<enZ0293>tomo_100247
+<ptZ0293>tomo_100247
+
+//OTHER
+<enZ0294>tomo_100248
+<ptZ0294>tomo_100248
+
+//OTHER
+<enZ0295>tomo_100249
+<ptZ0295>tomo_100249
+
+//OTHER
+<enZ0296>tomo_100250
+<ptZ0296>tomo_100250
+
+//OTHER
+<enZ0297>tomo_100251
+<ptZ0297>tomo_100251
+
+//OTHER
+<enZ0298>tomo_100252
+<ptZ0298>tomo_100252
+
+//OTHER
+<enZ0299>tomo_100253
+<ptZ0299>tomo_100253
+
+//OTHER
+<enZ0300>tomo_100254
+<ptZ0300>tomo_100254
+
+//OTHER
+<enZ0301>tomo_100255
+<ptZ0301>tomo_100255
+
+//OTHER
+<enZ0302>tomo_100256
+<ptZ0302>tomo_100256
+
+//OTHER
+<enZ0303>tomo_100257
+<ptZ0303>tomo_100257
+
+//OTHER
+<enZ0304>tomo_100258
+<ptZ0304>tomo_100258
+
+//OTHER
+<enZ0305>tomo_100259
+<ptZ0305>tomo_100259
+
+//OTHER
+<enZ0306>tomo_100260
+<ptZ0306>tomo_100260
+
+//OTHER
+<enZ0307>tomo_100261
+<ptZ0307>tomo_100261
+
+//OTHER
+<enZ0308>tomo_100262
+<ptZ0308>tomo_100262
+
+//OTHER
+<enZ0309>tomo_100263
+<ptZ0309>tomo_100263
+
+//OTHER
+<enZ0310>tomo_100264
+<ptZ0310>tomo_100264
+
+//OTHER
+<enZ0311>tomo_100265
+<ptZ0311>tomo_100265
+
+//OTHER
+<enZ0312>tomo_100266
+<ptZ0312>tomo_100266
+
+//OTHER
+<enZ0313>tomo_100267
+<ptZ0313>tomo_100267
+
+//OTHER
+<enZ0314>tomo_100268
+<ptZ0314>tomo_100268
+
+//OTHER
+<enZ0315>tomo_100269
+<ptZ0315>tomo_100269
+
+//OTHER
+<enZ0316>sp0008h
+<ptZ0316>sp0008h
+
+//OTHER
+<enZ0317>sp0008j
+<ptZ0317>sp0008j
+
+//OTHER
+<enZ0318>tomo_100270
+<ptZ0318>tomo_100270
+
+//OTHER
+<enZ0319>se272
+<ptZ0319>se272
+
+//OTHER
+<enZ0320>map025
+<ptZ0320>map025
+
+//OTHER
+<enZ0321>bg1030a
+<ptZ0321>bg1030a
+
+//OTHER
+<enZ0322>se373
+<ptZ0322>se373
+
+//OTHER
+<enZ0323>black
+<ptZ0323>black
+
+//OTHER
+<enZ0324>end7suba
+<ptZ0324>end7suba
+
+//OTHER
+<enZ0325>data02996.arc
+<ptZ0325>data02996.arc
+

@@ -1,0 +1,396 @@
+//NAME
+<enN0001>Master
+<ptN0001>Master
+
+//NAME
+<enN0002>Hasaki
+<ptN0002>Hasaki
+
+///================================================================================
+
+//TEXT BACKLOG
+<enT0001>6.373
+<ptT0001>6.373
+
+//TEXT BACKLOG
+<enT0002>The world is independent of my will.
+<ptT0002>The world is independent of my will.
+
+//TEXT BACKLOG
+<enT0003>
+<ptT0003>
+
+//TEXT BACKLOG
+<enT0004>6.374
+<ptT0004>6.374
+
+//TEXT BACKLOG
+<enT0005>Even if everything we wished were to happen,
+<ptT0005>Even if everything we wished were to happen,
+
+//TEXT BACKLOG
+<enT0006>this would only be, so to speak, a favour of fate, 
+<ptT0006>this would only be, so to speak, a favour of fate, 
+
+//TEXT BACKLOG
+<enT0007>
+<ptT0007>
+
+//TEXT BACKLOG
+<enT0008>for there is no logical connexion between will and world, 
+<ptT0008>for there is no logical connexion between will and world, 
+
+//TEXT BACKLOG
+<enT0009>which would guarantee this, and the assumed physical connexion itself we could not again will.
+<ptT0009>which would guarantee this, and the assumed physical connexion itself we could not again will.
+
+//TEXT BACKLOG
+<enT0010>
+<ptT0010>
+
+//TEXT BACKLOG
+<enT0011>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+<ptT0011>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+
+//TEXT BACKLOG
+<enT0012>
+<ptT0012>
+
+//TEXT
+<enT0013>I wonder how long it's been since my twin brother died.
+<ptT0013>I wonder how long it's been since my twin brother died.
+
+//TEXT
+<enT0014>Time has stopped for me since that day.
+<ptT0014>Time has stopped for me since that day.
+
+//TEXT
+<enT0015>That's why I still carry around that doll.
+<ptT0015>That's why I still carry around that doll.
+
+//TEXT
+<enT0016>If only I was a shadow, and that doll was the real me...
+<ptT0016>If only I was a shadow, and that doll was the real me...
+
+//TEXT
+<enT0017>I thought that would be nice.
+<ptT0017>I thought that would be nice.
+
+//TEXT
+<enT0018>If only I could disappear...
+<ptT0018>If only I could disappear...
+
+//TEXT
+<enT0019>Those two saved me.
+<ptT0019>Those two saved me.
+
+//TEXT
+<enT0020>One of them was Yuki-san.
+<ptT0020>One of them was Yuki-san.
+
+//TEXT
+<enT0021>She came back to me.
+<ptT0021>She came back to me.
+
+//TEXT
+<enT0022>She brought Tomo Nii-san with her, and they came back to me.
+<ptT0022>She brought Tomo Nii-san with her, and they came back to me.
+
+//TEXT
+<enT0023>Minkami Yuki-san... A kind old sister.
+<ptT0023>Minkami Yuki-san... A kind old sister.
+
+//TEXT
+<enT0024>Tomo Nii-san loved her.
+<ptT0024>Tomo Nii-san loved her.
+
+//TEXT 【Master】
+<enT0025>"Huh? You're here awfully early."
+<ptT0025>"Huh? You're here awfully early."
+
+//TEXT 【Hasaki】
+<enT0026>"Oh, good morning."
+<ptT0026>"Oh, good morning."
+
+//TEXT 【Master】
+<enT0027>"How was he today?"
+<ptT0027>"How was he today?"
+
+//TEXT 【Hasaki】
+<enT0028>"It was Tomo Nii-san this morning."
+<ptT0028>"It was Tomo Nii-san this morning."
+
+//TEXT 【Master】
+<enT0029>"Oh, so it was Tomosane this time."
+<ptT0029>"Oh, so it was Tomosane this time."
+
+//TEXT 【Hasaki】
+<enT0030>"Yes, and he was as cold as ever."
+<ptT0030>"Yes, and he was as cold as ever."
+
+//TEXT 【Master】
+<enT0031>"I figured as much. He's always been like that, though."
+<ptT0031>"I figured as much. He's always been like that, though."
+
+//TEXT 【Hasaki】
+<enT0032>"Yes, he's always like that."
+<ptT0032>"Yes, he's always like that."
+
+//TEXT 【Master】
+<enT0033>"Haa... I wonder if he'll ever get better."
+<ptT0033>"Haa... I wonder if he'll ever get better."
+
+//TEXT 【Hasaki】
+<enT0034>"Ahaha... If he went to the hospital..."
+<ptT0034>"Ahaha... If he went to the hospital..."
+
+//TEXT 【Master】
+<enT0035>"It's not a sickness that he has."
+<ptT0035>"It's not a sickness that he has."
+
+//TEXT 【Master】
+<enT0036>"That's why Yuki came. She came to save Tomosane."
+<ptT0036>"That's why Yuki came. She came to save Tomosane."
+
+//TEXT 【Hasaki】
+<enT0037>"Master..."
+<ptT0037>"Master..."
+
+//TEXT 【Master】
+<enT0038>"A curse... That's a curse..."
+<ptT0038>"A curse... That's a curse..."
+
+//TEXT 【Master】
+<enT0039>"There's no way that's just PTSD or anything like that."
+<ptT0039>"There's no way that's just PTSD or anything like that."
+
+//TEXT 【Master】
+<enT0040>"He was the best student I had."
+<ptT0040>"He was the best student I had."
+
+//TEXT 【Master】
+<enT0041>"He had a strong heart. He wouldn't leave you behind just because of something like that. He wouldn't just run away."
+<ptT0041>"He had a strong heart. He wouldn't leave you behind just because of something like that. He wouldn't just run away."
+
+//TEXT 【Hasaki】
+<enT0042>"A curse... is it?"
+<ptT0042>"A curse... is it?"
+
+//TEXT 【Master】
+<enT0043>"That's why Yuki came to him."
+<ptT0043>"That's why Yuki came to him."
+
+//TEXT 【Master】
+<enT0044>"Because she can fight alongside him."
+<ptT0044>"Because she can fight alongside him."
+
+//TEXT 【Hasaki】
+<enT0045>"Against the curse?"
+<ptT0045>"Against the curse?"
+
+//TEXT 【Master】
+<enT0046>"That's the curse of the shrine maiden in the town of the walking dead. The curse of the savior. The two of them should be able to beat it together, though."
+<ptT0046>"That's the curse of the shrine maiden in the town of the walking dead. The curse of the savior. The two of them should be able to beat it together, though."
+
+//TEXT 【Hasaki】
+<enT0047>"Okay."
+<ptT0047>"Okay."
+
+//TEXT
+<enT0048>A curse.
+<ptT0048>A curse.
+
+//TEXT
+<enT0049>The curse of the town of the walking dead.
+<ptT0049>The curse of the town of the walking dead.
+
+//TEXT
+<enT0050>The people in Sawaimura, especially the people of the Mamiya dojo, believe in that.
+<ptT0050>The people in Sawaimura, especially the people of the Mamiya dojo, believe in that.
+
+//TEXT
+<enT0051>The doctors call it Post Traumatic Stress Disorder.
+<ptT0051>The doctors call it Post Traumatic Stress Disorder.
+
+//TEXT
+<enT0052>They say it's trauma caused by that incident.
+<ptT0052>They say it's trauma caused by that incident.
+
+//TEXT
+<enT0053>That's the reason Nii-san went mad.
+<ptT0053>That's the reason Nii-san went mad.
+
+//TEXT
+<enT0054>Whether it's the curse of a dead boy...
+<ptT0054>Whether it's the curse of a dead boy...
+
+//TEXT
+<enT0055>Or PTSD...
+<ptT0055>Or PTSD...
+
+//TEXT
+<enT0056>I don't know what the truth is.
+<ptT0056>I don't know what the truth is.
+
+//TEXT
+<enT0057>But I have one hope.
+<ptT0057>But I have one hope.
+
+//TEXT 【Hasaki】
+<enT0058>"Tomo Nii-san will come back, right?"
+<ptT0058>"Tomo Nii-san will come back, right?"
+
+//TEXT 【Master】
+<enT0059>"Of course. If he doesn't, I'll have to give God a good punch right in the nose when I meet him."
+<ptT0059>"Of course. If he doesn't, I'll have to give God a good punch right in the nose when I meet him."
+
+//TEXT 【Hasaki】
+<enT0060>"Ahahaha. Okay."
+<ptT0060>"Ahahaha. Okay."
+
+//TEXT
+<enT0061>God...
+<ptT0061>God...
+
+//TEXT
+<enT0062>God, who created the world in six days.
+<ptT0062>God, who created the world in six days.
+
+//TEXT
+<enT0063>And rested on the seventh day.
+<ptT0063>And rested on the seventh day.
+
+//TEXT
+<enT0064>Why didn't he use that day to rid the world of all pain and suffering?
+<ptT0064>Why didn't he use that day to rid the world of all pain and suffering?
+
+//TEXT
+<enT0065>Why did he give my brother such a cruel fate?
+<ptT0065>Why did he give my brother such a cruel fate?
+
+///================================================================================
+
+//OTHER
+<enZ0001>5_0000.bss
+<ptZ0001>5_0000.bss
+
+//OTHER
+<enZ0002>
+<ptZ0002>
+
+//OTHER
+<enZ0003>Which Dreamed It
+<ptZ0003>Which Dreamed It
+
+//OTHER
+<enZ0004>map023
+<ptZ0004>map023
+
+//OTHER
+<enZ0005>sp0085a
+<ptZ0005>sp0085a
+
+//OTHER
+<enZ0006>map005
+<ptZ0006>map005
+
+//OTHER
+<enZ0007>sp0085b
+<ptZ0007>sp0085b
+
+//OTHER
+<enZ0008>sp0085c
+<ptZ0008>sp0085c
+
+//OTHER
+<enZ0009>bgm114
+<ptZ0009>bgm114
+
+//OTHER
+<enZ0010>se272
+<ptZ0010>se272
+
+//OTHER
+<enZ0011>ms0000
+<ptZ0011>ms0000
+
+//OTHER
+<enZ0012>bg1030a
+<ptZ0012>bg1030a
+
+//OTHER
+<enZ0013>hasa_000734
+<ptZ0013>hasa_000734
+
+//OTHER
+<enZ0014>hasa_000735
+<ptZ0014>hasa_000735
+
+//OTHER
+<enZ0015>ms0006
+<ptZ0015>ms0006
+
+//OTHER
+<enZ0016>hasa_000736
+<ptZ0016>hasa_000736
+
+//OTHER
+<enZ0017>ms0010
+<ptZ0017>ms0010
+
+//OTHER
+<enZ0018>hasa_000737
+<ptZ0018>hasa_000737
+
+//OTHER
+<enZ0019>hasa_000738
+<ptZ0019>hasa_000738
+
+//OTHER
+<enZ0020>ms0033
+<ptZ0020>ms0033
+
+//OTHER
+<enZ0021>hasa_000739
+<ptZ0021>hasa_000739
+
+//OTHER
+<enZ0022>hasa_000740
+<ptZ0022>hasa_000740
+
+//OTHER
+<enZ0023>hasa_000741
+<ptZ0023>hasa_000741
+
+//OTHER
+<enZ0024>hasa_000742
+<ptZ0024>hasa_000742
+
+//OTHER
+<enZ0025>hasa_000743
+<ptZ0025>hasa_000743
+
+//OTHER
+<enZ0026>ms0001
+<ptZ0026>ms0001
+
+//OTHER
+<enZ0027>hasa_000744
+<ptZ0027>hasa_000744
+
+//OTHER
+<enZ0028>map034
+<ptZ0028>map034
+
+//OTHER
+<enZ0029>black
+<ptZ0029>black
+
+//OTHER
+<enZ0030>sp0001f
+<ptZ0030>sp0001f
+
+//OTHER
+<enZ0031>5_0715
+<ptZ0031>5_0715
+

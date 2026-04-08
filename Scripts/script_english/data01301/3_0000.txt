@@ -1,0 +1,908 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Mamiya
+<ptN0002>Mamiya
+
+///================================================================================
+
+//TEXT
+<enT0001>Lewis Carroll - "Through the Looking-Glass, \n                       and What Alice Found There"
+<ptT0001>Lewis Carroll - "Through the Looking-Glass, \n                       and What Alice Found There"
+
+//TEXT
+<enT0002>'and if you're not good directly,' she added,
+<ptT0002>'and if you're not good directly,' she added,
+
+//TEXT
+<enT0003>'I'll put you through into Looking-glass House.'
+<ptT0003>'I'll put you through into Looking-glass House.'
+
+//TEXT
+<enT0004>'How would you like THAT?'
+<ptT0004>'How would you like THAT?'
+
+//TEXT
+<enT0005>'Now, if you'll only attend, Kitty,
+<ptT0005>'Now, if you'll only attend, Kitty,
+
+//TEXT
+<enT0006>and not talk so much,
+<ptT0006>and not talk so much,
+
+//TEXT
+<enT0007>I'll tell you all my ideas about Looking-glass House.'
+<ptT0007>I'll tell you all my ideas about Looking-glass House.'
+
+//TEXT
+<enT0008>'First, there's the room you can see through the glass―
+<ptT0008>'First, there's the room you can see through the glass―
+
+//TEXT
+<enT0009>that's just the same as our drawing room, only the things go the other way. I can see all of it when I get upon a chair―
+<ptT0009>that's just the same as our drawing room, only the things go the other way. I can see all of it when I get upon a chair―
+
+//TEXT
+<enT0010>all but the bit behind the fireplace.'
+<ptT0010>all but the bit behind the fireplace.'
+
+//TEXT
+<enT0011>'Oh! I do so wish I could see THAT bit!'
+<ptT0011>'Oh! I do so wish I could see THAT bit!'
+
+//TEXT
+<enT0012>'I want so much to know whether they've a fire in the winter:
+<ptT0012>'I want so much to know whether they've a fire in the winter:
+
+//TEXT
+<enT0013>you never CAN tell, you know,
+<ptT0013>you never CAN tell, you know,
+
+//TEXT
+<enT0014>unless our fire smokes, and then smoke comes up in that room too― but that may be only pretence,
+<ptT0014>unless our fire smokes, and then smoke comes up in that room too― but that may be only pretence,
+
+//TEXT
+<enT0015>just to make it look as if they had a fire.'
+<ptT0015>just to make it look as if they had a fire.'
+
+//TEXT
+<enT0016>'Well then, the books are something like our books, only the words go the wrong way;
+<ptT0016>'Well then, the books are something like our books, only the words go the wrong way;
+
+//TEXT
+<enT0017>I know that, because I've held up one of our books to the glass, and then they hold up one in the other room.'
+<ptT0017>I know that, because I've held up one of our books to the glass, and then they hold up one in the other room.'
+
+//TEXT
+<enT0018>I wonder if there are beautiful things in the world of mirrors...
+<ptT0018>I wonder if there are beautiful things in the world of mirrors...
+
+//TEXT
+<enT0019>I wonder if there are wonderful things in the world of mirrors...
+<ptT0019>I wonder if there are wonderful things in the world of mirrors...
+
+//TEXT
+<enT0020>My self in the world of mirrors makes a bored face, just like I do.
+<ptT0020>My self in the world of mirrors makes a bored face, just like I do.
+
+//TEXT
+<enT0021>The same bored face as the person in this boring world.
+<ptT0021>The same bored face as the person in this boring world.
+
+//TEXT
+<enT0022>I wonder why Alice thought the world of mirrors was different than ours.
+<ptT0022>I wonder why Alice thought the world of mirrors was different than ours.
+
+//TEXT
+<enT0023>No. She saw that the world was reversed, and she wondered if the smoke coming from the fireplace was real.
+<ptT0023>No. She saw that the world was reversed, and she wondered if the smoke coming from the fireplace was real.
+
+//TEXT
+<enT0024>But even in the world of mirrors, I'm still making a bored face... That side might be boring too.
+<ptT0024>But even in the world of mirrors, I'm still making a bored face... That side might be boring too.
+
+//TEXT
+<enT0025>That's what I think.
+<ptT0025>That's what I think.
+
+//TEXT
+<enT0026>The world of mirrors is just like this one.
+<ptT0026>The world of mirrors is just like this one.
+
+//TEXT
+<enT0027>But to Alice, the world of mirrors looked like a wonderful place.
+<ptT0027>But to Alice, the world of mirrors looked like a wonderful place.
+
+//TEXT
+<enT0028>'How would you like to live in Looking-glass House, Kitty?
+<ptT0028>'How would you like to live in Looking-glass House, Kitty?
+
+//TEXT
+<enT0029>Wonder if they'd give you milk in there? Perhaps Looking-glass milk isn't good to drink―
+<ptT0029>Wonder if they'd give you milk in there? Perhaps Looking-glass milk isn't good to drink―
+
+//TEXT
+<enT0030>But oh, Kitty! now we come to the passage.
+<ptT0030>But oh, Kitty! now we come to the passage.
+
+//TEXT
+<enT0031>You can just see a little PEEP of the passage in Looking-glass House, if you leave the door of our drawing-room wide open:
+<ptT0031>You can just see a little PEEP of the passage in Looking-glass House, if you leave the door of our drawing-room wide open:
+
+//TEXT
+<enT0032>and it's very like our passage as far as you can see, only you know it may be quite different on beyond.'
+<ptT0032>and it's very like our passage as far as you can see, only you know it may be quite different on beyond.'
+
+//TEXT
+<enT0033>'Oh, Kitty! how nice it would be if we could only get through
+<ptT0033>'Oh, Kitty! how nice it would be if we could only get through
+
+//TEXT
+<enT0034>into Looking-glass House!
+<ptT0034>into Looking-glass House!
+
+//TEXT
+<enT0035>I'm sure it's got, oh! such beautiful things in it!'
+<ptT0035>I'm sure it's got, oh! such beautiful things in it!'
+
+//TEXT
+<enT0036>
+<ptT0036>
+
+//TEXT
+<enT0037>
+<ptT0037>
+
+//TEXT
+<enT0038>A Sunday afternoon.
+<ptT0038>A Sunday afternoon.
+
+//TEXT
+<enT0039>A department store roof.
+<ptT0039>A department store roof.
+
+//TEXT
+<enT0040>I happened to spot someone I knew.
+<ptT0040>I happened to spot someone I knew.
+
+//TEXT
+<enT0041>That person always wore a different face.
+<ptT0041>That person always wore a different face.
+
+//TEXT 【Zakuro】
+<enT0042>"Mamiya-kun..."
+<ptT0042>"Mamiya-kun..."
+
+//TEXT 【Mamiya】
+<enT0043>"..."
+<ptT0043>"..."
+
+//TEXT 【Mamiya】
+<enT0044>"Who are you?"
+<ptT0044>"Who are you?"
+
+//TEXT 【Zakuro】
+<enT0045>"Uh... Umm..."
+<ptT0045>"Uh... Umm..."
+
+//TEXT
+<enT0046>He was smoking, even though he's underage.
+<ptT0046>He was smoking, even though he's underage.
+
+//TEXT
+<enT0047>I don't really think Mamiya-kun is a low life, but...
+<ptT0047>I don't really think Mamiya-kun is a low life, but...
+
+//TEXT 【Zakuro】
+<enT0048>"Wh-What a coincidence seeing you here."
+<ptT0048>"Wh-What a coincidence seeing you here."
+
+//TEXT 【Mamiya】
+<enT0049>"A coincidence? Well, I suppose so."
+<ptT0049>"A coincidence? Well, I suppose so."
+
+//TEXT
+<enT0050>A disinterested response came back at me.
+<ptT0050>A disinterested response came back at me.
+
+//TEXT
+<enT0051>What's this... He might be harder to get along with than I thought.
+<ptT0051>What's this... He might be harder to get along with than I thought.
+
+//TEXT
+<enT0052>But it's strange.
+<ptT0052>But it's strange.
+
+//TEXT
+<enT0053>I'm terribly shy...
+<ptT0053>I'm terribly shy...
+
+//TEXT
+<enT0054>And... I hate lowlifes.
+<ptT0054>And... I hate lowlifes.
+
+//TEXT
+<enT0055>Someone smoking here, at a time like this, might be the kind of person who would hurt me, but...
+<ptT0055>Someone smoking here, at a time like this, might be the kind of person who would hurt me, but...
+
+//TEXT
+<enT0056>But for some reason... I talked to him.
+<ptT0056>But for some reason... I talked to him.
+
+//TEXT 【Zakuro】
+<enT0057>"Mamiya-kun, are you..."
+<ptT0057>"Mamiya-kun, are you..."
+
+//TEXT 【Mamiya】
+<enT0058>"Hmm?"
+<ptT0058>"Hmm?"
+
+//TEXT 【Zakuro】
+<enT0059>"A lowlife?"
+<ptT0059>"A lowlife?"
+
+//TEXT 【Mamiya】
+<enT0060>"..."
+<ptT0060>"..."
+
+//TEXT 【Mamiya】
+<enT0061>"...I don't think so."
+<ptT0061>"...I don't think so."
+
+//TEXT 【Zakuro】
+<enT0062>"But you're smoking..."
+<ptT0062>"But you're smoking..."
+
+//TEXT 【Mamiya】
+<enT0063>"I guess so."
+<ptT0063>"I guess so."
+
+//TEXT 【Mamiya】
+<enT0064>"And my grades are terrible, and I skip class all the time..."
+<ptT0064>"And my grades are terrible, and I skip class all the time..."
+
+//TEXT 【Zakuro】
+<enT0065>"So... a lowlife?"
+<ptT0065>"So... a lowlife?"
+
+//TEXT 【Mamiya】
+<enT0066>"If I was, I wouldn't be getting bullied. Everyone wouldn't think I was disgusting, would they?"
+<ptT0066>"If I was, I wouldn't be getting bullied. Everyone wouldn't think I was disgusting, would they?"
+
+//TEXT 【Zakuro】
+<enT0067>"Disgusting?"
+<ptT0067>"Disgusting?"
+
+//TEXT
+<enT0068>He thinks he's disgusting?
+<ptT0068>He thinks he's disgusting?
+
+//TEXT
+<enT0069>But Mamiya-kun is...
+<ptT0069>But Mamiya-kun is...
+
+//TEXT 【Zakuro】
+<enT0070>"But I think you have a really pretty face."
+<ptT0070>"But I think you have a really pretty face."
+
+//TEXT 【Mamiya】
+<enT0071>"Isn't that why I'm disgusting? I'm skinny... and short... and pale... and stupid... and lots of other stuff."
+<ptT0071>"Isn't that why I'm disgusting? I'm skinny... and short... and pale... and stupid... and lots of other stuff."
+
+//TEXT 【Zakuro】
+<enT0072>"So you're disgusting?"
+<ptT0072>"So you're disgusting?"
+
+//TEXT
+<enT0073>I wonder if you could really say he's being bullied.
+<ptT0073>I wonder if you could really say he's being bullied.
+
+//TEXT
+<enT0074>I heard he used to be, but now most people are afraid of him.
+<ptT0074>I heard he used to be, but now most people are afraid of him.
+
+//TEXT
+<enT0075>Even if there are people who avoid him because they're scared of him. I don't think anyone would bully him.
+<ptT0075>Even if there are people who avoid him because they're scared of him. I don't think anyone would bully him.
+
+//TEXT
+<enT0076>And...
+<ptT0076>And...
+
+//TEXT
+<enT0077>And, unlike me... he carries a few things with him.
+<ptT0077>And, unlike me... he carries a few things with him.
+
+//TEXT
+<enT0078>For instance...
+<ptT0078>For instance...
+
+//TEXT 【Zakuro】
+<enT0079>"You carry a knife, don't you? Isn't that because you're a lowlife?"
+<ptT0079>"You carry a knife, don't you? Isn't that because you're a lowlife?"
+
+//TEXT 【Mamiya】
+<enT0080>"It's because I'm an otaku."
+<ptT0080>"It's because I'm an otaku."
+
+//TEXT 【Zakuro】
+<enT0081>"Huh?"
+<ptT0081>"Huh?"
+
+//TEXT 【Mamiya】
+<enT0082>"I have a survival knife because I'm an otaku."
+<ptT0082>"I have a survival knife because I'm an otaku."
+
+//TEXT 【Zakuro】
+<enT0083>"Really?"
+<ptT0083>"Really?"
+
+//TEXT 【Mamiya】
+<enT0084>"Yeah... Nowadays, only otakus carry around knives."
+<ptT0084>"Yeah... Nowadays, only otakus carry around knives."
+
+//TEXT 【Zakuro】
+<enT0085>"..."
+<ptT0085>"..."
+
+//TEXT
+<enT0086>I wonder if that's true...
+<ptT0086>I wonder if that's true...
+
+//TEXT 【Mamiya】
+<enT0087>"No lowlifes take knives around with them anymore. They haven't been able to carry concealed knives for quite a while."
+<ptT0087>"No lowlifes take knives around with them anymore. They haven't been able to carry concealed knives for quite a while."
+
+//TEXT 【Mamiya】
+<enT0088>"Now only otakus have them... Only disgusting freaks who talk to themselves have knives."
+<ptT0088>"Now only otakus have them... Only disgusting freaks who talk to themselves have knives."
+
+//TEXT 【Mamiya】
+<enT0089>"So the only people who get searched by the police are the ones carrying black bags and wearing bleached jeans and flannel shirts..."
+<ptT0089>"So the only people who get searched by the police are the ones carrying black bags and wearing bleached jeans and flannel shirts..."
+
+//TEXT 【Mamiya】
+<enT0090>"Fat girls... or skinny kids with glasses like me..."
+<ptT0090>"Fat girls... or skinny kids with glasses like me..."
+
+//TEXT 【Zakuro】
+<enT0091>"But you don't wear glasses."
+<ptT0091>"But you don't wear glasses."
+
+//TEXT 【Mamiya】
+<enT0092>"I got punched a lot by my bullies. I don't wear them anymore, since they're broken."
+<ptT0092>"I got punched a lot by my bullies. I don't wear them anymore, since they're broken."
+
+//TEXT 【Zakuro】
+<enT0093>"Then how can you see?"
+<ptT0093>"Then how can you see?"
+
+//TEXT 【Mamiya】
+<enT0094>"I can't..."
+<ptT0094>"I can't..."
+
+//TEXT 【Mamiya】
+<enT0095>"I can't see very well, so it's hard to remember people's faces... and I can't really make out what's on the blackboard, either. That's why my grades are so bad."
+<ptT0095>"I can't see very well, so it's hard to remember people's faces... and I can't really make out what's on the blackboard, either. That's why my grades are so bad."
+
+//TEXT 【Zakuro】
+<enT0096>"Isn't that a problem?"
+<ptT0096>"Isn't that a problem?"
+
+//TEXT 【Mamiya】
+<enT0097>"There are people who are better off blind."
+<ptT0097>"There are people who are better off blind."
+
+//TEXT 【Mamiya】
+<enT0098>"I... don't really want to be able to see."
+<ptT0098>"I... don't really want to be able to see."
+
+//TEXT 【Zakuro】
+<enT0099>"..."
+<ptT0099>"..."
+
+//TEXT
+<enT0100>I felt that I could understand it.
+<ptT0100>I felt that I could understand it.
+
+//TEXT
+<enT0101>The reason why I called out to him...
+<ptT0101>The reason why I called out to him...
+
+//TEXT
+<enT0102>The boy who carries a knife because he's an otaku...
+<ptT0102>The boy who carries a knife because he's an otaku...
+
+//TEXT
+<enT0103>Who doesn't get his glasses fixed because he doesn't want to see...
+<ptT0103>Who doesn't get his glasses fixed because he doesn't want to see...
+
+//TEXT
+<enT0104>I know him.
+<ptT0104>I know him.
+
+//TEXT
+<enT0105>No... I know his world.
+<ptT0105>No... I know his world.
+
+//TEXT
+<enT0106>It's just like the world of mirrors.
+<ptT0106>It's just like the world of mirrors.
+
+//TEXT
+<enT0107>Your world is mine.
+<ptT0107>Your world is mine.
+
+//TEXT
+<enT0108>It reflects beautifully. That world reflects me.
+<ptT0108>It reflects beautifully. That world reflects me.
+
+//TEXT
+<enT0109>My boring face...
+<ptT0109>My boring face...
+
+//TEXT
+<enT0110>The me reflected in the world of mirrors is also...
+<ptT0110>The me reflected in the world of mirrors is also...
+
+//TEXT
+<enT0111>Boring.
+<ptT0111>Boring.
+
+//TEXT
+<enT0112>Mamiya-kun laughed, bored.
+<ptT0112>Mamiya-kun laughed, bored.
+
+//TEXT 【Mamiya】
+<enT0113>"Isn't it easier to see as little as possible until you die?"
+<ptT0113>"Isn't it easier to see as little as possible until you die?"
+
+//TEXT 【Mamiya】
+<enT0114>"After all, most of the things I've seen in my life have been unpleasant."
+<ptT0114>"After all, most of the things I've seen in my life have been unpleasant."
+
+//TEXT 【Zakuro】
+<enT0115>"..."
+<ptT0115>"..."
+
+//TEXT 【Mamiya】
+<enT0116>"Look... that couple..."
+<ptT0116>"Look... that couple..."
+
+//TEXT 【Mamiya】
+<enT0117>"She's really beautiful, right? And the guy is handsome, too."
+<ptT0117>"She's really beautiful, right? And the guy is handsome, too."
+
+//TEXT 【Mamiya】
+<enT0118>"When I see something like that, it kind of..."
+<ptT0118>"When I see something like that, it kind of..."
+
+//TEXT 【Mamiya】
+<enT0119>"Makes me wish for them to die in the most painful way possible."
+<ptT0119>"Makes me wish for them to die in the most painful way possible."
+
+//TEXT 【Mamiya】
+<enT0120>"It makes me want to melt her face with sulfuric acid. Her face would melt and fall off in globs as she yelled in pain... Ahahahaha."
+<ptT0120>"It makes me want to melt her face with sulfuric acid. Her face would melt and fall off in globs as she yelled in pain... Ahahahaha."
+
+//TEXT 【Zakuro】
+<enT0121>"..."
+<ptT0121>"..."
+
+//TEXT
+<enT0122>I wonder...
+<ptT0122>I wonder...
+
+//TEXT
+<enT0123>Right now, I can't really think like that.
+<ptT0123>Right now, I can't really think like that.
+
+//TEXT
+<enT0124>I kind of...
+<ptT0124>I kind of...
+
+//TEXT
+<enT0125>Wouldn't mind if the two could live on happily... and be happy forever.
+<ptT0125>Wouldn't mind if the two could live on happily... and be happy forever.
+
+//TEXT
+<enT0126>That's...
+<ptT0126>That's...
+
+//TEXT
+<enT0127>What I thought when I talked to Mamiya-kun.
+<ptT0127>What I thought when I talked to Mamiya-kun.
+
+//TEXT
+<enT0128>That the world could be happy...
+<ptT0128>That the world could be happy...
+
+//TEXT
+<enT0129>That you could be happy...
+<ptT0129>That you could be happy...
+
+//TEXT
+<enT0130>That's what I wanted to pray for.
+<ptT0130>That's what I wanted to pray for.
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0000.bss
+<ptZ0001>3_0000.bss
+
+//OTHER
+<enZ0002>
+<ptZ0002>
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>Black
+<ptZ0004>Black
+
+//OTHER
+<enZ0005>bgm017
+<ptZ0005>bgm017
+
+//OTHER
+<enZ0006>ari_000003
+<ptZ0006>ari_000003
+
+//OTHER
+<enZ0007>ari_000004
+<ptZ0007>ari_000004
+
+//OTHER
+<enZ0008>ari_000005
+<ptZ0008>ari_000005
+
+//OTHER
+<enZ0009>ari_000006
+<ptZ0009>ari_000006
+
+//OTHER
+<enZ0010>ari_000007
+<ptZ0010>ari_000007
+
+//OTHER
+<enZ0011>ari_000008
+<ptZ0011>ari_000008
+
+//OTHER
+<enZ0012>ari_000009
+<ptZ0012>ari_000009
+
+//OTHER
+<enZ0013>ari_000010
+<ptZ0013>ari_000010
+
+//OTHER
+<enZ0014>ari_000011
+<ptZ0014>ari_000011
+
+//OTHER
+<enZ0015>ari_000012
+<ptZ0015>ari_000012
+
+//OTHER
+<enZ0016>ari_000013
+<ptZ0016>ari_000013
+
+//OTHER
+<enZ0017>ari_000014
+<ptZ0017>ari_000014
+
+//OTHER
+<enZ0018>ari_000015
+<ptZ0018>ari_000015
+
+//OTHER
+<enZ0019>ari_000016
+<ptZ0019>ari_000016
+
+//OTHER
+<enZ0020>ari_000017
+<ptZ0020>ari_000017
+
+//OTHER
+<enZ0021>ari_000018
+<ptZ0021>ari_000018
+
+//OTHER
+<enZ0022>ari_000019
+<ptZ0022>ari_000019
+
+//OTHER
+<enZ0023>ari_000020
+<ptZ0023>ari_000020
+
+//OTHER
+<enZ0024>ari_000021
+<ptZ0024>ari_000021
+
+//OTHER
+<enZ0025>ari_000022
+<ptZ0025>ari_000022
+
+//OTHER
+<enZ0026>ari_000023
+<ptZ0026>ari_000023
+
+//OTHER
+<enZ0027>ari_000024
+<ptZ0027>ari_000024
+
+//OTHER
+<enZ0028>ari_000025
+<ptZ0028>ari_000025
+
+//OTHER
+<enZ0029>ari_000026
+<ptZ0029>ari_000026
+
+//OTHER
+<enZ0030>ari_000027
+<ptZ0030>ari_000027
+
+//OTHER
+<enZ0031>ari_000028
+<ptZ0031>ari_000028
+
+//OTHER
+<enZ0032>ari_000029
+<ptZ0032>ari_000029
+
+//OTHER
+<enZ0033>ari_000030
+<ptZ0033>ari_000030
+
+//OTHER
+<enZ0034>ari_000031
+<ptZ0034>ari_000031
+
+//OTHER
+<enZ0035>ari_000032
+<ptZ0035>ari_000032
+
+//OTHER
+<enZ0036>ari_000033
+<ptZ0036>ari_000033
+
+//OTHER
+<enZ0037>ari_000034
+<ptZ0037>ari_000034
+
+//OTHER
+<enZ0038>ari_000035
+<ptZ0038>ari_000035
+
+//OTHER
+<enZ0039>ari_000036
+<ptZ0039>ari_000036
+
+//OTHER
+<enZ0040>sp0008a
+<ptZ0040>sp0008a
+
+//OTHER
+<enZ0041>ev6008a2
+<ptZ0041>ev6008a2
+
+//OTHER
+<enZ0042>bgm004
+<ptZ0042>bgm004
+
+//OTHER
+<enZ0043>zaku_001462
+<ptZ0043>zaku_001462
+
+//OTHER
+<enZ0044>taku_004394
+<ptZ0044>taku_004394
+
+//OTHER
+<enZ0045>taku_004395
+<ptZ0045>taku_004395
+
+//OTHER
+<enZ0046>zaku_001463
+<ptZ0046>zaku_001463
+
+//OTHER
+<enZ0047>zaku_001464
+<ptZ0047>zaku_001464
+
+//OTHER
+<enZ0048>taku_004396
+<ptZ0048>taku_004396
+
+//OTHER
+<enZ0049>zaku_001465
+<ptZ0049>zaku_001465
+
+//OTHER
+<enZ0050>taku_004397
+<ptZ0050>taku_004397
+
+//OTHER
+<enZ0051>zaku_001466
+<ptZ0051>zaku_001466
+
+//OTHER
+<enZ0052>taku_004398
+<ptZ0052>taku_004398
+
+//OTHER
+<enZ0053>taku_004399
+<ptZ0053>taku_004399
+
+//OTHER
+<enZ0054>zaku_001467
+<ptZ0054>zaku_001467
+
+//OTHER
+<enZ0055>taku_004400
+<ptZ0055>taku_004400
+
+//OTHER
+<enZ0056>taku_004401
+<ptZ0056>taku_004401
+
+//OTHER
+<enZ0057>zaku_001468
+<ptZ0057>zaku_001468
+
+//OTHER
+<enZ0058>taku_004402
+<ptZ0058>taku_004402
+
+//OTHER
+<enZ0059>zaku_001469
+<ptZ0059>zaku_001469
+
+//OTHER
+<enZ0060>zaku_001470
+<ptZ0060>zaku_001470
+
+//OTHER
+<enZ0061>taku_004403
+<ptZ0061>taku_004403
+
+//OTHER
+<enZ0062>zaku_001471
+<ptZ0062>zaku_001471
+
+//OTHER
+<enZ0063>zaku_001472
+<ptZ0063>zaku_001472
+
+//OTHER
+<enZ0064>taku_004404
+<ptZ0064>taku_004404
+
+//OTHER
+<enZ0065>zaku_001473
+<ptZ0065>zaku_001473
+
+//OTHER
+<enZ0066>ev6008a3
+<ptZ0066>ev6008a3
+
+//OTHER
+<enZ0067>taku_004405
+<ptZ0067>taku_004405
+
+//OTHER
+<enZ0068>zaku_001474
+<ptZ0068>zaku_001474
+
+//OTHER
+<enZ0069>taku_004406
+<ptZ0069>taku_004406
+
+//OTHER
+<enZ0070>zaku_001475
+<ptZ0070>zaku_001475
+
+//OTHER
+<enZ0071>taku_004407
+<ptZ0071>taku_004407
+
+//OTHER
+<enZ0072>taku_004408
+<ptZ0072>taku_004408
+
+//OTHER
+<enZ0073>taku_004409
+<ptZ0073>taku_004409
+
+//OTHER
+<enZ0074>taku_004410
+<ptZ0074>taku_004410
+
+//OTHER
+<enZ0075>zaku_001476
+<ptZ0075>zaku_001476
+
+//OTHER
+<enZ0076>taku_004411
+<ptZ0076>taku_004411
+
+//OTHER
+<enZ0077>zaku_001477
+<ptZ0077>zaku_001477
+
+//OTHER
+<enZ0078>taku_004412
+<ptZ0078>taku_004412
+
+//OTHER
+<enZ0079>taku_004413
+<ptZ0079>taku_004413
+
+//OTHER
+<enZ0080>zaku_001478
+<ptZ0080>zaku_001478
+
+//OTHER
+<enZ0081>taku_004414
+<ptZ0081>taku_004414
+
+//OTHER
+<enZ0082>taku_004415
+<ptZ0082>taku_004415
+
+//OTHER
+<enZ0083>zaku_001479
+<ptZ0083>zaku_001479
+
+//OTHER
+<enZ0084>ev6008a4
+<ptZ0084>ev6008a4
+
+//OTHER
+<enZ0085>taku_004416
+<ptZ0085>taku_004416
+
+//OTHER
+<enZ0086>taku_004417
+<ptZ0086>taku_004417
+
+//OTHER
+<enZ0087>zaku_001480
+<ptZ0087>zaku_001480
+
+//OTHER
+<enZ0088>taku_004418
+<ptZ0088>taku_004418
+
+//OTHER
+<enZ0089>taku_004419
+<ptZ0089>taku_004419
+
+//OTHER
+<enZ0090>taku_004420
+<ptZ0090>taku_004420
+
+//OTHER
+<enZ0091>taku_004421
+<ptZ0091>taku_004421
+
+//OTHER
+<enZ0092>taku_004422
+<ptZ0092>taku_004422
+
+//OTHER
+<enZ0093>zaku_001481
+<ptZ0093>zaku_001481
+
+//OTHER
+<enZ0094>3_0702
+<ptZ0094>3_0702
+

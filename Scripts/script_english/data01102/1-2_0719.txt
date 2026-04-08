@@ -1,0 +1,3560 @@
+//NAME
+<enN0001>Ayana
+<ptN0001>Ayana
+
+//NAME
+<enN0002>Yuki
+<ptN0002>Yuki
+
+//NAME
+<enN0003>Takuji
+<ptN0003>Takuji
+
+//NAME
+<enN0004>Mamiya
+<ptN0004>Mamiya
+
+///================================================================================
+
+//TEXT
+<enT0001>The sound of the bell.
+<ptT0001>The sound of the bell.
+
+//TEXT
+<enT0002>The midnight chime.
+<ptT0002>The midnight chime.
+
+//TEXT
+<enT0003>The end of the week.
+<ptT0003>The end of the week.
+
+//TEXT
+<enT0004>And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
+<ptT0004>And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
+
+//TEXT
+<enT0005>And God blessed the seventh day,
+<ptT0005>And God blessed the seventh day,
+
+//TEXT
+<enT0006>and sanctified it:
+<ptT0006>and sanctified it:
+
+//TEXT
+<enT0007>because that in it he had rested from all his work which God created and made.
+<ptT0007>because that in it he had rested from all his work which God created and made.
+
+//TEXT
+<enT0008>The day he finished creating the world.
+<ptT0008>The day he finished creating the world.
+
+//TEXT
+<enT0009>Even the weekend doesn't change one bit.
+<ptT0009>Even the weekend doesn't change one bit.
+
+//TEXT
+<enT0010>Of course not.
+<ptT0010>Of course not.
+
+//TEXT
+<enT0011>God doesn't change the color of the sky depending on the day of the week.
+<ptT0011>God doesn't change the color of the sky depending on the day of the week.
+
+//TEXT
+<enT0012>The world God created contains the same sights every single day.
+<ptT0012>The world God created contains the same sights every single day.
+
+//TEXT
+<enT0013>It invariably arrives back at the same scenery over and over, like a mechanical clock.
+<ptT0013>It invariably arrives back at the same scenery over and over, like a mechanical clock.
+
+//TEXT
+<enT0014>The sky is always blue.
+<ptT0014>The sky is always blue.
+
+//TEXT
+<enT0015>Gray.
+<ptT0015>Gray.
+
+//TEXT
+<enT0016>Scarlet.
+<ptT0016>Scarlet.
+
+//TEXT
+<enT0017>It rotates through the same sequence.
+<ptT0017>It rotates through the same sequence.
+
+//TEXT
+<enT0018>A person standing in front of a clock...
+<ptT0018>A person standing in front of a clock...
+
+//TEXT
+<enT0019>Doesn't think a new moment begins...
+<ptT0019>Doesn't think a new moment begins...
+
+//TEXT
+<enT0020>With every tick, tock of the clock's hands.
+<ptT0020>With every tick, tock of the clock's hands.
+
+//TEXT
+<enT0021>When the clock hand passes twelve o'clock, the summit...
+<ptT0021>When the clock hand passes twelve o'clock, the summit...
+
+//TEXT
+<enT0022>No one thinks that a new time has begun.
+<ptT0022>No one thinks that a new time has begun.
+
+//TEXT
+<enT0023>An end is the beginning of another commonplace scene.
+<ptT0023>An end is the beginning of another commonplace scene.
+
+//TEXT
+<enT0024>The beginning of a commonplace world.
+<ptT0024>The beginning of a commonplace world.
+
+//TEXT
+<enT0025>And beyond that, the scenery one just saw comes into existence once more.
+<ptT0025>And beyond that, the scenery one just saw comes into existence once more.
+
+//TEXT
+<enT0026>An infinity we call repetition.
+<ptT0026>An infinity we call repetition.
+
+//TEXT
+<enT0027>An infinity of the same script.
+<ptT0027>An infinity of the same script.
+
+//TEXT
+<enT0028>There is nothing novel in this world.
+<ptT0028>There is nothing novel in this world.
+
+//TEXT
+<enT0029>All that is in this world can be clearly described.
+<ptT0029>All that is in this world can be clearly described.
+
+//TEXT
+<enT0030>There is nothing beyond this world.
+<ptT0030>There is nothing beyond this world.
+
+//TEXT
+<enT0031>What is here...
+<ptT0031>What is here...
+
+//TEXT
+<enT0032>And the next world we're headed to... It is all part of a world that can be described in the same terms.
+<ptT0032>And the next world we're headed to... It is all part of a world that can be described in the same terms.
+
+//TEXT 【Ayana】
+<enT0033>"Good morning."
+<ptT0033>"Good morning."
+
+//TEXT 【Yuki】
+<enT0034>"Ayana-san, why are you here?"
+<ptT0034>"Ayana-san, why are you here?"
+
+//TEXT 【Ayana】
+<enT0035>"Why are you?"
+<ptT0035>"Why are you?"
+
+//TEXT 【Yuki】
+<enT0036>"I..."
+<ptT0036>"I..."
+
+//TEXT
+<enT0037>I... had no reason to be here.
+<ptT0037>I... had no reason to be here.
+
+//TEXT
+<enT0038>I just ran.
+<ptT0038>I just ran.
+
+//TEXT
+<enT0039>I just ran, and then I was standing here.
+<ptT0039>I just ran, and then I was standing here.
+
+//TEXT
+<enT0040>At some point, my world had started to go askew.
+<ptT0040>At some point, my world had started to go askew.
+
+//TEXT
+<enT0041>At some point, my world had started to mingle with a scene I'd never seen before.
+<ptT0041>At some point, my world had started to mingle with a scene I'd never seen before.
+
+//TEXT 【Yuki】
+<enT0042>"I don't understand it."
+<ptT0042>"I don't understand it."
+
+//TEXT 【Ayana】
+<enT0043>"You don't understand?"
+<ptT0043>"You don't understand?"
+
+//TEXT 【Yuki】
+<enT0044>"Ayana-san, I... I!"
+<ptT0044>"Ayana-san, I... I!"
+
+//TEXT 【Ayana】
+<enT0045>"..."
+<ptT0045>"..."
+
+//TEXT 【Ayana】
+<enT0046>"Won't you go and see?"
+<ptT0046>"Won't you go and see?"
+
+//TEXT 【Yuki】
+<enT0047>"See what?"
+<ptT0047>"See what?"
+
+//TEXT 【Ayana】
+<enT0048>"The End Sky."
+<ptT0048>"The End Sky."
+
+//TEXT 【Yuki】
+<enT0049>"The End Sky?"
+<ptT0049>"The End Sky?"
+
+//TEXT 【Ayana】
+<enT0050>"Yes."
+<ptT0050>"Yes."
+
+//TEXT 【Yuki】
+<enT0051>"What's that? I don't know what you mean."
+<ptT0051>"What's that? I don't know what you mean."
+
+//TEXT 【Ayana】
+<enT0052>"What I mean?"
+<ptT0052>"What I mean?"
+
+//TEXT 【Yuki】
+<enT0053>"What's going on? When did all this happen?"
+<ptT0053>"What's going on? When did all this happen?"
+
+//TEXT 【Yuki】
+<enT0054>"Wakatsuki Kagami really existed, right? Wakatsuki Tsukasa really existed, right?"
+<ptT0054>"Wakatsuki Kagami really existed, right? Wakatsuki Tsukasa really existed, right?"
+
+//TEXT 【Yuki】
+<enT0055>"There's no way they didn't."
+<ptT0055>"There's no way they didn't."
+
+//TEXT 【Yuki】
+<enT0056>"I mean, I... I have all these memories with them. All these memories from so long ago."
+<ptT0056>"I mean, I... I have all these memories with them. All these memories from so long ago."
+
+//TEXT 【Yuki】
+<enT0057>"Why did Kagami's body turn into a doll? Why did Tsukasa turn into that scary thing?"
+<ptT0057>"Why did Kagami's body turn into a doll? Why did Tsukasa turn into that scary thing?"
+
+//TEXT 【Yuki】
+<enT0058>"When did they get replaced like that?"
+<ptT0058>"When did they get replaced like that?"
+
+//TEXT 【Yuki】
+<enT0059>"When did this all happen?"
+<ptT0059>"When did this all happen?"
+
+//TEXT 【Yuki】
+<enT0060>"When..."
+<ptT0060>"When..."
+
+//TEXT 【Ayana】
+<enT0061>"That's why you came to see it, right?"
+<ptT0061>"That's why you came to see it, right?"
+
+//TEXT 【Ayana】
+<enT0062>"The End Sky."
+<ptT0062>"The End Sky."
+
+//TEXT 【Yuki】
+<enT0063>"What's the End Sky? Does that have something to do with what's happening?!"
+<ptT0063>"What's the End Sky? Does that have something to do with what's happening?!"
+
+//TEXT 【Ayana】
+<enT0064>"The End Sky is just what Mamiya Takuji-kun called it."
+<ptT0064>"The End Sky is just what Mamiya Takuji-kun called it."
+
+//TEXT 【Ayana】
+<enT0065>"It has no name."
+<ptT0065>"It has no name."
+
+//TEXT 【Yuki】
+<enT0066>"What do you mean? Why doesn't it have a name?"
+<ptT0066>"What do you mean? Why doesn't it have a name?"
+
+//TEXT 【Ayana】
+<enT0067>"Just like how there's no name for the sky at the end of the week, that sky doesn't have a name either."
+<ptT0067>"Just like how there's no name for the sky at the end of the week, that sky doesn't have a name either."
+
+//TEXT 【Ayana】
+<enT0068>"It's a commonplace sight."
+<ptT0068>"It's a commonplace sight."
+
+//TEXT 【Ayana】
+<enT0069>"A common final sky."
+<ptT0069>"A common final sky."
+
+//TEXT 【Ayana】
+<enT0070>"There is no mystery here."
+<ptT0070>"There is no mystery here."
+
+//TEXT 【Yuki】
+<enT0071>"No mystery?"
+<ptT0071>"No mystery?"
+
+//TEXT 【Yuki】
+<enT0072>"I wish it was something as nice as a mystery. This is impossible and illogical."
+<ptT0072>"I wish it was something as nice as a mystery. This is impossible and illogical."
+
+//TEXT 【Yuki】
+<enT0073>"What's happening to me?"
+<ptT0073>"What's happening to me?"
+
+//TEXT 【Ayana】
+<enT0074>"Nothing, really."
+<ptT0074>"Nothing, really."
+
+//TEXT 【Ayana】
+<enT0075>"From the time they're born, people replace the cells in their bodies several times over."
+<ptT0075>"From the time they're born, people replace the cells in their bodies several times over."
+
+//TEXT 【Ayana】
+<enT0076>"Just like your body whose cells have been replaced time and time again, you have remained you despite the fact that you have constantly changed since the moment of your birth."
+<ptT0076>"Just like your body whose cells have been replaced time and time again, you have remained you despite the fact that you have constantly changed since the moment of your birth."
+
+//TEXT 【Ayana】
+<enT0077>"Nothing changes. Minakami Yuki is Minakami Yuki. There's nothing impossible or illogical about that."
+<ptT0077>"Nothing changes. Minakami Yuki is Minakami Yuki. There's nothing impossible or illogical about that."
+
+//TEXT 【Ayana】
+<enT0078>"Forty-five quadrillion, four hundred and twenty-five trillion, six hundred and ninety-eight billion, four hundred and fifty-two million, three hundred and fifty-five thousand, four hundred and eighty-one."
+<ptT0078>"Forty-five quadrillion, four hundred and twenty-five trillion, six hundred and ninety-eight billion, four hundred and fifty-two million, three hundred and fifty-five thousand, four hundred and eighty-one."
+
+//TEXT 【Yuki】
+<enT0079>"What's that?"
+<ptT0079>"What's that?"
+
+//TEXT 【Ayana】
+<enT0080>"That is probably the first time I have said that number in this world."
+<ptT0080>"That is probably the first time I have said that number in this world."
+
+//TEXT 【Ayana】
+<enT0081>"It is an unknown figure that no one has heard or seen."
+<ptT0081>"It is an unknown figure that no one has heard or seen."
+
+//TEXT 【Ayana】
+<enT0082>"But it's not mysterious at all."
+<ptT0082>"But it's not mysterious at all."
+
+//TEXT 【Ayana】
+<enT0083>"No one has heard this number, but no one would be shocked to hear it."
+<ptT0083>"No one has heard this number, but no one would be shocked to hear it."
+
+//TEXT 【Ayana】
+<enT0084>"Even if no one has given it shape, anyone can understand it. Everyone already knows it."
+<ptT0084>"Even if no one has given it shape, anyone can understand it. Everyone already knows it."
+
+//TEXT 【Ayana】
+<enT0085>"Even if such a scene has never appeared in this world, such a scene should not frighten you."
+<ptT0085>"Even if such a scene has never appeared in this world, such a scene should not frighten you."
+
+//TEXT 【Ayana】
+<enT0086>"It's a very commonplace sort of world."
+<ptT0086>"It's a very commonplace sort of world."
+
+//TEXT 【Yuki】
+<enT0087>"How is that... How is this world commonplace? This..."
+<ptT0087>"How is that... How is this world commonplace? This..."
+
+//TEXT 【Ayana】
+<enT0088>"Like I said, you're going to go see what's beyond this commonplace world, right?"
+<ptT0088>"Like I said, you're going to go see what's beyond this commonplace world, right?"
+
+//TEXT 【Yuki】
+<enT0089>"..."
+<ptT0089>"..."
+
+//TEXT 【Ayana】
+<enT0090>"That's what Mamiya-kun called that scene."
+<ptT0090>"That's what Mamiya-kun called that scene."
+
+//TEXT 【Ayana】
+<enT0091>"The End Sky."
+<ptT0091>"The End Sky."
+
+//TEXT 【Ayana】
+<enT0092>"And there's something you want to ask Mamiya-kun, isn't there?"
+<ptT0092>"And there's something you want to ask Mamiya-kun, isn't there?"
+
+//TEXT 【Yuki】
+<enT0093>"..."
+<ptT0093>"..."
+
+//TEXT 【Yuki】
+<enT0094>"Yeah."
+<ptT0094>"Yeah."
+
+//TEXT
+<enT0095>Ayana-san started walking.
+<ptT0095>Ayana-san started walking.
+
+//TEXT
+<enT0096>I followed her.
+<ptT0096>I followed her.
+
+//TEXT 【Yuki】
+<enT0097>"The old pool..."
+<ptT0097>"The old pool..."
+
+//TEXT 【Yuki】
+<enT0098>"Ayana-san."
+<ptT0098>"Ayana-san."
+
+//TEXT 【Ayana】
+<enT0099>"Yes?"
+<ptT0099>"Yes?"
+
+//TEXT 【Yuki】
+<enT0100>"Do you know about that?"
+<ptT0100>"Do you know about that?"
+
+//TEXT 【Ayana】
+<enT0101>"Of course."
+<ptT0101>"Of course."
+
+//TEXT 【Yuki】
+<enT0102>"Ah..."
+<ptT0102>"Ah..."
+
+//TEXT 【Yuki】
+<enT0103>"She went down first."
+<ptT0103>"She went down first."
+
+//TEXT 【Yuki】
+<enT0104>"She doesn't ever seem to hesitate."
+<ptT0104>"She doesn't ever seem to hesitate."
+
+//TEXT 【Yuki】
+<enT0105>"My eyes aren't used to this."
+<ptT0105>"My eyes aren't used to this."
+
+//TEXT
+<enT0106>I couldn't even walk, since it had been less than ten seconds since we reached the bottom.
+<ptT0106>I couldn't even walk, since it had been less than ten seconds since we reached the bottom.
+
+//TEXT 【Yuki】
+<enT0107>"Ayana-san."
+<ptT0107>"Ayana-san."
+
+//TEXT 【Ayana】
+<enT0108>"It stinks."
+<ptT0108>"It stinks."
+
+//TEXT 【Yuki】
+<enT0109>"Well, it is the sewer."
+<ptT0109>"Well, it is the sewer."
+
+//TEXT 【Yuki】
+<enT0110>"Hey, wait."
+<ptT0110>"Hey, wait."
+
+//TEXT 【Yuki】
+<enT0111>"She went into the drainage tank."
+<ptT0111>"She went into the drainage tank."
+
+//TEXT
+<enT0112>So she knew all about it.
+<ptT0112>So she knew all about it.
+
+//TEXT 【Yuki】
+<enT0113>"There's... no one here."
+<ptT0113>"There's... no one here."
+
+//TEXT
+<enT0114>There was no way they could gather in such a tiny place.
+<ptT0114>There was no way they could gather in such a tiny place.
+
+//TEXT 【Yuki】
+<enT0115>"Ah..."
+<ptT0115>"Ah..."
+
+//TEXT
+<enT0116>Ayana-san had already lifted up the cover inside and left.
+<ptT0116>Ayana-san had already lifted up the cover inside and left.
+
+//TEXT 【Yuki】
+<enT0117>"Ah, Ayana-san."
+<ptT0117>"Ah, Ayana-san."
+
+//TEXT 【Yuki】
+<enT0118>"I was thinking that tons of people could probably hide out in here."
+<ptT0118>"I was thinking that tons of people could probably hide out in here."
+
+//TEXT
+<enT0119>Ayana-san kept walking.
+<ptT0119>Ayana-san kept walking.
+
+//TEXT
+<enT0120>It was like she already knew the way.
+<ptT0120>It was like she already knew the way.
+
+//TEXT 【Yuki】
+<enT0121>"Ayana-san, just who are you?"
+<ptT0121>"Ayana-san, just who are you?"
+
+//TEXT 【Ayana】
+<enT0122>"Otonashi Ayana."
+<ptT0122>"Otonashi Ayana."
+
+//TEXT 【Yuki】
+<enT0123>"No, I already know your name."
+<ptT0123>"No, I already know your name."
+
+//TEXT
+<enT0124>......
+<ptT0124>......
+
+//TEXT 【Yuki】
+<enT0125>"Ah!"
+<ptT0125>"Ah!"
+
+//TEXT
+<enT0126>She walked over to the place where Kagami had been laying.
+<ptT0126>She walked over to the place where Kagami had been laying.
+
+//TEXT
+<enT0127>Where the floor was covered in dark red blood.
+<ptT0127>Where the floor was covered in dark red blood.
+
+//TEXT
+<enT0128>But there was no blood.
+<ptT0128>But there was no blood.
+
+//TEXT 【Yuki】
+<enT0129>"Cotton..."
+<ptT0129>"Cotton..."
+
+//TEXT
+<enT0130>There was just cotton scattered everywhere.
+<ptT0130>There was just cotton scattered everywhere.
+
+//TEXT 【Yuki】
+<enT0131>"So that really was..."
+<ptT0131>"So that really was..."
+
+//TEXT
+<enT0132>Kagami's mutilated body was just... a doll.
+<ptT0132>Kagami's mutilated body was just... a doll.
+
+//TEXT
+<enT0133>A doll filled with cotton.
+<ptT0133>A doll filled with cotton.
+
+//TEXT
+<enT0134>What happened to the real Kagami?
+<ptT0134>What happened to the real Kagami?
+
+//TEXT 【Ayana】
+<enT0135>"Over here."
+<ptT0135>"Over here."
+
+//TEXT
+<enT0136>Ayana-san stopped and stood in one spot.
+<ptT0136>Ayana-san stopped and stood in one spot.
+
+//TEXT
+<enT0137>Then she waved me over.
+<ptT0137>Then she waved me over.
+
+//TEXT
+<enT0138>A huge pillar stood in front of her. It seemed as if it was supporting the world itself.
+<ptT0138>A huge pillar stood in front of her. It seemed as if it was supporting the world itself.
+
+//TEXT
+<enT0139>Ayana-san pointed to that pillar.
+<ptT0139>Ayana-san pointed to that pillar.
+
+//TEXT 【Yuki】
+<enT0140>"Wh-What... is this?"
+<ptT0140>"Wh-What... is this?"
+
+//TEXT
+<enT0141>The huge pillar was covered in scribbles, though they were carefully drawn, like religious idols.
+<ptT0141>The huge pillar was covered in scribbles, though they were carefully drawn, like religious idols.
+
+//TEXT
+<enT0142>From far away, they blended in with the rest of the pillar.
+<ptT0142>From far away, they blended in with the rest of the pillar.
+
+//TEXT 【Yuki】
+<enT0143>"The whole thing is covered in scribbles?!"
+<ptT0143>"The whole thing is covered in scribbles?!"
+
+//TEXT 【Yuki】
+<enT0144>"Did Mamiya Takuji do this?!"
+<ptT0144>"Did Mamiya Takuji do this?!"
+
+//TEXT 【Ayana】
+<enT0145>"That's right. This is the shape of Mamiya-kun's Nyarlathotep."
+<ptT0145>"That's right. This is the shape of Mamiya-kun's Nyarlathotep."
+
+//TEXT 【Yuki】
+<enT0146>"What? Is that Nyarl-whatever a living thing or something?"
+<ptT0146>"What? Is that Nyarl-whatever a living thing or something?"
+
+//TEXT 【Ayana】
+<enT0147>"Yes, something like that."
+<ptT0147>"Yes, something like that."
+
+//TEXT 【Ayana】
+<enT0148>"The Crawling Chaos."
+<ptT0148>"The Crawling Chaos."
+
+//TEXT 【Yuki】
+<enT0149>"Huh? The crawling..."
+<ptT0149>"Huh? The crawling..."
+
+//TEXT 【Yuki】
+<enT0150>"That thing I saw..."
+<ptT0150>"That thing I saw..."
+
+//TEXT 【Yuki】
+<enT0151>"Was that..."
+<ptT0151>"Was that..."
+
+//TEXT 【Ayana】
+<enT0152>"It's time to go see the End Sky."
+<ptT0152>"It's time to go see the End Sky."
+
+//TEXT 【Yuki】
+<enT0153>"End Sky..."
+<ptT0153>"End Sky..."
+
+//TEXT 【Ayana】
+<enT0154>"Let's go."
+<ptT0154>"Let's go."
+
+//TEXT 【Yuki】
+<enT0155>"Huh?"
+<ptT0155>"Huh?"
+
+//TEXT
+<enT0156>Otonashi-san pointed into the darkness.
+<ptT0156>Otonashi-san pointed into the darkness.
+
+//TEXT
+<enT0157>I'd thought it was pure darkness, but I caught a few vague glimpses of steel within it.
+<ptT0157>I'd thought it was pure darkness, but I caught a few vague glimpses of steel within it.
+
+//TEXT
+<enT0158>It looked like a spider web reaching down into the depths of hell.
+<ptT0158>It looked like a spider web reaching down into the depths of hell.
+
+//TEXT 【Yuki】
+<enT0159>"Is that a ladder?"
+<ptT0159>"Is that a ladder?"
+
+//TEXT 【Yuki】
+<enT0160>"Was this used during construction?"
+<ptT0160>"Was this used during construction?"
+
+//TEXT 【Yuki】
+<enT0161>"Ayana-san, where does this lead?"
+<ptT0161>"Ayana-san, where does this lead?"
+
+//TEXT 【Ayana】
+<enT0162>"Like I said, it leads..."
+<ptT0162>"Like I said, it leads..."
+
+//TEXT 【Ayana】
+<enT0163>"To the End Sky."
+<ptT0163>"To the End Sky."
+
+//TEXT 【Yuki】
+<enT0164>"..."
+<ptT0164>"..."
+
+//TEXT
+<enT0165>......
+<ptT0165>......
+
+//TEXT
+<enT0166>The rungs continued on forever.
+<ptT0166>The rungs continued on forever.
+
+//TEXT
+<enT0167>I was caught up in the illusion that I was wandering through endless darkness.
+<ptT0167>I was caught up in the illusion that I was wandering through endless darkness.
+
+//TEXT 【Yuki】
+<enT0168>"..."
+<ptT0168>"..."
+
+//TEXT 【Yuki】
+<enT0169>"Is that wind?"
+<ptT0169>"Is that wind?"
+
+//TEXT
+<enT0170>I could hear the wind in the distance.
+<ptT0170>I could hear the wind in the distance.
+
+//TEXT
+<enT0171>Far away... Farther, farther...
+<ptT0171>Far away... Farther, farther...
+
+//TEXT
+<enT0172>At the top of the ladder, I could hear the wind.
+<ptT0172>At the top of the ladder, I could hear the wind.
+
+//TEXT 【Yuki】
+<enT0173>"That's kind of..."
+<ptT0173>"That's kind of..."
+
+//TEXT
+<enT0174>The far off sound of the wind slowly came closer.
+<ptT0174>The far off sound of the wind slowly came closer.
+
+//TEXT
+<enT0175>The sound of the wind...
+<ptT0175>The sound of the wind...
+
+//TEXT 【Yuki】
+<enT0176>"Huh?!"
+<ptT0176>"Huh?!"
+
+//TEXT 【Yuki】
+<enT0177>"This is... Building C?"
+<ptT0177>"This is... Building C?"
+
+//TEXT
+<enT0178>The rooftop that students weren't allowed on.
+<ptT0178>The rooftop that students weren't allowed on.
+
+//TEXT
+<enT0179>It was the roof of building C.
+<ptT0179>It was the roof of building C.
+
+//TEXT 【Yuki】
+<enT0180>"Ayana-san."
+<ptT0180>"Ayana-san."
+
+//TEXT 【Ayana】
+<enT0181>"Look. There it is."
+<ptT0181>"Look. There it is."
+
+//TEXT 【Yuki】
+<enT0182>"There?"
+<ptT0182>"There?"
+
+//TEXT
+<enT0183>I looked over to where she'd pointed.
+<ptT0183>I looked over to where she'd pointed.
+
+//TEXT
+<enT0184>Who... are those people?
+<ptT0184>Who... are those people?
+
+//TEXT
+<enT0185>What are they doing over there?
+<ptT0185>What are they doing over there?
+
+//TEXT
+<enT0186>That was...
+<ptT0186>That was...
+
+//TEXT
+<enT0187>The spot Mrs. Senagawa fell from.
+<ptT0187>The spot Mrs. Senagawa fell from.
+
+//TEXT
+<enT0188>Why are those two standing there?
+<ptT0188>Why are those two standing there?
+
+//TEXT
+<enT0189>...No way.
+<ptT0189>...No way.
+
+//TEXT 【Yuki】
+<enT0190>"Wha―?!"
+<ptT0190>"Wha―?!"
+
+//TEXT 【Yuki】
+<enT0191>"What just..."
+<ptT0191>"What just..."
+
+//TEXT 【Yuki】
+<enT0192>"That's a joke, right?"
+<ptT0192>"That's a joke, right?"
+
+//TEXT 【Yuki】
+<enT0193>"That was..."
+<ptT0193>"That was..."
+
+//TEXT 【Yuki】
+<enT0194>"Did another person just die?"
+<ptT0194>"Did another person just die?"
+
+//TEXT 【Yuki】
+<enT0195>"Or was it just a doll?"
+<ptT0195>"Or was it just a doll?"
+
+//TEXT 【Yuki】
+<enT0196>"Was it just my mistake again?"
+<ptT0196>"Was it just my mistake again?"
+
+//TEXT 【Yuki】
+<enT0197>"This is..."
+<ptT0197>"This is..."
+
+//TEXT 【Yuki】
+<enT0198>"This is..."
+<ptT0198>"This is..."
+
+//TEXT 【Yuki】
+<enT0199>"Mamiya Takuji!"
+<ptT0199>"Mamiya Takuji!"
+
+//TEXT 【Takuji】
+<enT0200>"Oh, look. If it isn't Minakami-san. Long time, no see."
+<ptT0200>"Oh, look. If it isn't Minakami-san. Long time, no see."
+
+//TEXT 【Yuki】
+<enT0201>"You..."
+<ptT0201>"You..."
+
+//TEXT 【Takuji】
+<enT0202>"So you were still there. I just saved everyone."
+<ptT0202>"So you were still there. I just saved everyone."
+
+//TEXT 【Yuki】
+<enT0203>"Saved? Is this salvation?"
+<ptT0203>"Saved? Is this salvation?"
+
+//TEXT 【Takuji】
+<enT0204>"That's right."
+<ptT0204>"That's right."
+
+//TEXT 【Yuki】
+<enT0205>"Are you that stupid?"
+<ptT0205>"Are you that stupid?"
+
+//TEXT 【Yuki】
+<enT0206>"Can't you see they just died?"
+<ptT0206>"Can't you see they just died?"
+
+//TEXT 【Takuji】
+<enT0207>"Just died? I see."
+<ptT0207>"Just died? I see."
+
+//TEXT 【Takuji】
+<enT0208>"I see. You might be right."
+<ptT0208>"I see. You might be right."
+
+//TEXT 【Takuji】
+<enT0209>"People wish to become one with something greater, but that's no different from death. That's why they fear becoming one with something greater, just as they fear death."
+<ptT0209>"People wish to become one with something greater, but that's no different from death. That's why they fear becoming one with something greater, just as they fear death."
+
+//TEXT 【Yuki】
+<enT0210>"I don't want to hear this drivel coming out of your crazy head."
+<ptT0210>"I don't want to hear this drivel coming out of your crazy head."
+
+//TEXT 【Takuji】
+<enT0211>"Oh. Then is there something you do want to hear?"
+<ptT0211>"Oh. Then is there something you do want to hear?"
+
+//TEXT 【Yuki】
+<enT0212>"Something I want to hear? Yeah, I've got plenty of questions for you."
+<ptT0212>"Something I want to hear? Yeah, I've got plenty of questions for you."
+
+//TEXT 【Takuji】
+<enT0213>"Plenty, huh? Hmm."
+<ptT0213>"Plenty, huh? Hmm."
+
+//TEXT 【Yuki】
+<enT0214>"You set this all up, didn't you?"
+<ptT0214>"You set this all up, didn't you?"
+
+//TEXT 【Takuji】
+<enT0215>"Set it up, did I?"
+<ptT0215>"Set it up, did I?"
+
+//TEXT 【Yuki】
+<enT0216>"That's right. This whole thing is a farce you devised."
+<ptT0216>"That's right. This whole thing is a farce you devised."
+
+//TEXT 【Takuji】
+<enT0217>"A farce I devised?"
+<ptT0217>"A farce I devised?"
+
+//TEXT 【Takuji】
+<enT0218>"Excuse me, are you talking about my miracles?"
+<ptT0218>"Excuse me, are you talking about my miracles?"
+
+//TEXT 【Yuki】
+<enT0219>"That's right."
+<ptT0219>"That's right."
+
+//TEXT 【Takuji】
+<enT0220>"Oh. That's interesting. So you're saying there's a trick to my miracles?"
+<ptT0220>"Oh. That's interesting. So you're saying there's a trick to my miracles?"
+
+//TEXT 【Yuki】
+<enT0221>"Right. There's no curse and no miracles. And, of course, there's no prophecy that the world's going to end. There's just a bunch of crude tricks."
+<ptT0221>"Right. There's no curse and no miracles. And, of course, there's no prophecy that the world's going to end. There's just a bunch of crude tricks."
+
+//TEXT 【Takuji】
+<enT0222>"Hahahahaha. Crude tricks? So that's what you think. Have you figured them all out?"
+<ptT0222>"Hahahahaha. Crude tricks? So that's what you think. Have you figured them all out?"
+
+//TEXT 【Yuki】
+<enT0223>"Of course."
+<ptT0223>"Of course."
+
+//TEXT 【Takuji】
+<enT0224>"Heheheheh. That's wonderful. I suppose I should've expected that much of you, Minakami-san. Well then, let's hear it. Let's hear about all my tricks."
+<ptT0224>"Heheheheh. That's wonderful. I suppose I should've expected that much of you, Minakami-san. Well then, let's hear it. Let's hear about all my tricks."
+
+//TEXT 【Yuki】
+<enT0225>"So what should we start with?"
+<ptT0225>"So what should we start with?"
+
+//TEXT 【Takuji】
+<enT0226>"From the beginning. How did it start? Can you explain that?"
+<ptT0226>"From the beginning. How did it start? Can you explain that?"
+
+//TEXT 【Yuki】
+<enT0227>"The beginning? Well then, the start of this uproar would be Takashima-san's curse mail, I suppose?"
+<ptT0227>"The beginning? Well then, the start of this uproar would be Takashima-san's curse mail, I suppose?"
+
+//TEXT 【Takuji】
+<enT0228>"Oh, the curse mail. I'd love to hear about that."
+<ptT0228>"Oh, the curse mail. I'd love to hear about that."
+
+//TEXT 【Yuki】
+<enT0229>"They call it Takashima mail. The cursed messages that got sent out to everyone. That was the simplest trick."
+<ptT0229>"They call it Takashima mail. The cursed messages that got sent out to everyone. That was the simplest trick."
+
+//TEXT 【Takuji】
+<enT0230>"The simplest?"
+<ptT0230>"The simplest?"
+
+//TEXT 【Yuki】
+<enT0231>"That's right. It was so obvious. The method was downright primitive."
+<ptT0231>"That's right. It was so obvious. The method was downright primitive."
+
+//TEXT 【Yuki】
+<enT0232>"You either picked up Takashima-san's phone at the site of her suicide, or you stole it."
+<ptT0232>"You either picked up Takashima-san's phone at the site of her suicide, or you stole it."
+
+//TEXT 【Takuji】
+<enT0233>"Heheheheh. I see. That's an obvious trick, isn't it? So then, what's your proof?"
+<ptT0233>"Heheheheh. I see. That's an obvious trick, isn't it? So then, what's your proof?"
+
+//TEXT 【Yuki】
+<enT0234>"I found two sets of fingerprints on her phone. Takashima-san's own fingerprints, and yours."
+<ptT0234>"I found two sets of fingerprints on her phone. Takashima-san's own fingerprints, and yours."
+
+//TEXT 【Takuji】
+<enT0235>"And how did you find those?"
+<ptT0235>"And how did you find those?"
+
+//TEXT 【Yuki】
+<enT0236>"I don't know if it was a prank or what, but someone left her phone in my room. It was you, right?"
+<ptT0236>"I don't know if it was a prank or what, but someone left her phone in my room. It was you, right?"
+
+//TEXT 【Yuki】
+<enT0237>"You were probably trying to scare me, but you left way too much evidence behind. I also got fingerprints from your desk and Takashima-san's desk, and then I compared them."
+<ptT0237>"You were probably trying to scare me, but you left way too much evidence behind. I also got fingerprints from your desk and Takashima-san's desk, and then I compared them."
+
+//TEXT 【Yuki】
+<enT0238>"It was a bingo. I confirmed that the fingerprints on the phone were Takashima Zakuro's and yours."
+<ptT0238>"It was a bingo. I confirmed that the fingerprints on the phone were Takashima Zakuro's and yours."
+
+//TEXT 【Takuji】
+<enT0239>"I see."
+<ptT0239>"I see."
+
+//TEXT 【Yuki】
+<enT0240>"You used her phone and sent out those messages to as many people as you could."
+<ptT0240>"You used her phone and sent out those messages to as many people as you could."
+
+//TEXT 【Yuki】
+<enT0241>"I don't know how you got them, but the addresses you got were from the underground message board's registration list."
+<ptT0241>"I don't know how you got them, but the addresses you got were from the underground message board's registration list."
+
+//TEXT 【Takuji】
+<enT0242>"Heheheheheh. How I got them? So you still don't know that."
+<ptT0242>"Heheheheheh. How I got them? So you still don't know that."
+
+//TEXT 【Yuki】
+<enT0243>"Unfortunately not, but it all lines up."
+<ptT0243>"Unfortunately not, but it all lines up."
+
+//TEXT 【Takuji】
+<enT0244>"It lines up?"
+<ptT0244>"It lines up?"
+
+//TEXT 【Yuki】
+<enT0245>"Well, it's just a hypothesis, so I have no real evidence, but if the police get involved, they'll figure it out right away."
+<ptT0245>"Well, it's just a hypothesis, so I have no real evidence, but if the police get involved, they'll figure it out right away."
+
+//TEXT 【Yuki】
+<enT0246>"The school's underground message board, the SAWAYAKA message board... You must be the administrator."
+<ptT0246>"The school's underground message board, the SAWAYAKA message board... You must be the administrator."
+
+//TEXT 【Takuji】
+<enT0247>"Heheheh."
+<ptT0247>"Heheheh."
+
+//TEXT 【Yuki】
+<enT0248>"And if we assume that, the strange stuff happening in those threads makes sense too."
+<ptT0248>"And if we assume that, the strange stuff happening in those threads makes sense too."
+
+//TEXT 【Takuji】
+<enT0249>"You mean, if I was the administrator, I would have all their registration information?"
+<ptT0249>"You mean, if I was the administrator, I would have all their registration information?"
+
+//TEXT 【Yuki】
+<enT0250>"Yes, that's it."
+<ptT0250>"Yes, that's it."
+
+//TEXT 【Takuji】
+<enT0251>"Heheheh. Correct. You're pretty smart, Minakami-san."
+<ptT0251>"Heheheh. Correct. You're pretty smart, Minakami-san."
+
+//TEXT 【Yuki】
+<enT0252>"You made the bullying she received the main point of the messages, and you used that information to make the people related to the bullying your primary targets."
+<ptT0252>"You made the bullying she received the main point of the messages, and you used that information to make the people related to the bullying your primary targets."
+
+//TEXT 【Yuki】
+<enT0253>"As far as I know, those were Akasaka Megu, Kitami Satoko, and Mrs. Senagawa."
+<ptT0253>"As far as I know, those were Akasaka Megu, Kitami Satoko, and Mrs. Senagawa."
+
+//TEXT 【Yuki】
+<enT0254>"How's that?"
+<ptT0254>"How's that?"
+
+//TEXT 【Takuji】
+<enT0255>"That is also correct, though I'd have to give you only 75%."
+<ptT0255>"That is also correct, though I'd have to give you only 75%."
+
+//TEXT 【Yuki】
+<enT0256>"75%?"
+<ptT0256>"75%?"
+
+//TEXT 【Takuji】
+<enT0257>"Right. The people who felt guilty about her bullying were Akasaka Megu, Kitami Satoko, the teacher who let it happen, Mrs. Senagawa, and then, one you forgot: Zakuro's friend, Tachibana Kimika."
+<ptT0257>"Right. The people who felt guilty about her bullying were Akasaka Megu, Kitami Satoko, the teacher who let it happen, Mrs. Senagawa, and then, one you forgot: Zakuro's friend, Tachibana Kimika."
+
+//TEXT 【Yuki】
+<enT0258>"Tachibana Kimika?"
+<ptT0258>"Tachibana Kimika?"
+
+//TEXT 【Yuki】
+<enT0259>"Isn't she one of your followers?"
+<ptT0259>"Isn't she one of your followers?"
+
+//TEXT 【Takuji】
+<enT0260>"Yes, now she is. She was the most useful follower I had."
+<ptT0260>"Yes, now she is. She was the most useful follower I had."
+
+//TEXT 【Takuji】
+<enT0261>"But at first, she felt guilty about bullying Takashima Zakuro too."
+<ptT0261>"But at first, she felt guilty about bullying Takashima Zakuro too."
+
+//TEXT 【Takuji】
+<enT0262>"But putting that aside, I'd like you to tell me. How did I corner Akasaka, Kitami, and Senagawa?"
+<ptT0262>"But putting that aside, I'd like you to tell me. How did I corner Akasaka, Kitami, and Senagawa?"
+
+//TEXT 【Yuki】
+<enT0263>"They were posting all about it on the message board. They got messages from Takashima-san that no one else got."
+<ptT0263>"They were posting all about it on the message board. They got messages from Takashima-san that no one else got."
+
+//TEXT 【Yuki】
+<enT0264>"Messages from the dead every hour. You used those to put them under extreme stress and stop them from thinking clearly."
+<ptT0264>"Messages from the dead every hour. You used those to put them under extreme stress and stop them from thinking clearly."
+
+//TEXT 【Yuki】
+<enT0265>"The most elementary of all elementary social psychology techniques."
+<ptT0265>"The most elementary of all elementary social psychology techniques."
+
+//TEXT 【Takuji】
+<enT0266>"Techniques? What do you mean?"
+<ptT0266>"Techniques? What do you mean?"
+
+//TEXT 【Yuki】
+<enT0267>"Mind control. It's what emergent religions do to gain followers, and it's what multi-level marketers do to find victims."
+<ptT0267>"Mind control. It's what emergent religions do to gain followers, and it's what multi-level marketers do to find victims."
+
+//TEXT 【Takuji】
+<enT0268>"What for?"
+<ptT0268>"What for?"
+
+//TEXT 【Yuki】
+<enT0269>"A lone prophet is just a nutcase, but if even one other person believes them, if they find even one follower, then it becomes a religion."
+<ptT0269>"A lone prophet is just a nutcase, but if even one other person believes them, if they find even one follower, then it becomes a religion."
+
+//TEXT 【Yuki】
+<enT0270>"In order for you to become the savior, you needed to have at least one follower."
+<ptT0270>"In order for you to become the savior, you needed to have at least one follower."
+
+//TEXT 【Yuki】
+<enT0271>"From looking at the message board, it seems like the first two to believe you were Akasaka Megu and Kitami Satoko. After you secured those two, your followers swelled."
+<ptT0271>"From looking at the message board, it seems like the first two to believe you were Akasaka Megu and Kitami Satoko. After you secured those two, your followers swelled."
+
+//TEXT 【Takuji】
+<enT0272>"Heheheheh. Could you be more specific?"
+<ptT0272>"Heheheheh. Could you be more specific?"
+
+//TEXT 【Yuki】
+<enT0273>"The endless messages from the dead chased them into a corner. It made them ask for salvation."
+<ptT0273>"The endless messages from the dead chased them into a corner. It made them ask for salvation."
+
+//TEXT 【Yuki】
+<enT0274>"If there was someone who could save them from that hell, that person would be able to call himself the savior."
+<ptT0274>"If there was someone who could save them from that hell, that person would be able to call himself the savior."
+
+//TEXT 【Yuki】
+<enT0275>"And by doing it on the message board where other people could see, the effect was multiplied."
+<ptT0275>"And by doing it on the message board where other people could see, the effect was multiplied."
+
+//TEXT 【Yuki】
+<enT0276>"So in order to raise their stress as high as possible, you told them to go to the place they most feared, the place where Takashima Zakuro committed suicide."
+<ptT0276>"So in order to raise their stress as high as possible, you told them to go to the place they most feared, the place where Takashima Zakuro committed suicide."
+
+//TEXT 【Takuji】
+<enT0277>"Their stress?"
+<ptT0277>"Their stress?"
+
+//TEXT 【Yuki】
+<enT0278>"Right, you told them to go to the site of her suicide in the middle of the night. What they found there was a lock of Takashima Zakuro's hair with part of her scalp still attached."
+<ptT0278>"Right, you told them to go to the site of her suicide in the middle of the night. What they found there was a lock of Takashima Zakuro's hair with part of her scalp still attached."
+
+//TEXT 【Yuki】
+<enT0279>"You probably got that at the same time you picked up her phone."
+<ptT0279>"You probably got that at the same time you picked up her phone."
+
+//TEXT 【Yuki】
+<enT0280>"And you gave them the impression that they had dispelled the curse by having them burn the hair."
+<ptT0280>"And you gave them the impression that they had dispelled the curse by having them burn the hair."
+
+//TEXT 【Yuki】
+<enT0281>"And you told them all about your beliefs while they were completely exhausted, both in mind and spirit."
+<ptT0281>"And you told them all about your beliefs while they were completely exhausted, both in mind and spirit."
+
+//TEXT 【Yuki】
+<enT0282>"You crushed their spirits with fear, and then filled them up with new information. It's the most elementary of elementary mind control techniques."
+<ptT0282>"You crushed their spirits with fear, and then filled them up with new information. It's the most elementary of elementary mind control techniques."
+
+//TEXT 【Yuki】
+<enT0283>"The same thing a predatory marketer does."
+<ptT0283>"The same thing a predatory marketer does."
+
+//TEXT 【Yuki】
+<enT0284>"You made followers of the weak, and increased the anxiety of the rest."
+<ptT0284>"You made followers of the weak, and increased the anxiety of the rest."
+
+//TEXT 【Mamiya】
+<enT0285>"Heheheh. How wonderful. You really are amazing, Minakami-san."
+<ptT0285>"Heheheh. How wonderful. You really are amazing, Minakami-san."
+
+//TEXT 【Mamiya】
+<enT0286>"Then what about Senagawa Yui?"
+<ptT0286>"Then what about Senagawa Yui?"
+
+//TEXT 【Yuki】
+<enT0287>"You managed to get her cell phone, although I stole it from Ms. Kiyokawa."
+<ptT0287>"You managed to get her cell phone, although I stole it from Ms. Kiyokawa."
+
+//TEXT 【Mamiya】
+<enT0288>"Yes, that's right. So then what did you learn from that?"
+<ptT0288>"Yes, that's right. So then what did you learn from that?"
+
+//TEXT 【Yuki】
+<enT0289>"Almost all of the information had been deleted. The messages and everything."
+<ptT0289>"Almost all of the information had been deleted. The messages and everything."
+
+//TEXT 【Mamiya】
+<enT0290>"So then, what did you find out?"
+<ptT0290>"So then, what did you find out?"
+
+//TEXT 【Yuki】
+<enT0291>"Everything."
+<ptT0291>"Everything."
+
+//TEXT 【Mamiya】
+<enT0292>"Everything?"
+<ptT0292>"Everything?"
+
+//TEXT 【Yuki】
+<enT0293>"Yes, with that brand of phone, I could retrieve all the deleted messages."
+<ptT0293>"Yes, with that brand of phone, I could retrieve all the deleted messages."
+
+//TEXT 【Yuki】
+<enT0294>"Messages came every hour. And there was nothing to them. They were just trying to scare her. And they suddenly started leading her in a specific direction on the 15th."
+<ptT0294>"Messages came every hour. And there was nothing to them. They were just trying to scare her. And they suddenly started leading her in a specific direction on the 15th."
+
+//TEXT 【Yuki】
+<enT0295>"They started working to get her on the Building C rooftop."
+<ptT0295>"They started working to get her on the Building C rooftop."
+
+//TEXT 【Yuki】
+<enT0296>"And that made me remember how the 15th was the day when you made a strange prediction."
+<ptT0296>"And that made me remember how the 15th was the day when you made a strange prediction."
+
+//TEXT 【Yuki】
+<enT0297>"Something about another death proving you correct."
+<ptT0297>"Something about another death proving you correct."
+
+//TEXT 【Takuji】
+<enT0298>"I did make a prediction like that."
+<ptT0298>"I did make a prediction like that."
+
+//TEXT 【Yuki】
+<enT0299>"And that's why..."
+<ptT0299>"And that's why..."
+
+//TEXT 【Yuki】
+<enT0300>"The messages started mentioning the doll Takashima-san lost on Building C."
+<ptT0300>"The messages started mentioning the doll Takashima-san lost on Building C."
+
+//TEXT 【Yuki】
+<enT0301>"She went looking for it."
+<ptT0301>"She went looking for it."
+
+//TEXT 【Yuki】
+<enT0302>"After all, if she couldn't find it, Takashima Zakuro would take her instead."
+<ptT0302>"After all, if she couldn't find it, Takashima Zakuro would take her instead."
+
+//TEXT 【Yuki】
+<enT0303>"And the times she received the messages..."
+<ptT0303>"And the times she received the messages..."
+
+//TEXT 【Yuki】
+<enT0304>"Interestingly enough, all the messages were sent an hour apart."
+<ptT0304>"Interestingly enough, all the messages were sent an hour apart."
+
+//TEXT 【Yuki】
+<enT0305>"12:01 a.m., 01:01 a.m., 02:01 a.m."
+<ptT0305>"12:01 a.m., 01:01 a.m., 02:01 a.m."
+
+//TEXT 【Yuki】
+<enT0306>"But the timing of the very last message was completely different."
+<ptT0306>"But the timing of the very last message was completely different."
+
+//TEXT 【Yuki】
+<enT0307>"Because that message was right before she fell, at a time that didn't obey the schedule up until then."
+<ptT0307>"Because that message was right before she fell, at a time that didn't obey the schedule up until then."
+
+//TEXT 【Yuki】
+<enT0308>"The answer is simple."
+<ptT0308>"The answer is simple."
+
+//TEXT 【Yuki】
+<enT0309>"You placed the doll she lost on the Building C rooftop in a very dangerous place."
+<ptT0309>"You placed the doll she lost on the Building C rooftop in a very dangerous place."
+
+//TEXT 【Yuki】
+<enT0310>"Normally, someone would use a tool to get it, but at that time, Mrs. Senagawa wasn't thinking clearly."
+<ptT0310>"Normally, someone would use a tool to get it, but at that time, Mrs. Senagawa wasn't thinking clearly."
+
+//TEXT 【Yuki】
+<enT0311>"She climbed over the fence, got down on the eaves, and then she stretched out her hand."
+<ptT0311>"She climbed over the fence, got down on the eaves, and then she stretched out her hand."
+
+//TEXT 【Yuki】
+<enT0312>"And just when she was least stable, her phone rang."
+<ptT0312>"And just when she was least stable, her phone rang."
+
+//TEXT 【Yuki】
+<enT0313>"What was written there was..."
+<ptT0313>"What was written there was..."
+
+//TEXT
+<enT0314>―――――――――――――――――――――――――――\n
+<ptT0314>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0315>2012/7/16 1:28\n
+<ptT0315>2012/7/16 1:28\n
+
+//TEXT
+<enT0316>from: Takashima Zakuro\n
+<ptT0316>from: Takashima Zakuro\n
+
+//TEXT
+<enT0317>subject: no subject\n
+<ptT0317>subject: no subject\n
+
+//TEXT
+<enT0318>―――――――――――――――――――――――――――\n
+<ptT0318>―――――――――――――――――――――――――――\n
+
+//TEXT
+<enT0319>behind you\n
+<ptT0319>behind you\n
+
+//TEXT
+<enT0320>\n
+<ptT0320>\n
+
+//TEXT
+<enT0321>\n
+<ptT0321>\n
+
+//TEXT
+<enT0322>\n
+<ptT0322>\n
+
+//TEXT
+<enT0323>\n
+<ptT0323>\n
+
+//TEXT
+<enT0324>\n
+<ptT0324>\n
+
+//TEXT
+<enT0325>\n
+<ptT0325>\n
+
+//TEXT
+<enT0326>\ni got you
+<ptT0326>\ni got you
+
+//TEXT
+<enT0327>And Mrs. Senagawa's hand slipped.
+<ptT0327>And Mrs. Senagawa's hand slipped.
+
+//TEXT 【Takuji】
+<enT0328>"Heheheh. What a wonderful deduction, Minakami-san. You're almost totally correct."
+<ptT0328>"Heheheh. What a wonderful deduction, Minakami-san. You're almost totally correct."
+
+//TEXT 【Yuki】
+<enT0329>"Yeah, I've finally been able to put together the big picture. This whole farce was your doing."
+<ptT0329>"Yeah, I've finally been able to put together the big picture. This whole farce was your doing."
+
+//TEXT 【Yuki】
+<enT0330>"It wasn't a supernatural phenomenon or God or a ghost or anything like that. Just a single person. You came up with the whole thing."
+<ptT0330>"It wasn't a supernatural phenomenon or God or a ghost or anything like that. Just a single person. You came up with the whole thing."
+
+//TEXT 【Yuki】
+<enT0331>"You broke into my room and left Takashima-san's phone. And Kagami and Tsukasa..."
+<ptT0331>"You broke into my room and left Takashima-san's phone. And Kagami and Tsukasa..."
+
+//TEXT 【Yuki】
+<enT0332>"What about them?"
+<ptT0332>"What about them?"
+
+//TEXT 【Yuki】
+<enT0333>"How did they..."
+<ptT0333>"How did they..."
+
+//TEXT 【Yuki】
+<enT0334>"They... They..."
+<ptT0334>"They... They..."
+
+//TEXT 【Yuki】
+<enT0335>"Just what did you do to me?!"
+<ptT0335>"Just what did you do to me?!"
+
+//TEXT 【Yuki】
+<enT0336>"Tell me that!"
+<ptT0336>"Tell me that!"
+
+//TEXT 【Takuji】
+<enT0337>"..."
+<ptT0337>"..."
+
+//TEXT 【Takuji】
+<enT0338>"I haven't done anything to you."
+<ptT0338>"I haven't done anything to you."
+
+//TEXT 【Yuki】
+<enT0339>"Th-That can't be true."
+<ptT0339>"Th-That can't be true."
+
+//TEXT 【Takuji】
+<enT0340>"Sorry to say, but I haven't done a single thing to you."
+<ptT0340>"Sorry to say, but I haven't done a single thing to you."
+
+//TEXT 【Yuki】
+<enT0341>"That's a lie! That can't be true! You did something to me!"
+<ptT0341>"That's a lie! That can't be true! You did something to me!"
+
+//TEXT 【Takuji】
+<enT0342>"I didn't. I can't do anything to you."
+<ptT0342>"I didn't. I can't do anything to you."
+
+//TEXT 【Yuki】
+<enT0343>"Then what was that I saw?! What is all this?!"
+<ptT0343>"Then what was that I saw?! What is all this?!"
+
+//TEXT 【Takuji】
+<enT0344>"Oh, it's time."
+<ptT0344>"Oh, it's time."
+
+//TEXT 【Takuji】
+<enT0345>"It looks like you want to stay in this moment forever."
+<ptT0345>"It looks like you want to stay in this moment forever."
+
+//TEXT 【Takuji】
+<enT0346>"I'll go on ahead."
+<ptT0346>"I'll go on ahead."
+
+//TEXT 【Yuki】
+<enT0347>"W-Wait! Mamiya!"
+<ptT0347>"W-Wait! Mamiya!"
+
+//TEXT 【Takuji】
+<enT0348>"Though I did love you."
+<ptT0348>"Though I did love you."
+
+//TEXT 【Yuki】
+<enT0349>"?!"
+<ptT0349>"?!"
+
+//TEXT 【Yuki】
+<enT0350>"Huh?!"
+<ptT0350>"Huh?!"
+
+//TEXT 【Yuki】
+<enT0351>"What's that?"
+<ptT0351>"What's that?"
+
+//TEXT 【Yuki】
+<enT0352>"The End... Sky."
+<ptT0352>"The End... Sky."
+
+//TEXT 【Yuki】
+<enT0353>"Ah..."
+<ptT0353>"Ah..."
+
+//TEXT 【Yuki】
+<enT0354>"Mamiya is gone."
+<ptT0354>"Mamiya is gone."
+
+//TEXT 【Yuki】
+<enT0355>"Just now, I..."
+<ptT0355>"Just now, I..."
+
+//TEXT 【Yuki】
+<enT0356>"..."
+<ptT0356>"..."
+
+//TEXT 【Yuki】
+<enT0357>"Ayana-san, I..."
+<ptT0357>"Ayana-san, I..."
+
+//TEXT 【Ayana】
+<enT0358>"Ｈｅｈｅｈｅ."
+<ptT0358>"Ｈｅｈｅｈｅ."
+
+//TEXT 【Yuki】
+<enT0359>"What... was that?"
+<ptT0359>"What... was that?"
+
+//TEXT 【Ayana】
+<enT0360>"It's nothing. Mamiya-kun just jumped off."
+<ptT0360>"It's nothing. Mamiya-kun just jumped off."
+
+//TEXT 【Yuki】
+<enT0361>"What?"
+<ptT0361>"What?"
+
+//TEXT 【Ayana】
+<enT0362>"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF."
+<ptT0362>"IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF."
+
+//TEXT
+<enT0363>But I saw something. Did that kill everyone?
+<ptT0363>But I saw something. Did that kill everyone?
+
+//TEXT
+<enT0364>IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.
+<ptT0364>IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.
+
+//TEXT
+<enT0365>No, I didn't do anything. Just...
+<ptT0365>No, I didn't do anything. Just...
+
+//TEXT
+<enT0366>IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.
+<ptT0366>IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.
+
+//TEXT
+<enT0367>Just... what?
+<ptT0367>Just... what?
+
+//TEXT
+<enT0368>IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.
+<ptT0368>IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.
+
+//TEXT
+<enT0369>　\n\n
+<ptT0369>　\n\n
+
+//TEXT
+<enT0370> 　　　　　　 "IT'S NOTHING. MAMI\n
+<ptT0370> 　　　　　　 "IT'S NOTHING. MAMI\n
+
+//TEXT
+<enT0371> 　　　　　　  YA-KUN JUST JUMPED \n
+<ptT0371> 　　　　　　  YA-KUN JUST JUMPED \n
+
+//TEXT
+<enT0372> 　　　　　　 OFF.""It neither [is]\n
+<ptT0372> 　　　　　　 OFF.""It neither [is]\n
+
+//TEXT
+<enT0373> 　 is a person nor [isn't] a person.""IT'S\n
+<ptT0373> 　 is a person nor [isn't] a person.""IT'S\n
+
+//TEXT
+<enT0374> 　   NOTHING. MAMIYA-KUN JUST JUMPED OFF."\n
+<ptT0374> 　   NOTHING. MAMIYA-KUN JUST JUMPED OFF."\n
+
+//TEXT
+<enT0375> 　  "It neither [is] Ayana nor [isn't] Ay\n
+<ptT0375> 　  "It neither [is] Ayana nor [isn't] Ay\n
+
+//TEXT
+<enT0376> 　　　　　　 ana.""IT'S NOTHING. \n
+<ptT0376> 　　　　　　 ana.""IT'S NOTHING. \n
+
+//TEXT
+<enT0377> 　　　　　　 MAMIYA-KUN JUST JUM\n
+<ptT0377> 　　　　　　 MAMIYA-KUN JUST JUM\n
+
+//TEXT
+<enT0378> 　　　　　　 PED OFF.""It neither
+<ptT0378> 　　　　　　 PED OFF.""It neither
+
+//TEXT
+<enT0379>
+<ptT0379>
+
+//TEXT
+<enT0380> \n\n
+<ptT0380> \n\n
+
+//TEXT
+<enT0381>　　　　　　  [is] Yukito nor [isn't]\n
+<ptT0381>　　　　　　  [is] Yukito nor [isn't]\n
+
+//TEXT
+<enT0382>　　　　　  Yukito.""IT'S NOTHING.\n
+<ptT0382>　　　　　  Yukito.""IT'S NOTHING.\n
+
+//TEXT
+<enT0383>　　　　　  MAMIYA-KUN JUST JUMPED\n
+<ptT0383>　　　　　  MAMIYA-KUN JUST JUMPED\n
+
+//TEXT
+<enT0384>　　  OFF.""It neither [is] Kotomi nor [is\n
+<ptT0384>　　  OFF.""It neither [is] Kotomi nor [is\n
+
+//TEXT
+<enT0385>　　  n't] Kotomi.""IT'S NOTHING. MAMIYA-K\n
+<ptT0385>　　  n't] Kotomi.""IT'S NOTHING. MAMIYA-K\n
+
+//TEXT
+<enT0386>　　  UN JUST JUMPED OFF.""It neither [is]\n
+<ptT0386>　　  UN JUST JUMPED OFF.""It neither [is]\n
+
+//TEXT
+<enT0387>　　　　　  a student nor [isn't] a\n
+<ptT0387>　　　　　  a student nor [isn't] a\n
+
+//TEXT
+<enT0388>　　　　　  student.""IT'S NOTHING.\n
+<ptT0388>　　　　　  student.""IT'S NOTHING.\n
+
+//TEXT
+<enT0389>　　　　　  MAMIYA-KUN JUST JUMPED 
+<ptT0389>　　　　　  MAMIYA-KUN JUST JUMPED 
+
+//TEXT
+<enT0390>
+<ptT0390>
+
+//TEXT
+<enT0391> \n\n
+<ptT0391> \n\n
+
+//TEXT
+<enT0392>　　　　　　　 OFF.""It neither [is]\n
+<ptT0392>　　　　　　　 OFF.""It neither [is]\n
+
+//TEXT
+<enT0393>　　　　　　 a school nor [isn't] a\n
+<ptT0393>　　　　　　 a school nor [isn't] a\n
+
+//TEXT
+<enT0394>　　　　　　 school.""IT'S NOTHING.\n
+<ptT0394>　　　　　　 school.""IT'S NOTHING.\n
+
+//TEXT
+<enT0395>　　 MAMIYA-KUN JUST JUMPED OFF.""It neithe\n
+<ptT0395>　　 MAMIYA-KUN JUST JUMPED OFF.""It neithe\n
+
+//TEXT
+<enT0396>　　 r [is] barefoot nor [isn't] barefoot."\n
+<ptT0396>　　 r [is] barefoot nor [isn't] barefoot."\n
+
+//TEXT
+<enT0397>　　 "IT'S NOTHING. MAMIYA-KUN JUST JUMPED \n
+<ptT0397>　　 "IT'S NOTHING. MAMIYA-KUN JUST JUMPED \n
+
+//TEXT
+<enT0398>　　　　　　 OFF.""It neither [is] \n
+<ptT0398>　　　　　　 OFF.""It neither [is] \n
+
+//TEXT
+<enT0399>　　　　　　 homework nor [isn't] h\n
+<ptT0399>　　　　　　 homework nor [isn't] h\n
+
+//TEXT
+<enT0400>　　　　　　 omework.""IT'S NOTHING.\n
+<ptT0400>　　　　　　 omework.""IT'S NOTHING.\n
+
+//TEXT
+<enT0401>　　　　　　  WATANABE-KUN JUST JU
+<ptT0401>　　　　　　  WATANABE-KUN JUST JU
+
+//TEXT
+<enT0402>
+<ptT0402>
+
+//TEXT
+<enT0403> \n\n
+<ptT0403> \n\n
+
+//TEXT
+<enT0404>  　　　　　      MPED OFF.""It ne\n
+<ptT0404>  　　　　　      MPED OFF.""It ne\n
+
+//TEXT
+<enT0405>　　　　          ither [is] sex n\n
+<ptT0405>　　　　          ither [is] sex n\n
+
+//TEXT
+<enT0406>　　　　        or [i      sn't]\n
+<ptT0406>　　　　        or [i      sn't]\n
+
+//TEXT
+<enT0407>　　       sex.""IT'S      NOTHING. MA\n
+<ptT0407>　　       sex.""IT'S      NOTHING. MA\n
+
+//TEXT
+<enT0408>　　       MIYA-KUN J      UST JUMPED \n
+<ptT0408>　　       MIYA-KUN J      UST JUMPED \n
+
+//TEXT
+<enT0409>　　       OFF.""It n      either [is]\n
+<ptT0409>　　       OFF.""It n      either [is]\n
+
+//TEXT
+<enT0410>　　　　        Kero       -Q no\n
+<ptT0410>　　　　        Kero       -Q no\n
+
+//TEXT
+<enT0411>　　　　        r [isn't] Kero-Q\n
+<ptT0411>　　　　        r [isn't] Kero-Q\n
+
+//TEXT
+<enT0412>　　　　        .""IT'S NOTHING.
+<ptT0412>　　　　        .""IT'S NOTHING.
+
+//TEXT
+<enT0413>
+<ptT0413>
+
+//TEXT
+<enT0414> \n\n
+<ptT0414> \n\n
+
+//TEXT
+<enT0415>　　　　　  MAMIYA-KUN JUST JUMPED OFF\n
+<ptT0415>　　　　　  MAMIYA-KUN JUST JUMPED OFF\n
+
+//TEXT
+<enT0416>　　　　  .""It neither [is] scenery\n
+<ptT0416>　　　　  .""It neither [is] scenery\n
+
+//TEXT
+<enT0417>　　　　  nor [isn't] scenery.""IT'S\n
+<ptT0417>　　　　  nor [isn't] scenery.""IT'S\n
+
+//TEXT
+<enT0418>　　　    NOTHING. MAMIYA-KUN J\n
+<ptT0418>　　　    NOTHING. MAMIYA-KUN J\n
+
+//TEXT
+<enT0419>　　  UST JUMPED OFF.""It neither [is] a lov\n
+<ptT0419>　　  UST JUMPED OFF.""It neither [is] a lov\n
+
+//TEXT
+<enT0420>　　  er nor [isn't] a lover.""IT'S NOTH\n
+<ptT0420>　　  er nor [isn't] a lover.""IT'S NOTH\n
+
+//TEXT
+<enT0421>　　  ING. MAMIYA-KUN JUST JUMPED OF\n
+<ptT0421>　　  ING. MAMIYA-KUN JUST JUMPED OF\n
+
+//TEXT
+<enT0422>　　  F.""It neither [is] surviv\n
+<ptT0422>　　  F.""It neither [is] surviv\n
+
+//TEXT
+<enT0423>　　  al nor [isn't] survival."
+<ptT0423>　　  al nor [isn't] survival."
+
+//TEXT
+<enT0424>
+<ptT0424>
+
+//TEXT
+<enT0425>"IT'S NOTHING. MAMIYA-KUN JUST
+<ptT0425>"IT'S NOTHING. MAMIYA-KUN JUST
+
+//TEXT
+<enT0426> JUMPED OFF.""It neither [
+<ptT0426> JUMPED OFF.""It neither [
+
+//TEXT
+<enT0427>is] form nor [isn't]
+<ptT0427>is] form nor [isn't]
+
+//TEXT
+<enT0428>form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0428>form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0429>ST JUMPED OFF.""It neither [is] God
+<ptT0429>ST JUMPED OFF.""It neither [is] God
+
+//TEXT
+<enT0430>nor [isn't] God.""IT'S NOTHING. MA
+<ptT0430>nor [isn't] God.""IT'S NOTHING. MA
+
+//TEXT
+<enT0431>MIYA-KUN JUST JUMPED OFF.""It neither [is] a world n
+<ptT0431>MIYA-KUN JUST JUMPED OFF.""It neither [is] a world n
+
+//TEXT
+<enT0432>or [isn't] a world.""IT'S NOTHING.
+<ptT0432>or [isn't] a world.""IT'S NOTHING.
+
+//TEXT
+<enT0433>MAMIYA-KUN JU
+<ptT0433>MAMIYA-KUN JU
+
+//TEXT
+<enT0434>ST JUMPED OFF.""It neither [
+<ptT0434>ST JUMPED OFF.""It neither [
+
+//TEXT
+<enT0435>is] form nor [isn't]
+<ptT0435>is] form nor [isn't]
+
+//TEXT
+<enT0436>form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0436>form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0437>ST JUMPED OFF.""It neither [is] God 
+<ptT0437>ST JUMPED OFF.""It neither [is] God 
+
+//TEXT
+<enT0438> nor [isn't] God.""It's nothing. ju
+<ptT0438> nor [isn't] God.""It's nothing. ju
+
+//TEXT
+<enT0439>mped off""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+<ptT0439>mped off""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+
+//TEXT
+<enT0440>MIYA-KUN JUST JUMPED OFF.""It neither [is]
+<ptT0440>MIYA-KUN JUST JUMPED OFF.""It neither [is]
+
+//TEXT
+<enT0441>nor is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a
+<ptT0441>nor is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a
+
+//TEXT
+<enT0442>world nor [isn't] a world.""IT'S NOTHING. J
+<ptT0442>world nor [isn't] a world.""IT'S NOTHING. J
+
+//TEXT
+<enT0443>UST It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+<ptT0443>UST It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+
+//TEXT
+<enT0444>MAMIYA-KUN JU
+<ptT0444>MAMIYA-KUN JU
+
+//TEXT
+<enT0445>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0445>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0446>ST JUMPED OFF.""It neither [
+<ptT0446>ST JUMPED OFF.""It neither [
+
+//TEXT
+<enT0447>God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN
+<ptT0447>God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN
+
+//TEXT
+<enT0448> JUST JUMPED OFF [is]
+<ptT0448> JUST JUMPED OFF [is]
+
+//TEXT
+<enT0449>form nor [isn't] form.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor
+<ptT0449>form nor [isn't] form.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor
+
+//TEXT
+<enT0450>[isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0450>[isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0451>ST JUMPED OFF nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0451>ST JUMPED OFF nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0452>ST JUMPED OFF.""It [is] God 
+<ptT0452>ST JUMPED OFF.""It [is] God 
+
+//TEXT
+<enT0453>or MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God 
+<ptT0453>or MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God 
+
+//TEXT
+<enT0454>nor [isn't] God.""It's nothing. off, 
+<ptT0454>nor [isn't] God.""It's nothing. off, 
+
+//TEXT
+<enT0455>that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+<ptT0455>that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+
+//TEXT
+<enT0456>MIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+<ptT0456>MIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+
+//TEXT
+<enT0457> is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+<ptT0457> is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+
+//TEXT
+<enT0458>nor [isn't] a world.""IT'S NOTHING. JUST
+<ptT0458>nor [isn't] a world.""IT'S NOTHING. JUST
+
+//TEXT
+<enT0459>It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+<ptT0459>It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+
+//TEXT
+<enT0460>MAMIYA-KUN JU
+<ptT0460>MAMIYA-KUN JU
+
+//TEXT
+<enT0461>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0461>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0462>ST JUMPED OFF.""It neither
+<ptT0462>ST JUMPED OFF.""It neither
+
+//TEXT
+<enT0463>[God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN JUST JUMPED OFF
+<ptT0463>[God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN JUST JUMPED OFF
+
+//TEXT
+<enT0464>[is] form nor
+<ptT0464>[is] form nor
+
+//TEXT
+<enT0465>[isn't] form.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't]
+<ptT0465>[isn't] form.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't]
+
+//TEXT
+<enT0466> form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0466> form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0467>ST JUMPED OFF nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0467>ST JUMPED OFF nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0468>ST JUMPED OFF.""It [is] God or
+<ptT0468>ST JUMPED OFF.""It [is] God or
+
+//TEXT
+<enT0469>MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor
+<ptT0469>MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor
+
+//TEXT
+<enT0470> [isn't] God.""It's nothing. off,
+<ptT0470> [isn't] God.""It's nothing. off,
+
+//TEXT
+<enT0471> that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+<ptT0471> that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+
+//TEXT
+<enT0472>MIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+<ptT0472>MIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+
+//TEXT
+<enT0473>is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+<ptT0473>is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+
+//TEXT
+<enT0474>nor [isn't] a world.""IT'S NOTHING. JUST
+<ptT0474>nor [isn't] a world.""IT'S NOTHING. JUST
+
+//TEXT
+<enT0475>It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+<ptT0475>It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+
+//TEXT
+<enT0476>MAMIYA-KUN JU
+<ptT0476>MAMIYA-KUN JU
+
+//TEXT
+<enT0477>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0477>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0478>ST JUMPED OFF.""It neither
+<ptT0478>ST JUMPED OFF.""It neither
+
+//TEXT
+<enT0479>[God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN JUST JUMPED OFF
+<ptT0479>[God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN JUST JUMPED OFF
+
+//TEXT
+<enT0480>[is] form nor [isn't] form."
+<ptT0480>[is] form nor [isn't] form."
+
+//TEXT
+<enT0481>"It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor
+<ptT0481>"It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor
+
+//TEXT
+<enT0482> [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF
+<ptT0482> [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF
+
+//TEXT
+<enT0483>nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0483>nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0484>ST JUMPED OFF.""It [is] God or
+<ptT0484>ST JUMPED OFF.""It [is] God or
+
+//TEXT
+<enT0485>MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor
+<ptT0485>MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor
+
+//TEXT
+<enT0486> [isn't] God.""It's nothing. off,
+<ptT0486> [isn't] God.""It's nothing. off,
+
+//TEXT
+<enT0487>that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+<ptT0487>that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+
+//TEXT
+<enT0488>MIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+<ptT0488>MIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+
+//TEXT
+<enT0489>is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor
+<ptT0489>is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor
+
+//TEXT
+<enT0490> [isn't] a world.""IT'S NOTHING. JUST
+<ptT0490> [isn't] a world.""IT'S NOTHING. JUST
+
+//TEXT
+<enT0491>It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+<ptT0491>It neither""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING.
+
+//TEXT
+<enT0492>MAMIYA-KUN JU
+<ptT0492>MAMIYA-KUN JU
+
+//TEXT
+<enT0493>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0493>ST JUJUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0494>ST JUMPED OFF.""It neither 
+<ptT0494>ST JUMPED OFF.""It neither 
+
+//TEXT
+<enT0495>[God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN JUST JUMPED OFF [is] form
+<ptT0495>[God[isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""MAMIYA-KUN JUST JUMPED OFF [is] form
+
+//TEXT
+<enT0496>nor [isn't] form."
+<ptT0496>nor [isn't] form."
+
+//TEXT
+<enT0497>"It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF
+<ptT0497>"It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF
+
+//TEXT
+<enT0498>nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+<ptT0498>nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JU
+
+//TEXT
+<enT0499>ST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [is] God or
+<ptT0499>ST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [is] God or
+
+//TEXT
+<enT0500> MAMIYA-KUN JUST JUMPED OFF."
+<ptT0500> MAMIYA-KUN JUST JUMPED OFF."
+
+//TEXT
+<enT0501>"It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God 
+<ptT0501>"It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God 
+
+//TEXT
+<enT0502>nor [isn't] God.""It's nothing. off,
+<ptT0502>nor [isn't] God.""It's nothing. off,
+
+//TEXT
+<enT0503>that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+<ptT0503>that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MA
+
+//TEXT
+<enT0504>MIYA-KUN JUST JUMPED OFF.""[is] a world
+<ptT0504>MIYA-KUN JUST JUMPED OFF.""[is] a world
+
+//TEXT
+<enT0505>JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+<ptT0505>JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+
+//TEXT
+<enT0506> nor [isn't] a world."
+<ptT0506> nor [isn't] a world."
+
+//TEXT
+<enT0507>is] nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [isn't]
+<ptT0507>is] nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [isn't]
+
+//TEXT
+<enT0508> a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [is] a world
+<ptT0508> a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [is] a world
+
+//TEXT
+<enT0509>JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+<ptT0509>JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+
+//TEXT
+<enT0510>nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a world
+<ptT0510>nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a world
+
+//TEXT
+<enT0511>MIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+<ptT0511>MIYA-KUN JUST JUMPED OFF.""It neither [is] a world nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+
+//TEXT
+<enT0512>nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a worlding.
+<ptT0512>nor [isn't] a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a worlding.
+
+//TEXT
+<enT0513>Mamiya-kun just jumped off, that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a world
+<ptT0513>Mamiya-kun just jumped off, that's all.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a world
+
+//TEXT
+<enT0514> JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+<ptT0514> JUMPED OFF.""It neither [is] form nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] nor
+
+//TEXT
+<enT0515>is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [isn't]
+<ptT0515>is] a world nor [isn't] form.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [isn't]
+
+//TEXT
+<enT0516>a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [is] a world
+<ptT0516>a world.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It [is] a world
+
+//TEXT
+<enT0517>JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+<ptT0517>JUMPED OFF.""It neither [is] God nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""It neither [is] a world
+
+//TEXT
+<enT0518>nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a world
+<ptT0518>nor [isn't] God.""IT'S NOTHING. MAMIYA-KUN JUST JUMPED OFF.""[is] a world
+
+//TEXT
+<enT0519>MIYA-KUN JUST JUMPED OFF.""[is] a world nor
+<ptT0519>MIYA-KUN JUST JUMPED OFF.""[is] a world nor
+
+//TEXT
+<enT0520>I heard the sound of my skull cracking.
+<ptT0520>I heard the sound of my skull cracking.
+
+//TEXT
+<enT0521>But that wasn't from the outside world.
+<ptT0521>But that wasn't from the outside world.
+
+//TEXT
+<enT0522>I think it came from within me.
+<ptT0522>I think it came from within me.
+
+//TEXT
+<enT0523>Minakami-san, sometimes I think about these things.
+<ptT0523>Minakami-san, sometimes I think about these things.
+
+//TEXT
+<enT0524>Where is the limit of the world?
+<ptT0524>Where is the limit of the world?
+
+//TEXT
+<enT0525>The very edge of the edge of the world.
+<ptT0525>The very edge of the edge of the world.
+
+//TEXT
+<enT0526>If such a place existed...
+<ptT0526>If such a place existed...
+
+//TEXT
+<enT0527>Suppose I were able to stand in that place. Could I look at the scenery from that edge, just like anywhere else?
+<ptT0527>Suppose I were able to stand in that place. Could I look at the scenery from that edge, just like anywhere else?
+
+//TEXT
+<enT0528>If I think it's normal to wonder about these things... that must make me weird.
+<ptT0528>If I think it's normal to wonder about these things... that must make me weird.
+
+//TEXT
+<enT0529>I mean, that's the edge of the world.
+<ptT0529>I mean, that's the edge of the world.
+
+//TEXT
+<enT0530>It's the limit of the world.
+<ptT0530>It's the limit of the world.
+
+//TEXT
+<enT0531>If I could see that with my own two eyes, wouldn't the limit of the world become the same as my own limit?
+<ptT0531>If I could see that with my own two eyes, wouldn't the limit of the world become the same as my own limit?
+
+//TEXT
+<enT0532>Wouldn't the world, viewed from that spot... be the world that I see? Wouldn't that be my world?
+<ptT0532>Wouldn't the world, viewed from that spot... be the world that I see? Wouldn't that be my world?
+
+//TEXT
+<enT0533>The limit of the world would become the limit of my world.
+<ptT0533>The limit of the world would become the limit of my world.
+
+//TEXT
+<enT0534>The world is that which I see, touch, and feel.
+<ptT0534>The world is that which I see, touch, and feel.
+
+//TEXT
+<enT0535>Then what is the world?
+<ptT0535>Then what is the world?
+
+//TEXT
+<enT0536>What is the difference between me and the world?
+<ptT0536>What is the difference between me and the world?
+
+//TEXT
+<enT0537>Is there one?
+<ptT0537>Is there one?
+
+//TEXT
+<enT0538>The difference between me and the world.
+<ptT0538>The difference between me and the world.
+
+//TEXT
+<enT0539>They're the same.
+<ptT0539>They're the same.
+
+//TEXT
+<enT0540>However, other people might have felt this too.
+<ptT0540>However, other people might have felt this too.
+
+//TEXT
+<enT0541>Even you might think that the world is you.
+<ptT0541>Even you might think that the world is you.
+
+//TEXT
+<enT0542>And I think that's probably correct.
+<ptT0542>And I think that's probably correct.
+
+//TEXT
+<enT0543>I couldn't say for sure, but if you stood at the edge of the world, you would probably see the shape of the world just like I do.
+<ptT0543>I couldn't say for sure, but if you stood at the edge of the world, you would probably see the shape of the world just like I do.
+
+//TEXT
+<enT0544>So you would be the same as the world too.
+<ptT0544>So you would be the same as the world too.
+
+//TEXT
+<enT0545>But that really doesn't make sense.
+<ptT0545>But that really doesn't make sense.
+
+//TEXT
+<enT0546>If the world is me, why can't I see the world that you see?
+<ptT0546>If the world is me, why can't I see the world that you see?
+
+//TEXT
+<enT0547>Even though you are in my world, I can't see the world you see.
+<ptT0547>Even though you are in my world, I can't see the world you see.
+
+//TEXT
+<enT0548>I've never seen the world that you do.
+<ptT0548>I've never seen the world that you do.
+
+//TEXT
+<enT0549>They're like parallel universes that can never cross.
+<ptT0549>They're like parallel universes that can never cross.
+
+//TEXT
+<enT0550>Even if there are hints that suggest the other exists, they can never touch.
+<ptT0550>Even if there are hints that suggest the other exists, they can never touch.
+
+//TEXT
+<enT0551>I can't see the world you live in.
+<ptT0551>I can't see the world you live in.
+
+//TEXT
+<enT0552>But...
+<ptT0552>But...
+
+//TEXT
+<enT0553>Is that really the case?
+<ptT0553>Is that really the case?
+
+//TEXT
+<enT0554>Have I really never seen your world?
+<ptT0554>Have I really never seen your world?
+
+//TEXT
+<enT0555>If every person has been equally allotted one singular world...
+<ptT0555>If every person has been equally allotted one singular world...
+
+//TEXT
+<enT0556>How could those worlds possibly become one?
+<ptT0556>How could those worlds possibly become one?
+
+//TEXT
+<enT0557>How can there be so many worlds?
+<ptT0557>How can there be so many worlds?
+
+//TEXT
+<enT0558>There must be a way for the worlds to become one.
+<ptT0558>There must be a way for the worlds to become one.
+
+//TEXT
+<enT0559>Sometimes, I think about these things.
+<ptT0559>Sometimes, I think about these things.
+
+//TEXT
+<enT0560>That's why...
+<ptT0560>That's why...
+
+//TEXT
+<enT0561> I was able to love you.
+<ptT0561> I was able to love you.
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-2_0719.bss
+<ptZ0001>1-2_0719.bss
+
+//OTHER
+<enZ0002>July 19th
+<ptZ0002>July 19th
+
+//OTHER
+<enZ0003>Down the Rabbit-Hole II
+<ptZ0003>Down the Rabbit-Hole II
+
+//OTHER
+<enZ0004>dayyk0719_2
+<ptZ0004>dayyk0719_2
+
+//OTHER
+<enZ0005>se022
+<ptZ0005>se022
+
+//OTHER
+<enZ0006>bgm013
+<ptZ0006>bgm013
+
+//OTHER
+<enZ0007>bg1008e
+<ptZ0007>bg1008e
+
+//OTHER
+<enZ0008>ay0000a
+<ptZ0008>ay0000a
+
+//OTHER
+<enZ0009>aya_000306
+<ptZ0009>aya_000306
+
+//OTHER
+<enZ0010>yuki_002800
+<ptZ0010>yuki_002800
+
+//OTHER
+<enZ0011>ay0008
+<ptZ0011>ay0008
+
+//OTHER
+<enZ0012>aya_000307
+<ptZ0012>aya_000307
+
+//OTHER
+<enZ0013>yuki_002801
+<ptZ0013>yuki_002801
+
+//OTHER
+<enZ0014>yuki_002802
+<ptZ0014>yuki_002802
+
+//OTHER
+<enZ0015>ay0008a
+<ptZ0015>ay0008a
+
+//OTHER
+<enZ0016>aya_000308
+<ptZ0016>aya_000308
+
+//OTHER
+<enZ0017>yuki_002803
+<ptZ0017>yuki_002803
+
+//OTHER
+<enZ0018>aya_000309
+<ptZ0018>aya_000309
+
+//OTHER
+<enZ0019>aya_000310
+<ptZ0019>aya_000310
+
+//OTHER
+<enZ0020>yuki_002804
+<ptZ0020>yuki_002804
+
+//OTHER
+<enZ0021>aya_000311
+<ptZ0021>aya_000311
+
+//OTHER
+<enZ0022>yuki_002805
+<ptZ0022>yuki_002805
+
+//OTHER
+<enZ0023>aya_000312
+<ptZ0023>aya_000312
+
+//OTHER
+<enZ0024>yuki_002806
+<ptZ0024>yuki_002806
+
+//OTHER
+<enZ0025>aya_000313
+<ptZ0025>aya_000313
+
+//OTHER
+<enZ0026>yuki_002807
+<ptZ0026>yuki_002807
+
+//OTHER
+<enZ0027>yuki_002808
+<ptZ0027>yuki_002808
+
+//OTHER
+<enZ0028>yuki_002809
+<ptZ0028>yuki_002809
+
+//OTHER
+<enZ0029>yuki_002810
+<ptZ0029>yuki_002810
+
+//OTHER
+<enZ0030>yuki_002811
+<ptZ0030>yuki_002811
+
+//OTHER
+<enZ0031>yuki_002812
+<ptZ0031>yuki_002812
+
+//OTHER
+<enZ0032>yuki_002813
+<ptZ0032>yuki_002813
+
+//OTHER
+<enZ0033>yuki_002814
+<ptZ0033>yuki_002814
+
+//OTHER
+<enZ0034>ay0000
+<ptZ0034>ay0000
+
+//OTHER
+<enZ0035>aya_000314
+<ptZ0035>aya_000314
+
+//OTHER
+<enZ0036>ay0000b
+<ptZ0036>ay0000b
+
+//OTHER
+<enZ0037>aya_000315
+<ptZ0037>aya_000315
+
+//OTHER
+<enZ0038>yuki_002815
+<ptZ0038>yuki_002815
+
+//OTHER
+<enZ0039>aya_000316
+<ptZ0039>aya_000316
+
+//OTHER
+<enZ0040>aya_000317
+<ptZ0040>aya_000317
+
+//OTHER
+<enZ0041>yuki_002816
+<ptZ0041>yuki_002816
+
+//OTHER
+<enZ0042>aya_000318
+<ptZ0042>aya_000318
+
+//OTHER
+<enZ0043>aya_000319
+<ptZ0043>aya_000319
+
+//OTHER
+<enZ0044>aya_000320
+<ptZ0044>aya_000320
+
+//OTHER
+<enZ0045>aya_000321
+<ptZ0045>aya_000321
+
+//OTHER
+<enZ0046>yuki_002817
+<ptZ0046>yuki_002817
+
+//OTHER
+<enZ0047>yuki_002818
+<ptZ0047>yuki_002818
+
+//OTHER
+<enZ0048>yuki_002819
+<ptZ0048>yuki_002819
+
+//OTHER
+<enZ0049>aya_000322
+<ptZ0049>aya_000322
+
+//OTHER
+<enZ0050>aya_000323
+<ptZ0050>aya_000323
+
+//OTHER
+<enZ0051>aya_000324
+<ptZ0051>aya_000324
+
+//OTHER
+<enZ0052>aya_000325
+<ptZ0052>aya_000325
+
+//OTHER
+<enZ0053>aya_000326_a
+<ptZ0053>aya_000326_a
+
+//OTHER
+<enZ0054>yuki_002820
+<ptZ0054>yuki_002820
+
+//OTHER
+<enZ0055>aya_000327
+<ptZ0055>aya_000327
+
+//OTHER
+<enZ0056>aya_000328
+<ptZ0056>aya_000328
+
+//OTHER
+<enZ0057>aya_000329
+<ptZ0057>aya_000329
+
+//OTHER
+<enZ0058>aya_000330
+<ptZ0058>aya_000330
+
+//OTHER
+<enZ0059>aya_000331
+<ptZ0059>aya_000331
+
+//OTHER
+<enZ0060>aya_000332
+<ptZ0060>aya_000332
+
+//OTHER
+<enZ0061>aya_000333
+<ptZ0061>aya_000333
+
+//OTHER
+<enZ0062>yuki_002821
+<ptZ0062>yuki_002821
+
+//OTHER
+<enZ0063>aya_000334
+<ptZ0063>aya_000334
+
+//OTHER
+<enZ0064>yuki_002822
+<ptZ0064>yuki_002822
+
+//OTHER
+<enZ0065>aya_000335
+<ptZ0065>aya_000335
+
+//OTHER
+<enZ0066>aya_000336
+<ptZ0066>aya_000336
+
+//OTHER
+<enZ0067>ay0002
+<ptZ0067>ay0002
+
+//OTHER
+<enZ0068>aya_000337
+<ptZ0068>aya_000337
+
+//OTHER
+<enZ0069>yuki_002823
+<ptZ0069>yuki_002823
+
+//OTHER
+<enZ0070>yuki_002824
+<ptZ0070>yuki_002824
+
+//OTHER
+<enZ0071>bg1021c
+<ptZ0071>bg1021c
+
+//OTHER
+<enZ0072>yuki_002825
+<ptZ0072>yuki_002825
+
+//OTHER
+<enZ0073>yuki_002826
+<ptZ0073>yuki_002826
+
+//OTHER
+<enZ0074>aya_000338
+<ptZ0074>aya_000338
+
+//OTHER
+<enZ0075>yuki_002827
+<ptZ0075>yuki_002827
+
+//OTHER
+<enZ0076>ay0001
+<ptZ0076>ay0001
+
+//OTHER
+<enZ0077>aya_000339
+<ptZ0077>aya_000339
+
+//OTHER
+<enZ0078>yuki_002828
+<ptZ0078>yuki_002828
+
+//OTHER
+<enZ0079>yuki_002829
+<ptZ0079>yuki_002829
+
+//OTHER
+<enZ0080>yuki_002830
+<ptZ0080>yuki_002830
+
+//OTHER
+<enZ0081>se236
+<ptZ0081>se236
+
+//OTHER
+<enZ0082>yuki_002831
+<ptZ0082>yuki_002831
+
+//OTHER
+<enZ0083>yuki_002832
+<ptZ0083>yuki_002832
+
+//OTHER
+<enZ0084>bg1022b
+<ptZ0084>bg1022b
+
+//OTHER
+<enZ0085>bgm011
+<ptZ0085>bgm011
+
+//OTHER
+<enZ0086>ay0006a
+<ptZ0086>ay0006a
+
+//OTHER
+<enZ0087>aya_000340
+<ptZ0087>aya_000340
+
+//OTHER
+<enZ0088>ay0004a
+<ptZ0088>ay0004a
+
+//OTHER
+<enZ0089>yuki_002833
+<ptZ0089>yuki_002833
+
+//OTHER
+<enZ0090>yuki_002834
+<ptZ0090>yuki_002834
+
+//OTHER
+<enZ0091>yuki_002835
+<ptZ0091>yuki_002835
+
+//OTHER
+<enZ0092>bg1023a
+<ptZ0092>bg1023a
+
+//OTHER
+<enZ0093>yuki_002836
+<ptZ0093>yuki_002836
+
+//OTHER
+<enZ0094>se208
+<ptZ0094>se208
+
+//OTHER
+<enZ0095>yuki_002837
+<ptZ0095>yuki_002837
+
+//OTHER
+<enZ0096>yuki_002838
+<ptZ0096>yuki_002838
+
+//OTHER
+<enZ0097>bg1025a
+<ptZ0097>bg1025a
+
+//OTHER
+<enZ0098>yuki_002839
+<ptZ0098>yuki_002839
+
+//OTHER
+<enZ0099>yuki_002840
+<ptZ0099>yuki_002840
+
+//OTHER
+<enZ0100>aya_000341
+<ptZ0100>aya_000341
+
+//OTHER
+<enZ0101>yuki_002841
+<ptZ0101>yuki_002841
+
+//OTHER
+<enZ0102>yuki_002842
+<ptZ0102>yuki_002842
+
+//OTHER
+<enZ0103>yuki_002843
+<ptZ0103>yuki_002843
+
+//OTHER
+<enZ0104>yuki_002844
+<ptZ0104>yuki_002844
+
+//OTHER
+<enZ0105>bg1025a_ayana
+<ptZ0105>bg1025a_ayana
+
+//OTHER
+<enZ0106>aya_000342
+<ptZ0106>aya_000342
+
+//OTHER
+<enZ0107>sp0039
+<ptZ0107>sp0039
+
+//OTHER
+<enZ0108>yuki_002845
+<ptZ0108>yuki_002845
+
+//OTHER
+<enZ0109>yuki_002846
+<ptZ0109>yuki_002846
+
+//OTHER
+<enZ0110>yuki_002847
+<ptZ0110>yuki_002847
+
+//OTHER
+<enZ0111>aya_000343
+<ptZ0111>aya_000343
+
+//OTHER
+<enZ0112>yuki_002848
+<ptZ0112>yuki_002848
+
+//OTHER
+<enZ0113>aya_000344
+<ptZ0113>aya_000344
+
+//OTHER
+<enZ0114>aya_000345
+<ptZ0114>aya_000345
+
+//OTHER
+<enZ0115>yuki_002849
+<ptZ0115>yuki_002849
+
+//OTHER
+<enZ0116>sp0036
+<ptZ0116>sp0036
+
+//OTHER
+<enZ0117>yuki_002850
+<ptZ0117>yuki_002850
+
+//OTHER
+<enZ0118>yuki_002851
+<ptZ0118>yuki_002851
+
+//OTHER
+<enZ0119>ay0001a
+<ptZ0119>ay0001a
+
+//OTHER
+<enZ0120>aya_000346
+<ptZ0120>aya_000346
+
+//OTHER
+<enZ0121>yuki_002852
+<ptZ0121>yuki_002852
+
+//OTHER
+<enZ0122>aya_000347
+<ptZ0122>aya_000347
+
+//OTHER
+<enZ0123>yuki_002853
+<ptZ0123>yuki_002853
+
+//OTHER
+<enZ0124>black
+<ptZ0124>black
+
+//OTHER
+<enZ0125>bg1050a
+<ptZ0125>bg1050a
+
+//OTHER
+<enZ0126>yuki_002854
+<ptZ0126>yuki_002854
+
+//OTHER
+<enZ0127>yuki_002855
+<ptZ0127>yuki_002855
+
+//OTHER
+<enZ0128>yuki_002856
+<ptZ0128>yuki_002856
+
+//OTHER
+<enZ0129>aya_000348
+<ptZ0129>aya_000348
+
+//OTHER
+<enZ0130>aya_000349
+<ptZ0130>aya_000349
+
+//OTHER
+<enZ0131>yuki_002857
+<ptZ0131>yuki_002857
+
+//OTHER
+<enZ0132>se243
+<ptZ0132>se243
+
+//OTHER
+<enZ0133>se057c
+<ptZ0133>se057c
+
+//OTHER
+<enZ0134>yuki_002858
+<ptZ0134>yuki_002858
+
+//OTHER
+<enZ0135>yuki_002859
+<ptZ0135>yuki_002859
+
+//OTHER
+<enZ0136>yuki_002860
+<ptZ0136>yuki_002860
+
+//OTHER
+<enZ0137>se049
+<ptZ0137>se049
+
+//OTHER
+<enZ0138>map022
+<ptZ0138>map022
+
+//OTHER
+<enZ0139>white
+<ptZ0139>white
+
+//OTHER
+<enZ0140>yuki_002861
+<ptZ0140>yuki_002861
+
+//OTHER
+<enZ0141>ay0000b_l
+<ptZ0141>ay0000b_l
+
+//OTHER
+<enZ0142>sp0093a
+<ptZ0142>sp0093a
+
+//OTHER
+<enZ0143>yuki_002862
+<ptZ0143>yuki_002862
+
+//OTHER
+<enZ0144>yuki_002863
+<ptZ0144>yuki_002863
+
+//OTHER
+<enZ0145>aya_000350
+<ptZ0145>aya_000350
+
+//OTHER
+<enZ0146>yuki_002864
+<ptZ0146>yuki_002864
+
+//OTHER
+<enZ0147>se262
+<ptZ0147>se262
+
+//OTHER
+<enZ0148>map027
+<ptZ0148>map027
+
+//OTHER
+<enZ0149>red
+<ptZ0149>red
+
+//OTHER
+<enZ0150>sp0093b
+<ptZ0150>sp0093b
+
+//OTHER
+<enZ0151>yuki_002865
+<ptZ0151>yuki_002865
+
+//OTHER
+<enZ0152>yuki_002866
+<ptZ0152>yuki_002866
+
+//OTHER
+<enZ0153>yuki_002867
+<ptZ0153>yuki_002867
+
+//OTHER
+<enZ0154>yuki_002868
+<ptZ0154>yuki_002868
+
+//OTHER
+<enZ0155>yuki_002869
+<ptZ0155>yuki_002869
+
+//OTHER
+<enZ0156>yuki_002870
+<ptZ0156>yuki_002870
+
+//OTHER
+<enZ0157>yuki_002871
+<ptZ0157>yuki_002871
+
+//OTHER
+<enZ0158>yuki_002872
+<ptZ0158>yuki_002872
+
+//OTHER
+<enZ0159>yuki_002873
+<ptZ0159>yuki_002873
+
+//OTHER
+<enZ0160>yuki_002874
+<ptZ0160>yuki_002874
+
+//OTHER
+<enZ0161>ev6003a
+<ptZ0161>ev6003a
+
+//OTHER
+<enZ0162>taku_000236
+<ptZ0162>taku_000236
+
+//OTHER
+<enZ0163>yuki_002875
+<ptZ0163>yuki_002875
+
+//OTHER
+<enZ0164>taku_000237
+<ptZ0164>taku_000237
+
+//OTHER
+<enZ0165>yuki_002876
+<ptZ0165>yuki_002876
+
+//OTHER
+<enZ0166>taku_000238
+<ptZ0166>taku_000238
+
+//OTHER
+<enZ0167>yuki_002877
+<ptZ0167>yuki_002877
+
+//OTHER
+<enZ0168>yuki_002878
+<ptZ0168>yuki_002878
+
+//OTHER
+<enZ0169>taku_000239
+<ptZ0169>taku_000239
+
+//OTHER
+<enZ0170>taku_000240
+<ptZ0170>taku_000240
+
+//OTHER
+<enZ0171>taku_000241
+<ptZ0171>taku_000241
+
+//OTHER
+<enZ0172>yuki_002879
+<ptZ0172>yuki_002879
+
+//OTHER
+<enZ0173>taku_000242
+<ptZ0173>taku_000242
+
+//OTHER
+<enZ0174>yuki_002880
+<ptZ0174>yuki_002880
+
+//OTHER
+<enZ0175>taku_000243
+<ptZ0175>taku_000243
+
+//OTHER
+<enZ0176>yuki_002881
+<ptZ0176>yuki_002881
+
+//OTHER
+<enZ0177>taku_000244
+<ptZ0177>taku_000244
+
+//OTHER
+<enZ0178>yuki_002882
+<ptZ0178>yuki_002882
+
+//OTHER
+<enZ0179>taku_000245
+<ptZ0179>taku_000245
+
+//OTHER
+<enZ0180>taku_000246
+<ptZ0180>taku_000246
+
+//OTHER
+<enZ0181>yuki_002883
+<ptZ0181>yuki_002883
+
+//OTHER
+<enZ0182>taku_000247
+<ptZ0182>taku_000247
+
+//OTHER
+<enZ0183>yuki_002884
+<ptZ0183>yuki_002884
+
+//OTHER
+<enZ0184>taku_000248
+<ptZ0184>taku_000248
+
+//OTHER
+<enZ0185>yuki_002885
+<ptZ0185>yuki_002885
+
+//OTHER
+<enZ0186>taku_000249
+<ptZ0186>taku_000249
+
+//OTHER
+<enZ0187>yuki_002886
+<ptZ0187>yuki_002886
+
+//OTHER
+<enZ0188>taku_000250
+<ptZ0188>taku_000250
+
+//OTHER
+<enZ0189>yuki_002887
+<ptZ0189>yuki_002887
+
+//OTHER
+<enZ0190>taku_000251
+<ptZ0190>taku_000251
+
+//OTHER
+<enZ0191>yuki_002888
+<ptZ0191>yuki_002888
+
+//OTHER
+<enZ0192>taku_000252
+<ptZ0192>taku_000252
+
+//OTHER
+<enZ0193>yuki_002889
+<ptZ0193>yuki_002889
+
+//OTHER
+<enZ0194>yuki_002890
+<ptZ0194>yuki_002890
+
+//OTHER
+<enZ0195>taku_000253
+<ptZ0195>taku_000253
+
+//OTHER
+<enZ0196>yuki_002891
+<ptZ0196>yuki_002891
+
+//OTHER
+<enZ0197>taku_000254
+<ptZ0197>taku_000254
+
+//OTHER
+<enZ0198>yuki_002892
+<ptZ0198>yuki_002892
+
+//OTHER
+<enZ0199>yuki_002893
+<ptZ0199>yuki_002893
+
+//OTHER
+<enZ0200>yuki_002894
+<ptZ0200>yuki_002894
+
+//OTHER
+<enZ0201>taku_000255
+<ptZ0201>taku_000255
+
+//OTHER
+<enZ0202>yuki_002895
+<ptZ0202>yuki_002895
+
+//OTHER
+<enZ0203>yuki_002896
+<ptZ0203>yuki_002896
+
+//OTHER
+<enZ0204>taku_000256
+<ptZ0204>taku_000256
+
+//OTHER
+<enZ0205>yuki_002897
+<ptZ0205>yuki_002897
+
+//OTHER
+<enZ0206>taku_000257
+<ptZ0206>taku_000257
+
+//OTHER
+<enZ0207>yuki_002898
+<ptZ0207>yuki_002898
+
+//OTHER
+<enZ0208>yuki_002899
+<ptZ0208>yuki_002899
+
+//OTHER
+<enZ0209>taku_000258
+<ptZ0209>taku_000258
+
+//OTHER
+<enZ0210>yuki_002900
+<ptZ0210>yuki_002900
+
+//OTHER
+<enZ0211>taku_000259
+<ptZ0211>taku_000259
+
+//OTHER
+<enZ0212>yuki_002901
+<ptZ0212>yuki_002901
+
+//OTHER
+<enZ0213>taku_000260
+<ptZ0213>taku_000260
+
+//OTHER
+<enZ0214>yuki_002902
+<ptZ0214>yuki_002902
+
+//OTHER
+<enZ0215>yuki_002903
+<ptZ0215>yuki_002903
+
+//OTHER
+<enZ0216>yuki_002904
+<ptZ0216>yuki_002904
+
+//OTHER
+<enZ0217>taku_000261
+<ptZ0217>taku_000261
+
+//OTHER
+<enZ0218>yuki_002905
+<ptZ0218>yuki_002905
+
+//OTHER
+<enZ0219>taku_000262
+<ptZ0219>taku_000262
+
+//OTHER
+<enZ0220>yuki_002906
+<ptZ0220>yuki_002906
+
+//OTHER
+<enZ0221>yuki_002907
+<ptZ0221>yuki_002907
+
+//OTHER
+<enZ0222>taku_000263
+<ptZ0222>taku_000263
+
+//OTHER
+<enZ0223>taku_000264
+<ptZ0223>taku_000264
+
+//OTHER
+<enZ0224>taku_000265
+<ptZ0224>taku_000265
+
+//OTHER
+<enZ0225>yuki_002908
+<ptZ0225>yuki_002908
+
+//OTHER
+<enZ0226>yuki_002909
+<ptZ0226>yuki_002909
+
+//OTHER
+<enZ0227>yuki_002910
+<ptZ0227>yuki_002910
+
+//OTHER
+<enZ0228>taku_000266
+<ptZ0228>taku_000266
+
+//OTHER
+<enZ0229>yuki_002911
+<ptZ0229>yuki_002911
+
+//OTHER
+<enZ0230>taku_000267
+<ptZ0230>taku_000267
+
+//OTHER
+<enZ0231>yuki_002912
+<ptZ0231>yuki_002912
+
+//OTHER
+<enZ0232>yuki_002913
+<ptZ0232>yuki_002913
+
+//OTHER
+<enZ0233>yuki_002914
+<ptZ0233>yuki_002914
+
+//OTHER
+<enZ0234>taku_000268
+<ptZ0234>taku_000268
+
+//OTHER
+<enZ0235>yuki_002915
+<ptZ0235>yuki_002915
+
+//OTHER
+<enZ0236>yuki_002916
+<ptZ0236>yuki_002916
+
+//OTHER
+<enZ0237>yuki_002917
+<ptZ0237>yuki_002917
+
+//OTHER
+<enZ0238>yuki_002918
+<ptZ0238>yuki_002918
+
+//OTHER
+<enZ0239>taku_000269
+<ptZ0239>taku_000269
+
+//OTHER
+<enZ0240>yuki_002919
+<ptZ0240>yuki_002919
+
+//OTHER
+<enZ0241>yuki_002920
+<ptZ0241>yuki_002920
+
+//OTHER
+<enZ0242>yuki_002921
+<ptZ0242>yuki_002921
+
+//OTHER
+<enZ0243>yuki_002922
+<ptZ0243>yuki_002922
+
+//OTHER
+<enZ0244>yuki_002923
+<ptZ0244>yuki_002923
+
+//OTHER
+<enZ0245>yuki_002924
+<ptZ0245>yuki_002924
+
+//OTHER
+<enZ0246>yuki_002925
+<ptZ0246>yuki_002925
+
+//OTHER
+<enZ0247>taku_000270
+<ptZ0247>taku_000270
+
+//OTHER
+<enZ0248>taku_000271
+<ptZ0248>taku_000271
+
+//OTHER
+<enZ0249>yuki_002926
+<ptZ0249>yuki_002926
+
+//OTHER
+<enZ0250>taku_000272
+<ptZ0250>taku_000272
+
+//OTHER
+<enZ0251>yuki_002927
+<ptZ0251>yuki_002927
+
+//OTHER
+<enZ0252>taku_000273
+<ptZ0252>taku_000273
+
+//OTHER
+<enZ0253>yuki_002928
+<ptZ0253>yuki_002928
+
+//OTHER
+<enZ0254>taku_000274
+<ptZ0254>taku_000274
+
+//OTHER
+<enZ0255>yuki_002929
+<ptZ0255>yuki_002929
+
+//OTHER
+<enZ0256>yuki_002930
+<ptZ0256>yuki_002930
+
+//OTHER
+<enZ0257>yuki_002931
+<ptZ0257>yuki_002931
+
+//OTHER
+<enZ0258>yuki_002932
+<ptZ0258>yuki_002932
+
+//OTHER
+<enZ0259>yuki_002933
+<ptZ0259>yuki_002933
+
+//OTHER
+<enZ0260>taku_000275
+<ptZ0260>taku_000275
+
+//OTHER
+<enZ0261>yuki_002934
+<ptZ0261>yuki_002934
+
+//OTHER
+<enZ0262>yuki_002935
+<ptZ0262>yuki_002935
+
+//OTHER
+<enZ0263>yuki_002936
+<ptZ0263>yuki_002936
+
+//OTHER
+<enZ0264>yuki_002937
+<ptZ0264>yuki_002937
+
+//OTHER
+<enZ0265>yuki_002938
+<ptZ0265>yuki_002938
+
+//OTHER
+<enZ0266>yuki_002939
+<ptZ0266>yuki_002939
+
+//OTHER
+<enZ0267>yuki_002940
+<ptZ0267>yuki_002940
+
+//OTHER
+<enZ0268>yuki_002941
+<ptZ0268>yuki_002941
+
+//OTHER
+<enZ0269>yuki_002942
+<ptZ0269>yuki_002942
+
+//OTHER
+<enZ0270>yuki_002943
+<ptZ0270>yuki_002943
+
+//OTHER
+<enZ0271>yuki_002944
+<ptZ0271>yuki_002944
+
+//OTHER
+<enZ0272>yuki_002945
+<ptZ0272>yuki_002945
+
+//OTHER
+<enZ0273>yuki_002946
+<ptZ0273>yuki_002946
+
+//OTHER
+<enZ0274>yuki_002947
+<ptZ0274>yuki_002947
+
+//OTHER
+<enZ0275>yuki_002948
+<ptZ0275>yuki_002948
+
+//OTHER
+<enZ0276>taku_000276
+<ptZ0276>taku_000276
+
+//OTHER
+<enZ0277>yuki_002949
+<ptZ0277>yuki_002949
+
+//OTHER
+<enZ0278>yuki_002950
+<ptZ0278>yuki_002950
+
+//OTHER
+<enZ0279>yuki_002951
+<ptZ0279>yuki_002951
+
+//OTHER
+<enZ0280>yuki_002952
+<ptZ0280>yuki_002952
+
+//OTHER
+<enZ0281>yuki_002953
+<ptZ0281>yuki_002953
+
+//OTHER
+<enZ0282>yuki_002954
+<ptZ0282>yuki_002954
+
+//OTHER
+<enZ0283>yuki_002955
+<ptZ0283>yuki_002955
+
+//OTHER
+<enZ0284>yuki_002956
+<ptZ0284>yuki_002956
+
+//OTHER
+<enZ0285>taku_000277
+<ptZ0285>taku_000277
+
+//OTHER
+<enZ0286>taku_000278
+<ptZ0286>taku_000278
+
+//OTHER
+<enZ0287>yuki_002957
+<ptZ0287>yuki_002957
+
+//OTHER
+<enZ0288>taku_000279
+<ptZ0288>taku_000279
+
+//OTHER
+<enZ0289>yuki_002958
+<ptZ0289>yuki_002958
+
+//OTHER
+<enZ0290>taku_000280
+<ptZ0290>taku_000280
+
+//OTHER
+<enZ0291>yuki_002959
+<ptZ0291>yuki_002959
+
+//OTHER
+<enZ0292>taku_000281
+<ptZ0292>taku_000281
+
+//OTHER
+<enZ0293>taku_000282
+<ptZ0293>taku_000282
+
+//OTHER
+<enZ0294>taku_000283
+<ptZ0294>taku_000283
+
+//OTHER
+<enZ0295>yuki_002960
+<ptZ0295>yuki_002960
+
+//OTHER
+<enZ0296>taku_000284
+<ptZ0296>taku_000284
+
+//OTHER
+<enZ0297>yuki_002961
+<ptZ0297>yuki_002961
+
+//OTHER
+<enZ0298>sp0040a
+<ptZ0298>sp0040a
+
+//OTHER
+<enZ0299>yuki_002962
+<ptZ0299>yuki_002962
+
+//OTHER
+<enZ0300>yuki_002963
+<ptZ0300>yuki_002963
+
+//OTHER
+<enZ0301>yuki_002964
+<ptZ0301>yuki_002964
+
+//OTHER
+<enZ0302>bg1017c2
+<ptZ0302>bg1017c2
+
+//OTHER
+<enZ0303>ev6003b
+<ptZ0303>ev6003b
+
+//OTHER
+<enZ0304>bgm010
+<ptZ0304>bgm010
+
+//OTHER
+<enZ0305>yuki_002965
+<ptZ0305>yuki_002965
+
+//OTHER
+<enZ0306>yuki_002966
+<ptZ0306>yuki_002966
+
+//OTHER
+<enZ0307>yuki_002967
+<ptZ0307>yuki_002967
+
+//OTHER
+<enZ0308>ev2002
+<ptZ0308>ev2002
+
+//OTHER
+<enZ0309>yuki_002968
+<ptZ0309>yuki_002968
+
+//OTHER
+<enZ0310>yuki_002969
+<ptZ0310>yuki_002969
+
+//OTHER
+<enZ0311>aya_000351
+<ptZ0311>aya_000351
+
+//OTHER
+<enZ0312>yuki_002970
+<ptZ0312>yuki_002970
+
+//OTHER
+<enZ0313>aya_000352
+<ptZ0313>aya_000352
+
+//OTHER
+<enZ0314>yuki_002971
+<ptZ0314>yuki_002971
+
+//OTHER
+<enZ0315>aya_000353
+<ptZ0315>aya_000353
+
+//OTHER
+<enZ0316>sp0041
+<ptZ0316>sp0041
+
+//OTHER
+<enZ0317>yuki_002972
+<ptZ0317>yuki_002972
+
+//OTHER
+<enZ0318>aya_000354
+<ptZ0318>aya_000354
+
+//OTHER
+<enZ0319>yuki_002973
+<ptZ0319>yuki_002973
+
+//OTHER
+<enZ0320>aya_000355
+<ptZ0320>aya_000355
+
+//OTHER
+<enZ0321>yuki_002974
+<ptZ0321>yuki_002974
+
+//OTHER
+<enZ0322>aya_000356
+<ptZ0322>aya_000356
+
+//OTHER
+<enZ0323>bgm017
+<ptZ0323>bgm017
+
+//OTHER
+<enZ0324>end1-2
+<ptZ0324>end1-2
+

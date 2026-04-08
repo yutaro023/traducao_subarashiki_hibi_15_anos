@@ -1,0 +1,92 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+///================================================================================
+
+//TEXT
+<enT0001>"Farce"
+<ptT0001>"Farce"
+
+//TEXT 【Zakuro】
+<enT0002>"Umm..."
+<ptT0002>"Umm..."
+
+//TEXT 【Takuji】
+<enT0003>"Ah, s-sorry..."
+<ptT0003>"Ah, s-sorry..."
+
+//TEXT
+<enT0004>Takashima-san, who was doing something so lewd just a second ago, had returned to the normal Takashima-san, as if the film had been rewound.
+<ptT0004>Takashima-san, who was doing something so lewd just a second ago, had returned to the normal Takashima-san, as if the film had been rewound.
+
+//TEXT
+<enT0005>I got caught up in my delusions again.
+<ptT0005>I got caught up in my delusions again.
+
+//TEXT
+<enT0006>My face was red from the vulgar delusion.
+<ptT0006>My face was red from the vulgar delusion.
+
+//TEXT
+<enT0007>How farcical...
+<ptT0007>How farcical...
+
+//TEXT 【Zakuro】
+<enT0008>"Wh-What's wrong? You got really quiet for a long time. I..."
+<ptT0008>"Wh-What's wrong? You got really quiet for a long time. I..."
+
+//TEXT 【Takuji】
+<enT0009>"Oh, sorry... I was thinking about something."
+<ptT0009>"Oh, sorry... I was thinking about something."
+
+///================================================================================
+
+//OTHER
+<enZ0001>2_0702_31.bss
+<ptZ0001>2_0702_31.bss
+
+//OTHER
+<enZ0002>It's my own Invention
+<ptZ0002>It's my own Invention
+
+//OTHER
+<enZ0003>se246
+<ptZ0003>se246
+
+//OTHER
+<enZ0004>zk0108a
+<ptZ0004>zk0108a
+
+//OTHER
+<enZ0005>bg1023b
+<ptZ0005>bg1023b
+
+//OTHER
+<enZ0006>zaku_001065
+<ptZ0006>zaku_001065
+
+//OTHER
+<enZ0007>bgm020
+<ptZ0007>bgm020
+
+//OTHER
+<enZ0008>taku_000598
+<ptZ0008>taku_000598
+
+//OTHER
+<enZ0009>zk0108
+<ptZ0009>zk0108
+
+//OTHER
+<enZ0010>zaku_001066
+<ptZ0010>zaku_001066
+
+//OTHER
+<enZ0011>taku_000599
+<ptZ0011>taku_000599
+

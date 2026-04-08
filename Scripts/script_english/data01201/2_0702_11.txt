@@ -1,0 +1,80 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+///================================================================================
+
+//TEXT
+<enT0001>This is the exact same thing that always happens...
+<ptT0001>This is the exact same thing that always happens...
+
+//TEXT
+<enT0002>Before I knew it... I'd lost track of what was real and what was just my delusion.
+<ptT0002>Before I knew it... I'd lost track of what was real and what was just my delusion.
+
+//TEXT
+<enT0003>This always...
+<ptT0003>This always...
+
+//TEXT 【Zakuro】
+<enT0004>"Umm..."
+<ptT0004>"Umm..."
+
+//TEXT 【Takuji】
+<enT0005>"Eh?"
+<ptT0005>"Eh?"
+
+//TEXT 【Zakuro】
+<enT0006>"I-Is something wrong? You got really quiet all of a sudden..."
+<ptT0006>"I-Is something wrong? You got really quiet all of a sudden..."
+
+//TEXT 【Takuji】
+<enT0007>"Oh, uh... Not really..."
+<ptT0007>"Oh, uh... Not really..."
+
+///================================================================================
+
+//OTHER
+<enZ0001>2_0702_11.bss
+<ptZ0001>2_0702_11.bss
+
+//OTHER
+<enZ0002>It's my own Invention
+<ptZ0002>It's my own Invention
+
+//OTHER
+<enZ0003>se246
+<ptZ0003>se246
+
+//OTHER
+<enZ0004>zk0108a
+<ptZ0004>zk0108a
+
+//OTHER
+<enZ0005>bg1023b
+<ptZ0005>bg1023b
+
+//OTHER
+<enZ0006>zaku_000904
+<ptZ0006>zaku_000904
+
+//OTHER
+<enZ0007>bgm020
+<ptZ0007>bgm020
+
+//OTHER
+<enZ0008>taku_000433
+<ptZ0008>taku_000433
+
+//OTHER
+<enZ0009>zaku_000905
+<ptZ0009>zaku_000905
+
+//OTHER
+<enZ0010>taku_000434
+<ptZ0010>taku_000434
+

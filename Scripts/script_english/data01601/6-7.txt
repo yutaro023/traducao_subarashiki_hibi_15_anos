@@ -1,0 +1,6016 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Kotomi
+<ptN0002>Kotomi
+
+//NAME
+<enN0003>Takuji
+<ptN0003>Takuji
+
+//NAME
+<enN0004>Hasaki
+<ptN0004>Hasaki
+
+//NAME
+<enN0005>Yuki
+<ptN0005>Yuki
+
+//NAME
+<enN0006>Takuji+Kotomi
+<ptN0006>Takuji+Kotomi
+
+///================================================================================
+
+//TEXT
+<enT0001>The end of summer.
+<ptT0001>The end of summer.
+
+//TEXT
+<enT0002>Even then, the sun still blazed high in the sky.
+<ptT0002>Even then, the sun still blazed high in the sky.
+
+//TEXT
+<enT0003>Cumulonimbi still floated high in the blue sky.
+<ptT0003>Cumulonimbi still floated high in the blue sky.
+
+//TEXT
+<enT0004>Those clouds no doubt rained down on a parched field out there.
+<ptT0004>Those clouds no doubt rained down on a parched field out there.
+
+//TEXT
+<enT0005>The end of the season.
+<ptT0005>The end of the season.
+
+//TEXT
+<enT0006>The same day that Dad died had come again.
+<ptT0006>The same day that Dad died had come again.
+
+//TEXT
+<enT0007>A year later, it was still a sad day.
+<ptT0007>A year later, it was still a sad day.
+
+//TEXT
+<enT0008>We had a lot of fun times, but Hasaki still cried on the night before the anniversary of his death.
+<ptT0008>We had a lot of fun times, but Hasaki still cried on the night before the anniversary of his death.
+
+//TEXT
+<enT0009>It'd been a long time since Hasaki had cried. Maybe it'd been a whole year.
+<ptT0009>It'd been a long time since Hasaki had cried. Maybe it'd been a whole year.
+
+//TEXT
+<enT0010>One year since that day.
+<ptT0010>One year since that day.
+
+//TEXT
+<enT0011>I kept thinking about that day.
+<ptT0011>I kept thinking about that day.
+
+//TEXT
+<enT0012>Then something happened to destroy it all.
+<ptT0012>Then something happened to destroy it all.
+
+//TEXT
+<enT0013>On the anniversary of his death, that woman appeared, even though she hadn't come to the funeral.
+<ptT0013>On the anniversary of his death, that woman appeared, even though she hadn't come to the funeral.
+
+//TEXT
+<enT0014>Takuji and our mother had come to Sawai.
+<ptT0014>Takuji and our mother had come to Sawai.
+
+//TEXT 【Tomosane】
+<enT0015>"Why are you here?"
+<ptT0015>"Why are you here?"
+
+//TEXT 【Kotomi】
+<enT0016>"..."
+<ptT0016>"..."
+
+//TEXT
+<enT0017>She just looked at me.
+<ptT0017>She just looked at me.
+
+//TEXT
+<enT0018>Takuji stood in front of her.
+<ptT0018>Takuji stood in front of her.
+
+//TEXT 【Takuji】
+<enT0019>"You still don't know how to talk to your mother, do you, Nii-san?"
+<ptT0019>"You still don't know how to talk to your mother, do you, Nii-san?"
+
+//TEXT 【Tomosane】
+<enT0020>"Hmph. I don't think of her as my mother."
+<ptT0020>"Hmph. I don't think of her as my mother."
+
+//TEXT 【Hasaki】
+<enT0021>"T-Tomo Nii-san."
+<ptT0021>"T-Tomo Nii-san."
+
+//TEXT 【Takuji】
+<enT0022>"Hasaki... Long time no see, hehehe."
+<ptT0022>"Hasaki... Long time no see, hehehe."
+
+//TEXT 【Hasaki】
+<enT0023>"Eek!"
+<ptT0023>"Eek!"
+
+//TEXT 【Tomosane】
+<enT0024>"It's just creepy when you laugh. Look, you're scaring Hasaki."
+<ptT0024>"It's just creepy when you laugh. Look, you're scaring Hasaki."
+
+//TEXT 【Takuji】
+<enT0025>"Don't call me creepy. That's rude. I was smiling because I hadn't seen my little sister in so long."
+<ptT0025>"Don't call me creepy. That's rude. I was smiling because I hadn't seen my little sister in so long."
+
+//TEXT 【Tomosane】
+<enT0026>"Smiling? That's a pretty nasty smile you got there."
+<ptT0026>"Smiling? That's a pretty nasty smile you got there."
+
+//TEXT 【Takuji】
+<enT0027>"Rude as ever, aren't we?"
+<ptT0027>"Rude as ever, aren't we?"
+
+//TEXT 【Kotomi】
+<enT0028>"Where is my mother?"
+<ptT0028>"Where is my mother?"
+
+//TEXT 【Tomosane】
+<enT0029>"If you're looking for Grandma, she's in the house."
+<ptT0029>"If you're looking for Grandma, she's in the house."
+
+//TEXT 【Kotomi】
+<enT0030>"All right. Takuji, let's go."
+<ptT0030>"All right. Takuji, let's go."
+
+//TEXT 【Tomosane】
+<enT0031>"Why are those bastards in Sawaimura?"
+<ptT0031>"Why are those bastards in Sawaimura?"
+
+//TEXT 【Hasaki】
+<enT0032>"For Dad's first anniversary maybe?"
+<ptT0032>"For Dad's first anniversary maybe?"
+
+//TEXT 【Tomosane】
+<enT0033>"The first anniversary of a funeral they didn't even come to?"
+<ptT0033>"The first anniversary of a funeral they didn't even come to?"
+
+//TEXT 【Hasaki】
+<enT0034>"Yeah. I don't really understand why they're here..."
+<ptT0034>"Yeah. I don't really understand why they're here..."
+
+//TEXT 【Tomosane】
+<enT0035>"Takuji hasn't changed a bit."
+<ptT0035>"Takuji hasn't changed a bit."
+
+//TEXT 【Hasaki】
+<enT0036>"Takuji Nii-san always listens to Mom."
+<ptT0036>"Takuji Nii-san always listens to Mom."
+
+//TEXT 【Tomosane】
+<enT0037>"That motherfucker!"
+<ptT0037>"That motherfucker!"
+
+//TEXT
+<enT0038>"I guess that makes you a sisterfucker, doesn't it?"
+<ptT0038>"I guess that makes you a sisterfucker, doesn't it?"
+
+//TEXT
+<enT0039>
+<ptT0039>
+
+//TEXT 【Tomosane】
+<enT0040>"Wh-What'd you say?!"
+<ptT0040>"Wh-What'd you say?!"
+
+//TEXT 【Tomosane】
+<enT0041>"Yuki-nee."
+<ptT0041>"Yuki-nee."
+
+//TEXT 【Yuki】
+<enT0042>"Was that your little brother just now?"
+<ptT0042>"Was that your little brother just now?"
+
+//TEXT 【Tomosane】
+<enT0043>"Yeah, Hasaki's twin brother."
+<ptT0043>"Yeah, Hasaki's twin brother."
+
+//TEXT 【Yuki】
+<enT0044>"Twins, huh? Wow."
+<ptT0044>"Twins, huh? Wow."
+
+//TEXT 【Tomosane】
+<enT0045>"He's the kind of scum that'd hit his sister."
+<ptT0045>"He's the kind of scum that'd hit his sister."
+
+//TEXT 【Yuki】
+<enT0046>"Hit her? Don't all siblings fight sometimes?"
+<ptT0046>"Hit her? Don't all siblings fight sometimes?"
+
+//TEXT 【Tomosane】
+<enT0047>"Hasaki doesn't do anything to him. It's just him being mean to her."
+<ptT0047>"Hasaki doesn't do anything to him. It's just him being mean to her."
+
+//TEXT 【Yuki】
+<enT0048>"Hmm, I see."
+<ptT0048>"Hmm, I see."
+
+//TEXT 【Yuki】
+<enT0049>"Oh, Hasaki-chan, you really like that doll, don't you? I always see you carrying it around."
+<ptT0049>"Oh, Hasaki-chan, you really like that doll, don't you? I always see you carrying it around."
+
+//TEXT 【Hasaki】
+<enT0050>"Yeah..."
+<ptT0050>"Yeah..."
+
+//TEXT
+<enT0051>Hasaki hugged the rabbit doll to her chest.
+<ptT0051>Hasaki hugged the rabbit doll to her chest.
+
+//TEXT
+<enT0052>It took me and Yuki-nee three seasons to make that rabbit.
+<ptT0052>It took me and Yuki-nee three seasons to make that rabbit.
+
+//TEXT
+<enT0053>It wasn't quite as good as the rabbit in the store window, but Hasaki was quite enamored with her doll nonetheless.
+<ptT0053>It wasn't quite as good as the rabbit in the store window, but Hasaki was quite enamored with her doll nonetheless.
+
+//TEXT 【Yuki】
+<enT0054>"Hmm, do you have the twin rabbits you got from Hasaki-chan, Tomosane?"
+<ptT0054>"Hmm, do you have the twin rabbits you got from Hasaki-chan, Tomosane?"
+
+//TEXT 【Tomosane】
+<enT0055>"They're in my room."
+<ptT0055>"They're in my room."
+
+//TEXT 【Yuki】
+<enT0056>"You should attach them to your phone or something, dumbass! Don't let them out of your sight!"
+<ptT0056>"You should attach them to your phone or something, dumbass! Don't let them out of your sight!"
+
+//TEXT 【Tomosane】
+<enT0057>"I-I'm a guy! I can't walk around with something like that!"
+<ptT0057>"I-I'm a guy! I can't walk around with something like that!"
+
+//TEXT 【Hasaki】
+<enT0058>"Y-You don't like them?"
+<ptT0058>"Y-You don't like them?"
+
+//TEXT 【Yuki】
+<enT0059>"You duummmmy!"
+<ptT0059>"You duummmmy!"
+
+//TEXT 【Tomosane】
+<enT0060>"Ow! Hey, don't hit me, stupid!"
+<ptT0060>"Ow! Hey, don't hit me, stupid!"
+
+//TEXT 【Yuki】
+<enT0061>"You're the stupid one!"
+<ptT0061>"You're the stupid one!"
+
+//TEXT 【Yuki】
+<enT0062>"Jeez, don't talk about Hasaki-chan's precious gift like that."
+<ptT0062>"Jeez, don't talk about Hasaki-chan's precious gift like that."
+
+//TEXT 【Tomosane】
+<enT0063>"I guess, but still, I can't put a rabbit doll on my phone."
+<ptT0063>"I guess, but still, I can't put a rabbit doll on my phone."
+
+//TEXT 【Yuki】
+<enT0064>"Shut up! Don't let it out of your sight, you hear me?! You're so stupid!"
+<ptT0064>"Shut up! Don't let it out of your sight, you hear me?! You're so stupid!"
+
+//TEXT 【Tomosane】
+<enT0065>"Ugh... Okay, fine."
+<ptT0065>"Ugh... Okay, fine."
+
+//TEXT
+<enT0066>
+<ptT0066>
+
+//TEXT 【Yuki】
+<enT0067>"So how is your doll doing?"
+<ptT0067>"So how is your doll doing?"
+
+//TEXT 【Hasaki】
+<enT0068>"It ripped a couple times, but Tomo Nii-san fixed it for me."
+<ptT0068>"It ripped a couple times, but Tomo Nii-san fixed it for me."
+
+//TEXT 【Yuki】
+<enT0069>"Oh, wow..."
+<ptT0069>"Oh, wow..."
+
+//TEXT 【Tomosane】
+<enT0070>"It took us so many tries that I learned how to sew up little things like that."
+<ptT0070>"It took us so many tries that I learned how to sew up little things like that."
+
+//TEXT 【Yuki】
+<enT0071>"You're good at all sorts of stuff, aren't you?"
+<ptT0071>"You're good at all sorts of stuff, aren't you?"
+
+//TEXT 【Hasaki】
+<enT0072>"Yeah, and he does well in school too. Tomo Nii-san gets good grades, and he's amazing at sports."
+<ptT0072>"Yeah, and he does well in school too. Tomo Nii-san gets good grades, and he's amazing at sports."
+
+//TEXT 【Tomosane】
+<enT0073>"No, my grades are... Well, let's just say the bar is set pretty low in this village."
+<ptT0073>"No, my grades are... Well, let's just say the bar is set pretty low in this village."
+
+//TEXT 【Yuki】
+<enT0074>"But I heard your grades were good in Tokyo too."
+<ptT0074>"But I heard your grades were good in Tokyo too."
+
+//TEXT 【Tomosane】
+<enT0075>"Well, I did study because I didn't want to lose to that jerk Takuji."
+<ptT0075>"Well, I did study because I didn't want to lose to that jerk Takuji."
+
+//TEXT 【Yuki】
+<enT0076>"Ahaha... You really don't like your little brother."
+<ptT0076>"Ahaha... You really don't like your little brother."
+
+//TEXT 【Tomosane】
+<enT0077>"It's more than that. I can't let him beat me at anything."
+<ptT0077>"It's more than that. I can't let him beat me at anything."
+
+//TEXT 【Hasaki】
+<enT0078>"I heard Takuji Nii-san got really amazing grades at school after you left."
+<ptT0078>"I heard Takuji Nii-san got really amazing grades at school after you left."
+
+//TEXT 【Hasaki】
+<enT0079>"I heard his test scores were some of the best in the country."
+<ptT0079>"I heard his test scores were some of the best in the country."
+
+//TEXT 【Tomosane】
+<enT0080>"Huh? Seriously?"
+<ptT0080>"Huh? Seriously?"
+
+//TEXT 【Hasaki】
+<enT0081>"Yeah."
+<ptT0081>"Yeah."
+
+//TEXT 【Yuki】
+<enT0082>"Whoa, now you're the one who's losing."
+<ptT0082>"Whoa, now you're the one who's losing."
+
+//TEXT 【Tomosane】
+<enT0083>"Wh-Who cares about that?! Being a man is about more than just getting good grades!"
+<ptT0083>"Wh-Who cares about that?! Being a man is about more than just getting good grades!"
+
+//TEXT 【Yuki】
+<enT0084>"Then what is it about?"
+<ptT0084>"Then what is it about?"
+
+//TEXT 【Tomosane】
+<enT0085>"Men should be able to fight."
+<ptT0085>"Men should be able to fight."
+
+//TEXT 【Yuki】
+<enT0086>"Are you an idiot?"
+<ptT0086>"Are you an idiot?"
+
+//TEXT 【Tomosane】
+<enT0087>"Anyway, if Takuji comes, make sure you yell for me right away."
+<ptT0087>"Anyway, if Takuji comes, make sure you yell for me right away."
+
+//TEXT 【Hasaki】
+<enT0088>"Oh, okay."
+<ptT0088>"Oh, okay."
+
+//TEXT 【Tomosane】
+<enT0089>"Who knows what he's up to..."
+<ptT0089>"Who knows what he's up to..."
+
+//TEXT 【Yuki】
+<enT0090>"..."
+<ptT0090>"..."
+
+//TEXT
+<enT0091>Yuki-nee's expression was conflicted.
+<ptT0091>Yuki-nee's expression was conflicted.
+
+//TEXT
+<enT0092>She probably wanted to say that siblings should get along.
+<ptT0092>She probably wanted to say that siblings should get along.
+
+//TEXT
+<enT0093>But Yuki-nee also understood that our family situation wasn't quite that simple.
+<ptT0093>But Yuki-nee also understood that our family situation wasn't quite that simple.
+
+//TEXT
+<enT0094>So she looked troubled, but she couldn't say anything.
+<ptT0094>So she looked troubled, but she couldn't say anything.
+
+//TEXT
+<enT0095>"Oh, if it isn't you, Nii-san."
+<ptT0095>"Oh, if it isn't you, Nii-san."
+
+//TEXT 【Tomosane】
+<enT0096>"What are you two here for?"
+<ptT0096>"What are you two here for?"
+
+//TEXT 【Takuji】
+<enT0097>"What are we here for? Naturally, we're here for the anniversary of my beloved father's death."
+<ptT0097>"What are we here for? Naturally, we're here for the anniversary of my beloved father's death."
+
+//TEXT 【Tomosane】
+<enT0098>"What are you babbling about? You guys didn't even come to his funeral."
+<ptT0098>"What are you babbling about? You guys didn't even come to his funeral."
+
+//TEXT 【Takuji】
+<enT0099>"That's because Mother was much too bereaved to come. She loved Father very dearly, you know."
+<ptT0099>"That's because Mother was much too bereaved to come. She loved Father very dearly, you know."
+
+//TEXT 【Tomosane】
+<enT0100>"Loved him? Are you stupid? If she loved him, why did she betray him?!"
+<ptT0100>"Loved him? Are you stupid? If she loved him, why did she betray him?!"
+
+//TEXT 【Takuji】
+<enT0101>Mother betrayed Father? That's only the fact that Hasaki and I were born.
+<ptT0101>Mother betrayed Father? That's only the fact that Hasaki and I were born.
+
+//TEXT
+<enT0102> Don't you understand that?"
+<ptT0102> Don't you understand that?"
+
+//TEXT 【Tomosane】
+<enT0103>"Wh-What?"
+<ptT0103>"Wh-What?"
+
+//TEXT 【Takuji】
+<enT0104>"Because Hasaki and I aren't Mamiya children. Half is Mother's blood, and the other half is from the pastor of the White Lotus Association."
+<ptT0104>"Because Hasaki and I aren't Mamiya children. Half is Mother's blood, and the other half is from the pastor of the White Lotus Association."
+
+//TEXT 【Takuji】
+<enT0105>"Even a child like me can understand what that means. The stork didn't bring us, and we weren't found in the vegetable patch."
+<ptT0105>"Even a child like me can understand what that means. The stork didn't bring us, and we weren't found in the vegetable patch."
+
+//TEXT 【Takuji】
+<enT0106>"Cause and effect... You would call the cause a betrayal, right?"
+<ptT0106>"Cause and effect... You would call the cause a betrayal, right?"
+
+//TEXT 【Takuji】
+<enT0107>"But if you call that a betrayal, then what of me and Hasaki, the children that were born as the effect?"
+<ptT0107>"But if you call that a betrayal, then what of me and Hasaki, the children that were born as the effect?"
+
+//TEXT 【Tomosane】
+<enT0108>"You're just spouting nonsense!"
+<ptT0108>"You're just spouting nonsense!"
+
+//TEXT 【Takuji】
+<enT0109>"It's not nonsense. It's merely reality."
+<ptT0109>"It's not nonsense. It's merely reality."
+
+//TEXT 【Takuji】
+<enT0110>"If you want to call Mother a traitor, then you should call Hasaki the same thing."
+<ptT0110>"If you want to call Mother a traitor, then you should call Hasaki the same thing."
+
+//TEXT 【Tomosane】
+<enT0111>"Why would I do that?! Hasaki didn't do anything wrong! Who would call her a traitor?"
+<ptT0111>"Why would I do that?! Hasaki didn't do anything wrong! Who would call her a traitor?"
+
+//TEXT 【Tomosane】
+<enT0112>"No one would say that! I won't let you say that. I'll never let you."
+<ptT0112>"No one would say that! I won't let you say that. I'll never let you."
+
+//TEXT 【Takuji】
+<enT0113>"As usual, you're not being logical. I just can't understand you."
+<ptT0113>"As usual, you're not being logical. I just can't understand you."
+
+//TEXT 【Takuji】
+<enT0114>"If Mother is a traitor, then Hasaki and I are both the result of treachery, the symbol of an ethically problematic birth out of wedlock. Isn't that the logical conclusion here?"
+<ptT0114>"If Mother is a traitor, then Hasaki and I are both the result of treachery, the symbol of an ethically problematic birth out of wedlock. Isn't that the logical conclusion here?"
+
+//TEXT 【Tomosane】
+<enT0115>"Grr..."
+<ptT0115>"Grr..."
+
+//TEXT
+<enT0116>What a creepy guy. He was always like this, but he's gotten even worse with age.
+<ptT0116>What a creepy guy. He was always like this, but he's gotten even worse with age.
+
+//TEXT
+<enT0117>He keeps using words I've never heard before.
+<ptT0117>He keeps using words I've never heard before.
+
+//TEXT 【Tomosane】
+<enT0118>"Hasaki isn't the symbol of treachery. You always distort the situation and force your own interpretation on things."
+<ptT0118>"Hasaki isn't the symbol of treachery. You always distort the situation and force your own interpretation on things."
+
+//TEXT 【Tomosane】
+<enT0119>"That woman who betrayed Dad and slept with another man is a traitor. That alone is the truth."
+<ptT0119>"That woman who betrayed Dad and slept with another man is a traitor. That alone is the truth."
+
+//TEXT 【Tomosane】
+<enT0120>"That's not Hasaki's fault. There's no way any of that is Hasaki's fault. No matter what you say, Hasaki isn't the one who sinned!"
+<ptT0120>"That's not Hasaki's fault. There's no way any of that is Hasaki's fault. No matter what you say, Hasaki isn't the one who sinned!"
+
+//TEXT 【Takuji】
+<enT0121>"Haa... Why do you want to protect Hasaki so much?"
+<ptT0121>"Haa... Why do you want to protect Hasaki so much?"
+
+//TEXT 【Tomosane】
+<enT0122>"Because she's my little sister, obviously!"
+<ptT0122>"Because she's my little sister, obviously!"
+
+//TEXT 【Takuji】
+<enT0123>"Even though she has the blood of a traitor and an adulterer."
+<ptT0123>"Even though she has the blood of a traitor and an adulterer."
+
+//TEXT 【Tomosane】
+<enT0124>"Her blood doesn't matter. Who cares about a traitor's blood! An adulterer's blood? Are you stupid? Hasaki is my little sister, and that's all there is to it!"
+<ptT0124>"Her blood doesn't matter. Who cares about a traitor's blood! An adulterer's blood? Are you stupid? Hasaki is my little sister, and that's all there is to it!"
+
+//TEXT 【Takuji】
+<enT0125>"Hehehe... I thought you were a bit smarter than that. That argument doesn't hold water."
+<ptT0125>"Hehehe... I thought you were a bit smarter than that. That argument doesn't hold water."
+
+//TEXT 【Tomosane】
+<enT0126>"I don't feel like having any argument with someone like you to begin with."
+<ptT0126>"I don't feel like having any argument with someone like you to begin with."
+
+//TEXT 【Takuji】
+<enT0127>"Why's that? If Hasaki is your little sister, then I'm your little brother, aren't I?"
+<ptT0127>"Why's that? If Hasaki is your little sister, then I'm your little brother, aren't I?"
+
+//TEXT 【Tomosane】
+<enT0128>"Yeah, that's right. There was a time when I thought I could believe that, but I refuse to recognize a brother that would hope for Hasaki's death."
+<ptT0128>"Yeah, that's right. There was a time when I thought I could believe that, but I refuse to recognize a brother that would hope for Hasaki's death."
+
+//TEXT 【Takuji】
+<enT0129>"That again? When did I hope for Hasaki's death?"
+<ptT0129>"That again? When did I hope for Hasaki's death?"
+
+//TEXT 【Tomosane】
+<enT0130>"You always have!"
+<ptT0130>"You always have!"
+
+//TEXT 【Tomosane】
+<enT0131>"You both wanted Hasaki to disappear. You thought it would be perfect if Hasaki would just disappear from this world."
+<ptT0131>"You both wanted Hasaki to disappear. You thought it would be perfect if Hasaki would just disappear from this world."
+
+//TEXT 【Tomosane】
+<enT0132>"I've heard you both say that more times than I can count."
+<ptT0132>"I've heard you both say that more times than I can count."
+
+//TEXT 【Takuji】
+<enT0133>"Haa... That's a misunderstanding."
+<ptT0133>"Haa... That's a misunderstanding."
+
+//TEXT 【Tomosane】
+<enT0134>"That wasn't a misunderstanding at all. You guys still believe in that silly prophecy, don't you?"
+<ptT0134>"That wasn't a misunderstanding at all. You guys still believe in that silly prophecy, don't you?"
+
+//TEXT 【Takuji】
+<enT0135>"Silly, is it? You must be talking about the White Lotus Association pastor's prophecy, right?"
+<ptT0135>"Silly, is it? You must be talking about the White Lotus Association pastor's prophecy, right?"
+
+//TEXT 【Tomosane】
+<enT0136>"Yeah, you and that woman still believe in it. That's why you hate Hasaki."
+<ptT0136>"Yeah, you and that woman still believe in it. That's why you hate Hasaki."
+
+//TEXT 【Takuji】
+<enT0137>"Hahaha... That's not true. I don't hate Hasaki at all."
+<ptT0137>"Hahaha... That's not true. I don't hate Hasaki at all."
+
+//TEXT 【Tomosane】
+<enT0138>"Don't play dumb, Takuji."
+<ptT0138>"Don't play dumb, Takuji."
+
+//TEXT 【Takuji】
+<enT0139>"All right, all right. I'll admit that in the past I occasionally had some thoughts like that."
+<ptT0139>"All right, all right. I'll admit that in the past I occasionally had some thoughts like that."
+
+//TEXT 【Takuji】
+<enT0140>"That doesn't mean that I still hate Hasaki. To me, Hasaki is a precious little sister."
+<ptT0140>"That doesn't mean that I still hate Hasaki. To me, Hasaki is a precious little sister."
+
+//TEXT 【Tomosane】
+<enT0141>"Precious? The only precious thing to you is the savior's blood heritage, isn't it?"
+<ptT0141>"Precious? The only precious thing to you is the savior's blood heritage, isn't it?"
+
+//TEXT 【Takuji】
+<enT0142>"The White Lotus Association's prophecy... Do you really think we still believe in that?"
+<ptT0142>"The White Lotus Association's prophecy... Do you really think we still believe in that?"
+
+//TEXT 【Tomosane】
+<enT0143>"That's exactly what I think."
+<ptT0143>"That's exactly what I think."
+
+//TEXT 【Takuji】
+<enT0144>"That's all in the past. Mother has already withdrawn from the White Lotus Association, you know."
+<ptT0144>"That's all in the past. Mother has already withdrawn from the White Lotus Association, you know."
+
+//TEXT 【Tomosane】
+<enT0145>"..."
+<ptT0145>"..."
+
+//TEXT 【Takuji】
+<enT0146>"Can't you just believe me and Mother after all this time? I'm sure that's what our father would've wanted too."
+<ptT0146>"Can't you just believe me and Mother after all this time? I'm sure that's what our father would've wanted too."
+
+//TEXT 【Tomosane】
+<enT0147>"D-Dad..."
+<ptT0147>"D-Dad..."
+
+//TEXT
+<enT0148>I guess that really is what Dad would've wanted.
+<ptT0148>I guess that really is what Dad would've wanted.
+
+//TEXT
+<enT0149>He wanted us to live together as a family, not keep on hating each other.
+<ptT0149>He wanted us to live together as a family, not keep on hating each other.
+
+//TEXT
+<enT0150>But...
+<ptT0150>But...
+
+//TEXT 【Tomosane】
+<enT0151>"Anyway, if you do anything to Hasaki, I'll be coming after you. You'd better tell that woman, too."
+<ptT0151>"Anyway, if you do anything to Hasaki, I'll be coming after you. You'd better tell that woman, too."
+
+//TEXT 【Takuji】
+<enT0152>"You call her 'that woman'? You always say horrible things to Mother. Why don't you stop talking like that?"
+<ptT0152>"You call her 'that woman'? You always say horrible things to Mother. Why don't you stop talking like that?"
+
+//TEXT 【Tomosane】
+<enT0153>"No matter what you say to me, I won't forgive that woman."
+<ptT0153>"No matter what you say to me, I won't forgive that woman."
+
+//TEXT 【Tomosane】
+<enT0154>"No matter what the reason was, the fact that she betrayed me and Dad won't change."
+<ptT0154>"No matter what the reason was, the fact that she betrayed me and Dad won't change."
+
+//TEXT 【Takuji】
+<enT0155>"Hmm, I haven't seen you in a while, and now I'm just disappointed, Nii-san."
+<ptT0155>"Hmm, I haven't seen you in a while, and now I'm just disappointed, Nii-san."
+
+//TEXT 【Tomosane】
+<enT0156>"What?"
+<ptT0156>"What?"
+
+//TEXT 【Takuji】
+<enT0157>"You're just a child. Everything you're saying is so immature."
+<ptT0157>"You're just a child. Everything you're saying is so immature."
+
+//TEXT 【Tomosane】
+<enT0158>"What did you call me, Takuji?"
+<ptT0158>"What did you call me, Takuji?"
+
+//TEXT 【Takuji】
+<enT0159>"Hehehe... Oh, right, I guess you've gotten pretty strong."
+<ptT0159>"Hehehe... Oh, right, I guess you've gotten pretty strong."
+
+//TEXT 【Tomosane】
+<enT0160>"Yeah, I have."
+<ptT0160>"Yeah, I have."
+
+//TEXT 【Takuji】
+<enT0161>"You were always pretty strong, but this time it won't go the same way."
+<ptT0161>"You were always pretty strong, but this time it won't go the same way."
+
+//TEXT 【Tomosane】
+<enT0162>"Quit bluffing. If you want to fight, then I'll take you on. Come at me already."
+<ptT0162>"Quit bluffing. If you want to fight, then I'll take you on. Come at me already."
+
+//TEXT 【Takuji】
+<enT0163>"Heh, no thanks... I don't know what you're thinking. I'm no good at fighting."
+<ptT0163>"Heh, no thanks... I don't know what you're thinking. I'm no good at fighting."
+
+//TEXT 【Tomosane】
+<enT0164>"What was that?"
+<ptT0164>"What was that?"
+
+//TEXT 【Takuji】
+<enT0165>"I'm not going to be a child forever. I'm not going to worry about things I can't beat you at, especially if they're worthless things."
+<ptT0165>"I'm not going to be a child forever. I'm not going to worry about things I can't beat you at, especially if they're worthless things."
+
+//TEXT 【Tomosane】
+<enT0166>"Worthless, huh?"
+<ptT0166>"Worthless, huh?"
+
+//TEXT 【Takuji】
+<enT0167>"Oh, sorry, sorry. Don't misunderstand me. I'm just saying that I don't want to fight you, that's all."
+<ptT0167>"Oh, sorry, sorry. Don't misunderstand me. I'm just saying that I don't want to fight you, that's all."
+
+//TEXT 【Takuji】
+<enT0168>"I just don't want to fight someone I can't beat is all."
+<ptT0168>"I just don't want to fight someone I can't beat is all."
+
+//TEXT 【Tomosane】
+<enT0169>"Tch."
+<ptT0169>"Tch."
+
+//TEXT
+<enT0170>Takuji made that creepy laugh again.
+<ptT0170>Takuji made that creepy laugh again.
+
+//TEXT
+<enT0171>Even though his face was laughing, his eyes looked completely different.
+<ptT0171>Even though his face was laughing, his eyes looked completely different.
+
+//TEXT
+<enT0172>The anniversary ceremony ended before the sun went down.
+<ptT0172>The anniversary ceremony ended before the sun went down.
+
+//TEXT
+<enT0173>I tried to help with the cleanup, but Yuki-nee stopped me.
+<ptT0173>I tried to help with the cleanup, but Yuki-nee stopped me.
+
+//TEXT 【Yuki】
+<enT0174>"Don't worry about that. The students from the dojo will take care of it. More importantly..."
+<ptT0174>"Don't worry about that. The students from the dojo will take care of it. More importantly..."
+
+//TEXT
+<enT0175>Then Yuki-nee took my hand.
+<ptT0175>Then Yuki-nee took my hand.
+
+//TEXT
+<enT0176>Hasaki was still holding onto my other hand.
+<ptT0176>Hasaki was still holding onto my other hand.
+
+//TEXT
+<enT0177>The sun was already setting as the three of us hit the road.
+<ptT0177>The sun was already setting as the three of us hit the road.
+
+//TEXT
+<enT0178>As the curtain of night fell, Hasaki, Yuki-nee, and I walked up that same hill.
+<ptT0178>As the curtain of night fell, Hasaki, Yuki-nee, and I walked up that same hill.
+
+//TEXT 【Yuki】
+<enT0179>"No matter how many times I see them, these sunflowers are really amazing."
+<ptT0179>"No matter how many times I see them, these sunflowers are really amazing."
+
+//TEXT 【Tomosane】
+<enT0180>"Yeah, it's pretty impressive seeing so many of them together. It's actually kind of creepy in a way."
+<ptT0180>"Yeah, it's pretty impressive seeing so many of them together. It's actually kind of creepy in a way."
+
+//TEXT 【Hasaki】
+<enT0181>"That's not true. The sunflowers are really pretty."
+<ptT0181>"That's not true. The sunflowers are really pretty."
+
+//TEXT 【Yuki】
+<enT0182>"Do you like sunflowers, Hasaki-chan?"
+<ptT0182>"Do you like sunflowers, Hasaki-chan?"
+
+//TEXT 【Hasaki】
+<enT0183>"Yeah. What about you?"
+<ptT0183>"Yeah. What about you?"
+
+//TEXT 【Yuki】
+<enT0184>"Me, huh? Well, I guess I like them as much as most people."
+<ptT0184>"Me, huh? Well, I guess I like them as much as most people."
+
+//TEXT 【Hasaki】
+<enT0185>"Well, I really like them a lot!"
+<ptT0185>"Well, I really like them a lot!"
+
+//TEXT 【Tomosane】
+<enT0186>"H-Hey, don't run! You're gonna trip like last year!"
+<ptT0186>"H-Hey, don't run! You're gonna trip like last year!"
+
+//TEXT 【Yuki】
+<enT0187>"Don't worry so much. It's not like she can see all the sunflowers whenever she wants. Let her have some fun."
+<ptT0187>"Don't worry so much. It's not like she can see all the sunflowers whenever she wants. Let her have some fun."
+
+//TEXT 【Tomosane】
+<enT0188>"Well, that's true."
+<ptT0188>"Well, that's true."
+
+//TEXT 【Yuki】
+<enT0189>"And Hasaki-chan has gotten a lot bigger since last year. She won't fall like she did before."
+<ptT0189>"And Hasaki-chan has gotten a lot bigger since last year. She won't fall like she did before."
+
+//TEXT 【Tomosane】
+<enT0190>"Yeah."
+<ptT0190>"Yeah."
+
+//TEXT
+<enT0191>Hasaki really had changed in the last year.
+<ptT0191>Hasaki really had changed in the last year.
+
+//TEXT
+<enT0192>Her feet looked clumsy and unsure before, but now they nimbly danced over the soft earth.
+<ptT0192>Her feet looked clumsy and unsure before, but now they nimbly danced over the soft earth.
+
+//TEXT 【Yuki】
+<enT0193>"What do you think about the sunflowers, Tomosane?"
+<ptT0193>"What do you think about the sunflowers, Tomosane?"
+
+//TEXT 【Tomosane】
+<enT0194>"The sunflowers, huh? I looked them up in a book, and it said they were related to Chrysanthemums."
+<ptT0194>"The sunflowers, huh? I looked them up in a book, and it said they were related to Chrysanthemums."
+
+//TEXT 【Yuki】
+<enT0195>"I guess they are."
+<ptT0195>"I guess they are."
+
+//TEXT 【Tomosane】
+<enT0196>"I guess that's why they look like 'em."
+<ptT0196>"I guess that's why they look like 'em."
+
+//TEXT 【Yuki】
+<enT0197>"Look like what?"
+<ptT0197>"Look like what?"
+
+//TEXT 【Tomosane】
+<enT0198>"Like I said, like mums."
+<ptT0198>"Like I said, like mums."
+
+//TEXT 【Yuki】
+<enT0199>"Really? Don't you think they're way too big?"
+<ptT0199>"Really? Don't you think they're way too big?"
+
+//TEXT 【Tomosane】
+<enT0200>"Yeah, their size and shape is different, but sunflowers and mums still look pretty similar."
+<ptT0200>"Yeah, their size and shape is different, but sunflowers and mums still look pretty similar."
+
+//TEXT 【Yuki】
+<enT0201>"What's similar about them?"
+<ptT0201>"What's similar about them?"
+
+//TEXT 【Tomosane】
+<enT0202>"They're awfully gloomy."
+<ptT0202>"They're awfully gloomy."
+
+//TEXT 【Yuki】
+<enT0203>"I guess so."
+<ptT0203>"I guess so."
+
+//TEXT
+<enT0204>Yuki-nee looked up at the sunflowers again, as if she was convinced by my answer.
+<ptT0204>Yuki-nee looked up at the sunflowers again, as if she was convinced by my answer.
+
+//TEXT 【Yuki】
+<enT0205>"You know how they say that blooming sunflowers turn to face the sun, right?"
+<ptT0205>"You know how they say that blooming sunflowers turn to face the sun, right?"
+
+//TEXT 【Yuki】
+<enT0206>"If they turn to face the sun, doesn't that make them like a symbol of brightness?"
+<ptT0206>"If they turn to face the sun, doesn't that make them like a symbol of brightness?"
+
+//TEXT 【Tomosane】
+<enT0207>"Blooming sunflowers don't turn to face the sun."
+<ptT0207>"Blooming sunflowers don't turn to face the sun."
+
+//TEXT 【Yuki】
+<enT0208>"Huh? Really?"
+<ptT0208>"Huh? Really?"
+
+//TEXT 【Tomosane】
+<enT0209>"Yeah. Sunflowers start to chase the sun before they bloom."
+<ptT0209>"Yeah. Sunflowers start to chase the sun before they bloom."
+
+//TEXT 【Tomosane】
+<enT0210>"Once they actually bloom, they stop chasing after the sun."
+<ptT0210>"Once they actually bloom, they stop chasing after the sun."
+
+//TEXT 【Yuki】
+<enT0211>"Wow. I didn't know that."
+<ptT0211>"Wow. I didn't know that."
+
+//TEXT 【Tomosane】
+<enT0212>"That's another reason why they're just gloomy."
+<ptT0212>"That's another reason why they're just gloomy."
+
+//TEXT 【Yuki】
+<enT0213>"Why is that?"
+<ptT0213>"Why is that?"
+
+//TEXT 【Tomosane】
+<enT0214>"Well, there probably aren't very many people who would say that sunflowers are gloomy."
+<ptT0214>"Well, there probably aren't very many people who would say that sunflowers are gloomy."
+
+//TEXT 【Tomosane】
+<enT0215>"But to me, those flowers look like..."
+<ptT0215>"But to me, those flowers look like..."
+
+//TEXT
+<enT0216>To me...
+<ptT0216>To me...
+
+//TEXT
+<enT0217>They're like...
+<ptT0217>They're like...
+
+//TEXT 【Tomosane】
+<enT0218>"They look like flowers for funerals."
+<ptT0218>"They look like flowers for funerals."
+
+//TEXT 【Tomosane】
+<enT0219>"I probably got a strong first impression of sunflowers on that day. I still remember the time when I followed Hasaki up this hill."
+<ptT0219>"I probably got a strong first impression of sunflowers on that day. I still remember the time when I followed Hasaki up this hill."
+
+//TEXT 【Yuki】
+<enT0220>"I see. So the sunflowers on the hill look like flowers for the deceased."
+<ptT0220>"I see. So the sunflowers on the hill look like flowers for the deceased."
+
+//TEXT 【Tomosane】
+<enT0221>"Yeah. That's about right."
+<ptT0221>"Yeah. That's about right."
+
+//TEXT
+<enT0222>Once you wade through the sunflowers, you come upon a road shrouded in darkness.
+<ptT0222>Once you wade through the sunflowers, you come upon a road shrouded in darkness.
+
+//TEXT
+<enT0223>Just like last year, it looked like the road to the underworld.
+<ptT0223>Just like last year, it looked like the road to the underworld.
+
+//TEXT
+<enT0224>Last year, I didn't know this, but there are actually a lot of people who believe that road crosses over the border to the underworld.
+<ptT0224>Last year, I didn't know this, but there are actually a lot of people who believe that road crosses over the border to the underworld.
+
+//TEXT
+<enT0225>I later realized that there are a lot of mentions of that road in old books in the village.
+<ptT0225>I later realized that there are a lot of mentions of that road in old books in the village.
+
+//TEXT
+<enT0226>In reality, that road doesn't lead to the underworld at all.
+<ptT0226>In reality, that road doesn't lead to the underworld at all.
+
+//TEXT
+<enT0227>Neither Hades nor Heaven, nor even a new world lies beyond that peak.
+<ptT0227>Neither Hades nor Heaven, nor even a new world lies beyond that peak.
+
+//TEXT
+<enT0228>It's just another ordinary landscape on the other side.
+<ptT0228>It's just another ordinary landscape on the other side.
+
+//TEXT 【Yuki】
+<enT0229>"Hasaki-chan, are you okay? It's a pretty steep hill."
+<ptT0229>"Hasaki-chan, are you okay? It's a pretty steep hill."
+
+//TEXT 【Hasaki】
+<enT0230>"Yeah, I-I'm okay."
+<ptT0230>"Yeah, I-I'm okay."
+
+//TEXT 【Tomosane】
+<enT0231>"Don't worry about it so much, Yuki-nee. She's walked up here before. You're the one who said Hasaki has gotten a lot bigger, after all."
+<ptT0231>"Don't worry about it so much, Yuki-nee. She's walked up here before. You're the one who said Hasaki has gotten a lot bigger, after all."
+
+//TEXT 【Hasaki】
+<enT0232>"Yeah, I'm okay. I'm bigger than I was back then."
+<ptT0232>"Yeah, I'm okay. I'm bigger than I was back then."
+
+//TEXT 【Yuki】
+<enT0233>"Ahaha, that's true. You've really grown up in the last year, Hasaki-chan."
+<ptT0233>"Ahaha, that's true. You've really grown up in the last year, Hasaki-chan."
+
+//TEXT
+<enT0234>
+<ptT0234>
+
+//TEXT 【Tomosane】
+<enT0235>"You can't really grow up in just one year, though."
+<ptT0235>"You can't really grow up in just one year, though."
+
+//TEXT 【Yuki】
+<enT0236>"You don't know what you're talking about. Hasaki has definitely grown up a lot."
+<ptT0236>"You don't know what you're talking about. Hasaki has definitely grown up a lot."
+
+//TEXT 【Tomosane】
+<enT0237>"How exactly has she grown up?"
+<ptT0237>"How exactly has she grown up?"
+
+//TEXT 【Yuki】
+<enT0238>"Let's see. She's taller, for example."
+<ptT0238>"Let's see. She's taller, for example."
+
+//TEXT 【Tomosane】
+<enT0239>"Well, I guess so, but she's still a little squirt."
+<ptT0239>"Well, I guess so, but she's still a little squirt."
+
+//TEXT 【Yuki】
+<enT0240>"Also, she doesn't call herself 'Hasaki' when she's speaking."
+<ptT0240>"Also, she doesn't call herself 'Hasaki' when she's speaking."
+
+//TEXT 【Tomosane】
+<enT0241>"Oh, that's right. Sometimes she called herself Hasaki instead of just saying 'I.' Why did that change?"
+<ptT0241>"Oh, that's right. Sometimes she called herself Hasaki instead of just saying 'I.' Why did that change?"
+
+//TEXT 【Hasaki】
+<enT0242>"Change? Did I really say that?"
+<ptT0242>"Change? Did I really say that?"
+
+//TEXT 【Yuki】
+<enT0243>"You still say it sometimes, but not very much anymore."
+<ptT0243>"You still say it sometimes, but not very much anymore."
+
+//TEXT 【Hasaki】
+<enT0244>"Oh, really? I didn't even realize."
+<ptT0244>"Oh, really? I didn't even realize."
+
+//TEXT 【Yuki】
+<enT0245>"Well, you don't always say it. You've definitely changed from the way you were last year.
+<ptT0245>"Well, you don't always say it. You've definitely changed from the way you were last year.
+
+//TEXT 【Tomosane】
+<enT0246>"You sure are observant."
+<ptT0246>"You sure are observant."
+
+//TEXT 【Yuki】
+<enT0247>"Of course I am. You've become awfully manly yourself."
+<ptT0247>"Of course I am. You've become awfully manly yourself."
+
+//TEXT 【Tomosane】
+<enT0248>"I was always a man."
+<ptT0248>"I was always a man."
+
+//TEXT 【Yuki】
+<enT0249>"No, I mean you've grown."
+<ptT0249>"No, I mean you've grown."
+
+//TEXT 【Tomosane】
+<enT0250>"Really?"
+<ptT0250>"Really?"
+
+//TEXT 【Yuki】
+<enT0251>"You guys are still young, so maybe you don't know."
+<ptT0251>"You guys are still young, so maybe you don't know."
+
+//TEXT 【Yuki】
+<enT0252>"That's pretty common, actually. Even if you don't notice yourself changing, you're still changing."
+<ptT0252>"That's pretty common, actually. Even if you don't notice yourself changing, you're still changing."
+
+//TEXT 【Yuki】
+<enT0253>"Take this creepy mountain road you thought you'd never climb, for instance. All of a sudden, you find yourself using it every day, just like that."
+<ptT0253>"Take this creepy mountain road you thought you'd never climb, for instance. All of a sudden, you find yourself using it every day, just like that."
+
+//TEXT 【Yuki】
+<enT0254>"Time passes, and sometimes it's hard to tell whether it's you that's changing or the world around you."
+<ptT0254>"Time passes, and sometimes it's hard to tell whether it's you that's changing or the world around you."
+
+//TEXT 【Tomosane】
+<enT0255>"Is it like that for you too?"
+<ptT0255>"Is it like that for you too?"
+
+//TEXT 【Yuki】
+<enT0256>"Don't ask me. What do you think? Have I changed?"
+<ptT0256>"Don't ask me. What do you think? Have I changed?"
+
+//TEXT 【Tomosane】
+<enT0257>"You haven't changed much. Not at all, really."
+<ptT0257>"You haven't changed much. Not at all, really."
+
+//TEXT 【Yuki】
+<enT0258>"I'll take your word for it."
+<ptT0258>"I'll take your word for it."
+
+//TEXT
+<enT0259>We made our way through the darkness and came out on the same hilltop as before.
+<ptT0259>We made our way through the darkness and came out on the same hilltop as before.
+
+//TEXT
+<enT0260>The stars shone in the clear sky.
+<ptT0260>The stars shone in the clear sky.
+
+//TEXT 【Hasaki】
+<enT0261>"Wow..."
+<ptT0261>"Wow..."
+
+//TEXT 【Yuki】
+<enT0262>"The stars really are beautiful today."
+<ptT0262>"The stars really are beautiful today."
+
+//TEXT 【Yuki】
+<enT0263>"It's a waning moon today."
+<ptT0263>"It's a waning moon today."
+
+//TEXT 【Tomosane】
+<enT0264>"Waning?"
+<ptT0264>"Waning?"
+
+//TEXT 【Yuki】
+<enT0265>"Yeah, it's a waning moon, but you can't see it yet."
+<ptT0265>"Yeah, it's a waning moon, but you can't see it yet."
+
+//TEXT 【Yuki】
+<enT0266>"There's no moonlight, so the stars are really bright."
+<ptT0266>"There's no moonlight, so the stars are really bright."
+
+//TEXT 【Hasaki】
+<enT0267>"That's why the sky is so pretty!"
+<ptT0267>"That's why the sky is so pretty!"
+
+//TEXT 【Yuki】
+<enT0268>"Yeah, that's right."
+<ptT0268>"Yeah, that's right."
+
+//TEXT 【Hasaki】
+<enT0269>"Can I go play?"
+<ptT0269>"Can I go play?"
+
+//TEXT 【Yuki】
+<enT0270>"Yeah, but don't go any further than this."
+<ptT0270>"Yeah, but don't go any further than this."
+
+//TEXT 【Hasaki】
+<enT0271>"Why not?"
+<ptT0271>"Why not?"
+
+//TEXT 【Yuki】
+<enT0272>"There's a place where the hill turns into a steep cliff."
+<ptT0272>"There's a place where the hill turns into a steep cliff."
+
+//TEXT 【Hasaki】
+<enT0273>"A cliff?"
+<ptT0273>"A cliff?"
+
+//TEXT 【Yuki】
+<enT0274>"Yeah, so don't walk over here."
+<ptT0274>"Yeah, so don't walk over here."
+
+//TEXT 【Hasaki】
+<enT0275>"All right."
+<ptT0275>"All right."
+
+//TEXT 【Yuki】
+<enT0276>"What about you, Tomosane?"
+<ptT0276>"What about you, Tomosane?"
+
+//TEXT 【Tomosane】
+<enT0277>"What about me?"
+<ptT0277>"What about me?"
+
+//TEXT 【Yuki】
+<enT0278>"Won't you play with us?"
+<ptT0278>"Won't you play with us?"
+
+//TEXT 【Tomosane】
+<enT0279>"Why?"
+<ptT0279>"Why?"
+
+//TEXT 【Yuki】
+<enT0280>"You want to play, don't you?"
+<ptT0280>"You want to play, don't you?"
+
+//TEXT 【Tomosane】
+<enT0281>"Not really. I'm not a kid."
+<ptT0281>"Not really. I'm not a kid."
+
+//TEXT 【Yuki】
+<enT0282>"You really are a kid..."
+<ptT0282>"You really are a kid..."
+
+//TEXT 【Tomosane】
+<enT0283>"Hmph. That's what you always say."
+<ptT0283>"Hmph. That's what you always say."
+
+//TEXT 【Yuki】
+<enT0284>"I guess so. That's why..."
+<ptT0284>"I guess so. That's why..."
+
+//TEXT 【Tomosane】
+<enT0285>"Why what?"
+<ptT0285>"Why what?"
+
+//TEXT 【Yuki】
+<enT0286>"You need to grow up already."
+<ptT0286>"You need to grow up already."
+
+//TEXT 【Tomosane】
+<enT0287>"Huh?"
+<ptT0287>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0288>"Wh-What's that mean? Are you treating me like a kid again?"
+<ptT0288>"Wh-What's that mean? Are you treating me like a kid again?"
+
+//TEXT 【Yuki】
+<enT0289>"No, no, I'm just saying you ought to hurry up and become a real man."
+<ptT0289>"No, no, I'm just saying you ought to hurry up and become a real man."
+
+//TEXT
+<enT0290>
+<ptT0290>
+
+//TEXT 【Tomosane】
+<enT0291>"Come on, I am a real man."
+<ptT0291>"Come on, I am a real man."
+
+//TEXT 【Yuki】
+<enT0292>"Jeez, do I have to spell it out for you?"
+<ptT0292>"Jeez, do I have to spell it out for you?"
+
+//TEXT 【Tomosane】
+<enT0293>"Sure, spell it out for me."
+<ptT0293>"Sure, spell it out for me."
+
+//TEXT 【Yuki】
+<enT0294>"Okay, fine."
+<ptT0294>"Okay, fine."
+
+//TEXT 【Yuki】
+<enT0295>"Tomosane, you ought to grow up and propose to me."
+<ptT0295>"Tomosane, you ought to grow up and propose to me."
+
+//TEXT 【Tomosane】
+<enT0296>"Huh? Wh-What's that supposed to mean?"
+<ptT0296>"Huh? Wh-What's that supposed to mean?"
+
+//TEXT 【Yuki】
+<enT0297>"Ahaha, you're blushing! Hahahaha."
+<ptT0297>"Ahaha, you're blushing! Hahahaha."
+
+//TEXT 【Tomosane】
+<enT0298>"Wh-What? Are you're teasing me?"
+<ptT0298>"Wh-What? Are you're teasing me?"
+
+//TEXT 【Yuki】
+<enT0299>"Ahaha, you're blushing so much."
+<ptT0299>"Ahaha, you're blushing so much."
+
+//TEXT 【Tomosane】
+<enT0300>"Wh-Why, you―!"
+<ptT0300>"Wh-Why, you―!"
+
+//TEXT
+<enT0301>
+<ptT0301>
+
+//TEXT 【Yuki】
+<enT0302>"S-Stop it! Whoa!"
+<ptT0302>"S-Stop it! Whoa!"
+
+//TEXT 【Yuki】
+<enT0303>"Ow, ow, ow..."
+<ptT0303>"Ow, ow, ow..."
+
+//TEXT 【Tomosane】
+<enT0304>"Huh?!"
+<ptT0304>"Huh?!"
+
+//TEXT 【Yuki】
+<enT0305>"Come on, now. You're a lot bigger than you used to be, so be careful. Hurry up, you're heavy."
+<ptT0305>"Come on, now. You're a lot bigger than you used to be, so be careful. Hurry up, you're heavy."
+
+//TEXT 【Tomosane】
+<enT0306>"S-Sorry!"
+<ptT0306>"S-Sorry!"
+
+//TEXT 【Yuki】
+<enT0307>"Why are you blushing?"
+<ptT0307>"Why are you blushing?"
+
+//TEXT 【Tomosane】
+<enT0308>"Oh, uh..."
+<ptT0308>"Oh, uh..."
+
+//TEXT 【Yuki】
+<enT0309>"Huh... Whoa, my skirt!"
+<ptT0309>"Huh... Whoa, my skirt!"
+
+//TEXT 【Yuki】
+<enT0310>"Did you look?"
+<ptT0310>"Did you look?"
+
+//TEXT 【Tomosane】
+<enT0311>"Oh, uh... Just for a second..."
+<ptT0311>"Oh, uh... Just for a second..."
+
+//TEXT 【Yuki】
+<enT0312>"Hmph!"
+<ptT0312>"Hmph!"
+
+//TEXT 【Tomosane】
+<enT0313>"Ah, wait, I'm sorry."
+<ptT0313>"Ah, wait, I'm sorry."
+
+//TEXT 【Yuki】
+<enT0314>"Heh...
+<ptT0314>"Heh...
+
+//TEXT
+<enT0315> Hahahahahaha!"
+<ptT0315> Hahahahahaha!"
+
+//TEXT 【Tomosane】
+<enT0316>"Wh-What?"
+<ptT0316>"Wh-What?"
+
+//TEXT 【Yuki】
+<enT0317>"Oh, nothing. It's just that we're both old enough now that I have to care if you see my underwear."
+<ptT0317>"Oh, nothing. It's just that we're both old enough now that I have to care if you see my underwear."
+
+//TEXT 【Tomosane】
+<enT0318>"What do you mean?"
+<ptT0318>"What do you mean?"
+
+//TEXT 【Yuki】
+<enT0319>"You don't understand? Well, that makes sense. It's just that before I never would've cared if you saw my underwear, because you were just some dumb kid."
+<ptT0319>"You don't understand? Well, that makes sense. It's just that before I never would've cared if you saw my underwear, because you were just some dumb kid."
+
+//TEXT 【Yuki】
+<enT0320>"Ahahaha, but I'm getting red too. Why am I blushing?"
+<ptT0320>"Ahahaha, but I'm getting red too. Why am I blushing?"
+
+//TEXT 【Tomosane】
+<enT0321>"Wh-Why wouldn't you be?!"
+<ptT0321>"Wh-Why wouldn't you be?!"
+
+//TEXT 【Yuki】
+<enT0322>"I guess it's not that weird, yeah. Hahahaha..."
+<ptT0322>"I guess it's not that weird, yeah. Hahahaha..."
+
+//TEXT
+<enT0323>Yuki-nee kept on laughing loudly.
+<ptT0323>Yuki-nee kept on laughing loudly.
+
+//TEXT
+<enT0324>I didn't understand why she was laughing.
+<ptT0324>I didn't understand why she was laughing.
+
+//TEXT
+<enT0325>I wasn't entirely sure, but I felt like she wasn't making fun of me this time.
+<ptT0325>I wasn't entirely sure, but I felt like she wasn't making fun of me this time.
+
+//TEXT 【Yuki】
+<enT0326>"Still, though, the sky really is pretty. It's like the stars could coming raining down on top of us."
+<ptT0326>"Still, though, the sky really is pretty. It's like the stars could coming raining down on top of us."
+
+//TEXT 【Tomosane】
+<enT0327>"But stars don't fall."
+<ptT0327>"But stars don't fall."
+
+//TEXT 【Yuki】
+<enT0328>"That's right. The stars don't fall. The only thing that falls on Earth is light from distant stars and distant worlds."
+<ptT0328>"That's right. The stars don't fall. The only thing that falls on Earth is light from distant stars and distant worlds."
+
+//TEXT 【Yuki】
+<enT0329>"The world is really interesting."
+<ptT0329>"The world is really interesting."
+
+//TEXT 【Tomosane】
+<enT0330>"How so?"
+<ptT0330>"How so?"
+
+//TEXT 【Yuki】
+<enT0331>"I mean, just look. We can see the light from worlds so far away."
+<ptT0331>"I mean, just look. We can see the light from worlds so far away."
+
+//TEXT 【Tomosane】
+<enT0332>"What's so strange about that?"
+<ptT0332>"What's so strange about that?"
+
+//TEXT 【Yuki】
+<enT0333>"How wide are our brains?"
+<ptT0333>"How wide are our brains?"
+
+//TEXT 【Tomosane】
+<enT0334>"What do you mean?"
+<ptT0334>"What do you mean?"
+
+//TEXT 【Yuki】
+<enT0335>"It's a poem. My favorite poem in the world."
+<ptT0335>"It's a poem. My favorite poem in the world."
+
+//TEXT 【Yuki】
+<enT0336>"The brain is wider than the sky."
+<ptT0336>"The brain is wider than the sky."
+
+//TEXT 【Yuki】
+<enT0337>"For, put them side by side, the one the other will include..."
+<ptT0337>"For, put them side by side, the one the other will include..."
+
+//TEXT 【Yuki】
+<enT0338>"With ease, and you beside."
+<ptT0338>"With ease, and you beside."
+
+//TEXT 【Yuki】
+<enT0339>"The brain is deeper than the sea."
+<ptT0339>"The brain is deeper than the sea."
+
+//TEXT 【Yuki】
+<enT0340>"For, hold them, blue to blue..."
+<ptT0340>"For, hold them, blue to blue..."
+
+//TEXT 【Yuki】
+<enT0341>"The one the other will absorb..."
+<ptT0341>"The one the other will absorb..."
+
+//TEXT 【Yuki】
+<enT0342>"As sponges, buckets do."
+<ptT0342>"As sponges, buckets do."
+
+//TEXT 【Yuki】
+<enT0343>"The brain is just the weight of God."
+<ptT0343>"The brain is just the weight of God."
+
+//TEXT 【Yuki】
+<enT0344>"For, lift them, pound for pound..."
+<ptT0344>"For, lift them, pound for pound..."
+
+//TEXT 【Yuki】
+<enT0345>"And they will differ, if they do..."
+<ptT0345>"And they will differ, if they do..."
+
+//TEXT 【Yuki】
+<enT0346>"As syllable from sound."
+<ptT0346>"As syllable from sound."
+
+//TEXT 【Tomosane】
+<enT0347>"As syllable... from sound..."
+<ptT0347>"As syllable... from sound..."
+
+//TEXT 【Yuki】
+<enT0348>"Yep."
+<ptT0348>"Yep."
+
+//TEXT 【Tomosane】
+<enT0349>"That's wrong."
+<ptT0349>"That's wrong."
+
+//TEXT 【Yuki】
+<enT0350>"Why?"
+<ptT0350>"Why?"
+
+//TEXT 【Tomosane】
+<enT0351>"There is no God."
+<ptT0351>"There is no God."
+
+//TEXT 【Yuki】
+<enT0352>"There's no God in the world. I see."
+<ptT0352>"There's no God in the world. I see."
+
+//TEXT 【Tomosane】
+<enT0353>"Yeah, there's no way he could exist."
+<ptT0353>"Yeah, there's no way he could exist."
+
+//TEXT
+<enT0354>If he existed, then why would he make our family be like this?
+<ptT0354>If he existed, then why would he make our family be like this?
+
+//TEXT
+<enT0355>Why would he kill Dad?
+<ptT0355>Why would he kill Dad?
+
+//TEXT 【Tomosane】
+<enT0356>"The person called God..."
+<ptT0356>"The person called God..."
+
+//TEXT 【Yuki】
+<enT0357>"He's not a person."
+<ptT0357>"He's not a person."
+
+//TEXT 【Tomosane】
+<enT0358>"Well, anyway, even if he existed, he'd be weak and powerless. A worthless jerk."
+<ptT0358>"Well, anyway, even if he existed, he'd be weak and powerless. A worthless jerk."
+
+//TEXT 【Yuki】
+<enT0359>"A worthless jerk?"
+<ptT0359>"A worthless jerk?"
+
+//TEXT 【Yuki】
+<enT0360>"Actually, speaking of that, I've thought about it too."
+<ptT0360>"Actually, speaking of that, I've thought about it too."
+
+//TEXT 【Yuki】
+<enT0361>"They say that God created the world in one week."
+<ptT0361>"They say that God created the world in one week."
+
+//TEXT 【Yuki】
+<enT0362>"That's ridiculous."
+<ptT0362>"That's ridiculous."
+
+//TEXT 【Yuki】
+<enT0363>"If God really was the guy who created the world, he would say this."
+<ptT0363>"If God really was the guy who created the world, he would say this."
+
+//TEXT 【Yuki】
+<enT0364>"'I shouldn't have made this.'"
+<ptT0364>"'I shouldn't have made this.'"
+
+//TEXT 【Yuki】
+<enT0365>"Don't you think?"
+<ptT0365>"Don't you think?"
+
+//TEXT 【Yuki】
+<enT0366>"'Wait, that part isn't done yet!'"
+<ptT0366>"'Wait, that part isn't done yet!'"
+
+//TEXT 【Tomosane】
+<enT0367>"Yeah, that's what I think. No matter how many people are suffering on Earth, he just sits back and lives it up, like he doesn't give a shit."
+<ptT0367>"Yeah, that's what I think. No matter how many people are suffering on Earth, he just sits back and lives it up, like he doesn't give a shit."
+
+//TEXT 【Yuki】
+<enT0368>"Hehehe. If God was anything like a real person, that's what I would say to him."
+<ptT0368>"Hehehe. If God was anything like a real person, that's what I would say to him."
+
+//TEXT 【Yuki】
+<enT0369>"Yeah, he's really just scum."
+<ptT0369>"Yeah, he's really just scum."
+
+//TEXT 【Yuki】
+<enT0370>"He can do anything, and yet he doesn't act."
+<ptT0370>"He can do anything, and yet he doesn't act."
+
+//TEXT 【Yuki】
+<enT0371>"That said, have you ever heard this?"
+<ptT0371>"That said, have you ever heard this?"
+
+//TEXT 【Tomosane】
+<enT0372>"Heard what?"
+<ptT0372>"Heard what?"
+
+//TEXT 【Yuki】
+<enT0373>"Have you heard the story about the footprints in the sand?"
+<ptT0373>"Have you heard the story about the footprints in the sand?"
+
+//TEXT 【Tomosane】
+<enT0374>"What's that?"
+<ptT0374>"What's that?"
+
+//TEXT 【Yuki】
+<enT0375>"God walks beside us in our lives. So when you die and look back at the path your life took, you will find another set of footprints next to your own."
+<ptT0375>"God walks beside us in our lives. So when you die and look back at the path your life took, you will find another set of footprints next to your own."
+
+//TEXT 【Yuki】
+<enT0376>"A human life is supported by another power."
+<ptT0376>"A human life is supported by another power."
+
+//TEXT 【Yuki】
+<enT0377>"But then, in the lowest and saddest times of your life, you will find only one set of footprints."
+<ptT0377>"But then, in the lowest and saddest times of your life, you will find only one set of footprints."
+
+//TEXT 【Tomosane】
+<enT0378>"There's no one walking beside you in your saddest moments. That's when you need God the most, isn't it?"
+<ptT0378>"There's no one walking beside you in your saddest moments. That's when you need God the most, isn't it?"
+
+//TEXT 【Yuki】
+<enT0379>"That's not it."
+<ptT0379>"That's not it."
+
+//TEXT 【Yuki】
+<enT0380>"In those moments, when you see only one set of footprints, that was when he carried you."
+<ptT0380>"In those moments, when you see only one set of footprints, that was when he carried you."
+
+//TEXT 【Tomosane】
+<enT0381>"Carried me?"
+<ptT0381>"Carried me?"
+
+//TEXT 【Yuki】
+<enT0382>"That's right. Even when you think there's no way to keep going, you still move forward in life."
+<ptT0382>"That's right. Even when you think there's no way to keep going, you still move forward in life."
+
+//TEXT 【Yuki】
+<enT0383>"Just like when Hasaki-chan thought that there was no way she could ever climb that hill."
+<ptT0383>"Just like when Hasaki-chan thought that there was no way she could ever climb that hill."
+
+//TEXT 【Yuki】
+<enT0384>"People always move forward. They can't stop in place."
+<ptT0384>"People always move forward. They can't stop in place."
+
+//TEXT 【Yuki】
+<enT0385>"There's one sentence inscribed in all our hearts."
+<ptT0385>"There's one sentence inscribed in all our hearts."
+
+//TEXT 【Tomosane】
+<enT0386>"Inscribed in our hearts?"
+<ptT0386>"Inscribed in our hearts?"
+
+//TEXT 【Yuki】
+<enT0387>"Yeah, a command that's inscribed in the heart of every person... No, a command inscribed in the heart of every living thing."
+<ptT0387>"Yeah, a command that's inscribed in the heart of every person... No, a command inscribed in the heart of every living thing."
+
+//TEXT 【Tomosane】
+<enT0388>"In every living thing..."
+<ptT0388>"In every living thing..."
+
+//TEXT 【Yuki】
+<enT0389>"Yes, and that inscription says just this."
+<ptT0389>"Yes, and that inscription says just this."
+
+//TEXT 【Yuki】
+<enT0390>"Live happily!"
+<ptT0390>"Live happily!"
+
+//TEXT 【Yuki】
+<enT0391>"A cat. A dog. A zebra. A tiger. A cicada. And even a human."
+<ptT0391>"A cat. A dog. A zebra. A tiger. A cicada. And even a human."
+
+//TEXT 【Yuki】
+<enT0392>"Equally, they all must live happily!"
+<ptT0392>"Equally, they all must live happily!"
+
+//TEXT 【Tomosane】
+<enT0393>"What are you talking about?"
+<ptT0393>"What are you talking about?"
+
+//TEXT 【Yuki】
+<enT0394>"No animal lives without seeking happiness. They all live to seek their own happiness."
+<ptT0394>"No animal lives without seeking happiness. They all live to seek their own happiness."
+
+//TEXT 【Yuki】
+<enT0395>"Because they are commanded to do so."
+<ptT0395>"Because they are commanded to do so."
+
+//TEXT 【Tomosane】
+<enT0396>"Is that really a command?"
+<ptT0396>"Is that really a command?"
+
+//TEXT 【Yuki】
+<enT0397>"Who knows? But don't you think it is?"
+<ptT0397>"Who knows? But don't you think it is?"
+
+//TEXT 【Yuki】
+<enT0398>"And humans too... No, humans strive for happiness more than any other animal."
+<ptT0398>"And humans too... No, humans strive for happiness more than any other animal."
+
+//TEXT 【Yuki】
+<enT0399>"And then they despair."
+<ptT0399>"And then they despair."
+
+//TEXT 【Tomosane】
+<enT0400>"Why is that?"
+<ptT0400>"Why is that?"
+
+//TEXT 【Yuki】
+<enT0401>"You can't despair until you've hoped for happiness."
+<ptT0401>"You can't despair until you've hoped for happiness."
+
+//TEXT 【Yuki】
+<enT0402>"It's the same reason why animals don't experience despair."
+<ptT0402>"It's the same reason why animals don't experience despair."
+
+//TEXT 【Tomosane】
+<enT0403>"But animals try to live happily too, don't they?"
+<ptT0403>"But animals try to live happily too, don't they?"
+
+//TEXT 【Yuki】
+<enT0404>"That's right."
+<ptT0404>"That's right."
+
+//TEXT 【Tomosane】
+<enT0405>"Then why don't animals experience despair?"
+<ptT0405>"Then why don't animals experience despair?"
+
+//TEXT 【Yuki】
+<enT0406>"That should be obvious. Animals are living in happiness."
+<ptT0406>"That should be obvious. Animals are living in happiness."
+
+//TEXT 【Tomosane】
+<enT0407>"What? There are some animals that aren't happy, right?"
+<ptT0407>"What? There are some animals that aren't happy, right?"
+
+//TEXT 【Yuki】
+<enT0408>"There aren't. Animals are always happy."
+<ptT0408>"There aren't. Animals are always happy."
+
+//TEXT 【Yuki】
+<enT0409>"All living beings are equally happy until the moment of their death."
+<ptT0409>"All living beings are equally happy until the moment of their death."
+
+//TEXT 【Tomosane】
+<enT0410>"Why is that?"
+<ptT0410>"Why is that?"
+
+//TEXT 【Yuki】
+<enT0411>"Who can say?"
+<ptT0411>"Who can say?"
+
+//TEXT 【Tomosane】
+<enT0412>"You don't know?"
+<ptT0412>"You don't know?"
+
+//TEXT 【Yuki】
+<enT0413>"Ahaha. I actually do. The answer is simple."
+<ptT0413>"Ahaha. I actually do. The answer is simple."
+
+//TEXT 【Yuki】
+<enT0414>"They don't know death."
+<ptT0414>"They don't know death."
+
+//TEXT 【Yuki】
+<enT0415>"Animals are living through an eternal phase."
+<ptT0415>"Animals are living through an eternal phase."
+
+//TEXT 【Yuki】
+<enT0416>"So animals who try to live happily are always happy."
+<ptT0416>"So animals who try to live happily are always happy."
+
+//TEXT 【Tomosane】
+<enT0417>"Animals don't know death?"
+<ptT0417>"Animals don't know death?"
+
+//TEXT 【Yuki】
+<enT0418>"Isn't that obvious?"
+<ptT0418>"Isn't that obvious?"
+
+//TEXT 【Tomosane】
+<enT0419>"Why not?"
+<ptT0419>"Why not?"
+
+//TEXT 【Yuki】
+<enT0420>"Because in reality, no one knows what death is."
+<ptT0420>"Because in reality, no one knows what death is."
+
+//TEXT 【Tomosane】
+<enT0421>"No one?"
+<ptT0421>"No one?"
+
+//TEXT 【Yuki】
+<enT0422>"Yeah, no one knows death. No one has ever experienced death."
+<ptT0422>"Yeah, no one knows death. No one has ever experienced death."
+
+//TEXT 【Yuki】
+<enT0423>"Death can only be imagined. It's not something you can ever actually reach."
+<ptT0423>"Death can only be imagined. It's not something you can ever actually reach."
+
+//TEXT 【Yuki】
+<enT0424>"People don't know death. And yet they imagine death, and they can only drown in the midst of happiness because of it."
+<ptT0424>"People don't know death. And yet they imagine death, and they can only drown in the midst of happiness because of it."
+
+//TEXT 【Yuki】
+<enT0425>"Despair is a privilege reserved for those who can drown even in the midst of happiness."
+<ptT0425>"Despair is a privilege reserved for those who can drown even in the midst of happiness."
+
+//TEXT 【Tomosane】
+<enT0426>"A privilege? That sounds like a bad thing."
+<ptT0426>"A privilege? That sounds like a bad thing."
+
+//TEXT 【Yuki】
+<enT0427>"That's right. Still, that's how people found their words."
+<ptT0427>"That's right. Still, that's how people found their words."
+
+//TEXT 【Yuki】
+<enT0428>"Because they felt that the sky was beautiful."
+<ptT0428>"Because they felt that the sky was beautiful."
+
+//TEXT 【Yuki】
+<enT0429>"Because they prayed that the world could be better."
+<ptT0429>"Because they prayed that the world could be better."
+
+//TEXT 【Yuki】
+<enT0430>"Words, beauty, and prayers."
+<ptT0430>"Words, beauty, and prayers."
+
+//TEXT 【Yuki】
+<enT0431>"They found their wonderful days along with those three powers."
+<ptT0431>"They found their wonderful days along with those three powers."
+
+//TEXT 【Yuki】
+<enT0432>"People, find happiness!"
+<ptT0432>"People, find happiness!"
+
+//TEXT 【Yuki】
+<enT0433>"Do not drown in your happinesss. Do not despair of this world."
+<ptT0433>"Do not drown in your happinesss. Do not despair of this world."
+
+//TEXT 【Yuki】
+<enT0434>"Just live happily. Something like that."
+<ptT0434>"Just live happily. Something like that."
+
+//TEXT 【Tomosane】
+<enT0435>"Just live happily, huh?"
+<ptT0435>"Just live happily, huh?"
+
+//TEXT 【Yuki】
+<enT0436>"Well, I'm kind of making it sound dramatic."
+<ptT0436>"Well, I'm kind of making it sound dramatic."
+
+//TEXT 【Yuki】
+<enT0437>"Ahahaha...
+<ptT0437>"Ahahaha...
+
+//TEXT
+<enT0438> But it's really amazing, you know."
+<ptT0438> But it's really amazing, you know."
+
+//TEXT 【Tomosane】
+<enT0439>"What is?"
+<ptT0439>"What is?"
+
+//TEXT 【Yuki】
+<enT0440>"I was just looking at the sky again. The stars really are amazing."
+<ptT0440>"I was just looking at the sky again. The stars really are amazing."
+
+//TEXT 【Yuki】
+<enT0441>"Ahahaha..."
+<ptT0441>"Ahahaha..."
+
+//TEXT
+<enT0442>Yuki-nee stretched her arms out and laughed.
+<ptT0442>Yuki-nee stretched her arms out and laughed.
+
+//TEXT 【Yuki】
+<enT0443>"This entire sky... this entire universe is all in our heads. It's so, so amazing."
+<ptT0443>"This entire sky... this entire universe is all in our heads. It's so, so amazing."
+
+//TEXT 【Tomosane】
+<enT0444>"All in our heads..."
+<ptT0444>"All in our heads..."
+
+//TEXT
+<enT0445>When she told me that, I looked up at the sky once again.
+<ptT0445>When she told me that, I looked up at the sky once again.
+
+//TEXT
+<enT0446>This beautiful sky is in the world inside my head.
+<ptT0446>This beautiful sky is in the world inside my head.
+
+//TEXT
+<enT0447>Of course, that makes perfect sense.
+<ptT0447>Of course, that makes perfect sense.
+
+//TEXT
+<enT0448>But once I arrived at that thought, my feelings changed to fear.
+<ptT0448>But once I arrived at that thought, my feelings changed to fear.
+
+//TEXT
+<enT0449>All of it is just my own world.
+<ptT0449>All of it is just my own world.
+
+//TEXT
+<enT0450>Anyone would be overwhelmed if they were faced with the realization that such an expansive, starry sky was all within their own head.
+<ptT0450>Anyone would be overwhelmed if they were faced with the realization that such an expansive, starry sky was all within their own head.
+
+//TEXT 【Yuki】
+<enT0451>"I thought of all that stuff just now."
+<ptT0451>"I thought of all that stuff just now."
+
+//TEXT 【Tomosane】
+<enT0452>"Really?"
+<ptT0452>"Really?"
+
+//TEXT 【Yuki】
+<enT0453>"Yeah, that's what I thought when I looked up at the stars."
+<ptT0453>"Yeah, that's what I thought when I looked up at the stars."
+
+//TEXT 【Yuki】
+<enT0454>"Of course, I always wondered about it. Just like you, Tomosane."
+<ptT0454>"Of course, I always wondered about it. Just like you, Tomosane."
+
+//TEXT 【Yuki】
+<enT0455>"There is no God in the world."
+<ptT0455>"There is no God in the world."
+
+//TEXT 【Yuki】
+<enT0456>"Quite the opposite. Everything born into this world is under a sort of curse."
+<ptT0456>"Quite the opposite. Everything born into this world is under a sort of curse."
+
+//TEXT 【Yuki】
+<enT0457>"Because they all have to die."
+<ptT0457>"Because they all have to die."
+
+//TEXT 【Yuki】
+<enT0458>"All those happy times have to end."
+<ptT0458>"All those happy times have to end."
+
+//TEXT 【Yuki】
+<enT0459>"All the joyful moments have to end."
+<ptT0459>"All the joyful moments have to end."
+
+//TEXT 【Yuki】
+<enT0460>"No matter how much you might love someone. No matter how much you might love the world."
+<ptT0460>"No matter how much you might love someone. No matter how much you might love the world."
+
+//TEXT 【Yuki】
+<enT0461>"It will end."
+<ptT0461>"It will end."
+
+//TEXT 【Yuki】
+<enT0462>"It will all come to the end we call death."
+<ptT0462>"It will all come to the end we call death."
+
+//TEXT 【Yuki】
+<enT0463>"That's why I think anyone born into this world is cursed."
+<ptT0463>"That's why I think anyone born into this world is cursed."
+
+//TEXT 【Yuki】
+<enT0464>"Because happiness is just a warning of the end to come."
+<ptT0464>"Because happiness is just a warning of the end to come."
+
+//TEXT 【Yuki】
+<enT0465>"Maybe that's the reason why I saw the same dream over and over."
+<ptT0465>"Maybe that's the reason why I saw the same dream over and over."
+
+//TEXT 【Tomosane】
+<enT0466>"The same dream?"
+<ptT0466>"The same dream?"
+
+//TEXT 【Yuki】
+<enT0467>"Yeah. A dream about a baby."
+<ptT0467>"Yeah. A dream about a baby."
+
+//TEXT 【Tomosane】
+<enT0468>"You're afraid of a baby in your dreams?"
+<ptT0468>"You're afraid of a baby in your dreams?"
+
+//TEXT 【Yuki】
+<enT0469>"Yeah, it's really scary. It's such a scary dream that I wake up crying."
+<ptT0469>"Yeah, it's really scary. It's such a scary dream that I wake up crying."
+
+//TEXT 【Yuki】
+<enT0470>"There's a newborn baby. I don't know who the mother is."
+<ptT0470>"There's a newborn baby. I don't know who the mother is."
+
+//TEXT 【Yuki】
+<enT0471>"No, maybe I'm the one who gave birth to this baby."
+<ptT0471>"No, maybe I'm the one who gave birth to this baby."
+
+//TEXT 【Yuki】
+<enT0472>"So I was happy."
+<ptT0472>"So I was happy."
+
+//TEXT 【Tomosane】
+<enT0473>"Happy?"
+<ptT0473>"Happy?"
+
+//TEXT 【Yuki】
+<enT0474>"Yeah, I was really happy."
+<ptT0474>"Yeah, I was really happy."
+
+//TEXT 【Yuki】
+<enT0475>"And then that baby cries. Wah, wah. Like that."
+<ptT0475>"And then that baby cries. Wah, wah. Like that."
+
+//TEXT 【Yuki】
+<enT0476>"I'm happy, so I smile and laugh along with everyone else in the room."
+<ptT0476>"I'm happy, so I smile and laugh along with everyone else in the room."
+
+//TEXT 【Yuki】
+<enT0477>"That's a blessing on the baby."
+<ptT0477>"That's a blessing on the baby."
+
+//TEXT 【Yuki】
+<enT0478>"A blessing on life."
+<ptT0478>"A blessing on life."
+
+//TEXT 【Yuki】
+<enT0479>"I'm simply happy. I'm thankful that the baby made it safely into the world."
+<ptT0479>"I'm simply happy. I'm thankful that the baby made it safely into the world."
+
+//TEXT 【Yuki】
+<enT0480>"So the world is full of blessings on life."
+<ptT0480>"So the world is full of blessings on life."
+
+//TEXT 【Yuki】
+<enT0481>"But then... Then I realize."
+<ptT0481>"But then... Then I realize."
+
+//TEXT 【Yuki】
+<enT0482>"'Oh, that's not quite right.'"
+<ptT0482>"'Oh, that's not quite right.'"
+
+//TEXT 【Yuki】
+<enT0483>"At that moment, I'm the only one who feels fear. I'm surrounded by smiling faces, and I'm the only one who feels fear."
+<ptT0483>"At that moment, I'm the only one who feels fear. I'm surrounded by smiling faces, and I'm the only one who feels fear."
+
+//TEXT 【Yuki】
+<enT0484>"Because I realize something. I realize that the child is cursing the world."
+<ptT0484>"Because I realize something. I realize that the child is cursing the world."
+
+//TEXT 【Yuki】
+<enT0485>"He's cursing the fact that he was born."
+<ptT0485>"He's cursing the fact that he was born."
+
+//TEXT 【Yuki】
+<enT0486>"Everyone smiles, but I'm frozen in place. I'm alone in a world of blessings."
+<ptT0486>"Everyone smiles, but I'm frozen in place. I'm alone in a world of blessings."
+
+//TEXT 【Yuki】
+<enT0487>"At that moment, I think to myself. I have to stop the baby's crying. I have to throttle that newborn infant. I have to end that life right here, right now."
+<ptT0487>"At that moment, I think to myself. I have to stop the baby's crying. I have to throttle that newborn infant. I have to end that life right here, right now."
+
+//TEXT 【Yuki】
+<enT0488>"Because being born is a curse."
+<ptT0488>"Because being born is a curse."
+
+//TEXT 【Yuki】
+<enT0489>"At the very least, the newborn infant thinks that it's a curse."
+<ptT0489>"At the very least, the newborn infant thinks that it's a curse."
+
+//TEXT 【Yuki】
+<enT0490>"So in order to end that cursed life, I have to..."
+<ptT0490>"So in order to end that cursed life, I have to..."
+
+//TEXT 【Yuki】
+<enT0491>"But of course, I can't do it."
+<ptT0491>"But of course, I can't do it."
+
+//TEXT 【Yuki】
+<enT0492>"I can't put my hands around the crying infant's neck and strangle him."
+<ptT0492>"I can't put my hands around the crying infant's neck and strangle him."
+
+//TEXT 【Yuki】
+<enT0493>"Why can't I do it? The baby can only curse life, but I can't put an end to that life."
+<ptT0493>"Why can't I do it? The baby can only curse life, but I can't put an end to that life."
+
+//TEXT 【Yuki】
+<enT0494>"I have to do it, but I can't."
+<ptT0494>"I have to do it, but I can't."
+
+//TEXT 【Yuki】
+<enT0495>"And then I cry and cry. Even though no one would actually cry in that situation."
+<ptT0495>"And then I cry and cry. Even though no one would actually cry in that situation."
+
+//TEXT 【Yuki】
+<enT0496>"And soon, the baby's crying."
+<ptT0496>"And soon, the baby's crying."
+
+//TEXT 【Yuki】
+<enT0497>"I realize the baby's crying."
+<ptT0497>"I realize the baby's crying."
+
+//TEXT 【Yuki】
+<enT0498>"I realize that his crying has calmed down."
+<ptT0498>"I realize that his crying has calmed down."
+
+//TEXT 【Yuki】
+<enT0499>"And as I listen to him, I'm just thankful for it."
+<ptT0499>"And as I listen to him, I'm just thankful for it."
+
+//TEXT 【Yuki】
+<enT0500>"And then I pray for this happiness in his life."
+<ptT0500>"And then I pray for this happiness in his life."
+
+//TEXT 【Yuki】
+<enT0501>"Today, I finally realized what that dream means."
+<ptT0501>"Today, I finally realized what that dream means."
+
+//TEXT 【Tomosane】
+<enT0502>"Really?"
+<ptT0502>"Really?"
+
+//TEXT 【Yuki】
+<enT0503>"Well, maybe you still don't understand."
+<ptT0503>"Well, maybe you still don't understand."
+
+//TEXT 【Yuki】
+<enT0504>"But when I looked up at the stars, I found the answer."
+<ptT0504>"But when I looked up at the stars, I found the answer."
+
+//TEXT 【Yuki】
+<enT0505>"Why you mustn't end a crying baby's life."
+<ptT0505>"Why you mustn't end a crying baby's life."
+
+//TEXT 【Yuki】
+<enT0506>"Why a person would mourn the death of another."
+<ptT0506>"Why a person would mourn the death of another."
+
+//TEXT 【Yuki】
+<enT0507>"And why the grief they feel is certainly not misplaced."
+<ptT0507>"And why the grief they feel is certainly not misplaced."
+
+//TEXT 【Yuki】
+<enT0508>"One is right to pray in the darkness."
+<ptT0508>"One is right to pray in the darkness."
+
+//TEXT 【Yuki】
+<enT0509>"And to love the world."
+<ptT0509>"And to love the world."
+
+//TEXT 【Yuki】
+<enT0510>"The love that fills the world."
+<ptT0510>"The love that fills the world."
+
+//TEXT 【Yuki】
+<enT0511>"That love is prayer."
+<ptT0511>"That love is prayer."
+
+//TEXT 【Yuki】
+<enT0512>"The blessing upon the sky that hangs over our heads."
+<ptT0512>"The blessing upon the sky that hangs over our heads."
+
+//TEXT 【Yuki】
+<enT0513>"That is prayer."
+<ptT0513>"That is prayer."
+
+//TEXT 【Yuki】
+<enT0514>"The world is filled with blessings."
+<ptT0514>"The world is filled with blessings."
+
+//TEXT 【Yuki】
+<enT0515>"That's why man is able to live in the eternal phase."
+<ptT0515>"That's why man is able to live in the eternal phase."
+
+//TEXT 【Yuki】
+<enT0516>"We can do it."
+<ptT0516>"We can do it."
+
+//TEXT 【Tomosane】
+<enT0517>"Yuki-nee..."
+<ptT0517>"Yuki-nee..."
+
+//TEXT 【Yuki】
+<enT0518>"It's so amazing! Confucius said that if he could learn the truth in the morning, he wouldn't mind dying in the evening of that same day."
+<ptT0518>"It's so amazing! Confucius said that if he could learn the truth in the morning, he wouldn't mind dying in the evening of that same day."
+
+//TEXT 【Yuki】
+<enT0519>"Will I die now?"
+<ptT0519>"Will I die now?"
+
+//TEXT 【Tomosane】
+<enT0520>"Did you learn the truth that Confucius was looking for?"
+<ptT0520>"Did you learn the truth that Confucius was looking for?"
+
+//TEXT 【Yuki】
+<enT0521>"I'm not sure."
+<ptT0521>"I'm not sure."
+
+//TEXT
+<enT0522>Yuki-nee laughed.
+<ptT0522>Yuki-nee laughed.
+
+//TEXT
+<enT0523>As if she was convinced that she really would die soon.
+<ptT0523>As if she was convinced that she really would die soon.
+
+//TEXT
+<enT0524>She blessed her final night.
+<ptT0524>She blessed her final night.
+
+//TEXT
+<enT0525>It was several more minutes before I noticed something was strange.
+<ptT0525>It was several more minutes before I noticed something was strange.
+
+//TEXT
+<enT0526>I felt that there was someone behind me. Yuki and I both noticed it.
+<ptT0526>I felt that there was someone behind me. Yuki and I both noticed it.
+
+//TEXT 【Yuki】
+<enT0527>"K-Kotomi-san."
+<ptT0527>"K-Kotomi-san."
+
+//TEXT 【Tomosane】
+<enT0528>"Wh-Why are you here?"
+<ptT0528>"Wh-Why are you here?"
+
+//TEXT 【Kotomi】
+<enT0529>"Yuki-chan, you've grown so much. You were just a little girl before."
+<ptT0529>"Yuki-chan, you've grown so much. You were just a little girl before."
+
+//TEXT 【Kotomi】
+<enT0530>"You were about as big as Hasaki is now. You've really grown up."
+<ptT0530>"You were about as big as Hasaki is now. You've really grown up."
+
+//TEXT 【Tomosane】
+<enT0531>"Hey, answer my question! Why are you here?!"
+<ptT0531>"Hey, answer my question! Why are you here?!"
+
+//TEXT 【Yuki】
+<enT0532>"She must've followed us."
+<ptT0532>"She must've followed us."
+
+//TEXT 【Kotomi】
+<enT0533>"No, not at all."
+<ptT0533>"No, not at all."
+
+//TEXT 【Yuki】
+<enT0534>"Then why are you here?"
+<ptT0534>"Then why are you here?"
+
+//TEXT 【Kotomi】
+<enT0535>"It was determined that it should be so."
+<ptT0535>"It was determined that it should be so."
+
+//TEXT 【Yuki】
+<enT0536>"Determined?"
+<ptT0536>"Determined?"
+
+//TEXT 【Kotomi】
+<enT0537>"Yes. Everything is determined by prophecy."
+<ptT0537>"Yes. Everything is determined by prophecy."
+
+//TEXT 【Tomosane】
+<enT0538>"The prophecy? So you do still believe in that prophecy!"
+<ptT0538>"The prophecy? So you do still believe in that prophecy!"
+
+//TEXT 【Kotomi】
+<enT0539>"Prophecy? The law of pre-established harmony is far more than a simple prophecy. Though a bad boy like you wouldn't understand that, Tomosane."
+<ptT0539>"Prophecy? The law of pre-established harmony is far more than a simple prophecy. Though a bad boy like you wouldn't understand that, Tomosane."
+
+//TEXT 【Yuki】
+<enT0540>"Wh-What is this prophecy?"
+<ptT0540>"Wh-What is this prophecy?"
+
+//TEXT 【Tomosane】
+<enT0541>"This woman thinks that the entire history leading up to the world's ultimate destruction has already been determined."
+<ptT0541>"This woman thinks that the entire history leading up to the world's ultimate destruction has already been determined."
+
+//TEXT 【Yuki】
+<enT0542>"The world's... destruction."
+<ptT0542>"The world's... destruction."
+
+//TEXT 【Tomosane】
+<enT0543>"Takuji said that you don't believe in that prophecy anymore!"
+<ptT0543>"Takuji said that you don't believe in that prophecy anymore!"
+
+//TEXT 【Kotomi】
+<enT0544>"Of course he did. He's a smart child. Unlike you, he isn't picky about how he accomplishes his goals."
+<ptT0544>"Of course he did. He's a smart child. Unlike you, he isn't picky about how he accomplishes his goals."
+
+//TEXT 【Tomosane】
+<enT0545>"G-Goals?"
+<ptT0545>"G-Goals?"
+
+//TEXT 【Yuki】
+<enT0546>"What goal are you talking about?"
+<ptT0546>"What goal are you talking about?"
+
+//TEXT 【Tomosane】
+<enT0547>"You guys are still trying to kill Hasaki."
+<ptT0547>"You guys are still trying to kill Hasaki."
+
+//TEXT 【Yuki】
+<enT0548>"Kill Hasaki-chan?"
+<ptT0548>"Kill Hasaki-chan?"
+
+//TEXT 【Kotomi】
+<enT0549>"Kill her? What are you talking about? We only want to return her to the place where she belongs."
+<ptT0549>"Kill her? What are you talking about? We only want to return her to the place where she belongs."
+
+//TEXT 【Tomosane】
+<enT0550>"And you're still deluded as ever."
+<ptT0550>"And you're still deluded as ever."
+
+//TEXT 【Hasaki】
+<enT0551>"Nooo!"
+<ptT0551>"Nooo!"
+
+//TEXT
+<enT0552>
+<ptT0552>
+
+//TEXT 【Tomosane】
+<enT0553>"H-Hasaki?!"
+<ptT0553>"H-Hasaki?!"
+
+//TEXT 【Yuki】
+<enT0554>"Hey! W-Wait, Tomosane."
+<ptT0554>"Hey! W-Wait, Tomosane."
+
+//TEXT
+<enT0555>I ran toward Hasaki's screaming voice.
+<ptT0555>I ran toward Hasaki's screaming voice.
+
+//TEXT 【Yuki】
+<enT0556>"T-Tomosane! There's a cliff there, so be careful! It's dark out!"
+<ptT0556>"T-Tomosane! There's a cliff there, so be careful! It's dark out!"
+
+//TEXT 【Tomosane】
+<enT0557>"Hasaki!"
+<ptT0557>"Hasaki!"
+
+//TEXT
+<enT0558>I cursed my own decision.
+<ptT0558>I cursed my own decision.
+
+//TEXT
+<enT0559>I cursed the fact that I believed him for even a second...
+<ptT0559>I cursed the fact that I believed him for even a second...
+
+//TEXT
+<enT0560>They hadn't changed at all.
+<ptT0560>They hadn't changed at all.
+
+//TEXT
+<enT0561>Takuji wanted to kill Hasaki and get back the power he thinks she stole from him.
+<ptT0561>Takuji wanted to kill Hasaki and get back the power he thinks she stole from him.
+
+//TEXT 【Tomosane】
+<enT0562>"Takuji, you bastard!"
+<ptT0562>"Takuji, you bastard!"
+
+//TEXT 【Takuji】
+<enT0563>"You run as fast as ever, Nii-san."
+<ptT0563>"You run as fast as ever, Nii-san."
+
+//TEXT 【Tomosane】
+<enT0564>"You bastard. You told me you didn't believe in that crap anymore. Was that all a lie?"
+<ptT0564>"You bastard. You told me you didn't believe in that crap anymore. Was that all a lie?"
+
+//TEXT 【Takuji】
+<enT0565>"I told you that?"
+<ptT0565>"I told you that?"
+
+//TEXT 【Tomosane】
+<enT0566>"Yeah, you did! You said you weren't trying to get rid of Hasaki anymore!"
+<ptT0566>"Yeah, you did! You said you weren't trying to get rid of Hasaki anymore!"
+
+//TEXT 【Takuji】
+<enT0567>"Yeah, I said that. What about it?"
+<ptT0567>"Yeah, I said that. What about it?"
+
+//TEXT 【Tomosane】
+<enT0568>"Then what's with that blade?"
+<ptT0568>"Then what's with that blade?"
+
+//TEXT 【Takuji】
+<enT0569>"This? It's just a knife."
+<ptT0569>"This? It's just a knife."
+
+//TEXT 【Tomosane】
+<enT0570>"Why are you pointing it at Hasaki?"
+<ptT0570>"Why are you pointing it at Hasaki?"
+
+//TEXT 【Takuji】
+<enT0571>"Hasaki wouldn't listen to me, you know. I didn't want to do this either."
+<ptT0571>"Hasaki wouldn't listen to me, you know. I didn't want to do this either."
+
+//TEXT 【Tomosane】
+<enT0572>"Listen to you? What are you trying to make Hasaki do?"
+<ptT0572>"Listen to you? What are you trying to make Hasaki do?"
+
+//TEXT 【Takuji】
+<enT0573>"Why are you so angry, Nii-san?"
+<ptT0573>"Why are you so angry, Nii-san?"
+
+//TEXT 【Takuji】
+<enT0574>"This was inevitable."
+<ptT0574>"This was inevitable."
+
+//TEXT 【Tomosane】
+<enT0575>"It wasn't inevitable! What're you trying to do?!"
+<ptT0575>"It wasn't inevitable! What're you trying to do?!"
+
+//TEXT 【Kotomi】
+<enT0576>"To return her to the sky."
+<ptT0576>"To return her to the sky."
+
+//TEXT 【Tomosane】
+<enT0577>"Ah!"
+<ptT0577>"Ah!"
+
+//TEXT 【Yuki】
+<enT0578>"K-Kotomi-san..."
+<ptT0578>"K-Kotomi-san..."
+
+//TEXT 【Tomosane】
+<enT0579>"You're still trying to do that?"
+<ptT0579>"You're still trying to do that?"
+
+//TEXT 【Kotomi】
+<enT0580>"Everything was determined in the moment that God created the world."
+<ptT0580>"Everything was determined in the moment that God created the world."
+
+//TEXT 【Kotomi】
+<enT0581>"It is pre-established harmony, determined in the moment of the world's genesis."
+<ptT0581>"It is pre-established harmony, determined in the moment of the world's genesis."
+
+//TEXT 【Tomosane】
+<enT0582>"What harmony?! If that prophecy was right, then your child with the pastor should've been a lone boy!"
+<ptT0582>"What harmony?! If that prophecy was right, then your child with the pastor should've been a lone boy!"
+
+//TEXT 【Yuki】
+<enT0583>"With the pastor..."
+<ptT0583>"With the pastor..."
+
+//TEXT 【Tomosane】
+<enT0584>"You've probably heard rumors about it before, Yuki-nee. Hasaki and Takuji don't have Mamiya blood in their veins."
+<ptT0584>"You've probably heard rumors about it before, Yuki-nee. Hasaki and Takuji don't have Mamiya blood in their veins."
+
+//TEXT 【Tomosane】
+<enT0585>"The blood in their veins came from the pastor of the White Lotus Association."
+<ptT0585>"The blood in their veins came from the pastor of the White Lotus Association."
+
+//TEXT 【Tomosane】
+<enT0586>"You betrayed my dad, you bitch! You had a child with some religious fraud!"
+<ptT0586>"You betrayed my dad, you bitch! You had a child with some religious fraud!"
+
+//TEXT 【Tomosane】
+<enT0587>"And you told that child that he was going to become the savior and save the world from destruction!"
+<ptT0587>"And you told that child that he was going to become the savior and save the world from destruction!"
+
+//TEXT 【Takuji】
+<enT0588>"That's right. I was supposed to be born as the savior."
+<ptT0588>"That's right. I was supposed to be born as the savior."
+
+//TEXT 【Takuji】
+<enT0589>"I was supposed to be the savior, born from the union of the White Lotus Association founder's blood and the blood of the long line of shrine maidens in the Sanami family!"
+<ptT0589>"I was supposed to be the savior, born from the union of the White Lotus Association founder's blood and the blood of the long line of shrine maidens in the Sanami family!"
+
+//TEXT 【Tomosane】
+<enT0590>"But that's not what happened! The reality is that you aren't any kind of savior!"
+<ptT0590>"But that's not what happened! The reality is that you aren't any kind of savior!"
+
+//TEXT 【Takuji】
+<enT0591>"No! That's because the heritage was split between two children rather than just one!"
+<ptT0591>"No! That's because the heritage was split between two children rather than just one!"
+
+//TEXT 【Yuki】
+<enT0592>"Th-That's..."
+<ptT0592>"Th-That's..."
+
+//TEXT 【Tomosane】
+<enT0593>"That's right, Yuki-nee. They believe that Takuji couldn't become the savior because Hasaki was born."
+<ptT0593>"That's right, Yuki-nee. They believe that Takuji couldn't become the savior because Hasaki was born."
+
+//TEXT 【Takuji】
+<enT0594>"It's not a belief, it's a clear and evident truth!"
+<ptT0594>"It's not a belief, it's a clear and evident truth!"
+
+//TEXT 【Takuji】
+<enT0595>"The prophesied birth of a savior when these two powerful bloodlines come together... She prevented the fulfillment of that prophecy."
+<ptT0595>"The prophesied birth of a savior when these two powerful bloodlines come together... She prevented the fulfillment of that prophecy."
+
+//TEXT 【Takuji】
+<enT0596>"The soul which should have been one was instead split in two."
+<ptT0596>"The soul which should have been one was instead split in two."
+
+//TEXT 【Tomosane】
+<enT0597>"That's not true! You aren't the savior! The only reason you were abandoned by the pastor is because he got bored of you."
+<ptT0597>"That's not true! You aren't the savior! The only reason you were abandoned by the pastor is because he got bored of you."
+
+//TEXT 【Tomosane】
+<enT0598>"He just made up all that crap about the savior!"
+<ptT0598>"He just made up all that crap about the savior!"
+
+//TEXT 【Tomosane】
+<enT0599>"Our father investigated all of that before he died! The pastor told that crap to every woman he took advantage of!"
+<ptT0599>"Our father investigated all of that before he died! The pastor told that crap to every woman he took advantage of!"
+
+//TEXT 【Takuji】
+<enT0600>"Hmph. What would journalists know anyway? They're just peasants, people of low birth. They can only examine things from the outside."
+<ptT0600>"Hmph. What would journalists know anyway? They're just peasants, people of low birth. They can only examine things from the outside."
+
+//TEXT 【Tomosane】
+<enT0601>"But Dad only became a journalist to investigate those lies!"
+<ptT0601>"But Dad only became a journalist to investigate those lies!"
+
+//TEXT 【Tomosane】
+<enT0602>"So that you would know the truth!"
+<ptT0602>"So that you would know the truth!"
+
+//TEXT 【Takuji】
+<enT0603>"What truth is that? There is only one truth."
+<ptT0603>"What truth is that? There is only one truth."
+
+//TEXT 【Takuji】
+<enT0604>"The world will end. And before that day comes, I must come into my power as the savior on Earth."
+<ptT0604>"The world will end. And before that day comes, I must come into my power as the savior on Earth."
+
+//TEXT 【Tomosane】
+<enT0605>"That day will never come! You're just a commoner! You'd be normal whether Hasaki was born or not!"
+<ptT0605>"That day will never come! You're just a commoner! You'd be normal whether Hasaki was born or not!"
+
+//TEXT 【Takuji】
+<enT0606>"How dare you call me a commoner?! Maybe you were the best at all those things in the past, but now I've far surpassed you!"
+<ptT0606>"How dare you call me a commoner?! Maybe you were the best at all those things in the past, but now I've far surpassed you!"
+
+//TEXT 【Tomosane】
+<enT0607>"Then put down that knife and face me. If you're a man, then put your fists up and fight me!"
+<ptT0607>"Then put down that knife and face me. If you're a man, then put your fists up and fight me!"
+
+//TEXT 【Kotomi】
+<enT0608>"You don't have to listen to him, Takuji."
+<ptT0608>"You don't have to listen to him, Takuji."
+
+//TEXT 【Tomosane】
+<enT0609>"Shut up!"
+<ptT0609>"Shut up!"
+
+//TEXT 【Kotomi】
+<enT0610>"Tomosane has Sanami and Mamiya blood in him. Of course, he's not an ordinary person either."
+<ptT0610>"Tomosane has Sanami and Mamiya blood in him. Of course, he's not an ordinary person either."
+
+//TEXT 【Kotomi】
+<enT0611>"But that only means that he is a hurdle for you to overcome as you follow your destiny and become the savior."
+<ptT0611>"But that only means that he is a hurdle for you to overcome as you follow your destiny and become the savior."
+
+//TEXT 【Kotomi】
+<enT0612>"It's okay if you can't beat him right now. Takuji, you will eventually be the person to save the entire world."
+<ptT0612>"It's okay if you can't beat him right now. Takuji, you will eventually be the person to save the entire world."
+
+//TEXT 【Tomosane】
+<enT0613>"That's bullshit!"
+<ptT0613>"That's bullshit!"
+
+//TEXT 【Tomosane】
+<enT0614>"Don't bring Hasaki into your delusional fantasies! Keep that crap to yourself!"
+<ptT0614>"Don't bring Hasaki into your delusional fantasies! Keep that crap to yourself!"
+
+//TEXT 【Tomosane】
+<enT0615>"Give Hasaki back!"
+<ptT0615>"Give Hasaki back!"
+
+//TEXT 【Takuji】
+<enT0616>"Haa... You really aren't good at making reasoned arguments."
+<ptT0616>"Haa... You really aren't good at making reasoned arguments."
+
+//TEXT 【Kotomi】
+<enT0617>"You shouldn't listen to the words of the ignorant, Takuji."
+<ptT0617>"You shouldn't listen to the words of the ignorant, Takuji."
+
+//TEXT 【Takuji】
+<enT0618>"Yes, I know. Hasaki is part of me to begin with. I need only to return her to the sky and regain the power that is rightfully mine."
+<ptT0618>"Yes, I know. Hasaki is part of me to begin with. I need only to return her to the sky and regain the power that is rightfully mine."
+
+//TEXT 【Kotomi】
+<enT0619>"That's right. Everything will be saved once you do. Now, Takuji, return Hasaki's soul to the sky."
+<ptT0619>"That's right. Everything will be saved once you do. Now, Takuji, return Hasaki's soul to the sky."
+
+//TEXT 【Kotomi】
+<enT0620>"Once you do, the lost part of your soul will return to you."
+<ptT0620>"Once you do, the lost part of your soul will return to you."
+
+//TEXT 【Takuji】
+<enT0621>"Once I do..."
+<ptT0621>"Once I do..."
+
+//TEXT BACKLOG
+<enT0622>"I will become the savior."
+<ptT0622>"I will become the savior."
+
+//TEXT BACKLOG
+<enT0623>"Takuji will become the savior."
+<ptT0623>"Takuji will become the savior."
+
+//TEXT 【Takuji+Kotomi】
+<enT0624>"I will become the savior."
+<ptT0624>"I will become the savior."
+
+//TEXT 【Takuji+Kotomi】
+<enT0625>"Takuji will become the savior."
+<ptT0625>"Takuji will become the savior."
+
+//TEXT 【Takuji+Kotomi】
+<enT0626>  
+<ptT0626>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0627>  
+<ptT0627>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0628>  
+<ptT0628>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0629>  
+<ptT0629>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0630>  
+<ptT0630>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0631>  
+<ptT0631>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0632>  
+<ptT0632>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0633>  
+<ptT0633>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0634>  
+<ptT0634>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0635>  
+<ptT0635>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0636>  
+<ptT0636>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0637>  
+<ptT0637>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0638>  
+<ptT0638>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0639>  
+<ptT0639>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0640>  
+<ptT0640>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0641>  
+<ptT0641>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0642>  
+<ptT0642>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0643>  
+<ptT0643>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0644>  
+<ptT0644>  
+
+//TEXT 【Takuji+Kotomi】
+<enT0645>
+<ptT0645>
+
+//TEXT 【Tomosane】
+<enT0646>"That's ridiculous!"
+<ptT0646>"That's ridiculous!"
+
+//TEXT
+<enT0647>I wasn't certain what to do.
+<ptT0647>I wasn't certain what to do.
+
+//TEXT
+<enT0648>Perhaps what I did in that moment was reckless.
+<ptT0648>Perhaps what I did in that moment was reckless.
+
+//TEXT
+<enT0649>I instantly leaped forward.
+<ptT0649>I instantly leaped forward.
+
+//TEXT
+<enT0650>Right into Takuji.
+<ptT0650>Right into Takuji.
+
+//TEXT
+<enT0651>But Yuki-nee ran in a different direction than I did.
+<ptT0651>But Yuki-nee ran in a different direction than I did.
+
+//TEXT 【Takuji】
+<enT0652>"Ah!"
+<ptT0652>"Ah!"
+
+//TEXT 【Hasaki】
+<enT0653>"Huh?!"
+<ptT0653>"Huh?!"
+
+//TEXT
+<enT0654>An instant.
+<ptT0654>An instant.
+
+//TEXT
+<enT0655>Such a short amount of time that it would be called a mere instant.
+<ptT0655>Such a short amount of time that it would be called a mere instant.
+
+//TEXT
+<enT0656>He threw Hasaki over the cliff.
+<ptT0656>He threw Hasaki over the cliff.
+
+//TEXT
+<enT0657>Hasaki's small body flew over the edge with surprising speed.
+<ptT0657>Hasaki's small body flew over the edge with surprising speed.
+
+//TEXT
+<enT0658>I panicked and ran toward the cliff.
+<ptT0658>I panicked and ran toward the cliff.
+
+//TEXT
+<enT0659>But I couldn't pull her back from over the edge.
+<ptT0659>But I couldn't pull her back from over the edge.
+
+//TEXT
+<enT0660>I lost my balance and fell.
+<ptT0660>I lost my balance and fell.
+
+//TEXT
+<enT0661>My eyes could only follow her over the edge.
+<ptT0661>My eyes could only follow her over the edge.
+
+//TEXT
+<enT0662>I followed her falling body.
+<ptT0662>I followed her falling body.
+
+//TEXT
+<enT0663>It floated in midair.
+<ptT0663>It floated in midair.
+
+//TEXT
+<enT0664>Then gravity took over, and she was sucked down into the abyss.
+<ptT0664>Then gravity took over, and she was sucked down into the abyss.
+
+//TEXT 【Tomosane】
+<enT0665>"Ha...sa...ki..."
+<ptT0665>"Ha...sa...ki..."
+
+//TEXT
+<enT0666>It felt like my words were too late.
+<ptT0666>It felt like my words were too late.
+
+//TEXT
+<enT0667>My legs were too slow.
+<ptT0667>My legs were too slow.
+
+//TEXT
+<enT0668>I could only lament the fact that I was powerless.
+<ptT0668>I could only lament the fact that I was powerless.
+
+//TEXT
+<enT0669>And then I saw something unbelievable happen right before my eyes.
+<ptT0669>And then I saw something unbelievable happen right before my eyes.
+
+//TEXT
+<enT0670>Yuki-nee caught Hasaki in midair as she fell off the cliff.
+<ptT0670>Yuki-nee caught Hasaki in midair as she fell off the cliff.
+
+//TEXT
+<enT0671>She didn't reach out with her hand and grab her.
+<ptT0671>She didn't reach out with her hand and grab her.
+
+//TEXT
+<enT0672>Yuki-nee threw her entire body over the edge and caught Hasaki.
+<ptT0672>Yuki-nee threw her entire body over the edge and caught Hasaki.
+
+//TEXT
+<enT0673>I saw that happen in a flash. In a mere instant.
+<ptT0673>I saw that happen in a flash. In a mere instant.
+
+//TEXT 【Tomosane】
+<enT0674>"Hasakiii! Yuki-neee!"
+<ptT0674>"Hasakiii! Yuki-neee!"
+
+//TEXT
+<enT0675>Both of them disappeared, sucked down into the darkness lying under the cliff's edge.
+<ptT0675>Both of them disappeared, sucked down into the darkness lying under the cliff's edge.
+
+//TEXT
+<enT0676>Then came a sound I never wanted to hear.
+<ptT0676>Then came a sound I never wanted to hear.
+
+//TEXT
+<enT0677>A sound that grates on the ears.
+<ptT0677>A sound that grates on the ears.
+
+//TEXT
+<enT0678>An unimaginable, unpleasant sound.
+<ptT0678>An unimaginable, unpleasant sound.
+
+//TEXT
+<enT0679>Simply a sound no one would want to hear.
+<ptT0679>Simply a sound no one would want to hear.
+
+//TEXT 【Tomosane】
+<enT0680>"Hasakiii! Yuki-neeee!"
+<ptT0680>"Hasakiii! Yuki-neeee!"
+
+//TEXT 【Takuji】
+<enT0681>"Heh, hehehe... Hahahahaha!"
+<ptT0681>"Heh, hehehe... Hahahahaha!"
+
+//TEXT 【Takuji】
+<enT0682>"I did it. I did it... I finally did it."
+<ptT0682>"I did it. I did it... I finally did it."
+
+//TEXT 【Takuji】
+<enT0683>"That man pretending to be my father always got in my way before."
+<ptT0683>"That man pretending to be my father always got in my way before."
+
+//TEXT 【Takuji】
+<enT0684>"The power I deserved to have is finally coming back to me. The part of my power which was given to Hasaki has finally returned to the sky."
+<ptT0684>"The power I deserved to have is finally coming back to me. The part of my power which was given to Hasaki has finally returned to the sky."
+
+//TEXT 【Kotomi】
+<enT0685>"You did a good job."
+<ptT0685>"You did a good job."
+
+//TEXT 【Takuji】
+<enT0686>"Yeah, I did it, Mother! I can finally be the savior."
+<ptT0686>"Yeah, I did it, Mother! I can finally be the savior."
+
+//TEXT 【Tomosane】
+<enT0687>"The hell are you saying..."
+<ptT0687>"The hell are you saying..."
+
+//TEXT 【Takuji】
+<enT0688>"Now I can save the world."
+<ptT0688>"Now I can save the world."
+
+//TEXT 【Takuji】
+<enT0689>"I can return the world to the sky."
+<ptT0689>"I can return the world to the sky."
+
+//TEXT 【Tomosane】
+<enT0690>"You fucking idiot..."
+<ptT0690>"You fucking idiot..."
+
+//TEXT 【Kotomi】
+<enT0691>"Now the pre-established harmony can unfold in the way God intended. Everything will proceed according to the prophecy."
+<ptT0691>"Now the pre-established harmony can unfold in the way God intended. Everything will proceed according to the prophecy."
+
+//TEXT 【Tomosane】
+<enT0692>"That's bullshit!"
+<ptT0692>"That's bullshit!"
+
+//TEXT 【Takuji】
+<enT0693>"Nii-san."
+<ptT0693>"Nii-san."
+
+//TEXT 【Takuji】
+<enT0694>"Haa... Maybe you don't understand this because you're just a commoner, but this isn't something to grieve over."
+<ptT0694>"Haa... Maybe you don't understand this because you're just a commoner, but this isn't something to grieve over."
+
+//TEXT 【Takuji】
+<enT0695>"It's not like I killed Hasaki. I merely returned her to the sky."
+<ptT0695>"It's not like I killed Hasaki. I merely returned her to the sky."
+
+//TEXT 【Kotomi】
+<enT0696>"Yes. I saw her when she ascended into the sky."
+<ptT0696>"Yes. I saw her when she ascended into the sky."
+
+//TEXT 【Tomosane】
+<enT0697>"How stupid are you?!"
+<ptT0697>"How stupid are you?!"
+
+//TEXT
+<enT0698>"Aaah... Uwah..."
+<ptT0698>"Aaah... Uwah..."
+
+//TEXT 【Tomosane】
+<enT0699>"Huh? That voice..."
+<ptT0699>"Huh? That voice..."
+
+//TEXT 【Takuji】
+<enT0700>"What?"
+<ptT0700>"What?"
+
+//TEXT 【Kotomi】
+<enT0701>"Wha-!"
+<ptT0701>"Wha-!"
+
+//TEXT 【Tomosane】
+<enT0702>"Hasaki! Hasaki, is that you?!"
+<ptT0702>"Hasaki! Hasaki, is that you?!"
+
+//TEXT 【Hasaki】
+<enT0703>"Tomo Nii-san... Tomo Nii-san..."
+<ptT0703>"Tomo Nii-san... Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0704>"Hasaki, are you okay?!"
+<ptT0704>"Hasaki, are you okay?!"
+
+//TEXT 【Hasaki】
+<enT0705>"Yeah, I'm okay, but... But..."
+<ptT0705>"Yeah, I'm okay, but... But..."
+
+//TEXT 【Tomosane】
+<enT0706>"What's wrong?!"
+<ptT0706>"What's wrong?!"
+
+//TEXT 【Hasaki】
+<enT0707>"Yuki-san... Yuki-san is... There's a bunch of blood, and she's not moving..."
+<ptT0707>"Yuki-san... Yuki-san is... There's a bunch of blood, and she's not moving..."
+
+//TEXT 【Tomosane】
+<enT0708>"Yuki-nee?"
+<ptT0708>"Yuki-nee?"
+
+//TEXT 【Tomosane】
+<enT0709>"What happened to Yuki-nee?"
+<ptT0709>"What happened to Yuki-nee?"
+
+//TEXT 【Hasaki】
+<enT0710>"She was protecting me... She was just protecting me..."
+<ptT0710>"She was protecting me... She was just protecting me..."
+
+//TEXT 【Hasaki】
+<enT0711>"She held onto me the entire time, all the way until the end... Until we fell down here..."
+<ptT0711>"She held onto me the entire time, all the way until the end... Until we fell down here..."
+
+//TEXT 【Hasaki】
+<enT0712>"She hit the cliff over and over, but she... Yuki-san, Yuki-san..."
+<ptT0712>"She hit the cliff over and over, but she... Yuki-san, Yuki-san..."
+
+//TEXT 【Tomosane】
+<enT0713>"Yuki-nee..."
+<ptT0713>"Yuki-nee..."
+
+//TEXT 【Tomosane】
+<enT0714>"Don't move!"
+<ptT0714>"Don't move!"
+
+//TEXT 【Tomosane】
+<enT0715>"I'm coming!"
+<ptT0715>"I'm coming!"
+
+//TEXT 【Takuji】
+<enT0716>"Th-That girl..."
+<ptT0716>"Th-That girl..."
+
+//TEXT 【Kotomi】
+<enT0717>"Takuji! You have to do it now! Return Hasaki to the sky before the waning moon rises! Before Tomosane gets to her!"
+<ptT0717>"Takuji! You have to do it now! Return Hasaki to the sky before the waning moon rises! Before Tomosane gets to her!"
+
+//TEXT 【Takuji】
+<enT0718>"Y-Yes!"
+<ptT0718>"Y-Yes!"
+
+//TEXT 【Tomosane】
+<enT0719>"I won't let you!"
+<ptT0719>"I won't let you!"
+
+//TEXT 【Takuji】
+<enT0720>"Huh?!"
+<ptT0720>"Huh?!"
+
+//TEXT 【Takuji】
+<enT0721>"Gah!"
+<ptT0721>"Gah!"
+
+//TEXT 【Tomosane】
+<enT0722>"I won't let you! I won't let you! I won't let you!"
+<ptT0722>"I won't let you! I won't let you! I won't let you!"
+
+//TEXT 【Takuji】
+<enT0723>"Ugh, ah, ugh..."
+<ptT0723>"Ugh, ah, ugh..."
+
+//TEXT 【Tomosane】
+<enT0724>"What did you do to Yuki-nee... I won't let you kill Hasaki too!"
+<ptT0724>"What did you do to Yuki-nee... I won't let you kill Hasaki too!"
+
+//TEXT 【Takuji】
+<enT0725>"D-Damn it!"
+<ptT0725>"D-Damn it!"
+
+//TEXT 【Tomosane】
+<enT0726>"Agh!"
+<ptT0726>"Agh!"
+
+//TEXT 【Takuji】
+<enT0727>"Haa, haa... Wow, I can't believe you dodged that."
+<ptT0727>"Haa, haa... Wow, I can't believe you dodged that."
+
+//TEXT 【Tomosane】
+<enT0728>"You bastard..."
+<ptT0728>"You bastard..."
+
+//TEXT 【Tomosane】
+<enT0729>"I'm going to end it here, Takuji."
+<ptT0729>"I'm going to end it here, Takuji."
+
+//TEXT 【Takuji】
+<enT0730>"End it?"
+<ptT0730>"End it?"
+
+//TEXT 【Tomosane】
+<enT0731>"Yeah, I won't hesitate any longer. Until I defeat you utterly and absolutely, you won't give up on those delusions."
+<ptT0731>"Yeah, I won't hesitate any longer. Until I defeat you utterly and absolutely, you won't give up on those delusions."
+
+//TEXT 【Tomosane】
+<enT0732>"I will defeat you, right here, once and for all."
+<ptT0732>"I will defeat you, right here, once and for all."
+
+//TEXT 【Takuji】
+<enT0733>"Hehehe... With your bare hands? I have a knife, in case you forgot."
+<ptT0733>"Hehehe... With your bare hands? I have a knife, in case you forgot."
+
+//TEXT 【Tomosane】
+<enT0734>"That's a perfect handicap to make this fair. That's no problem at all."
+<ptT0734>"That's a perfect handicap to make this fair. That's no problem at all."
+
+//TEXT 【Takuji】
+<enT0735>"Hmph, I really wonder where that confidence comes from."
+<ptT0735>"Hmph, I really wonder where that confidence comes from."
+
+//TEXT 【Tomosane】
+<enT0736>"Unlike you, I've been practicing every day."
+<ptT0736>"Unlike you, I've been practicing every day."
+
+//TEXT 【Takuji】
+<enT0737>"What? You act like you're the only one who's been working hard."
+<ptT0737>"What? You act like you're the only one who's been working hard."
+
+//TEXT 【Takuji】
+<enT0738>"In the past few years since you disappeared, I've worked myself to death."
+<ptT0738>"In the past few years since you disappeared, I've worked myself to death."
+
+//TEXT 【Takuji】
+<enT0739>"In order to surpass you, in order to make it clear to you that you are nothing more than a hurdle for me to overcome."
+<ptT0739>"In order to surpass you, in order to make it clear to you that you are nothing more than a hurdle for me to overcome."
+
+//TEXT 【Tomosane】
+<enT0740>"And this is the result of all your hard work?"
+<ptT0740>"And this is the result of all your hard work?"
+
+//TEXT 【Takuji】
+<enT0741>"Yes, exactly. But we aren't done yet. I'll return you to the sky, and then Hasaki will follow suit."
+<ptT0741>"Yes, exactly. But we aren't done yet. I'll return you to the sky, and then Hasaki will follow suit."
+
+//TEXT 【Takuji】
+<enT0742>"And then I will become the savior."
+<ptT0742>"And then I will become the savior."
+
+//TEXT 【Tomosane】
+<enT0743>"No, you won't!"
+<ptT0743>"No, you won't!"
+
+//TEXT 【Takuji】
+<enT0744>"I will! I'm different from you! I am the chosen one!"
+<ptT0744>"I will! I'm different from you! I am the chosen one!"
+
+//TEXT 【Tomosane】
+<enT0745>"What's different?! You're just some bastard that was born when some other man played around with your mom!"
+<ptT0745>"What's different?! You're just some bastard that was born when some other man played around with your mom!"
+
+//TEXT 【Takuji】
+<enT0746>"Don't say that!"
+<ptT0746>"Don't say that!"
+
+//TEXT 【Tomosane】
+<enT0747>"Ugh!"
+<ptT0747>"Ugh!"
+
+//TEXT
+<enT0748>My cheek burned.
+<ptT0748>My cheek burned.
+
+//TEXT
+<enT0749>When I touched it, I could feel that it'd been split open.
+<ptT0749>When I touched it, I could feel that it'd been split open.
+
+//TEXT
+<enT0750>It wasn't near a fatal wound, though.
+<ptT0750>It wasn't near a fatal wound, though.
+
+//TEXT
+<enT0751>I took my stance to defend myself against the next attack.
+<ptT0751>I took my stance to defend myself against the next attack.
+
+//TEXT
+<enT0752>But...
+<ptT0752>But...
+
+//TEXT 【Takuji】
+<enT0753>"Wh-What is this..."
+<ptT0753>"Wh-What is this..."
+
+//TEXT 【Tomosane】
+<enT0754>"...Huh?"
+<ptT0754>"...Huh?"
+
+//TEXT 【Takuji】
+<enT0755>"What is this?!"
+<ptT0755>"What is this?!"
+
+//TEXT 【Tomosane】
+<enT0756>"T-Takuji..."
+<ptT0756>"T-Takuji..."
+
+//TEXT 【Takuji】
+<enT0757>"Wh-Whoa. Stop screwing around. What's happening?"
+<ptT0757>"Wh-Whoa. Stop screwing around. What's happening?"
+
+//TEXT
+<enT0758>I didn't have a clue what was happening either.
+<ptT0758>I didn't have a clue what was happening either.
+
+//TEXT
+<enT0759>The simple reality was that the knife previously in Takuji's hand was now plunged deep into his chest.
+<ptT0759>The simple reality was that the knife previously in Takuji's hand was now plunged deep into his chest.
+
+//TEXT 【Tomosane】
+<enT0760>"T-Takuji, you..."
+<ptT0760>"T-Takuji, you..."
+
+//TEXT 【Takuji】
+<enT0761>"What's happening? I was supposed to become the savior and save the world..."
+<ptT0761>"What's happening? I was supposed to become the savior and save the world..."
+
+//TEXT 【Tomosane】
+<enT0762>"Takuji!"
+<ptT0762>"Takuji!"
+
+//TEXT
+<enT0763>I tried to pull the knife out of him.
+<ptT0763>I tried to pull the knife out of him.
+
+//TEXT 【Kotomi】
+<enT0764>"S-Stop!"
+<ptT0764>"S-Stop!"
+
+//TEXT
+<enT0765>I heard someone behind me, telling me to stop, but that didn't make me hesitate for even a moment.
+<ptT0765>I heard someone behind me, telling me to stop, but that didn't make me hesitate for even a moment.
+
+//TEXT
+<enT0766>I pulled the knife out of Takuji's chest.
+<ptT0766>I pulled the knife out of Takuji's chest.
+
+//TEXT
+<enT0767>I knew right away that I had done the worst thing possible in that situation.
+<ptT0767>I knew right away that I had done the worst thing possible in that situation.
+
+//TEXT
+<enT0768>No, either way, such a deep wound out in the mountains would inevitably be fatal.
+<ptT0768>No, either way, such a deep wound out in the mountains would inevitably be fatal.
+
+//TEXT
+<enT0769>But if I hadn't pulled the knife out, he would've had more time to live.
+<ptT0769>But if I hadn't pulled the knife out, he would've had more time to live.
+
+//TEXT
+<enT0770>But I did it... I pulled it out.
+<ptT0770>But I did it... I pulled it out.
+
+//TEXT 【Takuji】
+<enT0771>"Wh-What? What's happening... Suddenly... everything's going white..."
+<ptT0771>"Wh-What? What's happening... Suddenly... everything's going white..."
+
+//TEXT 【Tomosane】
+<enT0772>"Takuji! Hold yourself together!"
+<ptT0772>"Takuji! Hold yourself together!"
+
+//TEXT 【Takuji】
+<enT0773>"What? Nii-san... You ran away into the white... That's a dirty trick..."
+<ptT0773>"What? Nii-san... You ran away into the white... That's a dirty trick..."
+
+//TEXT 【Tomosane】
+<enT0774>"Takuji! Hey!"
+<ptT0774>"Takuji! Hey!"
+
+//TEXT 【Takuji】
+<enT0775>"Huh? That's weird... Why won't my body move... all of a sudden?"
+<ptT0775>"Huh? That's weird... Why won't my body move... all of a sudden?"
+
+//TEXT 【Tomosane】
+<enT0776>"Hold on! Don't leave me now!"
+<ptT0776>"Hold on! Don't leave me now!"
+
+//TEXT 【Takuji】
+<enT0777>"Huh? What are you doing, Nii-san?"
+<ptT0777>"Huh? What are you doing, Nii-san?"
+
+//TEXT 【Takuji】
+<enT0778>"Did I... lose... Have I lost?"
+<ptT0778>"Did I... lose... Have I lost?"
+
+//TEXT 【Tomosane】
+<enT0779>"Who cares about losing?! Takuji! Hold on, please!"
+<ptT0779>"Who cares about losing?! Takuji! Hold on, please!"
+
+//TEXT 【Takuji】
+<enT0780>"I see... I lost... That's why my body is getting cold... I can't move..."
+<ptT0780>"I see... I lost... That's why my body is getting cold... I can't move..."
+
+//TEXT 【Takuji】
+<enT0781>"Hehehe... But I won't die... I'll never die..."
+<ptT0781>"Hehehe... But I won't die... I'll never die..."
+
+//TEXT 【Takuji】
+<enT0782>"Because my mother comes from a long line of shrine maidens capable of raising the dead... So I'll come back..."
+<ptT0782>"Because my mother comes from a long line of shrine maidens capable of raising the dead... So I'll come back..."
+
+//TEXT 【Tomosane】
+<enT0783>"Takuji!"
+<ptT0783>"Takuji!"
+
+//TEXT 【Takuji】
+<enT0784>"Yes, I'll absolutely... never die..."
+<ptT0784>"Yes, I'll absolutely... never die..."
+
+//TEXT 【Takuji】
+<enT0785>"I'll survive...  no matter what it takes..."
+<ptT0785>"I'll survive...  no matter what it takes..."
+
+//TEXT 【Tomosane】
+<enT0786>"Yeah, I understand. Anyway, just don't go to sleep!"
+<ptT0786>"Yeah, I understand. Anyway, just don't go to sleep!"
+
+//TEXT
+<enT0787>I tore off my own shirt and tried to wrap it around Takuji's chest.
+<ptT0787>I tore off my own shirt and tried to wrap it around Takuji's chest.
+
+//TEXT
+<enT0788>But the flow of blood didn't slow down at all.
+<ptT0788>But the flow of blood didn't slow down at all.
+
+//TEXT 【Tomosane】
+<enT0789>"Takuji! Hold on, please!"
+<ptT0789>"Takuji! Hold on, please!"
+
+//TEXT 【Takuji】
+<enT0790>"I'm... going to be... fine... Don't worry..."
+<ptT0790>"I'm... going to be... fine... Don't worry..."
+
+//TEXT 【Takuji】
+<enT0791>"Nothing... to worry... about..."
+<ptT0791>"Nothing... to worry... about..."
+
+//TEXT 【Takuji】
+<enT0792>"I'll... never die..."
+<ptT0792>"I'll... never die..."
+
+//TEXT 【Tomosane】
+<enT0793>"Yeah, you won't die! You're going to be fine!"
+<ptT0793>"Yeah, you won't die! You're going to be fine!"
+
+//TEXT 【Takuji】
+<enT0794>"That's... right..."
+<ptT0794>"That's... right..."
+
+//TEXT 【Takuji】
+<enT0795>"Even if... my body... breaks..."
+<ptT0795>"Even if... my body... breaks..."
+
+//TEXT 【Tomosane】
+<enT0796>"Takuji."
+<ptT0796>"Takuji."
+
+//TEXT 【Takuji】
+<enT0797>"I can just use yours, Nii-san."
+<ptT0797>"I can just use yours, Nii-san."
+
+//TEXT 【Tomosane】
+<enT0798>"Wha-!"
+<ptT0798>"Wha-!"
+
+//TEXT 【Tomosane】
+<enT0799>"T-Takuji..."
+<ptT0799>"T-Takuji..."
+
+//TEXT 【Takuji】
+<enT0800>"I won't die... I won't..."
+<ptT0800>"I won't die... I won't..."
+
+//TEXT
+<enT0801>Takuji's fingers pressed into my temple like nails.
+<ptT0801>Takuji's fingers pressed into my temple like nails.
+
+//TEXT
+<enT0802>It was beyond mere pain.
+<ptT0802>It was beyond mere pain.
+
+//TEXT 【Tomosane】
+<enT0803>"...A-Ack!"
+<ptT0803>"...A-Ack!"
+
+//TEXT
+<enT0804>H-How can he be... so strong...
+<ptT0804>H-How can he be... so strong...
+
+//TEXT 【Kotomi】
+<enT0805>"Destroy him, just like that."
+<ptT0805>"Destroy him, just like that."
+
+//TEXT 【Tomosane】
+<enT0806>"D-Destroy?"
+<ptT0806>"D-Destroy?"
+
+//TEXT 【Kotomi】
+<enT0807>"Yes. Takuji, you can do it. Destroy his brain. Do it."
+<ptT0807>"Yes. Takuji, you can do it. Destroy his brain. Do it."
+
+//TEXT 【Tomosane】
+<enT0808>"Guh, guhaaa."
+<ptT0808>"Guh, guhaaa."
+
+//TEXT
+<enT0809>His eyes narrowed to slits as he stared into mine.
+<ptT0809>His eyes narrowed to slits as he stared into mine.
+
+//TEXT 【Takuji】
+<enT0810>"I will... take your brain..."
+<ptT0810>"I will... take your brain..."
+
+//TEXT 【Tomosane】
+<enT0811>"Guh... Ghaa..."
+<ptT0811>"Guh... Ghaa..."
+
+//TEXT
+<enT0812>I couldn't tell what was real and what wasn't.
+<ptT0812>I couldn't tell what was real and what wasn't.
+
+//TEXT 【Tomosane】
+<enT0813>"Ah, ahghaa..."
+<ptT0813>"Ah, ahghaa..."
+
+//TEXT
+<enT0814>Takuji's fingertips broke through my skull.
+<ptT0814>Takuji's fingertips broke through my skull.
+
+//TEXT
+<enT0815>That's impossible. A human doesn't have nearly enough strength to break a person's skull like that.
+<ptT0815>That's impossible. A human doesn't have nearly enough strength to break a person's skull like that.
+
+//TEXT
+<enT0816>This must be an illusion. This can't be reality.
+<ptT0816>This must be an illusion. This can't be reality.
+
+//TEXT
+<enT0817>As a trained fighter, I knew that better than anyone.
+<ptT0817>As a trained fighter, I knew that better than anyone.
+
+//TEXT
+<enT0818>The fact that it was impossible.
+<ptT0818>The fact that it was impossible.
+
+//TEXT
+<enT0819>And yet...
+<ptT0819>And yet...
+
+//TEXT
+<enT0820>My consciousness started to waver.
+<ptT0820>My consciousness started to waver.
+
+//TEXT
+<enT0821>I couldn't hold myself in this world.
+<ptT0821>I couldn't hold myself in this world.
+
+//TEXT 【Takuji】
+<enT0822>"I'll take your body... Tomosane Nii-san..."
+<ptT0822>"I'll take your body... Tomosane Nii-san..."
+
+//TEXT 【Takuji】
+<enT0823>"So I guess this is..."
+<ptT0823>"So I guess this is..."
+
+//TEXT 【Takuji】
+<enT0824>"FAREWELL."
+<ptT0824>"FAREWELL."
+
+///================================================================================
+
+//OTHER
+<enZ0001>6-7.bss
+<ptZ0001>6-7.bss
+
+//OTHER
+<enZ0002>A summer day - Part 7
+<ptZ0002>A summer day - Part 7
+
+//OTHER
+<enZ0003>Jabberwocky II
+<ptZ0003>Jabberwocky II
+
+//OTHER
+<enZ0004>daynt0007
+<ptZ0004>daynt0007
+
+//OTHER
+<enZ0005>sp0008b
+<ptZ0005>sp0008b
+
+//OTHER
+<enZ0006>bgm003
+<ptZ0006>bgm003
+
+//OTHER
+<enZ0007>bg1031a
+<ptZ0007>bg1031a
+
+//OTHER
+<enZ0008>bgm013
+<ptZ0008>bgm013
+
+//OTHER
+<enZ0009>tomo_000600
+<ptZ0009>tomo_000600
+
+//OTHER
+<enZ0010>kt1000
+<ptZ0010>kt1000
+
+//OTHER
+<enZ0011>koto_000004
+<ptZ0011>koto_000004
+
+//OTHER
+<enZ0012>tkj6001
+<ptZ0012>tkj6001
+
+//OTHER
+<enZ0013>tomo_000601
+<ptZ0013>tomo_000601
+
+//OTHER
+<enZ0014>tkj6000
+<ptZ0014>tkj6000
+
+//OTHER
+<enZ0015>hs5006
+<ptZ0015>hs5006
+
+//OTHER
+<enZ0016>hasa_001484
+<ptZ0016>hasa_001484
+
+//OTHER
+<enZ0017>hs5007
+<ptZ0017>hs5007
+
+//OTHER
+<enZ0018>hasa_001485
+<ptZ0018>hasa_001485
+
+//OTHER
+<enZ0019>tomo_000602
+<ptZ0019>tomo_000602
+
+//OTHER
+<enZ0020>tkj6002
+<ptZ0020>tkj6002
+
+//OTHER
+<enZ0021>tomo_000603
+<ptZ0021>tomo_000603
+
+//OTHER
+<enZ0022>tkj6003
+<ptZ0022>tkj6003
+
+//OTHER
+<enZ0023>koto_000005
+<ptZ0023>koto_000005
+
+//OTHER
+<enZ0024>tomo_000604
+<ptZ0024>tomo_000604
+
+//OTHER
+<enZ0025>koto_000006
+<ptZ0025>koto_000006
+
+//OTHER
+<enZ0026>tomo_000605
+<ptZ0026>tomo_000605
+
+//OTHER
+<enZ0027>hasa_001486
+<ptZ0027>hasa_001486
+
+//OTHER
+<enZ0028>tomo_000606
+<ptZ0028>tomo_000606
+
+//OTHER
+<enZ0029>hasa_001487
+<ptZ0029>hasa_001487
+
+//OTHER
+<enZ0030>tomo_000607
+<ptZ0030>tomo_000607
+
+//OTHER
+<enZ0031>hasa_001488
+<ptZ0031>hasa_001488
+
+//OTHER
+<enZ0032>tomo_000608
+<ptZ0032>tomo_000608
+
+//OTHER
+<enZ0033>yuki_004494
+<ptZ0033>yuki_004494
+
+//OTHER
+<enZ0034>hs5109
+<ptZ0034>hs5109
+
+//OTHER
+<enZ0035>tomo_000609
+<ptZ0035>tomo_000609
+
+//OTHER
+<enZ0036>bgm014
+<ptZ0036>bgm014
+
+//OTHER
+<enZ0037>yk3000
+<ptZ0037>yk3000
+
+//OTHER
+<enZ0038>hs5003
+<ptZ0038>hs5003
+
+//OTHER
+<enZ0039>tomo_000610
+<ptZ0039>tomo_000610
+
+//OTHER
+<enZ0040>yk3000a
+<ptZ0040>yk3000a
+
+//OTHER
+<enZ0041>yuki_004495
+<ptZ0041>yuki_004495
+
+//OTHER
+<enZ0042>tomo_000611
+<ptZ0042>tomo_000611
+
+//OTHER
+<enZ0043>yk3008a
+<ptZ0043>yk3008a
+
+//OTHER
+<enZ0044>yuki_004496
+<ptZ0044>yuki_004496
+
+//OTHER
+<enZ0045>tomo_000612
+<ptZ0045>tomo_000612
+
+//OTHER
+<enZ0046>yuki_004497
+<ptZ0046>yuki_004497
+
+//OTHER
+<enZ0047>tomo_000613
+<ptZ0047>tomo_000613
+
+//OTHER
+<enZ0048>yk3004
+<ptZ0048>yk3004
+
+//OTHER
+<enZ0049>yuki_004498
+<ptZ0049>yuki_004498
+
+//OTHER
+<enZ0050>yk3003a
+<ptZ0050>yk3003a
+
+//OTHER
+<enZ0051>hs5108
+<ptZ0051>hs5108
+
+//OTHER
+<enZ0052>yuki_004499
+<ptZ0052>yuki_004499
+
+//OTHER
+<enZ0053>hs5103
+<ptZ0053>hs5103
+
+//OTHER
+<enZ0054>hasa_001489
+<ptZ0054>hasa_001489
+
+//OTHER
+<enZ0055>yk3001a
+<ptZ0055>yk3001a
+
+//OTHER
+<enZ0056>yuki_004500
+<ptZ0056>yuki_004500
+
+//OTHER
+<enZ0057>tomo_000614
+<ptZ0057>tomo_000614
+
+//OTHER
+<enZ0058>yk3005a
+<ptZ0058>yk3005a
+
+//OTHER
+<enZ0059>yuki_004501
+<ptZ0059>yuki_004501
+
+//OTHER
+<enZ0060>tomo_000615
+<ptZ0060>tomo_000615
+
+//OTHER
+<enZ0061>yk3010a
+<ptZ0061>yk3010a
+
+//OTHER
+<enZ0062>hasa_001490
+<ptZ0062>hasa_001490
+
+//OTHER
+<enZ0063>yk3005a_l
+<ptZ0063>yk3005a_l
+
+//OTHER
+<enZ0064>yuki_004502
+<ptZ0064>yuki_004502
+
+//OTHER
+<enZ0065>se006
+<ptZ0065>se006
+
+//OTHER
+<enZ0066>yk3004a
+<ptZ0066>yk3004a
+
+//OTHER
+<enZ0067>tomo_000616
+<ptZ0067>tomo_000616
+
+//OTHER
+<enZ0068>yuki_004503
+<ptZ0068>yuki_004503
+
+//OTHER
+<enZ0069>yuki_004504
+<ptZ0069>yuki_004504
+
+//OTHER
+<enZ0070>tomo_000617
+<ptZ0070>tomo_000617
+
+//OTHER
+<enZ0071>yuki_004505
+<ptZ0071>yuki_004505
+
+//OTHER
+<enZ0072>tomo_000618
+<ptZ0072>tomo_000618
+
+//OTHER
+<enZ0073>hs5101
+<ptZ0073>hs5101
+
+//OTHER
+<enZ0074>yk3002a
+<ptZ0074>yk3002a
+
+//OTHER
+<enZ0075>yuki_004506
+<ptZ0075>yuki_004506
+
+//OTHER
+<enZ0076>hasa_001491
+<ptZ0076>hasa_001491
+
+//OTHER
+<enZ0077>yuki_004507
+<ptZ0077>yuki_004507
+
+//OTHER
+<enZ0078>tomo_000619
+<ptZ0078>tomo_000619
+
+//OTHER
+<enZ0079>yuki_004508
+<ptZ0079>yuki_004508
+
+//OTHER
+<enZ0080>hs5002
+<ptZ0080>hs5002
+
+//OTHER
+<enZ0081>hasa_001492
+<ptZ0081>hasa_001492
+
+//OTHER
+<enZ0082>tomo_000620
+<ptZ0082>tomo_000620
+
+//OTHER
+<enZ0083>yuki_004509
+<ptZ0083>yuki_004509
+
+//OTHER
+<enZ0084>tomo_000621
+<ptZ0084>tomo_000621
+
+//OTHER
+<enZ0085>yk3006a
+<ptZ0085>yk3006a
+
+//OTHER
+<enZ0086>yuki_004510
+<ptZ0086>yuki_004510
+
+//OTHER
+<enZ0087>tomo_000622
+<ptZ0087>tomo_000622
+
+//OTHER
+<enZ0088>hs5000
+<ptZ0088>hs5000
+
+//OTHER
+<enZ0089>hasa_001493
+<ptZ0089>hasa_001493
+
+//OTHER
+<enZ0090>hasa_001494
+<ptZ0090>hasa_001494
+
+//OTHER
+<enZ0091>tomo_000623
+<ptZ0091>tomo_000623
+
+//OTHER
+<enZ0092>hasa_001495
+<ptZ0092>hasa_001495
+
+//OTHER
+<enZ0093>yuki_004511
+<ptZ0093>yuki_004511
+
+//OTHER
+<enZ0094>tomo_000624
+<ptZ0094>tomo_000624
+
+//OTHER
+<enZ0095>hs5008
+<ptZ0095>hs5008
+
+//OTHER
+<enZ0096>yuki_004512
+<ptZ0096>yuki_004512
+
+//OTHER
+<enZ0097>tomo_000625
+<ptZ0097>tomo_000625
+
+//OTHER
+<enZ0098>hs5010
+<ptZ0098>hs5010
+
+//OTHER
+<enZ0099>yuki_004513
+<ptZ0099>yuki_004513
+
+//OTHER
+<enZ0100>tomo_000626
+<ptZ0100>tomo_000626
+
+//OTHER
+<enZ0101>hasa_001496
+<ptZ0101>hasa_001496
+
+//OTHER
+<enZ0102>tomo_000627
+<ptZ0102>tomo_000627
+
+//OTHER
+<enZ0103>yk3006
+<ptZ0103>yk3006
+
+//OTHER
+<enZ0104>yuki_004514
+<ptZ0104>yuki_004514
+
+//OTHER
+<enZ0105>map029
+<ptZ0105>map029
+
+//OTHER
+<enZ0106>sp0094b
+<ptZ0106>sp0094b
+
+//OTHER
+<enZ0107>bg1031b
+<ptZ0107>bg1031b
+
+//OTHER
+<enZ0108>tomo_000628
+<ptZ0108>tomo_000628
+
+//OTHER
+<enZ0109>tomo_000629
+<ptZ0109>tomo_000629
+
+//OTHER
+<enZ0110>tomo_000630
+<ptZ0110>tomo_000630
+
+//OTHER
+<enZ0111>tkj6008
+<ptZ0111>tkj6008
+
+//OTHER
+<enZ0112>tomo_000631
+<ptZ0112>tomo_000631
+
+//OTHER
+<enZ0113>tomo_000632
+<ptZ0113>tomo_000632
+
+//OTHER
+<enZ0114>tkj6004
+<ptZ0114>tkj6004
+
+//OTHER
+<enZ0115>tomo_000633
+<ptZ0115>tomo_000633
+
+//OTHER
+<enZ0116>tomo_000634
+<ptZ0116>tomo_000634
+
+//OTHER
+<enZ0117>tkj6010
+<ptZ0117>tkj6010
+
+//OTHER
+<enZ0118>tomo_000635
+<ptZ0118>tomo_000635
+
+//OTHER
+<enZ0119>tomo_000636
+<ptZ0119>tomo_000636
+
+//OTHER
+<enZ0120>tomo_000637
+<ptZ0120>tomo_000637
+
+//OTHER
+<enZ0121>tomo_000638
+<ptZ0121>tomo_000638
+
+//OTHER
+<enZ0122>tomo_000639
+<ptZ0122>tomo_000639
+
+//OTHER
+<enZ0123>tomo_000640
+<ptZ0123>tomo_000640
+
+//OTHER
+<enZ0124>tomo_000641
+<ptZ0124>tomo_000641
+
+//OTHER
+<enZ0125>tomo_000642
+<ptZ0125>tomo_000642
+
+//OTHER
+<enZ0126>tkj6006
+<ptZ0126>tkj6006
+
+//OTHER
+<enZ0127>tomo_000643
+<ptZ0127>tomo_000643
+
+//OTHER
+<enZ0128>tomo_000644
+<ptZ0128>tomo_000644
+
+//OTHER
+<enZ0129>tomo_000645
+<ptZ0129>tomo_000645
+
+//OTHER
+<enZ0130>tomo_000646
+<ptZ0130>tomo_000646
+
+//OTHER
+<enZ0131>tomo_000647
+<ptZ0131>tomo_000647
+
+//OTHER
+<enZ0132>tomo_000648
+<ptZ0132>tomo_000648
+
+//OTHER
+<enZ0133>tomo_000649
+<ptZ0133>tomo_000649
+
+//OTHER
+<enZ0134>tomo_000650
+<ptZ0134>tomo_000650
+
+//OTHER
+<enZ0135>tomo_000651
+<ptZ0135>tomo_000651
+
+//OTHER
+<enZ0136>tomo_000652
+<ptZ0136>tomo_000652
+
+//OTHER
+<enZ0137>map004
+<ptZ0137>map004
+
+//OTHER
+<enZ0138>hr0003z_l
+<ptZ0138>hr0003z_l
+
+//OTHER
+<enZ0139>tomo_000653
+<ptZ0139>tomo_000653
+
+//OTHER
+<enZ0140>tomo_000654
+<ptZ0140>tomo_000654
+
+//OTHER
+<enZ0141>tomo_000655
+<ptZ0141>tomo_000655
+
+//OTHER
+<enZ0142>tomo_000656
+<ptZ0142>tomo_000656
+
+//OTHER
+<enZ0143>tomo_000657
+<ptZ0143>tomo_000657
+
+//OTHER
+<enZ0144>tomo_000658
+<ptZ0144>tomo_000658
+
+//OTHER
+<enZ0145>tomo_000659
+<ptZ0145>tomo_000659
+
+//OTHER
+<enZ0146>tomo_000660
+<ptZ0146>tomo_000660
+
+//OTHER
+<enZ0147>tomo_000661
+<ptZ0147>tomo_000661
+
+//OTHER
+<enZ0148>tomo_000662
+<ptZ0148>tomo_000662
+
+//OTHER
+<enZ0149>yuki_004515
+<ptZ0149>yuki_004515
+
+//OTHER
+<enZ0150>sp0084a
+<ptZ0150>sp0084a
+
+//OTHER
+<enZ0151>bgm017
+<ptZ0151>bgm017
+
+//OTHER
+<enZ0152>yuki_004516
+<ptZ0152>yuki_004516
+
+//OTHER
+<enZ0153>tomo_000663
+<ptZ0153>tomo_000663
+
+//OTHER
+<enZ0154>hasa_001497
+<ptZ0154>hasa_001497
+
+//OTHER
+<enZ0155>yuki_004517
+<ptZ0155>yuki_004517
+
+//OTHER
+<enZ0156>hasa_001498
+<ptZ0156>hasa_001498
+
+//OTHER
+<enZ0157>yuki_004518
+<ptZ0157>yuki_004518
+
+//OTHER
+<enZ0158>hasa_001499
+<ptZ0158>hasa_001499
+
+//OTHER
+<enZ0159>tomo_000664
+<ptZ0159>tomo_000664
+
+//OTHER
+<enZ0160>yuki_004519
+<ptZ0160>yuki_004519
+
+//OTHER
+<enZ0161>tomo_000665
+<ptZ0161>tomo_000665
+
+//OTHER
+<enZ0162>yuki_004520
+<ptZ0162>yuki_004520
+
+//OTHER
+<enZ0163>tomo_000666
+<ptZ0163>tomo_000666
+
+//OTHER
+<enZ0164>yuki_004521
+<ptZ0164>yuki_004521
+
+//OTHER
+<enZ0165>tomo_000667
+<ptZ0165>tomo_000667
+
+//OTHER
+<enZ0166>yuki_004522
+<ptZ0166>yuki_004522
+
+//OTHER
+<enZ0167>tomo_000668
+<ptZ0167>tomo_000668
+
+//OTHER
+<enZ0168>yuki_004523
+<ptZ0168>yuki_004523
+
+//OTHER
+<enZ0169>tomo_000669
+<ptZ0169>tomo_000669
+
+//OTHER
+<enZ0170>yuki_004524
+<ptZ0170>yuki_004524
+
+//OTHER
+<enZ0171>tomo_000670
+<ptZ0171>tomo_000670
+
+//OTHER
+<enZ0172>yuki_004525
+<ptZ0172>yuki_004525
+
+//OTHER
+<enZ0173>tomo_000671
+<ptZ0173>tomo_000671
+
+//OTHER
+<enZ0174>yuki_004526
+<ptZ0174>yuki_004526
+
+//OTHER
+<enZ0175>yuki_004527
+<ptZ0175>yuki_004527
+
+//OTHER
+<enZ0176>yuki_004528
+<ptZ0176>yuki_004528
+
+//OTHER
+<enZ0177>tomo_000672
+<ptZ0177>tomo_000672
+
+//OTHER
+<enZ0178>yuki_004529
+<ptZ0178>yuki_004529
+
+//OTHER
+<enZ0179>tomo_000673
+<ptZ0179>tomo_000673
+
+//OTHER
+<enZ0180>tomo_000674
+<ptZ0180>tomo_000674
+
+//OTHER
+<enZ0181>yuki_004530
+<ptZ0181>yuki_004530
+
+//OTHER
+<enZ0182>tomo_000675
+<ptZ0182>tomo_000675
+
+//OTHER
+<enZ0183>yuki_004531
+<ptZ0183>yuki_004531
+
+//OTHER
+<enZ0184>tomo_000676
+<ptZ0184>tomo_000676
+
+//OTHER
+<enZ0185>tomo_000677
+<ptZ0185>tomo_000677
+
+//OTHER
+<enZ0186>tomo_000678
+<ptZ0186>tomo_000678
+
+//OTHER
+<enZ0187>tomo_000679
+<ptZ0187>tomo_000679
+
+//OTHER
+<enZ0188>yuki_004532
+<ptZ0188>yuki_004532
+
+//OTHER
+<enZ0189>tomo_000680
+<ptZ0189>tomo_000680
+
+//OTHER
+<enZ0190>bg1044c
+<ptZ0190>bg1044c
+
+//OTHER
+<enZ0191>yuki_004533
+<ptZ0191>yuki_004533
+
+//OTHER
+<enZ0192>hasa_001500
+<ptZ0192>hasa_001500
+
+//OTHER
+<enZ0193>tomo_000681
+<ptZ0193>tomo_000681
+
+//OTHER
+<enZ0194>hasa_001501
+<ptZ0194>hasa_001501
+
+//OTHER
+<enZ0195>yuki_004534
+<ptZ0195>yuki_004534
+
+//OTHER
+<enZ0196>tomo_000682
+<ptZ0196>tomo_000682
+
+//OTHER
+<enZ0197>yuki_004535
+<ptZ0197>yuki_004535
+
+//OTHER
+<enZ0198>tomo_000683
+<ptZ0198>tomo_000683
+
+//OTHER
+<enZ0199>hs5001
+<ptZ0199>hs5001
+
+//OTHER
+<enZ0200>yuki_004536
+<ptZ0200>yuki_004536
+
+//OTHER
+<enZ0201>tomo_000684
+<ptZ0201>tomo_000684
+
+//OTHER
+<enZ0202>yuki_004537
+<ptZ0202>yuki_004537
+
+//OTHER
+<enZ0203>tomo_000685
+<ptZ0203>tomo_000685
+
+//OTHER
+<enZ0204>hasa_001502
+<ptZ0204>hasa_001502
+
+//OTHER
+<enZ0205>yuki_004538
+<ptZ0205>yuki_004538
+
+//OTHER
+<enZ0206>hasa_001503
+<ptZ0206>hasa_001503
+
+//OTHER
+<enZ0207>yuki_004539
+<ptZ0207>yuki_004539
+
+//OTHER
+<enZ0208>tomo_000686
+<ptZ0208>tomo_000686
+
+//OTHER
+<enZ0209>yuki_004540
+<ptZ0209>yuki_004540
+
+//OTHER
+<enZ0210>tomo_000687
+<ptZ0210>tomo_000687
+
+//OTHER
+<enZ0211>yuki_004541
+<ptZ0211>yuki_004541
+
+//OTHER
+<enZ0212>tomo_000688
+<ptZ0212>tomo_000688
+
+//OTHER
+<enZ0213>yk3001
+<ptZ0213>yk3001
+
+//OTHER
+<enZ0214>yuki_004542
+<ptZ0214>yuki_004542
+
+//OTHER
+<enZ0215>yuki_004543
+<ptZ0215>yuki_004543
+
+//OTHER
+<enZ0216>yuki_004544
+<ptZ0216>yuki_004544
+
+//OTHER
+<enZ0217>yuki_004545
+<ptZ0217>yuki_004545
+
+//OTHER
+<enZ0218>tomo_000689
+<ptZ0218>tomo_000689
+
+//OTHER
+<enZ0219>yuki_004546
+<ptZ0219>yuki_004546
+
+//OTHER
+<enZ0220>tomo_000690
+<ptZ0220>tomo_000690
+
+//OTHER
+<enZ0221>yuki_004547
+<ptZ0221>yuki_004547
+
+//OTHER
+<enZ0222>bg1037b2
+<ptZ0222>bg1037b2
+
+//OTHER
+<enZ0223>yk3002
+<ptZ0223>yk3002
+
+//OTHER
+<enZ0224>hasa_001504
+<ptZ0224>hasa_001504
+
+//OTHER
+<enZ0225>yuki_004548
+<ptZ0225>yuki_004548
+
+//OTHER
+<enZ0226>yuki_004549
+<ptZ0226>yuki_004549
+
+//OTHER
+<enZ0227>tomo_000691
+<ptZ0227>tomo_000691
+
+//OTHER
+<enZ0228>yuki_004550
+<ptZ0228>yuki_004550
+
+//OTHER
+<enZ0229>yuki_004551
+<ptZ0229>yuki_004551
+
+//OTHER
+<enZ0230>hasa_001505
+<ptZ0230>hasa_001505
+
+//OTHER
+<enZ0231>yuki_004552
+<ptZ0231>yuki_004552
+
+//OTHER
+<enZ0232>hasa_001506
+<ptZ0232>hasa_001506
+
+//OTHER
+<enZ0233>yuki_004553
+<ptZ0233>yuki_004553
+
+//OTHER
+<enZ0234>hasa_001507
+<ptZ0234>hasa_001507
+
+//OTHER
+<enZ0235>yuki_004554
+<ptZ0235>yuki_004554
+
+//OTHER
+<enZ0236>hasa_001508
+<ptZ0236>hasa_001508
+
+//OTHER
+<enZ0237>yuki_004555
+<ptZ0237>yuki_004555
+
+//OTHER
+<enZ0238>hasa_001509
+<ptZ0238>hasa_001509
+
+//OTHER
+<enZ0239>yuki_004556
+<ptZ0239>yuki_004556
+
+//OTHER
+<enZ0240>tomo_000692
+<ptZ0240>tomo_000692
+
+//OTHER
+<enZ0241>yuki_004557
+<ptZ0241>yuki_004557
+
+//OTHER
+<enZ0242>tomo_000693
+<ptZ0242>tomo_000693
+
+//OTHER
+<enZ0243>yuki_004558
+<ptZ0243>yuki_004558
+
+//OTHER
+<enZ0244>tomo_000694
+<ptZ0244>tomo_000694
+
+//OTHER
+<enZ0245>yk3010
+<ptZ0245>yk3010
+
+//OTHER
+<enZ0246>yuki_004559
+<ptZ0246>yuki_004559
+
+//OTHER
+<enZ0247>tomo_000695
+<ptZ0247>tomo_000695
+
+//OTHER
+<enZ0248>yuki_004560
+<ptZ0248>yuki_004560
+
+//OTHER
+<enZ0249>tomo_000696
+<ptZ0249>tomo_000696
+
+//OTHER
+<enZ0250>yuki_004561
+<ptZ0250>yuki_004561
+
+//OTHER
+<enZ0251>tomo_000697
+<ptZ0251>tomo_000697
+
+//OTHER
+<enZ0252>tomo_000698
+<ptZ0252>tomo_000698
+
+//OTHER
+<enZ0253>yuki_004562
+<ptZ0253>yuki_004562
+
+//OTHER
+<enZ0254>tomo_000699
+<ptZ0254>tomo_000699
+
+//OTHER
+<enZ0255>yuki_004563
+<ptZ0255>yuki_004563
+
+//OTHER
+<enZ0256>tomo_000700
+<ptZ0256>tomo_000700
+
+//OTHER
+<enZ0257>yuki_004564
+<ptZ0257>yuki_004564
+
+//OTHER
+<enZ0258>yuki_004565
+<ptZ0258>yuki_004565
+
+//OTHER
+<enZ0259>tomo_000701
+<ptZ0259>tomo_000701
+
+//OTHER
+<enZ0260>yk3003
+<ptZ0260>yk3003
+
+//OTHER
+<enZ0261>yuki_004566
+<ptZ0261>yuki_004566
+
+//OTHER
+<enZ0262>tomo_000702
+<ptZ0262>tomo_000702
+
+//OTHER
+<enZ0263>yuki_004567
+<ptZ0263>yuki_004567
+
+//OTHER
+<enZ0264>tomo_000703
+<ptZ0264>tomo_000703
+
+//OTHER
+<enZ0265>yk3002_l
+<ptZ0265>yk3002_l
+
+//OTHER
+<enZ0266>yk3009a_l
+<ptZ0266>yk3009a_l
+
+//OTHER
+<enZ0267>yuki_004568
+<ptZ0267>yuki_004568
+
+//OTHER
+<enZ0268>se011
+<ptZ0268>se011
+
+//OTHER
+<enZ0269>yuki_004569
+<ptZ0269>yuki_004569
+
+//OTHER
+<enZ0270>ev0101h
+<ptZ0270>ev0101h
+
+//OTHER
+<enZ0271>tomo_000704
+<ptZ0271>tomo_000704
+
+//OTHER
+<enZ0272>yuki_004570
+<ptZ0272>yuki_004570
+
+//OTHER
+<enZ0273>tomo_000705
+<ptZ0273>tomo_000705
+
+//OTHER
+<enZ0274>yuki_004571
+<ptZ0274>yuki_004571
+
+//OTHER
+<enZ0275>tomo_000706
+<ptZ0275>tomo_000706
+
+//OTHER
+<enZ0276>yuki_004572
+<ptZ0276>yuki_004572
+
+//OTHER
+<enZ0277>yk3104_l
+<ptZ0277>yk3104_l
+
+//OTHER
+<enZ0278>yuki_004573
+<ptZ0278>yuki_004573
+
+//OTHER
+<enZ0279>tomo_000707
+<ptZ0279>tomo_000707
+
+//OTHER
+<enZ0280>yk3105_l
+<ptZ0280>yk3105_l
+
+//OTHER
+<enZ0281>yuki_004574
+<ptZ0281>yuki_004574
+
+//OTHER
+<enZ0282>tomo_000708
+<ptZ0282>tomo_000708
+
+//OTHER
+<enZ0283>yk3102_l
+<ptZ0283>yk3102_l
+
+//OTHER
+<enZ0284>yuki_004575
+<ptZ0284>yuki_004575
+
+//OTHER
+<enZ0285>yk3103_l
+<ptZ0285>yk3103_l
+
+//OTHER
+<enZ0286>tomo_000709
+<ptZ0286>tomo_000709
+
+//OTHER
+<enZ0287>yk3102a_l
+<ptZ0287>yk3102a_l
+
+//OTHER
+<enZ0288>yuki_004576
+<ptZ0288>yuki_004576
+
+//OTHER
+<enZ0289>tomo_000710
+<ptZ0289>tomo_000710
+
+//OTHER
+<enZ0290>yk3101a_l
+<ptZ0290>yk3101a_l
+
+//OTHER
+<enZ0291>yuki_004577
+<ptZ0291>yuki_004577
+
+//OTHER
+<enZ0292>yk3103a_l
+<ptZ0292>yk3103a_l
+
+//OTHER
+<enZ0293>yuki_004578
+<ptZ0293>yuki_004578
+
+//OTHER
+<enZ0294>tomo_000711
+<ptZ0294>tomo_000711
+
+//OTHER
+<enZ0295>yuki_004579
+<ptZ0295>yuki_004579
+
+//OTHER
+<enZ0296>sp0008m
+<ptZ0296>sp0008m
+
+//OTHER
+<enZ0297>yuki_004580
+<ptZ0297>yuki_004580
+
+//OTHER
+<enZ0298>tomo_000712
+<ptZ0298>tomo_000712
+
+//OTHER
+<enZ0299>yuki_004581
+<ptZ0299>yuki_004581
+
+//OTHER
+<enZ0300>yuki_004582
+<ptZ0300>yuki_004582
+
+//OTHER
+<enZ0301>tomo_000713
+<ptZ0301>tomo_000713
+
+//OTHER
+<enZ0302>yuki_004583
+<ptZ0302>yuki_004583
+
+//OTHER
+<enZ0303>tomo_000714
+<ptZ0303>tomo_000714
+
+//OTHER
+<enZ0304>yuki_004584
+<ptZ0304>yuki_004584
+
+//OTHER
+<enZ0305>tomo_000715
+<ptZ0305>tomo_000715
+
+//OTHER
+<enZ0306>yuki_004585
+<ptZ0306>yuki_004585
+
+//OTHER
+<enZ0307>yuki_004586
+<ptZ0307>yuki_004586
+
+//OTHER
+<enZ0308>yuki_004587
+<ptZ0308>yuki_004587
+
+//OTHER
+<enZ0309>yuki_004588
+<ptZ0309>yuki_004588
+
+//OTHER
+<enZ0310>yuki_004589
+<ptZ0310>yuki_004589
+
+//OTHER
+<enZ0311>yuki_004590
+<ptZ0311>yuki_004590
+
+//OTHER
+<enZ0312>yuki_004591
+<ptZ0312>yuki_004591
+
+//OTHER
+<enZ0313>yuki_004592
+<ptZ0313>yuki_004592
+
+//OTHER
+<enZ0314>yuki_004593
+<ptZ0314>yuki_004593
+
+//OTHER
+<enZ0315>yuki_004594
+<ptZ0315>yuki_004594
+
+//OTHER
+<enZ0316>yuki_004595
+<ptZ0316>yuki_004595
+
+//OTHER
+<enZ0317>yuki_004596
+<ptZ0317>yuki_004596
+
+//OTHER
+<enZ0318>tomo_000716
+<ptZ0318>tomo_000716
+
+//OTHER
+<enZ0319>yuki_004597
+<ptZ0319>yuki_004597
+
+//OTHER
+<enZ0320>yk3001a_l
+<ptZ0320>yk3001a_l
+
+//OTHER
+<enZ0321>tomo_000717
+<ptZ0321>tomo_000717
+
+//OTHER
+<enZ0322>yk3008a_l
+<ptZ0322>yk3008a_l
+
+//OTHER
+<enZ0323>yuki_004598
+<ptZ0323>yuki_004598
+
+//OTHER
+<enZ0324>tomo_000718
+<ptZ0324>tomo_000718
+
+//OTHER
+<enZ0325>yuki_004599
+<ptZ0325>yuki_004599
+
+//OTHER
+<enZ0326>tomo_000719
+<ptZ0326>tomo_000719
+
+//OTHER
+<enZ0327>tomo_000720
+<ptZ0327>tomo_000720
+
+//OTHER
+<enZ0328>yk3010a_l
+<ptZ0328>yk3010a_l
+
+//OTHER
+<enZ0329>yuki_004600
+<ptZ0329>yuki_004600
+
+//OTHER
+<enZ0330>tomo_000721
+<ptZ0330>tomo_000721
+
+//OTHER
+<enZ0331>yuki_004601
+<ptZ0331>yuki_004601
+
+//OTHER
+<enZ0332>yk3002a_l
+<ptZ0332>yk3002a_l
+
+//OTHER
+<enZ0333>yuki_004602
+<ptZ0333>yuki_004602
+
+//OTHER
+<enZ0334>yuki_004603
+<ptZ0334>yuki_004603
+
+//OTHER
+<enZ0335>yuki_004604
+<ptZ0335>yuki_004604
+
+//OTHER
+<enZ0336>yk3004a_l
+<ptZ0336>yk3004a_l
+
+//OTHER
+<enZ0337>yuki_004605
+<ptZ0337>yuki_004605
+
+//OTHER
+<enZ0338>yk3006a_l
+<ptZ0338>yk3006a_l
+
+//OTHER
+<enZ0339>yuki_004606
+<ptZ0339>yuki_004606
+
+//OTHER
+<enZ0340>yk3000a_l
+<ptZ0340>yk3000a_l
+
+//OTHER
+<enZ0341>yuki_004607
+<ptZ0341>yuki_004607
+
+//OTHER
+<enZ0342>yuki_004608
+<ptZ0342>yuki_004608
+
+//OTHER
+<enZ0343>tomo_000722
+<ptZ0343>tomo_000722
+
+//OTHER
+<enZ0344>yk3003a_l
+<ptZ0344>yk3003a_l
+
+//OTHER
+<enZ0345>yuki_004609
+<ptZ0345>yuki_004609
+
+//OTHER
+<enZ0346>yuki_004610
+<ptZ0346>yuki_004610
+
+//OTHER
+<enZ0347>yuki_004611
+<ptZ0347>yuki_004611
+
+//OTHER
+<enZ0348>yuki_004612
+<ptZ0348>yuki_004612
+
+//OTHER
+<enZ0349>tomo_000723
+<ptZ0349>tomo_000723
+
+//OTHER
+<enZ0350>footprint
+<ptZ0350>footprint
+
+//OTHER
+<enZ0351>yuki_004613
+<ptZ0351>yuki_004613
+
+//OTHER
+<enZ0352>tomo_000724
+<ptZ0352>tomo_000724
+
+//OTHER
+<enZ0353>yuki_004614
+<ptZ0353>yuki_004614
+
+//OTHER
+<enZ0354>yuki_004615
+<ptZ0354>yuki_004615
+
+//OTHER
+<enZ0355>yuki_004616
+<ptZ0355>yuki_004616
+
+//OTHER
+<enZ0356>tomo_000725
+<ptZ0356>tomo_000725
+
+//OTHER
+<enZ0357>yuki_004617
+<ptZ0357>yuki_004617
+
+//OTHER
+<enZ0358>yuki_004618
+<ptZ0358>yuki_004618
+
+//OTHER
+<enZ0359>tomo_000726
+<ptZ0359>tomo_000726
+
+//OTHER
+<enZ0360>yuki_004619
+<ptZ0360>yuki_004619
+
+//OTHER
+<enZ0361>yuki_004620
+<ptZ0361>yuki_004620
+
+//OTHER
+<enZ0362>yk3001_l
+<ptZ0362>yk3001_l
+
+//OTHER
+<enZ0363>yuki_004621
+<ptZ0363>yuki_004621
+
+//OTHER
+<enZ0364>yuki_004622
+<ptZ0364>yuki_004622
+
+//OTHER
+<enZ0365>tomo_000727
+<ptZ0365>tomo_000727
+
+//OTHER
+<enZ0366>yuki_004623
+<ptZ0366>yuki_004623
+
+//OTHER
+<enZ0367>tomo_000728
+<ptZ0367>tomo_000728
+
+//OTHER
+<enZ0368>yuki_004624
+<ptZ0368>yuki_004624
+
+//OTHER
+<enZ0369>yuki_004625
+<ptZ0369>yuki_004625
+
+//OTHER
+<enZ0370>yuki_004626
+<ptZ0370>yuki_004626
+
+//OTHER
+<enZ0371>yuki_004627
+<ptZ0371>yuki_004627
+
+//OTHER
+<enZ0372>tomo_000729
+<ptZ0372>tomo_000729
+
+//OTHER
+<enZ0373>yuki_004628
+<ptZ0373>yuki_004628
+
+//OTHER
+<enZ0374>yuki_004629
+<ptZ0374>yuki_004629
+
+//OTHER
+<enZ0375>tomo_000730
+<ptZ0375>tomo_000730
+
+//OTHER
+<enZ0376>yuki_004630
+<ptZ0376>yuki_004630
+
+//OTHER
+<enZ0377>yuki_004631
+<ptZ0377>yuki_004631
+
+//OTHER
+<enZ0378>yuki_004632
+<ptZ0378>yuki_004632
+
+//OTHER
+<enZ0379>tomo_000731
+<ptZ0379>tomo_000731
+
+//OTHER
+<enZ0380>yk3006_l
+<ptZ0380>yk3006_l
+
+//OTHER
+<enZ0381>yuki_004633
+<ptZ0381>yuki_004633
+
+//OTHER
+<enZ0382>yuki_004634
+<ptZ0382>yuki_004634
+
+//OTHER
+<enZ0383>tomo_000732
+<ptZ0383>tomo_000732
+
+//OTHER
+<enZ0384>yuki_004635
+<ptZ0384>yuki_004635
+
+//OTHER
+<enZ0385>tomo_000733
+<ptZ0385>tomo_000733
+
+//OTHER
+<enZ0386>yuki_004636
+<ptZ0386>yuki_004636
+
+//OTHER
+<enZ0387>tomo_000734
+<ptZ0387>tomo_000734
+
+//OTHER
+<enZ0388>yuki_004637
+<ptZ0388>yuki_004637
+
+//OTHER
+<enZ0389>yuki_004638
+<ptZ0389>yuki_004638
+
+//OTHER
+<enZ0390>tomo_000735
+<ptZ0390>tomo_000735
+
+//OTHER
+<enZ0391>yuki_004639
+<ptZ0391>yuki_004639
+
+//OTHER
+<enZ0392>tomo_000736
+<ptZ0392>tomo_000736
+
+//OTHER
+<enZ0393>yuki_004640
+<ptZ0393>yuki_004640
+
+//OTHER
+<enZ0394>yuki_004641
+<ptZ0394>yuki_004641
+
+//OTHER
+<enZ0395>yuki_004642
+<ptZ0395>yuki_004642
+
+//OTHER
+<enZ0396>yuki_004643
+<ptZ0396>yuki_004643
+
+//OTHER
+<enZ0397>tomo_000737
+<ptZ0397>tomo_000737
+
+//OTHER
+<enZ0398>yuki_004644
+<ptZ0398>yuki_004644
+
+//OTHER
+<enZ0399>tomo_000738
+<ptZ0399>tomo_000738
+
+//OTHER
+<enZ0400>yuki_004645
+<ptZ0400>yuki_004645
+
+//OTHER
+<enZ0401>tomo_000739
+<ptZ0401>tomo_000739
+
+//OTHER
+<enZ0402>yuki_004646
+<ptZ0402>yuki_004646
+
+//OTHER
+<enZ0403>yuki_004647
+<ptZ0403>yuki_004647
+
+//OTHER
+<enZ0404>yuki_004648
+<ptZ0404>yuki_004648
+
+//OTHER
+<enZ0405>yuki_004649
+<ptZ0405>yuki_004649
+
+//OTHER
+<enZ0406>tomo_000740
+<ptZ0406>tomo_000740
+
+//OTHER
+<enZ0407>yk3000_l
+<ptZ0407>yk3000_l
+
+//OTHER
+<enZ0408>yuki_004650
+<ptZ0408>yuki_004650
+
+//OTHER
+<enZ0409>yk3000b_l
+<ptZ0409>yk3000b_l
+
+//OTHER
+<enZ0410>yuki_004651
+<ptZ0410>yuki_004651
+
+//OTHER
+<enZ0411>yuki_004652
+<ptZ0411>yuki_004652
+
+//OTHER
+<enZ0412>yuki_004653
+<ptZ0412>yuki_004653
+
+//OTHER
+<enZ0413>yuki_004654
+<ptZ0413>yuki_004654
+
+//OTHER
+<enZ0414>yuki_004655
+<ptZ0414>yuki_004655
+
+//OTHER
+<enZ0415>yuki_004656
+<ptZ0415>yuki_004656
+
+//OTHER
+<enZ0416>yuki_004657
+<ptZ0416>yuki_004657
+
+//OTHER
+<enZ0417>tomo_000741
+<ptZ0417>tomo_000741
+
+//OTHER
+<enZ0418>yuki_004658
+<ptZ0418>yuki_004658
+
+//OTHER
+<enZ0419>yk3003_l
+<ptZ0419>yk3003_l
+
+//OTHER
+<enZ0420>yuki_004659
+<ptZ0420>yuki_004659
+
+//OTHER
+<enZ0421>tomo_000742
+<ptZ0421>tomo_000742
+
+//OTHER
+<enZ0422>yuki_004660
+<ptZ0422>yuki_004660
+
+//OTHER
+<enZ0423>yuki_004661
+<ptZ0423>yuki_004661
+
+//OTHER
+<enZ0424>yuki_004662
+<ptZ0424>yuki_004662
+
+//OTHER
+<enZ0425>tomo_000743
+<ptZ0425>tomo_000743
+
+//OTHER
+<enZ0426>yuki_004663
+<ptZ0426>yuki_004663
+
+//OTHER
+<enZ0427>tomo_000744
+<ptZ0427>tomo_000744
+
+//OTHER
+<enZ0428>yuki_004664
+<ptZ0428>yuki_004664
+
+//OTHER
+<enZ0429>yuki_004665
+<ptZ0429>yuki_004665
+
+//OTHER
+<enZ0430>yuki_004666
+<ptZ0430>yuki_004666
+
+//OTHER
+<enZ0431>yuki_004667
+<ptZ0431>yuki_004667
+
+//OTHER
+<enZ0432>yuki_004668
+<ptZ0432>yuki_004668
+
+//OTHER
+<enZ0433>yuki_004669
+<ptZ0433>yuki_004669
+
+//OTHER
+<enZ0434>yuki_004670
+<ptZ0434>yuki_004670
+
+//OTHER
+<enZ0435>yuki_004671
+<ptZ0435>yuki_004671
+
+//OTHER
+<enZ0436>yuki_004672
+<ptZ0436>yuki_004672
+
+//OTHER
+<enZ0437>yuki_004673
+<ptZ0437>yuki_004673
+
+//OTHER
+<enZ0438>yuki_004674
+<ptZ0438>yuki_004674
+
+//OTHER
+<enZ0439>yuki_004675
+<ptZ0439>yuki_004675
+
+//OTHER
+<enZ0440>yuki_004676
+<ptZ0440>yuki_004676
+
+//OTHER
+<enZ0441>tomo_000745
+<ptZ0441>tomo_000745
+
+//OTHER
+<enZ0442>map022
+<ptZ0442>map022
+
+//OTHER
+<enZ0443>sp0083
+<ptZ0443>sp0083
+
+//OTHER
+<enZ0444>yuki_004677
+<ptZ0444>yuki_004677
+
+//OTHER
+<enZ0445>tomo_000746
+<ptZ0445>tomo_000746
+
+//OTHER
+<enZ0446>yuki_004678
+<ptZ0446>yuki_004678
+
+//OTHER
+<enZ0447>yuki_004679
+<ptZ0447>yuki_004679
+
+//OTHER
+<enZ0448>yuki_004680
+<ptZ0448>yuki_004680
+
+//OTHER
+<enZ0449>yuki_004681
+<ptZ0449>yuki_004681
+
+//OTHER
+<enZ0450>tomo_000747
+<ptZ0450>tomo_000747
+
+//OTHER
+<enZ0451>yuki_004682
+<ptZ0451>yuki_004682
+
+//OTHER
+<enZ0452>yuki_004683
+<ptZ0452>yuki_004683
+
+//OTHER
+<enZ0453>yuki_004684
+<ptZ0453>yuki_004684
+
+//OTHER
+<enZ0454>yuki_004685
+<ptZ0454>yuki_004685
+
+//OTHER
+<enZ0455>yuki_004686
+<ptZ0455>yuki_004686
+
+//OTHER
+<enZ0456>yuki_004687
+<ptZ0456>yuki_004687
+
+//OTHER
+<enZ0457>yuki_004688
+<ptZ0457>yuki_004688
+
+//OTHER
+<enZ0458>yuki_004689
+<ptZ0458>yuki_004689
+
+//OTHER
+<enZ0459>yuki_004690
+<ptZ0459>yuki_004690
+
+//OTHER
+<enZ0460>yuki_004691
+<ptZ0460>yuki_004691
+
+//OTHER
+<enZ0461>yuki_004692
+<ptZ0461>yuki_004692
+
+//OTHER
+<enZ0462>yuki_004693
+<ptZ0462>yuki_004693
+
+//OTHER
+<enZ0463>yuki_004694
+<ptZ0463>yuki_004694
+
+//OTHER
+<enZ0464>yuki_004695
+<ptZ0464>yuki_004695
+
+//OTHER
+<enZ0465>yuki_004696
+<ptZ0465>yuki_004696
+
+//OTHER
+<enZ0466>yuki_004697
+<ptZ0466>yuki_004697
+
+//OTHER
+<enZ0467>yuki_004698
+<ptZ0467>yuki_004698
+
+//OTHER
+<enZ0468>yuki_004699
+<ptZ0468>yuki_004699
+
+//OTHER
+<enZ0469>yuki_004700
+<ptZ0469>yuki_004700
+
+//OTHER
+<enZ0470>yuki_004701
+<ptZ0470>yuki_004701
+
+//OTHER
+<enZ0471>yuki_004702
+<ptZ0471>yuki_004702
+
+//OTHER
+<enZ0472>yuki_004703
+<ptZ0472>yuki_004703
+
+//OTHER
+<enZ0473>yuki_004704
+<ptZ0473>yuki_004704
+
+//OTHER
+<enZ0474>yuki_004705
+<ptZ0474>yuki_004705
+
+//OTHER
+<enZ0475>yuki_004706
+<ptZ0475>yuki_004706
+
+//OTHER
+<enZ0476>yuki_004707
+<ptZ0476>yuki_004707
+
+//OTHER
+<enZ0477>yuki_004708
+<ptZ0477>yuki_004708
+
+//OTHER
+<enZ0478>yuki_004709
+<ptZ0478>yuki_004709
+
+//OTHER
+<enZ0479>tomo_000748
+<ptZ0479>tomo_000748
+
+//OTHER
+<enZ0480>yuki_004710
+<ptZ0480>yuki_004710
+
+//OTHER
+<enZ0481>yuki_004711
+<ptZ0481>yuki_004711
+
+//OTHER
+<enZ0482>yuki_004712
+<ptZ0482>yuki_004712
+
+//OTHER
+<enZ0483>yuki_004713
+<ptZ0483>yuki_004713
+
+//OTHER
+<enZ0484>yuki_004714
+<ptZ0484>yuki_004714
+
+//OTHER
+<enZ0485>yuki_004715
+<ptZ0485>yuki_004715
+
+//OTHER
+<enZ0486>yuki_004716
+<ptZ0486>yuki_004716
+
+//OTHER
+<enZ0487>yuki_004717
+<ptZ0487>yuki_004717
+
+//OTHER
+<enZ0488>yuki_004718
+<ptZ0488>yuki_004718
+
+//OTHER
+<enZ0489>yuki_004719
+<ptZ0489>yuki_004719
+
+//OTHER
+<enZ0490>yuki_004720
+<ptZ0490>yuki_004720
+
+//OTHER
+<enZ0491>yuki_004721
+<ptZ0491>yuki_004721
+
+//OTHER
+<enZ0492>yuki_004722
+<ptZ0492>yuki_004722
+
+//OTHER
+<enZ0493>yuki_004723
+<ptZ0493>yuki_004723
+
+//OTHER
+<enZ0494>tomo_000749
+<ptZ0494>tomo_000749
+
+//OTHER
+<enZ0495>yuki_004724
+<ptZ0495>yuki_004724
+
+//OTHER
+<enZ0496>yk3007a_l
+<ptZ0496>yk3007a_l
+
+//OTHER
+<enZ0497>yuki_004725
+<ptZ0497>yuki_004725
+
+//OTHER
+<enZ0498>tomo_000750
+<ptZ0498>tomo_000750
+
+//OTHER
+<enZ0499>yuki_004726
+<ptZ0499>yuki_004726
+
+//OTHER
+<enZ0500>black
+<ptZ0500>black
+
+//OTHER
+<enZ0501>kt0000
+<ptZ0501>kt0000
+
+//OTHER
+<enZ0502>yuki_004727
+<ptZ0502>yuki_004727
+
+//OTHER
+<enZ0503>tomo_000751
+<ptZ0503>tomo_000751
+
+//OTHER
+<enZ0504>kt0003
+<ptZ0504>kt0003
+
+//OTHER
+<enZ0505>koto_000007
+<ptZ0505>koto_000007
+
+//OTHER
+<enZ0506>koto_000008
+<ptZ0506>koto_000008
+
+//OTHER
+<enZ0507>tomo_000752
+<ptZ0507>tomo_000752
+
+//OTHER
+<enZ0508>yuki_004728
+<ptZ0508>yuki_004728
+
+//OTHER
+<enZ0509>koto_000009
+<ptZ0509>koto_000009
+
+//OTHER
+<enZ0510>yuki_004729
+<ptZ0510>yuki_004729
+
+//OTHER
+<enZ0511>koto_000010
+<ptZ0511>koto_000010
+
+//OTHER
+<enZ0512>yuki_004730
+<ptZ0512>yuki_004730
+
+//OTHER
+<enZ0513>koto_000011
+<ptZ0513>koto_000011
+
+//OTHER
+<enZ0514>tomo_000753
+<ptZ0514>tomo_000753
+
+//OTHER
+<enZ0515>kt0006
+<ptZ0515>kt0006
+
+//OTHER
+<enZ0516>koto_000012
+<ptZ0516>koto_000012
+
+//OTHER
+<enZ0517>yuki_004731
+<ptZ0517>yuki_004731
+
+//OTHER
+<enZ0518>tomo_000754
+<ptZ0518>tomo_000754
+
+//OTHER
+<enZ0519>yuki_004732
+<ptZ0519>yuki_004732
+
+//OTHER
+<enZ0520>tomo_000755
+<ptZ0520>tomo_000755
+
+//OTHER
+<enZ0521>koto_000013
+<ptZ0521>koto_000013
+
+//OTHER
+<enZ0522>tomo_000756
+<ptZ0522>tomo_000756
+
+//OTHER
+<enZ0523>yuki_004733
+<ptZ0523>yuki_004733
+
+//OTHER
+<enZ0524>tomo_000757
+<ptZ0524>tomo_000757
+
+//OTHER
+<enZ0525>yuki_004734
+<ptZ0525>yuki_004734
+
+//OTHER
+<enZ0526>koto_000014
+<ptZ0526>koto_000014
+
+//OTHER
+<enZ0527>tomo_000758
+<ptZ0527>tomo_000758
+
+//OTHER
+<enZ0528>hasa_001510
+<ptZ0528>hasa_001510
+
+//OTHER
+<enZ0529>bgm025
+<ptZ0529>bgm025
+
+//OTHER
+<enZ0530>tomo_000759
+<ptZ0530>tomo_000759
+
+//OTHER
+<enZ0531>map027
+<ptZ0531>map027
+
+//OTHER
+<enZ0532>yuki_004735
+<ptZ0532>yuki_004735
+
+//OTHER
+<enZ0533>yuki_004736
+<ptZ0533>yuki_004736
+
+//OTHER
+<enZ0534>map001
+<ptZ0534>map001
+
+//OTHER
+<enZ0535>tomo_000760
+<ptZ0535>tomo_000760
+
+//OTHER
+<enZ0536>tomo_000761
+<ptZ0536>tomo_000761
+
+//OTHER
+<enZ0537>ev6006a
+<ptZ0537>ev6006a
+
+//OTHER
+<enZ0538>ev6006b
+<ptZ0538>ev6006b
+
+//OTHER
+<enZ0539>ev6006e
+<ptZ0539>ev6006e
+
+//OTHER
+<enZ0540>tomo_000762
+<ptZ0540>tomo_000762
+
+//OTHER
+<enZ0541>tomo_000763
+<ptZ0541>tomo_000763
+
+//OTHER
+<enZ0542>tomo_000764
+<ptZ0542>tomo_000764
+
+//OTHER
+<enZ0543>tomo_000765
+<ptZ0543>tomo_000765
+
+//OTHER
+<enZ0544>tomo_000766
+<ptZ0544>tomo_000766
+
+//OTHER
+<enZ0545>tomo_000767
+<ptZ0545>tomo_000767
+
+//OTHER
+<enZ0546>koto_000015
+<ptZ0546>koto_000015
+
+//OTHER
+<enZ0547>tomo_000768
+<ptZ0547>tomo_000768
+
+//OTHER
+<enZ0548>yuki_004737
+<ptZ0548>yuki_004737
+
+//OTHER
+<enZ0549>tomo_000769
+<ptZ0549>tomo_000769
+
+//OTHER
+<enZ0550>bgm010
+<ptZ0550>bgm010
+
+//OTHER
+<enZ0551>koto_000016
+<ptZ0551>koto_000016
+
+//OTHER
+<enZ0552>koto_000017
+<ptZ0552>koto_000017
+
+//OTHER
+<enZ0553>tomo_000770
+<ptZ0553>tomo_000770
+
+//OTHER
+<enZ0554>yuki_004738
+<ptZ0554>yuki_004738
+
+//OTHER
+<enZ0555>tomo_000771
+<ptZ0555>tomo_000771
+
+//OTHER
+<enZ0556>tomo_000772
+<ptZ0556>tomo_000772
+
+//OTHER
+<enZ0557>tomo_000773
+<ptZ0557>tomo_000773
+
+//OTHER
+<enZ0558>tomo_000774
+<ptZ0558>tomo_000774
+
+//OTHER
+<enZ0559>tomo_000775
+<ptZ0559>tomo_000775
+
+//OTHER
+<enZ0560>yuki_004739
+<ptZ0560>yuki_004739
+
+//OTHER
+<enZ0561>tomo_000776
+<ptZ0561>tomo_000776
+
+//OTHER
+<enZ0562>tomo_000777
+<ptZ0562>tomo_000777
+
+//OTHER
+<enZ0563>tomo_000778
+<ptZ0563>tomo_000778
+
+//OTHER
+<enZ0564>tomo_000779
+<ptZ0564>tomo_000779
+
+//OTHER
+<enZ0565>tomo_000780
+<ptZ0565>tomo_000780
+
+//OTHER
+<enZ0566>tomo_000781
+<ptZ0566>tomo_000781
+
+//OTHER
+<enZ0567>tomo_000782
+<ptZ0567>tomo_000782
+
+//OTHER
+<enZ0568>tomo_000783
+<ptZ0568>tomo_000783
+
+//OTHER
+<enZ0569>koto_000018
+<ptZ0569>koto_000018
+
+//OTHER
+<enZ0570>tomo_000784
+<ptZ0570>tomo_000784
+
+//OTHER
+<enZ0571>koto_000019
+<ptZ0571>koto_000019
+
+//OTHER
+<enZ0572>koto_000020
+<ptZ0572>koto_000020
+
+//OTHER
+<enZ0573>koto_000021
+<ptZ0573>koto_000021
+
+//OTHER
+<enZ0574>tomo_000785
+<ptZ0574>tomo_000785
+
+//OTHER
+<enZ0575>tomo_000786
+<ptZ0575>tomo_000786
+
+//OTHER
+<enZ0576>tomo_000787
+<ptZ0576>tomo_000787
+
+//OTHER
+<enZ0577>koto_000022
+<ptZ0577>koto_000022
+
+//OTHER
+<enZ0578>koto_000023
+<ptZ0578>koto_000023
+
+//OTHER
+<enZ0579>koto_000024
+<ptZ0579>koto_000024
+
+//OTHER
+<enZ0580>Takuji
+<ptZ0580>Takuji
+
+//OTHER
+<enZ0581>koto_000025
+<ptZ0581>koto_000025
+
+//OTHER
+<enZ0582>Kotomi
+<ptZ0582>Kotomi
+
+//OTHER
+<enZ0583>tomo_000788
+<ptZ0583>tomo_000788
+
+//OTHER
+<enZ0584>hasa_001511
+<ptZ0584>hasa_001511
+
+//OTHER
+<enZ0585>ev6006c
+<ptZ0585>ev6006c
+
+//OTHER
+<enZ0586>ev6006d
+<ptZ0586>ev6006d
+
+//OTHER
+<enZ0587>ev6006f
+<ptZ0587>ev6006f
+
+//OTHER
+<enZ0588>bgm010_slow
+<ptZ0588>bgm010_slow
+
+//OTHER
+<enZ0589>tomo_000789_az
+<ptZ0589>tomo_000789_az
+
+//OTHER
+<enZ0590>tomo_000790
+<ptZ0590>tomo_000790
+
+//OTHER
+<enZ0591>se375
+<ptZ0591>se375
+
+//OTHER
+<enZ0592>tomo_000791
+<ptZ0592>tomo_000791
+
+//OTHER
+<enZ0593>koto_000026
+<ptZ0593>koto_000026
+
+//OTHER
+<enZ0594>tomo_000792
+<ptZ0594>tomo_000792
+
+//OTHER
+<enZ0595>tomo_000793
+<ptZ0595>tomo_000793
+
+//OTHER
+<enZ0596>koto_000027
+<ptZ0596>koto_000027
+
+//OTHER
+<enZ0597>tomo_000794
+<ptZ0597>tomo_000794
+
+//OTHER
+<enZ0598>koto_000028
+<ptZ0598>koto_000028
+
+//OTHER
+<enZ0599>tomo_000795
+<ptZ0599>tomo_000795
+
+//OTHER
+<enZ0600>hasa_001512
+<ptZ0600>hasa_001512
+
+//OTHER
+<enZ0601>tomo_000796
+<ptZ0601>tomo_000796
+
+//OTHER
+<enZ0602>koto_000029
+<ptZ0602>koto_000029
+
+//OTHER
+<enZ0603>tomo_000797
+<ptZ0603>tomo_000797
+
+//OTHER
+<enZ0604>bgm114
+<ptZ0604>bgm114
+
+//OTHER
+<enZ0605>hasa_001513
+<ptZ0605>hasa_001513
+
+//OTHER
+<enZ0606>tomo_000798
+<ptZ0606>tomo_000798
+
+//OTHER
+<enZ0607>hasa_001514
+<ptZ0607>hasa_001514
+
+//OTHER
+<enZ0608>tomo_000799
+<ptZ0608>tomo_000799
+
+//OTHER
+<enZ0609>hasa_001515
+<ptZ0609>hasa_001515
+
+//OTHER
+<enZ0610>tomo_000800
+<ptZ0610>tomo_000800
+
+//OTHER
+<enZ0611>tomo_000801
+<ptZ0611>tomo_000801
+
+//OTHER
+<enZ0612>hasa_001516
+<ptZ0612>hasa_001516
+
+//OTHER
+<enZ0613>hasa_001517
+<ptZ0613>hasa_001517
+
+//OTHER
+<enZ0614>hasa_001518
+<ptZ0614>hasa_001518
+
+//OTHER
+<enZ0615>tomo_000802
+<ptZ0615>tomo_000802
+
+//OTHER
+<enZ0616>tomo_000803
+<ptZ0616>tomo_000803
+
+//OTHER
+<enZ0617>tomo_000804
+<ptZ0617>tomo_000804
+
+//OTHER
+<enZ0618>kt0004
+<ptZ0618>kt0004
+
+//OTHER
+<enZ0619>kt0005
+<ptZ0619>kt0005
+
+//OTHER
+<enZ0620>koto_000030
+<ptZ0620>koto_000030
+
+//OTHER
+<enZ0621>tkj6004_l
+<ptZ0621>tkj6004_l
+
+//OTHER
+<enZ0622>tomo_000805
+<ptZ0622>tomo_000805
+
+//OTHER
+<enZ0623>se013
+<ptZ0623>se013
+
+//OTHER
+<enZ0624>tkj6005_l
+<ptZ0624>tkj6005_l
+
+//OTHER
+<enZ0625>tomo_000806
+<ptZ0625>tomo_000806
+
+//OTHER
+<enZ0626>tomo_000807
+<ptZ0626>tomo_000807
+
+//OTHER
+<enZ0627>se318
+<ptZ0627>se318
+
+//OTHER
+<enZ0628>map005
+<ptZ0628>map005
+
+//OTHER
+<enZ0629>sp0200b
+<ptZ0629>sp0200b
+
+//OTHER
+<enZ0630>tomo_000808
+<ptZ0630>tomo_000808
+
+//OTHER
+<enZ0631>tomo_000809
+<ptZ0631>tomo_000809
+
+//OTHER
+<enZ0632>tomo_000810
+<ptZ0632>tomo_000810
+
+//OTHER
+<enZ0633>tomo_000811
+<ptZ0633>tomo_000811
+
+//OTHER
+<enZ0634>tomo_000812
+<ptZ0634>tomo_000812
+
+//OTHER
+<enZ0635>tomo_000813
+<ptZ0635>tomo_000813
+
+//OTHER
+<enZ0636>tomo_000814
+<ptZ0636>tomo_000814
+
+//OTHER
+<enZ0637>tomo_000815
+<ptZ0637>tomo_000815
+
+//OTHER
+<enZ0638>tomo_000816
+<ptZ0638>tomo_000816
+
+//OTHER
+<enZ0639>tkj6005
+<ptZ0639>tkj6005
+
+//OTHER
+<enZ0640>tomo_000817
+<ptZ0640>tomo_000817
+
+//OTHER
+<enZ0641>tomo_000818
+<ptZ0641>tomo_000818
+
+//OTHER
+<enZ0642>tomo_000819
+<ptZ0642>tomo_000819
+
+//OTHER
+<enZ0643>ev7009a
+<ptZ0643>ev7009a
+
+//OTHER
+<enZ0644>ev7009b
+<ptZ0644>ev7009b
+
+//OTHER
+<enZ0645>tomo_000820
+<ptZ0645>tomo_000820
+
+//OTHER
+<enZ0646>tomo_000821
+<ptZ0646>tomo_000821
+
+//OTHER
+<enZ0647>tomo_000822
+<ptZ0647>tomo_000822
+
+//OTHER
+<enZ0648>koto_000031
+<ptZ0648>koto_000031
+
+//OTHER
+<enZ0649>se372
+<ptZ0649>se372
+
+//OTHER
+<enZ0650>ev7009c
+<ptZ0650>ev7009c
+
+//OTHER
+<enZ0651>tomo_000823
+<ptZ0651>tomo_000823
+
+//OTHER
+<enZ0652>tomo_000824
+<ptZ0652>tomo_000824
+
+//OTHER
+<enZ0653>tomo_000825
+<ptZ0653>tomo_000825
+
+//OTHER
+<enZ0654>tomo_000826
+<ptZ0654>tomo_000826
+
+//OTHER
+<enZ0655>tomo_000827
+<ptZ0655>tomo_000827
+
+//OTHER
+<enZ0656>tomo_000828
+<ptZ0656>tomo_000828
+
+//OTHER
+<enZ0657>tomo_000829
+<ptZ0657>tomo_000829
+
+//OTHER
+<enZ0658>tomo_000830
+<ptZ0658>tomo_000830
+
+//OTHER
+<enZ0659>tomo_000831
+<ptZ0659>tomo_000831
+
+//OTHER
+<enZ0660>se348
+<ptZ0660>se348
+
+//OTHER
+<enZ0661>tomo_000832
+<ptZ0661>tomo_000832
+
+//OTHER
+<enZ0662>sp0101
+<ptZ0662>sp0101
+
+//OTHER
+<enZ0663>tomo_000833
+<ptZ0663>tomo_000833
+
+//OTHER
+<enZ0664>tomo_000834
+<ptZ0664>tomo_000834
+
+//OTHER
+<enZ0665>koto_000032
+<ptZ0665>koto_000032
+
+//OTHER
+<enZ0666>tomo_000835
+<ptZ0666>tomo_000835
+
+//OTHER
+<enZ0667>koto_000033
+<ptZ0667>koto_000033
+
+//OTHER
+<enZ0668>tomo_000836
+<ptZ0668>tomo_000836
+
+//OTHER
+<enZ0669>tomo_000837
+<ptZ0669>tomo_000837
+
+//OTHER
+<enZ0670>se601
+<ptZ0670>se601
+
+//OTHER
+<enZ0671>tomo_000838
+<ptZ0671>tomo_000838
+
+//OTHER
+<enZ0672>se349
+<ptZ0672>se349
+
+//OTHER
+<enZ0673>6-9
+<ptZ0673>6-9
+

@@ -1,0 +1,2452 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Ayana
+<ptN0002>Ayana
+
+//NAME
+<enN0003>Miu
+<ptN0003>Miu
+
+///================================================================================
+
+//TEXT BACKLOG
+<enT0001>3.0321
+<ptT0001>3.0321
+
+//TEXT BACKLOG
+<enT0002>We could present spatially an atomic fact which contradicted the laws of physics,
+<ptT0002>We could present spatially an atomic fact which contradicted the laws of physics,
+
+//TEXT BACKLOG
+<enT0003>but not one which contradicted the laws of geometry.
+<ptT0003>but not one which contradicted the laws of geometry.
+
+//TEXT BACKLOG
+<enT0004>
+<ptT0004>
+
+//TEXT BACKLOG
+<enT0005>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+<ptT0005>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+
+//TEXT BACKLOG
+<enT0006>
+<ptT0006>
+
+//TEXT
+<enT0007>"..."
+<ptT0007>"..."
+
+//TEXT
+<enT0008>"......"
+<ptT0008>"......"
+
+//TEXT
+<enT0009>"A transparent..."
+<ptT0009>"A transparent..."
+
+//TEXT
+<enT0010>"A transparent white?"
+<ptT0010>"A transparent white?"
+
+//TEXT
+<enT0011>"..."
+<ptT0011>"..."
+
+//TEXT
+<enT0012>"No, that's not it."
+<ptT0012>"No, that's not it."
+
+//TEXT
+<enT0013>"There's no such thing as a transparent white."
+<ptT0013>"There's no such thing as a transparent white."
+
+//TEXT
+<enT0014>"If it's white, then it's not transparent. So I guess it's only half-transparent."
+<ptT0014>"If it's white, then it's not transparent. So I guess it's only half-transparent."
+
+//TEXT
+<enT0015>"But still, this isn't really half-transparent."
+<ptT0015>"But still, this isn't really half-transparent."
+
+//TEXT
+<enT0016>"If I had to describe this..."
+<ptT0016>"If I had to describe this..."
+
+//TEXT
+<enT0017>"It's..."
+<ptT0017>"It's..."
+
+//TEXT
+<enT0018>"A transparent white."
+<ptT0018>"A transparent white."
+
+//TEXT
+<enT0019>"This is... that."
+<ptT0019>"This is... that."
+
+//TEXT
+<enT0020>'Light.'\n\n\n\n\n\n\n
+<ptT0020>'Light.'\n\n\n\n\n\n\n
+
+//TEXT
+<enT0021>
+<ptT0021>
+
+//TEXT
+<enT0022>
+<ptT0022>
+
+//TEXT
+<enT0023>"Light."
+<ptT0023>"Light."
+
+//TEXT
+<enT0024>"Light?"
+<ptT0024>"Light?"
+
+//TEXT
+<enT0025>"This is."
+<ptT0025>"This is."
+
+//TEXT
+<enT0026>"Just light."
+<ptT0026>"Just light."
+
+//TEXT
+<enT0027>"That's right... That's it."
+<ptT0027>"That's right... That's it."
+
+//TEXT
+<enT0028>"This is..."
+<ptT0028>"This is..."
+
+//TEXT
+<enT0029>"Light."
+<ptT0029>"Light."
+
+//TEXT 【Yuki】
+<enT0030>"The sound of cicadas."
+<ptT0030>"The sound of cicadas."
+
+//TEXT 【Yuki】
+<enT0031>"Is this the rooftop?"
+<ptT0031>"Is this the rooftop?"
+
+//TEXT
+<enT0032>I looked around and found myself in a familiar place. It was the Building A rooftop.
+<ptT0032>I looked around and found myself in a familiar place. It was the Building A rooftop.
+
+//TEXT 【Yuki】
+<enT0033>"Why? Why am I here?"
+<ptT0033>"Why? Why am I here?"
+
+//TEXT
+<enT0034>Mamiya Tomosane jumped off the roof to protect Hasaki, and then...
+<ptT0034>Mamiya Tomosane jumped off the roof to protect Hasaki, and then...
+
+//TEXT
+<enT0035>And then...
+<ptT0035>And then...
+
+//TEXT
+<enT0036>What happened?
+<ptT0036>What happened?
+
+//TEXT 【Yuki】
+<enT0037>"What day is today? Right now, it should be..."
+<ptT0037>"What day is today? Right now, it should be..."
+
+//TEXT
+<enT0038>I looked at the clock.
+<ptT0038>I looked at the clock.
+
+//TEXT
+<enT0039>The date was July 20th, 2012.
+<ptT0039>The date was July 20th, 2012.
+
+//TEXT 【Yuki】
+<enT0040>"It's been a whole day."
+<ptT0040>"It's been a whole day."
+
+//TEXT
+<enT0041>Mamiya Tomosane definitely fell from the rooftop, and before that, he received a serious knife wound in his chest.
+<ptT0041>Mamiya Tomosane definitely fell from the rooftop, and before that, he received a serious knife wound in his chest.
+
+//TEXT
+<enT0042>I didn't know what condition his body was in, but he couldn't possibly have gotten released from the hospital already.
+<ptT0042>I didn't know what condition his body was in, but he couldn't possibly have gotten released from the hospital already.
+
+//TEXT
+<enT0043>The fact that I was standing there was most definitely unnatural.
+<ptT0043>The fact that I was standing there was most definitely unnatural.
+
+//TEXT 【Yuki】
+<enT0044>"What's going on?"
+<ptT0044>"What's going on?"
+
+//TEXT
+<enT0045>Did Mamiya Tomosane survive?
+<ptT0045>Did Mamiya Tomosane survive?
+
+//TEXT
+<enT0046> No, the fact that I'm standing here, in such a strange place, means that I have to assume he's dead.
+<ptT0046> No, the fact that I'm standing here, in such a strange place, means that I have to assume he's dead.
+
+//TEXT
+<enT0047>Either that, or this is the world of dreams again.
+<ptT0047>Either that, or this is the world of dreams again.
+
+//TEXT
+<enT0048>Or maybe this is a lucid dream?
+<ptT0048>Or maybe this is a lucid dream?
+
+//TEXT
+<enT0049>I tried pinching my cheek.
+<ptT0049>I tried pinching my cheek.
+
+//TEXT 【Yuki】
+<enT0050>"Ow, that hurts."
+<ptT0050>"Ow, that hurts."
+
+//TEXT
+<enT0051>If it was a dream, even a lucid dream, I would have felt less pain than normal.
+<ptT0051>If it was a dream, even a lucid dream, I would have felt less pain than normal.
+
+//TEXT
+<enT0052>Since I felt pain when I pinched my cheek, that meant that the scene unfolding before me was real.
+<ptT0052>Since I felt pain when I pinched my cheek, that meant that the scene unfolding before me was real.
+
+//TEXT 【Yuki】
+<enT0053>"Otonashi Ayana... san."
+<ptT0053>"Otonashi Ayana... san."
+
+//TEXT 【Ayana】
+<enT0054>"It has been a while."
+<ptT0054>"It has been a while."
+
+//TEXT 【Yuki】
+<enT0055>"Has it?"
+<ptT0055>"Has it?"
+
+//TEXT 【Ayana】
+<enT0056>"Hasn't it?"
+<ptT0056>"Hasn't it?"
+
+//TEXT 【Yuki】
+<enT0057>"But it's only been one day since the last time we saw each other, hasn't it?"
+<ptT0057>"But it's only been one day since the last time we saw each other, hasn't it?"
+
+//TEXT 【Ayana】
+<enT0058>"Yes."
+<ptT0058>"Yes."
+
+//TEXT 【Yuki】
+<enT0059>"Hey, uh..."
+<ptT0059>"Hey, uh..."
+
+//TEXT 【Ayana】
+<enT0060>"What?"
+<ptT0060>"What?"
+
+//TEXT 【Yuki】
+<enT0061>"What happened to Mamiya Tomosane, anyway?"
+<ptT0061>"What happened to Mamiya Tomosane, anyway?"
+
+//TEXT 【Ayana】
+<enT0062>"Why are you asking that?"
+<ptT0062>"Why are you asking that?"
+
+//TEXT 【Yuki】
+<enT0063>"W-Well, I'm curious. I'm just another personality that he created, after all."
+<ptT0063>"W-Well, I'm curious. I'm just another personality that he created, after all."
+
+//TEXT 【Ayana】
+<enT0064>"Then he's alive, right?"
+<ptT0064>"Then he's alive, right?"
+
+//TEXT 【Yuki】
+<enT0065>"What do you mean by that?"
+<ptT0065>"What do you mean by that?"
+
+//TEXT 【Ayana】
+<enT0066>"Hypothesis #1: If you are a personality that was created by Mamiya Tomosane, then the fact that you still exist is enough reason to believe that Mamiya Tomosane's body is still alive."
+<ptT0066>"Hypothesis #1: If you are a personality that was created by Mamiya Tomosane, then the fact that you still exist is enough reason to believe that Mamiya Tomosane's body is still alive."
+
+//TEXT 【Yuki】
+<enT0067>"B-But that doesn't make sense."
+<ptT0067>"B-But that doesn't make sense."
+
+//TEXT 【Ayana】
+<enT0068>"Why not?"
+<ptT0068>"Why not?"
+
+//TEXT 【Yuki】
+<enT0069>"Because he suffered serious wounds. He couldn't have come back here after just one day."
+<ptT0069>"Because he suffered serious wounds. He couldn't have come back here after just one day."
+
+//TEXT 【Ayana】
+<enT0070>"I agree."
+<ptT0070>"I agree."
+
+//TEXT 【Yuki】
+<enT0071>"Even if my personality did come to the surface, it'd be in a hospital bed or something."
+<ptT0071>"Even if my personality did come to the surface, it'd be in a hospital bed or something."
+
+//TEXT 【Ayana】
+<enT0072>"Then, hypothesis #2: You didn't come into existence as a result of dissociative identity disorder."
+<ptT0072>"Then, hypothesis #2: You didn't come into existence as a result of dissociative identity disorder."
+
+//TEXT 【Ayana】
+<enT0073>"Your existence is a continuation of the same person who existed in the past. You have the same soul as the real Minakami Yuki. If your soul merely came to reside in Mamiya Tomosane's body, then the reason must be..."
+<ptT0073>"Your existence is a continuation of the same person who existed in the past. You have the same soul as the real Minakami Yuki. If your soul merely came to reside in Mamiya Tomosane's body, then the reason must be..."
+
+//TEXT 【Ayana】
+<enT0074>"That must mean Mamiya Tomosane has died."
+<ptT0074>"That must mean Mamiya Tomosane has died."
+
+//TEXT 【Yuki】
+<enT0075>"N-No way..."
+<ptT0075>"N-No way..."
+
+//TEXT 【Ayana】
+<enT0076>"Or how about this, hypothesis #3: If this is a dream that you're having, then..."
+<ptT0076>"Or how about this, hypothesis #3: If this is a dream that you're having, then..."
+
+//TEXT 【Ayana】
+<enT0077>"The Otonashi Ayana standing in front of you would be just another character in your dream. That hypothesis is also fairly convincing."
+<ptT0077>"The Otonashi Ayana standing in front of you would be just another character in your dream. That hypothesis is also fairly convincing."
+
+//TEXT 【Ayana】
+<enT0078>"Now then, which explanation for the current situation do you prefer?"
+<ptT0078>"Now then, which explanation for the current situation do you prefer?"
+
+//TEXT 【Yuki】
+<enT0079>"Which do I prefer? That's not the problem at hand."
+<ptT0079>"Which do I prefer? That's not the problem at hand."
+
+//TEXT 【Ayana】
+<enT0080>"Hypothesis #4: You are just a figment of my imagination. A hallucination being produced by my brain. In other words, you don't exist."
+<ptT0080>"Hypothesis #4: You are just a figment of my imagination. A hallucination being produced by my brain. In other words, you don't exist."
+
+//TEXT 【Yuki】
+<enT0081>"Ahahaha. Then what about me, the person having all of these thoughts right now?"
+<ptT0081>"Ahahaha. Then what about me, the person having all of these thoughts right now?"
+
+//TEXT 【Yuki】
+<enT0082>"I think, therefore I am, right?"
+<ptT0082>"I think, therefore I am, right?"
+
+//TEXT 【Ayana】
+<enT0083>"Those thoughts could result from my brain activity as well. One part of my brain could simply perceive itself as a separate personality."
+<ptT0083>"Those thoughts could result from my brain activity as well. One part of my brain could simply perceive itself as a separate personality."
+
+//TEXT 【Ayana】
+<enT0084>"In other words, the fact that you think is not sufficient proof of your existence."
+<ptT0084>"In other words, the fact that you think is not sufficient proof of your existence."
+
+//TEXT 【Ayana】
+<enT0085>"You can't deny the possibility that the presently existing Minakami Yuki is actually just another personality which I created."
+<ptT0085>"You can't deny the possibility that the presently existing Minakami Yuki is actually just another personality which I created."
+
+//TEXT 【Ayana】
+<enT0086>"After seeing that three personalities can simultaneously exist in one body, you should understand that possibility better than anyone."
+<ptT0086>"After seeing that three personalities can simultaneously exist in one body, you should understand that possibility better than anyone."
+
+//TEXT 【Ayana】
+<enT0087>"The fact that you can think is not sufficient proof of your existence."
+<ptT0087>"The fact that you can think is not sufficient proof of your existence."
+
+//TEXT 【Yuki】
+<enT0088>"Um, there's something I'd like to know."
+<ptT0088>"Um, there's something I'd like to know."
+
+//TEXT 【Ayana】
+<enT0089>"What's that?"
+<ptT0089>"What's that?"
+
+//TEXT 【Yuki】
+<enT0090>"Like I was saying, what happened after everything that happened here?"
+<ptT0090>"Like I was saying, what happened after everything that happened here?"
+
+//TEXT 【Ayana】
+<enT0091>"If you wish to know that, then you should go find out yourself. You can open the door and go out into the outside world at any time. That's all you need to do."
+<ptT0091>"If you wish to know that, then you should go find out yourself. You can open the door and go out into the outside world at any time. That's all you need to do."
+
+//TEXT 【Yuki】
+<enT0092>"..."
+<ptT0092>"..."
+
+//TEXT
+<enT0093>It was just as she said.
+<ptT0093>It was just as she said.
+
+//TEXT
+<enT0094>If I felt like it, I could leave at any time.
+<ptT0094>If I felt like it, I could leave at any time.
+
+//TEXT
+<enT0095>I could leave the rooftop and go see the outside world.
+<ptT0095>I could leave the rooftop and go see the outside world.
+
+//TEXT
+<enT0096>If I did that, then I could get my wish. I could see the aftermath of everything that happened.
+<ptT0096>If I did that, then I could get my wish. I could see the aftermath of everything that happened.
+
+//TEXT
+<enT0097>But...
+<ptT0097>But...
+
+//TEXT 【Yuki】
+<enT0098>"If I go outside, huh?"
+<ptT0098>"If I go outside, huh?"
+
+//TEXT 【Ayana】
+<enT0099>"Yes."
+<ptT0099>"Yes."
+
+//TEXT 【Yuki】
+<enT0100>"That's definitely one option, but can I ask you something?"
+<ptT0100>"That's definitely one option, but can I ask you something?"
+
+//TEXT 【Ayana】
+<enT0101>"What?"
+<ptT0101>"What?"
+
+//TEXT 【Yuki】
+<enT0102>"What day is today?"
+<ptT0102>"What day is today?"
+
+//TEXT 【Ayana】
+<enT0103>"July 20th, 2012."
+<ptT0103>"July 20th, 2012."
+
+//TEXT 【Yuki】
+<enT0104>"Which means that tomorrow is the first day of summer vacation?"
+<ptT0104>"Which means that tomorrow is the first day of summer vacation?"
+
+//TEXT 【Ayana】
+<enT0105>"Yes. Tomorrow is the first day of summer vacation."
+<ptT0105>"Yes. Tomorrow is the first day of summer vacation."
+
+//TEXT
+<enT0106>Yesterday, a group suicide happened here.
+<ptT0106>Yesterday, a group suicide happened here.
+
+//TEXT
+<enT0107>Summer vacation or no, that would make this a crime scene.
+<ptT0107>Summer vacation or no, that would make this a crime scene.
+
+//TEXT
+<enT0108>And yet, looking out from the rooftop...
+<ptT0108>And yet, looking out from the rooftop...
+
+//TEXT
+<enT0109>Everything looked perfectly normal.
+<ptT0109>Everything looked perfectly normal.
+
+//TEXT
+<enT0110>Students walking through the halls.
+<ptT0110>Students walking through the halls.
+
+//TEXT
+<enT0111>Students chatting in the classrooms.
+<ptT0111>Students chatting in the classrooms.
+
+//TEXT
+<enT0112>Teachers lecturing their students.
+<ptT0112>Teachers lecturing their students.
+
+//TEXT
+<enT0113>Everything was completely normal.
+<ptT0113>Everything was completely normal.
+
+//TEXT
+<enT0114>This couldn't be the aftermath of such a tragedy.
+<ptT0114>This couldn't be the aftermath of such a tragedy.
+
+//TEXT 【Ayana】
+<enT0115>"What's wrong?"
+<ptT0115>"What's wrong?"
+
+//TEXT 【Yuki】
+<enT0116>"Is that the last hypothesis you have?"
+<ptT0116>"Is that the last hypothesis you have?"
+
+//TEXT 【Ayana】
+<enT0117>"Do you want to hear another hypothesis?"
+<ptT0117>"Do you want to hear another hypothesis?"
+
+//TEXT 【Ayana】
+<enT0118>"We can come up with as many explanations as you would like. It's possible to create as many different annotations for this world as you want."
+<ptT0118>"We can come up with as many explanations as you would like. It's possible to create as many different annotations for this world as you want."
+
+//TEXT 【Ayana】
+<enT0119>"If that is what you wish, then we can make as many as you like."
+<ptT0119>"If that is what you wish, then we can make as many as you like."
+
+//TEXT 【Yuki】
+<enT0120>"What is the 'End Sky' that Takuji-kun was talking about?"
+<ptT0120>"What is the 'End Sky' that Takuji-kun was talking about?"
+
+//TEXT 【Yuki】
+<enT0121>"That is a word which wasn't in either Kotomi-san's prophecy or the White Lotus Association's prophecy."
+<ptT0121>"That is a word which wasn't in either Kotomi-san's prophecy or the White Lotus Association's prophecy."
+
+//TEXT 【Ayana】
+<enT0122>"End Sky... It is just that, 'the sky of the end.'"
+<ptT0122>"End Sky... It is just that, 'the sky of the end.'"
+
+//TEXT 【Yuki】
+<enT0123>"Who gave it that name, and when?"
+<ptT0123>"Who gave it that name, and when?"
+
+//TEXT 【Ayana】
+<enT0124>"Memory..."
+<ptT0124>"Memory..."
+
+//TEXT 【Yuki】
+<enT0125>"Memory?"
+<ptT0125>"Memory?"
+
+//TEXT 【Ayana】
+<enT0126>"Spirit room. End Sky."
+<ptT0126>"Spirit room. End Sky."
+
+//TEXT 【Yuki】
+<enT0127>"Wha-!"
+<ptT0127>"Wha-!"
+
+//TEXT 【Ayana】
+<enT0128>"Hehehehe. So you do remember it."
+<ptT0128>"Hehehehe. So you do remember it."
+
+//TEXT 【Yuki】
+<enT0129>"I remember it? Those memories can't be right..."
+<ptT0129>"I remember it? Those memories can't be right..."
+
+//TEXT 【Ayana】
+<enT0130>"Really?"
+<ptT0130>"Really?"
+
+//TEXT 【Yuki】
+<enT0131>"B-But that's really strange, isn't it?"
+<ptT0131>"B-But that's really strange, isn't it?"
+
+//TEXT 【Ayana】
+<enT0132>"How so?"
+<ptT0132>"How so?"
+
+//TEXT 【Yuki】
+<enT0133>"But, I mean, that was a dream I saw when I got dragged into Takashima-san's suicide, right?"
+<ptT0133>"But, I mean, that was a dream I saw when I got dragged into Takashima-san's suicide, right?"
+
+//TEXT 【Yuki】
+<enT0134>"Isn't that really strange?"
+<ptT0134>"Isn't that really strange?"
+
+//TEXT 【Ayana】
+<enT0135>"What's strange about it?"
+<ptT0135>"What's strange about it?"
+
+//TEXT 【Yuki】
+<enT0136>"I mean, after that, when I got involved in Takashima-san's suicide... It's like the whole sequence of events got messed up. I remember experiencing her suicide a second time after that."
+<ptT0136>"I mean, after that, when I got involved in Takashima-san's suicide... It's like the whole sequence of events got messed up. I remember experiencing her suicide a second time after that."
+
+//TEXT 【Ayana】
+<enT0137>"Hypothesis #5: You still haven't woken from that dream."
+<ptT0137>"Hypothesis #5: You still haven't woken from that dream."
+
+//TEXT 【Yuki】
+<enT0138>"That dream?"
+<ptT0138>"That dream?"
+
+//TEXT 【Ayana】
+<enT0139>"The Minakami Yuki that got dragged into Takashima Zakuro's suicide is still having that same dream at this very moment."
+<ptT0139>"The Minakami Yuki that got dragged into Takashima Zakuro's suicide is still having that same dream at this very moment."
+
+//TEXT 【Yuki】
+<enT0140>"A-A dream? This is a dream? No, there's no way this could be a dream..."
+<ptT0140>"A-A dream? This is a dream? No, there's no way this could be a dream..."
+
+//TEXT 【Ayana】
+<enT0141>"Okay. Then, hypothesis #6: Your memories of the spirit room and the End Sky are all false memories."
+<ptT0141>"Okay. Then, hypothesis #6: Your memories of the spirit room and the End Sky are all false memories."
+
+//TEXT 【Ayana】
+<enT0142>"The constant changes of personality caused your memories to get confused, and as a result you just dreamed about the spirit room."
+<ptT0142>"The constant changes of personality caused your memories to get confused, and as a result you just dreamed about the spirit room."
+
+//TEXT 【Ayana】
+<enT0143>"Takashima Zakuro didn't actually fall on you when she jumped off the building. That was just a result of your confused memory."
+<ptT0143>"Takashima Zakuro didn't actually fall on you when she jumped off the building. That was just a result of your confused memory."
+
+//TEXT 【Yuki】
+<enT0144>"Then why did Takuji-kun use that same word, 'End Sky,' that appeared in my dream?!"
+<ptT0144>"Then why did Takuji-kun use that same word, 'End Sky,' that appeared in my dream?!"
+
+//TEXT 【Ayana】
+<enT0145>"You both share the same brain. It shouldn't be surprising that he knows about that."
+<ptT0145>"You both share the same brain. It shouldn't be surprising that he knows about that."
+
+//TEXT 【Yuki】
+<enT0146>"B-But then..."
+<ptT0146>"B-But then..."
+
+//TEXT 【Ayana】
+<enT0147>"The last scene you saw... Are you interested in that sky?"
+<ptT0147>"The last scene you saw... Are you interested in that sky?"
+
+//TEXT 【Yuki】
+<enT0148>"Ah!"
+<ptT0148>"Ah!"
+
+//TEXT
+<enT0149>The last thing I saw... That sky...
+<ptT0149>The last thing I saw... That sky...
+
+//TEXT
+<enT0150>The scene which Mamiya Takuji-kun saw at that very moment when he jumped.
+<ptT0150>The scene which Mamiya Takuji-kun saw at that very moment when he jumped.
+
+//TEXT
+<enT0151>I felt like I knew that scene, somehow.
+<ptT0151>I felt like I knew that scene, somehow.
+
+//TEXT 【Ayana】
+<enT0152>"A world which repeats from a certain point..."
+<ptT0152>"A world which repeats from a certain point..."
+
+//TEXT 【Yuki】
+<enT0153>"Huh?"
+<ptT0153>"Huh?"
+
+//TEXT 【Ayana】
+<enT0154>"Would you confirm it?"
+<ptT0154>"Would you confirm it?"
+
+//TEXT 【Yuki】
+<enT0155>"C-Confirm what?"
+<ptT0155>"C-Confirm what?"
+
+//TEXT 【Ayana】
+<enT0156>"Are you really Minakami Yuki-san?"
+<ptT0156>"Are you really Minakami Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0157>"Wh-What are you asking me now? Isn't that what you called me, yourself?"
+<ptT0157>"Wh-What are you asking me now? Isn't that what you called me, yourself?"
+
+//TEXT 【Ayana】
+<enT0158>"Yuki-san... Who is Minakami Yuki-san?"
+<ptT0158>"Yuki-san... Who is Minakami Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0159>"Huh?"
+<ptT0159>"Huh?"
+
+//TEXT 【Ayana】
+<enT0160>"Yuki-san was a person who existed in the past. That person died in the act of saving Mamiya Hasaki. After that, she also existed as another personality that manifested in Mamiya Tomosane's body."
+<ptT0160>"Yuki-san was a person who existed in the past. That person died in the act of saving Mamiya Hasaki. After that, she also existed as another personality that manifested in Mamiya Tomosane's body."
+
+//TEXT 【Ayana】
+<enT0161>"In that case, who is the Yuki-san standing here right now? The Yuki-san that died? Or the Yuki-san who was created as another one of Mamiya Tomosane's personalities?"
+<ptT0161>"In that case, who is the Yuki-san standing here right now? The Yuki-san that died? Or the Yuki-san who was created as another one of Mamiya Tomosane's personalities?"
+
+//TEXT 【Yuki】
+<enT0162>"I-I can't answer that question... I don't know."
+<ptT0162>"I-I can't answer that question... I don't know."
+
+//TEXT 【Ayana】
+<enT0163>"You don't know. That's why you asked me."
+<ptT0163>"You don't know. That's why you asked me."
+
+//TEXT 【Ayana】
+<enT0164>"A final annotation."
+<ptT0164>"A final annotation."
+
+//TEXT 【Ayana】
+<enT0165>"A question for you, Yuki-san."
+<ptT0165>"A question for you, Yuki-san."
+
+//TEXT 【Ayana】
+<enT0166>"How many Yuki-sans exist in this world?"
+<ptT0166>"How many Yuki-sans exist in this world?"
+
+//TEXT 【Yuki】
+<enT0167>"Huh?"
+<ptT0167>"Huh?"
+
+//TEXT 【Ayana】
+<enT0168>"One Yuki-san was born in Sawaimura, and she died in Sawaimura. Another one was created as one of Mamiya Tomosane's personalities. And then, one more Yuki-san exists who is standing here, talking to me."
+<ptT0168>"One Yuki-san was born in Sawaimura, and she died in Sawaimura. Another one was created as one of Mamiya Tomosane's personalities. And then, one more Yuki-san exists who is standing here, talking to me."
+
+//TEXT 【Ayana】
+<enT0169>"That is the problem. How many Minakami Yuki-sans came before you?"
+<ptT0169>"That is the problem. How many Minakami Yuki-sans came before you?"
+
+//TEXT 【Yuki】
+<enT0170>"I-I don't know. Wait, I'm me. There aren't any others!"
+<ptT0170>"I-I don't know. Wait, I'm me. There aren't any others!"
+
+//TEXT 【Ayana】
+<enT0171>"The Yuki-san that died in Sawaimura, the Yuki-san inside Tomosane-kun, and the Yuki-san here now are all the same."
+<ptT0171>"The Yuki-san that died in Sawaimura, the Yuki-san inside Tomosane-kun, and the Yuki-san here now are all the same."
+
+//TEXT 【Ayana】
+<enT0172>"Then what about the other Yuki-sans that might exist?"
+<ptT0172>"Then what about the other Yuki-sans that might exist?"
+
+//TEXT 【Yuki】
+<enT0173>"The other copies of me that might exist?"
+<ptT0173>"The other copies of me that might exist?"
+
+//TEXT 【Ayana】
+<enT0174>"Yes. The Yuki-sans that existed as other personalities. Would they be you as well, Yuki-san?"
+<ptT0174>"Yes. The Yuki-sans that existed as other personalities. Would they be you as well, Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0175>"I don't know. Were there really that many of me?!"
+<ptT0175>"I don't know. Were there really that many of me?!"
+
+//TEXT 【Ayana】
+<enT0176>"But the reality is that you weren't just one person."
+<ptT0176>"But the reality is that you weren't just one person."
+
+//TEXT 【Ayana】
+<enT0177>"The Yuki-san that was caught up in Takashima Zakuro's suicide, the Yuki-san that died in Sawaimura, the Yuki-san that was created by Tomosane-kun, and the Yuki-san that is right here."
+<ptT0177>"The Yuki-san that was caught up in Takashima Zakuro's suicide, the Yuki-san that died in Sawaimura, the Yuki-san that was created by Tomosane-kun, and the Yuki-san that is right here."
+
+//TEXT 【Yuki】
+<enT0178>"I don't know. I'm just me."
+<ptT0178>"I don't know. I'm just me."
+
+//TEXT 【Ayana】
+<enT0179>"The scene you saw in the spirit room... The End Sky. When did that scene happen?"
+<ptT0179>"The scene you saw in the spirit room... The End Sky. When did that scene happen?"
+
+//TEXT 【Yuki】
+<enT0180>"Scene?"
+<ptT0180>"Scene?"
+
+//TEXT 【Yuki】
+<enT0181>"Ah!"
+<ptT0181>"Ah!"
+
+//TEXT
+<enT0182>At that moment, strangely enough, I remembered the expiration date on a bag of potato chips I found in that attraction.
+<ptT0182>At that moment, strangely enough, I remembered the expiration date on a bag of potato chips I found in that attraction.
+
+//TEXT
+<enT0183>I remembered the date on the calendar on the wall.
+<ptT0183>I remembered the date on the calendar on the wall.
+
+//TEXT
+<enT0184>I didn't at all understand what it meant, but...
+<ptT0184>I didn't at all understand what it meant, but...
+
+//TEXT
+<enT0185>Somehow, I remembered that date.
+<ptT0185>Somehow, I remembered that date.
+
+//TEXT
+<enT0186>I didn't know whether those words had any meaning.
+<ptT0186>I didn't know whether those words had any meaning.
+
+//TEXT
+<enT0187>The only thing that particularly stood out in my mind was the date.
+<ptT0187>The only thing that particularly stood out in my mind was the date.
+
+//TEXT 【Ayana】
+<enT0188>"The final annotation that I could give you..."
+<ptT0188>"The final annotation that I could give you..."
+
+//TEXT 【Ayana】
+<enT0189>"Hypothesis #7: Every existence was created by one soul."
+<ptT0189>"Hypothesis #7: Every existence was created by one soul."
+
+//TEXT 【Yuki】
+<enT0190>"Wh-What do you mean?"
+<ptT0190>"Wh-What do you mean?"
+
+//TEXT 【Ayana】
+<enT0191>"Hehehehe. If all of the different Yuki-sans that existed really were Yuki-san, then the world doesn't require very many souls to exist."
+<ptT0191>"Hehehehe. If all of the different Yuki-sans that existed really were Yuki-san, then the world doesn't require very many souls to exist."
+
+//TEXT 【Ayana】
+<enT0192>"If a single soul viewed every perspective, that would be enough."
+<ptT0192>"If a single soul viewed every perspective, that would be enough."
+
+//TEXT 【Yuki】
+<enT0193>"I don't understand what you're saying. That's..."
+<ptT0193>"I don't understand what you're saying. That's..."
+
+//TEXT 【Ayana】
+<enT0194>"Takashima Zakuro, Mamiya Tomosane, and Mamiya Takuji. Even Mamiya Hasaki, Wakatsuki Kagami, and Wakatsuki Tsukasa. A single soul saw each and every one of those scenes."
+<ptT0194>"Takashima Zakuro, Mamiya Tomosane, and Mamiya Takuji. Even Mamiya Hasaki, Wakatsuki Kagami, and Wakatsuki Tsukasa. A single soul saw each and every one of those scenes."
+
+//TEXT 【Yuki】
+<enT0195>"That would be too strange. The time overlaps."
+<ptT0195>"That would be too strange. The time overlaps."
+
+//TEXT 【Ayana】
+<enT0196>"If you're going to say that, then you have to consider that the Yuki-san who was caught up in Takashima Zakuro-san's suicide existed at the same time as the Yuki-san who was not caught up in her suicide."
+<ptT0196>"If you're going to say that, then you have to consider that the Yuki-san who was caught up in Takashima Zakuro-san's suicide existed at the same time as the Yuki-san who was not caught up in her suicide."
+
+//TEXT 【Ayana】
+<enT0197>"Ubiquitous transmigration."
+<ptT0197>"Ubiquitous transmigration."
+
+//TEXT 【Yuki】
+<enT0198>"Ubiquitous transmigration?"
+<ptT0198>"Ubiquitous transmigration?"
+
+//TEXT 【Ayana】
+<enT0199>"The endless reincarnation of a single soul."
+<ptT0199>"The endless reincarnation of a single soul."
+
+//TEXT 【Ayana】
+<enT0200>"Beyond the pale of time and space, the soul reincarnates endlessly. If that was possible, then the entire world wouldn't need more than one soul."
+<ptT0200>"Beyond the pale of time and space, the soul reincarnates endlessly. If that was possible, then the entire world wouldn't need more than one soul."
+
+//TEXT 【Ayana】
+<enT0201>"The world is created through the endless transmigration of just one soul."
+<ptT0201>"The world is created through the endless transmigration of just one soul."
+
+//TEXT 【Ayana】
+<enT0202>"It would be more unnatural for every living organism to have its own soul. The number of organisms is different in every moment. There would always be too many or too few souls for all the living organisms in the world."
+<ptT0202>"It would be more unnatural for every living organism to have its own soul. The number of organisms is different in every moment. There would always be too many or too few souls for all the living organisms in the world."
+
+//TEXT 【Ayana】
+<enT0203>"So if the number of souls is just one, reincarnation would be the most suitable answer."
+<ptT0203>"So if the number of souls is just one, reincarnation would be the most suitable answer."
+
+//TEXT 【Ayana】
+<enT0204>"If one soul lives in all of life, then there is no problem."
+<ptT0204>"If one soul lives in all of life, then there is no problem."
+
+//TEXT 【Yuki】
+<enT0205>"That's... ridiculous."
+<ptT0205>"That's... ridiculous."
+
+//TEXT 【Ayana】
+<enT0206>"Is it?"
+<ptT0206>"Is it?"
+
+//TEXT 【Ayana】
+<enT0207>"This explanation could solve a great number of the world's mysteries."
+<ptT0207>"This explanation could solve a great number of the world's mysteries."
+
+//TEXT 【Yuki】
+<enT0208>"Like what?"
+<ptT0208>"Like what?"
+
+//TEXT 【Ayana】
+<enT0209>"Why are people able to understand each other?"
+<ptT0209>"Why are people able to understand each other?"
+
+//TEXT 【Ayana】
+<enT0210>"If every person is a different existence, with a different perspective... If every person has a different world, then how do people understand each other?"
+<ptT0210>"If every person is a different existence, with a different perspective... If every person has a different world, then how do people understand each other?"
+
+//TEXT 【Ayana】
+<enT0211>"You can't explain it."
+<ptT0211>"You can't explain it."
+
+//TEXT 【Ayana】
+<enT0212>"If they both see the color red, how do they know that they're both seeing the same red color?"
+<ptT0212>"If they both see the color red, how do they know that they're both seeing the same red color?"
+
+//TEXT 【Ayana】
+<enT0213>"Tomosane-kun talked about a thought experiment, where one person might see the world through glasses that mirrored the world left to right and top to bottom."
+<ptT0213>"Tomosane-kun talked about a thought experiment, where one person might see the world through glasses that mirrored the world left to right and top to bottom."
+
+//TEXT 【Ayana】
+<enT0214>"I can understand that I am seeing the same world as other people because there is a consistency with the world that other people see."
+<ptT0214>"I can understand that I am seeing the same world as other people because there is a consistency with the world that other people see."
+
+//TEXT 【Ayana】
+<enT0215>"But where does that understanding come from?"
+<ptT0215>"But where does that understanding come from?"
+
+//TEXT 【Ayana】
+<enT0216>"How can you say that the sensations of sight, sound, touch, smell, and taste which I feel are the same as those which others feel?"
+<ptT0216>"How can you say that the sensations of sight, sound, touch, smell, and taste which I feel are the same as those which others feel?"
+
+//TEXT 【Ayana】
+<enT0217>"For instance... Pain."
+<ptT0217>"For instance... Pain."
+
+//TEXT 【Ayana】
+<enT0218>"How do I understand another person's pain?"
+<ptT0218>"How do I understand another person's pain?"
+
+//TEXT 【Yuki】
+<enT0219>"From their expression or behavior. You can listen to the words they're saying, too."
+<ptT0219>"From their expression or behavior. You can listen to the words they're saying, too."
+
+//TEXT 【Ayana】
+<enT0220>"That doesn't make for a sufficient explanation. In that case, the 'pain' which I understand could be different than the 'pain' which he or she is feeling."
+<ptT0220>"That doesn't make for a sufficient explanation. In that case, the 'pain' which I understand could be different than the 'pain' which he or she is feeling."
+
+//TEXT 【Yuki】
+<enT0221>"Then you have to use your imagination."
+<ptT0221>"Then you have to use your imagination."
+
+//TEXT 【Ayana】
+<enT0222>"Imagination. In other words, you can feel another person's pain by imagining that they feel the same pain that you do."
+<ptT0222>"Imagination. In other words, you can feel another person's pain by imagining that they feel the same pain that you do."
+
+//TEXT 【Ayana】
+<enT0223>"Then let's suppose that I feel 'pain' in this arm. Then I move that 'pain' to my fingertips."
+<ptT0223>"Then let's suppose that I feel 'pain' in this arm. Then I move that 'pain' to my fingertips."
+
+//TEXT 【Ayana】
+<enT0224>"Then I move the 'pain' from my fingertips to the ground when I touch it with my fingertips. Then at that moment, I should feel 'pain' in the ground. Then I move that 'pain' from the ground into your leg."
+<ptT0224>"Then I move the 'pain' from my fingertips to the ground when I touch it with my fingertips. Then at that moment, I should feel 'pain' in the ground. Then I move that 'pain' from the ground into your leg."
+
+//TEXT 【Ayana】
+<enT0225>"That's how I would move the 'pain' I feel from my body to another person so that I could feel their pain."
+<ptT0225>"That's how I would move the 'pain' I feel from my body to another person so that I could feel their pain."
+
+//TEXT 【Ayana】
+<enT0226>"That's the only way you could 'imagine another person's pain.'"
+<ptT0226>"That's the only way you could 'imagine another person's pain.'"
+
+//TEXT 【Ayana】
+<enT0227>"That 'pain' could be attributed to the ground, the clothes you wear, or even a book or desk. If you simply attribute pain to another thing through your imagination, then it holds no more meaning than 'pain' attributed to a book or a desk."
+<ptT0227>"That 'pain' could be attributed to the ground, the clothes you wear, or even a book or desk. If you simply attribute pain to another thing through your imagination, then it holds no more meaning than 'pain' attributed to a book or a desk."
+
+//TEXT 【Yuki】
+<enT0228>"I can base my understanding in the pain which I can feel, but I have to use my imagination to feel pain which I cannot feel."
+<ptT0228>"I can base my understanding in the pain which I can feel, but I have to use my imagination to feel pain which I cannot feel."
+
+//TEXT 【Yuki】
+<enT0229>"That argument comes from the philosopher Wittgenstein, doesn't it?"
+<ptT0229>"That argument comes from the philosopher Wittgenstein, doesn't it?"
+
+//TEXT 【Yuki】
+<enT0230>"To feel another person's pain is not the same thing as using your imagination to move the pain from your body to another person's body."
+<ptT0230>"To feel another person's pain is not the same thing as using your imagination to move the pain from your body to another person's body."
+
+//TEXT 【Ayana】
+<enT0231>"Hehehehe. You know the answer, but you're playing dumb."
+<ptT0231>"Hehehehe. You know the answer, but you're playing dumb."
+
+//TEXT 【Ayana】
+<enT0232>"Why does 'pain' hold the same meaning for both you and another person?"
+<ptT0232>"Why does 'pain' hold the same meaning for both you and another person?"
+
+//TEXT 【Yuki】
+<enT0233>"I see. So you're trying to say that every person is just another 'me,' right?"
+<ptT0233>"I see. So you're trying to say that every person is just another 'me,' right?"
+
+//TEXT 【Ayana】
+<enT0234>"Yes. That is hypothesis #7."
+<ptT0234>"Yes. That is hypothesis #7."
+
+//TEXT 【Ayana】
+<enT0235>"Every single person is 'me,' including the miserable wretch and the beautiful girl."
+<ptT0235>"Every single person is 'me,' including the miserable wretch and the beautiful girl."
+
+//TEXT 【Ayana】
+<enT0236>"Both the young man who becomes a bully and the young man who is bullied."
+<ptT0236>"Both the young man who becomes a bully and the young man who is bullied."
+
+//TEXT 【Ayana】
+<enT0237>"The pathetic, the filthy, the beautiful, and the proud. All of them are 'me.'"
+<ptT0237>"The pathetic, the filthy, the beautiful, and the proud. All of them are 'me.'"
+
+//TEXT 【Ayana】
+<enT0238>"The entire world is made up of 'me.' That's why I can understand you."
+<ptT0238>"The entire world is made up of 'me.' That's why I can understand you."
+
+//TEXT 【Ayana】
+<enT0239>"I understand your pain. I understand your sadness. I understand your happiness."
+<ptT0239>"I understand your pain. I understand your sadness. I understand your happiness."
+
+//TEXT 【Ayana】
+<enT0240>"The world has an infinite number of 'me.'"
+<ptT0240>"The world has an infinite number of 'me.'"
+
+//TEXT 【Yuki】
+<enT0241>"That's a really grotesque theory, isn't it?"
+<ptT0241>"That's a really grotesque theory, isn't it?"
+
+//TEXT 【Ayana】
+<enT0242>"But hypothesis #7 would explain everything. It would explain everything which you felt was incomprehensible in this world."
+<ptT0242>"But hypothesis #7 would explain everything. It would explain everything which you felt was incomprehensible in this world."
+
+//TEXT 【Yuki】
+<enT0243>"That's not the only explanation. There are plenty of explanations that would explain it."
+<ptT0243>"That's not the only explanation. There are plenty of explanations that would explain it."
+
+//TEXT 【Yuki】
+<enT0244>"God created the world as it is five minutes ago. Martians came to Earth and messed with the memory of everyone on Earth. You could come up with as many ridiculous explanations as you want."
+<ptT0244>"God created the world as it is five minutes ago. Martians came to Earth and messed with the memory of everyone on Earth. You could come up with as many ridiculous explanations as you want."
+
+//TEXT 【Yuki】
+<enT0245>"But those are all..."
+<ptT0245>"But those are all..."
+
+//TEXT 【Ayana】
+<enT0246>"Places whereof we cannot speak."
+<ptT0246>"Places whereof we cannot speak."
+
+//TEXT 【Yuki】
+<enT0247>"Haa... So what then? What does it mean if hypothesis #7 is correct? Did the first soul come into existence when the world's first lifeform was born?"
+<ptT0247>"Haa... So what then? What does it mean if hypothesis #7 is correct? Did the first soul come into existence when the world's first lifeform was born?"
+
+//TEXT 【Yuki】
+<enT0248>"Or did it all come from some kind of special place in time or space? Did everything originate from a certain point like that?"
+<ptT0248>"Or did it all come from some kind of special place in time or space? Did everything originate from a certain point like that?"
+
+//TEXT 【Ayana】
+<enT0249>"Hehehehe. It could be said to start from any point you wish."
+<ptT0249>"Hehehehe. It could be said to start from any point you wish."
+
+//TEXT 【Ayana】
+<enT0250>"For instance, maybe it started at the moment of Takashima Zakuro-san's suicide. The ubiquitous transmigration of souls."
+<ptT0250>"For instance, maybe it started at the moment of Takashima Zakuro-san's suicide. The ubiquitous transmigration of souls."
+
+//TEXT 【Yuki】
+<enT0251>"Living through the same world over and over as different versions of 'me'... So you mean she might've lived through a different future?"
+<ptT0251>"Living through the same world over and over as different versions of 'me'... So you mean she might've lived through a different future?"
+
+//TEXT 【Ayana】
+<enT0252>"Or perhaps it was on that summer day when Yuki-san died in Sawaimura when the soul began its ubiquitous transmigration."
+<ptT0252>"Or perhaps it was on that summer day when Yuki-san died in Sawaimura when the soul began its ubiquitous transmigration."
+
+//TEXT 【Ayana】
+<enT0253>"Or perhaps it was a mysterious point in the past which you don't remember. Perhaps everything began at one point, when the End Sky appeared. The ubiquitous transmigration of souls..."
+<ptT0253>"Or perhaps it was a mysterious point in the past which you don't remember. Perhaps everything began at one point, when the End Sky appeared. The ubiquitous transmigration of souls..."
+
+//TEXT 【Yuki】
+<enT0254>"When the End Sky appeared?"
+<ptT0254>"When the End Sky appeared?"
+
+//TEXT 【Yuki】
+<enT0255>"What do you mean? Is there such a point?"
+<ptT0255>"What do you mean? Is there such a point?"
+
+//TEXT 【Ayana】
+<enT0256>"It's just a hypothesis. That is one more possibility which you could imagine."
+<ptT0256>"It's just a hypothesis. That is one more possibility which you could imagine."
+
+//TEXT 【Ayana】
+<enT0257>"A certain point, a day which was called the end of the world... Even though the world ended at that point, the soul continues to make the world loop time and time again, as if it still existed."
+<ptT0257>"A certain point, a day which was called the end of the world... Even though the world ended at that point, the soul continues to make the world loop time and time again, as if it still existed."
+
+//TEXT 【Yuki】
+<enT0258>"What kind of hypothesis is that?"
+<ptT0258>"What kind of hypothesis is that?"
+
+//TEXT 【Ayana】
+<enT0259>"It's just an annotation. It's just one more kind of explanation which we could come up with."
+<ptT0259>"It's just an annotation. It's just one more kind of explanation which we could come up with."
+
+//TEXT 【Ayana】
+<enT0260>"I don't know whether you prefer that explanation over the last."
+<ptT0260>"I don't know whether you prefer that explanation over the last."
+
+//TEXT 【Yuki】
+<enT0261>"If I... prefer it?"
+<ptT0261>"If I... prefer it?"
+
+//TEXT 【Yuki】
+<enT0262>"Haa..."
+<ptT0262>"Haa..."
+
+//TEXT
+<enT0263>I closed my eyes.
+<ptT0263>I closed my eyes.
+
+//TEXT
+<enT0264>...
+<ptT0264>...
+
+//TEXT
+<enT0265>Maybe the world ended a long time ago, in the distant past.
+<ptT0265>Maybe the world ended a long time ago, in the distant past.
+
+//TEXT
+<enT0266>The soul which I call 'me'... I feel like it must have taken these same actions millions or billions of times already.
+<ptT0266>The soul which I call 'me'... I feel like it must have taken these same actions millions or billions of times already.
+
+//TEXT
+<enT0267>Maybe I acted the role of every single one of the world's souls.
+<ptT0267>Maybe I acted the role of every single one of the world's souls.
+
+//TEXT
+<enT0268>
+<ptT0268>
+
+//TEXT
+<enT0269>At times I'm Minakami Yuki.
+<ptT0269>At times I'm Minakami Yuki.
+
+//TEXT
+<enT0270>
+<ptT0270>
+
+//TEXT
+<enT0271>At times I'm Mamiya Takuji.
+<ptT0271>At times I'm Mamiya Takuji.
+
+//TEXT
+<enT0272>
+<ptT0272>
+
+//TEXT
+<enT0273>At times I'm Yuuki Tomosane.
+<ptT0273>At times I'm Yuuki Tomosane.
+
+//TEXT
+<enT0274>
+<ptT0274>
+
+//TEXT
+<enT0275>At times I'm Takashima Zakuro.
+<ptT0275>At times I'm Takashima Zakuro.
+
+//TEXT
+<enT0276>
+<ptT0276>
+
+//TEXT
+<enT0277>At times I'm Mamiya Hasaki.
+<ptT0277>At times I'm Mamiya Hasaki.
+
+//TEXT
+<enT0278>
+<ptT0278>
+
+//TEXT
+<enT0279>At times I'm Wakatsuki Kagami.
+<ptT0279>At times I'm Wakatsuki Kagami.
+
+//TEXT
+<enT0280>
+<ptT0280>
+
+//TEXT
+<enT0281>At times I'm Wakatsuki Tsukasa.
+<ptT0281>At times I'm Wakatsuki Tsukasa.
+
+//TEXT
+<enT0282>
+<ptT0282>
+
+//TEXT
+<enT0283>At times I'm Minakami Yuki.
+<ptT0283>At times I'm Minakami Yuki.
+
+//TEXT
+<enT0284>
+<ptT0284>
+
+//TEXT
+<enT0285>At times I'm Mamiya Takuji.
+<ptT0285>At times I'm Mamiya Takuji.
+
+//TEXT
+<enT0286>
+<ptT0286>
+
+//TEXT
+<enT0287>At times I'm Yuuki Tomosane.
+<ptT0287>At times I'm Yuuki Tomosane.
+
+//TEXT
+<enT0288>
+<ptT0288>
+
+//TEXT
+<enT0289>At times I'm Takashima Zakuro.
+<ptT0289>At times I'm Takashima Zakuro.
+
+//TEXT
+<enT0290>
+<ptT0290>
+
+//TEXT
+<enT0291>At times I'm Mamiya Hasaki.
+<ptT0291>At times I'm Mamiya Hasaki.
+
+//TEXT
+<enT0292>
+<ptT0292>
+
+//TEXT
+<enT0293>At times I'm Wakatsuki Kagami.
+<ptT0293>At times I'm Wakatsuki Kagami.
+
+//TEXT
+<enT0294>
+<ptT0294>
+
+//TEXT
+<enT0295>At times I'm Wakatsuki Tsukasa.
+<ptT0295>At times I'm Wakatsuki Tsukasa.
+
+//TEXT
+<enT0296>
+<ptT0296>
+
+//TEXT
+<enT0297>And...
+<ptT0297>And...
+
+//TEXT
+<enT0298>
+<ptT0298>
+
+//TEXT
+<enT0299>Once again...
+<ptT0299>Once again...
+
+//TEXT
+<enT0300>
+<ptT0300>
+
+//TEXT
+<enT0301>I feel as if I'm doing it all for the first time.
+<ptT0301>I feel as if I'm doing it all for the first time.
+
+//TEXT
+<enT0302>
+<ptT0302>
+
+//TEXT
+<enT0303>Well...
+<ptT0303>Well...
+
+//TEXT
+<enT0304>
+<ptT0304>
+
+//TEXT
+<enT0305>It doesn't really matter either way.
+<ptT0305>It doesn't really matter either way.
+
+//TEXT
+<enT0306>
+<ptT0306>
+
+//TEXT
+<enT0307>Now...
+<ptT0307>Now...
+
+//TEXT
+<enT0308>
+<ptT0308>
+
+//TEXT
+<enT0309>That's it.
+<ptT0309>That's it.
+
+//TEXT
+<enT0310>
+<ptT0310>
+
+//TEXT
+<enT0311>The sky.
+<ptT0311>The sky.
+
+//TEXT
+<enT0312>
+<ptT0312>
+
+//TEXT
+<enT0313>It's the sky.
+<ptT0313>It's the sky.
+
+//TEXT
+<enT0314>
+<ptT0314>
+
+//TEXT
+<enT0315>I can see the sky.
+<ptT0315>I can see the sky.
+
+//TEXT
+<enT0316>
+<ptT0316>
+
+//TEXT
+<enT0317>Why is the sky...
+<ptT0317>Why is the sky...
+
+//TEXT
+<enT0318>
+<ptT0318>
+
+//TEXT
+<enT0319>Why is the sky blue?
+<ptT0319>Why is the sky blue?
+
+//TEXT
+<enT0320>
+<ptT0320>
+
+//TEXT
+<enT0321>And why...\n
+<ptT0321>And why...\n
+
+//TEXT
+<enT0322>
+<ptT0322>
+
+//TEXT
+<enT0323>Why do we sense that it is blue?
+<ptT0323>Why do we sense that it is blue?
+
+//TEXT
+<enT0324>
+<ptT0324>
+
+//TEXT
+<enT0325>The endless sky.
+<ptT0325>The endless sky.
+
+//TEXT
+<enT0326>
+<ptT0326>
+
+//TEXT
+<enT0327>The blue of the sky.
+<ptT0327>The blue of the sky.
+
+//TEXT
+<enT0328>
+<ptT0328>
+
+//TEXT
+<enT0329>It must be...
+<ptT0329>It must be...
+
+//TEXT
+<enT0330>
+<ptT0330>
+
+//TEXT
+<enT0331>...probably.
+<ptT0331>...probably.
+
+//TEXT
+<enT0332>Where does the sky lead to?
+<ptT0332>Where does the sky lead to?
+
+//TEXT
+<enT0333>It must...
+<ptT0333>It must...
+
+//TEXT
+<enT0334>It must lead to the skies of all the rest of the world.
+<ptT0334>It must lead to the skies of all the rest of the world.
+
+//TEXT
+<enT0335>Which means that this sky leads to...
+<ptT0335>Which means that this sky leads to...
+
+//TEXT
+<enT0336>The End Sky.
+<ptT0336>The End Sky.
+
+//TEXT
+<enT0337>No, they're not connected.
+<ptT0337>No, they're not connected.
+
+//TEXT
+<enT0338>...
+<ptT0338>...
+
+//TEXT
+<enT0339>Because, after all...
+<ptT0339>Because, after all...
+
+//TEXT
+<enT0340>That is...
+<ptT0340>That is...
+
+//TEXT
+<enT0341>Something which must not be true.
+<ptT0341>Something which must not be true.
+
+//TEXT
+<enT0342>But...
+<ptT0342>But...
+
+//TEXT
+<enT0343>Is that true?
+<ptT0343>Is that true?
+
+//TEXT
+<enT0344>"――――"
+<ptT0344>"――――"
+
+//TEXT
+<enT0345>A voice called out to me from somewhere.
+<ptT0345>A voice called out to me from somewhere.
+
+//TEXT
+<enT0346>The voice of a classmate was calling out to me.
+<ptT0346>The voice of a classmate was calling out to me.
+
+//TEXT
+<enT0347>I turned around.
+<ptT0347>I turned around.
+
+//TEXT 【Miu】
+<enT0348>"Otonashi Ayana-saaan."
+<ptT0348>"Otonashi Ayana-saaan."
+
+//TEXT 【Ayana】
+<enT0349>"Hello."
+<ptT0349>"Hello."
+
+//TEXT 【Miu】
+<enT0350>"Haa, haa... Jeez, I was looking for you!"
+<ptT0350>"Haa, haa... Jeez, I was looking for you!"
+
+//TEXT 【Miu】
+<enT0351>"Gosh, why are you alone here? The graduation ceremony is starting."
+<ptT0351>"Gosh, why are you alone here? The graduation ceremony is starting."
+
+//TEXT 【Ayana】
+<enT0352>"It's starting..."
+<ptT0352>"It's starting..."
+
+//TEXT 【Miu】
+<enT0353>"That's right. It's starting right now."
+<ptT0353>"That's right. It's starting right now."
+
+//TEXT 【Ayana】
+<enT0354>"Hehehehe..."
+<ptT0354>"Hehehehe..."
+
+//TEXT 【Miu】
+<enT0355>"Wh-What is it?"
+<ptT0355>"Wh-What is it?"
+
+//TEXT 【Ayana】
+<enT0356>"It all just ended, and now we're starting again?"
+<ptT0356>"It all just ended, and now we're starting again?"
+
+//TEXT 【Miu】
+<enT0357>"Huh?"
+<ptT0357>"Huh?"
+
+//TEXT 【Ayana】
+<enT0358>"No, never mind. Let's go."
+<ptT0358>"No, never mind. Let's go."
+
+//TEXT 【Ayana】
+<enT0359>"Let's go to that point where it all begins."
+<ptT0359>"Let's go to that point where it all begins."
+
+///================================================================================
+
+//OTHER
+<enZ0001>7-3_EndofSky.bss
+<ptZ0001>7-3_EndofSky.bss
+
+//OTHER
+<enZ0002>Epilogue
+<ptZ0002>Epilogue
+
+//OTHER
+<enZ0003>End Sky II
+<ptZ0003>End Sky II
+
+//OTHER
+<enZ0004>white
+<ptZ0004>white
+
+//OTHER
+<enZ0005>sp0001i
+<ptZ0005>sp0001i
+
+//OTHER
+<enZ0006>sp0001i2
+<ptZ0006>sp0001i2
+
+//OTHER
+<enZ0007>sp0007c
+<ptZ0007>sp0007c
+
+//OTHER
+<enZ0008>sp0007c2
+<ptZ0008>sp0007c2
+
+//OTHER
+<enZ0009>map023
+<ptZ0009>map023
+
+//OTHER
+<enZ0010>bgm019
+<ptZ0010>bgm019
+
+//OTHER
+<enZ0011>se503
+<ptZ0011>se503
+
+//OTHER
+<enZ0012>yuki_004930
+<ptZ0012>yuki_004930
+
+//OTHER
+<enZ0013>sp0106
+<ptZ0013>sp0106
+
+//OTHER
+<enZ0014>yuki_004931
+<ptZ0014>yuki_004931
+
+//OTHER
+<enZ0015>yuki_004932
+<ptZ0015>yuki_004932
+
+//OTHER
+<enZ0016>yuki_004933
+<ptZ0016>yuki_004933
+
+//OTHER
+<enZ0017>yuki_004934
+<ptZ0017>yuki_004934
+
+//OTHER
+<enZ0018>yuki_004935
+<ptZ0018>yuki_004935
+
+//OTHER
+<enZ0019>yuki_004936
+<ptZ0019>yuki_004936
+
+//OTHER
+<enZ0020>bg1015a
+<ptZ0020>bg1015a
+
+//OTHER
+<enZ0021>ay0000a
+<ptZ0021>ay0000a
+
+//OTHER
+<enZ0022>yuki_004937
+<ptZ0022>yuki_004937
+
+//OTHER
+<enZ0023>ay0001a
+<ptZ0023>ay0001a
+
+//OTHER
+<enZ0024>aya_000980
+<ptZ0024>aya_000980
+
+//OTHER
+<enZ0025>yuki_004938
+<ptZ0025>yuki_004938
+
+//OTHER
+<enZ0026>ay0008a
+<ptZ0026>ay0008a
+
+//OTHER
+<enZ0027>aya_000981
+<ptZ0027>aya_000981
+
+//OTHER
+<enZ0028>yuki_004939
+<ptZ0028>yuki_004939
+
+//OTHER
+<enZ0029>aya_000982
+<ptZ0029>aya_000982
+
+//OTHER
+<enZ0030>yuki_004940
+<ptZ0030>yuki_004940
+
+//OTHER
+<enZ0031>aya_000983
+<ptZ0031>aya_000983
+
+//OTHER
+<enZ0032>yuki_004941
+<ptZ0032>yuki_004941
+
+//OTHER
+<enZ0033>aya_000984
+<ptZ0033>aya_000984
+
+//OTHER
+<enZ0034>yuki_004942
+<ptZ0034>yuki_004942
+
+//OTHER
+<enZ0035>ay0002
+<ptZ0035>ay0002
+
+//OTHER
+<enZ0036>aya_000985
+<ptZ0036>aya_000985
+
+//OTHER
+<enZ0037>yuki_004943
+<ptZ0037>yuki_004943
+
+//OTHER
+<enZ0038>aya_000986
+<ptZ0038>aya_000986
+
+//OTHER
+<enZ0039>yuki_004944
+<ptZ0039>yuki_004944
+
+//OTHER
+<enZ0040>aya_000987
+<ptZ0040>aya_000987
+
+//OTHER
+<enZ0041>yuki_004945
+<ptZ0041>yuki_004945
+
+//OTHER
+<enZ0042>ay0000
+<ptZ0042>ay0000
+
+//OTHER
+<enZ0043>aya_000988
+<ptZ0043>aya_000988
+
+//OTHER
+<enZ0044>yuki_004946
+<ptZ0044>yuki_004946
+
+//OTHER
+<enZ0045>aya_000989
+<ptZ0045>aya_000989
+
+//OTHER
+<enZ0046>aya_000990
+<ptZ0046>aya_000990
+
+//OTHER
+<enZ0047>aya_000991
+<ptZ0047>aya_000991
+
+//OTHER
+<enZ0048>yuki_004947
+<ptZ0048>yuki_004947
+
+//OTHER
+<enZ0049>aya_000992
+<ptZ0049>aya_000992
+
+//OTHER
+<enZ0050>aya_000993
+<ptZ0050>aya_000993
+
+//OTHER
+<enZ0051>aya_000994
+<ptZ0051>aya_000994
+
+//OTHER
+<enZ0052>yuki_004948
+<ptZ0052>yuki_004948
+
+//OTHER
+<enZ0053>aya_000995
+<ptZ0053>aya_000995
+
+//OTHER
+<enZ0054>yuki_004949
+<ptZ0054>yuki_004949
+
+//OTHER
+<enZ0055>yuki_004950
+<ptZ0055>yuki_004950
+
+//OTHER
+<enZ0056>ay0001
+<ptZ0056>ay0001
+
+//OTHER
+<enZ0057>aya_000996
+<ptZ0057>aya_000996
+
+//OTHER
+<enZ0058>aya_000997
+<ptZ0058>aya_000997
+
+//OTHER
+<enZ0059>aya_000998
+<ptZ0059>aya_000998
+
+//OTHER
+<enZ0060>aya_000999
+<ptZ0060>aya_000999
+
+//OTHER
+<enZ0061>aya_001000
+<ptZ0061>aya_001000
+
+//OTHER
+<enZ0062>yuki_004951
+<ptZ0062>yuki_004951
+
+//OTHER
+<enZ0063>aya_001001
+<ptZ0063>aya_001001
+
+//OTHER
+<enZ0064>yuki_004952
+<ptZ0064>yuki_004952
+
+//OTHER
+<enZ0065>aya_001002
+<ptZ0065>aya_001002
+
+//OTHER
+<enZ0066>yuki_004953
+<ptZ0066>yuki_004953
+
+//OTHER
+<enZ0067>yuki_004954
+<ptZ0067>yuki_004954
+
+//OTHER
+<enZ0068>aya_001003
+<ptZ0068>aya_001003
+
+//OTHER
+<enZ0069>yuki_004955
+<ptZ0069>yuki_004955
+
+//OTHER
+<enZ0070>ay0008
+<ptZ0070>ay0008
+
+//OTHER
+<enZ0071>aya_001004
+<ptZ0071>aya_001004
+
+//OTHER
+<enZ0072>yuki_004956
+<ptZ0072>yuki_004956
+
+//OTHER
+<enZ0073>aya_001005
+<ptZ0073>aya_001005
+
+//OTHER
+<enZ0074>yuki_004957
+<ptZ0074>yuki_004957
+
+//OTHER
+<enZ0075>aya_001006
+<ptZ0075>aya_001006
+
+//OTHER
+<enZ0076>aya_001007
+<ptZ0076>aya_001007
+
+//OTHER
+<enZ0077>yuki_004958
+<ptZ0077>yuki_004958
+
+//OTHER
+<enZ0078>ay0002a
+<ptZ0078>ay0002a
+
+//OTHER
+<enZ0079>aya_001008
+<ptZ0079>aya_001008
+
+//OTHER
+<enZ0080>aya_001009
+<ptZ0080>aya_001009
+
+//OTHER
+<enZ0081>aya_001010
+<ptZ0081>aya_001010
+
+//OTHER
+<enZ0082>yuki_004959
+<ptZ0082>yuki_004959
+
+//OTHER
+<enZ0083>yuki_004960
+<ptZ0083>yuki_004960
+
+//OTHER
+<enZ0084>aya_001011
+<ptZ0084>aya_001011
+
+//OTHER
+<enZ0085>yuki_004961
+<ptZ0085>yuki_004961
+
+//OTHER
+<enZ0086>aya_001012
+<ptZ0086>aya_001012
+
+//OTHER
+<enZ0087>yuki_004962
+<ptZ0087>yuki_004962
+
+//OTHER
+<enZ0088>aya_001013
+<ptZ0088>aya_001013
+
+//OTHER
+<enZ0089>yuki_004963
+<ptZ0089>yuki_004963
+
+//OTHER
+<enZ0090>aya_001014
+<ptZ0090>aya_001014
+
+//OTHER
+<enZ0091>yuki_004964
+<ptZ0091>yuki_004964
+
+//OTHER
+<enZ0092>aya_001015
+<ptZ0092>aya_001015
+
+//OTHER
+<enZ0093>yuki_004965
+<ptZ0093>yuki_004965
+
+//OTHER
+<enZ0094>aya_001016
+<ptZ0094>aya_001016
+
+//OTHER
+<enZ0095>yuki_004966
+<ptZ0095>yuki_004966
+
+//OTHER
+<enZ0096>yuki_004967
+<ptZ0096>yuki_004967
+
+//OTHER
+<enZ0097>aya_001017
+<ptZ0097>aya_001017
+
+//OTHER
+<enZ0098>yuki_004968
+<ptZ0098>yuki_004968
+
+//OTHER
+<enZ0099>aya_001018
+<ptZ0099>aya_001018
+
+//OTHER
+<enZ0100>yuki_004969
+<ptZ0100>yuki_004969
+
+//OTHER
+<enZ0101>aya_001019
+<ptZ0101>aya_001019
+
+//OTHER
+<enZ0102>yuki_004970
+<ptZ0102>yuki_004970
+
+//OTHER
+<enZ0103>aya_001020
+<ptZ0103>aya_001020
+
+//OTHER
+<enZ0104>aya_001021
+<ptZ0104>aya_001021
+
+//OTHER
+<enZ0105>aya_001022
+<ptZ0105>aya_001022
+
+//OTHER
+<enZ0106>yuki_004971
+<ptZ0106>yuki_004971
+
+//OTHER
+<enZ0107>aya_001023
+<ptZ0107>aya_001023
+
+//OTHER
+<enZ0108>yuki_004972
+<ptZ0108>yuki_004972
+
+//OTHER
+<enZ0109>aya_001024
+<ptZ0109>aya_001024
+
+//OTHER
+<enZ0110>yuki_004973
+<ptZ0110>yuki_004973
+
+//OTHER
+<enZ0111>aya_001025
+<ptZ0111>aya_001025
+
+//OTHER
+<enZ0112>yuki_004974
+<ptZ0112>yuki_004974
+
+//OTHER
+<enZ0113>aya_001026
+<ptZ0113>aya_001026
+
+//OTHER
+<enZ0114>yuki_004975
+<ptZ0114>yuki_004975
+
+//OTHER
+<enZ0115>aya_001027
+<ptZ0115>aya_001027
+
+//OTHER
+<enZ0116>yuki_004976
+<ptZ0116>yuki_004976
+
+//OTHER
+<enZ0117>aya_001028
+<ptZ0117>aya_001028
+
+//OTHER
+<enZ0118>yuki_004977
+<ptZ0118>yuki_004977
+
+//OTHER
+<enZ0119>aya_001029
+<ptZ0119>aya_001029
+
+//OTHER
+<enZ0120>aya_001030
+<ptZ0120>aya_001030
+
+//OTHER
+<enZ0121>yuki_004978
+<ptZ0121>yuki_004978
+
+//OTHER
+<enZ0122>aya_001031
+<ptZ0122>aya_001031
+
+//OTHER
+<enZ0123>aya_001032
+<ptZ0123>aya_001032
+
+//OTHER
+<enZ0124>aya_001033
+<ptZ0124>aya_001033
+
+//OTHER
+<enZ0125>aya_001034
+<ptZ0125>aya_001034
+
+//OTHER
+<enZ0126>yuki_004979
+<ptZ0126>yuki_004979
+
+//OTHER
+<enZ0127>aya_001035
+<ptZ0127>aya_001035
+
+//OTHER
+<enZ0128>aya_001036
+<ptZ0128>aya_001036
+
+//OTHER
+<enZ0129>yuki_004980
+<ptZ0129>yuki_004980
+
+//OTHER
+<enZ0130>aya_001037
+<ptZ0130>aya_001037
+
+//OTHER
+<enZ0131>aya_001038
+<ptZ0131>aya_001038
+
+//OTHER
+<enZ0132>yuki_004981
+<ptZ0132>yuki_004981
+
+//OTHER
+<enZ0133>aya_001039
+<ptZ0133>aya_001039
+
+//OTHER
+<enZ0134>yuki_004982
+<ptZ0134>yuki_004982
+
+//OTHER
+<enZ0135>aya_001040
+<ptZ0135>aya_001040
+
+//OTHER
+<enZ0136>aya_001041
+<ptZ0136>aya_001041
+
+//OTHER
+<enZ0137>yuki_004983
+<ptZ0137>yuki_004983
+
+//OTHER
+<enZ0138>aya_001042
+<ptZ0138>aya_001042
+
+//OTHER
+<enZ0139>yuki_004984
+<ptZ0139>yuki_004984
+
+//OTHER
+<enZ0140>yuki_004985
+<ptZ0140>yuki_004985
+
+//OTHER
+<enZ0141>aya_001043
+<ptZ0141>aya_001043
+
+//OTHER
+<enZ0142>aya_001044
+<ptZ0142>aya_001044
+
+//OTHER
+<enZ0143>yuki_004986
+<ptZ0143>yuki_004986
+
+//OTHER
+<enZ0144>aya_001045
+<ptZ0144>aya_001045
+
+//OTHER
+<enZ0145>aya_001046
+<ptZ0145>aya_001046
+
+//OTHER
+<enZ0146>yuki_004987
+<ptZ0146>yuki_004987
+
+//OTHER
+<enZ0147>aya_001047
+<ptZ0147>aya_001047
+
+//OTHER
+<enZ0148>yuki_004988
+<ptZ0148>yuki_004988
+
+//OTHER
+<enZ0149>aya_001048
+<ptZ0149>aya_001048
+
+//OTHER
+<enZ0150>aya_001049
+<ptZ0150>aya_001049
+
+//OTHER
+<enZ0151>yuki_004989
+<ptZ0151>yuki_004989
+
+//OTHER
+<enZ0152>aya_001050
+<ptZ0152>aya_001050
+
+//OTHER
+<enZ0153>aya_001051
+<ptZ0153>aya_001051
+
+//OTHER
+<enZ0154>aya_001052
+<ptZ0154>aya_001052
+
+//OTHER
+<enZ0155>aya_001053
+<ptZ0155>aya_001053
+
+//OTHER
+<enZ0156>aya_001054
+<ptZ0156>aya_001054
+
+//OTHER
+<enZ0157>aya_001055
+<ptZ0157>aya_001055
+
+//OTHER
+<enZ0158>yuki_004990
+<ptZ0158>yuki_004990
+
+//OTHER
+<enZ0159>aya_001056
+<ptZ0159>aya_001056
+
+//OTHER
+<enZ0160>aya_001057
+<ptZ0160>aya_001057
+
+//OTHER
+<enZ0161>yuki_004991
+<ptZ0161>yuki_004991
+
+//OTHER
+<enZ0162>aya_001058
+<ptZ0162>aya_001058
+
+//OTHER
+<enZ0163>aya_001059
+<ptZ0163>aya_001059
+
+//OTHER
+<enZ0164>aya_001060
+<ptZ0164>aya_001060
+
+//OTHER
+<enZ0165>aya_001061
+<ptZ0165>aya_001061
+
+//OTHER
+<enZ0166>aya_001062
+<ptZ0166>aya_001062
+
+//OTHER
+<enZ0167>aya_001063
+<ptZ0167>aya_001063
+
+//OTHER
+<enZ0168>aya_001064
+<ptZ0168>aya_001064
+
+//OTHER
+<enZ0169>aya_001065
+<ptZ0169>aya_001065
+
+//OTHER
+<enZ0170>aya_001066
+<ptZ0170>aya_001066
+
+//OTHER
+<enZ0171>aya_001067
+<ptZ0171>aya_001067
+
+//OTHER
+<enZ0172>yuki_004992
+<ptZ0172>yuki_004992
+
+//OTHER
+<enZ0173>aya_001068
+<ptZ0173>aya_001068
+
+//OTHER
+<enZ0174>yuki_004993
+<ptZ0174>yuki_004993
+
+//OTHER
+<enZ0175>aya_001069
+<ptZ0175>aya_001069
+
+//OTHER
+<enZ0176>aya_001070
+<ptZ0176>aya_001070
+
+//OTHER
+<enZ0177>aya_001071
+<ptZ0177>aya_001071
+
+//OTHER
+<enZ0178>aya_001072
+<ptZ0178>aya_001072
+
+//OTHER
+<enZ0179>aya_001073
+<ptZ0179>aya_001073
+
+//OTHER
+<enZ0180>aya_001074
+<ptZ0180>aya_001074
+
+//OTHER
+<enZ0181>yuki_004994
+<ptZ0181>yuki_004994
+
+//OTHER
+<enZ0182>yuki_004995
+<ptZ0182>yuki_004995
+
+//OTHER
+<enZ0183>yuki_004996
+<ptZ0183>yuki_004996
+
+//OTHER
+<enZ0184>aya_001075
+<ptZ0184>aya_001075
+
+//OTHER
+<enZ0185>aya_001076
+<ptZ0185>aya_001076
+
+//OTHER
+<enZ0186>yuki_004997
+<ptZ0186>yuki_004997
+
+//OTHER
+<enZ0187>aya_001077
+<ptZ0187>aya_001077
+
+//OTHER
+<enZ0188>aya_001078
+<ptZ0188>aya_001078
+
+//OTHER
+<enZ0189>aya_001079
+<ptZ0189>aya_001079
+
+//OTHER
+<enZ0190>aya_001080
+<ptZ0190>aya_001080
+
+//OTHER
+<enZ0191>aya_001081
+<ptZ0191>aya_001081
+
+//OTHER
+<enZ0192>aya_001082
+<ptZ0192>aya_001082
+
+//OTHER
+<enZ0193>aya_001083
+<ptZ0193>aya_001083
+
+//OTHER
+<enZ0194>yuki_004998
+<ptZ0194>yuki_004998
+
+//OTHER
+<enZ0195>aya_001084
+<ptZ0195>aya_001084
+
+//OTHER
+<enZ0196>yuki_004999
+<ptZ0196>yuki_004999
+
+//OTHER
+<enZ0197>yuki_005000
+<ptZ0197>yuki_005000
+
+//OTHER
+<enZ0198>yuki_005001
+<ptZ0198>yuki_005001
+
+//OTHER
+<enZ0199>aya_001085
+<ptZ0199>aya_001085
+
+//OTHER
+<enZ0200>yuki_005002
+<ptZ0200>yuki_005002
+
+//OTHER
+<enZ0201>yuki_005003
+<ptZ0201>yuki_005003
+
+//OTHER
+<enZ0202>aya_001086
+<ptZ0202>aya_001086
+
+//OTHER
+<enZ0203>aya_001087
+<ptZ0203>aya_001087
+
+//OTHER
+<enZ0204>yuki_005004
+<ptZ0204>yuki_005004
+
+//OTHER
+<enZ0205>aya_001088
+<ptZ0205>aya_001088
+
+//OTHER
+<enZ0206>aya_001089
+<ptZ0206>aya_001089
+
+//OTHER
+<enZ0207>yuki_005005
+<ptZ0207>yuki_005005
+
+//OTHER
+<enZ0208>yuki_005006
+<ptZ0208>yuki_005006
+
+//OTHER
+<enZ0209>aya_001090
+<ptZ0209>aya_001090
+
+//OTHER
+<enZ0210>aya_001091
+<ptZ0210>aya_001091
+
+//OTHER
+<enZ0211>yuki_005007
+<ptZ0211>yuki_005007
+
+//OTHER
+<enZ0212>aya_001092
+<ptZ0212>aya_001092
+
+//OTHER
+<enZ0213>aya_001093
+<ptZ0213>aya_001093
+
+//OTHER
+<enZ0214>yuki_005008
+<ptZ0214>yuki_005008
+
+//OTHER
+<enZ0215>yuki_005009
+<ptZ0215>yuki_005009
+
+//OTHER
+<enZ0216>map003
+<ptZ0216>map003
+
+//OTHER
+<enZ0217>bgm114
+<ptZ0217>bgm114
+
+//OTHER
+<enZ0218>full_yuki
+<ptZ0218>full_yuki
+
+//OTHER
+<enZ0219>map006
+<ptZ0219>map006
+
+//OTHER
+<enZ0220>black
+<ptZ0220>black
+
+//OTHER
+<enZ0221>full_takuji
+<ptZ0221>full_takuji
+
+//OTHER
+<enZ0222>full_tomosane
+<ptZ0222>full_tomosane
+
+//OTHER
+<enZ0223>full_zakuro
+<ptZ0223>full_zakuro
+
+//OTHER
+<enZ0224>full_hasaki
+<ptZ0224>full_hasaki
+
+//OTHER
+<enZ0225>full_kagami
+<ptZ0225>full_kagami
+
+//OTHER
+<enZ0226>full_tsukasa
+<ptZ0226>full_tsukasa
+
+//OTHER
+<enZ0227>map035
+<ptZ0227>map035
+
+//OTHER
+<enZ0228>miu_000077
+<ptZ0228>miu_000077
+
+//OTHER
+<enZ0229>mu0000
+<ptZ0229>mu0000
+
+//OTHER
+<enZ0230>map001
+<ptZ0230>map001
+
+//OTHER
+<enZ0231>bgm020
+<ptZ0231>bgm020
+
+//OTHER
+<enZ0232>miu_000078
+<ptZ0232>miu_000078
+
+//OTHER
+<enZ0233>aya_001094
+<ptZ0233>aya_001094
+
+//OTHER
+<enZ0234>mu0010
+<ptZ0234>mu0010
+
+//OTHER
+<enZ0235>miu_000079
+<ptZ0235>miu_000079
+
+//OTHER
+<enZ0236>mu0004
+<ptZ0236>mu0004
+
+//OTHER
+<enZ0237>miu_000080
+<ptZ0237>miu_000080
+
+//OTHER
+<enZ0238>aya_001095
+<ptZ0238>aya_001095
+
+//OTHER
+<enZ0239>miu_000081
+<ptZ0239>miu_000081
+
+//OTHER
+<enZ0240>aya_001096
+<ptZ0240>aya_001096
+
+//OTHER
+<enZ0241>mu0008
+<ptZ0241>mu0008
+
+//OTHER
+<enZ0242>miu_000082
+<ptZ0242>miu_000082
+
+//OTHER
+<enZ0243>aya_001097
+<ptZ0243>aya_001097
+
+//OTHER
+<enZ0244>miu_000083
+<ptZ0244>miu_000083
+
+//OTHER
+<enZ0245>aya_001098
+<ptZ0245>aya_001098
+
+//OTHER
+<enZ0246>map004
+<ptZ0246>map004
+
+//OTHER
+<enZ0247>aya_001099
+<ptZ0247>aya_001099
+
+//OTHER
+<enZ0248>se216
+<ptZ0248>se216
+
+//OTHER
+<enZ0249>map200
+<ptZ0249>map200
+
+//OTHER
+<enZ0250>data02100.arc
+<ptZ0250>data02100.arc
+

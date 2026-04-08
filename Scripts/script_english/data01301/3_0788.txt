@@ -1,0 +1,1932 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Mamiya
+<ptN0002>Mamiya
+
+//NAME
+<enN0003>Kimika
+<ptN0003>Kimika
+
+//NAME
+<enN0004>Ayana
+<ptN0004>Ayana
+
+///================================================================================
+
+//TEXT
+<enT0001>Just like he said, the next day was peaceful, and the day after that, and the day after that... They were all peaceful days.
+<ptT0001>Just like he said, the next day was peaceful, and the day after that, and the day after that... They were all peaceful days.
+
+//TEXT
+<enT0002>After that day, all the bullying stopped.
+<ptT0002>After that day, all the bullying stopped.
+
+//TEXT
+<enT0003>Not only Akasaka-san and Kitami-san, but the rest of the class stopped looking at us so coldly as well.
+<ptT0003>Not only Akasaka-san and Kitami-san, but the rest of the class stopped looking at us so coldly as well.
+
+//TEXT
+<enT0004>Though Akasaka-san and Kitami-san kept avoiding us.
+<ptT0004>Though Akasaka-san and Kitami-san kept avoiding us.
+
+//TEXT
+<enT0005>Mamiya-kun acted normally after the incident as well.
+<ptT0005>Mamiya-kun acted normally after the incident as well.
+
+//TEXT
+<enT0006>One thing did bother me, though...
+<ptT0006>One thing did bother me, though...
+
+//TEXT
+<enT0007>Mamiya-kun was the person from before. He wasn't the Mamiya-kun who protected us.
+<ptT0007>Mamiya-kun was the person from before. He wasn't the Mamiya-kun who protected us.
+
+//TEXT
+<enT0008>He was the kind, sociable person... The one who seemed to light up the world.
+<ptT0008>He was the kind, sociable person... The one who seemed to light up the world.
+
+//TEXT
+<enT0009>He never again showed me the same expression from that night.
+<ptT0009>He never again showed me the same expression from that night.
+
+//TEXT
+<enT0010>Actually... this happened, too.
+<ptT0010>Actually... this happened, too.
+
+//TEXT 【Zakuro】
+<enT0011>"Uh, this... is the book I borrowed from you. Thank you very much. I shouldn't have kept it so long."
+<ptT0011>"Uh, this... is the book I borrowed from you. Thank you very much. I shouldn't have kept it so long."
+
+//TEXT 【Mamiya】
+<enT0012>"Huh? Oh, really?"
+<ptT0012>"Huh? Oh, really?"
+
+//TEXT 【Zakuro】
+<enT0013>"Huh?"
+<ptT0013>"Huh?"
+
+//TEXT 【Mamiya】
+<enT0014>"Oh, sorry, sorry... I guess I forgot that I'd lent it to you. Ahaha, I thought I'd lost it."
+<ptT0014>"Oh, sorry, sorry... I guess I forgot that I'd lent it to you. Ahaha, I thought I'd lost it."
+
+//TEXT 【Zakuro】
+<enT0015>"Really?"
+<ptT0015>"Really?"
+
+//TEXT 【Mamiya】
+<enT0016>"Ahaha... Sorry, I have a really bad memory. I always forget stuff like that."
+<ptT0016>"Ahaha... Sorry, I have a really bad memory. I always forget stuff like that."
+
+//TEXT 【Zakuro】
+<enT0017>"...So you're 'laying low' again?"
+<ptT0017>"...So you're 'laying low' again?"
+
+//TEXT 【Mamiya】
+<enT0018>"Eh?"
+<ptT0018>"Eh?"
+
+//TEXT 【Zakuro】
+<enT0019>"Oh, nothing. You told me you talk like that when you're 'laying low'..."
+<ptT0019>"Oh, nothing. You told me you talk like that when you're 'laying low'..."
+
+//TEXT 【Mamiya】
+<enT0020>"Huh? What are you talking about?"
+<ptT0020>"Huh? What are you talking about?"
+
+//TEXT 【Zakuro】
+<enT0021>"Oh, uh, it's nothing."
+<ptT0021>"Oh, uh, it's nothing."
+
+//TEXT 【Zakuro】
+<enT0022>"Oh, and what about the others... How are the other two triplets?"
+<ptT0022>"Oh, and what about the others... How are the other two triplets?"
+
+//TEXT 【Mamiya】
+<enT0023>"Triplets?"
+<ptT0023>"Triplets?"
+
+//TEXT 【Mamiya】
+<enT0024>"I don't know any triplets... The twins seem to be getting along fine, though."
+<ptT0024>"I don't know any triplets... The twins seem to be getting along fine, though."
+
+//TEXT
+<enT0025>Twins?
+<ptT0025>Twins?
+
+//TEXT
+<enT0026>Who are they?
+<ptT0026>Who are they?
+
+//TEXT
+<enT0027>I don't remember Mamiya-kun talking about twins before...
+<ptT0027>I don't remember Mamiya-kun talking about twins before...
+
+//TEXT 【Zakuro】
+<enT0028>"You've really changed, haven't you?"
+<ptT0028>"You've really changed, haven't you?"
+
+//TEXT 【Mamiya】
+<enT0029>"Have I?"
+<ptT0029>"Have I?"
+
+//TEXT 【Zakuro】
+<enT0030>"Yes..."
+<ptT0030>"Yes..."
+
+//TEXT
+<enT0031>From the Mamiya-kun I last met here on the rooftop...
+<ptT0031>From the Mamiya-kun I last met here on the rooftop...
+
+//TEXT
+<enT0032>From the Mamiya-kun I met in that underground room...
+<ptT0032>From the Mamiya-kun I met in that underground room...
+
+//TEXT
+<enT0033>And even from the Mamiya-kun I first met here on the rooftop... This one was different from them all.
+<ptT0033>And even from the Mamiya-kun I first met here on the rooftop... This one was different from them all.
+
+//TEXT
+<enT0034>The peaceful days will continue on... Maybe that's why Mamiya-kun wants to keep acting like that incident never happened...
+<ptT0034>The peaceful days will continue on... Maybe that's why Mamiya-kun wants to keep acting like that incident never happened...
+
+//TEXT
+<enT0035>Maybe that's why the Mamiya-kun from that time doesn't show himself...
+<ptT0035>Maybe that's why the Mamiya-kun from that time doesn't show himself...
+
+//TEXT
+<enT0036>The days when Kimika and I fought against Akasaka-san and Kitami-san... and the night in the park where it all ended...
+<ptT0036>The days when Kimika and I fought against Akasaka-san and Kitami-san... and the night in the park where it all ended...
+
+//TEXT
+<enT0037>Maybe it really is an unnecessary past for the peaceful days of the present...
+<ptT0037>Maybe it really is an unnecessary past for the peaceful days of the present...
+
+//TEXT
+<enT0038>Maybe that's true for Mamiya-kun, too...
+<ptT0038>Maybe that's true for Mamiya-kun, too...
+
+//TEXT
+<enT0039>There were always bad rumors about him floating around before, but now his reputation is getting better. He's cheerful, and his grades are good, and people like him...
+<ptT0039>There were always bad rumors about him floating around before, but now his reputation is getting better. He's cheerful, and his grades are good, and people like him...
+
+//TEXT
+<enT0040>People seem more open to me and Kimika as well, since we were friends with Mamiya-kun before this happened...
+<ptT0040>People seem more open to me and Kimika as well, since we were friends with Mamiya-kun before this happened...
+
+//TEXT
+<enT0041>Kimika just seems troubled by the attention, though, since she doesn't get along with people very well.
+<ptT0041>Kimika just seems troubled by the attention, though, since she doesn't get along with people very well.
+
+//TEXT
+<enT0042>But, mysteriously enough, Kimika's aloof attitude actually made people like her more.
+<ptT0042>But, mysteriously enough, Kimika's aloof attitude actually made people like her more.
+
+//TEXT
+<enT0043>Now that I think of it, she was always cute... She's no good at sports, but she's pretty smart, too.
+<ptT0043>Now that I think of it, she was always cute... She's no good at sports, but she's pretty smart, too.
+
+//TEXT
+<enT0044>There was never any reason for so many people to dislike her.
+<ptT0044>There was never any reason for so many people to dislike her.
+
+//TEXT
+<enT0045>Bullying is just like that...
+<ptT0045>Bullying is just like that...
+
+//TEXT
+<enT0046>There doesn't need to be a good reason... Depending on the circumstances, sticking out can either cause someone to be bullied or cause them to be adored.
+<ptT0046>There doesn't need to be a good reason... Depending on the circumstances, sticking out can either cause someone to be bullied or cause them to be adored.
+
+//TEXT
+<enT0047>As Mamiya-kun's reputation changed, so did ours...
+<ptT0047>As Mamiya-kun's reputation changed, so did ours...
+
+//TEXT
+<enT0048>But eventually, the popular Mamiya-kun grew distant from us.
+<ptT0048>But eventually, the popular Mamiya-kun grew distant from us.
+
+//TEXT
+<enT0049>Peaceful days.
+<ptT0049>Peaceful days.
+
+//TEXT
+<enT0050>Ongoing peaceful days...
+<ptT0050>Ongoing peaceful days...
+
+//TEXT 【Kimika】
+<enT0051>"Were you thinking about Mamiya Takuji again?"
+<ptT0051>"Were you thinking about Mamiya Takuji again?"
+
+//TEXT 【Zakuro】
+<enT0052>"Ah..."
+<ptT0052>"Ah..."
+
+//TEXT 【Kimika】
+<enT0053>"Seems like you haven't talked to him lately, huh?"
+<ptT0053>"Seems like you haven't talked to him lately, huh?"
+
+//TEXT 【Zakuro】
+<enT0054>"Yeah... Or rather, it doesn't feel like I can talk to him. He's so popular..."
+<ptT0054>"Yeah... Or rather, it doesn't feel like I can talk to him. He's so popular..."
+
+//TEXT 【Kimika】
+<enT0055>"What happened... He was always so awkward before, but now he's completely different."
+<ptT0055>"What happened... He was always so awkward before, but now he's completely different."
+
+//TEXT 【Zakuro】
+<enT0056>"Yeah... You might be right..."
+<ptT0056>"Yeah... You might be right..."
+
+//TEXT 【Kimika】
+<enT0057>"You like him, don't you?"
+<ptT0057>"You like him, don't you?"
+
+//TEXT 【Zakuro】
+<enT0058>"Ahaha... You're still saying that?"
+<ptT0058>"Ahaha... You're still saying that?"
+
+//TEXT 【Kimika】
+<enT0059>"B-But..."
+<ptT0059>"B-But..."
+
+//TEXT 【Zakuro】
+<enT0060>"Dummy..."
+<ptT0060>"Dummy..."
+
+//TEXT
+<enT0061>I took her hand.
+<ptT0061>I took her hand.
+
+//TEXT 【Zakuro】
+<enT0062>"Do you want to skip class?"
+<ptT0062>"Do you want to skip class?"
+
+//TEXT 【Kimika】
+<enT0063>"Eh?"
+<ptT0063>"Eh?"
+
+//TEXT 【Zakuro】
+<enT0064>"Let's skip..."
+<ptT0064>"Let's skip..."
+
+//TEXT 【Kimika】
+<enT0065>"B-But..."
+<ptT0065>"B-But..."
+
+//TEXT 【Zakuro】
+<enT0066>"But what?"
+<ptT0066>"But what?"
+
+//TEXT 【Kimika】
+<enT0067>"Z-Zakuro, that's kind of..."
+<ptT0067>"Z-Zakuro, that's kind of..."
+
+//TEXT
+<enT0068>Kimika's face went bright red...
+<ptT0068>Kimika's face went bright red...
+
+//TEXT
+<enT0069>I pulled her hand...
+<ptT0069>I pulled her hand...
+
+//TEXT 【Kimika】
+<enT0070>"Wait, uh... Zakuro, that's kind of bold..."
+<ptT0070>"Wait, uh... Zakuro, that's kind of bold..."
+
+//TEXT
+<enT0071>I grabbed my bag and pulled her hand...
+<ptT0071>I grabbed my bag and pulled her hand...
+
+//TEXT 【Kimika】
+<enT0072>"Ah, I have to get my bag too..."
+<ptT0072>"Ah, I have to get my bag too..."
+
+//TEXT 【Zakuro】
+<enT0073>"Ha, ha, ha..."
+<ptT0073>"Ha, ha, ha..."
+
+//TEXT 【Kimika】
+<enT0074>"Ha, ha, ha... Z-Zakuro!"
+<ptT0074>"Ha, ha, ha... Z-Zakuro!"
+
+//TEXT 【Zakuro】
+<enT0075>"Hehehe, the teachers were chasing us."
+<ptT0075>"Hehehe, the teachers were chasing us."
+
+//TEXT 【Kimika】
+<enT0076>"Well yeah, you tried to walk right out the front gate!"
+<ptT0076>"Well yeah, you tried to walk right out the front gate!"
+
+//TEXT 【Zakuro】
+<enT0077>"But Akasaka-san and Shiroyama-kun did that before, didn't they?"
+<ptT0077>"But Akasaka-san and Shiroyama-kun did that before, didn't they?"
+
+//TEXT 【Kimika】
+<enT0078>"B-But you're supposed to be a good student!"
+<ptT0078>"B-But you're supposed to be a good student!"
+
+//TEXT 【Zakuro】
+<enT0079>"Not at all... I just couldn't decide anything by myself."
+<ptT0079>"Not at all... I just couldn't decide anything by myself."
+
+//TEXT 【Zakuro】
+<enT0080>"I obeyed the rules just because someone else had decided them... But―"
+<ptT0080>"I obeyed the rules just because someone else had decided them... But―"
+
+//TEXT 【Kimika】
+<enT0081>"Ah!"
+<ptT0081>"Ah!"
+
+//TEXT
+<enT0082>Just like Mamiya-kun had changed... there were a lot of things inside me that had changed...
+<ptT0082>Just like Mamiya-kun had changed... there were a lot of things inside me that had changed...
+
+//TEXT
+<enT0083>The most important thing to me had changed...
+<ptT0083>The most important thing to me had changed...
+
+//TEXT
+<enT0084>Before, the most important thing to me was simply not upsetting anyone, but the person I was before had disappeared.
+<ptT0084>Before, the most important thing to me was simply not upsetting anyone, but the person I was before had disappeared.
+
+//TEXT
+<enT0085>When did that happen? When I first started to like Mamiya-kun?
+<ptT0085>When did that happen? When I first started to like Mamiya-kun?
+
+//TEXT
+<enT0086>Mamiya-kun certainly did change me.
+<ptT0086>Mamiya-kun certainly did change me.
+
+//TEXT
+<enT0087>Mamiya-kun gave me the courage to move forward under my own power...
+<ptT0087>Mamiya-kun gave me the courage to move forward under my own power...
+
+//TEXT
+<enT0088>But, oddly enough, once I took that step... the wonderful future I had envisioned suddenly changed.
+<ptT0088>But, oddly enough, once I took that step... the wonderful future I had envisioned suddenly changed.
+
+//TEXT
+<enT0089>His form, which had been foremost in my mind, changed... once I took that step forward.
+<ptT0089>His form, which had been foremost in my mind, changed... once I took that step forward.
+
+//TEXT
+<enT0090>...This might be a rude way of saying it, but I didn't think he should be the most important thing in my life anymore.
+<ptT0090>...This might be a rude way of saying it, but I didn't think he should be the most important thing in my life anymore.
+
+//TEXT
+<enT0091>Because he was splendid enough on his own. He had everything he needed on his own...
+<ptT0091>Because he was splendid enough on his own. He had everything he needed on his own...
+
+//TEXT
+<enT0092>I didn't feel anything for him anymore.
+<ptT0092>I didn't feel anything for him anymore.
+
+//TEXT 【Kimika】
+<enT0093>"Ah!"
+<ptT0093>"Ah!"
+
+//TEXT 【Zakuro】
+<enT0094>"What are you so scared of?"
+<ptT0094>"What are you so scared of?"
+
+//TEXT 【Kimika】
+<enT0095>"Zakuro! Th-There are so many people around..."
+<ptT0095>"Zakuro! Th-There are so many people around..."
+
+//TEXT 【Zakuro】
+<enT0096>"You don't need to worry about that... Mm..."
+<ptT0096>"You don't need to worry about that... Mm..."
+
+//TEXT 【Kimika】
+<enT0097>"Mm, mm... ah, mm..."
+<ptT0097>"Mm, mm... ah, mm..."
+
+//TEXT
+<enT0098>When I took that step forward, the scenery changed.
+<ptT0098>When I took that step forward, the scenery changed.
+
+//TEXT
+<enT0099>The unusual became usual, and the usual became unusual.
+<ptT0099>The unusual became usual, and the usual became unusual.
+
+//TEXT 【Kimika】
+<enT0100>"What are you doing all of a sudden?"
+<ptT0100>"What are you doing all of a sudden?"
+
+//TEXT
+<enT0101>Kimika complained, her eyes wet with tears.
+<ptT0101>Kimika complained, her eyes wet with tears.
+
+//TEXT
+<enT0102>Kimika is always like this...
+<ptT0102>Kimika is always like this...
+
+//TEXT 【Zakuro】
+<enT0103>"Would you rather I asked first?"
+<ptT0103>"Would you rather I asked first?"
+
+//TEXT 【Kimika】
+<enT0104>"Th-That's not the problem!"
+<ptT0104>"Th-That's not the problem!"
+
+//TEXT 【Kimika】
+<enT0105>"Jeez... I thought you were supposed to be a bullied girl. You're supposed to be the submissive one."
+<ptT0105>"Jeez... I thought you were supposed to be a bullied girl. You're supposed to be the submissive one."
+
+//TEXT 【Zakuro】
+<enT0106>"I'm not a bullied girl anymore."
+<ptT0106>"I'm not a bullied girl anymore."
+
+//TEXT 【Kimika】
+<enT0107>"That's not what I mean!"
+<ptT0107>"That's not what I mean!"
+
+//TEXT 【Kimika】
+<enT0108>"Mm, I thought you were a masochist, but I guess you were really a sadist."
+<ptT0108>"Mm, I thought you were a masochist, but I guess you were really a sadist."
+
+//TEXT 【Zakuro】
+<enT0109>"Hehehe... I don't know about that."
+<ptT0109>"Hehehe... I don't know about that."
+
+//TEXT 【Zakuro】
+<enT0110>"After all, you were the one... that suddenly attacked me that day."
+<ptT0110>"After all, you were the one... that suddenly attacked me that day."
+
+//TEXT 【Kimika】
+<enT0111>"Th-That was―!"
+<ptT0111>"Th-That was―!"
+
+//TEXT 【Zakuro】
+<enT0112>"You didn't want Mamiya-kun to take me away from you?"
+<ptT0112>"You didn't want Mamiya-kun to take me away from you?"
+
+//TEXT 【Kimika】
+<enT0113>"Th-That's, uh..."
+<ptT0113>"Th-That's, uh..."
+
+//TEXT 【Zakuro】
+<enT0114>"Jeez... You took my virginity just like that, and yet you get worked up about a kiss..."
+<ptT0114>"Jeez... You took my virginity just like that, and yet you get worked up about a kiss..."
+
+//TEXT 【Kimika】
+<enT0115>"Th-That was, uh... I was kind of desperate..."
+<ptT0115>"Th-That was, uh... I was kind of desperate..."
+
+//TEXT 【Zakuro】
+<enT0116>"Desperate?"
+<ptT0116>"Desperate?"
+
+//TEXT 【Kimika】
+<enT0117>"Um, I just wanted to stop you from going off with him... and I got carried away..."
+<ptT0117>"Um, I just wanted to stop you from going off with him... and I got carried away..."
+
+//TEXT 【Zakuro】
+<enT0118>"You got carried away... and did it with me."
+<ptT0118>"You got carried away... and did it with me."
+
+//TEXT 【Kimika】
+<enT0119>"Ahhh!"
+<ptT0119>"Ahhh!"
+
+//TEXT
+<enT0120>Kimika's face turned bright red as she turned away.
+<ptT0120>Kimika's face turned bright red as she turned away.
+
+//TEXT 【Zakuro】
+<enT0121>"Isn't that right?"
+<ptT0121>"Isn't that right?"
+
+//TEXT 【Kimika】
+<enT0122>"...I'm sorry."
+<ptT0122>"...I'm sorry."
+
+//TEXT 【Kimika】
+<enT0123>"Hey! What's this?!
+<ptT0123>"Hey! What's this?!
+
+//TEXT
+<enT0124> Are you teasing me?!"
+<ptT0124> Are you teasing me?!"
+
+//TEXT 【Zakuro】
+<enT0125>"Not at all... I'm just asking you a question."
+<ptT0125>"Not at all... I'm just asking you a question."
+
+//TEXT 【Kimika】
+<enT0126>"U-Ugh...
+<ptT0126>"U-Ugh...
+
+//TEXT
+<enT0127> Zakuro, you're kind of a bully..."
+<ptT0127> Zakuro, you're kind of a bully..."
+
+//TEXT 【Zakuro】
+<enT0128>"I'm not bullying you... If that's what you think I'm doing, would you rather I never kiss you again?"
+<ptT0128>"I'm not bullying you... If that's what you think I'm doing, would you rather I never kiss you again?"
+
+//TEXT 【Kimika】
+<enT0129>"Th-That's―!"
+<ptT0129>"Th-That's―!"
+
+//TEXT 【Zakuro】
+<enT0130>"That's what?"
+<ptT0130>"That's what?"
+
+//TEXT 【Kimika】
+<enT0131>"Awww!"
+<ptT0131>"Awww!"
+
+//TEXT
+<enT0132>Oh no... This again...
+<ptT0132>Oh no... This again...
+
+//TEXT 【Kimika】
+<enT0133>"Jeez! I hate you! Go die, you piece of shit!"
+<ptT0133>"Jeez! I hate you! Go die, you piece of shit!"
+
+//TEXT
+<enT0134>Oh, now I've done it... She's so cute, I can't help but bully her...
+<ptT0134>Oh, now I've done it... She's so cute, I can't help but bully her...
+
+//TEXT 【Zakuro】
+<enT0135>"Ah, I'm sorry, Kimika!"
+<ptT0135>"Ah, I'm sorry, Kimika!"
+
+//TEXT
+<enT0136>Ahaha... It's like the reverse of our relationship before.
+<ptT0136>Ahaha... It's like the reverse of our relationship before.
+
+//TEXT
+<enT0137>People are funny...
+<ptT0137>People are funny...
+
+//TEXT 【Zakuro】
+<enT0138>"Ha, ha, ha... Kimika!"
+<ptT0138>"Ha, ha, ha... Kimika!"
+
+//TEXT 【Kimika】
+<enT0139>"Ha, ha, ha... Y-You're just as fast as ever, huh?"
+<ptT0139>"Ha, ha, ha... Y-You're just as fast as ever, huh?"
+
+//TEXT 【Zakuro】
+<enT0140>"No... It's not that I'm fast, but rather... Well, more importantly, I'm sorry!"
+<ptT0140>"No... It's not that I'm fast, but rather... Well, more importantly, I'm sorry!"
+
+//TEXT 【Kimika】
+<enT0141>"...Zakuro."
+<ptT0141>"...Zakuro."
+
+//TEXT 【Kimika】
+<enT0142>"Hey, how many times have we repeated this same pattern?!"
+<ptT0142>"Hey, how many times have we repeated this same pattern?!"
+
+//TEXT 【Zakuro】
+<enT0143>"Ahaha... I can't help bullying you sometimes. You're too cute."
+<ptT0143>"Ahaha... I can't help bullying you sometimes. You're too cute."
+
+//TEXT 【Kimika】
+<enT0144>"How many times have I heard that excuse..."
+<ptT0144>"How many times have I heard that excuse..."
+
+//TEXT 【Zakuro】
+<enT0145>"Ahaha... Sorry."
+<ptT0145>"Ahaha... Sorry."
+
+//TEXT 【Kimika】
+<enT0146>"...Then promise me."
+<ptT0146>"...Then promise me."
+
+//TEXT 【Zakuro】
+<enT0147>"Promise you what?"
+<ptT0147>"Promise you what?"
+
+//TEXT 【Kimika】
+<enT0148>"Y-You won't bully me or say you won't kiss me anymore..."
+<ptT0148>"Y-You won't bully me or say you won't kiss me anymore..."
+
+//TEXT 【Zakuro】
+<enT0149>"Heh!"
+<ptT0149>"Heh!"
+
+//TEXT 【Kimika】
+<enT0150>"Whoa, don't hug me!"
+<ptT0150>"Whoa, don't hug me!"
+
+//TEXT 【Zakuro】
+<enT0151>"Yes, yes, I promise, Kimika!"
+<ptT0151>"Yes, yes, I promise, Kimika!"
+
+//TEXT 【Kimika】
+<enT0152>"Whoa, what are you doing?! Are you trying to show off your boobs?"
+<ptT0152>"Whoa, what are you doing?! Are you trying to show off your boobs?"
+
+//TEXT
+<enT0153>A lot changed after that...
+<ptT0153>A lot changed after that...
+
+//TEXT
+<enT0154>Every day was different.
+<ptT0154>Every day was different.
+
+//TEXT
+<enT0155>Actually...
+<ptT0155>Actually...
+
+//TEXT
+<enT0156>At the end, this happened...
+<ptT0156>At the end, this happened...
+
+//TEXT
+<enT0157>That was July 19th... The last day before summer break.
+<ptT0157>That was July 19th... The last day before summer break.
+
+//TEXT
+<enT0158>At the end of the semester... I went up to the rooftop to talk to Mamiya-kun.
+<ptT0158>At the end of the semester... I went up to the rooftop to talk to Mamiya-kun.
+
+//TEXT
+<enT0159>And when I got there...
+<ptT0159>And when I got there...
+
+//TEXT
+<enT0160>Ah...
+<ptT0160>Ah...
+
+//TEXT 【Ayana】
+<enT0161>Takashima... Zakuro-san?"
+<ptT0161>Takashima... Zakuro-san?"
+
+//TEXT 【Zakuro】
+<enT0162>"Your name was..."
+<ptT0162>"Your name was..."
+
+//TEXT 【Ayana】
+<enT0163>"Otonashi Ayana..."
+<ptT0163>"Otonashi Ayana..."
+
+//TEXT
+<enT0164>Oh, right... I think I've seen her before.
+<ptT0164>Oh, right... I think I've seen her before.
+
+//TEXT 【Ayana】
+<enT0165>"Did you come to see Mamiya Takuji-kun today?"
+<ptT0165>"Did you come to see Mamiya Takuji-kun today?"
+
+//TEXT 【Zakuro】
+<enT0166>"Yeah... I did, but..."
+<ptT0166>"Yeah... I did, but..."
+
+//TEXT
+<enT0167>How did she know that?
+<ptT0167>How did she know that?
+
+//TEXT 【Ayana】
+<enT0168>"Mamiya-kun won't be coming to school today."
+<ptT0168>"Mamiya-kun won't be coming to school today."
+
+//TEXT 【Zakuro】
+<enT0169>"Really? Did he catch a cold?"
+<ptT0169>"Really? Did he catch a cold?"
+
+//TEXT 【Ayana】
+<enT0170>"He didn't catch a cold... Today is the day before the 20th."
+<ptT0170>"He didn't catch a cold... Today is the day before the 20th."
+
+//TEXT 【Zakuro】
+<enT0171>"The day before the 20th?"
+<ptT0171>"The day before the 20th?"
+
+//TEXT 【Ayana】
+<enT0172>"Yes... Therefore, the two will have their final battle..."
+<ptT0172>"Yes... Therefore, the two will have their final battle..."
+
+//TEXT 【Zakuro】
+<enT0173>"Their final battle?"
+<ptT0173>"Their final battle?"
+
+//TEXT 【Ayana】
+<enT0174>"Yes. The Mamiya-kun from the underground room was supposed to be the victor, but... because of your choice, his soul has changed directions."
+<ptT0174>"Yes. The Mamiya-kun from the underground room was supposed to be the victor, but... because of your choice, his soul has changed directions."
+
+//TEXT 【Zakuro】
+<enT0175>"His soul?"
+<ptT0175>"His soul?"
+
+//TEXT 【Ayana】
+<enT0176>"Yes... The world of souls. The repitition of souls..."
+<ptT0176>"Yes... The world of souls. The repitition of souls..."
+
+//TEXT 【Ayana】
+<enT0177>"His soul's string has been severed from the repeating world's model... He's now fated to walk a different path."
+<ptT0177>"His soul's string has been severed from the repeating world's model... He's now fated to walk a different path."
+
+//TEXT 【Zakuro】
+<enT0178>"Um, what does that mean?"
+<ptT0178>"Um, what does that mean?"
+
+//TEXT 【Ayana】
+<enT0179>"Hehehe, it just means that you made the correct choice."
+<ptT0179>"Hehehe, it just means that you made the correct choice."
+
+//TEXT 【Ayana】
+<enT0180>"Everything is as desired... Takuji the Creator and Takuji the Destroyer died together, and Takuji the Harmonizer alone remained."
+<ptT0180>"Everything is as desired... Takuji the Creator and Takuji the Destroyer died together, and Takuji the Harmonizer alone remained."
+
+//TEXT 【Ayana】
+<enT0181>"Everything is as he desired..."
+<ptT0181>"Everything is as he desired..."
+
+//TEXT 【Ayana】
+<enT0182>"...As Tomosane-kun desired."
+<ptT0182>"...As Tomosane-kun desired."
+
+//TEXT 【Zakuro】
+<enT0183>"Tomosane-kun?"
+<ptT0183>"Tomosane-kun?"
+
+//TEXT 【Ayana】
+<enT0184>"Hehehe... The soul is endlessly reincarnated in the same world. That's why I'm here."
+<ptT0184>"Hehehe... The soul is endlessly reincarnated in the same world. That's why I'm here."
+
+//TEXT 【Ayana】
+<enT0185>"Now, you too must move forward. The promised land awaits you. The Wonderful Everyday is beginning."
+<ptT0185>"Now, you too must move forward. The promised land awaits you. The Wonderful Everyday is beginning."
+
+//TEXT 【Zakuro】
+<enT0186>"U-Um, do you know all of Mamiya-kun's secrets?"
+<ptT0186>"U-Um, do you know all of Mamiya-kun's secrets?"
+
+//TEXT 【Ayana】
+<enT0187>"Secrets?"
+<ptT0187>"Secrets?"
+
+//TEXT 【Zakuro】
+<enT0188>"Just now, you were talking about Mamiya-kun the Creator, Mamiya-kun the Destroyer, and Mamiya-kun the Harmonizer."
+<ptT0188>"Just now, you were talking about Mamiya-kun the Creator, Mamiya-kun the Destroyer, and Mamiya-kun the Harmonizer."
+
+//TEXT 【Zakuro】
+<enT0189>"What is that?!"
+<ptT0189>"What is that?!"
+
+//TEXT 【Ayana】
+<enT0190>"Hehehe... Yes, but the answer is not for you."
+<ptT0190>"Hehehe... Yes, but the answer is not for you."
+
+//TEXT 【Ayana】
+<enT0191>"You've obtained The Wonderful Everyday, and you've lost everything besides..."
+<ptT0191>"You've obtained The Wonderful Everyday, and you've lost everything besides..."
+
+//TEXT 【Ayana】
+<enT0192>"That's why you can't obtain that answer... Or maybe."
+<ptT0192>"That's why you can't obtain that answer... Or maybe."
+
+//TEXT
+<enT0193>Ayana-san grinned.
+<ptT0193>Ayana-san grinned.
+
+//TEXT
+<enT0194>I felt a chill run up my spine.
+<ptT0194>I felt a chill run up my spine.
+
+//TEXT 【Ayana】
+<enT0195>"Would you like to give up all you have now?"
+<ptT0195>"Would you like to give up all you have now?"
+
+//TEXT 【Ayana】
+<enT0196>"Would you like to see the soul take a different direction?"
+<ptT0196>"Would you like to see the soul take a different direction?"
+
+//TEXT 【Zakuro】
+<enT0197>"..."
+<ptT0197>"..."
+
+//TEXT 【Zakuro】
+<enT0198>"I-I..."
+<ptT0198>"I-I..."
+
+//TEXT
+<enT0199>I made my choice...
+<ptT0199>I made my choice...
+
+//TEXT 【Zakuro】
+<enT0200>"I can't give up what I have now. I've sworn to live my life to the fullest!"
+<ptT0200>"I can't give up what I have now. I've sworn to live my life to the fullest!"
+
+//TEXT 【Ayana】
+<enT0201>"All right..."
+<ptT0201>"All right..."
+
+//TEXT
+<enT0202>Ayana-san gave another, smaller smile, and then looked at the sky.
+<ptT0202>Ayana-san gave another, smaller smile, and then looked at the sky.
+
+//TEXT 【Ayana】
+<enT0203>"That sky is no longer here."
+<ptT0203>"That sky is no longer here."
+
+//TEXT 【Ayana】
+<enT0204>"The lost sky... The world of just one soul erased that sky."
+<ptT0204>"The lost sky... The world of just one soul erased that sky."
+
+//TEXT 【Ayana】
+<enT0205>"The girl who has decided to live her life... has obtained The Wonderful Everyday."
+<ptT0205>"The girl who has decided to live her life... has obtained The Wonderful Everyday."
+
+//TEXT
+<enT0206>I still don't know what she meant by that.
+<ptT0206>I still don't know what she meant by that.
+
+//TEXT
+<enT0207>I never saw Ayana-san again after that.
+<ptT0207>I never saw Ayana-san again after that.
+
+//TEXT
+<enT0208>I heard rumors that she had transferred or dropped out, but I never knew for sure.
+<ptT0208>I heard rumors that she had transferred or dropped out, but I never knew for sure.
+
+//TEXT
+<enT0209>To be honest... it seemed irrelevant to me.
+<ptT0209>To be honest... it seemed irrelevant to me.
+
+//TEXT
+<enT0210>The question I asked Ayana-san on that day...
+<ptT0210>The question I asked Ayana-san on that day...
+
+//TEXT
+<enT0211>Even that question seemed irrelevant to my life.
+<ptT0211>Even that question seemed irrelevant to my life.
+
+//TEXT 【Kimika】
+<enT0212>"Hey... Zakuro."
+<ptT0212>"Hey... Zakuro."
+
+//TEXT 【Zakuro】
+<enT0213>"Eh?"
+<ptT0213>"Eh?"
+
+//TEXT 【Kimika】
+<enT0214>"What's wrong?"
+<ptT0214>"What's wrong?"
+
+//TEXT 【Zakuro】
+<enT0215>"Oh, sorry..."
+<ptT0215>"Oh, sorry..."
+
+//TEXT 【Kimika】
+<enT0216>"Lost in thought again... Jeez, Zakuro, you're always like that."
+<ptT0216>"Lost in thought again... Jeez, Zakuro, you're always like that."
+
+//TEXT 【Zakuro】
+<enT0217>"Ahaha... Not at all."
+<ptT0217>"Ahaha... Not at all."
+
+//TEXT 【Zakuro】
+<enT0218>"More importantly... summer is ending, huh..."
+<ptT0218>"More importantly... summer is ending, huh..."
+
+//TEXT 【Kimika】
+<enT0219>"Yeah... It's starting to get a bit chilly."
+<ptT0219>"Yeah... It's starting to get a bit chilly."
+
+//TEXT 【Zakuro】
+<enT0220>"The summer will end, fall will come, winter will come, and then it'll change to another warm spring."
+<ptT0220>"The summer will end, fall will come, winter will come, and then it'll change to another warm spring."
+
+//TEXT 【Kimika】
+<enT0221>"Yeah..."
+<ptT0221>"Yeah..."
+
+//TEXT
+<enT0222>I walked through the chilly park.
+<ptT0222>I walked through the chilly park.
+
+//TEXT
+<enT0223>I moved forward.
+<ptT0223>I moved forward.
+
+//TEXT 【Zakuro】
+<enT0224>"..."
+<ptT0224>"..."
+
+//TEXT 【Kimika】
+<enT0225>"Huh? What's wrong?"
+<ptT0225>"Huh? What's wrong?"
+
+//TEXT 【Zakuro】
+<enT0226>"Oh, no, it's nothing."
+<ptT0226>"Oh, no, it's nothing."
+
+//TEXT
+<enT0227>What is this feeling?
+<ptT0227>What is this feeling?
+
+//TEXT
+<enT0228>It's a strange unease, like I feel uncomfortable about something... It's really strange.
+<ptT0228>It's a strange unease, like I feel uncomfortable about something... It's really strange.
+
+//TEXT 【Kimika】
+<enT0229>"What's the hold up? Let's go."
+<ptT0229>"What's the hold up? Let's go."
+
+//TEXT 【Zakuro】
+<enT0230>"...Let's go."
+<ptT0230>"...Let's go."
+
+//TEXT
+<enT0231>Let's go.
+<ptT0231>Let's go.
+
+//TEXT
+<enT0232>When I heard her words, I understood.
+<ptT0232>When I heard her words, I understood.
+
+//TEXT
+<enT0233>I see... So that's what it was.
+<ptT0233>I see... So that's what it was.
+
+//TEXT
+<enT0234>This feeling is probably the same feeling I felt when I took my first step.
+<ptT0234>This feeling is probably the same feeling I felt when I took my first step.
+
+//TEXT
+<enT0235>I just forgot the feeling until now.
+<ptT0235>I just forgot the feeling until now.
+
+//TEXT
+<enT0236>This is probably what my first step felt like.
+<ptT0236>This is probably what my first step felt like.
+
+//TEXT
+<enT0237>It's not just me, either. Everyone felt this when they took their first step. It's the same feeling animals must have felt when they first started to walk on land.
+<ptT0237>It's not just me, either. Everyone felt this when they took their first step. It's the same feeling animals must have felt when they first started to walk on land.
+
+//TEXT
+<enT0238>I felt nervous about my first step.
+<ptT0238>I felt nervous about my first step.
+
+//TEXT
+<enT0239>There's no mistaking it.
+<ptT0239>There's no mistaking it.
+
+//TEXT
+<enT0240>After all, it's my first step...
+<ptT0240>After all, it's my first step...
+
+//TEXT
+<enT0241>It's the beginning of a new scenery.
+<ptT0241>It's the beginning of a new scenery.
+
+//TEXT
+<enT0242>But eventually that single step...
+<ptT0242>But eventually that single step...
+
+//TEXT
+<enT0243>Becomes an everyday experience.
+<ptT0243>Becomes an everyday experience.
+
+//TEXT
+<enT0244>The single step into tomorrow that I so feared...
+<ptT0244>The single step into tomorrow that I so feared...
+
+//TEXT
+<enT0245>That was a common scene.
+<ptT0245>That was a common scene.
+
+//TEXT
+<enT0246>It became an everyday routine.
+<ptT0246>It became an everyday routine.
+
+//TEXT
+<enT0247>It became easy. It became incredibly normal.
+<ptT0247>It became easy. It became incredibly normal.
+
+//TEXT 【Kimika】
+<enT0248>"Wh-What is it?"
+<ptT0248>"Wh-What is it?"
+
+//TEXT 【Zakuro】
+<enT0249>"Nothing... Hey, Kimika."
+<ptT0249>"Nothing... Hey, Kimika."
+
+//TEXT 【Kimika】
+<enT0250>"Wh-What?"
+<ptT0250>"Wh-What?"
+
+//TEXT 【Zakuro】
+<enT0251>"Thank you!"
+<ptT0251>"Thank you!"
+
+//TEXT 【Kimika】
+<enT0252>"Eh?"
+<ptT0252>"Eh?"
+
+//TEXT 【Zakuro】
+<enT0253>"Thank you for walking by my side! Thank you for helping me take this step!"
+<ptT0253>"Thank you for walking by my side! Thank you for helping me take this step!"
+
+//TEXT 【Kimika】
+<enT0254>"Eh? Uh..."
+<ptT0254>"Eh? Uh..."
+
+//TEXT
+<enT0255>Kimika hesitated... Of course she did. I was a bit too sudden. I've always been like that, though I never had the courage to say what I was thinking.
+<ptT0255>Kimika hesitated... Of course she did. I was a bit too sudden. I've always been like that, though I never had the courage to say what I was thinking.
+
+//TEXT
+<enT0256>That's why she hesita...ted?
+<ptT0256>That's why she hesita...ted?
+
+//TEXT 【Kimika】
+<enT0257>"Yeah..."
+<ptT0257>"Yeah..."
+
+//TEXT
+<enT0258>Kimika laughed cheerfully as she responded.
+<ptT0258>Kimika laughed cheerfully as she responded.
+
+//TEXT 【Kimika】
+<enT0259>"Thank you, too."
+<ptT0259>"Thank you, too."
+
+//TEXT 【Kimika】
+<enT0260>"For walking by my side!"
+<ptT0260>"For walking by my side!"
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0788.bss
+<ptZ0001>3_0788.bss
+
+//OTHER
+<enZ0002>The end of summer
+<ptZ0002>The end of summer
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>dayzk0788
+<ptZ0004>dayzk0788
+
+//OTHER
+<enZ0005>bgm019
+<ptZ0005>bgm019
+
+//OTHER
+<enZ0006>map033
+<ptZ0006>map033
+
+//OTHER
+<enZ0007>bg1016a
+<ptZ0007>bg1016a
+
+//OTHER
+<enZ0008>zaku_002685
+<ptZ0008>zaku_002685
+
+//OTHER
+<enZ0009>tkj3008
+<ptZ0009>tkj3008
+
+//OTHER
+<enZ0010>taku_005224
+<ptZ0010>taku_005224
+
+//OTHER
+<enZ0011>zaku_002686
+<ptZ0011>zaku_002686
+
+//OTHER
+<enZ0012>tkj3006
+<ptZ0012>tkj3006
+
+//OTHER
+<enZ0013>taku_005225
+<ptZ0013>taku_005225
+
+//OTHER
+<enZ0014>zaku_002687
+<ptZ0014>zaku_002687
+
+//OTHER
+<enZ0015>tkj3800
+<ptZ0015>tkj3800
+
+//OTHER
+<enZ0016>taku_005226
+<ptZ0016>taku_005226
+
+//OTHER
+<enZ0017>zaku_002688
+<ptZ0017>zaku_002688
+
+//OTHER
+<enZ0018>tkj3009
+<ptZ0018>tkj3009
+
+//OTHER
+<enZ0019>taku_005227
+<ptZ0019>taku_005227
+
+//OTHER
+<enZ0020>zaku_002689
+<ptZ0020>zaku_002689
+
+//OTHER
+<enZ0021>taku_005228
+<ptZ0021>taku_005228
+
+//OTHER
+<enZ0022>zaku_002690
+<ptZ0022>zaku_002690
+
+//OTHER
+<enZ0023>zaku_002691
+<ptZ0023>zaku_002691
+
+//OTHER
+<enZ0024>taku_005229
+<ptZ0024>taku_005229
+
+//OTHER
+<enZ0025>taku_005230
+<ptZ0025>taku_005230
+
+//OTHER
+<enZ0026>zaku_002692
+<ptZ0026>zaku_002692
+
+//OTHER
+<enZ0027>tkj3000
+<ptZ0027>tkj3000
+
+//OTHER
+<enZ0028>taku_005231
+<ptZ0028>taku_005231
+
+//OTHER
+<enZ0029>zaku_002693
+<ptZ0029>zaku_002693
+
+//OTHER
+<enZ0030>Black
+<ptZ0030>Black
+
+//OTHER
+<enZ0031>kimi_001850
+<ptZ0031>kimi_001850
+
+//OTHER
+<enZ0032>zaku_002694
+<ptZ0032>zaku_002694
+
+//OTHER
+<enZ0033>bgm020
+<ptZ0033>bgm020
+
+//OTHER
+<enZ0034>km0000a
+<ptZ0034>km0000a
+
+//OTHER
+<enZ0035>bg1014a
+<ptZ0035>bg1014a
+
+//OTHER
+<enZ0036>km0012
+<ptZ0036>km0012
+
+//OTHER
+<enZ0037>kimi_001851
+<ptZ0037>kimi_001851
+
+//OTHER
+<enZ0038>zaku_002695
+<ptZ0038>zaku_002695
+
+//OTHER
+<enZ0039>km0010a
+<ptZ0039>km0010a
+
+//OTHER
+<enZ0040>kimi_001852
+<ptZ0040>kimi_001852
+
+//OTHER
+<enZ0041>zaku_002696
+<ptZ0041>zaku_002696
+
+//OTHER
+<enZ0042>km0004a
+<ptZ0042>km0004a
+
+//OTHER
+<enZ0043>kimi_001853
+<ptZ0043>kimi_001853
+
+//OTHER
+<enZ0044>zaku_002697
+<ptZ0044>zaku_002697
+
+//OTHER
+<enZ0045>km0006a
+<ptZ0045>km0006a
+
+//OTHER
+<enZ0046>kimi_001854
+<ptZ0046>kimi_001854
+
+//OTHER
+<enZ0047>zaku_002698
+<ptZ0047>zaku_002698
+
+//OTHER
+<enZ0048>km0006a_l
+<ptZ0048>km0006a_l
+
+//OTHER
+<enZ0049>zaku_002699
+<ptZ0049>zaku_002699
+
+//OTHER
+<enZ0050>km0008a_l
+<ptZ0050>km0008a_l
+
+//OTHER
+<enZ0051>kimi_001855
+<ptZ0051>kimi_001855
+
+//OTHER
+<enZ0052>zaku_002700
+<ptZ0052>zaku_002700
+
+//OTHER
+<enZ0053>kimi_001856
+<ptZ0053>kimi_001856
+
+//OTHER
+<enZ0054>zaku_002701
+<ptZ0054>zaku_002701
+
+//OTHER
+<enZ0055>km0106a_l
+<ptZ0055>km0106a_l
+
+//OTHER
+<enZ0056>kimi_001857
+<ptZ0056>kimi_001857
+
+//OTHER
+<enZ0057>km0108a_l
+<ptZ0057>km0108a_l
+
+//OTHER
+<enZ0058>kimi_001858
+<ptZ0058>kimi_001858
+
+//OTHER
+<enZ0059>kimi_001859
+<ptZ0059>kimi_001859
+
+//OTHER
+<enZ0060>km0010
+<ptZ0060>km0010
+
+//OTHER
+<enZ0061>map001
+<ptZ0061>map001
+
+//OTHER
+<enZ0062>bg1007a
+<ptZ0062>bg1007a
+
+//OTHER
+<enZ0063>zaku_002702
+<ptZ0063>zaku_002702
+
+//OTHER
+<enZ0064>kimi_001860
+<ptZ0064>kimi_001860
+
+//OTHER
+<enZ0065>zaku_002703
+<ptZ0065>zaku_002703
+
+//OTHER
+<enZ0066>kimi_001861
+<ptZ0066>kimi_001861
+
+//OTHER
+<enZ0067>zaku_002704
+<ptZ0067>zaku_002704
+
+//OTHER
+<enZ0068>kimi_001862
+<ptZ0068>kimi_001862
+
+//OTHER
+<enZ0069>zaku_002705
+<ptZ0069>zaku_002705
+
+//OTHER
+<enZ0070>zaku_002706
+<ptZ0070>zaku_002706
+
+//OTHER
+<enZ0071>kimi_001863
+<ptZ0071>kimi_001863
+
+//OTHER
+<enZ0072>ev5014
+<ptZ0072>ev5014
+
+//OTHER
+<enZ0073>bgm016
+<ptZ0073>bgm016
+
+//OTHER
+<enZ0074>kimi_001864
+<ptZ0074>kimi_001864
+
+//OTHER
+<enZ0075>zaku_002707
+<ptZ0075>zaku_002707
+
+//OTHER
+<enZ0076>kimi_001865
+<ptZ0076>kimi_001865
+
+//OTHER
+<enZ0077>zaku_002708
+<ptZ0077>zaku_002708
+
+//OTHER
+<enZ0078>kimi_001866
+<ptZ0078>kimi_001866
+
+//OTHER
+<enZ0079>km0109a_l
+<ptZ0079>km0109a_l
+
+//OTHER
+<enZ0080>kimi_001867
+<ptZ0080>kimi_001867
+
+//OTHER
+<enZ0081>zaku_002709
+<ptZ0081>zaku_002709
+
+//OTHER
+<enZ0082>kimi_001868
+<ptZ0082>kimi_001868
+
+//OTHER
+<enZ0083>km0110a_l
+<ptZ0083>km0110a_l
+
+//OTHER
+<enZ0084>kimi_001869
+<ptZ0084>kimi_001869
+
+//OTHER
+<enZ0085>zaku_002710
+<ptZ0085>zaku_002710
+
+//OTHER
+<enZ0086>km0104a_l
+<ptZ0086>km0104a_l
+
+//OTHER
+<enZ0087>kimi_001870
+<ptZ0087>kimi_001870
+
+//OTHER
+<enZ0088>km0110_l
+<ptZ0088>km0110_l
+
+//OTHER
+<enZ0089>kimi_001871
+<ptZ0089>kimi_001871
+
+//OTHER
+<enZ0090>zaku_002711
+<ptZ0090>zaku_002711
+
+//OTHER
+<enZ0091>zaku_002712
+<ptZ0091>zaku_002712
+
+//OTHER
+<enZ0092>kimi_001872
+<ptZ0092>kimi_001872
+
+//OTHER
+<enZ0093>zaku_002713
+<ptZ0093>zaku_002713
+
+//OTHER
+<enZ0094>km0112_l
+<ptZ0094>km0112_l
+
+//OTHER
+<enZ0095>kimi_001873
+<ptZ0095>kimi_001873
+
+//OTHER
+<enZ0096>zaku_002714
+<ptZ0096>zaku_002714
+
+//OTHER
+<enZ0097>km0106_l
+<ptZ0097>km0106_l
+
+//OTHER
+<enZ0098>kimi_001874
+<ptZ0098>kimi_001874
+
+//OTHER
+<enZ0099>zaku_002715
+<ptZ0099>zaku_002715
+
+//OTHER
+<enZ0100>kimi_001875
+<ptZ0100>kimi_001875
+
+//OTHER
+<enZ0101>zaku_002716
+<ptZ0101>zaku_002716
+
+//OTHER
+<enZ0102>kimi_001876
+<ptZ0102>kimi_001876
+
+//OTHER
+<enZ0103>zaku_002717
+<ptZ0103>zaku_002717
+
+//OTHER
+<enZ0104>km0107a_l
+<ptZ0104>km0107a_l
+
+//OTHER
+<enZ0105>kimi_001877
+<ptZ0105>kimi_001877
+
+//OTHER
+<enZ0106>kimi_001878
+<ptZ0106>kimi_001878
+
+//OTHER
+<enZ0107>km0121a_l
+<ptZ0107>km0121a_l
+
+//OTHER
+<enZ0108>zaku_002718
+<ptZ0108>zaku_002718
+
+//OTHER
+<enZ0109>kimi_001879
+<ptZ0109>kimi_001879
+
+//OTHER
+<enZ0110>zaku_002719
+<ptZ0110>zaku_002719
+
+//OTHER
+<enZ0111>kimi_001880
+<ptZ0111>kimi_001880
+
+//OTHER
+<enZ0112>zaku_002720
+<ptZ0112>zaku_002720
+
+//OTHER
+<enZ0113>kimi_001881
+<ptZ0113>kimi_001881
+
+//OTHER
+<enZ0114>kimi_001882
+<ptZ0114>kimi_001882
+
+//OTHER
+<enZ0115>km0107a
+<ptZ0115>km0107a
+
+//OTHER
+<enZ0116>km0107
+<ptZ0116>km0107
+
+//OTHER
+<enZ0117>km0000b
+<ptZ0117>km0000b
+
+//OTHER
+<enZ0118>zaku_002721
+<ptZ0118>zaku_002721
+
+//OTHER
+<enZ0119>bg1035
+<ptZ0119>bg1035
+
+//OTHER
+<enZ0120>zaku_002722
+<ptZ0120>zaku_002722
+
+//OTHER
+<enZ0121>km0106
+<ptZ0121>km0106
+
+//OTHER
+<enZ0122>kimi_001883
+<ptZ0122>kimi_001883
+
+//OTHER
+<enZ0123>zaku_002723
+<ptZ0123>zaku_002723
+
+//OTHER
+<enZ0124>km0101a
+<ptZ0124>km0101a
+
+//OTHER
+<enZ0125>kimi_001884
+<ptZ0125>kimi_001884
+
+//OTHER
+<enZ0126>km0117a
+<ptZ0126>km0117a
+
+//OTHER
+<enZ0127>kimi_001885
+<ptZ0127>kimi_001885
+
+//OTHER
+<enZ0128>km0104a
+<ptZ0128>km0104a
+
+//OTHER
+<enZ0129>zaku_002724
+<ptZ0129>zaku_002724
+
+//OTHER
+<enZ0130>km0119a
+<ptZ0130>km0119a
+
+//OTHER
+<enZ0131>kimi_001886
+<ptZ0131>kimi_001886
+
+//OTHER
+<enZ0132>zaku_002725
+<ptZ0132>zaku_002725
+
+//OTHER
+<enZ0133>kimi_001887
+<ptZ0133>kimi_001887
+
+//OTHER
+<enZ0134>zaku_002726
+<ptZ0134>zaku_002726
+
+//OTHER
+<enZ0135>km0112
+<ptZ0135>km0112
+
+//OTHER
+<enZ0136>kimi_001888
+<ptZ0136>kimi_001888
+
+//OTHER
+<enZ0137>zaku_002727
+<ptZ0137>zaku_002727
+
+//OTHER
+<enZ0138>kimi_001889
+<ptZ0138>kimi_001889
+
+//OTHER
+<enZ0139>zaku_002728
+<ptZ0139>zaku_002728
+
+//OTHER
+<enZ0140>kimi_001890
+<ptZ0140>kimi_001890
+
+//OTHER
+<enZ0141>sp0008a
+<ptZ0141>sp0008a
+
+//OTHER
+<enZ0142>bg1015a
+<ptZ0142>bg1015a
+
+//OTHER
+<enZ0143>ay0000a
+<ptZ0143>ay0000a
+
+//OTHER
+<enZ0144>aya_000770
+<ptZ0144>aya_000770
+
+//OTHER
+<enZ0145>zaku_002729
+<ptZ0145>zaku_002729
+
+//OTHER
+<enZ0146>aya_000771
+<ptZ0146>aya_000771
+
+//OTHER
+<enZ0147>ay0001a
+<ptZ0147>ay0001a
+
+//OTHER
+<enZ0148>aya_000772
+<ptZ0148>aya_000772
+
+//OTHER
+<enZ0149>zaku_002730
+<ptZ0149>zaku_002730
+
+//OTHER
+<enZ0150>aya_000773
+<ptZ0150>aya_000773
+
+//OTHER
+<enZ0151>zaku_002731
+<ptZ0151>zaku_002731
+
+//OTHER
+<enZ0152>ay0000
+<ptZ0152>ay0000
+
+//OTHER
+<enZ0153>aya_000774
+<ptZ0153>aya_000774
+
+//OTHER
+<enZ0154>zaku_002732
+<ptZ0154>zaku_002732
+
+//OTHER
+<enZ0155>aya_000775
+<ptZ0155>aya_000775
+
+//OTHER
+<enZ0156>zaku_002733
+<ptZ0156>zaku_002733
+
+//OTHER
+<enZ0157>ay0002a
+<ptZ0157>ay0002a
+
+//OTHER
+<enZ0158>aya_000776
+<ptZ0158>aya_000776
+
+//OTHER
+<enZ0159>zaku_002734
+<ptZ0159>zaku_002734
+
+//OTHER
+<enZ0160>ay0002
+<ptZ0160>ay0002
+
+//OTHER
+<enZ0161>aya_000777
+<ptZ0161>aya_000777
+
+//OTHER
+<enZ0162>aya_000778
+<ptZ0162>aya_000778
+
+//OTHER
+<enZ0163>zaku_002735
+<ptZ0163>zaku_002735
+
+//OTHER
+<enZ0164>aya_000779
+<ptZ0164>aya_000779
+
+//OTHER
+<enZ0165>aya_000780
+<ptZ0165>aya_000780
+
+//OTHER
+<enZ0166>aya_000781
+<ptZ0166>aya_000781
+
+//OTHER
+<enZ0167>aya_000782
+<ptZ0167>aya_000782
+
+//OTHER
+<enZ0168>zaku_002736
+<ptZ0168>zaku_002736
+
+//OTHER
+<enZ0169>aya_000783
+<ptZ0169>aya_000783
+
+//OTHER
+<enZ0170>ay0003a
+<ptZ0170>ay0003a
+
+//OTHER
+<enZ0171>aya_000784
+<ptZ0171>aya_000784
+
+//OTHER
+<enZ0172>zaku_002737
+<ptZ0172>zaku_002737
+
+//OTHER
+<enZ0173>ay0008a
+<ptZ0173>ay0008a
+
+//OTHER
+<enZ0174>aya_000785
+<ptZ0174>aya_000785
+
+//OTHER
+<enZ0175>zaku_002738
+<ptZ0175>zaku_002738
+
+//OTHER
+<enZ0176>zaku_002739
+<ptZ0176>zaku_002739
+
+//OTHER
+<enZ0177>aya_000786
+<ptZ0177>aya_000786
+
+//OTHER
+<enZ0178>aya_000787
+<ptZ0178>aya_000787
+
+//OTHER
+<enZ0179>aya_000788
+<ptZ0179>aya_000788
+
+//OTHER
+<enZ0180>ay0011
+<ptZ0180>ay0011
+
+//OTHER
+<enZ0181>ay0011a
+<ptZ0181>ay0011a
+
+//OTHER
+<enZ0182>aya_000789
+<ptZ0182>aya_000789
+
+//OTHER
+<enZ0183>aya_000790
+<ptZ0183>aya_000790
+
+//OTHER
+<enZ0184>zaku_002740
+<ptZ0184>zaku_002740
+
+//OTHER
+<enZ0185>zaku_002741
+<ptZ0185>zaku_002741
+
+//OTHER
+<enZ0186>zaku_002742
+<ptZ0186>zaku_002742
+
+//OTHER
+<enZ0187>aya_000791
+<ptZ0187>aya_000791
+
+//OTHER
+<enZ0188>aya_000792
+<ptZ0188>aya_000792
+
+//OTHER
+<enZ0189>aya_000793
+<ptZ0189>aya_000793
+
+//OTHER
+<enZ0190>aya_000794
+<ptZ0190>aya_000794
+
+//OTHER
+<enZ0191>kimi_001891
+<ptZ0191>kimi_001891
+
+//OTHER
+<enZ0192>zaku_002743
+<ptZ0192>zaku_002743
+
+//OTHER
+<enZ0193>ev5015
+<ptZ0193>ev5015
+
+//OTHER
+<enZ0194>kimi_001892
+<ptZ0194>kimi_001892
+
+//OTHER
+<enZ0195>zaku_002744
+<ptZ0195>zaku_002744
+
+//OTHER
+<enZ0196>kimi_001893
+<ptZ0196>kimi_001893
+
+//OTHER
+<enZ0197>zaku_002745
+<ptZ0197>zaku_002745
+
+//OTHER
+<enZ0198>zaku_002746
+<ptZ0198>zaku_002746
+
+//OTHER
+<enZ0199>kimi_001894
+<ptZ0199>kimi_001894
+
+//OTHER
+<enZ0200>zaku_002747
+<ptZ0200>zaku_002747
+
+//OTHER
+<enZ0201>kimi_001895
+<ptZ0201>kimi_001895
+
+//OTHER
+<enZ0202>zaku_002748
+<ptZ0202>zaku_002748
+
+//OTHER
+<enZ0203>kimi_001896
+<ptZ0203>kimi_001896
+
+//OTHER
+<enZ0204>zaku_002749
+<ptZ0204>zaku_002749
+
+//OTHER
+<enZ0205>kimi_001897
+<ptZ0205>kimi_001897
+
+//OTHER
+<enZ0206>zaku_002750
+<ptZ0206>zaku_002750
+
+//OTHER
+<enZ0207>kimi_001898
+<ptZ0207>kimi_001898
+
+//OTHER
+<enZ0208>zaku_002751
+<ptZ0208>zaku_002751
+
+//OTHER
+<enZ0209>kimi_001899
+<ptZ0209>kimi_001899
+
+//OTHER
+<enZ0210>zaku_002752
+<ptZ0210>zaku_002752
+
+//OTHER
+<enZ0211>kimi_001900
+<ptZ0211>kimi_001900
+
+//OTHER
+<enZ0212>zaku_002753
+<ptZ0212>zaku_002753
+
+//OTHER
+<enZ0213>kimi_001901
+<ptZ0213>kimi_001901
+
+//OTHER
+<enZ0214>kimi_001902
+<ptZ0214>kimi_001902
+
+//OTHER
+<enZ0215>kimi_001903
+<ptZ0215>kimi_001903
+
+//OTHER
+<enZ0216>kimi_001904
+<ptZ0216>kimi_001904
+
+//OTHER
+<enZ0217>end3zk
+<ptZ0217>end3zk
+
+//OTHER
+<enZ0218>3_0799
+<ptZ0218>3_0799
+

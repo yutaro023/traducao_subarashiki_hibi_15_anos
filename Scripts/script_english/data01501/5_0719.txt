@@ -1,0 +1,976 @@
+//NAME
+<enN0001>Hasaki
+<ptN0001>Hasaki
+
+//NAME
+<enN0002>Ayana
+<ptN0002>Ayana
+
+//NAME
+<enN0003>Takuji
+<ptN0003>Takuji
+
+///================================================================================
+
+//TEXT
+<enT0001>The school bell rings even in the dead of night.
+<ptT0001>The school bell rings even in the dead of night.
+
+//TEXT
+<enT0002>The sound echoed in the darkness.
+<ptT0002>The sound echoed in the darkness.
+
+//TEXT
+<enT0003>I came back to Kita High without even thinking about it.
+<ptT0003>I came back to Kita High without even thinking about it.
+
+//TEXT
+<enT0004>The doll I held onto for so long was no longer with me.
+<ptT0004>The doll I held onto for so long was no longer with me.
+
+//TEXT
+<enT0005>It was the first time in such a long time... that I had to stand alone, on my own two feet.
+<ptT0005>It was the first time in such a long time... that I had to stand alone, on my own two feet.
+
+//TEXT
+<enT0006>With nothing to support me, all I had was...
+<ptT0006>With nothing to support me, all I had was...
+
+//TEXT 【Hasaki】
+<enT0007>"Tomo Nii-san..."
+<ptT0007>"Tomo Nii-san..."
+
+//TEXT
+<enT0008>I should've just died back then.
+<ptT0008>I should've just died back then.
+
+//TEXT
+<enT0009>All this happened because I didn't die all those years ago.
+<ptT0009>All this happened because I didn't die all those years ago.
+
+//TEXT
+<enT0010>It was Takuji Nii-san's hateful spirit that possessed Tomo Nii-san.
+<ptT0010>It was Takuji Nii-san's hateful spirit that possessed Tomo Nii-san.
+
+//TEXT
+<enT0011>It was a curse.
+<ptT0011>It was a curse.
+
+//TEXT
+<enT0012>It made perfect sense.
+<ptT0012>It made perfect sense.
+
+//TEXT
+<enT0013>It wasn't a mental illness.
+<ptT0013>It wasn't a mental illness.
+
+//TEXT
+<enT0014>It was a curse.
+<ptT0014>It was a curse.
+
+//TEXT
+<enT0015>A curse that he cast on all of us who survived that day.
+<ptT0015>A curse that he cast on all of us who survived that day.
+
+//TEXT
+<enT0016>Maybe Takuji Nii-san wasn't the only one cursing us. Maybe Yuki-san cursed us when she died as well.
+<ptT0016>Maybe Takuji Nii-san wasn't the only one cursing us. Maybe Yuki-san cursed us when she died as well.
+
+//TEXT
+<enT0017>That's why all this happened.
+<ptT0017>That's why all this happened.
+
+//TEXT
+<enT0018>Nii-san stabbed himself in the chest.
+<ptT0018>Nii-san stabbed himself in the chest.
+
+//TEXT
+<enT0019>He destroyed the other half of my self.
+<ptT0019>He destroyed the other half of my self.
+
+//TEXT
+<enT0020>And now, he wanted to return so many more people back to the sky.
+<ptT0020>And now, he wanted to return so many more people back to the sky.
+
+//TEXT
+<enT0021>The day when everyone must return to the sky.
+<ptT0021>The day when everyone must return to the sky.
+
+//TEXT
+<enT0022>The day when he'll return their souls to the sky.
+<ptT0022>The day when he'll return their souls to the sky.
+
+//TEXT
+<enT0023>And what Takuji Nii-san did to me that day...
+<ptT0023>And what Takuji Nii-san did to me that day...
+
+//TEXT
+<enT0024>His actions, in killing Yuki-san...
+<ptT0024>His actions, in killing Yuki-san...
+
+//TEXT
+<enT0025>That's exactly what he was trying to do again.
+<ptT0025>That's exactly what he was trying to do again.
+
+//TEXT
+<enT0026>And this time, he wanted to take far more people with him.
+<ptT0026>And this time, he wanted to take far more people with him.
+
+//TEXT 【Hasaki】
+<enT0027>"Nii-san..."
+<ptT0027>"Nii-san..."
+
+//TEXT
+<enT0028>"Hello."
+<ptT0028>"Hello."
+
+//TEXT 【Hasaki】
+<enT0029>"Huh?"
+<ptT0029>"Huh?"
+
+//TEXT
+<enT0030>I heard a voice from somewhere.
+<ptT0030>I heard a voice from somewhere.
+
+//TEXT
+<enT0031>"Over here."
+<ptT0031>"Over here."
+
+//TEXT 【Hasaki】
+<enT0032>"Huh? Wh-Where?"
+<ptT0032>"Huh? Wh-Where?"
+
+//TEXT
+<enT0033>"It's not a place. I'm trying to tune in."
+<ptT0033>"It's not a place. I'm trying to tune in."
+
+//TEXT 【Hasaki】
+<enT0034>"Tune in?"
+<ptT0034>"Tune in?"
+
+//TEXT
+<enT0035>"That's right. The Mamiya family has practiced Shinto since ancient times. You have the ability to match your mind to the frequency of another. And your mother's Sanami blood is nearly the same."
+<ptT0035>"That's right. The Mamiya family has practiced Shinto since ancient times. You have the ability to match your mind to the frequency of another. And your mother's Sanami blood is nearly the same."
+
+//TEXT
+<enT0036>"So just take your time and match your frequency to mine."
+<ptT0036>"So just take your time and match your frequency to mine."
+
+//TEXT 【Hasaki】
+<enT0037>"Ah..."
+<ptT0037>"Ah..."
+
+//TEXT
+<enT0038>"See? I'm right here."
+<ptT0038>"See? I'm right here."
+
+//TEXT 【Hasaki】
+<enT0039>"Who... are you?"
+<ptT0039>"Who... are you?"
+
+//TEXT 【Ayana】
+<enT0040>"I am Ayana. You are Mamiya Hasaki-san."
+<ptT0040>"I am Ayana. You are Mamiya Hasaki-san."
+
+//TEXT 【Hasaki】
+<enT0041>"Y-Yes..."
+<ptT0041>"Y-Yes..."
+
+//TEXT
+<enT0042>Who is this? I'd never met her before.
+<ptT0042>Who is this? I'd never met her before.
+
+//TEXT
+<enT0043>Is she a student at this school? She was wearing the uniform, but...
+<ptT0043>Is she a student at this school? She was wearing the uniform, but...
+
+//TEXT 【Hasaki】
+<enT0044>"Who are you?"
+<ptT0044>"Who are you?"
+
+//TEXT 【Ayana】
+<enT0045>"I told you, I am Ayana."
+<ptT0045>"I told you, I am Ayana."
+
+//TEXT 【Hasaki】
+<enT0046>"Are you human?"
+<ptT0046>"Are you human?"
+
+//TEXT 【Ayana】
+<enT0047>"What if I'm not?"
+<ptT0047>"What if I'm not?"
+
+//TEXT 【Hasaki】
+<enT0048>"I don't know."
+<ptT0048>"I don't know."
+
+//TEXT 【Ayana】
+<enT0049>"Hehe."
+<ptT0049>"Hehe."
+
+//TEXT 【Ayana】
+<enT0050>"We're about to go see."
+<ptT0050>"We're about to go see."
+
+//TEXT 【Hasaki】
+<enT0051>"See what?"
+<ptT0051>"See what?"
+
+//TEXT 【Ayana】
+<enT0052>"The End Sky."
+<ptT0052>"The End Sky."
+
+//TEXT 【Hasaki】
+<enT0053>"End sky?"
+<ptT0053>"End sky?"
+
+//TEXT 【Ayana】
+<enT0054>"Yes."
+<ptT0054>"Yes."
+
+//TEXT 【Hasaki】
+<enT0055>"The sky in my mother's prophecies?"
+<ptT0055>"The sky in my mother's prophecies?"
+
+//TEXT 【Ayana】
+<enT0056>"Yes. The sky that your mother fell madly in love with."
+<ptT0056>"Yes. The sky that your mother fell madly in love with."
+
+//TEXT 【Ayana】
+<enT0057>"This world's critical point."
+<ptT0057>"This world's critical point."
+
+//TEXT 【Ayana】
+<enT0058>"The point which allows the soul to repeat as many times as it wishes."
+<ptT0058>"The point which allows the soul to repeat as many times as it wishes."
+
+//TEXT 【Ayana】
+<enT0059>"Until you find the exit, you will repeat it over and over."
+<ptT0059>"Until you find the exit, you will repeat it over and over."
+
+//TEXT 【Hasaki】
+<enT0060>"Repeat? I don't know what you mean, but I've never heard of that kind of sky before now."
+<ptT0060>"Repeat? I don't know what you mean, but I've never heard of that kind of sky before now."
+
+//TEXT 【Ayana】
+<enT0061>"Before now? Where is your 'now'?"
+<ptT0061>"Before now? Where is your 'now'?"
+
+//TEXT 【Hasaki】
+<enT0062>"That's not what I'm talking about."
+<ptT0062>"That's not what I'm talking about."
+
+//TEXT 【Ayana】
+<enT0063>"So then, will you look at what comes after this?"
+<ptT0063>"So then, will you look at what comes after this?"
+
+//TEXT 【Hasaki】
+<enT0064>"After this?"
+<ptT0064>"After this?"
+
+//TEXT 【Ayana】
+<enT0065>"Yes. After the End Sky."
+<ptT0065>"Yes. After the End Sky."
+
+//TEXT 【Hasaki】
+<enT0066>"After the End Sky?"
+<ptT0066>"After the End Sky?"
+
+//TEXT 【Ayana】
+<enT0067>"The point where the soul ceases to be reborn."
+<ptT0067>"The point where the soul ceases to be reborn."
+
+//TEXT 【Hasaki】
+<enT0068>"What... is that?"
+<ptT0068>"What... is that?"
+
+//TEXT 【Ayana】
+<enT0069>"The sky beyond that point. Can you see it, Hasaki-chan?"
+<ptT0069>"The sky beyond that point. Can you see it, Hasaki-chan?"
+
+//TEXT 【Hasaki】
+<enT0070>"I'm asking you, what is that? What is there beyond that sky?!"
+<ptT0070>"I'm asking you, what is that? What is there beyond that sky?!"
+
+//TEXT 【Ayana】
+<enT0071>"Hehehehe... The cyclical rebirth of the soul. The endless, winding corridor. The mental construct of time."
+<ptT0071>"Hehehehe... The cyclical rebirth of the soul. The endless, winding corridor. The mental construct of time."
+
+//TEXT 【Ayana】
+<enT0072>"It is what lies beyond the armillary sphere. It is what lies behind the shadows cast on the cave wall."
+<ptT0072>"It is what lies beyond the armillary sphere. It is what lies behind the shadows cast on the cave wall."
+
+//TEXT 【Ayana】
+<enT0073>"I am the gate."
+<ptT0073>"I am the gate."
+
+//TEXT 【Ayana】
+<enT0074>"The key and the gate."
+<ptT0074>"The key and the gate."
+
+//TEXT 【Ayana】
+<enT0075>"All-in-One and One-in-All of limitless being and self."
+<ptT0075>"All-in-One and One-in-All of limitless being and self."
+
+//TEXT 【Ayana】
+<enT0076>"The outer manifestation of the Primal Chaos."
+<ptT0076>"The outer manifestation of the Primal Chaos."
+
+//TEXT 【Ayana】
+<enT0077>"The lurker at the threshold."
+<ptT0077>"The lurker at the threshold."
+
+//TEXT 【Hasaki】
+<enT0078>"You are..."
+<ptT0078>"You are..."
+
+//TEXT 【Ayana】
+<enT0079>"Otonashi Ayana."
+<ptT0079>"Otonashi Ayana."
+
+//TEXT 【Ayana】
+<enT0080>"Even if no one has given it shape, anyone can understand it. Everyone already knows it."
+<ptT0080>"Even if no one has given it shape, anyone can understand it. Everyone already knows it."
+
+//TEXT 【Ayana】
+<enT0081>"Even if such a scene has never appeared in this world, such a scene should not frighten you."
+<ptT0081>"Even if such a scene has never appeared in this world, such a scene should not frighten you."
+
+//TEXT 【Ayana】
+<enT0082>"It's a very common world."
+<ptT0082>"It's a very common world."
+
+//TEXT 【Hasaki】
+<enT0083>"A common world?"
+<ptT0083>"A common world?"
+
+//TEXT 【Ayana】
+<enT0084>"Yes, beyond the bounds of this world, there is another, very common world."
+<ptT0084>"Yes, beyond the bounds of this world, there is another, very common world."
+
+//TEXT 【Hasaki】
+<enT0085>"What is that?"
+<ptT0085>"What is that?"
+
+//TEXT 【Ayana】
+<enT0086>"The Wonderful Everyday."
+<ptT0086>"The Wonderful Everyday."
+
+//TEXT 【Hasaki】
+<enT0087>"The Wonderful Everyday?"
+<ptT0087>"The Wonderful Everyday?"
+
+//TEXT 【Ayana】
+<enT0088>"Yes, sub specie aeternitatis."
+<ptT0088>"Yes, sub specie aeternitatis."
+
+//TEXT 【Hasaki】
+<enT0089>"Will I look at... what lies beyond this sky?"
+<ptT0089>"Will I look at... what lies beyond this sky?"
+
+//TEXT 【Hasaki】
+<enT0090>"I..."
+<ptT0090>"I..."
+
+//TEXT
+<enT0091>I walked forward.
+<ptT0091>I walked forward.
+
+//TEXT
+<enT0092>I took one step forward.
+<ptT0092>I took one step forward.
+
+//TEXT
+<enT0093>Alone.
+<ptT0093>Alone.
+
+//TEXT 【Hasaki】
+<enT0094>"There isn't anyone with me."
+<ptT0094>"There isn't anyone with me."
+
+//TEXT 【Ayana】
+<enT0095>"There isn't anyone here."
+<ptT0095>"There isn't anyone here."
+
+//TEXT 【Ayana】
+<enT0096>"Because the sky isn't anywhere down here."
+<ptT0096>"Because the sky isn't anywhere down here."
+
+//TEXT
+<enT0097>I couldn't see her anymore.
+<ptT0097>I couldn't see her anymore.
+
+//TEXT
+<enT0098>I could only hear her voice.
+<ptT0098>I could only hear her voice.
+
+//TEXT 【Hasaki】
+<enT0099>"This place isn't the sky..."
+<ptT0099>"This place isn't the sky..."
+
+//TEXT 【Ayana】
+<enT0100>"There is only one road that leads to the last sky."
+<ptT0100>"There is only one road that leads to the last sky."
+
+//TEXT 【Ayana】
+<enT0101>"There is only one road that leads out of this ark."
+<ptT0101>"There is only one road that leads out of this ark."
+
+//TEXT 【Ayana】
+<enT0102>"That road is much longer than the hill which you, as a child, could never climb. It reaches to heaven itself."
+<ptT0102>"That road is much longer than the hill which you, as a child, could never climb. It reaches to heaven itself."
+
+//TEXT 【Hasaki】
+<enT0103>"Who are you?!"
+<ptT0103>"Who are you?!"
+
+//TEXT 【Ayana】
+<enT0104>"I am Otonashi Ayana. Nothing more or less."
+<ptT0104>"I am Otonashi Ayana. Nothing more or less."
+
+//TEXT 【Hasaki】
+<enT0105>"Do you mean... that steel ladder?"
+<ptT0105>"Do you mean... that steel ladder?"
+
+//TEXT
+<enT0106>...
+<ptT0106>...
+
+//TEXT
+<enT0107>The ladder stretched endlessly upward.
+<ptT0107>The ladder stretched endlessly upward.
+
+//TEXT
+<enT0108>It was like a mirage, seen by a traveler wandering silently through the desert of eternity.
+<ptT0108>It was like a mirage, seen by a traveler wandering silently through the desert of eternity.
+
+//TEXT 【Hasaki】
+<enT0109>"..."
+<ptT0109>"..."
+
+//TEXT 【Hasaki】
+<enT0110>"The wind..."
+<ptT0110>"The wind..."
+
+//TEXT
+<enT0111>I heard the wind in the distance.
+<ptT0111>I heard the wind in the distance.
+
+//TEXT
+<enT0112>In the distance, far, far ahead of me.
+<ptT0112>In the distance, far, far ahead of me.
+
+//TEXT
+<enT0113>From far up the ladder, I heard the sound of the wind.
+<ptT0113>From far up the ladder, I heard the sound of the wind.
+
+//TEXT
+<enT0114>The sound of the wind, which was so far off, gradually grew louder and louder.
+<ptT0114>The sound of the wind, which was so far off, gradually grew louder and louder.
+
+//TEXT
+<enT0115>The sound of the wind.
+<ptT0115>The sound of the wind.
+
+//TEXT 【Hasaki】
+<enT0116>"..."
+<ptT0116>"..."
+
+//TEXT 【Takuji】
+<enT0117>"It's time."
+<ptT0117>"It's time."
+
+//TEXT 【Takuji】
+<enT0118>"It looks like you want to stay in this time forever, Hasaki."
+<ptT0118>"It looks like you want to stay in this time forever, Hasaki."
+
+//TEXT 【Takuji】
+<enT0119>"I will go ahead, even in this world of endless rebirth."
+<ptT0119>"I will go ahead, even in this world of endless rebirth."
+
+//TEXT 【Takuji】
+<enT0120>"My soul will come to reside in another body."
+<ptT0120>"My soul will come to reside in another body."
+
+//TEXT
+<enT0121>Nii-san's body floated up into the air.
+<ptT0121>Nii-san's body floated up into the air.
+
+//TEXT
+<enT0122>I silently flew after him.
+<ptT0122>I silently flew after him.
+
+//TEXT
+<enT0123>Oh... Now I understand.
+<ptT0123>Oh... Now I understand.
+
+//TEXT
+<enT0124>This must be how Yuki-san felt.
+<ptT0124>This must be how Yuki-san felt.
+
+//TEXT
+<enT0125>There was no logic involved.
+<ptT0125>There was no logic involved.
+
+//TEXT
+<enT0126>The only thing that mattered was that someone I loved was about to plunge into the sky.
+<ptT0126>The only thing that mattered was that someone I loved was about to plunge into the sky.
+
+//TEXT
+<enT0127>I tried to grab onto him.
+<ptT0127>I tried to grab onto him.
+
+//TEXT
+<enT0128>I tried to―
+<ptT0128>I tried to―
+
+///================================================================================
+
+//OTHER
+<enZ0001>5_0719.bss
+<ptZ0001>5_0719.bss
+
+//OTHER
+<enZ0002>July 19th
+<ptZ0002>July 19th
+
+//OTHER
+<enZ0003>Which Dreamed It
+<ptZ0003>Which Dreamed It
+
+//OTHER
+<enZ0004>map023
+<ptZ0004>map023
+
+//OTHER
+<enZ0005>dayhs0719
+<ptZ0005>dayhs0719
+
+//OTHER
+<enZ0006>se022
+<ptZ0006>se022
+
+//OTHER
+<enZ0007>bg1008e
+<ptZ0007>bg1008e
+
+//OTHER
+<enZ0008>bgm114
+<ptZ0008>bgm114
+
+//OTHER
+<enZ0009>hasa_001241
+<ptZ0009>hasa_001241
+
+//OTHER
+<enZ0010>hasa_001242
+<ptZ0010>hasa_001242
+
+//OTHER
+<enZ0011>aya_000937
+<ptZ0011>aya_000937
+
+//OTHER
+<enZ0012>hasa_001243
+<ptZ0012>hasa_001243
+
+//OTHER
+<enZ0013>bgm019
+<ptZ0013>bgm019
+
+//OTHER
+<enZ0014>aya_000938
+<ptZ0014>aya_000938
+
+//OTHER
+<enZ0015>hasa_001244
+<ptZ0015>hasa_001244
+
+//OTHER
+<enZ0016>aya_000939
+<ptZ0016>aya_000939
+
+//OTHER
+<enZ0017>hasa_001245
+<ptZ0017>hasa_001245
+
+//OTHER
+<enZ0018>aya_000940
+<ptZ0018>aya_000940
+
+//OTHER
+<enZ0019>aya_000941
+<ptZ0019>aya_000941
+
+//OTHER
+<enZ0020>hasa_001246
+<ptZ0020>hasa_001246
+
+//OTHER
+<enZ0021>ay0000a
+<ptZ0021>ay0000a
+
+//OTHER
+<enZ0022>aya_000942
+<ptZ0022>aya_000942
+
+//OTHER
+<enZ0023>hasa_001247
+<ptZ0023>hasa_001247
+
+//OTHER
+<enZ0024>aya_000943
+<ptZ0024>aya_000943
+
+//OTHER
+<enZ0025>hasa_001248
+<ptZ0025>hasa_001248
+
+//OTHER
+<enZ0026>hasa_001249
+<ptZ0026>hasa_001249
+
+//OTHER
+<enZ0027>aya_000944
+<ptZ0027>aya_000944
+
+//OTHER
+<enZ0028>hasa_001250
+<ptZ0028>hasa_001250
+
+//OTHER
+<enZ0029>aya_000945
+<ptZ0029>aya_000945
+
+//OTHER
+<enZ0030>hasa_001251
+<ptZ0030>hasa_001251
+
+//OTHER
+<enZ0031>ay0002a
+<ptZ0031>ay0002a
+
+//OTHER
+<enZ0032>aya_000946
+<ptZ0032>aya_000946
+
+//OTHER
+<enZ0033>ay0003a
+<ptZ0033>ay0003a
+
+//OTHER
+<enZ0034>aya_000947
+<ptZ0034>aya_000947
+
+//OTHER
+<enZ0035>hasa_001252
+<ptZ0035>hasa_001252
+
+//OTHER
+<enZ0036>ay0005a
+<ptZ0036>ay0005a
+
+//OTHER
+<enZ0037>aya_000948
+<ptZ0037>aya_000948
+
+//OTHER
+<enZ0038>hasa_001253
+<ptZ0038>hasa_001253
+
+//OTHER
+<enZ0039>aya_000949
+<ptZ0039>aya_000949
+
+//OTHER
+<enZ0040>hasa_001254
+<ptZ0040>hasa_001254
+
+//OTHER
+<enZ0041>ay0001a
+<ptZ0041>ay0001a
+
+//OTHER
+<enZ0042>aya_000950
+<ptZ0042>aya_000950
+
+//OTHER
+<enZ0043>ay0011a
+<ptZ0043>ay0011a
+
+//OTHER
+<enZ0044>aya_000951
+<ptZ0044>aya_000951
+
+//OTHER
+<enZ0045>aya_000952
+<ptZ0045>aya_000952
+
+//OTHER
+<enZ0046>ay0012a
+<ptZ0046>ay0012a
+
+//OTHER
+<enZ0047>aya_000953
+<ptZ0047>aya_000953
+
+//OTHER
+<enZ0048>hasa_001255
+<ptZ0048>hasa_001255
+
+//OTHER
+<enZ0049>ay0011
+<ptZ0049>ay0011
+
+//OTHER
+<enZ0050>aya_000954
+<ptZ0050>aya_000954
+
+//OTHER
+<enZ0051>hasa_001256
+<ptZ0051>hasa_001256
+
+//OTHER
+<enZ0052>aya_000955
+<ptZ0052>aya_000955
+
+//OTHER
+<enZ0053>hasa_001257
+<ptZ0053>hasa_001257
+
+//OTHER
+<enZ0054>ay0002
+<ptZ0054>ay0002
+
+//OTHER
+<enZ0055>aya_000956
+<ptZ0055>aya_000956
+
+//OTHER
+<enZ0056>hasa_001258
+<ptZ0056>hasa_001258
+
+//OTHER
+<enZ0057>aya_000957
+<ptZ0057>aya_000957
+
+//OTHER
+<enZ0058>hasa_001259
+<ptZ0058>hasa_001259
+
+//OTHER
+<enZ0059>aya_000958
+<ptZ0059>aya_000958
+
+//OTHER
+<enZ0060>hasa_001260
+<ptZ0060>hasa_001260
+
+//OTHER
+<enZ0061>aya_000959
+<ptZ0061>aya_000959
+
+//OTHER
+<enZ0062>aya_000960
+<ptZ0062>aya_000960
+
+//OTHER
+<enZ0063>aya_000961
+<ptZ0063>aya_000961
+
+//OTHER
+<enZ0064>aya_000962
+<ptZ0064>aya_000962
+
+//OTHER
+<enZ0065>aya_000963
+<ptZ0065>aya_000963
+
+//OTHER
+<enZ0066>aya_000964
+<ptZ0066>aya_000964
+
+//OTHER
+<enZ0067>aya_000965
+<ptZ0067>aya_000965
+
+//OTHER
+<enZ0068>hasa_001261
+<ptZ0068>hasa_001261
+
+//OTHER
+<enZ0069>aya_000966
+<ptZ0069>aya_000966
+
+//OTHER
+<enZ0070>aya_000967
+<ptZ0070>aya_000967
+
+//OTHER
+<enZ0071>aya_000968
+<ptZ0071>aya_000968
+
+//OTHER
+<enZ0072>aya_000969
+<ptZ0072>aya_000969
+
+//OTHER
+<enZ0073>hasa_001262
+<ptZ0073>hasa_001262
+
+//OTHER
+<enZ0074>aya_000970
+<ptZ0074>aya_000970
+
+//OTHER
+<enZ0075>hasa_001263
+<ptZ0075>hasa_001263
+
+//OTHER
+<enZ0076>aya_000971
+<ptZ0076>aya_000971
+
+//OTHER
+<enZ0077>hasa_001264
+<ptZ0077>hasa_001264
+
+//OTHER
+<enZ0078>aya_000972
+<ptZ0078>aya_000972
+
+//OTHER
+<enZ0079>hasa_001264a
+<ptZ0079>hasa_001264a
+
+//OTHER
+<enZ0080>hasa_001265
+<ptZ0080>hasa_001265
+
+//OTHER
+<enZ0081>bg1021c
+<ptZ0081>bg1021c
+
+//OTHER
+<enZ0082>se243
+<ptZ0082>se243
+
+//OTHER
+<enZ0083>bg1022b
+<ptZ0083>bg1022b
+
+//OTHER
+<enZ0084>bg1023a
+<ptZ0084>bg1023a
+
+//OTHER
+<enZ0085>bg1025a
+<ptZ0085>bg1025a
+
+//OTHER
+<enZ0086>hasa_001266
+<ptZ0086>hasa_001266
+
+//OTHER
+<enZ0087>aya_000974
+<ptZ0087>aya_000974
+
+//OTHER
+<enZ0088>aya_000975
+<ptZ0088>aya_000975
+
+//OTHER
+<enZ0089>hasa_001267
+<ptZ0089>hasa_001267
+
+//OTHER
+<enZ0090>aya_000976
+<ptZ0090>aya_000976
+
+//OTHER
+<enZ0091>aya_000977
+<ptZ0091>aya_000977
+
+//OTHER
+<enZ0092>aya_000978
+<ptZ0092>aya_000978
+
+//OTHER
+<enZ0093>hasa_001268
+<ptZ0093>hasa_001268
+
+//OTHER
+<enZ0094>aya_000979
+<ptZ0094>aya_000979
+
+//OTHER
+<enZ0095>hasa_001269
+<ptZ0095>hasa_001269
+
+//OTHER
+<enZ0096>se236
+<ptZ0096>se236
+
+//OTHER
+<enZ0097>ladder
+<ptZ0097>ladder
+
+//OTHER
+<enZ0098>se057c
+<ptZ0098>se057c
+
+//OTHER
+<enZ0099>hasa_001270
+<ptZ0099>hasa_001270
+
+//OTHER
+<enZ0100>hasa_001271
+<ptZ0100>hasa_001271
+
+//OTHER
+<enZ0101>bgm101
+<ptZ0101>bgm101
+
+//OTHER
+<enZ0102>white
+<ptZ0102>white
+
+//OTHER
+<enZ0103>se323
+<ptZ0103>se323
+
+//OTHER
+<enZ0104>hasa_001272
+<ptZ0104>hasa_001272
+
+//OTHER
+<enZ0105>sp0093a
+<ptZ0105>sp0093a
+
+//OTHER
+<enZ0106>sp0093b
+<ptZ0106>sp0093b
+
+//OTHER
+<enZ0107>taku_005471
+<ptZ0107>taku_005471
+
+//OTHER
+<enZ0108>taku_005472
+<ptZ0108>taku_005472
+
+//OTHER
+<enZ0109>taku_005473_a
+<ptZ0109>taku_005473_a
+
+//OTHER
+<enZ0110>taku_005474
+<ptZ0110>taku_005474
+
+//OTHER
+<enZ0111>map022
+<ptZ0111>map022
+
+//OTHER
+<enZ0112>end5true
+<ptZ0112>end5true
+

@@ -1,0 +1,1444 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Yuki
+<ptN0002>Yuki
+
+//NAME
+<enN0003>Minakami
+<ptN0003>Minakami
+
+//NAME
+<enN0004>Hasaki
+<ptN0004>Hasaki
+
+///================================================================================
+
+//TEXT
+<enT0001>I finished the Tamagushi offering, a ritual offering performed during the overnight vigil in the Shinto tradition.
+<ptT0001>I finished the Tamagushi offering, a ritual offering performed during the overnight vigil in the Shinto tradition.
+
+//TEXT
+<enT0002>Then I noticed for the first time that Hasaki wasn't there.
+<ptT0002>Then I noticed for the first time that Hasaki wasn't there.
+
+//TEXT 【Tomosane】
+<enT0003>"Hey, Yuki-nee?"
+<ptT0003>"Hey, Yuki-nee?"
+
+//TEXT 【Yuki】
+<enT0004>"Hm? What's up?"
+<ptT0004>"Hm? What's up?"
+
+//TEXT 【Tomosane】
+<enT0005>"Have you seen Hasaki?"
+<ptT0005>"Have you seen Hasaki?"
+
+//TEXT 【Yuki】
+<enT0006>"Huh? Wasn't she with you?"
+<ptT0006>"Huh? Wasn't she with you?"
+
+//TEXT 【Tomosane】
+<enT0007>"I'm pretty sure she was here, but after I offered the Tamagushi, she was gone."
+<ptT0007>"I'm pretty sure she was here, but after I offered the Tamagushi, she was gone."
+
+//TEXT 【Yuki】
+<enT0008>"Maybe she's in the bathroom?"
+<ptT0008>"Maybe she's in the bathroom?"
+
+//TEXT 【Tomosane】
+<enT0009>"I already checked the bathroom in the house, but she wasn't there."
+<ptT0009>"I already checked the bathroom in the house, but she wasn't there."
+
+//TEXT 【Yuki】
+<enT0010>"Where the heck is she?"
+<ptT0010>"Where the heck is she?"
+
+//TEXT
+<enT0011>Yuki-nee quickly ran off to search around the house.
+<ptT0011>Yuki-nee quickly ran off to search around the house.
+
+//TEXT
+<enT0012>I searched the area around the house too, looking in every place I could think of.
+<ptT0012>I searched the area around the house too, looking in every place I could think of.
+
+//TEXT 【Yuki】
+<enT0013>"Find her?"
+<ptT0013>"Find her?"
+
+//TEXT 【Tomosane】
+<enT0014>"No, I didn't. I asked some other people too."
+<ptT0014>"No, I didn't. I asked some other people too."
+
+//TEXT 【Minakami】
+<enT0015>"Tomosane, did you say Hasaki-chan is gone?"
+<ptT0015>"Tomosane, did you say Hasaki-chan is gone?"
+
+//TEXT 【Tomosane】
+<enT0016>"Master! Um, she's not in the house. I even checked the cupboards and drawers."
+<ptT0016>"Master! Um, she's not in the house. I even checked the cupboards and drawers."
+
+//TEXT 【Yuki】
+<enT0017>"We searched around the house too, but she's not around here."
+<ptT0017>"We searched around the house too, but she's not around here."
+
+//TEXT 【Minakami】
+<enT0018>"Why would she run off at this time?"
+<ptT0018>"Why would she run off at this time?"
+
+//TEXT 【Tomosane】
+<enT0019>"I don't know. I think she was here before I offered the Tamagushi, but then when I turned around she was gone."
+<ptT0019>"I don't know. I think she was here before I offered the Tamagushi, but then when I turned around she was gone."
+
+//TEXT 【Yuki】
+<enT0020>"Anyway, can you get some of the students to help us look for her?"
+<ptT0020>"Anyway, can you get some of the students to help us look for her?"
+
+//TEXT 【Minakami】
+<enT0021>"Sure, of course. I'll go ask everyone that isn't busy."
+<ptT0021>"Sure, of course. I'll go ask everyone that isn't busy."
+
+//TEXT 【Yuki】
+<enT0022>"Let's go, Tomosane. We should go look by the water."
+<ptT0022>"Let's go, Tomosane. We should go look by the water."
+
+//TEXT 【Tomosane】
+<enT0023>"The water?"
+<ptT0023>"The water?"
+
+//TEXT 【Yuki】
+<enT0024>"That's the most dangerous place. We wouldn't want her to hurt herself!"
+<ptT0024>"That's the most dangerous place. We wouldn't want her to hurt herself!"
+
+//TEXT 【Minakami】
+<enT0025>"I'll go look over by the beach."
+<ptT0025>"I'll go look over by the beach."
+
+//TEXT 【Yuki】
+<enT0026>"At her age, I don't think she could really get all the way out to the beach, so we don't have to worry about that."
+<ptT0026>"At her age, I don't think she could really get all the way out to the beach, so we don't have to worry about that."
+
+//TEXT 【Yuki】
+<enT0027>"All right, Tomosane and I will go look by the irrigation ditches."
+<ptT0027>"All right, Tomosane and I will go look by the irrigation ditches."
+
+//TEXT 【Minakami】
+<enT0028>"I'll leave it up to you."
+<ptT0028>"I'll leave it up to you."
+
+//TEXT 【Yuki】
+<enT0029>"Haa, haa, she's not over by the ditch... I'm pretty sure."
+<ptT0029>"Haa, haa, she's not over by the ditch... I'm pretty sure."
+
+//TEXT 【Yuki】
+<enT0030>"There was a pond out there, right?"
+<ptT0030>"There was a pond out there, right?"
+
+//TEXT 【Tomosane】
+<enT0031>"..."
+<ptT0031>"..."
+
+//TEXT 【Yuki】
+<enT0032>"What's wrong, Tomosane?"
+<ptT0032>"What's wrong, Tomosane?"
+
+//TEXT 【Tomosane】
+<enT0033>"Oh, it's just... I think Hasaki said something weird earlier."
+<ptT0033>"Oh, it's just... I think Hasaki said something weird earlier."
+
+//TEXT 【Yuki】
+<enT0034>"Something weird?"
+<ptT0034>"Something weird?"
+
+//TEXT 【Tomosane】
+<enT0035>"Uh, there's a road behind the school, right?"
+<ptT0035>"Uh, there's a road behind the school, right?"
+
+//TEXT 【Yuki】
+<enT0036>"Yeah, there is."
+<ptT0036>"Yeah, there is."
+
+//TEXT 【Tomosane】
+<enT0037>"She asked what was down that road."
+<ptT0037>"She asked what was down that road."
+
+//TEXT 【Yuki】
+<enT0038>"On the other side of the hill?"
+<ptT0038>"On the other side of the hill?"
+
+//TEXT 【Tomosane】
+<enT0039>"There's a field of sunflowers on the hill. It would be pretty hard for Hasaki to get out there on foot."
+<ptT0039>"There's a field of sunflowers on the hill. It would be pretty hard for Hasaki to get out there on foot."
+
+//TEXT 【Tomosane】
+<enT0040>"But Hasaki was always asking what was out there on the other side of the sunflowers."
+<ptT0040>"But Hasaki was always asking what was out there on the other side of the sunflowers."
+
+//TEXT 【Tomosane】
+<enT0041>"She liked to imagine that there was something out there."
+<ptT0041>"She liked to imagine that there was something out there."
+
+//TEXT 【Yuki】
+<enT0042>"Out there? It's just the mountain wilderness, isn't it?"
+<ptT0042>"Out there? It's just the mountain wilderness, isn't it?"
+
+//TEXT 【Tomosane】
+<enT0043>"Yeah, that's why she might be in trouble. It's getting late."
+<ptT0043>"Yeah, that's why she might be in trouble. It's getting late."
+
+//TEXT 【Yuki】
+<enT0044>"Tomosane, we need to hurry!"
+<ptT0044>"Tomosane, we need to hurry!"
+
+//TEXT 【Tomosane】
+<enT0045>"Hasaki!"
+<ptT0045>"Hasaki!"
+
+//TEXT 【Yuki】
+<enT0046>"Hasaki-chan!"
+<ptT0046>"Hasaki-chan!"
+
+//TEXT
+<enT0047>I searched the field of sunflowers with Yuki-nee.
+<ptT0047>I searched the field of sunflowers with Yuki-nee.
+
+//TEXT 【Yuki】
+<enT0048>"These sunflowers are as tall as us. I can hardly see a thing."
+<ptT0048>"These sunflowers are as tall as us. I can hardly see a thing."
+
+//TEXT 【Tomosane】
+<enT0049>"Maybe she kept going down this road."
+<ptT0049>"Maybe she kept going down this road."
+
+//TEXT 【Yuki】
+<enT0050>"Gotcha, I'll search down the road, so you just wait here."
+<ptT0050>"Gotcha, I'll search down the road, so you just wait here."
+
+//TEXT 【Tomosane】
+<enT0051>"Why?"
+<ptT0051>"Why?"
+
+//TEXT 【Yuki】
+<enT0052>"You dummy, I can't let a child go wandering out in the mountains at night!"
+<ptT0052>"You dummy, I can't let a child go wandering out in the mountains at night!"
+
+//TEXT 【Tomosane】
+<enT0053>"I'm not a kid!"
+<ptT0053>"I'm not a kid!"
+
+//TEXT 【Yuki】
+<enT0054>"Hush! Just wait here!"
+<ptT0054>"Hush! Just wait here!"
+
+//TEXT 【Tomosane】
+<enT0055>"Hey, Yuki-nee!"
+<ptT0055>"Hey, Yuki-nee!"
+
+//TEXT
+<enT0056>Just like that, she ran off down the road.
+<ptT0056>Just like that, she ran off down the road.
+
+//TEXT 【Tomosane】
+<enT0057>"Damn it..."
+<ptT0057>"Damn it..."
+
+//TEXT
+<enT0058>To be honest, I can't run nearly as fast as her. Even if I ran after her, I couldn't catch her.
+<ptT0058>To be honest, I can't run nearly as fast as her. Even if I ran after her, I couldn't catch her.
+
+//TEXT
+<enT0059>I had nothing to do but look around the sunflower field.
+<ptT0059>I had nothing to do but look around the sunflower field.
+
+//TEXT 【Tomosane】
+<enT0060>"Hasaki!"
+<ptT0060>"Hasaki!"
+
+//TEXT
+<enT0061>The sunflowers were even taller than I was, and my voice was drowned out in the thick vegetation.
+<ptT0061>The sunflowers were even taller than I was, and my voice was drowned out in the thick vegetation.
+
+//TEXT
+<enT0062>No matter how much I yelled, my words were simply swallowed up by the sunflowers.
+<ptT0062>No matter how much I yelled, my words were simply swallowed up by the sunflowers.
+
+//TEXT 【Tomosane】
+<enT0063>"Damn it. She probably wouldn't hear me if she was here."
+<ptT0063>"Damn it. She probably wouldn't hear me if she was here."
+
+//TEXT
+<enT0064>I kept yelling out into the field of sunflowers, but I wasn't accomplishing anything. Eventually, I went to search the top of the hill instead.
+<ptT0064>I kept yelling out into the field of sunflowers, but I wasn't accomplishing anything. Eventually, I went to search the top of the hill instead.
+
+//TEXT
+<enT0065>I figured my voice would carry further if I went up to the peak.
+<ptT0065>I figured my voice would carry further if I went up to the peak.
+
+//TEXT
+<enT0066>I stood up on a high place where I could look over the entire field, and as I was about to call out Hasaki's name again...
+<ptT0066>I stood up on a high place where I could look over the entire field, and as I was about to call out Hasaki's name again...
+
+//TEXT 【Tomosane】
+<enT0067>"Huh?"
+<ptT0067>"Huh?"
+
+//TEXT
+<enT0068>Once I could see out over the entire field of sunflowers, I noticed something for the first time.
+<ptT0068>Once I could see out over the entire field of sunflowers, I noticed something for the first time.
+
+//TEXT 【Tomosane】
+<enT0069>"Is that... a road?"
+<ptT0069>"Is that... a road?"
+
+//TEXT
+<enT0070>Over on the far side of the field, there was some kind of trail.
+<ptT0070>Over on the far side of the field, there was some kind of trail.
+
+//TEXT
+<enT0071>The trail led up to the main mountain road.
+<ptT0071>The trail led up to the main mountain road.
+
+//TEXT 【Tomosane】
+<enT0072>"There's another path over there. The sunflowers were so tall that I didn't even notice."
+<ptT0072>"There's another path over there. The sunflowers were so tall that I didn't even notice."
+
+//TEXT 【Tomosane】
+<enT0073>"..."
+<ptT0073>"..."
+
+//TEXT
+<enT0074>Yuki-nee told me to wait, but I couldn't keep that promise.
+<ptT0074>Yuki-nee told me to wait, but I couldn't keep that promise.
+
+//TEXT
+<enT0075>There was another road that Yuki-nee didn't go down.
+<ptT0075>There was another road that Yuki-nee didn't go down.
+
+//TEXT
+<enT0076>It was possible that Hasaki actually went down this road.
+<ptT0076>It was possible that Hasaki actually went down this road.
+
+//TEXT
+<enT0077>So I...
+<ptT0077>So I...
+
+//TEXT
+<enT0078>I cut through the field of sunflowers and ran up the steep road.
+<ptT0078>I cut through the field of sunflowers and ran up the steep road.
+
+//TEXT 【Tomosane】
+<enT0079>"Haa, haa, haa, haa..."
+<ptT0079>"Haa, haa, haa, haa..."
+
+//TEXT
+<enT0080>I had no idea where the road would lead.
+<ptT0080>I had no idea where the road would lead.
+
+//TEXT
+<enT0081>On the other side of the monstrous blooming sunflowers, that road led into the darkness itself, like something from beyond the pale of our own familiar world.
+<ptT0081>On the other side of the monstrous blooming sunflowers, that road led into the darkness itself, like something from beyond the pale of our own familiar world.
+
+//TEXT
+<enT0082>If Hasaki took my words literally...
+<ptT0082>If Hasaki took my words literally...
+
+//TEXT
+<enT0083>Dad's soul is far away, in the sky. He made his journey to a place called Heaven.
+<ptT0083>Dad's soul is far away, in the sky. He made his journey to a place called Heaven.
+
+//TEXT
+<enT0084>If she took those words literally, she would want to follow this path to its end.
+<ptT0084>If she took those words literally, she would want to follow this path to its end.
+
+//TEXT
+<enT0085>A path through the proud sunflowers into the heart of nature's darkness, like a path to connect the realms of life and death.
+<ptT0085>A path through the proud sunflowers into the heart of nature's darkness, like a path to connect the realms of life and death.
+
+//TEXT
+<enT0086>If there was any place that Hasaki would imagine her father's soul taking up its final residence, it would be this place, beyond the hill of sunflowers.
+<ptT0086>If there was any place that Hasaki would imagine her father's soul taking up its final residence, it would be this place, beyond the hill of sunflowers.
+
+//TEXT
+<enT0087>That's why I ran.
+<ptT0087>That's why I ran.
+
+//TEXT
+<enT0088>I ran up the steep hill with all my might.
+<ptT0088>I ran up the steep hill with all my might.
+
+//TEXT
+<enT0089>I ran headlong into the night, and I saw a light before me.
+<ptT0089>I ran headlong into the night, and I saw a light before me.
+
+//TEXT
+<enT0090>It was like we were coming out upon the world's exterior.
+<ptT0090>It was like we were coming out upon the world's exterior.
+
+//TEXT
+<enT0091>A world of deep blue.
+<ptT0091>A world of deep blue.
+
+//TEXT
+<enT0092>Brilliant, shining stars were woven into the tapestry.
+<ptT0092>Brilliant, shining stars were woven into the tapestry.
+
+//TEXT
+<enT0093>I'd never seen such a night sky.
+<ptT0093>I'd never seen such a night sky.
+
+//TEXT
+<enT0094>It looked like the sky was falling.
+<ptT0094>It looked like the sky was falling.
+
+//TEXT 【Tomosane】
+<enT0095>"What's this?"
+<ptT0095>"What's this?"
+
+//TEXT
+<enT0096>I was taken aback by the sheer number of stars.
+<ptT0096>I was taken aback by the sheer number of stars.
+
+//TEXT
+<enT0097>The starry night sky was always a beautiful sight in this village.
+<ptT0097>The starry night sky was always a beautiful sight in this village.
+
+//TEXT
+<enT0098>But in the three years I'd lived here, I had never seen such a beautiful sky. It was like...
+<ptT0098>But in the three years I'd lived here, I had never seen such a beautiful sky. It was like...
+
+//TEXT 【Hasaki】
+<enT0099>"Like the souls of the dead flying away."
+<ptT0099>"Like the souls of the dead flying away."
+
+//TEXT 【Tomosane】
+<enT0100>"Hasaki!"
+<ptT0100>"Hasaki!"
+
+//TEXT 【Hasaki】
+<enT0101>"Tomo Nii-san!"
+<ptT0101>"Tomo Nii-san!"
+
+//TEXT 【Tomosane】
+<enT0102>"Ah!"
+<ptT0102>"Ah!"
+
+//TEXT
+<enT0103>I barely caught Hasaki before she fell.
+<ptT0103>I barely caught Hasaki before she fell.
+
+//TEXT
+<enT0104>She was totally covered in mud.
+<ptT0104>She was totally covered in mud.
+
+//TEXT
+<enT0105>She probably stumbled and fell when she was climbing up here.
+<ptT0105>She probably stumbled and fell when she was climbing up here.
+
+//TEXT
+<enT0106>She was obviously so tired she could hardly stand.
+<ptT0106>She was obviously so tired she could hardly stand.
+
+//TEXT 【Hasaki】
+<enT0107>"One of these... One of them is Dad's soul, right?"
+<ptT0107>"One of these... One of them is Dad's soul, right?"
+
+//TEXT 【Hasaki】
+<enT0108>"But I'm not tall enough... I can't reach him..."
+<ptT0108>"But I'm not tall enough... I can't reach him..."
+
+//TEXT 【Tomosane】
+<enT0109>"You dummy... It doesn't matter how tall you are, no one could reach Dad's soul just by reaching up."
+<ptT0109>"You dummy... It doesn't matter how tall you are, no one could reach Dad's soul just by reaching up."
+
+//TEXT 【Hasaki】
+<enT0110>"But they're all so close..."
+<ptT0110>"But they're all so close..."
+
+//TEXT 【Tomosane】
+<enT0111>"It doesn't matter. You can't reach Dad anymore."
+<ptT0111>"It doesn't matter. You can't reach Dad anymore."
+
+//TEXT 【Hasaki】
+<enT0112>"But we came all the way to the edge of the world..."
+<ptT0112>"But we came all the way to the edge of the world..."
+
+//TEXT
+<enT0113>A sky full of stars that seemed about to rain down upon our heads.
+<ptT0113>A sky full of stars that seemed about to rain down upon our heads.
+
+//TEXT
+<enT0114>I wasn't really surprised that Hasaki would think it was the edge of the world.
+<ptT0114>I wasn't really surprised that Hasaki would think it was the edge of the world.
+
+//TEXT
+<enT0115>That this could've been the edge of the world.
+<ptT0115>That this could've been the edge of the world.
+
+//TEXT
+<enT0116>Hasaki started to cry.
+<ptT0116>Hasaki started to cry.
+
+//TEXT 【Hasaki】
+<enT0117>"This isn't the edge of the world... Tomo Nii-san!"
+<ptT0117>"This isn't the edge of the world... Tomo Nii-san!"
+
+//TEXT 【Hasaki】
+<enT0118>"Dad's soul isn't here..."
+<ptT0118>"Dad's soul isn't here..."
+
+//TEXT
+<enT0119>Hasaki cried into my chest.
+<ptT0119>Hasaki cried into my chest.
+
+//TEXT
+<enT0120>I just held her and tried to comfort her.
+<ptT0120>I just held her and tried to comfort her.
+
+//TEXT 【Hasaki】
+<enT0121>"There's no edge to the world, is there? Look..."
+<ptT0121>"There's no edge to the world, is there? Look..."
+
+//TEXT
+<enT0122>Hasaki pointed with her finger.
+<ptT0122>Hasaki pointed with her finger.
+
+//TEXT
+<enT0123>But she didn't point toward Sawaimura.
+<ptT0123>But she didn't point toward Sawaimura.
+
+//TEXT
+<enT0124>It was another village, just like Sawaimura, lit up with the lights of human life.
+<ptT0124>It was another village, just like Sawaimura, lit up with the lights of human life.
+
+//TEXT
+<enT0125>There was another village out there. And after that, a bigger town. No matter how far she walked, she would always find something else out there.
+<ptT0125>There was another village out there. And after that, a bigger town. No matter how far she walked, she would always find something else out there.
+
+//TEXT
+<enT0126>No matter how far she tried to journey into the unknown, she could never reach the place where our father's soul had come to rest.
+<ptT0126>No matter how far she tried to journey into the unknown, she could never reach the place where our father's soul had come to rest.
+
+//TEXT
+<enT0127>That was the first time Hasaki was forced to face that truth.
+<ptT0127>That was the first time Hasaki was forced to face that truth.
+
+//TEXT
+<enT0128>The truth of her father's death.
+<ptT0128>The truth of her father's death.
+
+//TEXT
+<enT0129>The true meaning of the word.
+<ptT0129>The true meaning of the word.
+
+//TEXT
+<enT0130>I held Hasaki close.
+<ptT0130>I held Hasaki close.
+
+//TEXT 【Tomosane】
+<enT0131>"Let's go back. Everyone is worried about you."
+<ptT0131>"Let's go back. Everyone is worried about you."
+
+//TEXT 【Hasaki】
+<enT0132>"Everyone is worried?"
+<ptT0132>"Everyone is worried?"
+
+//TEXT 【Tomosane】
+<enT0133>"Yeah, they really are. Everyone in the village is probably looking for you by now. You just disappeared on us, you know?"
+<ptT0133>"Yeah, they really are. Everyone in the village is probably looking for you by now. You just disappeared on us, you know?"
+
+//TEXT 【Hasaki】
+<enT0134>"Looking for me?"
+<ptT0134>"Looking for me?"
+
+//TEXT 【Tomosane】
+<enT0135>"Yeah. If Dad knew you went out alone at night like this, he would have to scold you."
+<ptT0135>"Yeah. If Dad knew you went out alone at night like this, he would have to scold you."
+
+//TEXT 【Hasaki】
+<enT0136>"I'm sorry..."
+<ptT0136>"I'm sorry..."
+
+//TEXT 【Tomosane】
+<enT0137>"You dummy. Just don't do it again."
+<ptT0137>"You dummy. Just don't do it again."
+
+//TEXT 【Tomosane】
+<enT0138>"Come on."
+<ptT0138>"Come on."
+
+//TEXT
+<enT0139>I squatted down and gave Hasaki my back.
+<ptT0139>I squatted down and gave Hasaki my back.
+
+//TEXT 【Tomosane】
+<enT0140>"I'll carry you. You can't walk, can you?"
+<ptT0140>"I'll carry you. You can't walk, can you?"
+
+//TEXT 【Hasaki】
+<enT0141>"I-I'm not sure..."
+<ptT0141>"I-I'm not sure..."
+
+//TEXT 【Tomosane】
+<enT0142>"I just watched you fall a second ago. Hurry up and get on already."
+<ptT0142>"I just watched you fall a second ago. Hurry up and get on already."
+
+//TEXT 【Hasaki】
+<enT0143>"O-Okay..."
+<ptT0143>"O-Okay..."
+
+//TEXT 【Hasaki】
+<enT0144>"I'm sorry..."
+<ptT0144>"I'm sorry..."
+
+//TEXT 【Tomosane】
+<enT0145>"What for?"
+<ptT0145>"What for?"
+
+//TEXT 【Hasaki】
+<enT0146>"For making you worry."
+<ptT0146>"For making you worry."
+
+//TEXT 【Tomosane】
+<enT0147>"Yeah, no kidding."
+<ptT0147>"Yeah, no kidding."
+
+//TEXT 【Hasaki】
+<enT0148>"But how did you know where I was?"
+<ptT0148>"But how did you know where I was?"
+
+//TEXT 【Tomosane】
+<enT0149>"How? Are you stupid?"
+<ptT0149>"How? Are you stupid?"
+
+//TEXT 【Hasaki】
+<enT0150>"Huh? Why?"
+<ptT0150>"Huh? Why?"
+
+//TEXT 【Tomosane】
+<enT0151>"I told you, I'm your hero. What kind of hero would I be if I didn't come rescue you when you were in trouble?"
+<ptT0151>"I told you, I'm your hero. What kind of hero would I be if I didn't come rescue you when you were in trouble?"
+
+//TEXT 【Hasaki】
+<enT0152>"Tomo Nii-san..."
+<ptT0152>"Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0153>"Heroes have to know things like that."
+<ptT0153>"Heroes have to know things like that."
+
+//TEXT 【Hasaki】
+<enT0154>"I guess so."
+<ptT0154>"I guess so."
+
+//TEXT 【Tomosane】
+<enT0155>"So of course I knew where you were."
+<ptT0155>"So of course I knew where you were."
+
+//TEXT 【Hasaki】
+<enT0156>"Um, Tomo Nii-san... Here."
+<ptT0156>"Um, Tomo Nii-san... Here."
+
+//TEXT 【Tomosane】
+<enT0157>"What? Isn't this your rabbit doll?"
+<ptT0157>"What? Isn't this your rabbit doll?"
+
+//TEXT 【Hasaki】
+<enT0158>"Yeah, I'll give you one."
+<ptT0158>"Yeah, I'll give you one."
+
+//TEXT 【Tomosane】
+<enT0159>"Really? Won't the other one get lonely?"
+<ptT0159>"Really? Won't the other one get lonely?"
+
+//TEXT 【Hasaki】
+<enT0160>"She has me, so she'll be okay."
+<ptT0160>"She has me, so she'll be okay."
+
+//TEXT 【Tomosane】
+<enT0161>"Ahaha... That's silly."
+<ptT0161>"Ahaha... That's silly."
+
+//TEXT 【Tomosane】
+<enT0162>"Oh, right. In that case, there was that rabbit in the store window, right? I'll buy that for you."
+<ptT0162>"Oh, right. In that case, there was that rabbit in the store window, right? I'll buy that for you."
+
+//TEXT 【Hasaki】
+<enT0163>"Huh? The store?"
+<ptT0163>"Huh? The store?"
+
+//TEXT 【Tomosane】
+<enT0164>"You know, the one you saw when we went to Jasco. The great big rabbit in the window."
+<ptT0164>"You know, the one you saw when we went to Jasco. The great big rabbit in the window."
+
+//TEXT 【Hasaki】
+<enT0165>"The stuffed rabbit from that store called Wakatsuki?"
+<ptT0165>"The stuffed rabbit from that store called Wakatsuki?"
+
+//TEXT 【Tomosane】
+<enT0166>"You still remember the store name too?"
+<ptT0166>"You still remember the store name too?"
+
+//TEXT 【Hasaki】
+<enT0167>"Yeah, that rabbit was at the store called Wakatsuki."
+<ptT0167>"Yeah, that rabbit was at the store called Wakatsuki."
+
+//TEXT 【Tomosane】
+<enT0168>"Oh, really? In that case, I'll buy the rabbit from that store for you."
+<ptT0168>"Oh, really? In that case, I'll buy the rabbit from that store for you."
+
+//TEXT 【Hasaki】
+<enT0169>"But it was expensive."
+<ptT0169>"But it was expensive."
+
+//TEXT 【Tomosane】
+<enT0170>"Are you dumb? Don't underestimate me. My bank account is worth more than most countries' entire GDP."
+<ptT0170>"Are you dumb? Don't underestimate me. My bank account is worth more than most countries' entire GDP."
+
+//TEXT 【Hasaki】
+<enT0171>"Really?"
+<ptT0171>"Really?"
+
+//TEXT 【Tomosane】
+<enT0172>"Yeah, really. So don't worry about it."
+<ptT0172>"Yeah, really. So don't worry about it."
+
+//TEXT 【Hasaki】
+<enT0173>"If that's true, then I'll give you this one too."
+<ptT0173>"If that's true, then I'll give you this one too."
+
+//TEXT 【Tomosane】
+<enT0174>"Huh? Both of 'em?"
+<ptT0174>"Huh? Both of 'em?"
+
+//TEXT 【Hasaki】
+<enT0175>"Yeah, that way neither of them will get lonely."
+<ptT0175>"Yeah, that way neither of them will get lonely."
+
+//TEXT 【Tomosane】
+<enT0176>"You think?"
+<ptT0176>"You think?"
+
+//TEXT 【Hasaki】
+<enT0177>"When you give me the big rabbit, I'll be her twin."
+<ptT0177>"When you give me the big rabbit, I'll be her twin."
+
+//TEXT 【Hasaki】
+<enT0178>"Then you can take both of the little rabbit twins."
+<ptT0178>"Then you can take both of the little rabbit twins."
+
+//TEXT 【Tomosane】
+<enT0179>"Are you sure?"
+<ptT0179>"Are you sure?"
+
+//TEXT 【Hasaki】
+<enT0180>"..."
+<ptT0180>"..."
+
+//TEXT
+<enT0181>Then Hasaki went quiet.
+<ptT0181>Then Hasaki went quiet.
+
+//TEXT
+<enT0182>I realized she'd fallen asleep.
+<ptT0182>I realized she'd fallen asleep.
+
+//TEXT
+<enT0183>She was obviously tired.
+<ptT0183>She was obviously tired.
+
+//TEXT 【Tomosane】
+<enT0184>"But still..."
+<ptT0184>"But still..."
+
+//TEXT
+<enT0185>I told her I was her hero, but the truth is, it was just dumb luck that I found her.
+<ptT0185>I told her I was her hero, but the truth is, it was just dumb luck that I found her.
+
+//TEXT
+<enT0186>Or maybe it really was Dad leading me to her.
+<ptT0186>Or maybe it really was Dad leading me to her.
+
+//TEXT
+<enT0187>They say a person's soul can stay on Earth for a while before leaving for Heaven.
+<ptT0187>They say a person's soul can stay on Earth for a while before leaving for Heaven.
+
+//TEXT 【Tomosane】
+<enT0188>"In that case, Dad, I hope you're listening."
+<ptT0188>"In that case, Dad, I hope you're listening."
+
+//TEXT 【Tomosane】
+<enT0189>"I... I'm gonna hold a grudge against you, Dad."
+<ptT0189>"I... I'm gonna hold a grudge against you, Dad."
+
+//TEXT 【Tomosane】
+<enT0190>"Because you were always too nice to people. That's why this happened."
+<ptT0190>"Because you were always too nice to people. That's why this happened."
+
+//TEXT 【Tomosane】
+<enT0191>"So now that you're dead, just look after Hasaki."
+<ptT0191>"So now that you're dead, just look after Hasaki."
+
+//TEXT 【Tomosane】
+<enT0192>"You just need to protect Hasaki."
+<ptT0192>"You just need to protect Hasaki."
+
+//TEXT 【Tomosane】
+<enT0193>"I'm not asking anything else."
+<ptT0193>"I'm not asking anything else."
+
+//TEXT 【Tomosane】
+<enT0194>"Just watch over her, so she can be happy."
+<ptT0194>"Just watch over her, so she can be happy."
+
+//TEXT 【Tomosane】
+<enT0195>"Please, Dad."
+<ptT0195>"Please, Dad."
+
+//TEXT
+<enT0196>A starry sky, so full of stars that they could rain down upon our heads at any moment, laid above us.
+<ptT0196>A starry sky, so full of stars that they could rain down upon our heads at any moment, laid above us.
+
+//TEXT
+<enT0197>I stood under just such a starry sky as I uttered the last words I would ever say to my father.
+<ptT0197>I stood under just such a starry sky as I uttered the last words I would ever say to my father.
+
+///================================================================================
+
+//OTHER
+<enZ0001>6-5.bss
+<ptZ0001>6-5.bss
+
+//OTHER
+<enZ0002>A summer day - Part 5
+<ptZ0002>A summer day - Part 5
+
+//OTHER
+<enZ0003>Jabberwocky II
+<ptZ0003>Jabberwocky II
+
+//OTHER
+<enZ0004>daynt0005
+<ptZ0004>daynt0005
+
+//OTHER
+<enZ0005>sp0096
+<ptZ0005>sp0096
+
+//OTHER
+<enZ0006>bgm114
+<ptZ0006>bgm114
+
+//OTHER
+<enZ0007>tomo_000532
+<ptZ0007>tomo_000532
+
+//OTHER
+<enZ0008>yuki_004468
+<ptZ0008>yuki_004468
+
+//OTHER
+<enZ0009>tomo_000533
+<ptZ0009>tomo_000533
+
+//OTHER
+<enZ0010>yuki_004469
+<ptZ0010>yuki_004469
+
+//OTHER
+<enZ0011>tomo_000534
+<ptZ0011>tomo_000534
+
+//OTHER
+<enZ0012>yuki_004470
+<ptZ0012>yuki_004470
+
+//OTHER
+<enZ0013>tomo_000535
+<ptZ0013>tomo_000535
+
+//OTHER
+<enZ0014>yuki_004471
+<ptZ0014>yuki_004471
+
+//OTHER
+<enZ0015>bg1031c
+<ptZ0015>bg1031c
+
+//OTHER
+<enZ0016>yk3004
+<ptZ0016>yk3004
+
+//OTHER
+<enZ0017>yuki_004472
+<ptZ0017>yuki_004472
+
+//OTHER
+<enZ0018>tomo_000536
+<ptZ0018>tomo_000536
+
+//OTHER
+<enZ0019>yk3006a
+<ptZ0019>yk3006a
+
+//OTHER
+<enZ0020>ms1000
+<ptZ0020>ms1000
+
+//OTHER
+<enZ0021>tomo_000537
+<ptZ0021>tomo_000537
+
+//OTHER
+<enZ0022>yk3004a
+<ptZ0022>yk3004a
+
+//OTHER
+<enZ0023>yuki_004473
+<ptZ0023>yuki_004473
+
+//OTHER
+<enZ0024>tomo_000538
+<ptZ0024>tomo_000538
+
+//OTHER
+<enZ0025>yk3005a
+<ptZ0025>yk3005a
+
+//OTHER
+<enZ0026>yuki_004474
+<ptZ0026>yuki_004474
+
+//OTHER
+<enZ0027>yuki_004475
+<ptZ0027>yuki_004475
+
+//OTHER
+<enZ0028>tomo_000539
+<ptZ0028>tomo_000539
+
+//OTHER
+<enZ0029>yuki_004476
+<ptZ0029>yuki_004476
+
+//OTHER
+<enZ0030>yuki_004477
+<ptZ0030>yuki_004477
+
+//OTHER
+<enZ0031>yuki_004478
+<ptZ0031>yuki_004478
+
+//OTHER
+<enZ0032>bg1039c
+<ptZ0032>bg1039c
+
+//OTHER
+<enZ0033>yk3000b_l
+<ptZ0033>yk3000b_l
+
+//OTHER
+<enZ0034>yuki_004479
+<ptZ0034>yuki_004479
+
+//OTHER
+<enZ0035>yuki_004480
+<ptZ0035>yuki_004480
+
+//OTHER
+<enZ0036>yk3000b
+<ptZ0036>yk3000b
+
+//OTHER
+<enZ0037>tomo_000540
+<ptZ0037>tomo_000540
+
+//OTHER
+<enZ0038>yuki_004481
+<ptZ0038>yuki_004481
+
+//OTHER
+<enZ0039>tomo_000541
+<ptZ0039>tomo_000541
+
+//OTHER
+<enZ0040>yk3008a
+<ptZ0040>yk3008a
+
+//OTHER
+<enZ0041>yuki_004482
+<ptZ0041>yuki_004482
+
+//OTHER
+<enZ0042>tomo_000542
+<ptZ0042>tomo_000542
+
+//OTHER
+<enZ0043>yuki_004483
+<ptZ0043>yuki_004483
+
+//OTHER
+<enZ0044>tomo_000543
+<ptZ0044>tomo_000543
+
+//OTHER
+<enZ0045>yuki_004484
+<ptZ0045>yuki_004484
+
+//OTHER
+<enZ0046>tomo_000544
+<ptZ0046>tomo_000544
+
+//OTHER
+<enZ0047>tomo_000545
+<ptZ0047>tomo_000545
+
+//OTHER
+<enZ0048>tomo_000546
+<ptZ0048>tomo_000546
+
+//OTHER
+<enZ0049>yuki_004485
+<ptZ0049>yuki_004485
+
+//OTHER
+<enZ0050>tomo_000547
+<ptZ0050>tomo_000547
+
+//OTHER
+<enZ0051>yuki_004486
+<ptZ0051>yuki_004486
+
+//OTHER
+<enZ0052>map027
+<ptZ0052>map027
+
+//OTHER
+<enZ0053>sp0084a
+<ptZ0053>sp0084a
+
+//OTHER
+<enZ0054>tomo_000548
+<ptZ0054>tomo_000548
+
+//OTHER
+<enZ0055>yuki_004487
+<ptZ0055>yuki_004487
+
+//OTHER
+<enZ0056>yuki_004488
+<ptZ0056>yuki_004488
+
+//OTHER
+<enZ0057>tomo_000549
+<ptZ0057>tomo_000549
+
+//OTHER
+<enZ0058>yuki_004489
+<ptZ0058>yuki_004489
+
+//OTHER
+<enZ0059>tomo_000550
+<ptZ0059>tomo_000550
+
+//OTHER
+<enZ0060>yuki_004490
+<ptZ0060>yuki_004490
+
+//OTHER
+<enZ0061>tomo_000551
+<ptZ0061>tomo_000551
+
+//OTHER
+<enZ0062>yuki_004491
+<ptZ0062>yuki_004491
+
+//OTHER
+<enZ0063>tomo_000552
+<ptZ0063>tomo_000552
+
+//OTHER
+<enZ0064>tomo_000553
+<ptZ0064>tomo_000553
+
+//OTHER
+<enZ0065>tomo_000554
+<ptZ0065>tomo_000554
+
+//OTHER
+<enZ0066>tomo_000555
+<ptZ0066>tomo_000555
+
+//OTHER
+<enZ0067>tomo_000556
+<ptZ0067>tomo_000556
+
+//OTHER
+<enZ0068>tomo_000557
+<ptZ0068>tomo_000557
+
+//OTHER
+<enZ0069>tomo_000558
+<ptZ0069>tomo_000558
+
+//OTHER
+<enZ0070>tomo_000559
+<ptZ0070>tomo_000559
+
+//OTHER
+<enZ0071>bg1051c
+<ptZ0071>bg1051c
+
+//OTHER
+<enZ0072>tomo_000560
+<ptZ0072>tomo_000560
+
+//OTHER
+<enZ0073>map022
+<ptZ0073>map022
+
+//OTHER
+<enZ0074>bg1037b
+<ptZ0074>bg1037b
+
+//OTHER
+<enZ0075>se528
+<ptZ0075>se528
+
+//OTHER
+<enZ0076>tomo_000561
+<ptZ0076>tomo_000561
+
+//OTHER
+<enZ0077>hs4006h
+<ptZ0077>hs4006h
+
+//OTHER
+<enZ0078>bgm016
+<ptZ0078>bgm016
+
+//OTHER
+<enZ0079>hasa_001451
+<ptZ0079>hasa_001451
+
+//OTHER
+<enZ0080>hs4006h_l
+<ptZ0080>hs4006h_l
+
+//OTHER
+<enZ0081>tomo_000562
+<ptZ0081>tomo_000562
+
+//OTHER
+<enZ0082>hs4007h_l
+<ptZ0082>hs4007h_l
+
+//OTHER
+<enZ0083>hasa_001452
+<ptZ0083>hasa_001452
+
+//OTHER
+<enZ0084>tomo_000563
+<ptZ0084>tomo_000563
+
+//OTHER
+<enZ0085>se546
+<ptZ0085>se546
+
+//OTHER
+<enZ0086>sp0008m
+<ptZ0086>sp0008m
+
+//OTHER
+<enZ0087>hasa_001453
+<ptZ0087>hasa_001453
+
+//OTHER
+<enZ0088>hasa_001454
+<ptZ0088>hasa_001454
+
+//OTHER
+<enZ0089>tomo_000564
+<ptZ0089>tomo_000564
+
+//OTHER
+<enZ0090>hasa_001455
+<ptZ0090>hasa_001455
+
+//OTHER
+<enZ0091>tomo_000565
+<ptZ0091>tomo_000565
+
+//OTHER
+<enZ0092>hasa_001456
+<ptZ0092>hasa_001456
+
+//OTHER
+<enZ0093>hasa_001457
+<ptZ0093>hasa_001457
+
+//OTHER
+<enZ0094>hasa_001458
+<ptZ0094>hasa_001458
+
+//OTHER
+<enZ0095>hasa_001459
+<ptZ0095>hasa_001459
+
+//OTHER
+<enZ0096>tomo_000566
+<ptZ0096>tomo_000566
+
+//OTHER
+<enZ0097>hs4008h_l
+<ptZ0097>hs4008h_l
+
+//OTHER
+<enZ0098>hasa_001460
+<ptZ0098>hasa_001460
+
+//OTHER
+<enZ0099>tomo_000567
+<ptZ0099>tomo_000567
+
+//OTHER
+<enZ0100>hasa_001461
+<ptZ0100>hasa_001461
+
+//OTHER
+<enZ0101>tomo_000568
+<ptZ0101>tomo_000568
+
+//OTHER
+<enZ0102>hasa_001462
+<ptZ0102>hasa_001462
+
+//OTHER
+<enZ0103>tomo_000569
+<ptZ0103>tomo_000569
+
+//OTHER
+<enZ0104>tomo_000570
+<ptZ0104>tomo_000570
+
+//OTHER
+<enZ0105>tomo_000571
+<ptZ0105>tomo_000571
+
+//OTHER
+<enZ0106>hs4108h
+<ptZ0106>hs4108h
+
+//OTHER
+<enZ0107>hasa_001463
+<ptZ0107>hasa_001463
+
+//OTHER
+<enZ0108>tomo_000572
+<ptZ0108>tomo_000572
+
+//OTHER
+<enZ0109>hs4106h
+<ptZ0109>hs4106h
+
+//OTHER
+<enZ0110>hasa_001464
+<ptZ0110>hasa_001464
+
+//OTHER
+<enZ0111>hs4106h_l
+<ptZ0111>hs4106h_l
+
+//OTHER
+<enZ0112>ev7008
+<ptZ0112>ev7008
+
+//OTHER
+<enZ0113>hasa_001465
+<ptZ0113>hasa_001465
+
+//OTHER
+<enZ0114>tomo_000573
+<ptZ0114>tomo_000573
+
+//OTHER
+<enZ0115>hasa_001466
+<ptZ0115>hasa_001466
+
+//OTHER
+<enZ0116>tomo_000574
+<ptZ0116>tomo_000574
+
+//OTHER
+<enZ0117>hasa_001467
+<ptZ0117>hasa_001467
+
+//OTHER
+<enZ0118>tomo_000575
+<ptZ0118>tomo_000575
+
+//OTHER
+<enZ0119>hasa_001468
+<ptZ0119>hasa_001468
+
+//OTHER
+<enZ0120>tomo_000576
+<ptZ0120>tomo_000576
+
+//OTHER
+<enZ0121>hasa_001469
+<ptZ0121>hasa_001469
+
+//OTHER
+<enZ0122>tomo_000577
+<ptZ0122>tomo_000577
+
+//OTHER
+<enZ0123>hasa_001470
+<ptZ0123>hasa_001470
+
+//OTHER
+<enZ0124>tomo_000578
+<ptZ0124>tomo_000578
+
+//OTHER
+<enZ0125>hasa_001471
+<ptZ0125>hasa_001471
+
+//OTHER
+<enZ0126>tomo_000579
+<ptZ0126>tomo_000579
+
+//OTHER
+<enZ0127>hasa_001472
+<ptZ0127>hasa_001472
+
+//OTHER
+<enZ0128>tomo_000580
+<ptZ0128>tomo_000580
+
+//OTHER
+<enZ0129>hasa_001473
+<ptZ0129>hasa_001473
+
+//OTHER
+<enZ0130>tomo_000581
+<ptZ0130>tomo_000581
+
+//OTHER
+<enZ0131>tomo_000582
+<ptZ0131>tomo_000582
+
+//OTHER
+<enZ0132>hasa_001474
+<ptZ0132>hasa_001474
+
+//OTHER
+<enZ0133>tomo_000583
+<ptZ0133>tomo_000583
+
+//OTHER
+<enZ0134>hasa_001475
+<ptZ0134>hasa_001475
+
+//OTHER
+<enZ0135>tomo_000584
+<ptZ0135>tomo_000584
+
+//OTHER
+<enZ0136>hasa_001476
+<ptZ0136>hasa_001476
+
+//OTHER
+<enZ0137>tomo_000585
+<ptZ0137>tomo_000585
+
+//OTHER
+<enZ0138>hasa_001477
+<ptZ0138>hasa_001477
+
+//OTHER
+<enZ0139>tomo_000586
+<ptZ0139>tomo_000586
+
+//OTHER
+<enZ0140>hasa_001478
+<ptZ0140>hasa_001478
+
+//OTHER
+<enZ0141>tomo_000587
+<ptZ0141>tomo_000587
+
+//OTHER
+<enZ0142>hasa_001479
+<ptZ0142>hasa_001479
+
+//OTHER
+<enZ0143>tomo_000588
+<ptZ0143>tomo_000588
+
+//OTHER
+<enZ0144>hasa_001480
+<ptZ0144>hasa_001480
+
+//OTHER
+<enZ0145>tomo_000589
+<ptZ0145>tomo_000589
+
+//OTHER
+<enZ0146>hasa_001481
+<ptZ0146>hasa_001481
+
+//OTHER
+<enZ0147>hasa_001482
+<ptZ0147>hasa_001482
+
+//OTHER
+<enZ0148>tomo_000590
+<ptZ0148>tomo_000590
+
+//OTHER
+<enZ0149>hasa_001483
+<ptZ0149>hasa_001483
+
+//OTHER
+<enZ0150>tomo_000591
+<ptZ0150>tomo_000591
+
+//OTHER
+<enZ0151>tomo_000592
+<ptZ0151>tomo_000592
+
+//OTHER
+<enZ0152>tomo_000593
+<ptZ0152>tomo_000593
+
+//OTHER
+<enZ0153>tomo_000594
+<ptZ0153>tomo_000594
+
+//OTHER
+<enZ0154>tomo_000595
+<ptZ0154>tomo_000595
+
+//OTHER
+<enZ0155>tomo_000596
+<ptZ0155>tomo_000596
+
+//OTHER
+<enZ0156>tomo_000597
+<ptZ0156>tomo_000597
+
+//OTHER
+<enZ0157>tomo_000598
+<ptZ0157>tomo_000598
+
+//OTHER
+<enZ0158>tomo_000599
+<ptZ0158>tomo_000599
+
+//OTHER
+<enZ0159>6-6
+<ptZ0159>6-6
+

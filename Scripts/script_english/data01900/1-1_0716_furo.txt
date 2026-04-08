@@ -1,0 +1,988 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Yuki
+<ptN0002>Yuki
+
+//NAME
+<enN0003>Kagami
+<ptN0003>Kagami
+
+//NAME
+<enN0004>Tsukasa
+<ptN0004>Tsukasa
+
+///================================================================================
+
+//TEXT
+<enT0001>Takashima-san was acting perfectly normal.
+<ptT0001>Takashima-san was acting perfectly normal.
+
+//TEXT
+<enT0002>I wanted to ask about what had happened today, but for some reason, I couldn't.
+<ptT0002>I wanted to ask about what had happened today, but for some reason, I couldn't.
+
+//TEXT
+<enT0003>That scene I'd seen before, of her dropping the stuffed toy from the rooftop...
+<ptT0003>That scene I'd seen before, of her dropping the stuffed toy from the rooftop...
+
+//TEXT
+<enT0004>That was a method of finding the sky's beginning and end.
+<ptT0004>That was a method of finding the sky's beginning and end.
+
+//TEXT
+<enT0005>That's what I had heard.
+<ptT0005>That's what I had heard.
+
+//TEXT
+<enT0006>But for some reason, I'd begun to feel uneasy about it.
+<ptT0006>But for some reason, I'd begun to feel uneasy about it.
+
+//TEXT
+<enT0007>I'm not sure why, either.
+<ptT0007>I'm not sure why, either.
+
+//TEXT
+<enT0008>The girl who is the world itself... and the girl of the sky.
+<ptT0008>The girl who is the world itself... and the girl of the sky.
+
+//TEXT
+<enT0009>I wonder what those words meant.
+<ptT0009>I wonder what those words meant.
+
+//TEXT 【Zakuro】
+<enT0010>"I'm sorry for keeping you waiting, Yuki-sama."
+<ptT0010>"I'm sorry for keeping you waiting, Yuki-sama."
+
+//TEXT 【Yuki】
+<enT0011>"Huh?"
+<ptT0011>"Huh?"
+
+//TEXT
+<enT0012>When I got into the bathtub, I heard Takashima-san's voice.
+<ptT0012>When I got into the bathtub, I heard Takashima-san's voice.
+
+//TEXT 【Kagami】
+<enT0013>"Wait, you're really going in?"
+<ptT0013>"Wait, you're really going in?"
+
+//TEXT 【Zakuro】
+<enT0014>"Of course I am. Have you gotten cold feet?"
+<ptT0014>"Of course I am. Have you gotten cold feet?"
+
+//TEXT 【Kagami】
+<enT0015>"Of course not! It doesn't really bother me, since we're all girls!"
+<ptT0015>"Of course not! It doesn't really bother me, since we're all girls!"
+
+//TEXT
+<enT0016>Wh-What was that? Is someone... making noise in the changing room.
+<ptT0016>Wh-What was that? Is someone... making noise in the changing room.
+
+//TEXT
+<enT0017>Even though last time they just barged in without thinking about it.
+<ptT0017>Even though last time they just barged in without thinking about it.
+
+//TEXT 【Kagami】
+<enT0018>"S-Sorry for taking so long, Yuki."
+<ptT0018>"S-Sorry for taking so long, Yuki."
+
+//TEXT 【Zakuro】
+<enT0019>"Sorry to keep you waiting."
+<ptT0019>"Sorry to keep you waiting."
+
+//TEXT 【Yuki】
+<enT0020>"What the..."
+<ptT0020>"What the..."
+
+//TEXT
+<enT0021>What...
+<ptT0021>What...
+
+//TEXT
+<enT0022>What on Earth?
+<ptT0022>What on Earth?
+
+//TEXT
+<enT0023>―!
+<ptT0023>―!
+
+//TEXT 【Zakuro】
+<enT0024>"We came to help wash your body today."
+<ptT0024>"We came to help wash your body today."
+
+//TEXT 【Yuki】
+<enT0025>"Why are you naked?"
+<ptT0025>"Why are you naked?"
+
+//TEXT 【Zakuro】
+<enT0026>"Oh, that's a strange thing to ask. Shouldn't one be naked when bathing?"
+<ptT0026>"Oh, that's a strange thing to ask. Shouldn't one be naked when bathing?"
+
+//TEXT 【Yuki】
+<enT0027>"B-But last time you were wearing a swimsuit..."
+<ptT0027>"B-But last time you were wearing a swimsuit..."
+
+//TEXT 【Kagami】
+<enT0028>"L-Like she said, today we came to take a bath with you instead of just washing your back."
+<ptT0028>"L-Like she said, today we came to take a bath with you instead of just washing your back."
+
+//TEXT 【Yuki】
+<enT0029>"I-I see what you mean..."
+<ptT0029>"I-I see what you mean..."
+
+//TEXT 【Kagami】
+<enT0030>"Th-There's nothing weird about it. We're all girls, after all."
+<ptT0030>"Th-There's nothing weird about it. We're all girls, after all."
+
+//TEXT 【Yuki】
+<enT0031>"I-I don't think there's anything weird about it."
+<ptT0031>"I-I don't think there's anything weird about it."
+
+//TEXT
+<enT0032>I couldn't help but wonder why Kagami's face was so red.
+<ptT0032>I couldn't help but wonder why Kagami's face was so red.
+
+//TEXT 【Zakuro】
+<enT0033>"Today we're bathing together, so the places we shall wash are not limited to your back. Today, I shall wash your front."
+<ptT0033>"Today we're bathing together, so the places we shall wash are not limited to your back. Today, I shall wash your front."
+
+//TEXT 【Yuki】
+<enT0034>"L-Like I said, I can wash my front myself!"
+<ptT0034>"L-Like I said, I can wash my front myself!"
+
+//TEXT 【Zakuro】
+<enT0035>"I can't help?"
+<ptT0035>"I can't help?"
+
+//TEXT 【Yuki】
+<enT0036>"O-Of course not!"
+<ptT0036>"O-Of course not!"
+
+//TEXT 【Zakuro】
+<enT0037>"Really? It's important to have an equitable division of labor."
+<ptT0037>"Really? It's important to have an equitable division of labor."
+
+//TEXT 【Yuki】
+<enT0038>"Stop saying nonsense like that. I said no."
+<ptT0038>"Stop saying nonsense like that. I said no."
+
+//TEXT 【Kagami】
+<enT0039>"Yuki."
+<ptT0039>"Yuki."
+
+//TEXT 【Yuki】
+<enT0040>"Huh?"
+<ptT0040>"Huh?"
+
+//TEXT 【Kagami】
+<enT0041>"Now then, I'll get started washing."
+<ptT0041>"Now then, I'll get started washing."
+
+//TEXT 【Yuki】
+<enT0042>"Hey! Why are you in front of me?!"
+<ptT0042>"Hey! Why are you in front of me?!"
+
+//TEXT 【Kagami】
+<enT0043>"Like I was saying, I'll wash your body..."
+<ptT0043>"Like I was saying, I'll wash your body..."
+
+//TEXT 【Yuki】
+<enT0044>"U-Um, Kagami. Didn't you hear what I said?"
+<ptT0044>"U-Um, Kagami. Didn't you hear what I said?"
+
+//TEXT 【Kagami】
+<enT0045>"What do you mean? I'm saying I want to do it, so it's fine."
+<ptT0045>"What do you mean? I'm saying I want to do it, so it's fine."
+
+//TEXT
+<enT0046>What kind of crappy logic is that?
+<ptT0046>What kind of crappy logic is that?
+
+//TEXT 【Zakuro】
+<enT0047>"Kagami-san, th-that's..."
+<ptT0047>"Kagami-san, th-that's..."
+
+//TEXT 【Kagami】
+<enT0048>"What? Takashima-san, you're the maid, right?"
+<ptT0048>"What? Takashima-san, you're the maid, right?"
+
+//TEXT 【Zakuro】
+<enT0049>"Y-Yes, I am, but..."
+<ptT0049>"Y-Yes, I am, but..."
+
+//TEXT 【Kagami】
+<enT0050>"I was thinking, in this house we're each playing our character roles, right?"
+<ptT0050>"I was thinking, in this house we're each playing our character roles, right?"
+
+//TEXT 【Zakuro】
+<enT0051>"Y-Yes..."
+<ptT0051>"Y-Yes..."
+
+//TEXT 【Kagami】
+<enT0052>"So, if I'm the childhood friend, I should say things like this."
+<ptT0052>"So, if I'm the childhood friend, I should say things like this."
+
+//TEXT 【Zakuro】
+<enT0053>"U-Um, you could interpret it like that, but fundamentally the childhood friend is supposed to be more easy-going."
+<ptT0053>"U-Um, you could interpret it like that, but fundamentally the childhood friend is supposed to be more easy-going."
+
+//TEXT 【Kagami】
+<enT0054>"Sure, sure. Anyway, I'll start the shower."
+<ptT0054>"Sure, sure. Anyway, I'll start the shower."
+
+//TEXT
+<enT0055>I wanted to tell them I'd already finished washing, but I was at a loss for words given the unexpected situation.
+<ptT0055>I wanted to tell them I'd already finished washing, but I was at a loss for words given the unexpected situation.
+
+//TEXT 【Kagami】
+<enT0056>"W-Well... I'll, uh, wash your front."
+<ptT0056>"W-Well... I'll, uh, wash your front."
+
+//TEXT 【Yuki】
+<enT0057>"Uh..."
+<ptT0057>"Uh..."
+
+//TEXT
+<enT0058>If she kept acting really embarrassed as she did it, she was going to make me embarrassed too.
+<ptT0058>If she kept acting really embarrassed as she did it, she was going to make me embarrassed too.
+
+//TEXT 【Yuki】
+<enT0059>"U-Um... Kagami."
+<ptT0059>"U-Um... Kagami."
+
+//TEXT 【Kagami】
+<enT0060>"Wh-What? Th-There's nothing weird about this! We're both girls, and we're childhood friends!"
+<ptT0060>"Wh-What? Th-There's nothing weird about this! We're both girls, and we're childhood friends!"
+
+//TEXT
+<enT0061>No, even if we're both girls and childhood friends, this is still weird. And besides that...
+<ptT0061>No, even if we're both girls and childhood friends, this is still weird. And besides that...
+
+//TEXT 【Yuki】
+<enT0062>"Y-You know... Your hand is trembling for some reason, Kagami."
+<ptT0062>"Y-You know... Your hand is trembling for some reason, Kagami."
+
+//TEXT 【Kagami】
+<enT0063>"I-It's not trembling! I'm excited because soon I'll be fighting in a great battle."
+<ptT0063>"I-It's not trembling! I'm excited because soon I'll be fighting in a great battle."
+
+//TEXT 【Yuki】
+<enT0064>"I-I see."
+<ptT0064>"I-I see."
+
+//TEXT
+<enT0065>It was a bit weird having her wash my front while she was so "excited."
+<ptT0065>It was a bit weird having her wash my front while she was so "excited."
+
+//TEXT
+<enT0066>Kagami touched my shoulder, lathering it with soap as if she was caressing it.
+<ptT0066>Kagami touched my shoulder, lathering it with soap as if she was caressing it.
+
+//TEXT 【Yuki】
+<enT0067>"Mmm, haa, ooh."
+<ptT0067>"Mmm, haa, ooh."
+
+//TEXT 【Kagami】
+<enT0068>"W-Would you please stop making weird noises like that?"
+<ptT0068>"W-Would you please stop making weird noises like that?"
+
+//TEXT 【Yuki】
+<enT0069>"I can't really stop. It tickles."
+<ptT0069>"I can't really stop. It tickles."
+
+//TEXT 【Kagami】
+<enT0070>"Th-Th-Th-Then you'll just have to sit and bear it. Jeez."
+<ptT0070>"Th-Th-Th-Then you'll just have to sit and bear it. Jeez."
+
+//TEXT
+<enT0071>Kagami averted her gaze and moved the sponge over my neck, shoulders, and chest.
+<ptT0071>Kagami averted her gaze and moved the sponge over my neck, shoulders, and chest.
+
+//TEXT 【Kagami】
+<enT0072>"Is this soft part I'm feeling... your chest?"
+<ptT0072>"Is this soft part I'm feeling... your chest?"
+
+//TEXT 【Yuki】
+<enT0073>"W-Well, yes, but..."
+<ptT0073>"W-Well, yes, but..."
+
+//TEXT 【Kagami】
+<enT0074>"You know, your chest is really big."
+<ptT0074>"You know, your chest is really big."
+
+//TEXT 【Yuki】
+<enT0075>"U-Uh, could you please not say that so frankly. It's embarrassing."
+<ptT0075>"U-Uh, could you please not say that so frankly. It's embarrassing."
+
+//TEXT
+<enT0076>Kagami's gaze flitted back and forth over my body.
+<ptT0076>Kagami's gaze flitted back and forth over my body.
+
+//TEXT
+<enT0077>Urgh. I'm gonna die of embarrassment.
+<ptT0077>Urgh. I'm gonna die of embarrassment.
+
+//TEXT 【Yuki】
+<enT0078>"Hey, uh... I think I'd actually rather wash myself."
+<ptT0078>"Hey, uh... I think I'd actually rather wash myself."
+
+//TEXT 【Zakuro】
+<enT0079>"That's no good. Please allow me, Yuki-sama. I'll make every last corner of your body spotless."
+<ptT0079>"That's no good. Please allow me, Yuki-sama. I'll make every last corner of your body spotless."
+
+//TEXT
+<enT0080>Rub, rub, rub.
+<ptT0080>Rub, rub, rub.
+
+//TEXT
+<enT0081>I felt something soft rubbing on my back.
+<ptT0081>I felt something soft rubbing on my back.
+
+//TEXT 【Yuki】
+<enT0082>"Um, what's this? A soft sponge?"
+<ptT0082>"Um, what's this? A soft sponge?"
+
+//TEXT 【Zakuro】
+<enT0083>"It's a specially made sponge. Does it feel good?"
+<ptT0083>"It's a specially made sponge. Does it feel good?"
+
+//TEXT
+<enT0084>Rub, rub, rub.
+<ptT0084>Rub, rub, rub.
+
+//TEXT 【Yuki】
+<enT0085>"I-I kind of have a bad feeling about this."
+<ptT0085>"I-I kind of have a bad feeling about this."
+
+//TEXT 【Zakuro】
+<enT0086>"Doesn't it feel good?"
+<ptT0086>"Doesn't it feel good?"
+
+//TEXT 【Yuki】
+<enT0087>"Hmm... It does feel good, I guess."
+<ptT0087>"Hmm... It does feel good, I guess."
+
+//TEXT 【Zakuro】
+<enT0088>"Is that right? If you like it, then that's all that matters. It's a good thing I studied that manga."
+<ptT0088>"Is that right? If you like it, then that's all that matters. It's a good thing I studied that manga."
+
+//TEXT
+<enT0089>What was that supposed to mean?!
+<ptT0089>What was that supposed to mean?!
+
+//TEXT
+<enT0090>That's weird! Why would you study how to wash someone's body?!
+<ptT0090>That's weird! Why would you study how to wash someone's body?!
+
+//TEXT
+<enT0091>Um, first off, she was gently embracing me with both arms, and there was no sponge in either of her hands, so...
+<ptT0091>Um, first off, she was gently embracing me with both arms, and there was no sponge in either of her hands, so...
+
+//TEXT
+<enT0092>Rub, rub, rub, rub...
+<ptT0092>Rub, rub, rub, rub...
+
+//TEXT
+<enT0093>Something felt soft and supple.
+<ptT0093>Something felt soft and supple.
+
+//TEXT
+<enT0094>Which means...
+<ptT0094>Which means...
+
+//TEXT 【Yuki】
+<enT0095>"U-Um..."
+<ptT0095>"U-Um..."
+
+//TEXT
+<enT0096>She's probably just playing around, but...
+<ptT0096>She's probably just playing around, but...
+
+//TEXT
+<enT0097>Right, this is definitely how girls who are friends act around each other. They poke each other's breasts or flip each other's skirts. Surely this isn't any different from that, but...
+<ptT0097>Right, this is definitely how girls who are friends act around each other. They poke each other's breasts or flip each other's skirts. Surely this isn't any different from that, but...
+
+//TEXT
+<enT0098>Uhh...
+<ptT0098>Uhh...
+
+//TEXT
+<enT0099>It felt like my heart was beating strangely quickly, as if my body was heating up.
+<ptT0099>It felt like my heart was beating strangely quickly, as if my body was heating up.
+
+//TEXT 【Yuki】
+<enT0100>"O-Oooh."
+<ptT0100>"O-Oooh."
+
+//TEXT
+<enT0101>Somehow I took my mind off it. I took my mind off the frighteningly seductive, supple charms assaulting my back.
+<ptT0101>Somehow I took my mind off it. I took my mind off the frighteningly seductive, supple charms assaulting my back.
+
+//TEXT 【Kagami】
+<enT0102>"Y-Yuki, uh, could you open your legs a little more? I can't wash you like that."
+<ptT0102>"Y-Yuki, uh, could you open your legs a little more? I can't wash you like that."
+
+//TEXT 【Yuki】
+<enT0103>"Hmm? Wait, what?!"
+<ptT0103>"Hmm? Wait, what?!"
+
+//TEXT
+<enT0104>A blushing Kagami was right in front of me. Why was she breathing so hard?
+<ptT0104>A blushing Kagami was right in front of me. Why was she breathing so hard?
+
+//TEXT
+<enT0105>D-Don't make that face at me.
+<ptT0105>D-Don't make that face at me.
+
+//TEXT
+<enT0106>Calm down. It's just Kagami, right? Isn't she your childhood friend? Isn't she also a girl?
+<ptT0106>Calm down. It's just Kagami, right? Isn't she your childhood friend? Isn't she also a girl?
+
+//TEXT
+<enT0107>But even if she was a girl, when she made that face... my heart lurched.
+<ptT0107>But even if she was a girl, when she made that face... my heart lurched.
+
+//TEXT 【Kagami】
+<enT0108>"Uh, it might hurt if I use a sponge, so I'll do it with my finger."
+<ptT0108>"Uh, it might hurt if I use a sponge, so I'll do it with my finger."
+
+//TEXT 【Yuki】
+<enT0109>"Huh?! Wait, wh-where are you touching me, Kagami?!"
+<ptT0109>"Huh?! Wait, wh-where are you touching me, Kagami?!"
+
+//TEXT
+<enT0110>My voice almost cracked.
+<ptT0110>My voice almost cracked.
+
+//TEXT 【Kagami】
+<enT0111>"U-Um, y-your very precious place."
+<ptT0111>"U-Um, y-your very precious place."
+
+//TEXT 【Yuki】
+<enT0112>"Y-You don't have to say it out loud. Would you please move your hand?"
+<ptT0112>"Y-You don't have to say it out loud. Would you please move your hand?"
+
+//TEXT 【Kagami】
+<enT0113>"I-I don't want to."
+<ptT0113>"I-I don't want to."
+
+//TEXT 【Yuki】
+<enT0114>"Wh-Why not?!"
+<ptT0114>"Wh-Why not?!"
+
+//TEXT 【Kagami】
+<enT0115>"B-Because it's not fair if only Takashima-san gets to touch you."
+<ptT0115>"B-Because it's not fair if only Takashima-san gets to touch you."
+
+//TEXT
+<enT0116>Wh-What kind of reason is that?
+<ptT0116>Wh-What kind of reason is that?
+
+//TEXT 【Kagami】
+<enT0117>"I'll be gentle, okay?"
+<ptT0117>"I'll be gentle, okay?"
+
+//TEXT
+<enT0118>Aaahhh! Someone save me! My chastity is in danger! Someone!
+<ptT0118>Aaahhh! Someone save me! My chastity is in danger! Someone!
+
+//TEXT 【Tsukasa】
+<enT0119>"E-Excuse me."
+<ptT0119>"E-Excuse me."
+
+//TEXT
+<enT0120>Good timing, Tsukasa! You came to rescue me.
+<ptT0120>Good timing, Tsukasa! You came to rescue me.
+
+//TEXT 【Yuki】
+<enT0121>"Wha―pshhff!"
+<ptT0121>"Wha―pshhff!"
+
+//TEXT
+<enT0122>
+<ptT0122>
+
+//TEXT
+<enT0123>Wh-Why is she naked too?!
+<ptT0123>Wh-Why is she naked too?!
+
+//TEXT 【Kagami】
+<enT0124>"Wait, Tsukasa! Why are you naked too?! You brought a swimsuit, didn't you?"
+<ptT0124>"Wait, Tsukasa! Why are you naked too?! You brought a swimsuit, didn't you?"
+
+//TEXT 【Tsukasa】
+<enT0125>"Y-Yes, but when I put it on, it felt a little childish. I thought you'd laugh at me."
+<ptT0125>"Y-Yes, but when I put it on, it felt a little childish. I thought you'd laugh at me."
+
+//TEXT 【Tsukasa】
+<enT0126>"You were all getting in the bath, so I was worried about what I should do. I didn't want to bathe alone afterwards, so..."
+<ptT0126>"You were all getting in the bath, so I was worried about what I should do. I didn't want to bathe alone afterwards, so..."
+
+//TEXT 【Kagami】
+<enT0127>"So you found the guts to come in naked."
+<ptT0127>"So you found the guts to come in naked."
+
+//TEXT 【Tsukasa】
+<enT0128>"Speaking of that, you two aren't wearing swimsuits either. What happened?"
+<ptT0128>"Speaking of that, you two aren't wearing swimsuits either. What happened?"
+
+//TEXT 【Kagami】
+<enT0129>"Huh?"
+<ptT0129>"Huh?"
+
+//TEXT 【Tsukasa】
+<enT0130>"You said you were gonna put on swimsuits and wash her back."
+<ptT0130>"You said you were gonna put on swimsuits and wash her back."
+
+//TEXT 【Kagami】
+<enT0131>"U-Um, you see..."
+<ptT0131>"U-Um, you see..."
+
+//TEXT 【Tsukasa】
+<enT0132>"And that's not soap in Takashima-san's hand."
+<ptT0132>"And that's not soap in Takashima-san's hand."
+
+//TEXT 【Tsukasa】
+<enT0133>"What's that gooey liquid?"
+<ptT0133>"What's that gooey liquid?"
+
+//TEXT 【Zakuro】
+<enT0134>"!"
+<ptT0134>"!"
+
+//TEXT 【Yuki】
+<enT0135>"Huh?"
+<ptT0135>"Huh?"
+
+//TEXT
+<enT0136>I looked at what Takashima-san had in her hand.
+<ptT0136>I looked at what Takashima-san had in her hand.
+
+//TEXT
+<enT0137>I'd thought it was too slippery, even if she was lathering it up. What she'd been rubbing on me wasn't soap, rather it was lotion.
+<ptT0137>I'd thought it was too slippery, even if she was lathering it up. What she'd been rubbing on me wasn't soap, rather it was lotion.
+
+//TEXT 【Yuki】
+<enT0138>"Y-You two..."
+<ptT0138>"Y-You two..."
+
+//TEXT 【Zakuro】
+<enT0139>"A-Ahaha."
+<ptT0139>"A-Ahaha."
+
+//TEXT 【Kagami】
+<enT0140>"Huh? Um, Yuki?"
+<ptT0140>"Huh? Um, Yuki?"
+
+//TEXT 【Yuki】
+<enT0141>"Quit fucking around! Get out, all of you!"
+<ptT0141>"Quit fucking around! Get out, all of you!"
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-1_0716_furo.bss
+<ptZ0001>1-1_0716_furo.bss
+
+//OTHER
+<enZ0002>se548
+<ptZ0002>se548
+
+//OTHER
+<enZ0003>se549
+<ptZ0003>se549
+
+//OTHER
+<enZ0004>bg1047a
+<ptZ0004>bg1047a
+
+//OTHER
+<enZ0005>se661
+<ptZ0005>se661
+
+//OTHER
+<enZ0006>se522
+<ptZ0006>se522
+
+//OTHER
+<enZ0007>map023
+<ptZ0007>map023
+
+//OTHER
+<enZ0008>white
+<ptZ0008>white
+
+//OTHER
+<enZ0009>zaku_000390
+<ptZ0009>zaku_000390
+
+//OTHER
+<enZ0010>yuki_000694
+<ptZ0010>yuki_000694
+
+//OTHER
+<enZ0011>kaga_000457
+<ptZ0011>kaga_000457
+
+//OTHER
+<enZ0012>zaku_000391
+<ptZ0012>zaku_000391
+
+//OTHER
+<enZ0013>kaga_000458
+<ptZ0013>kaga_000458
+
+//OTHER
+<enZ0014>kaga_000459
+<ptZ0014>kaga_000459
+
+//OTHER
+<enZ0015>zaku_000392
+<ptZ0015>zaku_000392
+
+//OTHER
+<enZ0016>yuki_000695
+<ptZ0016>yuki_000695
+
+//OTHER
+<enZ0017>ev3001c
+<ptZ0017>ev3001c
+
+//OTHER
+<enZ0018>bgm001
+<ptZ0018>bgm001
+
+//OTHER
+<enZ0019>zaku_000393
+<ptZ0019>zaku_000393
+
+//OTHER
+<enZ0020>yuki_000696
+<ptZ0020>yuki_000696
+
+//OTHER
+<enZ0021>zaku_000394
+<ptZ0021>zaku_000394
+
+//OTHER
+<enZ0022>yuki_000697
+<ptZ0022>yuki_000697
+
+//OTHER
+<enZ0023>kaga_000460
+<ptZ0023>kaga_000460
+
+//OTHER
+<enZ0024>yuki_000698
+<ptZ0024>yuki_000698
+
+//OTHER
+<enZ0025>kaga_000461
+<ptZ0025>kaga_000461
+
+//OTHER
+<enZ0026>yuki_000699
+<ptZ0026>yuki_000699
+
+//OTHER
+<enZ0027>zaku_000395
+<ptZ0027>zaku_000395
+
+//OTHER
+<enZ0028>yuki_000700
+<ptZ0028>yuki_000700
+
+//OTHER
+<enZ0029>zaku_000396
+<ptZ0029>zaku_000396
+
+//OTHER
+<enZ0030>yuki_000701
+<ptZ0030>yuki_000701
+
+//OTHER
+<enZ0031>zaku_000397
+<ptZ0031>zaku_000397
+
+//OTHER
+<enZ0032>yuki_000702
+<ptZ0032>yuki_000702
+
+//OTHER
+<enZ0033>kaga_000462
+<ptZ0033>kaga_000462
+
+//OTHER
+<enZ0034>yuki_000703
+<ptZ0034>yuki_000703
+
+//OTHER
+<enZ0035>kaga_000463
+<ptZ0035>kaga_000463
+
+//OTHER
+<enZ0036>yuki_000704
+<ptZ0036>yuki_000704
+
+//OTHER
+<enZ0037>kaga_000464
+<ptZ0037>kaga_000464
+
+//OTHER
+<enZ0038>yuki_000705
+<ptZ0038>yuki_000705
+
+//OTHER
+<enZ0039>kaga_000465
+<ptZ0039>kaga_000465
+
+//OTHER
+<enZ0040>zaku_000398
+<ptZ0040>zaku_000398
+
+//OTHER
+<enZ0041>kaga_000466
+<ptZ0041>kaga_000466
+
+//OTHER
+<enZ0042>zaku_000399
+<ptZ0042>zaku_000399
+
+//OTHER
+<enZ0043>kaga_000467
+<ptZ0043>kaga_000467
+
+//OTHER
+<enZ0044>zaku_000400
+<ptZ0044>zaku_000400
+
+//OTHER
+<enZ0045>kaga_000468
+<ptZ0045>kaga_000468
+
+//OTHER
+<enZ0046>zaku_000401
+<ptZ0046>zaku_000401
+
+//OTHER
+<enZ0047>kaga_000469
+<ptZ0047>kaga_000469
+
+//OTHER
+<enZ0048>kaga_000470
+<ptZ0048>kaga_000470
+
+//OTHER
+<enZ0049>yuki_000706
+<ptZ0049>yuki_000706
+
+//OTHER
+<enZ0050>yuki_000707
+<ptZ0050>yuki_000707
+
+//OTHER
+<enZ0051>kaga_000471
+<ptZ0051>kaga_000471
+
+//OTHER
+<enZ0052>yuki_000708
+<ptZ0052>yuki_000708
+
+//OTHER
+<enZ0053>kaga_000472
+<ptZ0053>kaga_000472
+
+//OTHER
+<enZ0054>yuki_000709
+<ptZ0054>yuki_000709
+
+//OTHER
+<enZ0055>yuki_000710
+<ptZ0055>yuki_000710
+
+//OTHER
+<enZ0056>kaga_000473
+<ptZ0056>kaga_000473
+
+//OTHER
+<enZ0057>yuki_000711
+<ptZ0057>yuki_000711
+
+//OTHER
+<enZ0058>kaga_000474
+<ptZ0058>kaga_000474
+
+//OTHER
+<enZ0059>kaga_000475
+<ptZ0059>kaga_000475
+
+//OTHER
+<enZ0060>yuki_000712
+<ptZ0060>yuki_000712
+
+//OTHER
+<enZ0061>kaga_000476
+<ptZ0061>kaga_000476
+
+//OTHER
+<enZ0062>yuki_000713
+<ptZ0062>yuki_000713
+
+//OTHER
+<enZ0063>yuki_000714
+<ptZ0063>yuki_000714
+
+//OTHER
+<enZ0064>zaku_000402
+<ptZ0064>zaku_000402
+
+//OTHER
+<enZ0065>yuki_000715
+<ptZ0065>yuki_000715
+
+//OTHER
+<enZ0066>zaku_000403
+<ptZ0066>zaku_000403
+
+//OTHER
+<enZ0067>yuki_000716
+<ptZ0067>yuki_000716
+
+//OTHER
+<enZ0068>zaku_000404
+<ptZ0068>zaku_000404
+
+//OTHER
+<enZ0069>yuki_000717
+<ptZ0069>yuki_000717
+
+//OTHER
+<enZ0070>zaku_000405
+<ptZ0070>zaku_000405
+
+//OTHER
+<enZ0071>yuki_000718
+<ptZ0071>yuki_000718
+
+//OTHER
+<enZ0072>yuki_000719
+<ptZ0072>yuki_000719
+
+//OTHER
+<enZ0073>kaga_000477
+<ptZ0073>kaga_000477
+
+//OTHER
+<enZ0074>yuki_000720
+<ptZ0074>yuki_000720
+
+//OTHER
+<enZ0075>kaga_000478
+<ptZ0075>kaga_000478
+
+//OTHER
+<enZ0076>yuki_000721
+<ptZ0076>yuki_000721
+
+//OTHER
+<enZ0077>kaga_000479
+<ptZ0077>kaga_000479
+
+//OTHER
+<enZ0078>yuki_000722
+<ptZ0078>yuki_000722
+
+//OTHER
+<enZ0079>kaga_000480
+<ptZ0079>kaga_000480
+
+//OTHER
+<enZ0080>yuki_000723
+<ptZ0080>yuki_000723
+
+//OTHER
+<enZ0081>kaga_000481
+<ptZ0081>kaga_000481
+
+//OTHER
+<enZ0082>kaga_000482
+<ptZ0082>kaga_000482
+
+//OTHER
+<enZ0083>ev3001b
+<ptZ0083>ev3001b
+
+//OTHER
+<enZ0084>tuka_000339
+<ptZ0084>tuka_000339
+
+//OTHER
+<enZ0085>yuki_000724
+<ptZ0085>yuki_000724
+
+//OTHER
+<enZ0086>kaga_000483
+<ptZ0086>kaga_000483
+
+//OTHER
+<enZ0087>tuka_000340
+<ptZ0087>tuka_000340
+
+//OTHER
+<enZ0088>tuka_000341
+<ptZ0088>tuka_000341
+
+//OTHER
+<enZ0089>kaga_000484
+<ptZ0089>kaga_000484
+
+//OTHER
+<enZ0090>tuka_000342
+<ptZ0090>tuka_000342
+
+//OTHER
+<enZ0091>kaga_000485
+<ptZ0091>kaga_000485
+
+//OTHER
+<enZ0092>tuka_000343
+<ptZ0092>tuka_000343
+
+//OTHER
+<enZ0093>kaga_000486
+<ptZ0093>kaga_000486
+
+//OTHER
+<enZ0094>tuka_000344
+<ptZ0094>tuka_000344
+
+//OTHER
+<enZ0095>tuka_000345
+<ptZ0095>tuka_000345
+
+//OTHER
+<enZ0096>zaku_000406
+<ptZ0096>zaku_000406
+
+//OTHER
+<enZ0097>yuki_000725
+<ptZ0097>yuki_000725
+
+//OTHER
+<enZ0098>yuki_000726
+<ptZ0098>yuki_000726
+
+//OTHER
+<enZ0099>zaku_000407
+<ptZ0099>zaku_000407
+
+//OTHER
+<enZ0100>kaga_000487
+<ptZ0100>kaga_000487
+
+//OTHER
+<enZ0101>yuki_000727
+<ptZ0101>yuki_000727
+

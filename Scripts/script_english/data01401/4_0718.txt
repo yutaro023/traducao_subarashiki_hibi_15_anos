@@ -1,0 +1,4036 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Kimura
+<ptN0002>Kimura
+
+//NAME
+<enN0003>Ayana
+<ptN0003>Ayana
+
+//NAME
+<enN0004>Takuji
+<ptN0004>Takuji
+
+//NAME
+<enN0005>Hasaki
+<ptN0005>Hasaki
+
+///================================================================================
+
+//TEXT
+<enT0001>Once Hasaki calmed down and went to sleep, I quietly got up.
+<ptT0001>Once Hasaki calmed down and went to sleep, I quietly got up.
+
+//TEXT
+<enT0002>It's all right, Hasaki. I'm not a liar.
+<ptT0002>It's all right, Hasaki. I'm not a liar.
+
+//TEXT
+<enT0003>I will definitely come home.
+<ptT0003>I will definitely come home.
+
+//TEXT
+<enT0004>Then we can talk as much as we want.
+<ptT0004>Then we can talk as much as we want.
+
+//TEXT
+<enT0005>I will protect you.
+<ptT0005>I will protect you.
+
+//TEXT
+<enT0006>Always.
+<ptT0006>Always.
+
+//TEXT 【Tomosane】
+<enT0007>"Now then..."
+<ptT0007>"Now then..."
+
+//TEXT
+<enT0008>I still had a little bit of time left before dawn.
+<ptT0008>I still had a little bit of time left before dawn.
+
+//TEXT 【Tomosane】
+<enT0009>"Though, to be honest, I don't know how long it is till sunrise. It would be easier if it was just 4:30."
+<ptT0009>"Though, to be honest, I don't know how long it is till sunrise. It would be easier if it was just 4:30."
+
+//TEXT
+<enT0010>Dawn is approximately that time, but it's hard to tell when he's actually going to come back.
+<ptT0010>Dawn is approximately that time, but it's hard to tell when he's actually going to come back.
+
+//TEXT
+<enT0011>It would be really bad if he showed up while I was here with Hasaki.
+<ptT0011>It would be really bad if he showed up while I was here with Hasaki.
+
+//TEXT 【Tomosane】
+<enT0012>"I need to find a deserted place so we don't drag anyone else into this."
+<ptT0012>"I need to find a deserted place so we don't drag anyone else into this."
+
+//TEXT
+<enT0013>I guess that means the rooftop.
+<ptT0013>I guess that means the rooftop.
+
+//TEXT
+<enT0014>When I left the rooftop last time, I didn't lock it, so it should still be open. That should work.
+<ptT0014>When I left the rooftop last time, I didn't lock it, so it should still be open. That should work.
+
+//TEXT
+<enT0015>"Are you going?"
+<ptT0015>"Are you going?"
+
+//TEXT 【Tomosane】
+<enT0016>"Haa... You're onto me, huh?"
+<ptT0016>"Haa... You're onto me, huh?"
+
+//TEXT 【Kimura】
+<enT0017>"Are you going to fight Mamiya Takuji?"
+<ptT0017>"Are you going to fight Mamiya Takuji?"
+
+//TEXT 【Tomosane】
+<enT0018>"Who knows?"
+<ptT0018>"Who knows?"
+
+//TEXT 【Kimura】
+<enT0019>"I think you do. Otherwise, there would be no reason to fight your Master."
+<ptT0019>"I think you do. Otherwise, there would be no reason to fight your Master."
+
+//TEXT 【Tomosane】
+<enT0020>"Don't tell Hasaki."
+<ptT0020>"Don't tell Hasaki."
+
+//TEXT 【Kimura】
+<enT0021>"You're keeping it a secret from Hasaki-chan?"
+<ptT0021>"You're keeping it a secret from Hasaki-chan?"
+
+//TEXT 【Tomosane】
+<enT0022>"There's no reason to tell her. I'm going to come home alive."
+<ptT0022>"There's no reason to tell her. I'm going to come home alive."
+
+//TEXT 【Kimura】
+<enT0023>"I see..."
+<ptT0023>"I see..."
+
+//TEXT 【Kimura】
+<enT0024>"Where are you going to do it?"
+<ptT0024>"Where are you going to do it?"
+
+//TEXT 【Tomosane】
+<enT0025>"Does it really matter?"
+<ptT0025>"Does it really matter?"
+
+//TEXT 【Kimura】
+<enT0026>"I guess not... All right."
+<ptT0026>"I guess not... All right."
+
+//TEXT 【Tomosane】
+<enT0027>"...Hey."
+<ptT0027>"...Hey."
+
+//TEXT 【Tomosane】
+<enT0028>"Um, if something happens to me..."
+<ptT0028>"Um, if something happens to me..."
+
+//TEXT 【Tomosane】
+<enT0029>"Look after Hasaki for me... Please."
+<ptT0029>"Look after Hasaki for me... Please."
+
+//TEXT 【Kimura】
+<enT0030>"..."
+<ptT0030>"..."
+
+//TEXT 【Kimura】
+<enT0031>"Ahaha... You've never been polite to me before."
+<ptT0031>"Ahaha... You've never been polite to me before."
+
+//TEXT 【Tomosane】
+<enT0032>"There's a certain way to ask a favor of someone... And besides, I might've misunderstood you."
+<ptT0032>"There's a certain way to ask a favor of someone... And besides, I might've misunderstood you."
+
+//TEXT 【Tomosane】
+<enT0033>"It seems like you helped her out a lot while I was gone."
+<ptT0033>"It seems like you helped her out a lot while I was gone."
+
+//TEXT 【Kimura】
+<enT0034>"That might've just been convenient for me too, you know."
+<ptT0034>"That might've just been convenient for me too, you know."
+
+//TEXT 【Tomosane】
+<enT0035>"Then I'm glad that it was convenient for you to protect Hasaki. I have to thank you."
+<ptT0035>"Then I'm glad that it was convenient for you to protect Hasaki. I have to thank you."
+
+//TEXT 【Kimura】
+<enT0036>"Oh? That's awfully nice of you. I'm not used to hearing that from you."
+<ptT0036>"Oh? That's awfully nice of you. I'm not used to hearing that from you."
+
+//TEXT 【Tomosane】
+<enT0037>"Well, I really am thankful."
+<ptT0037>"Well, I really am thankful."
+
+//TEXT 【Tomosane】
+<enT0038>"So if anything happens to me, please continue to take care of her."
+<ptT0038>"So if anything happens to me, please continue to take care of her."
+
+//TEXT 【Kimura】
+<enT0039>"All right, but nothing's going to happen, right? You're going to win and end this whole mess."
+<ptT0039>"All right, but nothing's going to happen, right? You're going to win and end this whole mess."
+
+//TEXT 【Tomosane】
+<enT0040>"Yes, and your investigation will probably end here too. I'm going to put it all to an end."
+<ptT0040>"Yes, and your investigation will probably end here too. I'm going to put it all to an end."
+
+//TEXT 【Kimura】
+<enT0041>"Really?"
+<ptT0041>"Really?"
+
+//TEXT 【Tomosane】
+<enT0042>"Yeah, I'll end it."
+<ptT0042>"Yeah, I'll end it."
+
+//TEXT
+<enT0043>I returned to the school rooftop before sunrise.
+<ptT0043>I returned to the school rooftop before sunrise.
+
+//TEXT
+<enT0044>The place where I'll spend the last of my remaining time.
+<ptT0044>The place where I'll spend the last of my remaining time.
+
+//TEXT 【Tomosane】
+<enT0045>"No, I have to fight so that this isn't the last..."
+<ptT0045>"No, I have to fight so that this isn't the last..."
+
+//TEXT
+<enT0046>I wanted this time just so that I could say one thing to Hasaki.
+<ptT0046>I wanted this time just so that I could say one thing to Hasaki.
+
+//TEXT
+<enT0047>To be honest, I don't know if I can keep my promise.
+<ptT0047>To be honest, I don't know if I can keep my promise.
+
+//TEXT
+<enT0048>No, there's a pretty good chance I can't.
+<ptT0048>No, there's a pretty good chance I can't.
+
+//TEXT
+<enT0049>I did win against Master, but...
+<ptT0049>I did win against Master, but...
+
+//TEXT
+<enT0050>My fight with Mamiya Takuji will be on a different level altogether.
+<ptT0050>My fight with Mamiya Takuji will be on a different level altogether.
+
+//TEXT 【Tomosane】
+<enT0051>"Ayana..."
+<ptT0051>"Ayana..."
+
+//TEXT 【Ayana】
+<enT0052>"You came back to this place."
+<ptT0052>"You came back to this place."
+
+//TEXT 【Tomosane】
+<enT0053>"Yeah... The place doesn't really matter, though."
+<ptT0053>"Yeah... The place doesn't really matter, though."
+
+//TEXT 【Ayana】
+<enT0054>"But you chose this place."
+<ptT0054>"But you chose this place."
+
+//TEXT 【Tomosane】
+<enT0055>"I thought this was the most suitable place... So where is Mamiya Takuji?"
+<ptT0055>"I thought this was the most suitable place... So where is Mamiya Takuji?"
+
+//TEXT 【Ayana】
+<enT0056>"You still have a little bit of time left."
+<ptT0056>"You still have a little bit of time left."
+
+//TEXT 【Tomosane】
+<enT0057>"Oh..."
+<ptT0057>"Oh..."
+
+//TEXT 【Tomosane】
+<enT0058>"Do you know what he's planning to do?"
+<ptT0058>"Do you know what he's planning to do?"
+
+//TEXT 【Ayana】
+<enT0059>"He's trying to return it all to the sky."
+<ptT0059>"He's trying to return it all to the sky."
+
+//TEXT 【Tomosane】
+<enT0060>"Yeah, that's right."
+<ptT0060>"Yeah, that's right."
+
+//TEXT 【Ayana】
+<enT0061>"To the End Sky..."
+<ptT0061>"To the End Sky..."
+
+//TEXT 【Tomosane】
+<enT0062>"The End Sky... What is that?"
+<ptT0062>"The End Sky... What is that?"
+
+//TEXT 【Ayana】
+<enT0063>"It's just a name. It doesn't speak of anything."
+<ptT0063>"It's just a name. It doesn't speak of anything."
+
+//TEXT 【Tomosane】
+<enT0064>"Oh... It's just a name?"
+<ptT0064>"Oh... It's just a name?"
+
+//TEXT 【Ayana】
+<enT0065>"Yes."
+<ptT0065>"Yes."
+
+//TEXT 【Tomosane】
+<enT0066>"Really? Then let me ask you a question. What are you?"
+<ptT0066>"Really? Then let me ask you a question. What are you?"
+
+//TEXT 【Ayana】
+<enT0067>"Me? I'm called Otonashi Ayana."
+<ptT0067>"Me? I'm called Otonashi Ayana."
+
+//TEXT 【Tomosane】
+<enT0068>"But that's just a name, isn't it? That doesn't explain anything."
+<ptT0068>"But that's just a name, isn't it? That doesn't explain anything."
+
+//TEXT 【Ayana】
+<enT0069>"Hehehe, then what are you?"
+<ptT0069>"Hehehe, then what are you?"
+
+//TEXT 【Tomosane】
+<enT0070>"Me? I'm Yuuki Tomosane... And..."
+<ptT0070>"Me? I'm Yuuki Tomosane... And..."
+
+//TEXT
+<enT0071>I tried to say something...
+<ptT0071>I tried to say something...
+
+//TEXT
+<enT0072>But the words caught in my throat.
+<ptT0072>But the words caught in my throat.
+
+//TEXT
+<enT0073>I tried to speak of myself, but I was lost for words.
+<ptT0073>I tried to speak of myself, but I was lost for words.
+
+//TEXT
+<enT0074>Hahahaha... That's right.
+<ptT0074>Hahahaha... That's right.
+
+//TEXT
+<enT0075>That's just how it is.
+<ptT0075>That's just how it is.
+
+//TEXT
+<enT0076>In talking about oneself, it's impossible to say anything more than you could find on a person's resume.
+<ptT0076>In talking about oneself, it's impossible to say anything more than you could find on a person's resume.
+
+//TEXT
+<enT0077>The woman in front of me wore the same school uniform as I did.
+<ptT0077>The woman in front of me wore the same school uniform as I did.
+
+//TEXT
+<enT0078>I could tell from the color of the trim that she was in the same year as me.
+<ptT0078>I could tell from the color of the trim that she was in the same year as me.
+
+//TEXT
+<enT0079>She was female, and I was male.
+<ptT0079>She was female, and I was male.
+
+//TEXT
+<enT0080>For the two of us standing there and looking at each other, there was nothing else for either of us to say.
+<ptT0080>For the two of us standing there and looking at each other, there was nothing else for either of us to say.
+
+//TEXT
+<enT0081>What are you? That's such a vague question... A meaningless question.
+<ptT0081>What are you? That's such a vague question... A meaningless question.
+
+//TEXT 【Tomosane】
+<enT0082>"I guess that's about right. I'm Yuuki Tomosane―nothing more and nothing less."
+<ptT0082>"I guess that's about right. I'm Yuuki Tomosane―nothing more and nothing less."
+
+//TEXT 【Ayana】
+<enT0083>"Okay. Then let me ask you a question."
+<ptT0083>"Okay. Then let me ask you a question."
+
+//TEXT 【Tomosane】
+<enT0084>"A question?"
+<ptT0084>"A question?"
+
+//TEXT 【Ayana】
+<enT0085>"Yes. A question I asked both Mamiya-kun and Minakami-san."
+<ptT0085>"Yes. A question I asked both Mamiya-kun and Minakami-san."
+
+//TEXT 【Tomosane】
+<enT0086>"What question?"
+<ptT0086>"What question?"
+
+//TEXT 【Ayana】
+<enT0087>"Tomosane-kun, are you afraid of dying?"
+<ptT0087>"Tomosane-kun, are you afraid of dying?"
+
+//TEXT 【Tomosane】
+<enT0088>"Dying? Huh? That's a very straightforward question, isn't it?"
+<ptT0088>"Dying? Huh? That's a very straightforward question, isn't it?"
+
+//TEXT 【Tomosane】
+<enT0089>"But still... Several people have died in the past week or so. In this school alone, three people have died."
+<ptT0089>"But still... Several people have died in the past week or so. In this school alone, three people have died."
+
+//TEXT 【Tomosane】
+<enT0090>"A week that stinks like death. Many students have gone missing as well, and it's likely for the same reason."
+<ptT0090>"A week that stinks like death. Many students have gone missing as well, and it's likely for the same reason."
+
+//TEXT 【Tomosane】
+<enT0091>"And the person who's behind it all is... Mamiya Takuji."
+<ptT0091>"And the person who's behind it all is... Mamiya Takuji."
+
+//TEXT 【Ayana】
+<enT0092>"Mamiya-kun was afraid of Takashima-san's prophecy... And of his mother's prophecy."
+<ptT0092>"Mamiya-kun was afraid of Takashima-san's prophecy... And of his mother's prophecy."
+
+//TEXT 【Tomosane】
+<enT0093>"So it seems. I don't know much about Takashima's prophecy, but I know what his mother said. It was carved deep into his memory."
+<ptT0093>"So it seems. I don't know much about Takashima's prophecy, but I know what his mother said. It was carved deep into his memory."
+
+//TEXT 【Tomosane】
+<enT0094>"The world will be destroyed. All existence will cease, and the world will be erased."
+<ptT0094>"The world will be destroyed. All existence will cease, and the world will be erased."
+
+//TEXT 【Tomosane】
+<enT0095>"What Mamiya Takuji was afraid of was his mother's prophecy... and by extension, death itself."
+<ptT0095>"What Mamiya Takuji was afraid of was his mother's prophecy... and by extension, death itself."
+
+//TEXT 【Ayana】
+<enT0096>"Fear of the prophecy is the same as fear of death, as well as fear of the prophesied erasure."
+<ptT0096>"Fear of the prophecy is the same as fear of death, as well as fear of the prophesied erasure."
+
+//TEXT 【Ayana】
+<enT0097>"Are you afraid too?"
+<ptT0097>"Are you afraid too?"
+
+//TEXT 【Tomosane】
+<enT0098>"Hehehehe... Me? Before, I would've said this."
+<ptT0098>"Hehehehe... Me? Before, I would've said this."
+
+//TEXT 【Ayana】
+<enT0099>"Said what?"
+<ptT0099>"Said what?"
+
+//TEXT 【Tomosane】
+<enT0100>"I'm not really afraid of dying. I'm destined to disappear, after all."
+<ptT0100>"I'm not really afraid of dying. I'm destined to disappear, after all."
+
+//TEXT 【Ayana】
+<enT0101>"Destined..."
+<ptT0101>"Destined..."
+
+//TEXT 【Tomosane】
+<enT0102>"I'm just a personality created to destroy Mamiya Takuji... Or maybe I should say I was just a personality?"
+<ptT0102>"I'm just a personality created to destroy Mamiya Takuji... Or maybe I should say I was just a personality?"
+
+//TEXT 【Ayana】
+<enT0103>"Mamiya-kun, the Creator, Minakami-san, the Harmonizer, and then Tomosane-kun, the Destroyer."
+<ptT0103>"Mamiya-kun, the Creator, Minakami-san, the Harmonizer, and then Tomosane-kun, the Destroyer."
+
+//TEXT
+<enT0104>This woman knows everything.
+<ptT0104>This woman knows everything.
+
+//TEXT
+<enT0105>No wonder she always puts me on edge.
+<ptT0105>No wonder she always puts me on edge.
+
+//TEXT
+<enT0106>To think that she knows so much about us... It's almost like our souls are connected.
+<ptT0106>To think that she knows so much about us... It's almost like our souls are connected.
+
+//TEXT
+<enT0107>But she's different from us. She's not one of the personalities inhabiting this body.
+<ptT0107>But she's different from us. She's not one of the personalities inhabiting this body.
+
+//TEXT
+<enT0108>Then what is she?
+<ptT0108>Then what is she?
+
+//TEXT
+<enT0109>It's clear that she's not a normal person.
+<ptT0109>It's clear that she's not a normal person.
+
+//TEXT
+<enT0110>Which means she's another irregularity, but she's not quite the same as us...
+<ptT0110>Which means she's another irregularity, but she's not quite the same as us...
+
+//TEXT 【Ayana】
+<enT0111>"What's wrong?"
+<ptT0111>"What's wrong?"
+
+//TEXT 【Tomosane】
+<enT0112>"Nothing..."
+<ptT0112>"Nothing..."
+
+//TEXT 【Tomosane】
+<enT0113>"What you were just talking about, with the Creator, the Harmonizer, and the Destroyer... He was the one who put that system in place."
+<ptT0113>"What you were just talking about, with the Creator, the Harmonizer, and the Destroyer... He was the one who put that system in place."
+
+//TEXT 【Tomosane】
+<enT0114>"But this is the end result. The Creator is trying to destroy the Destroyer."
+<ptT0114>"But this is the end result. The Creator is trying to destroy the Destroyer."
+
+//TEXT 【Tomosane】
+<enT0115>"Mamiya Takuji couldn't accept his own fate of destruction."
+<ptT0115>"Mamiya Takuji couldn't accept his own fate of destruction."
+
+//TEXT 【Tomosane】
+<enT0116>"No, that's not quite right. There simply weren't enough actors on stage. You could even say that Mamiya Takuji released me from my role as the Destroyer."
+<ptT0116>"No, that's not quite right. There simply weren't enough actors on stage. You could even say that Mamiya Takuji released me from my role as the Destroyer."
+
+//TEXT 【Tomosane】
+<enT0117>"Which means that I've lost my fate."
+<ptT0117>"Which means that I've lost my fate."
+
+//TEXT 【Ayana】
+<enT0118>"What will you do now that you've lost your fate?"
+<ptT0118>"What will you do now that you've lost your fate?"
+
+//TEXT 【Tomosane】
+<enT0119>"Now I should just wait to be destroyed and erased by the Creator. That's how Mamiya Takuji's new script reads."
+<ptT0119>"Now I should just wait to be destroyed and erased by the Creator. That's how Mamiya Takuji's new script reads."
+
+//TEXT 【Ayana】
+<enT0120>"Are you afraid of being erased?"
+<ptT0120>"Are you afraid of being erased?"
+
+//TEXT 【Tomosane】
+<enT0121>"Of course I'm afraid. I'm afraid of being erased, and I'm afraid of pain. Either way, it's terrifying. Death is a thing to be feared."
+<ptT0121>"Of course I'm afraid. I'm afraid of being erased, and I'm afraid of pain. Either way, it's terrifying. Death is a thing to be feared."
+
+//TEXT 【Ayana】
+<enT0122>"Then you don't want to die?"
+<ptT0122>"Then you don't want to die?"
+
+//TEXT 【Tomosane】
+<enT0123>"Don't want to die? I'm not sure... I don't know what that question is supposed to mean."
+<ptT0123>"Don't want to die? I'm not sure... I don't know what that question is supposed to mean."
+
+//TEXT 【Ayana】
+<enT0124>"But you're afraid of death."
+<ptT0124>"But you're afraid of death."
+
+//TEXT 【Tomosane】
+<enT0125>"Yeah, of course. But somehow, all of the other things in this world which people fear doing, becoming, or happening are things that can actually be experienced, except death."
+<ptT0125>"Yeah, of course. But somehow, all of the other things in this world which people fear doing, becoming, or happening are things that can actually be experienced, except death."
+
+//TEXT 【Ayana】
+<enT0126>"The doing, the becoming, and the happening..."
+<ptT0126>"The doing, the becoming, and the happening..."
+
+//TEXT 【Tomosane】
+<enT0127>"Exactly. For instance, most people wouldn't want to be tortured... Maybe a real masochist would want it, though."
+<ptT0127>"Exactly. For instance, most people wouldn't want to be tortured... Maybe a real masochist would want it, though."
+
+//TEXT 【Tomosane】
+<enT0128>"Or else they don't want to go bankrupt. They don't want to become homeless."
+<ptT0128>"Or else they don't want to go bankrupt. They don't want to become homeless."
+
+//TEXT 【Tomosane】
+<enT0129>"But those are things which are possible to experience, so it's possible to fear the doing, the becoming, and the happening of them."
+<ptT0129>"But those are things which are possible to experience, so it's possible to fear the doing, the becoming, and the happening of them."
+
+//TEXT 【Tomosane】
+<enT0130>"But there is no way to experience death."
+<ptT0130>"But there is no way to experience death."
+
+//TEXT 【Tomosane】
+<enT0131>"Death is all around us. Even the nearest graveyard is full of dead people. And yet there isn't a single person who has experienced death."
+<ptT0131>"Death is all around us. Even the nearest graveyard is full of dead people. And yet there isn't a single person who has experienced death."
+
+//TEXT 【Tomosane】
+<enT0132>"Death is impossible to experience. That's the first principle."
+<ptT0132>"Death is impossible to experience. That's the first principle."
+
+//TEXT 【Tomosane】
+<enT0133>"Taking something which is impossible to experience and speaking of it in the same breath as things which can be experienced strikes me as a perversion of logic."
+<ptT0133>"Taking something which is impossible to experience and speaking of it in the same breath as things which can be experienced strikes me as a perversion of logic."
+
+//TEXT 【Ayana】
+<enT0134>"We cannot speak of that which can't be experienced the same way as that which can."
+<ptT0134>"We cannot speak of that which can't be experienced the same way as that which can."
+
+//TEXT 【Tomosane】
+<enT0135>"Yeah, that's right. But people speak of death as if it could be experienced. Why is that?"
+<ptT0135>"Yeah, that's right. But people speak of death as if it could be experienced. Why is that?"
+
+//TEXT 【Ayana】
+<enT0136>"Why?"
+<ptT0136>"Why?"
+
+//TEXT 【Tomosane】
+<enT0137>"I don't really know myself. Maybe death only has meaning because it's a perversion of logic."
+<ptT0137>"I don't really know myself. Maybe death only has meaning because it's a perversion of logic."
+
+//TEXT 【Ayana】
+<enT0138>"Death only has meaning because it is a perversion..."
+<ptT0138>"Death only has meaning because it is a perversion..."
+
+//TEXT 【Tomosane】
+<enT0139>"Yeah... Isn't that what a perversion is?"
+<ptT0139>"Yeah... Isn't that what a perversion is?"
+
+//TEXT 【Tomosane】
+<enT0140>"At first, sex was just an act of biological reproduction. However, various perverted ideas throughout history have led people to think all things, create all things, and do all things of which they are capable."
+<ptT0140>"At first, sex was just an act of biological reproduction. However, various perverted ideas throughout history have led people to think all things, create all things, and do all things of which they are capable."
+
+//TEXT 【Tomosane】
+<enT0141>"Sexual fetishes, for example. But not only that. Also, romantic love. Physical lust and romantic love are impossible to tease apart."
+<ptT0141>"Sexual fetishes, for example. But not only that. Also, romantic love. Physical lust and romantic love are impossible to tease apart."
+
+//TEXT 【Tomosane】
+<enT0142>"So how did Mamiya Takuji respond when you asked him that question?"
+<ptT0142>"So how did Mamiya Takuji respond when you asked him that question?"
+
+//TEXT 【Ayana】
+<enT0143>"He was angry. He wouldn't allow himself to admit that he was afraid of death."
+<ptT0143>"He was angry. He wouldn't allow himself to admit that he was afraid of death."
+
+//TEXT 【Tomosane】
+<enT0144>"I see... What about Yuki?"
+<ptT0144>"I see... What about Yuki?"
+
+//TEXT 【Ayana】
+<enT0145>"About the same as you. No one can experience death. It is impossible for a human being to experience death."
+<ptT0145>"About the same as you. No one can experience death. It is impossible for a human being to experience death."
+
+//TEXT 【Ayana】
+<enT0146>"Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things, either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
+<ptT0146>"Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things, either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
+
+//TEXT 【Tomosane】
+<enT0147>"Socrates, huh? Sounds like Yuki..."
+<ptT0147>"Socrates, huh? Sounds like Yuki..."
+
+//TEXT 【Ayana】
+<enT0148>"And these were Socrates' last words."
+<ptT0148>"And these were Socrates' last words."
+
+//TEXT 【Ayana】
+<enT0149>"The hour of departure has arrived."
+<ptT0149>"The hour of departure has arrived."
+
+//TEXT 【Ayana】
+<enT0150>"And we go our separate ways, I to die, and you to live."
+<ptT0150>"And we go our separate ways, I to die, and you to live."
+
+//TEXT 【Ayana】
+<enT0151>"Which of these two is better only God knows."
+<ptT0151>"Which of these two is better only God knows."
+
+//TEXT 【Ayana】
+<enT0152>"Then holding the cup to his lips, quite readily and cheerfully he drank off the poison."
+<ptT0152>"Then holding the cup to his lips, quite readily and cheerfully he drank off the poison."
+
+//TEXT 【Tomosane】
+<enT0153>"I see... But I'm confused. These words from the great philosopher of ancient times... I wonder if his answer really was correct."
+<ptT0153>"I see... But I'm confused. These words from the great philosopher of ancient times... I wonder if his answer really was correct."
+
+//TEXT 【Tomosane】
+<enT0154>"Everyone knows that."
+<ptT0154>"Everyone knows that."
+
+//TEXT 【Ayana】
+<enT0155>"Everyone?"
+<ptT0155>"Everyone?"
+
+//TEXT 【Tomosane】
+<enT0156>"Socrates' words... To modern people, the meaning is almost too obvious."
+<ptT0156>"Socrates' words... To modern people, the meaning is almost too obvious."
+
+//TEXT 【Tomosane】
+<enT0157>"Even now, at this very moment, there are people dying."
+<ptT0157>"Even now, at this very moment, there are people dying."
+
+//TEXT 【Tomosane】
+<enT0158>"From the distant past until now, an unbelievably large number of people have died."
+<ptT0158>"From the distant past until now, an unbelievably large number of people have died."
+
+//TEXT 【Tomosane】
+<enT0159>"Especially in this country, a great number of people have died without believing in any afterlife."
+<ptT0159>"Especially in this country, a great number of people have died without believing in any afterlife."
+
+//TEXT 【Tomosane】
+<enT0160>"People die every day with the understanding that death is not the road to another world, but rather simple oblivion."
+<ptT0160>"People die every day with the understanding that death is not the road to another world, but rather simple oblivion."
+
+//TEXT 【Tomosane】
+<enT0161>"When you think about it, it's really bizarre. Death is the most terrifying thing within each of us, so we all think of it as the worst tragedy that could ever befall us."
+<ptT0161>"When you think about it, it's really bizarre. Death is the most terrifying thing within each of us, so we all think of it as the worst tragedy that could ever befall us."
+
+//TEXT 【Tomosane】
+<enT0162>"And yet people die every day. People die and it doesn't even matter."
+<ptT0162>"And yet people die every day. People die and it doesn't even matter."
+
+//TEXT 【Tomosane】
+<enT0163>"If death was such a frightful thing, there would be revolution every day as the people desperately tried to escape their deaths."
+<ptT0163>"If death was such a frightful thing, there would be revolution every day as the people desperately tried to escape their deaths."
+
+//TEXT 【Tomosane】
+<enT0164>"But the truth is far from it. Most people don't thrash or cry in fear of their death. They simply die."
+<ptT0164>"But the truth is far from it. Most people don't thrash or cry in fear of their death. They simply die."
+
+//TEXT 【Tomosane】
+<enT0165>"Well, it is true that many people experience regret when sentenced to death, but at the moment of death, they are perfectly calm."
+<ptT0165>"Well, it is true that many people experience regret when sentenced to death, but at the moment of death, they are perfectly calm."
+
+//TEXT 【Tomosane】
+<enT0166>"In other words, everyone knows that death isn't worth lamenting. It's perfectly obvious."
+<ptT0166>"In other words, everyone knows that death isn't worth lamenting. It's perfectly obvious."
+
+//TEXT 【Tomosane】
+<enT0167>"It's a perverted impulse that even leads people to contemplate death."
+<ptT0167>"It's a perverted impulse that even leads people to contemplate death."
+
+//TEXT 【Ayana】
+<enT0168>"Then you aren't afraid of dying?"
+<ptT0168>"Then you aren't afraid of dying?"
+
+//TEXT 【Tomosane】
+<enT0169>"No, I'm afraid. Of course I am, but I don't fear it any more than everyone else on this planet."
+<ptT0169>"No, I'm afraid. Of course I am, but I don't fear it any more than everyone else on this planet."
+
+//TEXT 【Ayana】
+<enT0170>"Everyone fears death?"
+<ptT0170>"Everyone fears death?"
+
+//TEXT 【Tomosane】
+<enT0171>"Yeah... It's the same reason that a newborn infant cries, don't you think?"
+<ptT0171>"Yeah... It's the same reason that a newborn infant cries, don't you think?"
+
+//TEXT 【Ayana】
+<enT0172>"The reason a newborn infant cries..."
+<ptT0172>"The reason a newborn infant cries..."
+
+//TEXT 【Tomosane】
+<enT0173>"One who came before existence might loathe existence just as we loathe death."
+<ptT0173>"One who came before existence might loathe existence just as we loathe death."
+
+//TEXT 【Tomosane】
+<enT0174>"For instance, if a newborn infant cried to curse its own life..."
+<ptT0174>"For instance, if a newborn infant cried to curse its own life..."
+
+//TEXT 【Tomosane】
+<enT0175>"I actually... had a dream like that several times."
+<ptT0175>"I actually... had a dream like that several times."
+
+//TEXT 【Ayana】
+<enT0176>"A dream?"
+<ptT0176>"A dream?"
+
+//TEXT 【Tomosane】
+<enT0177>"Yes, a dream. It was a premonition."
+<ptT0177>"Yes, a dream. It was a premonition."
+
+//TEXT 【Tomosane】
+<enT0178>"I'm sure it was a premonition."
+<ptT0178>"I'm sure it was a premonition."
+
+//TEXT 【Ayana】
+<enT0179>"What kind of premonition?"
+<ptT0179>"What kind of premonition?"
+
+//TEXT 【Tomosane】
+<enT0180>"A baby is born."
+<ptT0180>"A baby is born."
+
+//TEXT 【Ayana】
+<enT0181>"Whose?"
+<ptT0181>"Whose?"
+
+//TEXT 【Tomosane】
+<enT0182>"I don't know."
+<ptT0182>"I don't know."
+
+//TEXT 【Tomosane】
+<enT0183>"I don't know, but..."
+<ptT0183>"I don't know, but..."
+
+//TEXT 【Tomosane】
+<enT0184>"A baby is born."
+<ptT0184>"A baby is born."
+
+//TEXT 【Tomosane】
+<enT0185>"And that baby... cries."
+<ptT0185>"And that baby... cries."
+
+//TEXT 【Tomosane】
+<enT0186>"Wah, wah..."
+<ptT0186>"Wah, wah..."
+
+//TEXT 【Tomosane】
+<enT0187>"Everyone laughs as they hear the baby cry."
+<ptT0187>"Everyone laughs as they hear the baby cry."
+
+//TEXT 【Tomosane】
+<enT0188>"They all bless the child."
+<ptT0188>"They all bless the child."
+
+//TEXT 【Tomosane】
+<enT0189>"The mother..."
+<ptT0189>"The mother..."
+
+//TEXT 【Tomosane】
+<enT0190>"The father..."
+<ptT0190>"The father..."
+
+//TEXT 【Tomosane】
+<enT0191>"And everyone else in the room."
+<ptT0191>"And everyone else in the room."
+
+//TEXT 【Tomosane】
+<enT0192>"The child's life..."
+<ptT0192>"The child's life..."
+
+//TEXT 【Tomosane】
+<enT0193>"They bless it."
+<ptT0193>"They bless it."
+
+//TEXT 【Tomosane】
+<enT0194>"The world is full with blessings for life."
+<ptT0194>"The world is full with blessings for life."
+
+//TEXT 【Tomosane】
+<enT0195>"However..."
+<ptT0195>"However..."
+
+//TEXT 【Tomosane】
+<enT0196>"However, that's wrong."
+<ptT0196>"However, that's wrong."
+
+//TEXT 【Tomosane】
+<enT0197>"And then..."
+<ptT0197>"And then..."
+
+//TEXT 【Tomosane】
+<enT0198>"I..."
+<ptT0198>"I..."
+
+//TEXT 【Tomosane】
+<enT0199>"I alone feel fear."
+<ptT0199>"I alone feel fear."
+
+//TEXT 【Tomosane】
+<enT0200>"Fear."
+<ptT0200>"Fear."
+
+//TEXT 【Tomosane】
+<enT0201>"Because..."
+<ptT0201>"Because..."
+
+//TEXT 【Tomosane】
+<enT0202>"The baby is cursing the world."
+<ptT0202>"The baby is cursing the world."
+
+//TEXT 【Tomosane】
+<enT0203>"Truly..."
+<ptT0203>"Truly..."
+
+//TEXT 【Tomosane】
+<enT0204>"The newborn baby curses the world into which he is born."
+<ptT0204>"The newborn baby curses the world into which he is born."
+
+//TEXT 【Tomosane】
+<enT0205>"He curses the very fact that he was born."
+<ptT0205>"He curses the very fact that he was born."
+
+//TEXT 【Tomosane】
+<enT0206>"I..."
+<ptT0206>"I..."
+
+//TEXT 【Tomosane】
+<enT0207>"I freeze in that spot."
+<ptT0207>"I freeze in that spot."
+
+//TEXT 【Tomosane】
+<enT0208>"As everyone laughs."
+<ptT0208>"As everyone laughs."
+
+//TEXT 【Tomosane】
+<enT0209>"In blessed ignorance."
+<ptT0209>"In blessed ignorance."
+
+//TEXT 【Tomosane】
+<enT0210>"I alone..."
+<ptT0210>"I alone..."
+
+//TEXT 【Tomosane】
+<enT0211>"I stumble..."
+<ptT0211>"I stumble..."
+
+//TEXT 【Tomosane】
+<enT0212>"I stumble and stagger, but somehow..."
+<ptT0212>"I stumble and stagger, but somehow..."
+
+//TEXT 【Tomosane】
+<enT0213>"I come closer to that baby."
+<ptT0213>"I come closer to that baby."
+
+//TEXT 【Tomosane】
+<enT0214>"And I try to stop its crying."
+<ptT0214>"And I try to stop its crying."
+
+//TEXT 【Tomosane】
+<enT0215>"And I know I have to do this."
+<ptT0215>"And I know I have to do this."
+
+//TEXT 【Tomosane】
+<enT0216>"Why?"
+<ptT0216>"Why?"
+
+//TEXT 【Tomosane】
+<enT0217>"I don't know why, but..."
+<ptT0217>"I don't know why, but..."
+
+//TEXT 【Tomosane】
+<enT0218>"That baby, you know?"
+<ptT0218>"That baby, you know?"
+
+//TEXT 【Tomosane】
+<enT0219>"He was born."
+<ptT0219>"He was born."
+
+//TEXT 【Tomosane】
+<enT0220>"And I think about the cruelty in my life."
+<ptT0220>"And I think about the cruelty in my life."
+
+//TEXT 【Tomosane】
+<enT0221>"And I think..."
+<ptT0221>"And I think..."
+
+//TEXT 【Tomosane】
+<enT0222>"That this could be..."
+<ptT0222>"That this could be..."
+
+//TEXT 【Tomosane】
+<enT0223>"This could be my one way to atone for my sins."
+<ptT0223>"This could be my one way to atone for my sins."
+
+//TEXT 【Tomosane】
+<enT0224>"Sins against who?"
+<ptT0224>"Sins against who?"
+
+//TEXT 【Tomosane】
+<enT0225>"Probably..."
+<ptT0225>"Probably..."
+
+//TEXT 【Tomosane】
+<enT0226>"Against that baby..."
+<ptT0226>"Against that baby..."
+
+//TEXT 【Tomosane】
+<enT0227>"And..."
+<ptT0227>"And..."
+
+//TEXT 【Tomosane】
+<enT0228>"Against something else, too..."
+<ptT0228>"Against something else, too..."
+
+//TEXT 【Tomosane】
+<enT0229>"I think..."
+<ptT0229>"I think..."
+
+//TEXT 【Tomosane】
+<enT0230>"I would strangle that newborn baby. I would try to end his life right there."
+<ptT0230>"I would strangle that newborn baby. I would try to end his life right there."
+
+//TEXT 【Tomosane】
+<enT0231>"I would end his life."
+<ptT0231>"I would end his life."
+
+//TEXT 【Tomosane】
+<enT0232>"As everyone else laughed."
+<ptT0232>"As everyone else laughed."
+
+//TEXT 【Tomosane】
+<enT0233>"I would... I would put my hands around his neck."
+<ptT0233>"I would... I would put my hands around his neck."
+
+//TEXT 【Tomosane】
+<enT0234>"But..."
+<ptT0234>"But..."
+
+//TEXT 【Tomosane】
+<enT0235>"I can't do it."
+<ptT0235>"I can't do it."
+
+//TEXT 【Tomosane】
+<enT0236>"With my hands around the neck of that crying baby..."
+<ptT0236>"With my hands around the neck of that crying baby..."
+
+//TEXT 【Tomosane】
+<enT0237>"I..."
+<ptT0237>"I..."
+
+//TEXT 【Tomosane】
+<enT0238>"I can't bring myself to throttle him."
+<ptT0238>"I can't bring myself to throttle him."
+
+//TEXT 【Tomosane】
+<enT0239>"Why?"
+<ptT0239>"Why?"
+
+//TEXT 【Tomosane】
+<enT0240>"Why is that?"
+<ptT0240>"Why is that?"
+
+//TEXT 【Tomosane】
+<enT0241>"Even as I'm confronted with my one means of atonement, I can't do it."
+<ptT0241>"Even as I'm confronted with my one means of atonement, I can't do it."
+
+//TEXT 【Tomosane】
+<enT0242>"Though I know I must bring an end to his cries."
+<ptT0242>"Though I know I must bring an end to his cries."
+
+//TEXT 【Tomosane】
+<enT0243>"I can't do it."
+<ptT0243>"I can't do it."
+
+//TEXT 【Tomosane】
+<enT0244>"I can't give that baby meaning to his life."
+<ptT0244>"I can't give that baby meaning to his life."
+
+//TEXT 【Tomosane】
+<enT0245>"I can't give him any possibilities."
+<ptT0245>"I can't give him any possibilities."
+
+//TEXT 【Tomosane】
+<enT0246>"I know it's the one thing I can do to atone, but..."
+<ptT0246>"I know it's the one thing I can do to atone, but..."
+
+//TEXT 【Tomosane】
+<enT0247>"I can't do it."
+<ptT0247>"I can't do it."
+
+//TEXT 【Tomosane】
+<enT0248>"I collapse on the spot."
+<ptT0248>"I collapse on the spot."
+
+//TEXT 【Tomosane】
+<enT0249>"Right there..."
+<ptT0249>"Right there..."
+
+//TEXT 【Tomosane】
+<enT0250>"I break into tears."
+<ptT0250>"I break into tears."
+
+//TEXT 【Tomosane】
+<enT0251>"I cry like a baby."
+<ptT0251>"I cry like a baby."
+
+//TEXT 【Tomosane】
+<enT0252>"I'm utterly pathetic."
+<ptT0252>"I'm utterly pathetic."
+
+//TEXT 【Tomosane】
+<enT0253>"Even in a dream."
+<ptT0253>"Even in a dream."
+
+//TEXT 【Tomosane】
+<enT0254>"I can't do a thing."
+<ptT0254>"I can't do a thing."
+
+//TEXT 【Tomosane】
+<enT0255>"I cry and cry."
+<ptT0255>"I cry and cry."
+
+//TEXT 【Tomosane】
+<enT0256>"A grown man."
+<ptT0256>"A grown man."
+
+//TEXT 【Tomosane】
+<enT0257>"How pathetic."
+<ptT0257>"How pathetic."
+
+//TEXT 【Tomosane】
+<enT0258>"..."
+<ptT0258>"..."
+
+//TEXT 【Tomosane】
+<enT0259>"And as I do..."
+<ptT0259>"And as I do..."
+
+//TEXT 【Tomosane】
+<enT0260>"The crying of that baby..."
+<ptT0260>"The crying of that baby..."
+
+//TEXT 【Tomosane】
+<enT0261>"It changes."
+<ptT0261>"It changes."
+
+//TEXT 【Tomosane】
+<enT0262>"It becomes... normal."
+<ptT0262>"It becomes... normal."
+
+//TEXT 【Tomosane】
+<enT0263>"Then..."
+<ptT0263>"Then..."
+
+//TEXT 【Tomosane】
+<enT0264>"The baby simply cries like any other."
+<ptT0264>"The baby simply cries like any other."
+
+//TEXT 【Tomosane】
+<enT0265>"As I listen to its cries..."
+<ptT0265>"As I listen to its cries..."
+
+//TEXT 【Tomosane】
+<enT0266>"As I myself cry..."
+<ptT0266>"As I myself cry..."
+
+//TEXT 【Tomosane】
+<enT0267>"I think to myself, thank goodness..."
+<ptT0267>"I think to myself, thank goodness..."
+
+//TEXT 【Tomosane】
+<enT0268>"Thank goodness..."
+<ptT0268>"Thank goodness..."
+
+//TEXT 【Tomosane】
+<enT0269>"Why?"
+<ptT0269>"Why?"
+
+//TEXT 【Tomosane】
+<enT0270>"I don't really know, but..."
+<ptT0270>"I don't really know, but..."
+
+//TEXT 【Tomosane】
+<enT0271>"Thank goodness..."
+<ptT0271>"Thank goodness..."
+
+//TEXT 【Tomosane】
+<enT0272>"Nothing was really resolved."
+<ptT0272>"Nothing was really resolved."
+
+//TEXT 【Tomosane】
+<enT0273>"Nothing really changed."
+<ptT0273>"Nothing really changed."
+
+//TEXT 【Tomosane】
+<enT0274>"Just..."
+<ptT0274>"Just..."
+
+//TEXT 【Tomosane】
+<enT0275>"Just thank goodness."
+<ptT0275>"Just thank goodness."
+
+//TEXT 【Tomosane】
+<enT0276>"I cry."
+<ptT0276>"I cry."
+
+//TEXT 【Tomosane】
+<enT0277>"And I think..."
+<ptT0277>"And I think..."
+
+//TEXT 【Tomosane】
+<enT0278>"The fact that I was born... The fact that I'm alive today is probably..."
+<ptT0278>"The fact that I was born... The fact that I'm alive today is probably..."
+
+//TEXT 【Tomosane】
+<enT0279>"I think it's the same thing."
+<ptT0279>"I think it's the same thing."
+
+//TEXT 【Tomosane】
+<enT0280>"Yes..."
+<ptT0280>"Yes..."
+
+//TEXT 【Tomosane】
+<enT0281>"And then I said..."
+<ptT0281>"And then I said..."
+
+//TEXT 【Tomosane】
+<enT0282>"I said this was a premonition."
+<ptT0282>"I said this was a premonition."
+
+//TEXT 【Tomosane】
+<enT0283>"That's what I think."
+<ptT0283>"That's what I think."
+
+//TEXT 【Tomosane】
+<enT0284>"It's a premonition of my own life."
+<ptT0284>"It's a premonition of my own life."
+
+//TEXT 【Tomosane】
+<enT0285>"The first question... You asked if I was afraid of death."
+<ptT0285>"The first question... You asked if I was afraid of death."
+
+//TEXT 【Tomosane】
+<enT0286>"Death is fearsome, but death will never come to any of us. That's the truth, and I understand it as such, yet I still find myself afraid."
+<ptT0286>"Death is fearsome, but death will never come to any of us. That's the truth, and I understand it as such, yet I still find myself afraid."
+
+//TEXT 【Tomosane】
+<enT0287>"The fear of death germinates in a mind which thinks itself either blessed or cursed."
+<ptT0287>"The fear of death germinates in a mind which thinks itself either blessed or cursed."
+
+//TEXT 【Tomosane】
+<enT0288>"Without that blessing, or that curse, man would not fear death, just as wild animals do not fear it."
+<ptT0288>"Without that blessing, or that curse, man would not fear death, just as wild animals do not fear it."
+
+//TEXT 【Tomosane】
+<enT0289>"That blessing tortures man; that curse tortures man."
+<ptT0289>"That blessing tortures man; that curse tortures man."
+
+//TEXT 【Tomosane】
+<enT0290>"At the same time, that blessing saves man; that curse too saves man."
+<ptT0290>"At the same time, that blessing saves man; that curse too saves man."
+
+//TEXT 【Tomosane】
+<enT0291>"I guess that doesn't answer your question..."
+<ptT0291>"I guess that doesn't answer your question..."
+
+//TEXT 【Ayana】
+<enT0292>"No... That is a very good answer."
+<ptT0292>"No... That is a very good answer."
+
+//TEXT 【Tomosane】
+<enT0293>"Ayana... You called it the End Sky?"
+<ptT0293>"Ayana... You called it the End Sky?"
+
+//TEXT 【Ayana】
+<enT0294>"End Sky."
+<ptT0294>"End Sky."
+
+//TEXT 【Tomosane】
+<enT0295>"Can I see it too?"
+<ptT0295>"Can I see it too?"
+
+//TEXT 【Ayana】
+<enT0296>"Yes."
+<ptT0296>"Yes."
+
+//TEXT 【Tomosane】
+<enT0297>"Will I really be able to see it?"
+<ptT0297>"Will I really be able to see it?"
+
+//TEXT 【Ayana】
+<enT0298>"You will... but the last sky isn't yours."
+<ptT0298>"You will... but the last sky isn't yours."
+
+//TEXT 【Tomosane】
+<enT0299>"The last sky isn't mine?"
+<ptT0299>"The last sky isn't mine?"
+
+//TEXT 【Ayana】
+<enT0300>"Yeah, he's coming back soon. I guess he's done ravishing me."
+<ptT0300>"Yeah, he's coming back soon. I guess he's done ravishing me."
+
+//TEXT 【Tomosane】
+<enT0301>"Ravishing you? Are you talking about Mamiya Takuji's delusions?"
+<ptT0301>"Ravishing you? Are you talking about Mamiya Takuji's delusions?"
+
+//TEXT 【Ayana】
+<enT0302>"Yes. Look..."
+<ptT0302>"Yes. Look..."
+
+//TEXT 【Tomosane】
+<enT0303>"Huh?"
+<ptT0303>"Huh?"
+
+//TEXT
+<enT0304>A shadow?
+<ptT0304>A shadow?
+
+//TEXT
+<enT0305>No, that's not it. This is the same as before.
+<ptT0305>No, that's not it. This is the same as before.
+
+//TEXT
+<enT0306>A shadow that wasn't there a moment before... That shadow gradually took shape before my eyes.
+<ptT0306>A shadow that wasn't there a moment before... That shadow gradually took shape before my eyes.
+
+//TEXT
+<enT0307>That shadow, standing between me and Ayana, took a human form.
+<ptT0307>That shadow, standing between me and Ayana, took a human form.
+
+//TEXT 【Tomosane】
+<enT0308>"Mamiya Takuji..."
+<ptT0308>"Mamiya Takuji..."
+
+//TEXT 【Takuji】
+<enT0309>"What... What did you just do to me?!"
+<ptT0309>"What... What did you just do to me?!"
+
+//TEXT 【Ayana】
+<enT0310>"I didn't do anything. I just watched."
+<ptT0310>"I didn't do anything. I just watched."
+
+//TEXT 【Takuji】
+<enT0311>"You did something!"
+<ptT0311>"You did something!"
+
+//TEXT 【Ayana】
+<enT0312>"Hehehe, you just got caught up in your delusions. I didn't do anything."
+<ptT0312>"Hehehe, you just got caught up in your delusions. I didn't do anything."
+
+//TEXT 【Takuji】
+<enT0313>"What did you say?! There's no way that was a delusion! If I had such a realistic delusion like that, I wouldn't... I wouldn't even be able to tell the difference between reality and my delusions!"
+<ptT0313>"What did you say?! There's no way that was a delusion! If I had such a realistic delusion like that, I wouldn't... I wouldn't even be able to tell the difference between reality and my delusions!"
+
+//TEXT 【Takuji】
+<enT0314>"That's right! I definitely felt the warmth of your skin! That couldn't have been an illusion!"
+<ptT0314>"That's right! I definitely felt the warmth of your skin! That couldn't have been an illusion!"
+
+//TEXT 【Ayana】
+<enT0315>"Warmth..."
+<ptT0315>"Warmth..."
+
+//TEXT 【Ayana】
+<enT0316>"How nasty."
+<ptT0316>"How nasty."
+
+//TEXT 【Takuji】
+<enT0317>"Wh-What are you saying?!"
+<ptT0317>"Wh-What are you saying?!"
+
+//TEXT 【Takuji】
+<enT0318>"You're just some perverted futanari girl! You came everywhere!"
+<ptT0318>"You're just some perverted futanari girl! You came everywhere!"
+
+//TEXT 【Ayana】
+<enT0319>"Like I said, I'm not a futanari."
+<ptT0319>"Like I said, I'm not a futanari."
+
+//TEXT 【Takuji】
+<enT0320>"No, I'll prove you're a futanari!"
+<ptT0320>"No, I'll prove you're a futanari!"
+
+//TEXT 【Takuji】
+<enT0321>"See, I knew it."
+<ptT0321>"See, I knew it."
+
+//TEXT 【Takuji】
+<enT0322>"Huh?!"
+<ptT0322>"Huh?!"
+
+//TEXT 【Ayana】
+<enT0323>"..."
+<ptT0323>"..."
+
+//TEXT 【Takuji】
+<enT0324>"...It's not there?"
+<ptT0324>"...It's not there?"
+
+//TEXT 【Ayana】
+<enT0325>"Mamiya-kun."
+<ptT0325>"Mamiya-kun."
+
+//TEXT 【Takuji】
+<enT0326>"Agh... Blood?"
+<ptT0326>"Agh... Blood?"
+
+//TEXT 【Ayana】
+<enT0327>"Mamiya-kun, that was over the line for a prank. You deserved to get punched for that. Hehehe, your nose is bleeding."
+<ptT0327>"Mamiya-kun, that was over the line for a prank. You deserved to get punched for that. Hehehe, your nose is bleeding."
+
+//TEXT 【Takuji】
+<enT0328>"Ugh!"
+<ptT0328>"Ugh!"
+
+//TEXT 【Takuji】
+<enT0329>"Agh... Oww!"
+<ptT0329>"Agh... Oww!"
+
+//TEXT 【Ayana】
+<enT0330>"If you want to pull a prank the next time you see me, you should be satisfied with just flicking my forehead."
+<ptT0330>"If you want to pull a prank the next time you see me, you should be satisfied with just flicking my forehead."
+
+//TEXT 【Ayana】
+<enT0331>"Otherwise, I'll break your nose again."
+<ptT0331>"Otherwise, I'll break your nose again."
+
+//TEXT 【Takuji】
+<enT0332>"Y-You..."
+<ptT0332>"Y-You..."
+
+//TEXT 【Ayana】
+<enT0333>"But... maybe there won't be a next time."
+<ptT0333>"But... maybe there won't be a next time."
+
+//TEXT 【Takuji】
+<enT0334>"..."
+<ptT0334>"..."
+
+//TEXT 【Ayana】
+<enT0335>"Hehehe... I am Otonashi Ayana. That's what they call me. I am not your Riruru-chan's dregs, and I am not a shadow. I am not one of your delusions."
+<ptT0335>"Hehehe... I am Otonashi Ayana. That's what they call me. I am not your Riruru-chan's dregs, and I am not a shadow. I am not one of your delusions."
+
+//TEXT 【Takuji】
+<enT0336>"Riruru-chan isn't a delusion!"
+<ptT0336>"Riruru-chan isn't a delusion!"
+
+//TEXT 【Ayana】
+<enT0337>"Yes, that isn't a delusion."
+<ptT0337>"Yes, that isn't a delusion."
+
+//TEXT 【Ayana】
+<enT0338>"But that might be how it is. It refuses to recognize itself as a delusion, just like I do, and just like you do."
+<ptT0338>"But that might be how it is. It refuses to recognize itself as a delusion, just like I do, and just like you do."
+
+//TEXT 【Ayana】
+<enT0339>"I'm not a delusion, and neither are you standing in front of me, but..."
+<ptT0339>"I'm not a delusion, and neither are you standing in front of me, but..."
+
+//TEXT 【Ayana】
+<enT0340>"I am Otonashi Ayana."
+<ptT0340>"I am Otonashi Ayana."
+
+//TEXT 【Ayana】
+<enT0341>"In this setting, I am human."
+<ptT0341>"In this setting, I am human."
+
+//TEXT 【Ayana】
+<enT0342>"But you're not a human anymore."
+<ptT0342>"But you're not a human anymore."
+
+//TEXT 【Takuji】
+<enT0343>"O-Of course not. I'm the savior!"
+<ptT0343>"O-Of course not. I'm the savior!"
+
+//TEXT 【Takuji】
+<enT0344>"I'm going to save humanity. There's no way I could be a normal human!"
+<ptT0344>"I'm going to save humanity. There's no way I could be a normal human!"
+
+//TEXT 【Takuji】
+<enT0345>"And I'm not the property of that pathetic soul called Mamiya Takuji!"
+<ptT0345>"And I'm not the property of that pathetic soul called Mamiya Takuji!"
+
+//TEXT 【Takuji】
+<enT0346>"I'm the person who will return the world to the sky! I am the savior! I am the one who controls the Holy Surge!"
+<ptT0346>"I'm the person who will return the world to the sky! I am the savior! I am the one who controls the Holy Surge!"
+
+//TEXT 【Ayana】
+<enT0347>"Yes, you will return it to the sky... That sky is called..."
+<ptT0347>"Yes, you will return it to the sky... That sky is called..."
+
+//TEXT 【Takuji】
+<enT0348>"The limit of the world. The final sky. End Sky."
+<ptT0348>"The limit of the world. The final sky. End Sky."
+
+//TEXT 【Ayana】
+<enT0349>"Yes. You will reach the End Sky."
+<ptT0349>"Yes. You will reach the End Sky."
+
+//TEXT 【Takuji】
+<enT0350>"The infinite and finite connect. The finite and the infinite connect. A spinning Ouroboros."
+<ptT0350>"The infinite and finite connect. The finite and the infinite connect. A spinning Ouroboros."
+
+//TEXT 【Takuji】
+<enT0351>"Circulation... eternal recurrence... continuity... eternity... circular motion... death and resurrection... destruction and creation... the base of the universe... the infinite... immortality... perfection... omniscience and omnipotence..."
+<ptT0351>"Circulation... eternal recurrence... continuity... eternity... circular motion... death and resurrection... destruction and creation... the base of the universe... the infinite... immortality... perfection... omniscience and omnipotence..."
+
+//TEXT 【Ayana】
+<enT0352>"Hmm... That sounds complicated."
+<ptT0352>"Hmm... That sounds complicated."
+
+//TEXT 【Takuji】
+<enT0353>"The awakening of Jormungandr is at hand! It encircles Midgard. The great sea serpent grasping his own tail will awaken!"
+<ptT0353>"The awakening of Jormungandr is at hand! It encircles Midgard. The great sea serpent grasping his own tail will awaken!"
+
+//TEXT 【Takuji】
+<enT0354>"It is at hand!"
+<ptT0354>"It is at hand!"
+
+//TEXT 【Takuji】
+<enT0355>"Therefore, we must return to the sky!"
+<ptT0355>"Therefore, we must return to the sky!"
+
+//TEXT 【Ayana】
+<enT0356>"Hehehehe... That's nice."
+<ptT0356>"Hehehehe... That's nice."
+
+//TEXT 【Ayana】
+<enT0357>"You've found a reason for your existence."
+<ptT0357>"You've found a reason for your existence."
+
+//TEXT 【Takuji】
+<enT0358>"What?"
+<ptT0358>"What?"
+
+//TEXT 【Takuji】
+<enT0359>"It's not such a simple, vulgar concept as you think."
+<ptT0359>"It's not such a simple, vulgar concept as you think."
+
+//TEXT 【Ayana】
+<enT0360>"Hehehe, of course."
+<ptT0360>"Hehehe, of course."
+
+//TEXT 【Ayana】
+<enT0361>"Minakami Yuki..."
+<ptT0361>"Minakami Yuki..."
+
+//TEXT 【Ayana】
+<enT0362>"Yuuki Tomosane..."
+<ptT0362>"Yuuki Tomosane..."
+
+//TEXT 【Takuji】
+<enT0363>"Wha―?!"
+<ptT0363>"Wha―?!"
+
+//TEXT 【Takuji】
+<enT0364>"Wh-What about them?!"
+<ptT0364>"Wh-What about them?!"
+
+//TEXT 【Ayana】
+<enT0365>"Hehe."
+<ptT0365>"Hehe."
+
+//TEXT 【Ayana】
+<enT0366>"Even now, you react to their names. They still bother you."
+<ptT0366>"Even now, you react to their names. They still bother you."
+
+//TEXT 【Takuji】
+<enT0367>"Wh-Why would I care about them? There's no reason for me to."
+<ptT0367>"Wh-Why would I care about them? There's no reason for me to."
+
+//TEXT 【Ayana】
+<enT0368>"Those two are living completely different lives than you are, saying completely different things than you are."
+<ptT0368>"Those two are living completely different lives than you are, saying completely different things than you are."
+
+//TEXT 【Ayana】
+<enT0369>"Each one sees different things, does different things, yet those things are the same."
+<ptT0369>"Each one sees different things, does different things, yet those things are the same."
+
+//TEXT 【Ayana】
+<enT0370>"The three are at the same time both disconnected and unified."
+<ptT0370>"The three are at the same time both disconnected and unified."
+
+//TEXT 【Ayana】
+<enT0371>"Creation, Harmony... and Destruction."
+<ptT0371>"Creation, Harmony... and Destruction."
+
+//TEXT 【Ayana】
+<enT0372>"Their natures are completely different, but they're the same."
+<ptT0372>"Their natures are completely different, but they're the same."
+
+//TEXT 【Ayana】
+<enT0373>"One who names it. One who speaks it. One who erases it."
+<ptT0373>"One who names it. One who speaks it. One who erases it."
+
+//TEXT 【Ayana】
+<enT0374>"Yuuki Tomosane-kun... He said..."
+<ptT0374>"Yuuki Tomosane-kun... He said..."
+
+//TEXT 【Takuji】
+<enT0375>"What did he say?"
+<ptT0375>"What did he say?"
+
+//TEXT 【Ayana】
+<enT0376>"A crying..."
+<ptT0376>"A crying..."
+
+//TEXT 【Takuji】
+<enT0377>"Huh?"
+<ptT0377>"Huh?"
+
+//TEXT 【Ayana】
+<enT0378>"A crying infant. He couldn't stop it from crying."
+<ptT0378>"A crying infant. He couldn't stop it from crying."
+
+//TEXT 【Ayana】
+<enT0379>"And the fact that he couldn't might be man's original sin, and because of that, its benevolence."
+<ptT0379>"And the fact that he couldn't might be man's original sin, and because of that, its benevolence."
+
+//TEXT 【Ayana】
+<enT0380>"For a human to live is benevolence in the form of original sin."
+<ptT0380>"For a human to live is benevolence in the form of original sin."
+
+//TEXT 【Ayana】
+<enT0381>"The road to hell is paved with good intentions."
+<ptT0381>"The road to hell is paved with good intentions."
+
+//TEXT 【Ayana】
+<enT0382>"In that case, the road to hell is made of hope."
+<ptT0382>"In that case, the road to hell is made of hope."
+
+//TEXT 【Takuji】
+<enT0383>"Hope..."
+<ptT0383>"Hope..."
+
+//TEXT 【Ayana】
+<enT0384>"Yes, to live is to hope."
+<ptT0384>"Yes, to live is to hope."
+
+//TEXT 【Ayana】
+<enT0385>"But..."
+<ptT0385>"But..."
+
+//TEXT 【Ayana】
+<enT0386>"You don't need that anymore, since you're trying to do what Yuuki-kun was originally supposed to do."
+<ptT0386>"You don't need that anymore, since you're trying to do what Yuuki-kun was originally supposed to do."
+
+//TEXT 【Ayana】
+<enT0387>"The roles of the gods change. The Destroyer becomes the Creator. The Creator becomes the Harmonizer. Each of their roles change."
+<ptT0387>"The roles of the gods change. The Destroyer becomes the Creator. The Creator becomes the Harmonizer. Each of their roles change."
+
+//TEXT 【Ayana】
+<enT0388>"The Destroyer has lost his right to destroy, since the Creator is ending everything."
+<ptT0388>"The Destroyer has lost his right to destroy, since the Creator is ending everything."
+
+//TEXT 【Ayana】
+<enT0389>"After rebirth, the god that was supposed to rule over harmony can't do anything. The Creator has given up on being the Rebirther."
+<ptT0389>"After rebirth, the god that was supposed to rule over harmony can't do anything. The Creator has given up on being the Rebirther."
+
+//TEXT 【Ayana】
+<enT0390>"The Creator is trying to destroy the world he created."
+<ptT0390>"The Creator is trying to destroy the world he created."
+
+//TEXT 【Ayana】
+<enT0391>"The Destroyer speaks of hope."
+<ptT0391>"The Destroyer speaks of hope."
+
+//TEXT 【Ayana】
+<enT0392>"The Creator speaks of despair."
+<ptT0392>"The Creator speaks of despair."
+
+//TEXT 【Ayana】
+<enT0393>"The Harmonizer hesitates and stops in place."
+<ptT0393>"The Harmonizer hesitates and stops in place."
+
+//TEXT 【Ayana】
+<enT0394>"Stops and looks at where the world is going."
+<ptT0394>"Stops and looks at where the world is going."
+
+//TEXT 【Ayana】
+<enT0395>"Now that the rotation has begun, it can't be stopped."
+<ptT0395>"Now that the rotation has begun, it can't be stopped."
+
+//TEXT 【Ayana】
+<enT0396>"The final puzzle for man is the infinite and the finite, rotation and suspension."
+<ptT0396>"The final puzzle for man is the infinite and the finite, rotation and suspension."
+
+//TEXT 【Takuji】
+<enT0397>"Shut up! Shut up! I'm tired of listening to you!"
+<ptT0397>"Shut up! Shut up! I'm tired of listening to you!"
+
+//TEXT 【Takuji】
+<enT0398>"I'm... I'm the person who will reach the End Sky!"
+<ptT0398>"I'm... I'm the person who will reach the End Sky!"
+
+//TEXT 【Takuji】
+<enT0399>"I'll say it again! I'm the person who will reach the End Sky!"
+<ptT0399>"I'll say it again! I'm the person who will reach the End Sky!"
+
+//TEXT 【Takuji】
+<enT0400>"I'll say it again! I am the herald of the End Sky!"
+<ptT0400>"I'll say it again! I am the herald of the End Sky!"
+
+//TEXT 【Takuji】
+<enT0401>"I'll say it again! I hate you!"
+<ptT0401>"I'll say it again! I hate you!"
+
+//TEXT 【Takuji】
+<enT0402>"I am the forerunner of prophecy, who will reach the complete world."
+<ptT0402>"I am the forerunner of prophecy, who will reach the complete world."
+
+//TEXT 【Ayana】
+<enT0403>"Today is already the 18th. There's just a little longer to go until the last sky."
+<ptT0403>"Today is already the 18th. There's just a little longer to go until the last sky."
+
+//TEXT 【Takuji】
+<enT0404>"That's right. The final sky. The last sky. The world's limit is approaching. Soon, soon I'll see the world's limit."
+<ptT0404>"That's right. The final sky. The last sky. The world's limit is approaching. Soon, soon I'll see the world's limit."
+
+//TEXT 【Takuji】
+<enT0405>"There's not much time until the 20th. No, I have to end it before then. I have to return everything to the sky. Everything."
+<ptT0405>"There's not much time until the 20th. No, I have to end it before then. I have to return everything to the sky. Everything."
+
+//TEXT 【Takuji】
+<enT0406>"I have to return all the people gathered in the ark."
+<ptT0406>"I have to return all the people gathered in the ark."
+
+//TEXT 【Takuji】
+<enT0407>"The end is right there. The sky's limit is right there. The boundary line... The world's last... The End Sky is right there. That's it... Look."
+<ptT0407>"The end is right there. The sky's limit is right there. The boundary line... The world's last... The End Sky is right there. That's it... Look."
+
+//TEXT 【Takuji】
+<enT0408>"Just look. It looks so big. It looks so massive."
+<ptT0408>"Just look. It looks so big. It looks so massive."
+
+//TEXT 【Tomosane】
+<enT0409>"Wha―?!"
+<ptT0409>"Wha―?!"
+
+//TEXT
+<enT0410>What is that?
+<ptT0410>What is that?
+
+//TEXT
+<enT0411>The sky looked... strange.
+<ptT0411>The sky looked... strange.
+
+//TEXT
+<enT0412>Is this what Mamiya Takuji was speaking of?
+<ptT0412>Is this what Mamiya Takuji was speaking of?
+
+//TEXT 【Takuji】
+<enT0413>"Beyond the limit... The limit is a door... Yes, a door. And beyond that door is a sea... An incredibly deep sea..."
+<ptT0413>"Beyond the limit... The limit is a door... Yes, a door. And beyond that door is a sea... An incredibly deep sea..."
+
+//TEXT 【Takuji】
+<enT0414>"Look, that is the world's limit... The final sky."
+<ptT0414>"Look, that is the world's limit... The final sky."
+
+//TEXT 【Ayana】
+<enT0415>"You're right."
+<ptT0415>"You're right."
+
+//TEXT 【Takuji】
+<enT0416>"The End Sky has already come this far... There are only a few more inches between us and the edge of the world."
+<ptT0416>"The End Sky has already come this far... There are only a few more inches between us and the edge of the world."
+
+//TEXT 【Takuji】
+<enT0417>"Even now would be fine... I wouldn't mind jumping now."
+<ptT0417>"Even now would be fine... I wouldn't mind jumping now."
+
+//TEXT 【Ayana】
+<enT0418>"Then why haven't you done it yet?"
+<ptT0418>"Then why haven't you done it yet?"
+
+//TEXT 【Takuji】
+<enT0419>"I won't do it yet. I won't do it yet. I won't do it yet... Because I still have things to do here?"
+<ptT0419>"I won't do it yet. I won't do it yet. I won't do it yet... Because I still have things to do here?"
+
+//TEXT 【Tomosane】
+<enT0420>"Ah!"
+<ptT0420>"Ah!"
+
+//TEXT
+<enT0421>That's right. Something I still have to do. Something I have to do, and something Mamiya Takuji has to do.
+<ptT0421>That's right. Something I still have to do. Something I have to do, and something Mamiya Takuji has to do.
+
+//TEXT
+<enT0422>That's right. This is the answer.
+<ptT0422>That's right. This is the answer.
+
+//TEXT
+<enT0423>I took a deep breath and yelled out his name.
+<ptT0423>I took a deep breath and yelled out his name.
+
+//TEXT 【Tomosane】
+<enT0424>"Mamiya Takuji!"
+<ptT0424>"Mamiya Takuji!"
+
+//TEXT 【Takuji】
+<enT0425>"Huh? That voice?!"
+<ptT0425>"Huh? That voice?!"
+
+//TEXT 【Takuji】
+<enT0426>"You... How long have you been there?"
+<ptT0426>"You... How long have you been there?"
+
+//TEXT 【Tomosane】
+<enT0427>"I've been here the whole time, much longer than you knew. Right here beside you. You haven't forgotten about me now that you've become the savior, have you?"
+<ptT0427>"I've been here the whole time, much longer than you knew. Right here beside you. You haven't forgotten about me now that you've become the savior, have you?"
+
+//TEXT 【Takuji】
+<enT0428>"Yuuki Tomosane..."
+<ptT0428>"Yuuki Tomosane..."
+
+//TEXT 【Tomosane】
+<enT0429>"Yeah, that's right. I'm Yuuki. The person you so feared... Yuuki Tomosane-sama."
+<ptT0429>"Yeah, that's right. I'm Yuuki. The person you so feared... Yuuki Tomosane-sama."
+
+//TEXT 【Takuji】
+<enT0430>"Heh... What's with you? I haven't seen you in a while, but it seems like you've changed. I always thought you were just a dumb thug."
+<ptT0430>"Heh... What's with you? I haven't seen you in a while, but it seems like you've changed. I always thought you were just a dumb thug."
+
+//TEXT 【Tomosane】
+<enT0431>"Well, things happen, you know? I've actually always been like this."
+<ptT0431>"Well, things happen, you know? I've actually always been like this."
+
+//TEXT 【Takuji】
+<enT0432>"So what do you want from me?"
+<ptT0432>"So what do you want from me?"
+
+//TEXT 【Tomosane】
+<enT0433>"You didn't finish me off. I'm sure you knew this was coming, right? I'm sure you could sense it."
+<ptT0433>"You didn't finish me off. I'm sure you knew this was coming, right? I'm sure you could sense it."
+
+//TEXT 【Takuji】
+<enT0434>"Sense what?"
+<ptT0434>"Sense what?"
+
+//TEXT 【Tomosane】
+<enT0435>"Your fate. To be erased by me."
+<ptT0435>"Your fate. To be erased by me."
+
+//TEXT 【Takuji】
+<enT0436>"Ha!"
+<ptT0436>"Ha!"
+
+//TEXT 【Takuji】
+<enT0437>"Is that what you came here to say? You're going to erase me? Some lowlife thug off the streets is going to erase me, the savior?"
+<ptT0437>"Is that what you came here to say? You're going to erase me? Some lowlife thug off the streets is going to erase me, the savior?"
+
+//TEXT 【Takuji】
+<enT0438>"Ahahaha... Don't you think you're a bit out of place here?"
+<ptT0438>"Ahahaha... Don't you think you're a bit out of place here?"
+
+//TEXT 【Tomosane】
+<enT0439>"Out of place?"
+<ptT0439>"Out of place?"
+
+//TEXT 【Takuji】
+<enT0440>"Yeah. Exactly. You're the stupidest, lowest person I know. All you know how to do is talk with your fists, right?"
+<ptT0440>"Yeah. Exactly. You're the stupidest, lowest person I know. All you know how to do is talk with your fists, right?"
+
+//TEXT 【Takuji】
+<enT0441>"Yeah, you're stupid, so maybe you don't know this, but talking with your fists means using violence."
+<ptT0441>"Yeah, you're stupid, so maybe you don't know this, but talking with your fists means using violence."
+
+//TEXT 【Takuji】
+<enT0442>"In the furthest reaches of the universe, under the End Sky, why would I meet a vulgar man like you?"
+<ptT0442>"In the furthest reaches of the universe, under the End Sky, why would I meet a vulgar man like you?"
+
+//TEXT 【Takuji】
+<enT0443>"The past times I've come here, I've met White Riruru, the Father Himself, Black Riruru's incarnation Otonashi Ayana, and other metaphysical existences beyond comprehension."
+<ptT0443>"The past times I've come here, I've met White Riruru, the Father Himself, Black Riruru's incarnation Otonashi Ayana, and other metaphysical existences beyond comprehension."
+
+//TEXT 【Takuji】
+<enT0444>"So then, why are you here?"
+<ptT0444>"So then, why are you here?"
+
+//TEXT 【Takuji】
+<enT0445>"A physical being like you appearing here is so out of place. It's like if Mori no Ishimatsu suddenly appeared in Der Ring des Nibelungen and asked, 'Anyone want sushi?'"
+<ptT0445>"A physical being like you appearing here is so out of place. It's like if Mori no Ishimatsu suddenly appeared in Der Ring des Nibelungen and asked, 'Anyone want sushi?'"
+
+//TEXT 【Tomosane】
+<enT0446>"Oh, really? Sorry about that, then. But didn't I say it before?"
+<ptT0446>"Oh, really? Sorry about that, then. But didn't I say it before?"
+
+//TEXT 【Tomosane】
+<enT0447>"The battle between you and me will go on until one of us is destroyed. Did you think you could end it just by hurting me?"
+<ptT0447>"The battle between you and me will go on until one of us is destroyed. Did you think you could end it just by hurting me?"
+
+//TEXT 【Takuji】
+<enT0448>"More or less."
+<ptT0448>"More or less."
+
+//TEXT 【Tomosane】
+<enT0449>"Oh, really? You've underestimated me, then."
+<ptT0449>"Oh, really? You've underestimated me, then."
+
+//TEXT 【Takuji】
+<enT0450>"What are you talking about about? You can't talk after hiding away from me all this time."
+<ptT0450>"What are you talking about about? You can't talk after hiding away from me all this time."
+
+//TEXT 【Tomosane】
+<enT0451>"Hiding? Are you stupid?"
+<ptT0451>"Hiding? Are you stupid?"
+
+//TEXT
+<enT0452>You're the one who tried to erase me.
+<ptT0452>You're the one who tried to erase me.
+
+//TEXT
+<enT0453>But it's not worth explaining that to him.
+<ptT0453>But it's not worth explaining that to him.
+
+//TEXT 【Takuji】
+<enT0454>"I guess you were just waiting till the last moment, right? Were you off training somewhere?"
+<ptT0454>"I guess you were just waiting till the last moment, right? Were you off training somewhere?"
+
+//TEXT 【Tomosane】
+<enT0455>"That's right."
+<ptT0455>"That's right."
+
+//TEXT 【Takuji】
+<enT0456>"So you're planning to give me a performance worthy of the final act on the stage that is this world?"
+<ptT0456>"So you're planning to give me a performance worthy of the final act on the stage that is this world?"
+
+//TEXT 【Tomosane】
+<enT0457>"Yeah, that's it. These are the fruits of my labor."
+<ptT0457>"Yeah, that's it. These are the fruits of my labor."
+
+//TEXT 【Takuji】
+<enT0458>"Labor? What labor?"
+<ptT0458>"Labor? What labor?"
+
+//TEXT 【Tomosane】
+<enT0459>"My labor... working to destroy you."
+<ptT0459>"My labor... working to destroy you."
+
+//TEXT 【Takuji】
+<enT0460>"Working to destroy me?"
+<ptT0460>"Working to destroy me?"
+
+//TEXT 【Tomosane】
+<enT0461>"Yeah. The three principles that you don't understand. Work, courage, and fucking courage!"
+<ptT0461>"Yeah. The three principles that you don't understand. Work, courage, and fucking courage!"
+
+//TEXT 【Takuji】
+<enT0462>"You really have changed. Were you always such a run of the mill thug?"
+<ptT0462>"You really have changed. Were you always such a run of the mill thug?"
+
+//TEXT 【Tomosane】
+<enT0463>"I've never been serious until now. I've always hidden my power. But this time, I'm serious. I've seriously come to kill you."
+<ptT0463>"I've never been serious until now. I've always hidden my power. But this time, I'm serious. I've seriously come to kill you."
+
+//TEXT 【Takuji】
+<enT0464>"This might be a silly question, but why do you want to erase me so badly?"
+<ptT0464>"This might be a silly question, but why do you want to erase me so badly?"
+
+//TEXT 【Tomosane】
+<enT0465>"Hehehehe... Why? That's a stupid question, Mamiya Takuji."
+<ptT0465>"Hehehehe... Why? That's a stupid question, Mamiya Takuji."
+
+//TEXT 【Takuji】
+<enT0466>"Stupid? Would I be wrong to say it's because you've been infected by the Black Surge?"
+<ptT0466>"Stupid? Would I be wrong to say it's because you've been infected by the Black Surge?"
+
+//TEXT 【Tomosane】
+<enT0467>"Black Surge? I see you've come up with some new delusions. I don't remember you using that word the last time we met."
+<ptT0467>"Black Surge? I see you've come up with some new delusions. I don't remember you using that word the last time we met."
+
+//TEXT 【Takuji】
+<enT0468>"Come up with? Are you utterly thoughtless? I didn't come up with it. I learned it. I learned the truth."
+<ptT0468>"Come up with? Are you utterly thoughtless? I didn't come up with it. I learned it. I learned the truth."
+
+//TEXT 【Tomosane】
+<enT0469>"You believe every single one of your silly delusions, huh?"
+<ptT0469>"You believe every single one of your silly delusions, huh?"
+
+//TEXT 【Takuji】
+<enT0470>"Delusions? Hehehe... It must all sound delusional to someone who hasn't even a fragment of knowledge."
+<ptT0470>"Delusions? Hehehe... It must all sound delusional to someone who hasn't even a fragment of knowledge."
+
+//TEXT 【Tomosane】
+<enT0471>"Delusion, huh? Just like Copernicus' heliocentric theory was called delusional, right?"
+<ptT0471>"Delusion, huh? Just like Copernicus' heliocentric theory was called delusional, right?"
+
+//TEXT 【Takuji】
+<enT0472>"So you do understand."
+<ptT0472>"So you do understand."
+
+//TEXT 【Tomosane】
+<enT0473>"In ancient times, even though Philolaus believed that the Central Fire was at the center of the universe and the earth, the sun, and all other celestial objects rotated around it..."
+<ptT0473>"In ancient times, even though Philolaus believed that the Central Fire was at the center of the universe and the earth, the sun, and all other celestial objects rotated around it..."
+
+//TEXT 【Tomosane】
+<enT0474>"He believed the sky rotated around the earth. Do you know why?"
+<ptT0474>"He believed the sky rotated around the earth. Do you know why?"
+
+//TEXT 【Takuji】
+<enT0475>"What?"
+<ptT0475>"What?"
+
+//TEXT 【Tomosane】
+<enT0476>"He already had his answer, and he changed reality to fit his notions. His worldview became warped."
+<ptT0476>"He already had his answer, and he changed reality to fit his notions. His worldview became warped."
+
+//TEXT 【Tomosane】
+<enT0477>"The center of the world is right here. That was a given. Even if it was mistaken, they couldn't accept that their world revolved around another celestial object."
+<ptT0477>"The center of the world is right here. That was a given. Even if it was mistaken, they couldn't accept that their world revolved around another celestial object."
+
+//TEXT 【Tomosane】
+<enT0478>"Preconceived notions... Reality forcibly fit to those notions... Doing that warped their worldviews."
+<ptT0478>"Preconceived notions... Reality forcibly fit to those notions... Doing that warped their worldviews."
+
+//TEXT 【Tomosane】
+<enT0479>"The facts that you want to be true coincidentally happen to align with reality. How often does that happen to you, Takuji?"
+<ptT0479>"The facts that you want to be true coincidentally happen to align with reality. How often does that happen to you, Takuji?"
+
+//TEXT 【Tomosane】
+<enT0480>"But they still wanted to believe they were they the center of the world and everything revolved around them. They alone were special in the world."
+<ptT0480>"But they still wanted to believe they were they the center of the world and everything revolved around them. They alone were special in the world."
+
+//TEXT 【Tomosane】
+<enT0481>"Hey, Takuji... You want to believe, do you? You can't accept the real world."
+<ptT0481>"Hey, Takuji... You want to believe, do you? You can't accept the real world."
+
+//TEXT 【Tomosane】
+<enT0482>"You aren't the center of the world, and you aren't special! You aren't any sort of savior like your mother thought you were!"
+<ptT0482>"You aren't the center of the world, and you aren't special! You aren't any sort of savior like your mother thought you were!"
+
+//TEXT 【Takuji】
+<enT0483>"Yuuki!"
+<ptT0483>"Yuuki!"
+
+//TEXT
+<enT0484>He came right at me with a straight punch.
+<ptT0484>He came right at me with a straight punch.
+
+//TEXT
+<enT0485>I saw exactly where his fist was headed.
+<ptT0485>I saw exactly where his fist was headed.
+
+//TEXT
+<enT0486>His anger and reckless abandon showed me the path his fist would take.
+<ptT0486>His anger and reckless abandon showed me the path his fist would take.
+
+//TEXT
+<enT0487>Once I saw the attack, there was no problem.
+<ptT0487>Once I saw the attack, there was no problem.
+
+//TEXT
+<enT0488>I had only to hold strong in my heart.
+<ptT0488>I had only to hold strong in my heart.
+
+//TEXT 【Takuji】
+<enT0489>"Huh?!"
+<ptT0489>"Huh?!"
+
+//TEXT
+<enT0490>I dashed in, right next to his face.
+<ptT0490>I dashed in, right next to his face.
+
+//TEXT
+<enT0491>My arm was already locked under his armpit.
+<ptT0491>My arm was already locked under his armpit.
+
+//TEXT
+<enT0492>Then I lowered my waist.
+<ptT0492>Then I lowered my waist.
+
+//TEXT
+<enT0493>I lowered my waist and lifted him to nearly vertical in my hold.
+<ptT0493>I lowered my waist and lifted him to nearly vertical in my hold.
+
+//TEXT
+<enT0494>And then...
+<ptT0494>And then...
+
+//TEXT
+<enT0495>His body went flying through the air.
+<ptT0495>His body went flying through the air.
+
+//TEXT 【Takuji】
+<enT0496>"Gh... Aagh."
+<ptT0496>"Gh... Aagh."
+
+//TEXT
+<enT0497>A perfectly executed move.
+<ptT0497>A perfectly executed move.
+
+//TEXT
+<enT0498>Since his arms were stretched to their limits, I destroyed his joints while simultaneously slamming him down onto the concrete.
+<ptT0498>Since his arms were stretched to their limits, I destroyed his joints while simultaneously slamming him down onto the concrete.
+
+//TEXT 【Takuji】
+<enT0499>"Ah... Is this dislocated?"
+<ptT0499>"Ah... Is this dislocated?"
+
+//TEXT 【Tomosane】
+<enT0500>"How about that? The all-knowing savior should know about that move, right?"
+<ptT0500>"How about that? The all-knowing savior should know about that move, right?"
+
+//TEXT 【Takuji】
+<enT0501>"Wh-What was that? I've mastered every martial art on the planet. There's no move I don't know."
+<ptT0501>"Wh-What was that? I've mastered every martial art on the planet. There's no move I don't know."
+
+//TEXT 【Tomosane】
+<enT0502>"You do know that move. You just forgot it is all."
+<ptT0502>"You do know that move. You just forgot it is all."
+
+//TEXT 【Takuji】
+<enT0503>"Grr... Agh..."
+<ptT0503>"Grr... Agh..."
+
+//TEXT 【Tomosane】
+<enT0504>"It looks like you're serious, huh?"
+<ptT0504>"It looks like you're serious, huh?"
+
+//TEXT 【Takuji】
+<enT0505>"Serious?"
+<ptT0505>"Serious?"
+
+//TEXT 【Tomosane】
+<enT0506>"Yeah, that's right."
+<ptT0506>"Yeah, that's right."
+
+//TEXT 【Tomosane】
+<enT0507>"I thought I was born just to erase you. I denied myself and tried to erase myself."
+<ptT0507>"I thought I was born just to erase you. I denied myself and tried to erase myself."
+
+//TEXT 【Tomosane】
+<enT0508>"I thought I was created."
+<ptT0508>"I thought I was created."
+
+//TEXT 【Takuji】
+<enT0509>"Wh-What are you..."
+<ptT0509>"Wh-What are you..."
+
+//TEXT 【Tomosane】
+<enT0510>"I am the Destroyer. An existence born to end things. To destroy worlds with order. An existence that gives birth to new order."
+<ptT0510>"I am the Destroyer. An existence born to end things. To destroy worlds with order. An existence that gives birth to new order."
+
+//TEXT 【Tomosane】
+<enT0511>"I was supposed to be a person created just for that purpose."
+<ptT0511>"I was supposed to be a person created just for that purpose."
+
+//TEXT 【Takuji】
+<enT0512>"Huh?"
+<ptT0512>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0513>"Are you scared? Can't you admit it?"
+<ptT0513>"Are you scared? Can't you admit it?"
+
+//TEXT 【Takuji】
+<enT0514>"Wh-What are you talking about?"
+<ptT0514>"Wh-What are you talking about?"
+
+//TEXT 【Tomosane】
+<enT0515>"What am I talking about?"
+<ptT0515>"What am I talking about?"
+
+//TEXT 【Tomosane】
+<enT0516>"Are you stupid? I'm talking about Hasaki, of course!"
+<ptT0516>"Are you stupid? I'm talking about Hasaki, of course!"
+
+//TEXT 【Takuji】
+<enT0517>"Wh-What are you talking about?"
+<ptT0517>"Wh-What are you talking about?"
+
+//TEXT 【Tomosane】
+<enT0518>"Haa... Even now... Even at the end, you can't hear it."
+<ptT0518>"Haa... Even now... Even at the end, you can't hear it."
+
+//TEXT 【Tomosane】
+<enT0519>"Her name. That's it, isn't it? You tried to protect Hasaki by forgetting about her and pretending she was dead."
+<ptT0519>"Her name. That's it, isn't it? You tried to protect Hasaki by forgetting about her and pretending she was dead."
+
+//TEXT 【Tomosane】
+<enT0520>"For that at least, I have to commend you. No matter how crazy you got, you always put Hasaki's happiness first."
+<ptT0520>"For that at least, I have to commend you. No matter how crazy you got, you always put Hasaki's happiness first."
+
+//TEXT 【Takuji】
+<enT0521>"What's that? What are you saying?"
+<ptT0521>"What's that? What are you saying?"
+
+//TEXT 【Tomosane】
+<enT0522>"Her name won't reach you until the very end, huh?"
+<ptT0522>"Her name won't reach you until the very end, huh?"
+
+//TEXT 【Tomosane】
+<enT0523>"Whenever the words you hear aren't convenient for you, you distort them or erase them."
+<ptT0523>"Whenever the words you hear aren't convenient for you, you distort them or erase them."
+
+//TEXT 【Tomosane】
+<enT0524>"Especially when it comes to Hasaki. You've tried to erase or change all your memories of Hasaki."
+<ptT0524>"Especially when it comes to Hasaki. You've tried to erase or change all your memories of Hasaki."
+
+//TEXT 【Tomosane】
+<enT0525>"You've used every technique to erase, replace, or ignore Hasaki's existence. That's bravery. That was your own form of bravery."
+<ptT0525>"You've used every technique to erase, replace, or ignore Hasaki's existence. That's bravery. That was your own form of bravery."
+
+//TEXT 【Takuji】
+<enT0526>"Wh-What is it? You... Why haven't you been saying the most important parts?! Don't hide your words!"
+<ptT0526>"Wh-What is it? You... Why haven't you been saying the most important parts?! Don't hide your words!"
+
+//TEXT 【Tomosane】
+<enT0527>"You're the one who hid them!"
+<ptT0527>"You're the one who hid them!"
+
+//TEXT 【Tomosane】
+<enT0528>"It was you who hid them. But remember that I was the only one with a connection to Hasaki. Neither you nor Minakami Yuki, but I, the person who is fated to disappear!"
+<ptT0528>"It was you who hid them. But remember that I was the only one with a connection to Hasaki. Neither you nor Minakami Yuki, but I, the person who is fated to disappear!"
+
+//TEXT 【Takuji】
+<enT0529>"Are you crazy?"
+<ptT0529>"Are you crazy?"
+
+//TEXT 【Tomosane】
+<enT0530>"Crazy? Hehehehe... Are you really asking that? Here, in this place... No, in this world, there is not a single person who isn't crazy!"
+<ptT0530>"Crazy? Hehehehe... Are you really asking that? Here, in this place... No, in this world, there is not a single person who isn't crazy!"
+
+//TEXT 【Tomosane】
+<enT0531>"You should know it... The world you've birthed. The world you know. The world you created is filled with nothing but madmen!"
+<ptT0531>"You should know it... The world you've birthed. The world you know. The world you created is filled with nothing but madmen!"
+
+//TEXT 【Takuji】
+<enT0532>"Tch..."
+<ptT0532>"Tch..."
+
+//TEXT 【Takuji】
+<enT0533>"Ah..."
+<ptT0533>"Ah..."
+
+//TEXT
+<enT0534>He couldn't even cushion his fall when I threw him. He only managed to twist his neck and disperse the force of the blow.
+<ptT0534>He couldn't even cushion his fall when I threw him. He only managed to twist his neck and disperse the force of the blow.
+
+//TEXT
+<enT0535>He's pretty tough, though.
+<ptT0535>He's pretty tough, though.
+
+//TEXT 【Takuji】
+<enT0536>"Gah... Aah..."
+<ptT0536>"Gah... Aah..."
+
+//TEXT 【Tomosane】
+<enT0537>"How about that? You can't even see straight now, right?"
+<ptT0537>"How about that? You can't even see straight now, right?"
+
+//TEXT 【Takuji】
+<enT0538>"Aa... Aah..."
+<ptT0538>"Aa... Aah..."
+
+//TEXT 【Tomosane】
+<enT0539>"You haven't learned a single new trick. While you were playing around with your delusions, I was training so hard that I pissed blood in order to master some new techniques."
+<ptT0539>"You haven't learned a single new trick. While you were playing around with your delusions, I was training so hard that I pissed blood in order to master some new techniques."
+
+//TEXT 【Takuji】
+<enT0540>"Ah... Aah..."
+<ptT0540>"Ah... Aah..."
+
+//TEXT 【Tomosane】
+<enT0541>"This is the limit of your delusions."
+<ptT0541>"This is the limit of your delusions."
+
+//TEXT 【Tomosane】
+<enT0542>"Your delusions... will be ended by my reality."
+<ptT0542>"Your delusions... will be ended by my reality."
+
+//TEXT 【Takuji】
+<enT0543>"E-End..."
+<ptT0543>"E-End..."
+
+//TEXT 【Tomosane】
+<enT0544>"This is the opposite of last time."
+<ptT0544>"This is the opposite of last time."
+
+//TEXT 【Tomosane】
+<enT0545>"Last time, I was there, leaning against the fence, and you looked down upon me."
+<ptT0545>"Last time, I was there, leaning against the fence, and you looked down upon me."
+
+//TEXT 【Tomosane】
+<enT0546>"Now it's the opposite. You're the one who's fallen bloody to the ground, Mamiya."
+<ptT0546>"Now it's the opposite. You're the one who's fallen bloody to the ground, Mamiya."
+
+//TEXT 【Takuji】
+<enT0547>"I've... fallen..."
+<ptT0547>"I've... fallen..."
+
+//TEXT 【Tomosane】
+<enT0548>"That's right. This is the end."
+<ptT0548>"That's right. This is the end."
+
+//TEXT 【Tomosane】
+<enT0549>"Let's end it here, Mamiya Takuji."
+<ptT0549>"Let's end it here, Mamiya Takuji."
+
+//TEXT 【Takuji】
+<enT0550>"What?"
+<ptT0550>"What?"
+
+//TEXT 【Tomosane】
+<enT0551>"We're under the End Sky, so shouldn't it be fine?"
+<ptT0551>"We're under the End Sky, so shouldn't it be fine?"
+
+//TEXT 【Tomosane】
+<enT0552>"Isn't it a fitting end for us?"
+<ptT0552>"Isn't it a fitting end for us?"
+
+//TEXT 【Takuji】
+<enT0553>"An end for us?"
+<ptT0553>"An end for us?"
+
+//TEXT 【Tomosane】
+<enT0554>"Yeah. Let's end it here. We don't need to drag anyone else into this."
+<ptT0554>"Yeah. Let's end it here. We don't need to drag anyone else into this."
+
+//TEXT 【Tomosane】
+<enT0555>"Don't drag everyone else into your games. The only ones who need to go along with your end of the world are me and her. The three of us are plenty."
+<ptT0555>"Don't drag everyone else into your games. The only ones who need to go along with your end of the world are me and her. The three of us are plenty."
+
+//TEXT 【Tomosane】
+<enT0556>"This sky is the end for just you and me."
+<ptT0556>"This sky is the end for just you and me."
+
+//TEXT 【Tomosane】
+<enT0557>"This is where it will end."
+<ptT0557>"This is where it will end."
+
+//TEXT 【Tomosane】
+<enT0558>"Isn't that good enough, Takuji?"
+<ptT0558>"Isn't that good enough, Takuji?"
+
+//TEXT
+<enT0559>I always carried this knife around for some reason.
+<ptT0559>I always carried this knife around for some reason.
+
+//TEXT
+<enT0560>I don't know why it was in my pocket.
+<ptT0560>I don't know why it was in my pocket.
+
+//TEXT
+<enT0561>I don't know who first put it there.
+<ptT0561>I don't know who first put it there.
+
+//TEXT
+<enT0562>I just felt that I had to end it here, with this knife.
+<ptT0562>I just felt that I had to end it here, with this knife.
+
+//TEXT 【Tomosane】
+<enT0563>"It won't hurt. I'll aim for the heart."
+<ptT0563>"It won't hurt. I'll aim for the heart."
+
+//TEXT 【Tomosane】
+<enT0564>"Aren't we both tired of this painful game?"
+<ptT0564>"Aren't we both tired of this painful game?"
+
+//TEXT
+<enT0565>"No! You can't!"
+<ptT0565>"No! You can't!"
+
+//TEXT 【Tomosane】
+<enT0566>"Huh?"
+<ptT0566>"Huh?"
+
+//TEXT
+<enT0567>Someone's voice...
+<ptT0567>Someone's voice...
+
+//TEXT
+<enT0568>I recognized that voice. That voice was...
+<ptT0568>I recognized that voice. That voice was...
+
+//TEXT 【Hasaki】
+<enT0569>"Y-You can't... Tomo Nii-san, you can't do that."
+<ptT0569>"Y-You can't... Tomo Nii-san, you can't do that."
+
+//TEXT 【Tomosane】
+<enT0570>"Why did you follow me?"
+<ptT0570>"Why did you follow me?"
+
+//TEXT 【Kimura】
+<enT0571>"Ahahaha... Sorry about that."
+<ptT0571>"Ahahaha... Sorry about that."
+
+//TEXT 【Tomosane】
+<enT0572>"Damn it, Kimura..."
+<ptT0572>"Damn it, Kimura..."
+
+//TEXT 【Tomosane】
+<enT0573>"Crap. I forgot to lock the door. If I had locked it, you wouldn't have been able to follow me up here."
+<ptT0573>"Crap. I forgot to lock the door. If I had locked it, you wouldn't have been able to follow me up here."
+
+//TEXT 【Hasaki】
+<enT0574>"You can't... Tomo Nii-san, I-I won't let you do that!"
+<ptT0574>"You can't... Tomo Nii-san, I-I won't let you do that!"
+
+//TEXT 【Tomosane】
+<enT0575>"Hasaki..."
+<ptT0575>"Hasaki..."
+
+//TEXT
+<enT0576>From her perspective, it must have looked like I was pointing a knife at my own chest.
+<ptT0576>From her perspective, it must have looked like I was pointing a knife at my own chest.
+
+//TEXT
+<enT0577>In reality, I was about to plunge this knife into my own chest.
+<ptT0577>In reality, I was about to plunge this knife into my own chest.
+
+//TEXT 【Hasaki】
+<enT0578>"If that's what you were planning to do... I should've just tied you up and never let you leave."
+<ptT0578>"If that's what you were planning to do... I should've just tied you up and never let you leave."
+
+//TEXT 【Tomosane】
+<enT0579>"I told you, that was also an option."
+<ptT0579>"I told you, that was also an option."
+
+//TEXT 【Tomosane】
+<enT0580>"Ah?!"
+<ptT0580>"Ah?!"
+
+//TEXT 【Takuji】
+<enT0581>"Yuuki!"
+<ptT0581>"Yuuki!"
+
+//TEXT
+<enT0582>Hasaki couldn't see the change that just happened.
+<ptT0582>Hasaki couldn't see the change that just happened.
+
+//TEXT
+<enT0583>The knife moved from my hand to Mamiya Takuji's.
+<ptT0583>The knife moved from my hand to Mamiya Takuji's.
+
+//TEXT
+<enT0584>Mamiya Takuji's willpower grabbed hold of the knife.
+<ptT0584>Mamiya Takuji's willpower grabbed hold of the knife.
+
+//TEXT
+<enT0585>Damn it...
+<ptT0585>Damn it...
+
+//TEXT
+<enT0586>It was his knife all along.
+<ptT0586>It was his knife all along.
+
+//TEXT
+<enT0587>The moment I realized that...
+<ptT0587>The moment I realized that...
+
+//TEXT 【Tomosane】
+<enT0588>"Ah..."
+<ptT0588>"Ah..."
+
+//TEXT 【Takuji】
+<enT0589>"Your heart is right here. It's right here, isn't it?"
+<ptT0589>"Your heart is right here. It's right here, isn't it?"
+
+//TEXT 【Hasaki】
+<enT0590>"NOOOOOO!"
+<ptT0590>"NOOOOOO!"
+
+//TEXT 【Hasaki】
+<enT0591>"No, Tomo Nii-san! NOOOOO!"
+<ptT0591>"No, Tomo Nii-san! NOOOOO!"
+
+//TEXT 【Tomosane】
+<enT0592>"At the very end, I still messed up, huh?"
+<ptT0592>"At the very end, I still messed up, huh?"
+
+//TEXT 【Takuji】
+<enT0593>"Messed up? What are you talking about? This was inevitable. This is pre-established harmony."
+<ptT0593>"Messed up? What are you talking about? This was inevitable. This is pre-established harmony."
+
+//TEXT
+<enT0594>The knife had definitely carved its way deep into our physical body. In other words, both Mamiya Takuji and I had been stabbed.
+<ptT0594>The knife had definitely carved its way deep into our physical body. In other words, both Mamiya Takuji and I had been stabbed.
+
+//TEXT
+<enT0595>Just from the feeling of that knife, I could tell that neither of us were safe.
+<ptT0595>Just from the feeling of that knife, I could tell that neither of us were safe.
+
+//TEXT
+<enT0596>I could tell the knife had been driven very deep into the flesh.
+<ptT0596>I could tell the knife had been driven very deep into the flesh.
+
+//TEXT 【Tomosane】
+<enT0597>"Pre-established... harmony, huh?"
+<ptT0597>"Pre-established... harmony, huh?"
+
+//TEXT 【Tomosane】
+<enT0598>"I see. So in your eyes, I've already outlived my purpose."
+<ptT0598>"I see. So in your eyes, I've already outlived my purpose."
+
+//TEXT 【Takuji】
+<enT0599>"Yeah, that's right. You were just a hurdle for me on my path to becoming the savior."
+<ptT0599>"Yeah, that's right. You were just a hurdle for me on my path to becoming the savior."
+
+//TEXT 【Takuji】
+<enT0600>"An existence for me to surpass... It's true, I underestimated you. I underestimated you too much. I have to thank you for teaching me that."
+<ptT0600>"An existence for me to surpass... It's true, I underestimated you. I underestimated you too much. I have to thank you for teaching me that."
+
+//TEXT 【Takuji】
+<enT0601>"The savior should never let his guard down. No matter how insignificant his opponent seems, he should never let his guard down."
+<ptT0601>"The savior should never let his guard down. No matter how insignificant his opponent seems, he should never let his guard down."
+
+//TEXT 【Takuji】
+<enT0602>"You've taught me that... Thank you."
+<ptT0602>"You've taught me that... Thank you."
+
+//TEXT 【Tomosane】
+<enT0603>"Hey, Hasaki... I'm sorry..."
+<ptT0603>"Hey, Hasaki... I'm sorry..."
+
+//TEXT 【Tomosane】
+<enT0604>"It looks like I won't be able to keep my promise. This is the end for me."
+<ptT0604>"It looks like I won't be able to keep my promise. This is the end for me."
+
+//TEXT 【Tomosane】
+<enT0605>"Haa... I couldn't do anything for you, Hasaki... could I..."
+<ptT0605>"Haa... I couldn't do anything for you, Hasaki... could I..."
+
+//TEXT 【Hasaki】
+<enT0606>"Tomo Nii-san..."
+<ptT0606>"Tomo Nii-san..."
+
+//TEXT 【Hasaki】
+<enT0607>"That's not true... That's not true... Tomo Nii-san, don't go..."
+<ptT0607>"That's not true... That's not true... Tomo Nii-san, don't go..."
+
+//TEXT 【Tomosane】
+<enT0608>"There's nothing I can do... I've been beaten..."
+<ptT0608>"There's nothing I can do... I've been beaten..."
+
+//TEXT 【Tomosane】
+<enT0609>"Nothing I can do... huh?"
+<ptT0609>"Nothing I can do... huh?"
+
+//TEXT 【Tomosane】
+<enT0610>"Is this too reality?"
+<ptT0610>"Is this too reality?"
+
+//TEXT 【Tomosane】
+<enT0611>"Then I can only accept it..."
+<ptT0611>"Then I can only accept it..."
+
+//TEXT 【Takuji】
+<enT0612>"Yes, accept it. This is reality."
+<ptT0612>"Yes, accept it. This is reality."
+
+//TEXT 【Takuji】
+<enT0613>"I am the savior, and I will return the world to the sky. That is the reality."
+<ptT0613>"I am the savior, and I will return the world to the sky. That is the reality."
+
+//TEXT 【Tomosane】
+<enT0614>"I see... Good job, then..."
+<ptT0614>"I see... Good job, then..."
+
+//TEXT 【Tomosane】
+<enT0615>"Haa... If this is how it was going to end, I shouldn't have used the last of my time like this..."
+<ptT0615>"Haa... If this is how it was going to end, I shouldn't have used the last of my time like this..."
+
+//TEXT 【Tomosane】
+<enT0616>"I should've spent my time with you..."
+<ptT0616>"I should've spent my time with you..."
+
+//TEXT 【Tomosane】
+<enT0617>"Hahahaha... I've been an awful brother too..."
+<ptT0617>"Hahahaha... I've been an awful brother too..."
+
+//TEXT 【Tomosane】
+<enT0618>"I haven't changed at all..."
+<ptT0618>"I haven't changed at all..."
+
+//TEXT 【Tomosane】
+<enT0619>"Now then... Farewell, Mamiya Takuji. Congratulations. You've won."
+<ptT0619>"Now then... Farewell, Mamiya Takuji. Congratulations. You've won."
+
+//TEXT 【Tomosane】
+<enT0620>"And I've lost..."
+<ptT0620>"And I've lost..."
+
+//TEXT 【Hasaki】
+<enT0621>"...Uwaah... Kh..."
+<ptT0621>"...Uwaah... Kh..."
+
+//TEXT 【Hasaki】
+<enT0622>"Tomo Nii-san... Don't go."
+<ptT0622>"Tomo Nii-san... Don't go."
+
+//TEXT 【Tomosane】
+<enT0623>"You dummy... Don't come near me. It's dangerous."
+<ptT0623>"You dummy... Don't come near me. It's dangerous."
+
+//TEXT 【Tomosane】
+<enT0624>"This body will be Mamiya Takuji's soon. I'm going to disappear."
+<ptT0624>"This body will be Mamiya Takuji's soon. I'm going to disappear."
+
+//TEXT 【Hasaki】
+<enT0625>"You can't disappear, Tomo Nii-san! Please!"
+<ptT0625>"You can't disappear, Tomo Nii-san! Please!"
+
+//TEXT 【Tomosane】
+<enT0626>"Yeah... I don't really want to disappear."
+<ptT0626>"Yeah... I don't really want to disappear."
+
+//TEXT 【Tomosane】
+<enT0627>"I wanted to be with you longer."
+<ptT0627>"I wanted to be with you longer."
+
+//TEXT 【Hasaki】
+<enT0628>"Then please, don't go! Let's go home. Let's go home together. Let's just go home..."
+<ptT0628>"Then please, don't go! Let's go home. Let's go home together. Let's just go home..."
+
+//TEXT 【Tomosane】
+<enT0629>"You're right... That was the promise."
+<ptT0629>"You're right... That was the promise."
+
+//TEXT 【Hasaki】
+<enT0630>"Yeah, it was..."
+<ptT0630>"Yeah, it was..."
+
+//TEXT 【Tomosane】
+<enT0631>"To be together forever... and talk as much as we wanted..."
+<ptT0631>"To be together forever... and talk as much as we wanted..."
+
+//TEXT 【Hasaki】
+<enT0632>"Yeah, you promised we could talk as much as we wanted... I still want to talk to you, Tomo Nii-san..."
+<ptT0632>"Yeah, you promised we could talk as much as we wanted... I still want to talk to you, Tomo Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0633>"We didn't talk enough, did we?"
+<ptT0633>"We didn't talk enough, did we?"
+
+//TEXT
+<enT0634>I wish I could've talked with Hasaki more.
+<ptT0634>I wish I could've talked with Hasaki more.
+
+//TEXT
+<enT0635>I was only paying attention to meaningless stuff. I couldn't see the most important thing in my life.
+<ptT0635>I was only paying attention to meaningless stuff. I couldn't see the most important thing in my life.
+
+//TEXT
+<enT0636>Because I would be disappearing, because I was fated to disappear, I tried not to make any memories with Hasaki.
+<ptT0636>Because I would be disappearing, because I was fated to disappear, I tried not to make any memories with Hasaki.
+
+//TEXT
+<enT0637>Now that I think back on it, that was a really foolish thing to do.
+<ptT0637>Now that I think back on it, that was a really foolish thing to do.
+
+//TEXT
+<enT0638>All people eventually disappear. I'm not the only one fated to disappear.
+<ptT0638>All people eventually disappear. I'm not the only one fated to disappear.
+
+//TEXT
+<enT0639>Just because we're all going to disappear doesn't mean our memories aren't still precious.
+<ptT0639>Just because we're all going to disappear doesn't mean our memories aren't still precious.
+
+//TEXT
+<enT0640>So...
+<ptT0640>So...
+
+//TEXT 【Tomosane】
+<enT0641>"Let's... talk."
+<ptT0641>"Let's... talk."
+
+//TEXT 【Hasaki】
+<enT0642>"Yeah, I-I... Last night, I saw a big sunflower."
+<ptT0642>"Yeah, I-I... Last night, I saw a big sunflower."
+
+//TEXT 【Hasaki】
+<enT0643>"A big sunflower, yellow and beautiful in the sky..."
+<ptT0643>"A big sunflower, yellow and beautiful in the sky..."
+
+//TEXT 【Tomosane】
+<enT0644>"A sunflower..."
+<ptT0644>"A sunflower..."
+
+//TEXT
+<enT0645>For some reason, I saw a great sunflower stretching into the night sky.
+<ptT0645>For some reason, I saw a great sunflower stretching into the night sky.
+
+//TEXT
+<enT0646>For just a second...
+<ptT0646>For just a second...
+
+//TEXT
+<enT0647>That sunflower...
+<ptT0647>That sunflower...
+
+//TEXT
+<enT0648>Sometime, somewhere before...
+<ptT0648>Sometime, somewhere before...
+
+//TEXT 【Hasaki】
+<enT0649>"It's already summer, you know? It's the middle of the summer..."
+<ptT0649>"It's already summer, you know? It's the middle of the summer..."
+
+//TEXT 【Hasaki】
+<enT0650>"Summer break is coming soon. I wish I could've gone somewhere with you this year, Tomo Nii-san."
+<ptT0650>"Summer break is coming soon. I wish I could've gone somewhere with you this year, Tomo Nii-san."
+
+//TEXT 【Tomosane】
+<enT0651>"Summer, huh?"
+<ptT0651>"Summer, huh?"
+
+//TEXT 【Hasaki】
+<enT0652>"Yeah. You said you wouldn't ever leave me, so I wanted to go on vacation somewhere this summer."
+<ptT0652>"Yeah. You said you wouldn't ever leave me, so I wanted to go on vacation somewhere this summer."
+
+//TEXT 【Hasaki】
+<enT0653>"Because this summer, it seemed like we were getting along again."
+<ptT0653>"Because this summer, it seemed like we were getting along again."
+
+//TEXT 【Hasaki】
+<enT0654>"This summer break... let's go back to our old town, together."
+<ptT0654>"This summer break... let's go back to our old town, together."
+
+//TEXT 【Tomosane】
+<enT0655>"Our town?"
+<ptT0655>"Our town?"
+
+//TEXT 【Hasaki】
+<enT0656>"That's right. Our town. Where you and I were together before."
+<ptT0656>"That's right. Our town. Where you and I were together before."
+
+//TEXT 【Tomosane】
+<enT0657>"That..."
+<ptT0657>"That..."
+
+//TEXT
+<enT0658>That sunflower...
+<ptT0658>That sunflower...
+
+//TEXT
+<enT0659>With Hasaki...
+<ptT0659>With Hasaki...
+
+//TEXT
+<enT0660>That's right...
+<ptT0660>That's right...
+
+//TEXT
+<enT0661>Because I'm her big brother...
+<ptT0661>Because I'm her big brother...
+
+//TEXT
+<enT0662>I should've done more things like that with her.
+<ptT0662>I should've done more things like that with her.
+
+//TEXT
+<enT0663>Huh?
+<ptT0663>Huh?
+
+//TEXT
+<enT0664>Just now...
+<ptT0664>Just now...
+
+//TEXT
+<enT0665>That landscape...
+<ptT0665>That landscape...
+
+//TEXT
+<enT0666>Oh, right. That landscape...
+<ptT0666>Oh, right. That landscape...
+
+//TEXT
+<enT0667>I knew it once.
+<ptT0667>I knew it once.
+
+//TEXT
+<enT0668>A sunflower along the path...
+<ptT0668>A sunflower along the path...
+
+//TEXT 【Tomosane】
+<enT0669>"How did I forgot that? We were there together before."
+<ptT0669>"How did I forgot that? We were there together before."
+
+//TEXT 【Hasaki】
+<enT0670>"Yeah, so this summer... let's go back."
+<ptT0670>"Yeah, so this summer... let's go back."
+
+//TEXT 【Tomosane】
+<enT0671>"This... summer?"
+<ptT0671>"This... summer?"
+
+//TEXT 【Hasaki】
+<enT0672>"Yeah, Tomo Nii-san!"
+<ptT0672>"Yeah, Tomo Nii-san!"
+
+//TEXT 【Tomosane】
+<enT0673>"Yeah, of course."
+<ptT0673>"Yeah, of course."
+
+//TEXT 【Tomosane】
+<enT0674>"This... summer?"
+<ptT0674>"This... summer?"
+
+//TEXT
+<enT0675>The blue sky and the sunflower.
+<ptT0675>The blue sky and the sunflower.
+
+//TEXT
+<enT0676>With marshmallow clouds drifting by overhead.
+<ptT0676>With marshmallow clouds drifting by overhead.
+
+//TEXT
+<enT0677>And Hasaki wearing a big hat.
+<ptT0677>And Hasaki wearing a big hat.
+
+//TEXT
+<enT0678>And she walks with me.
+<ptT0678>And she walks with me.
+
+//TEXT
+<enT0679>Forever and forever.
+<ptT0679>Forever and forever.
+
+//TEXT
+<enT0680>The two of us.
+<ptT0680>The two of us.
+
+//TEXT
+<enT0681>On that path.
+<ptT0681>On that path.
+
+//TEXT
+<enT0682>To reach the top of the hill.
+<ptT0682>To reach the top of the hill.
+
+//TEXT
+<enT0683>And there, waiting for us on the other side of the hill...
+<ptT0683>And there, waiting for us on the other side of the hill...
+
+//TEXT
+<enT0684> is a beautiful scene in the future.
+<ptT0684> is a beautiful scene in the future.
+
+///================================================================================
+
+//OTHER
+<enZ0001>4_0718.bss
+<ptZ0001>4_0718.bss
+
+//OTHER
+<enZ0002>July 18th
+<ptZ0002>July 18th
+
+//OTHER
+<enZ0003>Jabberwocky
+<ptZ0003>Jabberwocky
+
+//OTHER
+<enZ0004>daytm0718
+<ptZ0004>daytm0718
+
+//OTHER
+<enZ0005>bgm016
+<ptZ0005>bgm016
+
+//OTHER
+<enZ0006>map003
+<ptZ0006>map003
+
+//OTHER
+<enZ0007>bg1006d
+<ptZ0007>bg1006d
+
+//OTHER
+<enZ0008>kmr0033a
+<ptZ0008>kmr0033a
+
+//OTHER
+<enZ0009>kmr0032a
+<ptZ0009>kmr0032a
+
+//OTHER
+<enZ0010>kmr0000a
+<ptZ0010>kmr0000a
+
+//OTHER
+<enZ0011>map017
+<ptZ0011>map017
+
+//OTHER
+<enZ0012>bg1017c
+<ptZ0012>bg1017c
+
+//OTHER
+<enZ0013>ay0000b
+<ptZ0013>ay0000b
+
+//OTHER
+<enZ0014>ay0009a
+<ptZ0014>ay0009a
+
+//OTHER
+<enZ0015>bgm019
+<ptZ0015>bgm019
+
+//OTHER
+<enZ0016>aya_000889
+<ptZ0016>aya_000889
+
+//OTHER
+<enZ0017>ay0000a
+<ptZ0017>ay0000a
+
+//OTHER
+<enZ0018>aya_000890
+<ptZ0018>aya_000890
+
+//OTHER
+<enZ0019>aya_000891
+<ptZ0019>aya_000891
+
+//OTHER
+<enZ0020>aya_000892
+<ptZ0020>aya_000892
+
+//OTHER
+<enZ0021>ay0001a
+<ptZ0021>ay0001a
+
+//OTHER
+<enZ0022>aya_000893
+<ptZ0022>aya_000893
+
+//OTHER
+<enZ0023>ay0002a
+<ptZ0023>ay0002a
+
+//OTHER
+<enZ0024>aya_000894
+<ptZ0024>aya_000894
+
+//OTHER
+<enZ0025>aya_000895
+<ptZ0025>aya_000895
+
+//OTHER
+<enZ0026>ay0000
+<ptZ0026>ay0000
+
+//OTHER
+<enZ0027>aya_000896
+<ptZ0027>aya_000896
+
+//OTHER
+<enZ0028>ay0003a
+<ptZ0028>ay0003a
+
+//OTHER
+<enZ0029>aya_000897
+<ptZ0029>aya_000897
+
+//OTHER
+<enZ0030>aya_000898
+<ptZ0030>aya_000898
+
+//OTHER
+<enZ0031>aya_000899
+<ptZ0031>aya_000899
+
+//OTHER
+<enZ0032>aya_000900
+<ptZ0032>aya_000900
+
+//OTHER
+<enZ0033>ay0003
+<ptZ0033>ay0003
+
+//OTHER
+<enZ0034>aya_000901
+<ptZ0034>aya_000901
+
+//OTHER
+<enZ0035>ay0002
+<ptZ0035>ay0002
+
+//OTHER
+<enZ0036>aya_000902
+<ptZ0036>aya_000902
+
+//OTHER
+<enZ0037>aya_000903
+<ptZ0037>aya_000903
+
+//OTHER
+<enZ0038>aya_000904
+<ptZ0038>aya_000904
+
+//OTHER
+<enZ0039>aya_000905
+<ptZ0039>aya_000905
+
+//OTHER
+<enZ0040>aya_000906
+<ptZ0040>aya_000906
+
+//OTHER
+<enZ0041>ay0008a
+<ptZ0041>ay0008a
+
+//OTHER
+<enZ0042>aya_000907
+<ptZ0042>aya_000907
+
+//OTHER
+<enZ0043>aya_000908
+<ptZ0043>aya_000908
+
+//OTHER
+<enZ0044>aya_000909
+<ptZ0044>aya_000909
+
+//OTHER
+<enZ0045>aya_000910
+<ptZ0045>aya_000910
+
+//OTHER
+<enZ0046>aya_000911
+<ptZ0046>aya_000911
+
+//OTHER
+<enZ0047>ay0007a
+<ptZ0047>ay0007a
+
+//OTHER
+<enZ0048>aya_000912
+<ptZ0048>aya_000912
+
+//OTHER
+<enZ0049>aya_000913
+<ptZ0049>aya_000913
+
+//OTHER
+<enZ0050>aya_000914
+<ptZ0050>aya_000914
+
+//OTHER
+<enZ0051>aya_000915
+<ptZ0051>aya_000915
+
+//OTHER
+<enZ0052>aya_000916
+<ptZ0052>aya_000916
+
+//OTHER
+<enZ0053>aya_000917
+<ptZ0053>aya_000917
+
+//OTHER
+<enZ0054>aya_000918
+<ptZ0054>aya_000918
+
+//OTHER
+<enZ0055>aya_000919
+<ptZ0055>aya_000919
+
+//OTHER
+<enZ0056>aya_000920
+<ptZ0056>aya_000920
+
+//OTHER
+<enZ0057>aya_000921
+<ptZ0057>aya_000921
+
+//OTHER
+<enZ0058>aya_000922
+<ptZ0058>aya_000922
+
+//OTHER
+<enZ0059>aya_000923
+<ptZ0059>aya_000923
+
+//OTHER
+<enZ0060>aya_000924
+<ptZ0060>aya_000924
+
+//OTHER
+<enZ0061>aya_000925
+<ptZ0061>aya_000925
+
+//OTHER
+<enZ0062>aya_000926
+<ptZ0062>aya_000926
+
+//OTHER
+<enZ0063>ay0006a
+<ptZ0063>ay0006a
+
+//OTHER
+<enZ0064>aya_000927
+<ptZ0064>aya_000927
+
+//OTHER
+<enZ0065>aya_000928
+<ptZ0065>aya_000928
+
+//OTHER
+<enZ0066>aya_000929
+<ptZ0066>aya_000929
+
+//OTHER
+<enZ0067>aya_000930
+<ptZ0067>aya_000930
+
+//OTHER
+<enZ0068>sp0083
+<ptZ0068>sp0083
+
+//OTHER
+<enZ0069>aya_000931
+<ptZ0069>aya_000931
+
+//OTHER
+<enZ0070>aya_000932
+<ptZ0070>aya_000932
+
+//OTHER
+<enZ0071>aya_000933
+<ptZ0071>aya_000933
+
+//OTHER
+<enZ0072>aya_000934
+<ptZ0072>aya_000934
+
+//OTHER
+<enZ0073>aya_000935
+<ptZ0073>aya_000935
+
+//OTHER
+<enZ0074>aya_000936
+<ptZ0074>aya_000936
+
+//OTHER
+<enZ0075>black
+<ptZ0075>black
+
+//OTHER
+<enZ0076>tkj0001b_l
+<ptZ0076>tkj0001b_l
+
+//OTHER
+<enZ0077>se246
+<ptZ0077>se246
+
+//OTHER
+<enZ0078>tkj0000b_l
+<ptZ0078>tkj0000b_l
+
+//OTHER
+<enZ0079>taku_003977
+<ptZ0079>taku_003977
+
+//OTHER
+<enZ0080>aya_000713
+<ptZ0080>aya_000713
+
+//OTHER
+<enZ0081>taku_003978
+<ptZ0081>taku_003978
+
+//OTHER
+<enZ0082>aya_000714
+<ptZ0082>aya_000714
+
+//OTHER
+<enZ0083>taku_003979
+<ptZ0083>taku_003979
+
+//OTHER
+<enZ0084>taku_003980
+<ptZ0084>taku_003980
+
+//OTHER
+<enZ0085>ay0009
+<ptZ0085>ay0009
+
+//OTHER
+<enZ0086>aya_000715
+<ptZ0086>aya_000715
+
+//OTHER
+<enZ0087>ay0007
+<ptZ0087>ay0007
+
+//OTHER
+<enZ0088>aya_000716
+<ptZ0088>aya_000716
+
+//OTHER
+<enZ0089>taku_003981
+<ptZ0089>taku_003981
+
+//OTHER
+<enZ0090>taku_003982
+<ptZ0090>taku_003982
+
+//OTHER
+<enZ0091>ay0004
+<ptZ0091>ay0004
+
+//OTHER
+<enZ0092>aya_000717
+<ptZ0092>aya_000717
+
+//OTHER
+<enZ0093>taku_003983
+<ptZ0093>taku_003983
+
+//OTHER
+<enZ0094>tkj0000b
+<ptZ0094>tkj0000b
+
+//OTHER
+<enZ0095>taku_003984
+<ptZ0095>taku_003984
+
+//OTHER
+<enZ0096>ay0004a
+<ptZ0096>ay0004a
+
+//OTHER
+<enZ0097>taku_003985
+<ptZ0097>taku_003985
+
+//OTHER
+<enZ0098>aya_000718
+<ptZ0098>aya_000718
+
+//OTHER
+<enZ0099>taku_003986
+<ptZ0099>taku_003986
+
+//OTHER
+<enZ0100>aya_000719
+<ptZ0100>aya_000719
+
+//OTHER
+<enZ0101>ay0005
+<ptZ0101>ay0005
+
+//OTHER
+<enZ0102>se004
+<ptZ0102>se004
+
+//OTHER
+<enZ0103>taku_003987
+<ptZ0103>taku_003987
+
+//OTHER
+<enZ0104>aya_000720
+<ptZ0104>aya_000720
+
+//OTHER
+<enZ0105>taku_003988
+<ptZ0105>taku_003988
+
+//OTHER
+<enZ0106>taku_003989
+<ptZ0106>taku_003989
+
+//OTHER
+<enZ0107>aya_000721
+<ptZ0107>aya_000721
+
+//OTHER
+<enZ0108>ay0011
+<ptZ0108>ay0011
+
+//OTHER
+<enZ0109>aya_000722
+<ptZ0109>aya_000722
+
+//OTHER
+<enZ0110>taku_003990
+<ptZ0110>taku_003990
+
+//OTHER
+<enZ0111>aya_000723
+<ptZ0111>aya_000723
+
+//OTHER
+<enZ0112>taku_003991
+<ptZ0112>taku_003991
+
+//OTHER
+<enZ0113>aya_000724
+<ptZ0113>aya_000724
+
+//OTHER
+<enZ0114>taku_003992
+<ptZ0114>taku_003992
+
+//OTHER
+<enZ0115>aya_000725
+<ptZ0115>aya_000725
+
+//OTHER
+<enZ0116>aya_000726
+<ptZ0116>aya_000726
+
+//OTHER
+<enZ0117>aya_000727
+<ptZ0117>aya_000727
+
+//OTHER
+<enZ0118>aya_000728
+<ptZ0118>aya_000728
+
+//OTHER
+<enZ0119>aya_000729
+<ptZ0119>aya_000729
+
+//OTHER
+<enZ0120>aya_000730
+<ptZ0120>aya_000730
+
+//OTHER
+<enZ0121>taku_003993
+<ptZ0121>taku_003993
+
+//OTHER
+<enZ0122>taku_003994
+<ptZ0122>taku_003994
+
+//OTHER
+<enZ0123>taku_003995
+<ptZ0123>taku_003995
+
+//OTHER
+<enZ0124>taku_003996
+<ptZ0124>taku_003996
+
+//OTHER
+<enZ0125>aya_000731
+<ptZ0125>aya_000731
+
+//OTHER
+<enZ0126>taku_003997
+<ptZ0126>taku_003997
+
+//OTHER
+<enZ0127>aya_000732
+<ptZ0127>aya_000732
+
+//OTHER
+<enZ0128>taku_003998
+<ptZ0128>taku_003998
+
+//OTHER
+<enZ0129>taku_003999
+<ptZ0129>taku_003999
+
+//OTHER
+<enZ0130>ay0008
+<ptZ0130>ay0008
+
+//OTHER
+<enZ0131>aya_000733
+<ptZ0131>aya_000733
+
+//OTHER
+<enZ0132>taku_004000
+<ptZ0132>taku_004000
+
+//OTHER
+<enZ0133>taku_004001
+<ptZ0133>taku_004001
+
+//OTHER
+<enZ0134>taku_004002
+<ptZ0134>taku_004002
+
+//OTHER
+<enZ0135>aya_000734
+<ptZ0135>aya_000734
+
+//OTHER
+<enZ0136>aya_000735
+<ptZ0136>aya_000735
+
+//OTHER
+<enZ0137>taku_004003
+<ptZ0137>taku_004003
+
+//OTHER
+<enZ0138>taku_004004
+<ptZ0138>taku_004004
+
+//OTHER
+<enZ0139>aya_000736
+<ptZ0139>aya_000736
+
+//OTHER
+<enZ0140>aya_000737
+<ptZ0140>aya_000737
+
+//OTHER
+<enZ0141>aya_000738
+<ptZ0141>aya_000738
+
+//OTHER
+<enZ0142>taku_004005
+<ptZ0142>taku_004005
+
+//OTHER
+<enZ0143>taku_004006
+<ptZ0143>taku_004006
+
+//OTHER
+<enZ0144>aya_000739
+<ptZ0144>aya_000739
+
+//OTHER
+<enZ0145>aya_000740
+<ptZ0145>aya_000740
+
+//OTHER
+<enZ0146>taku_004007
+<ptZ0146>taku_004007
+
+//OTHER
+<enZ0147>aya_000741
+<ptZ0147>aya_000741
+
+//OTHER
+<enZ0148>aya_000742
+<ptZ0148>aya_000742
+
+//OTHER
+<enZ0149>aya_000743
+<ptZ0149>aya_000743
+
+//OTHER
+<enZ0150>aya_000744
+<ptZ0150>aya_000744
+
+//OTHER
+<enZ0151>aya_000745
+<ptZ0151>aya_000745
+
+//OTHER
+<enZ0152>aya_000746
+<ptZ0152>aya_000746
+
+//OTHER
+<enZ0153>aya_000747
+<ptZ0153>aya_000747
+
+//OTHER
+<enZ0154>taku_004008
+<ptZ0154>taku_004008
+
+//OTHER
+<enZ0155>ay0010
+<ptZ0155>ay0010
+
+//OTHER
+<enZ0156>aya_000748
+<ptZ0156>aya_000748
+
+//OTHER
+<enZ0157>taku_004009
+<ptZ0157>taku_004009
+
+//OTHER
+<enZ0158>aya_000749
+<ptZ0158>aya_000749
+
+//OTHER
+<enZ0159>aya_000750
+<ptZ0159>aya_000750
+
+//OTHER
+<enZ0160>aya_000751
+<ptZ0160>aya_000751
+
+//OTHER
+<enZ0161>aya_000752
+<ptZ0161>aya_000752
+
+//OTHER
+<enZ0162>aya_000753
+<ptZ0162>aya_000753
+
+//OTHER
+<enZ0163>taku_004010
+<ptZ0163>taku_004010
+
+//OTHER
+<enZ0164>aya_000754
+<ptZ0164>aya_000754
+
+//OTHER
+<enZ0165>aya_000755
+<ptZ0165>aya_000755
+
+//OTHER
+<enZ0166>aya_000756
+<ptZ0166>aya_000756
+
+//OTHER
+<enZ0167>aya_000757
+<ptZ0167>aya_000757
+
+//OTHER
+<enZ0168>aya_000758
+<ptZ0168>aya_000758
+
+//OTHER
+<enZ0169>aya_000759
+<ptZ0169>aya_000759
+
+//OTHER
+<enZ0170>aya_000760
+<ptZ0170>aya_000760
+
+//OTHER
+<enZ0171>aya_000761
+<ptZ0171>aya_000761
+
+//OTHER
+<enZ0172>aya_000762
+<ptZ0172>aya_000762
+
+//OTHER
+<enZ0173>aya_000763
+<ptZ0173>aya_000763
+
+//OTHER
+<enZ0174>aya_000764
+<ptZ0174>aya_000764
+
+//OTHER
+<enZ0175>aya_000765
+<ptZ0175>aya_000765
+
+//OTHER
+<enZ0176>aya_000766
+<ptZ0176>aya_000766
+
+//OTHER
+<enZ0177>taku_004011
+<ptZ0177>taku_004011
+
+//OTHER
+<enZ0178>taku_004012
+<ptZ0178>taku_004012
+
+//OTHER
+<enZ0179>taku_004013
+<ptZ0179>taku_004013
+
+//OTHER
+<enZ0180>taku_004014
+<ptZ0180>taku_004014
+
+//OTHER
+<enZ0181>taku_004015
+<ptZ0181>taku_004015
+
+//OTHER
+<enZ0182>taku_004016
+<ptZ0182>taku_004016
+
+//OTHER
+<enZ0183>aya_000767
+<ptZ0183>aya_000767
+
+//OTHER
+<enZ0184>taku_004017
+<ptZ0184>taku_004017
+
+//OTHER
+<enZ0185>taku_004018
+<ptZ0185>taku_004018
+
+//OTHER
+<enZ0186>taku_004019
+<ptZ0186>taku_004019
+
+//OTHER
+<enZ0187>taku_004020
+<ptZ0187>taku_004020
+
+//OTHER
+<enZ0188>taku_004021
+<ptZ0188>taku_004021
+
+//OTHER
+<enZ0189>taku_005316
+<ptZ0189>taku_005316
+
+//OTHER
+<enZ0190>taku_004026
+<ptZ0190>taku_004026
+
+//OTHER
+<enZ0191>map008
+<ptZ0191>map008
+
+//OTHER
+<enZ0192>sp0040a
+<ptZ0192>sp0040a
+
+//OTHER
+<enZ0193>aya_000768
+<ptZ0193>aya_000768
+
+//OTHER
+<enZ0194>taku_004027
+<ptZ0194>taku_004027
+
+//OTHER
+<enZ0195>taku_005317
+<ptZ0195>taku_005317
+
+//OTHER
+<enZ0196>aya_000769
+<ptZ0196>aya_000769
+
+//OTHER
+<enZ0197>taku_004030
+<ptZ0197>taku_004030
+
+//OTHER
+<enZ0198>taku_005318
+<ptZ0198>taku_005318
+
+//OTHER
+<enZ0199>ev7003
+<ptZ0199>ev7003
+
+//OTHER
+<enZ0200>bgm112
+<ptZ0200>bgm112
+
+//OTHER
+<enZ0201>taku_005319
+<ptZ0201>taku_005319
+
+//OTHER
+<enZ0202>taku_005320
+<ptZ0202>taku_005320
+
+//OTHER
+<enZ0203>taku_005321
+<ptZ0203>taku_005321
+
+//OTHER
+<enZ0204>taku_005322
+<ptZ0204>taku_005322
+
+//OTHER
+<enZ0205>taku_005323
+<ptZ0205>taku_005323
+
+//OTHER
+<enZ0206>taku_005324
+<ptZ0206>taku_005324
+
+//OTHER
+<enZ0207>taku_005325
+<ptZ0207>taku_005325
+
+//OTHER
+<enZ0208>taku_005326
+<ptZ0208>taku_005326
+
+//OTHER
+<enZ0209>taku_004040
+<ptZ0209>taku_004040
+
+//OTHER
+<enZ0210>taku_004041
+<ptZ0210>taku_004041
+
+//OTHER
+<enZ0211>taku_004042
+<ptZ0211>taku_004042
+
+//OTHER
+<enZ0212>taku_004043
+<ptZ0212>taku_004043
+
+//OTHER
+<enZ0213>taku_004044
+<ptZ0213>taku_004044
+
+//OTHER
+<enZ0214>taku_004045
+<ptZ0214>taku_004045
+
+//OTHER
+<enZ0215>taku_004046
+<ptZ0215>taku_004046
+
+//OTHER
+<enZ0216>taku_005327
+<ptZ0216>taku_005327
+
+//OTHER
+<enZ0217>taku_005328
+<ptZ0217>taku_005328
+
+//OTHER
+<enZ0218>taku_005329
+<ptZ0218>taku_005329
+
+//OTHER
+<enZ0219>taku_005330
+<ptZ0219>taku_005330
+
+//OTHER
+<enZ0220>taku_005331
+<ptZ0220>taku_005331
+
+//OTHER
+<enZ0221>taku_005332
+<ptZ0221>taku_005332
+
+//OTHER
+<enZ0222>taku_004057
+<ptZ0222>taku_004057
+
+//OTHER
+<enZ0223>taku_004058
+<ptZ0223>taku_004058
+
+//OTHER
+<enZ0224>taku_004059
+<ptZ0224>taku_004059
+
+//OTHER
+<enZ0225>taku_004060
+<ptZ0225>taku_004060
+
+//OTHER
+<enZ0226>taku_004061
+<ptZ0226>taku_004061
+
+//OTHER
+<enZ0227>taku_004062
+<ptZ0227>taku_004062
+
+//OTHER
+<enZ0228>taku_004063
+<ptZ0228>taku_004063
+
+//OTHER
+<enZ0229>map024
+<ptZ0229>map024
+
+//OTHER
+<enZ0230>se072
+<ptZ0230>se072
+
+//OTHER
+<enZ0231>map005
+<ptZ0231>map005
+
+//OTHER
+<enZ0232>sp0200i
+<ptZ0232>sp0200i
+
+//OTHER
+<enZ0233>sp0200l
+<ptZ0233>sp0200l
+
+//OTHER
+<enZ0234>se015
+<ptZ0234>se015
+
+//OTHER
+<enZ0235>taku_004064
+<ptZ0235>taku_004064
+
+//OTHER
+<enZ0236>sp0200a
+<ptZ0236>sp0200a
+
+//OTHER
+<enZ0237>map0303
+<ptZ0237>map0303
+
+//OTHER
+<enZ0238>taku_004065
+<ptZ0238>taku_004065
+
+//OTHER
+<enZ0239>taku_005333
+<ptZ0239>taku_005333
+
+//OTHER
+<enZ0240>taku_005334
+<ptZ0240>taku_005334
+
+//OTHER
+<enZ0241>taku_005335
+<ptZ0241>taku_005335
+
+//OTHER
+<enZ0242>taku_004072
+<ptZ0242>taku_004072
+
+//OTHER
+<enZ0243>taku_004073
+<ptZ0243>taku_004073
+
+//OTHER
+<enZ0244>taku_004074
+<ptZ0244>taku_004074
+
+//OTHER
+<enZ0245>taku_004075
+<ptZ0245>taku_004075
+
+//OTHER
+<enZ0246>taku_004076
+<ptZ0246>taku_004076
+
+//OTHER
+<enZ0247>taku_004077
+<ptZ0247>taku_004077
+
+//OTHER
+<enZ0248>taku_004078
+<ptZ0248>taku_004078
+
+//OTHER
+<enZ0249>taku_004079
+<ptZ0249>taku_004079
+
+//OTHER
+<enZ0250>taku_004080
+<ptZ0250>taku_004080
+
+//OTHER
+<enZ0251>sp0200c
+<ptZ0251>sp0200c
+
+//OTHER
+<enZ0252>se262
+<ptZ0252>se262
+
+//OTHER
+<enZ0253>taku_004081
+<ptZ0253>taku_004081
+
+//OTHER
+<enZ0254>se071
+<ptZ0254>se071
+
+//OTHER
+<enZ0255>sp0200e
+<ptZ0255>sp0200e
+
+//OTHER
+<enZ0256>taku_004082
+<ptZ0256>taku_004082
+
+//OTHER
+<enZ0257>sp0200f
+<ptZ0257>sp0200f
+
+//OTHER
+<enZ0258>sp0200g
+<ptZ0258>sp0200g
+
+//OTHER
+<enZ0259>taku_004083
+<ptZ0259>taku_004083
+
+//OTHER
+<enZ0260>sp0200o
+<ptZ0260>sp0200o
+
+//OTHER
+<enZ0261>taku_004084
+<ptZ0261>taku_004084
+
+//OTHER
+<enZ0262>taku_004085
+<ptZ0262>taku_004085
+
+//OTHER
+<enZ0263>se926
+<ptZ0263>se926
+
+//OTHER
+<enZ0264>ev6007a
+<ptZ0264>ev6007a
+
+//OTHER
+<enZ0265>taku_004086
+<ptZ0265>taku_004086
+
+//OTHER
+<enZ0266>taku_004087
+<ptZ0266>taku_004087
+
+//OTHER
+<enZ0267>taku_004088
+<ptZ0267>taku_004088
+
+//OTHER
+<enZ0268>se337
+<ptZ0268>se337
+
+//OTHER
+<enZ0269>ev6007b
+<ptZ0269>ev6007b
+
+//OTHER
+<enZ0270>hasa_000104
+<ptZ0270>hasa_000104
+
+//OTHER
+<enZ0271>ev6007d
+<ptZ0271>ev6007d
+
+//OTHER
+<enZ0272>bgm113
+<ptZ0272>bgm113
+
+//OTHER
+<enZ0273>hasa_000711
+<ptZ0273>hasa_000711
+
+//OTHER
+<enZ0274>hasa_000712
+<ptZ0274>hasa_000712
+
+//OTHER
+<enZ0275>hasa_000713
+<ptZ0275>hasa_000713
+
+//OTHER
+<enZ0276>map006
+<ptZ0276>map006
+
+//OTHER
+<enZ0277>ev6007f
+<ptZ0277>ev6007f
+
+//OTHER
+<enZ0278>taku_005336
+<ptZ0278>taku_005336
+
+//OTHER
+<enZ0279>se658
+<ptZ0279>se658
+
+//OTHER
+<enZ0280>map022
+<ptZ0280>map022
+
+//OTHER
+<enZ0281>red
+<ptZ0281>red
+
+//OTHER
+<enZ0282>ev7004a
+<ptZ0282>ev7004a
+
+//OTHER
+<enZ0283>taku_005337
+<ptZ0283>taku_005337
+
+//OTHER
+<enZ0284>hasa_000714
+<ptZ0284>hasa_000714
+
+//OTHER
+<enZ0285>hasa_000715
+<ptZ0285>hasa_000715
+
+//OTHER
+<enZ0286>bgm017
+<ptZ0286>bgm017
+
+//OTHER
+<enZ0287>ev7004b
+<ptZ0287>ev7004b
+
+//OTHER
+<enZ0288>taku_005338
+<ptZ0288>taku_005338
+
+//OTHER
+<enZ0289>ev7004c
+<ptZ0289>ev7004c
+
+//OTHER
+<enZ0290>taku_005339
+<ptZ0290>taku_005339
+
+//OTHER
+<enZ0291>taku_005340
+<ptZ0291>taku_005340
+
+//OTHER
+<enZ0292>taku_005341
+<ptZ0292>taku_005341
+
+//OTHER
+<enZ0293>taku_005342
+<ptZ0293>taku_005342
+
+//OTHER
+<enZ0294>ev7004d
+<ptZ0294>ev7004d
+
+//OTHER
+<enZ0295>hasa_000716
+<ptZ0295>hasa_000716
+
+//OTHER
+<enZ0296>hasa_000717
+<ptZ0296>hasa_000717
+
+//OTHER
+<enZ0297>taku_005343
+<ptZ0297>taku_005343
+
+//OTHER
+<enZ0298>taku_005344
+<ptZ0298>taku_005344
+
+//OTHER
+<enZ0299>hasa_000718
+<ptZ0299>hasa_000718
+
+//OTHER
+<enZ0300>ev4005
+<ptZ0300>ev4005
+
+//OTHER
+<enZ0301>hasa_000719
+<ptZ0301>hasa_000719
+
+//OTHER
+<enZ0302>hasa_000720
+<ptZ0302>hasa_000720
+
+//OTHER
+<enZ0303>hasa_000721
+<ptZ0303>hasa_000721
+
+//OTHER
+<enZ0304>hasa_000722
+<ptZ0304>hasa_000722
+
+//OTHER
+<enZ0305>hasa_000723
+<ptZ0305>hasa_000723
+
+//OTHER
+<enZ0306>hasa_000724
+<ptZ0306>hasa_000724
+
+//OTHER
+<enZ0307>hasa_000725
+<ptZ0307>hasa_000725
+
+//OTHER
+<enZ0308>sp0084a
+<ptZ0308>sp0084a
+
+//OTHER
+<enZ0309>hasa_000726
+<ptZ0309>hasa_000726
+
+//OTHER
+<enZ0310>hasa_000727
+<ptZ0310>hasa_000727
+
+//OTHER
+<enZ0311>hasa_000728
+<ptZ0311>hasa_000728
+
+//OTHER
+<enZ0312>hasa_000729
+<ptZ0312>hasa_000729
+
+//OTHER
+<enZ0313>hasa_000730
+<ptZ0313>hasa_000730
+
+//OTHER
+<enZ0314>hasa_000731
+<ptZ0314>hasa_000731
+
+//OTHER
+<enZ0315>map023
+<ptZ0315>map023
+
+//OTHER
+<enZ0316>sp0084b
+<ptZ0316>sp0084b
+
+//OTHER
+<enZ0317>hasa_000732
+<ptZ0317>hasa_000732
+
+//OTHER
+<enZ0318>hasa_000733
+<ptZ0318>hasa_000733
+
+//OTHER
+<enZ0319>end4true
+<ptZ0319>end4true
+

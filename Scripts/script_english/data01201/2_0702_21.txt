@@ -1,0 +1,100 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+///================================================================================
+
+//TEXT
+<enT0001>It's all... going too well.
+<ptT0001>It's all... going too well.
+
+//TEXT
+<enT0002>There's no way it would go so well in reality.
+<ptT0002>There's no way it would go so well in reality.
+
+//TEXT
+<enT0003>I know that...
+<ptT0003>I know that...
+
+//TEXT 【Zakuro】
+<enT0004>"Umm, Mamiya-kun?"
+<ptT0004>"Umm, Mamiya-kun?"
+
+//TEXT 【Takuji】
+<enT0005>"Ah."
+<ptT0005>"Ah."
+
+//TEXT
+<enT0006>I finally snapped out of my delusion.
+<ptT0006>I finally snapped out of my delusion.
+
+//TEXT
+<enT0007>I was kind of surprised that my fantasy was so convincing.
+<ptT0007>I was kind of surprised that my fantasy was so convincing.
+
+//TEXT 【Takuji】
+<enT0008>"Ah, s-sorry... I was just thinking about something."
+<ptT0008>"Ah, s-sorry... I was just thinking about something."
+
+//TEXT 【Zakuro】
+<enT0009>"Thinking?"
+<ptT0009>"Thinking?"
+
+//TEXT 【Takuji】
+<enT0010>"Ah, yeah... Don't worry about it."
+<ptT0010>"Ah, yeah... Don't worry about it."
+
+///================================================================================
+
+//OTHER
+<enZ0001>2_0702_21.bss
+<ptZ0001>2_0702_21.bss
+
+//OTHER
+<enZ0002>It's my own Invention
+<ptZ0002>It's my own Invention
+
+//OTHER
+<enZ0003>se246
+<ptZ0003>se246
+
+//OTHER
+<enZ0004>zk0108a
+<ptZ0004>zk0108a
+
+//OTHER
+<enZ0005>bg1023b
+<ptZ0005>bg1023b
+
+//OTHER
+<enZ0006>zaku_001063
+<ptZ0006>zaku_001063
+
+//OTHER
+<enZ0007>bgm020
+<ptZ0007>bgm020
+
+//OTHER
+<enZ0008>taku_000595
+<ptZ0008>taku_000595
+
+//OTHER
+<enZ0009>taku_000596
+<ptZ0009>taku_000596
+
+//OTHER
+<enZ0010>zk0108
+<ptZ0010>zk0108
+
+//OTHER
+<enZ0011>zaku_001064
+<ptZ0011>zaku_001064
+
+//OTHER
+<enZ0012>taku_000597
+<ptZ0012>taku_000597
+

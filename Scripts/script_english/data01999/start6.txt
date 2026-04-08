@@ -1,0 +1,196 @@
+///================================================================================
+
+//TEXT
+<enT0001>Hehehehe. I am the one called Otonashi Ayana.
+<ptT0001>Hehehehe. I am the one called Otonashi Ayana.
+
+//TEXT
+<enT0002>This place is just one boundary.
+<ptT0002>This place is just one boundary.
+
+//TEXT
+<enT0003>It is a place where a soul can repeat its journey as many times as it wishes.
+<ptT0003>It is a place where a soul can repeat its journey as many times as it wishes.
+
+//TEXT
+<enT0004>The world will change depending on the choice you make here.
+<ptT0004>The world will change depending on the choice you make here.
+
+//TEXT
+<enT0005>This is a question from me.
+<ptT0005>This is a question from me.
+
+//TEXT
+<enT0006>Minakami Yuki-san.
+<ptT0006>Minakami Yuki-san.
+
+//TEXT
+<enT0007>Mamiya Hasaki-san.
+<ptT0007>Mamiya Hasaki-san.
+
+//TEXT
+<enT0008>And the End Sky.
+<ptT0008>And the End Sky.
+
+//TEXT
+<enT0009>Or perhaps you have yet to awaken from the dream?
+<ptT0009>Or perhaps you have yet to awaken from the dream?
+
+//TEXT
+<enT0010>Where is the place you call 'now'?
+<ptT0010>Where is the place you call 'now'?
+
+//TEXT
+<enT0011>Hehe, hehe.
+<ptT0011>Hehe, hehe.
+
+//TEXT
+<enT0012>The world which you will soon see is your world too.
+<ptT0012>The world which you will soon see is your world too.
+
+//TEXT
+<enT0013>Let's go to another beginning.
+<ptT0013>Let's go to another beginning.
+
+///================================================================================
+
+//OTHER
+<enZ0001>start6.bss
+<ptZ0001>start6.bss
+
+//OTHER
+<enZ0002>bgm019
+<ptZ0002>bgm019
+
+//OTHER
+<enZ0003>white
+<ptZ0003>white
+
+//OTHER
+<enZ0004>start6_gra
+<ptZ0004>start6_gra
+
+//OTHER
+<enZ0005>bg1017d
+<ptZ0005>bg1017d
+
+//OTHER
+<enZ0006>ay0000b
+<ptZ0006>ay0000b
+
+//OTHER
+<enZ0007>ay0000b_l
+<ptZ0007>ay0000b_l
+
+//OTHER
+<enZ0008>ay0003_l
+<ptZ0008>ay0003_l
+
+//OTHER
+<enZ0009>ay0003a_l
+<ptZ0009>ay0003a_l
+
+//OTHER
+<enZ0010>aya_200001
+<ptZ0010>aya_200001
+
+//OTHER
+<enZ0011>aya_200002
+<ptZ0011>aya_200002
+
+//OTHER
+<enZ0012>aya_200003
+<ptZ0012>aya_200003
+
+//OTHER
+<enZ0013>ay0002a_l
+<ptZ0013>ay0002a_l
+
+//OTHER
+<enZ0014>aya_200004
+<ptZ0014>aya_200004
+
+//OTHER
+<enZ0015>ay0001a_l
+<ptZ0015>ay0001a_l
+
+//OTHER
+<enZ0016>aya_200005
+<ptZ0016>aya_200005
+
+//OTHER
+<enZ0017>aya_200006
+<ptZ0017>aya_200006
+
+//OTHER
+<enZ0018>aya_200007
+<ptZ0018>aya_200007
+
+//OTHER
+<enZ0019>aya_200008
+<ptZ0019>aya_200008
+
+//OTHER
+<enZ0020>aya_200013
+<ptZ0020>aya_200013
+
+//OTHER
+<enZ0021>aya_200009
+<ptZ0021>aya_200009
+
+//OTHER
+<enZ0022>6_select-1
+<ptZ0022>6_select-1
+
+//OTHER
+<enZ0023>Minakami Yuki
+<ptZ0023>Minakami Yuki
+
+//OTHER
+<enZ0024>6_select-2
+<ptZ0024>6_select-2
+
+//OTHER
+<enZ0025>Mamiya Hasaki
+<ptZ0025>Mamiya Hasaki
+
+//OTHER
+<enZ0026>6_select-3
+<ptZ0026>6_select-3
+
+//OTHER
+<enZ0027>End Sky II
+<ptZ0027>End Sky II
+
+//OTHER
+<enZ0028>6_select-4
+<ptZ0028>6_select-4
+
+//OTHER
+<enZ0029>Still Dreaming
+<ptZ0029>Still Dreaming
+
+//OTHER
+<enZ0030>ay0011a_l
+<ptZ0030>ay0011a_l
+
+//OTHER
+<enZ0031>ay0005a_l
+<ptZ0031>ay0005a_l
+
+//OTHER
+<enZ0032>aya_200010
+<ptZ0032>aya_200010
+
+//OTHER
+<enZ0033>aya_200011
+<ptZ0033>aya_200011
+
+//OTHER
+<enZ0034>aya_200012
+<ptZ0034>aya_200012
+
+//OTHER
+<enZ0035>1-1_0710_Dream
+<ptZ0035>1-1_0710_Dream
+

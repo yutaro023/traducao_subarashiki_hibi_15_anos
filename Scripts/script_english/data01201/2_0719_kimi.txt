@@ -1,0 +1,2588 @@
+//NAME
+<enN0001>Kimika
+<ptN0001>Kimika
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+//NAME
+<enN0003>Believer
+<ptN0003>Believer
+
+//NAME
+<enN0004>Megu
+<ptN0004>Megu
+
+//NAME
+<enN0005>Satoko
+<ptN0005>Satoko
+
+///================================================================================
+
+//TEXT 【Kimika】
+<enT0001>"I wonder if everyone can see it."
+<ptT0001>"I wonder if everyone can see it."
+
+//TEXT 【Takuji】
+<enT0002>"Yeah, they can. That's why they're all so cheerful... They have to see it."
+<ptT0002>"Yeah, they can. That's why they're all so cheerful... They have to see it."
+
+//TEXT
+<enT0003>I stood under the final sky.
+<ptT0003>I stood under the final sky.
+
+//TEXT
+<enT0004>It already seemed like I could reach out and touch it.
+<ptT0004>It already seemed like I could reach out and touch it.
+
+//TEXT
+<enT0005>I'd come to a place where it seemed like my outstretched hand was mere inches from the edge of the universe.
+<ptT0005>I'd come to a place where it seemed like my outstretched hand was mere inches from the edge of the universe.
+
+//TEXT
+<enT0006>That's why they were all celebrating.
+<ptT0006>That's why they were all celebrating.
+
+//TEXT
+<enT0007>Jumping around on the roof.
+<ptT0007>Jumping around on the roof.
+
+//TEXT
+<enT0008>They were celebrating the last sky in this world.
+<ptT0008>They were celebrating the last sky in this world.
+
+//TEXT
+<enT0009>The world will end.
+<ptT0009>The world will end.
+
+//TEXT
+<enT0010>So we're all going to return to the sky.
+<ptT0010>So we're all going to return to the sky.
+
+//TEXT
+<enT0011>Return to the last sky in the world...
+<ptT0011>Return to the last sky in the world...
+
+//TEXT
+<enT0012>The light from all the stars in the sky rained down on us. How many millions, how many billions of years ago was the light that's illuminating us now emitted?
+<ptT0012>The light from all the stars in the sky rained down on us. How many millions, how many billions of years ago was the light that's illuminating us now emitted?
+
+//TEXT
+<enT0013>The light was born in the distant past so that it could illuminate us. It traveled for billions of years to deliver us light.
+<ptT0013>The light was born in the distant past so that it could illuminate us. It traveled for billions of years to deliver us light.
+
+//TEXT
+<enT0014>That's something worth celebrating.
+<ptT0014>That's something worth celebrating.
+
+//TEXT
+<enT0015>The last sky.
+<ptT0015>The last sky.
+
+//TEXT
+<enT0016>We stood at the edge of the universe.
+<ptT0016>We stood at the edge of the universe.
+
+//TEXT
+<enT0017>The place called... End Sky.
+<ptT0017>The place called... End Sky.
+
+//TEXT 【Kimika】
+<enT0018>"Hey, does it look like the same thing to everyone? Or is it different? How does the End Sky look?"
+<ptT0018>"Hey, does it look like the same thing to everyone? Or is it different? How does the End Sky look?"
+
+//TEXT 【Takuji】
+<enT0019>"What does it look like to you?"
+<ptT0019>"What does it look like to you?"
+
+//TEXT 【Kimika】
+<enT0020>"It's like fireworks in the sky."
+<ptT0020>"It's like fireworks in the sky."
+
+//TEXT 【Takuji】
+<enT0021>"Huh? Wasn't that what came in the Unhappy Meal you saw yesterday?"
+<ptT0021>"Huh? Wasn't that what came in the Unhappy Meal you saw yesterday?"
+
+//TEXT 【Kimika】
+<enT0022>"That's right. That's why I think the End Sky is just some cheap piece of crap like the toys they give away at McDonalds!"
+<ptT0022>"That's right. That's why I think the End Sky is just some cheap piece of crap like the toys they give away at McDonalds!"
+
+//TEXT 【Takuji】
+<enT0023>"You're a cheap woman, that's why you see such a cheap End Sky."
+<ptT0023>"You're a cheap woman, that's why you see such a cheap End Sky."
+
+//TEXT 【Kimika】
+<enT0024>"Whoa, that's cruel! You're such a meanie, my savior."
+<ptT0024>"Whoa, that's cruel! You're such a meanie, my savior."
+
+//TEXT 【Takuji】
+<enT0025>"Well, fireworks are really beautiful, so that's okay... Don't you think so, Kimika?"
+<ptT0025>"Well, fireworks are really beautiful, so that's okay... Don't you think so, Kimika?"
+
+//TEXT 【Kimika】
+<enT0026>"Yeah! It's great! Thanks for the fireworks, Unhappy Meal!"
+<ptT0026>"Yeah! It's great! Thanks for the fireworks, Unhappy Meal!"
+
+//TEXT 【Kimika】
+<enT0027>"Right, everyone?!"
+<ptT0027>"Right, everyone?!"
+
+//TEXT
+<enT0028>Kimika yelled out to the crowd.
+<ptT0028>Kimika yelled out to the crowd.
+
+//TEXT
+<enT0029>Everyone looked at Kimika.
+<ptT0029>Everyone looked at Kimika.
+
+//TEXT 【Kimika】
+<enT0030>"Can you all see the End Sky? Can you see it?!"
+<ptT0030>"Can you all see the End Sky? Can you see it?!"
+
+//TEXT 【Kimika】
+<enT0031>"Do you want to go there?!"
+<ptT0031>"Do you want to go there?!"
+
+//TEXT 【Kimika】
+<enT0032>"Whoa! They're all so excited."
+<ptT0032>"Whoa! They're all so excited."
+
+//TEXT 【Kimika】
+<enT0033>"Now then, this is my final question for you all! What does the End Sky look like to you?!"
+<ptT0033>"Now then, this is my final question for you all! What does the End Sky look like to you?!"
+
+//TEXT
+<enT0034>Everyone screamed at the same time, so I couldn't hear a thing.
+<ptT0034>Everyone screamed at the same time, so I couldn't hear a thing.
+
+//TEXT
+<enT0035>Jeez, what's she doing?
+<ptT0035>Jeez, what's she doing?
+
+//TEXT
+<enT0036>They all talked about their own End Sky, one after another. Every one of them yelled at the top of their lungs.
+<ptT0036>They all talked about their own End Sky, one after another. Every one of them yelled at the top of their lungs.
+
+//TEXT 【Kimika】
+<enT0037>"Ahahahaha, really?! Wow! I couldn't really understand any of that, but I could tell by your enthusiasm! I understand perfectly!"
+<ptT0037>"Ahahahaha, really?! Wow! I couldn't really understand any of that, but I could tell by your enthusiasm! I understand perfectly!"
+
+//TEXT 【Kimika】
+<enT0038>"This is the last sky!"
+<ptT0038>"This is the last sky!"
+
+//TEXT
+<enT0039>Kimika yelled back to the crowd.
+<ptT0039>Kimika yelled back to the crowd.
+
+//TEXT
+<enT0040>Right beside me... so joyfully...
+<ptT0040>Right beside me... so joyfully...
+
+//TEXT 【Kimika】
+<enT0041>"All right! Destroy that fence!"
+<ptT0041>"All right! Destroy that fence!"
+
+//TEXT
+<enT0042>Kimika picked up a mallet.
+<ptT0042>Kimika picked up a mallet.
+
+//TEXT
+<enT0043>Then several others waved their mallets over their heads.
+<ptT0043>Then several others waved their mallets over their heads.
+
+//TEXT
+<enT0044>That stupid woman... She brought mallets too? Or maybe she made the believers gather them?
+<ptT0044>That stupid woman... She brought mallets too? Or maybe she made the believers gather them?
+
+//TEXT
+<enT0045>Actually, now that I look, it seems like someone got hit with one of those.
+<ptT0045>Actually, now that I look, it seems like someone got hit with one of those.
+
+//TEXT
+<enT0046>There's so much blood...
+<ptT0046>There's so much blood...
+
+//TEXT
+<enT0047>What a silly ritual.
+<ptT0047>What a silly ritual.
+
+//TEXT 【Takuji】
+<enT0048>"I thought I told you this was supposed to be a solemn occasion."
+<ptT0048>"I thought I told you this was supposed to be a solemn occasion."
+
+//TEXT 【Kimika】
+<enT0049>"Hahahahahaha! You were too slow!"
+<ptT0049>"Hahahahahaha! You were too slow!"
+
+//TEXT 【Takuji】
+<enT0050>"Jeez... They're making a mess of the whole thing."
+<ptT0050>"Jeez... They're making a mess of the whole thing."
+
+//TEXT 【Kimika】
+<enT0051>"Isn't it better this way? Look, they're all having so much fun."
+<ptT0051>"Isn't it better this way? Look, they're all having so much fun."
+
+//TEXT 【Takuji】
+<enT0052>"I guess they are..."
+<ptT0052>"I guess they are..."
+
+//TEXT 【Takuji】
+<enT0053>"Not like I care, but you're taking over too many of my responsibilities. Knock it off."
+<ptT0053>"Not like I care, but you're taking over too many of my responsibilities. Knock it off."
+
+//TEXT 【Kimika】
+<enT0054>"It'll be okay. I'm going to leave the finale to you, my savior."
+<ptT0054>"It'll be okay. I'm going to leave the finale to you, my savior."
+
+//TEXT 【Believer】
+<enT0055>"W-Wow..."
+<ptT0055>"W-Wow..."
+
+//TEXT 【Believer】
+<enT0056>"A colossal cross..."
+<ptT0056>"A colossal cross..."
+
+//TEXT 【Believer】
+<enT0057>"It looks like... a huge door."
+<ptT0057>"It looks like... a huge door."
+
+//TEXT 【Believer】
+<enT0058>"I see a key and a keyhole."
+<ptT0058>"I see a key and a keyhole."
+
+//TEXT
+<enT0059>They all tried to put what they saw in the final sky into words.
+<ptT0059>They all tried to put what they saw in the final sky into words.
+
+//TEXT
+<enT0060>The world's last sky... How does it appear to them?
+<ptT0060>The world's last sky... How does it appear to them?
+
+//TEXT
+<enT0061>The world's final scene.
+<ptT0061>The world's final scene.
+
+//TEXT
+<enT0062>The world's final words.
+<ptT0062>The world's final words.
+
+//TEXT
+<enT0063>People dancing.
+<ptT0063>People dancing.
+
+//TEXT
+<enT0064>People fighting.
+<ptT0064>People fighting.
+
+//TEXT
+<enT0065>People laughing.
+<ptT0065>People laughing.
+
+//TEXT
+<enT0066>People happily destroying the building here under the sky.
+<ptT0066>People happily destroying the building here under the sky.
+
+//TEXT
+<enT0067>People already covered in blood.
+<ptT0067>People already covered in blood.
+
+//TEXT
+<enT0068>The sky peering down on us from overhead.
+<ptT0068>The sky peering down on us from overhead.
+
+//TEXT
+<enT0069>A dark blue sky, absent the light of the stars, pressed down on us from above.
+<ptT0069>A dark blue sky, absent the light of the stars, pressed down on us from above.
+
+//TEXT
+<enT0070>A beautiful night sky.
+<ptT0070>A beautiful night sky.
+
+//TEXT
+<enT0071>Someone set off fireworks.
+<ptT0071>Someone set off fireworks.
+
+//TEXT
+<enT0072>For some reason, a spark caused a pillar of flame to bellow up from the ground.
+<ptT0072>For some reason, a spark caused a pillar of flame to bellow up from the ground.
+
+//TEXT
+<enT0073>Someone brought a can of gasoline...
+<ptT0073>Someone brought a can of gasoline...
+
+//TEXT
+<enT0074>Some idiot must have brought the gasoline from the generator up here.
+<ptT0074>Some idiot must have brought the gasoline from the generator up here.
+
+//TEXT
+<enT0075>A pillar of flame on the rooftop.
+<ptT0075>A pillar of flame on the rooftop.
+
+//TEXT
+<enT0076>A huge pillar of flame.
+<ptT0076>A huge pillar of flame.
+
+//TEXT
+<enT0077>Several people got caught in the flames and burnt alive.
+<ptT0077>Several people got caught in the flames and burnt alive.
+
+//TEXT
+<enT0078>Even with the drugs, that must have hurt... They had burns all over their bodies.
+<ptT0078>Even with the drugs, that must have hurt... They had burns all over their bodies.
+
+//TEXT
+<enT0079>To an outsider, this sight would look like a peek into hell itself.
+<ptT0079>To an outsider, this sight would look like a peek into hell itself.
+
+//TEXT
+<enT0080>Why are they all having so much fun in this hell?
+<ptT0080>Why are they all having so much fun in this hell?
+
+//TEXT
+<enT0081>This is the last sky.
+<ptT0081>This is the last sky.
+
+//TEXT
+<enT0082>The sky of the end.
+<ptT0082>The sky of the end.
+
+//TEXT
+<enT0083>Looking out from their eyes... what does this final sky look like?
+<ptT0083>Looking out from their eyes... what does this final sky look like?
+
+//TEXT
+<enT0084>Fireworks.
+<ptT0084>Fireworks.
+
+//TEXT
+<enT0085>That's what Kimika said... Fireworks, huh? That's a pretty good answer.
+<ptT0085>That's what Kimika said... Fireworks, huh? That's a pretty good answer.
+
+//TEXT
+<enT0086>She's right. This sky does look like it's full of fireworks.
+<ptT0086>She's right. This sky does look like it's full of fireworks.
+
+//TEXT
+<enT0087>The stars twinkled in the sky.
+<ptT0087>The stars twinkled in the sky.
+
+//TEXT
+<enT0088>They twinkled like the embers of a skyrocket in bloom...
+<ptT0088>They twinkled like the embers of a skyrocket in bloom...
+
+//TEXT
+<enT0089>This is the limit.
+<ptT0089>This is the limit.
+
+//TEXT
+<enT0090>The sky where all duality comes to an end.
+<ptT0090>The sky where all duality comes to an end.
+
+//TEXT
+<enT0091>And thus we looked up at the sky that had taken on the light of the fireworks.
+<ptT0091>And thus we looked up at the sky that had taken on the light of the fireworks.
+
+//TEXT 【Kimika】
+<enT0092>"Now the party is in full swing! I'll leave the rest to our one and only savior!"
+<ptT0092>"Now the party is in full swing! I'll leave the rest to our one and only savior!"
+
+//TEXT 【Kimika】
+<enT0093>"He's everyone's idol, your one and only savior! This is the finale, so make sure you listen closely!"
+<ptT0093>"He's everyone's idol, your one and only savior! This is the finale, so make sure you listen closely!"
+
+//TEXT
+<enT0094>Pfft... You're the one who's not listening to me.
+<ptT0094>Pfft... You're the one who's not listening to me.
+
+//TEXT 【Takuji】
+<enT0095>"Haa..."
+<ptT0095>"Haa..."
+
+//TEXT 【Takuji】
+<enT0096>"This is a mysterious night."
+<ptT0096>"This is a mysterious night."
+
+//TEXT 【Takuji】
+<enT0097>"A night like any other... and yet completely different..."
+<ptT0097>"A night like any other... and yet completely different..."
+
+//TEXT 【Takuji】
+<enT0098>"But this is most certainly the last stop."
+<ptT0098>"But this is most certainly the last stop."
+
+//TEXT 【Takuji】
+<enT0099>"This place, where we're standing right now... This is the last..."
+<ptT0099>"This place, where we're standing right now... This is the last..."
+
+//TEXT 【Takuji】
+<enT0100>"So the way forward is simple... We can go at any time."
+<ptT0100>"So the way forward is simple... We can go at any time."
+
+//TEXT 【Takuji】
+<enT0101>"We can move forward at any time..."
+<ptT0101>"We can move forward at any time..."
+
+//TEXT 【Takuji】
+<enT0102>"Let's take that step... From this spot, from the final sky."
+<ptT0102>"Let's take that step... From this spot, from the final sky."
+
+//TEXT 【Takuji】
+<enT0103>"Take that step!"
+<ptT0103>"Take that step!"
+
+//TEXT 【Kimika】
+<enT0104>"All right, my savior... I guess this is it."
+<ptT0104>"All right, my savior... I guess this is it."
+
+//TEXT 【Takuji】
+<enT0105>"Kimika?"
+<ptT0105>"Kimika?"
+
+//TEXT
+<enT0106>Kimika was about to jump, but I stopped her.
+<ptT0106>Kimika was about to jump, but I stopped her.
+
+//TEXT 【Takuji】
+<enT0107>"You're last..."
+<ptT0107>"You're last..."
+
+//TEXT 【Kimika】
+<enT0108>"Wha―?!"
+<ptT0108>"Wha―?!"
+
+//TEXT 【Kimika】
+<enT0109>"Wait! Um..."
+<ptT0109>"Wait! Um..."
+
+//TEXT 【Megu】
+<enT0110>"N-No way, I'm not letting Tachibana go before me!"
+<ptT0110>"N-No way, I'm not letting Tachibana go before me!"
+
+//TEXT 【Satoko】
+<enT0111>"I-I'm first!"
+<ptT0111>"I-I'm first!"
+
+//TEXT
+<enT0112>People flying through the sky.
+<ptT0112>People flying through the sky.
+
+//TEXT
+<enT0113>People returning to the sky.
+<ptT0113>People returning to the sky.
+
+//TEXT
+<enT0114>At the edge of the world... the people headed toward the sky.
+<ptT0114>At the edge of the world... the people headed toward the sky.
+
+//TEXT
+<enT0115>They extended their arms wider and wider, like they were trying to grab onto the world itself.
+<ptT0115>They extended their arms wider and wider, like they were trying to grab onto the world itself.
+
+//TEXT
+<enT0116>The people went to the sky.
+<ptT0116>The people went to the sky.
+
+//TEXT
+<enT0117>Some of them said their farewells to me before they went.
+<ptT0117>Some of them said their farewells to me before they went.
+
+//TEXT
+<enT0118>But most of them were taken by passion, and they went screaming and jumping into the sky as soon as they could.
+<ptT0118>But most of them were taken by passion, and they went screaming and jumping into the sky as soon as they could.
+
+//TEXT
+<enT0119>They screamed.
+<ptT0119>They screamed.
+
+//TEXT
+<enT0120>Meaningless words...
+<ptT0120>Meaningless words...
+
+//TEXT
+<enT0121>Truly meaningless words.
+<ptT0121>Truly meaningless words.
+
+//TEXT
+<enT0122>Today feels especially good... especially comfortable.
+<ptT0122>Today feels especially good... especially comfortable.
+
+//TEXT
+<enT0123>A cool breeze.
+<ptT0123>A cool breeze.
+
+//TEXT
+<enT0124>A beautiful blue.
+<ptT0124>A beautiful blue.
+
+//TEXT
+<enT0125>A world of light.
+<ptT0125>A world of light.
+
+//TEXT
+<enT0126>A good day to die.
+<ptT0126>A good day to die.
+
+//TEXT
+<enT0127>Someone once said that.
+<ptT0127>Someone once said that.
+
+//TEXT
+<enT0128>An incredible number of people jumped the smashed fence and flew into the sky.
+<ptT0128>An incredible number of people jumped the smashed fence and flew into the sky.
+
+//TEXT
+<enT0129>There were some people who had been injured or burned too badly to move, but others picked them up and threw them into the sky.
+<ptT0129>There were some people who had been injured or burned too badly to move, but others picked them up and threw them into the sky.
+
+//TEXT
+<enT0130>They too were sucked into the great blue sky.
+<ptT0130>They too were sucked into the great blue sky.
+
+//TEXT
+<enT0131>Before I knew it... the commotion had disappeared.
+<ptT0131>Before I knew it... the commotion had disappeared.
+
+//TEXT
+<enT0132>The great clamor turned into unbroken silence.
+<ptT0132>The great clamor turned into unbroken silence.
+
+//TEXT
+<enT0133>Before I knew it... only Kimika and I stood on the rooftop.
+<ptT0133>Before I knew it... only Kimika and I stood on the rooftop.
+
+//TEXT
+<enT0134>I embraced Kimika on the desolate rooftop.
+<ptT0134>I embraced Kimika on the desolate rooftop.
+
+//TEXT 【Kimika】
+<enT0135>"Ahahahaha... I'm happy that I can hold your hand at the end."
+<ptT0135>"Ahahahaha... I'm happy that I can hold your hand at the end."
+
+//TEXT 【Kimika】
+<enT0136>"But this isn't good..."
+<ptT0136>"But this isn't good..."
+
+//TEXT 【Takuji】
+<enT0137>"What isn't?"
+<ptT0137>"What isn't?"
+
+//TEXT 【Kimika】
+<enT0138>"I don't deserve happiness."
+<ptT0138>"I don't deserve happiness."
+
+//TEXT 【Kimika】
+<enT0139>"I only deserve unhappiness... But... But... I..."
+<ptT0139>"I only deserve unhappiness... But... But... I..."
+
+//TEXT
+<enT0140>Kimika disentangled her hand from mine.
+<ptT0140>Kimika disentangled her hand from mine.
+
+//TEXT 【Kimika】
+<enT0141>"My savior, this is it..."
+<ptT0141>"My savior, this is it..."
+
+//TEXT 【Takuji】
+<enT0142>"What?"
+<ptT0142>"What?"
+
+//TEXT 【Kimika】
+<enT0143>"Once I die, it'll all be over."
+<ptT0143>"Once I die, it'll all be over."
+
+//TEXT 【Takuji】
+<enT0144>"Wh-What do you mean?"
+<ptT0144>"Wh-What do you mean?"
+
+//TEXT 【Kimika】
+<enT0145>"Before I knew about what you had planned... I tried to stop your grand plan..."
+<ptT0145>"Before I knew about what you had planned... I tried to stop your grand plan..."
+
+//TEXT 【Takuji】
+<enT0146>"Plan?"
+<ptT0146>"Plan?"
+
+//TEXT 【Kimika】
+<enT0147>"That's right... I'm sorry that I didn't understand."
+<ptT0147>"That's right... I'm sorry that I didn't understand."
+
+//TEXT 【Takuji】
+<enT0148>"What are you talking about?"
+<ptT0148>"What are you talking about?"
+
+//TEXT 【Kimika】
+<enT0149>"It should've been me, my savior."
+<ptT0149>"It should've been me, my savior."
+
+//TEXT 【Kimika】
+<enT0150>"...I'm the one who absolutely has to die."
+<ptT0150>"...I'm the one who absolutely has to die."
+
+//TEXT 【Kimika】
+<enT0151>"I have to fall from a high place... and splatter myself all over the ground... and die."
+<ptT0151>"I have to fall from a high place... and splatter myself all over the ground... and die."
+
+//TEXT 【Kimika】
+<enT0152>"That's right. I should've died... I have to die... And of course, I have to end my life with my own hands."
+<ptT0152>"That's right. I should've died... I have to die... And of course, I have to end my life with my own hands."
+
+//TEXT 【Takuji】
+<enT0153>"...With your own hands?"
+<ptT0153>"...With your own hands?"
+
+//TEXT 【Kimika】
+<enT0154>"Yes! Because I betrayed her. I betrayed Zakuro."
+<ptT0154>"Yes! Because I betrayed her. I betrayed Zakuro."
+
+//TEXT 【Kimika】
+<enT0155>"She tried to talk to me, but I betrayed her."
+<ptT0155>"She tried to talk to me, but I betrayed her."
+
+//TEXT 【Takuji】
+<enT0156>"Yeah... I know."
+<ptT0156>"Yeah... I know."
+
+//TEXT 【Kimika】
+<enT0157>"But honestly, even after I betrayed her, she never hated me. I couldn't forgive her for that."
+<ptT0157>"But honestly, even after I betrayed her, she never hated me. I couldn't forgive her for that."
+
+//TEXT 【Kimika】
+<enT0158>"As much as the girls who bullied us... No, even more than them. I couldn't forgive her."
+<ptT0158>"As much as the girls who bullied us... No, even more than them. I couldn't forgive her."
+
+//TEXT 【Kimika】
+<enT0159>"Why didn't she hate me? Why didn't she ever want to get revenge?"
+<ptT0159>"Why didn't she hate me? Why didn't she ever want to get revenge?"
+
+//TEXT 【Kimika】
+<enT0160>"Why? What made her do that? Why wouldn't she hate me? Why didn't she curse me? Why did she smile at me?"
+<ptT0160>"Why? What made her do that? Why wouldn't she hate me? Why didn't she curse me? Why did she smile at me?"
+
+//TEXT 【Kimika】
+<enT0161>"Just thinking about that made me so, so, so mad that I couldn't take it. She annoyed me so much... I couldn't stand it."
+<ptT0161>"Just thinking about that made me so, so, so mad that I couldn't take it. She annoyed me so much... I couldn't stand it."
+
+//TEXT 【Kimika】
+<enT0162>"I don't give two shits about Megu or Satoko... I couldn't care less if they died..."
+<ptT0162>"I don't give two shits about Megu or Satoko... I couldn't care less if they died..."
+
+//TEXT 【Kimika】
+<enT0163>"To me, only Zakuro mattered. She was the most important figure in my life. She never hated me... She always smiled at me... And I couldn't forgive her for that. It was so hard."
+<ptT0163>"To me, only Zakuro mattered. She was the most important figure in my life. She never hated me... She always smiled at me... And I couldn't forgive her for that. It was so hard."
+
+//TEXT 【Kimika】
+<enT0164>"I wanted to kill her."
+<ptT0164>"I wanted to kill her."
+
+//TEXT 【Kimika】
+<enT0165>"So when she died and the curse reared its head... I was incredibly happy."
+<ptT0165>"So when she died and the curse reared its head... I was incredibly happy."
+
+//TEXT 【Kimika】
+<enT0166>"I was so happy."
+<ptT0166>"I was so happy."
+
+//TEXT 【Kimika】
+<enT0167>"Oh, Zakuro finally got mad at me. She finally hates me."
+<ptT0167>"Oh, Zakuro finally got mad at me. She finally hates me."
+
+//TEXT 【Kimika】
+<enT0168>"Now she can actually see me for what I am..."
+<ptT0168>"Now she can actually see me for what I am..."
+
+//TEXT 【Kimika】
+<enT0169>"Now she's finally seeing me as human."
+<ptT0169>"Now she's finally seeing me as human."
+
+//TEXT 【Kimika】
+<enT0170>"Not looking down on me from upon high, but instead standing next to me."
+<ptT0170>"Not looking down on me from upon high, but instead standing next to me."
+
+//TEXT
+<enT0171>Looking at her...
+<ptT0171>Looking at her...
+
+//TEXT
+<enT0172>I see...
+<ptT0172>I see...
+
+//TEXT
+<enT0173>Takashima Zakuro certainly did save Tachibana Kimika from persecution.
+<ptT0173>Takashima Zakuro certainly did save Tachibana Kimika from persecution.
+
+//TEXT
+<enT0174>I heard that Zakuro was bullied in her place.
+<ptT0174>I heard that Zakuro was bullied in her place.
+
+//TEXT
+<enT0175>But to Kimika, it's not like that.
+<ptT0175>But to Kimika, it's not like that.
+
+//TEXT
+<enT0176>To Kimika, who was ignored while Zakuro was bullied, it was an unforgivable act of betrayal.
+<ptT0176>To Kimika, who was ignored while Zakuro was bullied, it was an unforgivable act of betrayal.
+
+//TEXT
+<enT0177>It was the same as ignoring her own existence.
+<ptT0177>It was the same as ignoring her own existence.
+
+//TEXT
+<enT0178>Since Takashima Zakuro refused to face Tachibana directly... she could never have been Tachibana's friend...
+<ptT0178>Since Takashima Zakuro refused to face Tachibana directly... she could never have been Tachibana's friend...
+
+//TEXT
+<enT0179>For Tachibana, their relationship wasn't one between two equals because Takashima refused to get angry or hate her.
+<ptT0179>For Tachibana, their relationship wasn't one between two equals because Takashima refused to get angry or hate her.
+
+//TEXT
+<enT0180>Takashima-san's good will must have weighed more heavily on her shoulders than any insult.
+<ptT0180>Takashima-san's good will must have weighed more heavily on her shoulders than any insult.
+
+//TEXT
+<enT0181>Sometimes, good intentions can cause far more evil than bad ones... The road to hell is paved with good intentions.
+<ptT0181>Sometimes, good intentions can cause far more evil than bad ones... The road to hell is paved with good intentions.
+
+//TEXT
+<enT0182>Takashima-san's good intentions must have seemed like haughty pride or pity.
+<ptT0182>Takashima-san's good intentions must have seemed like haughty pride or pity.
+
+//TEXT 【Kimika】
+<enT0183>"You know... I've always wondered about something since I was a child."
+<ptT0183>"You know... I've always wondered about something since I was a child."
+
+//TEXT 【Kimika】
+<enT0184>"There's one thing I could just never, ever understand."
+<ptT0184>"There's one thing I could just never, ever understand."
+
+//TEXT 【Kimika】
+<enT0185>"Haven't you heard people say that a person who dies after committing a grave sin is only running away... That they should live and pay back their debt to society..."
+<ptT0185>"Haven't you heard people say that a person who dies after committing a grave sin is only running away... That they should live and pay back their debt to society..."
+
+//TEXT
+<enT0186>She looked to the sky and spat out those words under her breath.
+<ptT0186>She looked to the sky and spat out those words under her breath.
+
+//TEXT 【Kimika】
+<enT0187>"What's up with that?"
+<ptT0187>"What's up with that?"
+
+//TEXT 【Kimika】
+<enT0188>"I don't understand at all. Live and pay it back? Even though the person you commited the sin against is dead?"
+<ptT0188>"I don't understand at all. Live and pay it back? Even though the person you commited the sin against is dead?"
+
+//TEXT 【Kimika】
+<enT0189>"What if the person is dead? How can you make recompense to the dead by living on in this life?"
+<ptT0189>"What if the person is dead? How can you make recompense to the dead by living on in this life?"
+
+//TEXT 【Kimika】
+<enT0190>"You have to look someone in the eyes before you can ever make amends. How should a living person look the dead in the eyes? All that crap is just stuff people say to make themselves feel better."
+<ptT0190>"You have to look someone in the eyes before you can ever make amends. How should a living person look the dead in the eyes? All that crap is just stuff people say to make themselves feel better."
+
+//TEXT 【Kimika】
+<enT0191>"To make amends to the dead, one has to be dead... That much should be obvious."
+<ptT0191>"To make amends to the dead, one has to be dead... That much should be obvious."
+
+//TEXT 【Kimika】
+<enT0192>"In the past, revenge was seen as virtuous... The only way to satisfy a dead man's anger is to kill the person who killed him."
+<ptT0192>"In the past, revenge was seen as virtuous... The only way to satisfy a dead man's anger is to kill the person who killed him."
+
+//TEXT 【Kimika】
+<enT0193>"That's just common sense."
+<ptT0193>"That's just common sense."
+
+//TEXT 【Kimika】
+<enT0194>"Or as you would put it, it's a truth that the liars have hidden away from the world."
+<ptT0194>"Or as you would put it, it's a truth that the liars have hidden away from the world."
+
+//TEXT 【Kimika】
+<enT0195>"A death can only be repaid with another death."
+<ptT0195>"A death can only be repaid with another death."
+
+//TEXT 【Kimika】
+<enT0196>"So..."
+<ptT0196>"So..."
+
+//TEXT 【Kimika】
+<enT0197>"So once Zakuro died... there was only one way to pay for my sins."
+<ptT0197>"So once Zakuro died... there was only one way to pay for my sins."
+
+//TEXT 【Kimika】
+<enT0198>"Death."
+<ptT0198>"Death."
+
+//TEXT 【Kimika】
+<enT0199>"The people who bullied her, and all the people who saw it happening and did nothing... All of them had to die."
+<ptT0199>"The people who bullied her, and all the people who saw it happening and did nothing... All of them had to die."
+
+//TEXT 【Kimika】
+<enT0200>"That was the only true way for us to atone."
+<ptT0200>"That was the only true way for us to atone."
+
+//TEXT 【Kimika】
+<enT0201>"Hehe, isn't that messed up? How can the living repay the dead?"
+<ptT0201>"Hehe, isn't that messed up? How can the living repay the dead?"
+
+//TEXT 【Kimika】
+<enT0202>"A change of heart? Or maybe just by apologizing? Or should they work to prevent any further deaths? Hehe... If you told them of their sins, they would swear any of those in an instant."
+<ptT0202>"A change of heart? Or maybe just by apologizing? Or should they work to prevent any further deaths? Hehe... If you told them of their sins, they would swear any of those in an instant."
+
+//TEXT 【Kimika】
+<enT0203>"They would just say they bullied her because the world was unfair, or because they were scared about the future."
+<ptT0203>"They would just say they bullied her because the world was unfair, or because they were scared about the future."
+
+//TEXT 【Kimika】
+<enT0204>"So they would swear any oath you asked them to. Please forgive us, we swear this will never happen again!"
+<ptT0204>"So they would swear any oath you asked them to. Please forgive us, we swear this will never happen again!"
+
+//TEXT 【Kimika】
+<enT0205>"Hehe, liars, liars, fucking liars..."
+<ptT0205>"Hehe, liars, liars, fucking liars..."
+
+//TEXT 【Kimika】
+<enT0206>"Only death can repay the dead. That's obvious. The only thing that carries the same value as death is death."
+<ptT0206>"Only death can repay the dead. That's obvious. The only thing that carries the same value as death is death."
+
+//TEXT 【Kimika】
+<enT0207>"My death, and the death of all the rest of them... We all have to die."
+<ptT0207>"My death, and the death of all the rest of them... We all have to die."
+
+//TEXT 【Kimika】
+<enT0208>"We have to die the same way she did, or if not a more gruesome death than hers."
+<ptT0208>"We have to die the same way she did, or if not a more gruesome death than hers."
+
+//TEXT 【Kimika】
+<enT0209>"That's why..."
+<ptT0209>"That's why..."
+
+//TEXT 【Kimika】
+<enT0210>"When I first heard about you online... my mind went blank for a moment."
+<ptT0210>"When I first heard about you online... my mind went blank for a moment."
+
+//TEXT 【Kimika】
+<enT0211>"Who the fuck is this? Who does he think he is? The savior?"
+<ptT0211>"Who the fuck is this? Who does he think he is? The savior?"
+
+//TEXT 【Kimika】
+<enT0212>"So when I met you, I asked...
+<ptT0212>"So when I met you, I asked...
+
+//TEXT
+<enT0213> You think you can stop the curse? Don't fuck with me!"
+<ptT0213> You think you can stop the curse? Don't fuck with me!"
+
+//TEXT 【Kimika】
+<enT0214>"He's an enemy. He's a demon trying to erase Zakuro's feelings."
+<ptT0214>"He's an enemy. He's a demon trying to erase Zakuro's feelings."
+
+//TEXT 【Kimika】
+<enT0215>"So I have to stop him. I have to kill him..."
+<ptT0215>"So I have to stop him. I have to kill him..."
+
+//TEXT 【Kimika】
+<enT0216>"Zakuro's curse is real. She had every right to curse us. I wouldn't let anyone stop her curse, not even God himself."
+<ptT0216>"Zakuro's curse is real. She had every right to curse us. I wouldn't let anyone stop her curse, not even God himself."
+
+//TEXT 【Kimika】
+<enT0217>"That's why I approached you."
+<ptT0217>"That's why I approached you."
+
+//TEXT 【Kimika】
+<enT0218>"I was going to kill you for trying to stop Zakuro's curse."
+<ptT0218>"I was going to kill you for trying to stop Zakuro's curse."
+
+//TEXT 【Kimika】
+<enT0219>"But you were different. I was totally mistaken."
+<ptT0219>"But you were different. I was totally mistaken."
+
+//TEXT 【Kimika】
+<enT0220>"I understood everything on the first day... On that day..."
+<ptT0220>"I understood everything on the first day... On that day..."
+
+//TEXT 【Kimika】
+<enT0221>"I watched you, my savior. I found your secret base, and I saw what was on your computer."
+<ptT0221>"I watched you, my savior. I found your secret base, and I saw what was on your computer."
+
+//TEXT 【Kimika】
+<enT0222>"I was really surprised... Like, this guy is really incredible."
+<ptT0222>"I was really surprised... Like, this guy is really incredible."
+
+//TEXT 【Kimika】
+<enT0223>"You were trying to kill way more people than I was... You wanted to return not only yourself but as many other people as you could to the sky..."
+<ptT0223>"You were trying to kill way more people than I was... You wanted to return not only yourself but as many other people as you could to the sky..."
+
+//TEXT 【Kimika】
+<enT0224>"The sky... where Zakuro is, where her soul is enshrined. That's where you wanted to send as many people as possible."
+<ptT0224>"The sky... where Zakuro is, where her soul is enshrined. That's where you wanted to send as many people as possible."
+
+//TEXT 【Kimika】
+<enT0225>"I thought it was probably something you were doing for your own gain."
+<ptT0225>"I thought it was probably something you were doing for your own gain."
+
+//TEXT 【Kimika】
+<enT0226>"But I knew I had to kill as many other people as possible for basically the same reason as you."
+<ptT0226>"But I knew I had to kill as many other people as possible for basically the same reason as you."
+
+//TEXT 【Kimika】
+<enT0227>"I knew you were trying to kill a great number of people... No, return them to the sky."
+<ptT0227>"I knew you were trying to kill a great number of people... No, return them to the sky."
+
+//TEXT 【Kimika】
+<enT0228>"So I knew you were the same as me... That made you Zakuro's ally."
+<ptT0228>"So I knew you were the same as me... That made you Zakuro's ally."
+
+//TEXT 【Takuji】
+<enT0229>"Kimika..."
+<ptT0229>"Kimika..."
+
+//TEXT 【Kimika】
+<enT0230>"Soon, I realized you had Zakuro's cell phone too. Every time I reported back to you where Senagawa was... her phone would ring."
+<ptT0230>"Soon, I realized you had Zakuro's cell phone too. Every time I reported back to you where Senagawa was... her phone would ring."
+
+//TEXT 【Kimika】
+<enT0231>"Even a fool could've figured out that you were the one sending those messages."
+<ptT0231>"Even a fool could've figured out that you were the one sending those messages."
+
+//TEXT 【Kimika】
+<enT0232>"But you were making mistakes. Sometimes you forgot to send the messages..."
+<ptT0232>"But you were making mistakes. Sometimes you forgot to send the messages..."
+
+//TEXT 【Kimika】
+<enT0233>"Sometimes you would space out and start talking to yourself... I got tired of waiting for you to get stuff done, so I started doing everything myself."
+<ptT0233>"Sometimes you would space out and start talking to yourself... I got tired of waiting for you to get stuff done, so I started doing everything myself."
+
+//TEXT 【Kimika】
+<enT0234>"I made Senagawa feel true fear... and killed her."
+<ptT0234>"I made Senagawa feel true fear... and killed her."
+
+//TEXT 【Kimika】
+<enT0235>"I honestly thought that was an amazing plan. I never would've thought of that..."
+<ptT0235>"I honestly thought that was an amazing plan. I never would've thought of that..."
+
+//TEXT 【Kimika】
+<enT0236>"Which made me think, this guy is a bit airheaded, but he really is the savior. I don't know what the other people thought, but to me you really were the savior."
+<ptT0236>"Which made me think, this guy is a bit airheaded, but he really is the savior. I don't know what the other people thought, but to me you really were the savior."
+
+//TEXT 【Kimika】
+<enT0237>"I probably hated Senagawa Yui more than Zakuro herself did."
+<ptT0237>"I probably hated Senagawa Yui more than Zakuro herself did."
+
+//TEXT 【Kimika】
+<enT0238>"I don't actually know who Zakuro hated the most, but..."
+<ptT0238>"I don't actually know who Zakuro hated the most, but..."
+
+//TEXT 【Kimika】
+<enT0239>"But when you said that Zakuro hated Senagawa the most... my heart fluttered."
+<ptT0239>"But when you said that Zakuro hated Senagawa the most... my heart fluttered."
+
+//TEXT 【Kimika】
+<enT0240>"Amazing. This guy is amazing. He understands. He's speaking the truth."
+<ptT0240>"Amazing. This guy is amazing. He understands. He's speaking the truth."
+
+//TEXT 【Kimika】
+<enT0241>"I don't know about Zakuro, but I know that I never could've forgiven Senagawa. I wanted to make her die a more gruesome death than anyone else."
+<ptT0241>"I don't know about Zakuro, but I know that I never could've forgiven Senagawa. I wanted to make her die a more gruesome death than anyone else."
+
+//TEXT 【Kimika】
+<enT0242>"That's why I was amazed by your plan."
+<ptT0242>"That's why I was amazed by your plan."
+
+//TEXT 【Kimika】
+<enT0243>"If possible, I would've liked...
+<ptT0243>"If possible, I would've liked...
+
+//TEXT
+<enT0244> to make Akasaka Megu and Kitami Satoko die in utter terror like she did."
+<ptT0244> to make Akasaka Megu and Kitami Satoko die in utter terror like she did."
+
+//TEXT 【Kimika】
+<enT0245>"So I did my best to think something up..."
+<ptT0245>"So I did my best to think something up..."
+
+//TEXT 【Kimika】
+<enT0246>"But in the end, I just decided to leave it to you."
+<ptT0246>"But in the end, I just decided to leave it to you."
+
+//TEXT 【Kimika】
+<enT0247>"You were the one who made Zakuro's curse into a reality, so I knew you were the only one who could make my wish come true."
+<ptT0247>"You were the one who made Zakuro's curse into a reality, so I knew you were the only one who could make my wish come true."
+
+//TEXT 【Kimika】
+<enT0248>"You're the savior... You're my savior..."
+<ptT0248>"You're the savior... You're my savior..."
+
+//TEXT 【Kimika】
+<enT0249>"No one really looked at me... No one ever looked at me... Not even Zakuro was really looking at me..."
+<ptT0249>"No one really looked at me... No one ever looked at me... Not even Zakuro was really looking at me..."
+
+//TEXT 【Kimika】
+<enT0250>"She was just a good girl... She was incredibly kind, and her soul was beautiful. That's the only reason she talked to me."
+<ptT0250>"She was just a good girl... She was incredibly kind, and her soul was beautiful. That's the only reason she talked to me."
+
+//TEXT 【Kimika】
+<enT0251>"You're the only one who truly looked at me for who I am... You really talked to me, looked me in the eyes, got mad at me, laughed with me, got annoyed with me... You showed me all these emotions."
+<ptT0251>"You're the only one who truly looked at me for who I am... You really talked to me, looked me in the eyes, got mad at me, laughed with me, got annoyed with me... You showed me all these emotions."
+
+//TEXT 【Kimika】
+<enT0252>"You're a boy, but you don't seem interested in sex at all...
+<ptT0252>"You're a boy, but you don't seem interested in sex at all...
+
+//TEXT
+<enT0253> Well, I guess you do jerk off a lot."
+<ptT0253> Well, I guess you do jerk off a lot."
+
+//TEXT 【Takuji】
+<enT0254>"What did you say?"
+<ptT0254>"What did you say?"
+
+//TEXT 【Kimika】
+<enT0255>"Oh, but I do that too...
+<ptT0255>"Oh, but I do that too...
+
+//TEXT
+<enT0256> Just once in a while, though."
+<ptT0256> Just once in a while, though."
+
+//TEXT 【Kimika】
+<enT0257>"We went up on the roof to hear the God's song, right?"
+<ptT0257>"We went up on the roof to hear the God's song, right?"
+
+//TEXT 【Kimika】
+<enT0258>"I was totally tripping, so I kept rambling about cows and stuff... Hehehe."
+<ptT0258>"I was totally tripping, so I kept rambling about cows and stuff... Hehehe."
+
+//TEXT 【Kimika】
+<enT0259>"But you know, I really did hear God's song."
+<ptT0259>"But you know, I really did hear God's song."
+
+//TEXT 【Kimika】
+<enT0260>"I found out that the difference between the world and God... is the difference between words and music."
+<ptT0260>"I found out that the difference between the world and God... is the difference between words and music."
+
+//TEXT 【Kimika】
+<enT0261>"I felt that truth deep in my soul."
+<ptT0261>"I felt that truth deep in my soul."
+
+//TEXT 【Kimika】
+<enT0262>"No one could've told me that... No one knew that... Teachers, parents, writers, politicians―they're all the same. They just talk about boring crap."
+<ptT0262>"No one could've told me that... No one knew that... Teachers, parents, writers, politicians―they're all the same. They just talk about boring crap."
+
+//TEXT 【Kimika】
+<enT0263>"But you taught me so many things..."
+<ptT0263>"But you taught me so many things..."
+
+//TEXT 【Kimika】
+<enT0264>"The world is cruel... and the world is impure, but
+<ptT0264>"The world is cruel... and the world is impure, but
+
+//TEXT
+<enT0265> it's also incredibly beautiful."
+<ptT0265> it's also incredibly beautiful."
+
+//TEXT 【Kimika】
+<enT0266>"That night... we sang, and danced, and screamed, and spun around till we fell to the ground. All the stars fell from the sky, and everything in the world glittered just for me..."
+<ptT0266>"That night... we sang, and danced, and screamed, and spun around till we fell to the ground. All the stars fell from the sky, and everything in the world glittered just for me..."
+
+//TEXT 【Kimika】
+<enT0267>"I realized that's what it was all about."
+<ptT0267>"I realized that's what it was all about."
+
+//TEXT 【Kimika】
+<enT0268>"It was something you said before, my savior. You can't measure the world's value only by the time you spend in it... And you can't measure its value with meaning either."
+<ptT0268>"It was something you said before, my savior. You can't measure the world's value only by the time you spend in it... And you can't measure its value with meaning either."
+
+//TEXT 【Kimika】
+<enT0269>"That night, I tried to measure the weight of the world with that scale..."
+<ptT0269>"That night, I tried to measure the weight of the world with that scale..."
+
+//TEXT 【Kimika】
+<enT0270>"And when I did, the world's weight was exactly the same as God's weight!"
+<ptT0270>"And when I did, the world's weight was exactly the same as God's weight!"
+
+//TEXT 【Kimika】
+<enT0271>"In that very moment, the world was the exact same weight as God..."
+<ptT0271>"In that very moment, the world was the exact same weight as God..."
+
+//TEXT 【Kimika】
+<enT0272>"Dance, dance, dance with the music..."
+<ptT0272>"Dance, dance, dance with the music..."
+
+//TEXT 【Kimika】
+<enT0273>"Dance with the savior... Dance through the universe..."
+<ptT0273>"Dance with the savior... Dance through the universe..."
+
+//TEXT 【Kimika】
+<enT0274>"Dance outside the cage..."
+<ptT0274>"Dance outside the cage..."
+
+//TEXT 【Kimika】
+<enT0275>"The world's first dance outside the cage."
+<ptT0275>"The world's first dance outside the cage."
+
+//TEXT 【Kimika】
+<enT0276>"So now... it's over."
+<ptT0276>"So now... it's over."
+
+//TEXT 【Kimika】
+<enT0277>"This is the end."
+<ptT0277>"This is the end."
+
+//TEXT 【Kimika】
+<enT0278>"But... now that I've killed all these people, I understand for the first time..."
+<ptT0278>"But... now that I've killed all these people, I understand for the first time..."
+
+//TEXT 【Kimika】
+<enT0279>"The meaning of the words 'Live on and repay your debt.'"
+<ptT0279>"The meaning of the words 'Live on and repay your debt.'"
+
+//TEXT 【Kimika】
+<enT0280>"I know that it's selfish for me to ask you this! B-But..."
+<ptT0280>"I know that it's selfish for me to ask you this! B-But..."
+
+//TEXT 【Kimika】
+<enT0281>"My savior, you... At least you should continue to live!"
+<ptT0281>"My savior, you... At least you should continue to live!"
+
+//TEXT 【Kimika】
+<enT0282>"Even if no one else, at least you... Please live on and repay our debt."
+<ptT0282>"Even if no one else, at least you... Please live on and repay our debt."
+
+//TEXT 【Kimika】
+<enT0283>"I'll be the final death."
+<ptT0283>"I'll be the final death."
+
+//TEXT 【Kimika】
+<enT0284>"The last life that needs to be sacrificed to Zakuro is mine."
+<ptT0284>"The last life that needs to be sacrificed to Zakuro is mine."
+
+//TEXT 【Kimika】
+<enT0285>"Sometimes I wonder if this really was a curse."
+<ptT0285>"Sometimes I wonder if this really was a curse."
+
+//TEXT 【Kimika】
+<enT0286>"I was never scared of dying..."
+<ptT0286>"I was never scared of dying..."
+
+//TEXT 【Kimika】
+<enT0287>"But that's only because I never had any regrets."
+<ptT0287>"But that's only because I never had any regrets."
+
+//TEXT 【Kimika】
+<enT0288>"I can't believe that now, at the very end, I've found one thing to regret."
+<ptT0288>"I can't believe that now, at the very end, I've found one thing to regret."
+
+//TEXT 【Kimika】
+<enT0289>"Ahaha... I can't believe I fell in love just before the end."
+<ptT0289>"Ahaha... I can't believe I fell in love just before the end."
+
+//TEXT 【Kimika】
+<enT0290>"I want someone to make love to me, even just once."
+<ptT0290>"I want someone to make love to me, even just once."
+
+//TEXT 【Kimika】
+<enT0291>"I have one regret in my life..."
+<ptT0291>"I have one regret in my life..."
+
+//TEXT 【Takuji】
+<enT0292>"Kimika..."
+<ptT0292>"Kimika..."
+
+//TEXT 【Kimika】
+<enT0293>"But... I can't! I can't do that."
+<ptT0293>"But... I can't! I can't do that."
+
+//TEXT 【Kimika】
+<enT0294>"If I do everything I want to do before I die, I won't truly be able to atone for my mistakes."
+<ptT0294>"If I do everything I want to do before I die, I won't truly be able to atone for my mistakes."
+
+//TEXT 【Kimika】
+<enT0295>"I have to atone for what I did to her..."
+<ptT0295>"I have to atone for what I did to her..."
+
+//TEXT 【Kimika】
+<enT0296>"I made her curse come true, so my dance with you, and with God, was just a little reward."
+<ptT0296>"I made her curse come true, so my dance with you, and with God, was just a little reward."
+
+//TEXT 【Kimika】
+<enT0297>"If that gave some value to my world, then that's enough. That reward is enough to give my world some meaning."
+<ptT0297>"If that gave some value to my world, then that's enough. That reward is enough to give my world some meaning."
+
+//TEXT 【Kimika】
+<enT0298>"All that's left is for me to atone."
+<ptT0298>"All that's left is for me to atone."
+
+//TEXT 【Kimika】
+<enT0299>"So... please, my savior, stay here."
+<ptT0299>"So... please, my savior, stay here."
+
+//TEXT
+<enT0300>Just like that, her body... Just like that...
+<ptT0300>Just like that, her body... Just like that...
+
+//TEXT
+<enT0301>The world tilted at a diagonal.
+<ptT0301>The world tilted at a diagonal.
+
+//TEXT
+<enT0302>Kimika's body wasn't parallel with the world anymore.
+<ptT0302>Kimika's body wasn't parallel with the world anymore.
+
+//TEXT
+<enT0303>She moved from the world of parallel lines to the one of free fall, two irreconcilable worlds.
+<ptT0303>She moved from the world of parallel lines to the one of free fall, two irreconcilable worlds.
+
+//TEXT
+<enT0304>She was sucked down.
+<ptT0304>She was sucked down.
+
+//TEXT
+<enT0305>She said,
+<ptT0305>She said,
+
+//TEXT
+<enT0306>this is my atonement.
+<ptT0306>this is my atonement.
+
+//TEXT
+<enT0307>She said.
+<ptT0307>She said.
+
+//TEXT
+<enT0308>this is enough.
+<ptT0308>this is enough.
+
+//TEXT
+<enT0309>She said,
+<ptT0309>She said,
+
+//TEXT
+<enT0310>this is the value of my world.
+<ptT0310>this is the value of my world.
+
+//TEXT
+<enT0311>I think.
+<ptT0311>I think.
+
+//TEXT
+<enT0312>That's a load of shit.
+<ptT0312>That's a load of shit.
+
+//TEXT
+<enT0313>Who cares about the world?
+<ptT0313>Who cares about the world?
+
+//TEXT
+<enT0314>Who cares about atonement?
+<ptT0314>Who cares about atonement?
+
+//TEXT
+<enT0315>Who cares about Takashima?
+<ptT0315>Who cares about Takashima?
+
+//TEXT
+<enT0316>Who cares about the curse?
+<ptT0316>Who cares about the curse?
+
+//TEXT
+<enT0317>Who cares about death?
+<ptT0317>Who cares about death?
+
+//TEXT
+<enT0318>I want to embrace her.
+<ptT0318>I want to embrace her.
+
+//TEXT
+<enT0319>I just want to hold her close.
+<ptT0319>I just want to hold her close.
+
+//TEXT
+<enT0320>I don't care if I live on.
+<ptT0320>I don't care if I live on.
+
+//TEXT
+<enT0321>I don't care if anyone lives on.
+<ptT0321>I don't care if anyone lives on.
+
+//TEXT
+<enT0322>The world,
+<ptT0322>The world,
+
+//TEXT
+<enT0323>me,
+<ptT0323>me,
+
+//TEXT
+<enT0324>Kimika.
+<ptT0324>Kimika.
+
+//TEXT
+<enT0325>None of us need to live on.
+<ptT0325>None of us need to live on.
+
+//TEXT
+<enT0326>Everything can just disappear.
+<ptT0326>Everything can just disappear.
+
+//TEXT
+<enT0327>I just,
+<ptT0327>I just,
+
+//TEXT
+<enT0328>I just want
+<ptT0328>I just want
+
+//TEXT
+<enT0329>to hold her in my arms.
+<ptT0329>to hold her in my arms.
+
+//TEXT
+<enT0330>Even if it's just for one second before death.
+<ptT0330>Even if it's just for one second before death.
+
+//TEXT
+<enT0331>Even if it's just a glitter in a fleeting world,
+<ptT0331>Even if it's just a glitter in a fleeting world,
+
+//TEXT
+<enT0332>I want to feel the warmth of her living body.
+<ptT0332>I want to feel the warmth of her living body.
+
+//TEXT
+<enT0333>So I jumped.
+<ptT0333>So I jumped.
+
+//TEXT 【Kimika】
+<enT0334>"Ah!"
+<ptT0334>"Ah!"
+
+//TEXT 【Takuji】
+<enT0335>"Kimika!"
+<ptT0335>"Kimika!"
+
+//TEXT
+<enT0336>Complete freefall.
+<ptT0336>Complete freefall.
+
+//TEXT
+<enT0337>I never intended to survive the fall,
+<ptT0337>I never intended to survive the fall,
+
+//TEXT
+<enT0338>I never intended to save Kimika...
+<ptT0338>I never intended to save Kimika...
+
+//TEXT
+<enT0339>No, in truth, I wanted her to live.
+<ptT0339>No, in truth, I wanted her to live.
+
+//TEXT
+<enT0340>Even if I die, I want her to live.
+<ptT0340>Even if I die, I want her to live.
+
+//TEXT
+<enT0341>But...
+<ptT0341>But...
+
+//TEXT
+<enT0342>That wish will never be fulfilled.
+<ptT0342>That wish will never be fulfilled.
+
+//TEXT
+<enT0343>A dream I can never grasp...
+<ptT0343>A dream I can never grasp...
+
+//TEXT
+<enT0344>In a few seconds, she and I will splatter onto the concrete.
+<ptT0344>In a few seconds, she and I will splatter onto the concrete.
+
+//TEXT
+<enT0345>We'll probably just be deformed piles of flesh.
+<ptT0345>We'll probably just be deformed piles of flesh.
+
+//TEXT
+<enT0346>But...
+<ptT0346>But...
+
+//TEXT
+<enT0347>Even so...
+<ptT0347>Even so...
+
+//TEXT
+<enT0348>I want to hold Kimika.
+<ptT0348>I want to hold Kimika.
+
+//TEXT
+<enT0349>I want to hold her tight.
+<ptT0349>I want to hold her tight.
+
+//TEXT
+<enT0350>I just want to hold her tight... here in freefall.
+<ptT0350>I just want to hold her tight... here in freefall.
+
+//TEXT
+<enT0351>Simply feeling her warmth is enough for me.
+<ptT0351>Simply feeling her warmth is enough for me.
+
+//TEXT
+<enT0352>When she saw me, Kimika cried and said...
+<ptT0352>When she saw me, Kimika cried and said...
+
+//TEXT 【Kimika】
+<enT0353>"You dummy..."
+<ptT0353>"You dummy..."
+
+//TEXT
+<enT0354>She was crying, but she seemed happy too.
+<ptT0354>She was crying, but she seemed happy too.
+
+//TEXT
+<enT0355>She seemed very sad, but also very happy.
+<ptT0355>She seemed very sad, but also very happy.
+
+//TEXT
+<enT0356>I'm sure she was struggling with a lot of emotions.
+<ptT0356>I'm sure she was struggling with a lot of emotions.
+
+//TEXT
+<enT0357>
+<ptT0357>
+
+//TEXT
+<enT0358>I felt that her happiness outweighed all the rest.
+<ptT0358>I felt that her happiness outweighed all the rest.
+
+//TEXT
+<enT0359>She smiled and hugged me back.
+<ptT0359>She smiled and hugged me back.
+
+//TEXT
+<enT0360>She squeezed me tight.
+<ptT0360>She squeezed me tight.
+
+//TEXT
+<enT0361>I'll never let you go.
+<ptT0361>I'll never let you go.
+
+//TEXT
+<enT0362>I've always wanted to do this.
+<ptT0362>I've always wanted to do this.
+
+//TEXT
+<enT0363>She said that to me with something much faster than words.
+<ptT0363>She said that to me with something much faster than words.
+
+//TEXT
+<enT0364>There are things that travel much faster than words.
+<ptT0364>There are things that travel much faster than words.
+
+//TEXT
+<enT0365>There are things that ring much truer than words.
+<ptT0365>There are things that ring much truer than words.
+
+//TEXT
+<enT0366>Even in those fleeting moments, the world holds meaning.
+<ptT0366>Even in those fleeting moments, the world holds meaning.
+
+//TEXT
+<enT0367>The world holds significance.
+<ptT0367>The world holds significance.
+
+//TEXT
+<enT0368>The end is coming.
+<ptT0368>The end is coming.
+
+//TEXT
+<enT0369>The final moment.
+<ptT0369>The final moment.
+
+//TEXT
+<enT0370>Ah...
+<ptT0370>Ah...
+
+//TEXT
+<enT0371>Sirens in the distance.
+<ptT0371>Sirens in the distance.
+
+//TEXT
+<enT0372>The black sky.
+<ptT0372>The black sky.
+
+//TEXT
+<enT0373>The laughing moon.
+<ptT0373>The laughing moon.
+
+//TEXT
+<enT0374>The dew upon the earth.
+<ptT0374>The dew upon the earth.
+
+//TEXT
+<enT0375>The dancing stars.
+<ptT0375>The dancing stars.
+
+//TEXT
+<enT0376>The cool air.
+<ptT0376>The cool air.
+
+//TEXT
+<enT0377>Something warm within me.
+<ptT0377>Something warm within me.
+
+//TEXT
+<enT0378>Tachibana Kimika...
+<ptT0378>Tachibana Kimika...
+
+//TEXT
+<enT0379>As I held her in my arms... she silently closed her eyes.
+<ptT0379>As I held her in my arms... she silently closed her eyes.
+
+//TEXT
+<enT0380>And then I also...
+<ptT0380>And then I also...
+
+//TEXT
+<enT0381>quietly closed my eyes.
+<ptT0381>quietly closed my eyes.
+
+///================================================================================
+
+//OTHER
+<enZ0001>2_0719_kimi.bss
+<ptZ0001>2_0719_kimi.bss
+
+//OTHER
+<enZ0002>July 19th
+<ptZ0002>July 19th
+
+//OTHER
+<enZ0003>It's my own Invention
+<ptZ0003>It's my own Invention
+
+//OTHER
+<enZ0004>daytk0719
+<ptZ0004>daytk0719
+
+//OTHER
+<enZ0005>map004
+<ptZ0005>map004
+
+//OTHER
+<enZ0006>sp0070
+<ptZ0006>sp0070
+
+//OTHER
+<enZ0007>bgm101
+<ptZ0007>bgm101
+
+//OTHER
+<enZ0008>kimi_000650
+<ptZ0008>kimi_000650
+
+//OTHER
+<enZ0009>taku_003754
+<ptZ0009>taku_003754
+
+//OTHER
+<enZ0010>kimi_000651
+<ptZ0010>kimi_000651
+
+//OTHER
+<enZ0011>taku_003755
+<ptZ0011>taku_003755
+
+//OTHER
+<enZ0012>kimi_000652
+<ptZ0012>kimi_000652
+
+//OTHER
+<enZ0013>taku_003756
+<ptZ0013>taku_003756
+
+//OTHER
+<enZ0014>kimi_000653
+<ptZ0014>kimi_000653
+
+//OTHER
+<enZ0015>taku_003757
+<ptZ0015>taku_003757
+
+//OTHER
+<enZ0016>kimi_000654
+<ptZ0016>kimi_000654
+
+//OTHER
+<enZ0017>taku_003758
+<ptZ0017>taku_003758
+
+//OTHER
+<enZ0018>kimi_000655
+<ptZ0018>kimi_000655
+
+//OTHER
+<enZ0019>kimi_000656
+<ptZ0019>kimi_000656
+
+//OTHER
+<enZ0020>map005
+<ptZ0020>map005
+
+//OTHER
+<enZ0021>ev5009a
+<ptZ0021>ev5009a
+
+//OTHER
+<enZ0022>kimi_000657
+<ptZ0022>kimi_000657
+
+//OTHER
+<enZ0023>kimi_000658
+<ptZ0023>kimi_000658
+
+//OTHER
+<enZ0024>kyod_000014
+<ptZ0024>kyod_000014
+
+//OTHER
+<enZ0025>kimi_000659
+<ptZ0025>kimi_000659
+
+//OTHER
+<enZ0026>kimi_000660
+<ptZ0026>kimi_000660
+
+//OTHER
+<enZ0027>kyod_000015
+<ptZ0027>kyod_000015
+
+//OTHER
+<enZ0028>kimi_000661
+<ptZ0028>kimi_000661
+
+//OTHER
+<enZ0029>kimi_000662
+<ptZ0029>kimi_000662
+
+//OTHER
+<enZ0030>kimi_000663
+<ptZ0030>kimi_000663
+
+//OTHER
+<enZ0031>ev5009b
+<ptZ0031>ev5009b
+
+//OTHER
+<enZ0032>sp0112a
+<ptZ0032>sp0112a
+
+//OTHER
+<enZ0033>kyod_000016
+<ptZ0033>kyod_000016
+
+//OTHER
+<enZ0034>taku_003759
+<ptZ0034>taku_003759
+
+//OTHER
+<enZ0035>kimi_000664
+<ptZ0035>kimi_000664
+
+//OTHER
+<enZ0036>taku_003760
+<ptZ0036>taku_003760
+
+//OTHER
+<enZ0037>kimi_000665
+<ptZ0037>kimi_000665
+
+//OTHER
+<enZ0038>taku_003761
+<ptZ0038>taku_003761
+
+//OTHER
+<enZ0039>taku_003762
+<ptZ0039>taku_003762
+
+//OTHER
+<enZ0040>kimi_000666
+<ptZ0040>kimi_000666
+
+//OTHER
+<enZ0041>josia_000078
+<ptZ0041>josia_000078
+
+//OTHER
+<enZ0042>josib_000058
+<ptZ0042>josib_000058
+
+//OTHER
+<enZ0043>josic_000050
+<ptZ0043>josic_000050
+
+//OTHER
+<enZ0044>se221
+<ptZ0044>se221
+
+//OTHER
+<enZ0045>se222
+<ptZ0045>se222
+
+//OTHER
+<enZ0046>kimi_000667
+<ptZ0046>kimi_000667
+
+//OTHER
+<enZ0047>kimi_000668
+<ptZ0047>kimi_000668
+
+//OTHER
+<enZ0048>taku_003763
+<ptZ0048>taku_003763
+
+//OTHER
+<enZ0049>taku_003764
+<ptZ0049>taku_003764
+
+//OTHER
+<enZ0050>taku_003765
+<ptZ0050>taku_003765
+
+//OTHER
+<enZ0051>taku_003766
+<ptZ0051>taku_003766
+
+//OTHER
+<enZ0052>taku_003767
+<ptZ0052>taku_003767
+
+//OTHER
+<enZ0053>taku_003768
+<ptZ0053>taku_003768
+
+//OTHER
+<enZ0054>taku_003769
+<ptZ0054>taku_003769
+
+//OTHER
+<enZ0055>taku_003770
+<ptZ0055>taku_003770
+
+//OTHER
+<enZ0056>taku_003771
+<ptZ0056>taku_003771
+
+//OTHER
+<enZ0057>kyod_000017
+<ptZ0057>kyod_000017
+
+//OTHER
+<enZ0058>km0002
+<ptZ0058>km0002
+
+//OTHER
+<enZ0059>bg1017c2
+<ptZ0059>bg1017c2
+
+//OTHER
+<enZ0060>kimi_000669
+<ptZ0060>kimi_000669
+
+//OTHER
+<enZ0061>taku_003772
+<ptZ0061>taku_003772
+
+//OTHER
+<enZ0062>km0109_l
+<ptZ0062>km0109_l
+
+//OTHER
+<enZ0063>taku_003773
+<ptZ0063>taku_003773
+
+//OTHER
+<enZ0064>km0109a_l
+<ptZ0064>km0109a_l
+
+//OTHER
+<enZ0065>kimi_000670
+<ptZ0065>kimi_000670
+
+//OTHER
+<enZ0066>kimi_000671
+<ptZ0066>kimi_000671
+
+//OTHER
+<enZ0067>mg0005
+<ptZ0067>mg0005
+
+//OTHER
+<enZ0068>st0005
+<ptZ0068>st0005
+
+//OTHER
+<enZ0069>megu_000117
+<ptZ0069>megu_000117
+
+//OTHER
+<enZ0070>sato_000074
+<ptZ0070>sato_000074
+
+//OTHER
+<enZ0071>kyod_000018
+<ptZ0071>kyod_000018
+
+//OTHER
+<enZ0072>map008
+<ptZ0072>map008
+
+//OTHER
+<enZ0073>ev5010a_l
+<ptZ0073>ev5010a_l
+
+//OTHER
+<enZ0074>km0115a_l
+<ptZ0074>km0115a_l
+
+//OTHER
+<enZ0075>bgm028
+<ptZ0075>bgm028
+
+//OTHER
+<enZ0076>kimi_000672
+<ptZ0076>kimi_000672
+
+//OTHER
+<enZ0077>km0107_l
+<ptZ0077>km0107_l
+
+//OTHER
+<enZ0078>kimi_000673
+<ptZ0078>kimi_000673
+
+//OTHER
+<enZ0079>taku_003774
+<ptZ0079>taku_003774
+
+//OTHER
+<enZ0080>kimi_000674
+<ptZ0080>kimi_000674
+
+//OTHER
+<enZ0081>km0107a_l
+<ptZ0081>km0107a_l
+
+//OTHER
+<enZ0082>kimi_000675
+<ptZ0082>kimi_000675
+
+//OTHER
+<enZ0083>se251
+<ptZ0083>se251
+
+//OTHER
+<enZ0084>km0007a
+<ptZ0084>km0007a
+
+//OTHER
+<enZ0085>kimi_000676
+<ptZ0085>kimi_000676
+
+//OTHER
+<enZ0086>taku_003775
+<ptZ0086>taku_003775
+
+//OTHER
+<enZ0087>km0000a
+<ptZ0087>km0000a
+
+//OTHER
+<enZ0088>kimi_000677
+<ptZ0088>kimi_000677
+
+//OTHER
+<enZ0089>taku_003776
+<ptZ0089>taku_003776
+
+//OTHER
+<enZ0090>km0001
+<ptZ0090>km0001
+
+//OTHER
+<enZ0091>kimi_000678
+<ptZ0091>kimi_000678
+
+//OTHER
+<enZ0092>taku_003777
+<ptZ0092>taku_003777
+
+//OTHER
+<enZ0093>kimi_000679
+<ptZ0093>kimi_000679
+
+//OTHER
+<enZ0094>taku_003778
+<ptZ0094>taku_003778
+
+//OTHER
+<enZ0095>km0000
+<ptZ0095>km0000
+
+//OTHER
+<enZ0096>kimi_000680
+<ptZ0096>kimi_000680
+
+//OTHER
+<enZ0097>km0004
+<ptZ0097>km0004
+
+//OTHER
+<enZ0098>kimi_000681
+<ptZ0098>kimi_000681
+
+//OTHER
+<enZ0099>kimi_000682
+<ptZ0099>kimi_000682
+
+//OTHER
+<enZ0100>km0005a
+<ptZ0100>km0005a
+
+//OTHER
+<enZ0101>kimi_000683
+<ptZ0101>kimi_000683
+
+//OTHER
+<enZ0102>taku_003779
+<ptZ0102>taku_003779
+
+//OTHER
+<enZ0103>kimi_000684
+<ptZ0103>kimi_000684
+
+//OTHER
+<enZ0104>km0006a
+<ptZ0104>km0006a
+
+//OTHER
+<enZ0105>kimi_000685
+<ptZ0105>kimi_000685
+
+//OTHER
+<enZ0106>taku_003780
+<ptZ0106>taku_003780
+
+//OTHER
+<enZ0107>km0007
+<ptZ0107>km0007
+
+//OTHER
+<enZ0108>kimi_000686
+<ptZ0108>kimi_000686
+
+//OTHER
+<enZ0109>kimi_000687
+<ptZ0109>kimi_000687
+
+//OTHER
+<enZ0110>kimi_000688
+<ptZ0110>kimi_000688
+
+//OTHER
+<enZ0111>kimi_000689
+<ptZ0111>kimi_000689
+
+//OTHER
+<enZ0112>km0005
+<ptZ0112>km0005
+
+//OTHER
+<enZ0113>kimi_000690
+<ptZ0113>kimi_000690
+
+//OTHER
+<enZ0114>kimi_000691
+<ptZ0114>kimi_000691
+
+//OTHER
+<enZ0115>kimi_000692
+<ptZ0115>kimi_000692
+
+//OTHER
+<enZ0116>kimi_000693
+<ptZ0116>kimi_000693
+
+//OTHER
+<enZ0117>kimi_000694
+<ptZ0117>kimi_000694
+
+//OTHER
+<enZ0118>kimi_000695
+<ptZ0118>kimi_000695
+
+//OTHER
+<enZ0119>kimi_000696
+<ptZ0119>kimi_000696
+
+//OTHER
+<enZ0120>km0001a
+<ptZ0120>km0001a
+
+//OTHER
+<enZ0121>kimi_000697
+<ptZ0121>kimi_000697
+
+//OTHER
+<enZ0122>kimi_000698
+<ptZ0122>kimi_000698
+
+//OTHER
+<enZ0123>kimi_000699
+<ptZ0123>kimi_000699
+
+//OTHER
+<enZ0124>kimi_000700
+<ptZ0124>kimi_000700
+
+//OTHER
+<enZ0125>kimi_000701
+<ptZ0125>kimi_000701
+
+//OTHER
+<enZ0126>kimi_000702
+<ptZ0126>kimi_000702
+
+//OTHER
+<enZ0127>kimi_000703
+<ptZ0127>kimi_000703
+
+//OTHER
+<enZ0128>kimi_000704
+<ptZ0128>kimi_000704
+
+//OTHER
+<enZ0129>kimi_000705
+<ptZ0129>kimi_000705
+
+//OTHER
+<enZ0130>kimi_000706
+<ptZ0130>kimi_000706
+
+//OTHER
+<enZ0131>kimi_000707
+<ptZ0131>kimi_000707
+
+//OTHER
+<enZ0132>kimi_000708
+<ptZ0132>kimi_000708
+
+//OTHER
+<enZ0133>kimi_000709
+<ptZ0133>kimi_000709
+
+//OTHER
+<enZ0134>kimi_000710
+<ptZ0134>kimi_000710
+
+//OTHER
+<enZ0135>kimi_000711
+<ptZ0135>kimi_000711
+
+//OTHER
+<enZ0136>kimi_000712
+<ptZ0136>kimi_000712
+
+//OTHER
+<enZ0137>kimi_000713
+<ptZ0137>kimi_000713
+
+//OTHER
+<enZ0138>kimi_000714
+<ptZ0138>kimi_000714
+
+//OTHER
+<enZ0139>kimi_000715
+<ptZ0139>kimi_000715
+
+//OTHER
+<enZ0140>kimi_000716
+<ptZ0140>kimi_000716
+
+//OTHER
+<enZ0141>km0014
+<ptZ0141>km0014
+
+//OTHER
+<enZ0142>kimi_000717
+<ptZ0142>kimi_000717
+
+//OTHER
+<enZ0143>kimi_000718
+<ptZ0143>kimi_000718
+
+//OTHER
+<enZ0144>kimi_000719
+<ptZ0144>kimi_000719
+
+//OTHER
+<enZ0145>km0014a
+<ptZ0145>km0014a
+
+//OTHER
+<enZ0146>kimi_000720
+<ptZ0146>kimi_000720
+
+//OTHER
+<enZ0147>kimi_000721
+<ptZ0147>kimi_000721
+
+//OTHER
+<enZ0148>km0013a
+<ptZ0148>km0013a
+
+//OTHER
+<enZ0149>kimi_000722
+<ptZ0149>kimi_000722
+
+//OTHER
+<enZ0150>kimi_000723
+<ptZ0150>kimi_000723
+
+//OTHER
+<enZ0151>kimi_000724
+<ptZ0151>kimi_000724
+
+//OTHER
+<enZ0152>kimi_000725
+<ptZ0152>kimi_000725
+
+//OTHER
+<enZ0153>kimi_000726
+<ptZ0153>kimi_000726
+
+//OTHER
+<enZ0154>kimi_000727
+<ptZ0154>kimi_000727
+
+//OTHER
+<enZ0155>kimi_000728
+<ptZ0155>kimi_000728
+
+//OTHER
+<enZ0156>kimi_000729
+<ptZ0156>kimi_000729
+
+//OTHER
+<enZ0157>kimi_000730
+<ptZ0157>kimi_000730
+
+//OTHER
+<enZ0158>kimi_000731
+<ptZ0158>kimi_000731
+
+//OTHER
+<enZ0159>kimi_000732
+<ptZ0159>kimi_000732
+
+//OTHER
+<enZ0160>kimi_000733
+<ptZ0160>kimi_000733
+
+//OTHER
+<enZ0161>kimi_000734
+<ptZ0161>kimi_000734
+
+//OTHER
+<enZ0162>kimi_000735
+<ptZ0162>kimi_000735
+
+//OTHER
+<enZ0163>kimi_000736
+<ptZ0163>kimi_000736
+
+//OTHER
+<enZ0164>kimi_000737
+<ptZ0164>kimi_000737
+
+//OTHER
+<enZ0165>kimi_000738
+<ptZ0165>kimi_000738
+
+//OTHER
+<enZ0166>kimi_000739
+<ptZ0166>kimi_000739
+
+//OTHER
+<enZ0167>kimi_000740
+<ptZ0167>kimi_000740
+
+//OTHER
+<enZ0168>kimi_000741
+<ptZ0168>kimi_000741
+
+//OTHER
+<enZ0169>kimi_000742
+<ptZ0169>kimi_000742
+
+//OTHER
+<enZ0170>kimi_000743
+<ptZ0170>kimi_000743
+
+//OTHER
+<enZ0171>taku_003781
+<ptZ0171>taku_003781
+
+//OTHER
+<enZ0172>kimi_000744
+<ptZ0172>kimi_000744
+
+//OTHER
+<enZ0173>kimi_000745
+<ptZ0173>kimi_000745
+
+//OTHER
+<enZ0174>kimi_000746
+<ptZ0174>kimi_000746
+
+//OTHER
+<enZ0175>kimi_000747
+<ptZ0175>kimi_000747
+
+//OTHER
+<enZ0176>kimi_000748
+<ptZ0176>kimi_000748
+
+//OTHER
+<enZ0177>kimi_000749
+<ptZ0177>kimi_000749
+
+//OTHER
+<enZ0178>kimi_000750
+<ptZ0178>kimi_000750
+
+//OTHER
+<enZ0179>kimi_000751
+<ptZ0179>kimi_000751
+
+//OTHER
+<enZ0180>kimi_000752
+<ptZ0180>kimi_000752
+
+//OTHER
+<enZ0181>kimi_000753
+<ptZ0181>kimi_000753
+
+//OTHER
+<enZ0182>kimi_000754
+<ptZ0182>kimi_000754
+
+//OTHER
+<enZ0183>kimi_000755
+<ptZ0183>kimi_000755
+
+//OTHER
+<enZ0184>kimi_000756
+<ptZ0184>kimi_000756
+
+//OTHER
+<enZ0185>kimi_000757
+<ptZ0185>kimi_000757
+
+//OTHER
+<enZ0186>km0004a
+<ptZ0186>km0004a
+
+//OTHER
+<enZ0187>kimi_000758
+<ptZ0187>kimi_000758
+
+//OTHER
+<enZ0188>kimi_000759
+<ptZ0188>kimi_000759
+
+//OTHER
+<enZ0189>kimi_000760
+<ptZ0189>kimi_000760
+
+//OTHER
+<enZ0190>kimi_000761
+<ptZ0190>kimi_000761
+
+//OTHER
+<enZ0191>kimi_000762
+<ptZ0191>kimi_000762
+
+//OTHER
+<enZ0192>kimi_000763
+<ptZ0192>kimi_000763
+
+//OTHER
+<enZ0193>kimi_000764
+<ptZ0193>kimi_000764
+
+//OTHER
+<enZ0194>kimi_000765
+<ptZ0194>kimi_000765
+
+//OTHER
+<enZ0195>km0003
+<ptZ0195>km0003
+
+//OTHER
+<enZ0196>taku_003782
+<ptZ0196>taku_003782
+
+//OTHER
+<enZ0197>km0008
+<ptZ0197>km0008
+
+//OTHER
+<enZ0198>kimi_000766
+<ptZ0198>kimi_000766
+
+//OTHER
+<enZ0199>km0015a
+<ptZ0199>km0015a
+
+//OTHER
+<enZ0200>kimi_000767
+<ptZ0200>kimi_000767
+
+//OTHER
+<enZ0201>km0003a
+<ptZ0201>km0003a
+
+//OTHER
+<enZ0202>kimi_000768
+<ptZ0202>kimi_000768
+
+//OTHER
+<enZ0203>kimi_000769
+<ptZ0203>kimi_000769
+
+//OTHER
+<enZ0204>kimi_000770
+<ptZ0204>kimi_000770
+
+//OTHER
+<enZ0205>kimi_000771
+<ptZ0205>kimi_000771
+
+//OTHER
+<enZ0206>kimi_000772
+<ptZ0206>kimi_000772
+
+//OTHER
+<enZ0207>kimi_000773
+<ptZ0207>kimi_000773
+
+//OTHER
+<enZ0208>kimi_000774
+<ptZ0208>kimi_000774
+
+//OTHER
+<enZ0209>kimi_000775
+<ptZ0209>kimi_000775
+
+//OTHER
+<enZ0210>kimi_000776
+<ptZ0210>kimi_000776
+
+//OTHER
+<enZ0211>kimi_000777
+<ptZ0211>kimi_000777
+
+//OTHER
+<enZ0212>kimi_000778
+<ptZ0212>kimi_000778
+
+//OTHER
+<enZ0213>kimi_000779
+<ptZ0213>kimi_000779
+
+//OTHER
+<enZ0214>kimi_000780
+<ptZ0214>kimi_000780
+
+//OTHER
+<enZ0215>kimi_000781
+<ptZ0215>kimi_000781
+
+//OTHER
+<enZ0216>kimi_000782
+<ptZ0216>kimi_000782
+
+//OTHER
+<enZ0217>kimi_000783
+<ptZ0217>kimi_000783
+
+//OTHER
+<enZ0218>km0002a
+<ptZ0218>km0002a
+
+//OTHER
+<enZ0219>kimi_000784
+<ptZ0219>kimi_000784
+
+//OTHER
+<enZ0220>kimi_000785
+<ptZ0220>kimi_000785
+
+//OTHER
+<enZ0221>kimi_000786
+<ptZ0221>kimi_000786
+
+//OTHER
+<enZ0222>kimi_000787
+<ptZ0222>kimi_000787
+
+//OTHER
+<enZ0223>kimi_000788
+<ptZ0223>kimi_000788
+
+//OTHER
+<enZ0224>kimi_000789
+<ptZ0224>kimi_000789
+
+//OTHER
+<enZ0225>km0007a_l
+<ptZ0225>km0007a_l
+
+//OTHER
+<enZ0226>kimi_000790
+<ptZ0226>kimi_000790
+
+//OTHER
+<enZ0227>kimi_000791
+<ptZ0227>kimi_000791
+
+//OTHER
+<enZ0228>kimi_000792
+<ptZ0228>kimi_000792
+
+//OTHER
+<enZ0229>kimi_000793
+<ptZ0229>kimi_000793
+
+//OTHER
+<enZ0230>km0000a_l
+<ptZ0230>km0000a_l
+
+//OTHER
+<enZ0231>kimi_000794
+<ptZ0231>kimi_000794
+
+//OTHER
+<enZ0232>km0007_l
+<ptZ0232>km0007_l
+
+//OTHER
+<enZ0233>kimi_000795
+<ptZ0233>kimi_000795
+
+//OTHER
+<enZ0234>kimi_000796
+<ptZ0234>kimi_000796
+
+//OTHER
+<enZ0235>kimi_000797
+<ptZ0235>kimi_000797
+
+//OTHER
+<enZ0236>kimi_000798
+<ptZ0236>kimi_000798
+
+//OTHER
+<enZ0237>kimi_000799
+<ptZ0237>kimi_000799
+
+//OTHER
+<enZ0238>kimi_000800
+<ptZ0238>kimi_000800
+
+//OTHER
+<enZ0239>taku_003783
+<ptZ0239>taku_003783
+
+//OTHER
+<enZ0240>km0005a_l
+<ptZ0240>km0005a_l
+
+//OTHER
+<enZ0241>kimi_000801
+<ptZ0241>kimi_000801
+
+//OTHER
+<enZ0242>km0004a_l
+<ptZ0242>km0004a_l
+
+//OTHER
+<enZ0243>kimi_000802
+<ptZ0243>kimi_000802
+
+//OTHER
+<enZ0244>kimi_000803
+<ptZ0244>kimi_000803
+
+//OTHER
+<enZ0245>kimi_000804
+<ptZ0245>kimi_000804
+
+//OTHER
+<enZ0246>km0001a_l
+<ptZ0246>km0001a_l
+
+//OTHER
+<enZ0247>kimi_000805
+<ptZ0247>kimi_000805
+
+//OTHER
+<enZ0248>kimi_000806
+<ptZ0248>kimi_000806
+
+//OTHER
+<enZ0249>km0015a_l
+<ptZ0249>km0015a_l
+
+//OTHER
+<enZ0250>kimi_000807
+<ptZ0250>kimi_000807
+
+//OTHER
+<enZ0251>map002
+<ptZ0251>map002
+
+//OTHER
+<enZ0252>map007
+<ptZ0252>map007
+
+//OTHER
+<enZ0253>ev5011a
+<ptZ0253>ev5011a
+
+//OTHER
+<enZ0254>map003
+<ptZ0254>map003
+
+//OTHER
+<enZ0255>ev5011c
+<ptZ0255>ev5011c
+
+//OTHER
+<enZ0256>kimi_000808
+<ptZ0256>kimi_000808
+
+//OTHER
+<enZ0257>taku_003784
+<ptZ0257>taku_003784
+
+//OTHER
+<enZ0258>ev5011b
+<ptZ0258>ev5011b
+
+//OTHER
+<enZ0259>kimi_000809
+<ptZ0259>kimi_000809
+
+//OTHER
+<enZ0260>end2km
+<ptZ0260>end2km
+

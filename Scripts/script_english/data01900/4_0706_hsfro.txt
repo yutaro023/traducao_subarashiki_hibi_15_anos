@@ -1,0 +1,1176 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Hasaki
+<ptN0002>Hasaki
+
+//NAME
+<enN0003>Yuki
+<ptN0003>Yuki
+
+///================================================================================
+
+//TEXT 【Tomosane】
+<enT0001>"Hey, you!"
+<ptT0001>"Hey, you!"
+
+//TEXT 【Hasaki】
+<enT0002>"Move over. I need to wash myself too."
+<ptT0002>"Move over. I need to wash myself too."
+
+//TEXT 【Tomosane】
+<enT0003>"Oh, but... there's only one seat."
+<ptT0003>"Oh, but... there's only one seat."
+
+//TEXT 【Hasaki】
+<enT0004>"I'll just sit on the floor, then."
+<ptT0004>"I'll just sit on the floor, then."
+
+//TEXT
+<enT0005>Wh-What's going on here?
+<ptT0005>Wh-What's going on here?
+
+//TEXT 【Tomosane】
+<enT0006>"M-Maybe I should get out now..."
+<ptT0006>"M-Maybe I should get out now..."
+
+//TEXT 【Hasaki】
+<enT0007>"You haven't washed yourself at all."
+<ptT0007>"You haven't washed yourself at all."
+
+//TEXT 【Tomosane】
+<enT0008>"Oh, I just like to take quick baths is all."
+<ptT0008>"Oh, I just like to take quick baths is all."
+
+//TEXT 【Yuki】
+<enT0009>"I like to take long ones."
+<ptT0009>"I like to take long ones."
+
+//TEXT 【Hasaki】
+<enT0010>"See?"
+<ptT0010>"See?"
+
+//TEXT 【Tomosane】
+<enT0011>"Yuki, why'd you say that?!"
+<ptT0011>"Yuki, why'd you say that?!"
+
+//TEXT 【Yuki】
+<enT0012>"What's it matter? You're not turned on by your little sister, now are you?"
+<ptT0012>"What's it matter? You're not turned on by your little sister, now are you?"
+
+//TEXT 【Tomosane】
+<enT0013>"It's not a problem of getting turned on or not!"
+<ptT0013>"It's not a problem of getting turned on or not!"
+
+//TEXT 【Hasaki】
+<enT0014>"Then what's the problem?"
+<ptT0014>"Then what's the problem?"
+
+//TEXT 【Yuki】
+<enT0015>"Come on, let's just wash and get it over with. You haven't washed your hair yet, either."
+<ptT0015>"Come on, let's just wash and get it over with. You haven't washed your hair yet, either."
+
+//TEXT
+<enT0016>Jeez... Maybe Yuki doesn't mind because she's a woman, but...
+<ptT0016>Jeez... Maybe Yuki doesn't mind because she's a woman, but...
+
+//TEXT 【Yuki】
+<enT0017>"What? You can't control yourself when she's sitting right beside you?"
+<ptT0017>"What? You can't control yourself when she's sitting right beside you?"
+
+//TEXT 【Tomosane】
+<enT0018>"Y-Yuki!"
+<ptT0018>"Y-Yuki!"
+
+//TEXT 【Yuki】
+<enT0019>"You don't think of Hasaki-chan as just a sister, do you?"
+<ptT0019>"You don't think of Hasaki-chan as just a sister, do you?"
+
+//TEXT 【Tomosane】
+<enT0020>"Of course I do!"
+<ptT0020>"Of course I do!"
+
+//TEXT 【Yuki】
+<enT0021>"Really?"
+<ptT0021>"Really?"
+
+//TEXT 【Yuki】
+<enT0022>"You really do treat her like your sister only when it's convenient, just like she said."
+<ptT0022>"You really do treat her like your sister only when it's convenient, just like she said."
+
+//TEXT 【Tomosane】
+<enT0023>"Shut it!"
+<ptT0023>"Shut it!"
+
+//TEXT 【Hasaki】
+<enT0024>"Are you talking to Yuki-san in secret again?"
+<ptT0024>"Are you talking to Yuki-san in secret again?"
+
+//TEXT 【Tomosane】
+<enT0025>"I-It's not a s-secret or anything important like that!"
+<ptT0025>"I-It's not a s-secret or anything important like that!"
+
+//TEXT 【Yuki】
+<enT0026>"Really? It's not important how you think of Hasaki-chan?"
+<ptT0026>"Really? It's not important how you think of Hasaki-chan?"
+
+//TEXT 【Hasaki】
+<enT0027>"Oh, that probably isn't important to Tomo Nii-san at all."
+<ptT0027>"Oh, that probably isn't important to Tomo Nii-san at all."
+
+//TEXT 【Tomosane】
+<enT0028>"Th-That's not what I meant."
+<ptT0028>"Th-That's not what I meant."
+
+//TEXT 【Yuki】
+<enT0029>"Oh, now you made Hasaki-chan mad again, Tomosane."
+<ptT0029>"Oh, now you made Hasaki-chan mad again, Tomosane."
+
+//TEXT 【Tomosane】
+<enT0030>"It's your fault!"
+<ptT0030>"It's your fault!"
+
+//TEXT 【Hasaki】
+<enT0031>"Haa... I don't care anymore."
+<ptT0031>"Haa... I don't care anymore."
+
+//TEXT 【Tomosane】
+<enT0032>"Okay, I'm getting out now!"
+<ptT0032>"Okay, I'm getting out now!"
+
+//TEXT 【Yuki】
+<enT0033>"Wait a second. You have to use conditioner too!"
+<ptT0033>"Wait a second. You have to use conditioner too!"
+
+//TEXT 【Tomosane】
+<enT0034>"What the hell is that?"
+<ptT0034>"What the hell is that?"
+
+//TEXT 【Hasaki】
+<enT0035>"Oh, was this yours, Yuki-san?"
+<ptT0035>"Oh, was this yours, Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0036>"That's right."
+<ptT0036>"That's right."
+
+//TEXT 【Hasaki】
+<enT0037>"Is that a good brand?"
+<ptT0037>"Is that a good brand?"
+
+//TEXT 【Yuki】
+<enT0038>"I think so. It had good reviews online."
+<ptT0038>"I think so. It had good reviews online."
+
+//TEXT 【Hasaki】
+<enT0039>"It must be really expensive."
+<ptT0039>"It must be really expensive."
+
+//TEXT 【Yuki】
+<enT0040>"Wanna try it?"
+<ptT0040>"Wanna try it?"
+
+//TEXT 【Hasaki】
+<enT0041>"Huh? Can I?"
+<ptT0041>"Huh? Can I?"
+
+//TEXT 【Yuki】
+<enT0042>"Sure, I don't mind."
+<ptT0042>"Sure, I don't mind."
+
+//TEXT 【Tomosane】
+<enT0043>"Who cares about that? Let me get out of here already!"
+<ptT0043>"Who cares about that? Let me get out of here already!"
+
+//TEXT 【Hasaki】
+<enT0044>"I care. Be quiet, Tomo Nii-san."
+<ptT0044>"I care. Be quiet, Tomo Nii-san."
+
+//TEXT 【Hasaki】
+<enT0045>"How much of this should I use? Especially this tube of treatment."
+<ptT0045>"How much of this should I use? Especially this tube of treatment."
+
+//TEXT 【Yuki】
+<enT0046>"Do you want me to do it for you?"
+<ptT0046>"Do you want me to do it for you?"
+
+//TEXT 【Hasaki】
+<enT0047>"Huh?"
+<ptT0047>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0048>"Are you dumb? You and I look the same to Hasaki. There's no way she's okay with that."
+<ptT0048>"Are you dumb? You and I look the same to Hasaki. There's no way she's okay with that."
+
+//TEXT 【Hasaki】
+<enT0049>"Yuki-san, would you?"
+<ptT0049>"Yuki-san, would you?"
+
+//TEXT 【Yuki】
+<enT0050>"Yeah, sure."
+<ptT0050>"Yeah, sure."
+
+//TEXT 【Tomosane】
+<enT0051>"Why are you ignoring me? Why are you saying yes?!"
+<ptT0051>"Why are you ignoring me? Why are you saying yes?!"
+
+//TEXT 【Hasaki】
+<enT0052>"You're awfully annoying, Tomo Nii-san. Don't butt into our conversation, please."
+<ptT0052>"You're awfully annoying, Tomo Nii-san. Don't butt into our conversation, please."
+
+//TEXT
+<enT0053>Yuki circled around behind Hasaki.
+<ptT0053>Yuki circled around behind Hasaki.
+
+//TEXT
+<enT0054>Well, I guess it's better this way since I don't have to worry about seeing anything I shouldn't.
+<ptT0054>Well, I guess it's better this way since I don't have to worry about seeing anything I shouldn't.
+
+//TEXT 【Yuki】
+<enT0055>"This should be enough conditioner for your hair, I think."
+<ptT0055>"This should be enough conditioner for your hair, I think."
+
+//TEXT 【Hasaki】
+<enT0056>"Oh, that's about how much shampoo I use, too."
+<ptT0056>"Oh, that's about how much shampoo I use, too."
+
+//TEXT 【Yuki】
+<enT0057>"Yeah, it's about as thick as normal shampoo, so I'm not surprised."
+<ptT0057>"Yeah, it's about as thick as normal shampoo, so I'm not surprised."
+
+//TEXT 【Hasaki】
+<enT0058>"All right, will you please?"
+<ptT0058>"All right, will you please?"
+
+//TEXT 【Yuki】
+<enT0059>"Yeah."
+<ptT0059>"Yeah."
+
+//TEXT 【Tomosane】
+<enT0060>"Ah?! Wh-What?!"
+<ptT0060>"Ah?! Wh-What?!"
+
+//TEXT
+<enT0061>When Yuki's fingers touched Hasaki's head, my fingers caressed her hair.
+<ptT0061>When Yuki's fingers touched Hasaki's head, my fingers caressed her hair.
+
+//TEXT 【Tomosane】
+<enT0062>"Y-Yuki, what are you―"
+<ptT0062>"Y-Yuki, what are you―"
+
+//TEXT 【Yuki】
+<enT0063>"Come on, brothers and sisters should get along once in a while. Now put about a finger-sized bit of treatment in your palm and rub it on evenly."
+<ptT0063>"Come on, brothers and sisters should get along once in a while. Now put about a finger-sized bit of treatment in your palm and rub it on evenly."
+
+//TEXT 【Tomosane】
+<enT0064>"What do you mean?"
+<ptT0064>"What do you mean?"
+
+//TEXT 【Yuki】
+<enT0065>"Good night. I'm tired, so I'm gonna dip out."
+<ptT0065>"Good night. I'm tired, so I'm gonna dip out."
+
+//TEXT 【Tomosane】
+<enT0066>"What do you mean, dip out? You can't log out now."
+<ptT0066>"What do you mean, dip out? You can't log out now."
+
+//TEXT 【Tomosane】
+<enT0067>"Hey!"
+<ptT0067>"Hey!"
+
+//TEXT 【Hasaki】
+<enT0068>"What?"
+<ptT0068>"What?"
+
+//TEXT 【Tomosane】
+<enT0069>"U-Um..."
+<ptT0069>"U-Um..."
+
+//TEXT 【Hasaki】
+<enT0070>"Yes?"
+<ptT0070>"Yes?"
+
+//TEXT 【Tomosane】
+<enT0071>"Yuki disappeared."
+<ptT0071>"Yuki disappeared."
+
+//TEXT 【Hasaki】
+<enT0072>"Huh?"
+<ptT0072>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0073>"Oh, it's nothing unusual, but..."
+<ptT0073>"Oh, it's nothing unusual, but..."
+
+//TEXT 【Hasaki】
+<enT0074>"Which means, right now..."
+<ptT0074>"Which means, right now..."
+
+//TEXT 【Tomosane】
+<enT0075>"The two of us are alone."
+<ptT0075>"The two of us are alone."
+
+//TEXT 【Hasaki】
+<enT0076>"Alone!"
+<ptT0076>"Alone!"
+
+//TEXT
+<enT0077>Hasaki suddenly blushed when she heard that word.
+<ptT0077>Hasaki suddenly blushed when she heard that word.
+
+//TEXT
+<enT0078>No, that doesn't make sense. From her viewpoint, it's just been the two of us from the beginning.
+<ptT0078>No, that doesn't make sense. From her viewpoint, it's just been the two of us from the beginning.
+
+//TEXT
+<enT0079>But I couldn't say that. I wavered for a moment.
+<ptT0079>But I couldn't say that. I wavered for a moment.
+
+//TEXT 【Tomosane】
+<enT0080>"U-Um, I don't know how to put on the treatment, so maybe I should just get out now."
+<ptT0080>"U-Um, I don't know how to put on the treatment, so maybe I should just get out now."
+
+//TEXT 【Hasaki】
+<enT0081>"..."
+<ptT0081>"..."
+
+//TEXT 【Tomosane】
+<enT0082>"U-Um, I kind of went along with it when Yuki was around, but we really shouldn't be doing this."
+<ptT0082>"U-Um, I kind of went along with it when Yuki was around, but we really shouldn't be doing this."
+
+//TEXT
+<enT0083>To be honest, it was bad even when Yuki was around. Yuki just dragged me along with her stupidity, and Hasaki was too stubborn to stop.
+<ptT0083>To be honest, it was bad even when Yuki was around. Yuki just dragged me along with her stupidity, and Hasaki was too stubborn to stop.
+
+//TEXT 【Tomosane】
+<enT0084>"Ahahaha... I'll get out."
+<ptT0084>"Ahahaha... I'll get out."
+
+//TEXT
+<enT0085>When I tried to stand up, Hasaki grabbed my arm.
+<ptT0085>When I tried to stand up, Hasaki grabbed my arm.
+
+//TEXT 【Tomosane】
+<enT0086>"Huh?"
+<ptT0086>"Huh?"
+
+//TEXT 【Hasaki】
+<enT0087>"Finish what you started."
+<ptT0087>"Finish what you started."
+
+//TEXT
+<enT0088>What I started...
+<ptT0088>What I started...
+
+//TEXT 【Tomosane】
+<enT0089>"Wait, I don't understand what you mean!"
+<ptT0089>"Wait, I don't understand what you mean!"
+
+//TEXT 【Hasaki】
+<enT0090>"Um, I already closed my eyes. I can't open them now."
+<ptT0090>"Um, I already closed my eyes. I can't open them now."
+
+//TEXT
+<enT0091>She closed her eyes, so she can't open them now? That doesn't really make sense.
+<ptT0091>She closed her eyes, so she can't open them now? That doesn't really make sense.
+
+//TEXT
+<enT0092>I guess there are a lot of shampoos out there that sting if you get them in your eyes.
+<ptT0092>I guess there are a lot of shampoos out there that sting if you get them in your eyes.
+
+//TEXT
+<enT0093>But...
+<ptT0093>But...
+
+//TEXT 【Tomosane】
+<enT0094>"No, but..."
+<ptT0094>"No, but..."
+
+//TEXT 【Hasaki】
+<enT0095>"I-I'm just your little sister, after all. What's the problem? And besides, you already saw me naked..."
+<ptT0095>"I-I'm just your little sister, after all. What's the problem? And besides, you already saw me naked..."
+
+//TEXT 【Tomosane】
+<enT0096>"Oh, uh... For the record, I did my best to not look."
+<ptT0096>"Oh, uh... For the record, I did my best to not look."
+
+//TEXT 【Hasaki】
+<enT0097>"Th-Then keep doing your best and it'll be fine."
+<ptT0097>"Th-Then keep doing your best and it'll be fine."
+
+//TEXT
+<enT0098>It won't be fine at all.
+<ptT0098>It won't be fine at all.
+
+//TEXT
+<enT0099>Yeah, this doesn't even make sense anymore. Why am I taking a bath with Hasaki, and why do I have to wash her hair?
+<ptT0099>Yeah, this doesn't even make sense anymore. Why am I taking a bath with Hasaki, and why do I have to wash her hair?
+
+//TEXT
+<enT0100>Besides...
+<ptT0100>Besides...
+
+//TEXT
+<enT0101>Truthfully, I shouldn't be alone with Hasaki like this.
+<ptT0101>Truthfully, I shouldn't be alone with Hasaki like this.
+
+//TEXT
+<enT0102>Even if she is my sister, two people of our age can't be naked and alone together.
+<ptT0102>Even if she is my sister, two people of our age can't be naked and alone together.
+
+//TEXT 【Hasaki】
+<enT0103>"Tomo Nii-san!"
+<ptT0103>"Tomo Nii-san!"
+
+//TEXT 【Tomosane】
+<enT0104>"Y-Yeah..."
+<ptT0104>"Y-Yeah..."
+
+//TEXT
+<enT0105>At Hasaki's urging, I continued to apply the conditioner and other hair products to Hasaki's scalp.
+<ptT0105>At Hasaki's urging, I continued to apply the conditioner and other hair products to Hasaki's scalp.
+
+//TEXT
+<enT0106>Sadly enough, it was a lot easier than I expected once I got started. Yuki's experience was still in my body.
+<ptT0106>Sadly enough, it was a lot easier than I expected once I got started. Yuki's experience was still in my body.
+
+//TEXT 【Hasaki】
+<enT0107>"Ahahaha... You're pretty good at this, Tomo Nii-san. Have you done this for Yuki-san before?"
+<ptT0107>"Ahahaha... You're pretty good at this, Tomo Nii-san. Have you done this for Yuki-san before?"
+
+//TEXT 【Tomosane】
+<enT0108>"No. That's never happened, ever. We share the same body, so I have most of the same skills and experiences that she does."
+<ptT0108>"No. That's never happened, ever. We share the same body, so I have most of the same skills and experiences that she does."
+
+//TEXT 【Hasaki】
+<enT0109>"I see."
+<ptT0109>"I see."
+
+//TEXT 【Tomosane】
+<enT0110>"Yeah, and Mamiya Takuji should be able to do everything that we can do."
+<ptT0110>"Yeah, and Mamiya Takuji should be able to do everything that we can do."
+
+//TEXT 【Hasaki】
+<enT0111>"Hmm... Then you know how to put on the treatment too."
+<ptT0111>"Hmm... Then you know how to put on the treatment too."
+
+//TEXT 【Tomosane】
+<enT0112>"Hey, wait!"
+<ptT0112>"Hey, wait!"
+
+//TEXT 【Hasaki】
+<enT0113>"Please put on the treatment too."
+<ptT0113>"Please put on the treatment too."
+
+//TEXT 【Tomosane】
+<enT0114>"U-Um..."
+<ptT0114>"U-Um..."
+
+//TEXT 【Tomosane】
+<enT0115>"Huh?!"
+<ptT0115>"Huh?!"
+
+//TEXT
+<enT0116>Hasaki grabbed my hand.
+<ptT0116>Hasaki grabbed my hand.
+
+//TEXT
+<enT0117>Her hand was small, soft... and very warm.
+<ptT0117>Her hand was small, soft... and very warm.
+
+//TEXT
+<enT0118>And it was...
+<ptT0118>And it was...
+
+//TEXT
+<enT0119>Trembling.
+<ptT0119>Trembling.
+
+//TEXT
+<enT0120>...
+<ptT0120>...
+
+//TEXT 【Tomosane】
+<enT0121>"What's wrong, Hasaki?"
+<ptT0121>"What's wrong, Hasaki?"
+
+//TEXT 【Hasaki】
+<enT0122>"No, it's nothing..."
+<ptT0122>"No, it's nothing..."
+
+//TEXT
+<enT0123>I knew right away that Hasaki was crying.
+<ptT0123>I knew right away that Hasaki was crying.
+
+//TEXT
+<enT0124>Not from her voice.
+<ptT0124>Not from her voice.
+
+//TEXT
+<enT0125>And of course, I couldn't see her face from behind...
+<ptT0125>And of course, I couldn't see her face from behind...
+
+//TEXT
+<enT0126>But somehow, I knew right away that Hasaki was crying.
+<ptT0126>But somehow, I knew right away that Hasaki was crying.
+
+//TEXT 【Hasaki】
+<enT0127>"I think I know... why you always push me away, Tomo Nii-san."
+<ptT0127>"I think I know... why you always push me away, Tomo Nii-san."
+
+//TEXT 【Hasaki】
+<enT0128>"But that's selfish."
+<ptT0128>"But that's selfish."
+
+//TEXT 【Hasaki】
+<enT0129>"You think that if you push me away, we won't ever grow closer... but you're wrong."
+<ptT0129>"You think that if you push me away, we won't ever grow closer... but you're wrong."
+
+//TEXT
+<enT0130>She didn't say it directly.
+<ptT0130>She didn't say it directly.
+
+//TEXT
+<enT0131>But I could tell she was blaming me.
+<ptT0131>But I could tell she was blaming me.
+
+//TEXT
+<enT0132>She didn't blame me because I was going to disappear, but rather, because I pushed her away to avoid growing closer to her.
+<ptT0132>She didn't blame me because I was going to disappear, but rather, because I pushed her away to avoid growing closer to her.
+
+//TEXT
+<enT0133>No, because I tried to avoid growing closer to her... but still did.
+<ptT0133>No, because I tried to avoid growing closer to her... but still did.
+
+//TEXT 【Hasaki】
+<enT0134>"I don't know... what will happen to you or Yuki in the future."
+<ptT0134>"I don't know... what will happen to you or Yuki in the future."
+
+//TEXT 【Hasaki】
+<enT0135>"Even if I did know... there's nothing I can do about it."
+<ptT0135>"Even if I did know... there's nothing I can do about it."
+
+//TEXT 【Hasaki】
+<enT0136>"But there is something I do know for sure..."
+<ptT0136>"But there is something I do know for sure..."
+
+//TEXT 【Tomosane】
+<enT0137>"Hasaki..."
+<ptT0137>"Hasaki..."
+
+//TEXT 【Hasaki】
+<enT0138>"So..."
+<ptT0138>"So..."
+
+//TEXT 【Hasaki】
+<enT0139>"The treatment!"
+<ptT0139>"The treatment!"
+
+//TEXT 【Tomosane】
+<enT0140>"Huh?"
+<ptT0140>"Huh?"
+
+//TEXT 【Hasaki】
+<enT0141>"At least do that for me. Th-This is really embarrassing, you know!"
+<ptT0141>"At least do that for me. Th-This is really embarrassing, you know!"
+
+//TEXT 【Tomosane】
+<enT0142>"Huh? E-Embarrassing?"
+<ptT0142>"Huh? E-Embarrassing?"
+
+//TEXT 【Hasaki】
+<enT0143>"O-Of course it is!"
+<ptT0143>"O-Of course it is!"
+
+//TEXT 【Tomosane】
+<enT0144>"B-But you were the one who came barging in, and you took off your swimsuit..."
+<ptT0144>"B-But you were the one who came barging in, and you took off your swimsuit..."
+
+//TEXT 【Hasaki】
+<enT0145>"B-But that was... Oh, shut up! Sometimes a girl has to do things that are embarrassing!"
+<ptT0145>"B-But that was... Oh, shut up! Sometimes a girl has to do things that are embarrassing!"
+
+//TEXT
+<enT0146>She fiercely spat out those words.
+<ptT0146>She fiercely spat out those words.
+
+//TEXT
+<enT0147>A girl has to do things that are embarrassing... Is that true?
+<ptT0147>A girl has to do things that are embarrassing... Is that true?
+
+//TEXT
+<enT0148>I don't really understand, but I think that might be true.
+<ptT0148>I don't really understand, but I think that might be true.
+
+//TEXT 【Hasaki】
+<enT0149>"Wh-What kind of person wouldn't be embarrassed about being seen naked?"
+<ptT0149>"Wh-What kind of person wouldn't be embarrassed about being seen naked?"
+
+//TEXT 【Tomosane】
+<enT0150>"Uh, an exhibitionist, maybe?"
+<ptT0150>"Uh, an exhibitionist, maybe?"
+
+//TEXT 【Hasaki】
+<enT0151>"Don't lump me in with those people!"
+<ptT0151>"Don't lump me in with those people!"
+
+//TEXT 【Tomosane】
+<enT0152>"Oh, uh... Sorry."
+<ptT0152>"Oh, uh... Sorry."
+
+//TEXT
+<enT0153>Uh... Somehow we're getting off topic.
+<ptT0153>Uh... Somehow we're getting off topic.
+
+//TEXT 【Hasaki】
+<enT0154>"Did you think I wasn't embarrassed about this?"
+<ptT0154>"Did you think I wasn't embarrassed about this?"
+
+//TEXT 【Tomosane】
+<enT0155>"Then why did you do it?"
+<ptT0155>"Then why did you do it?"
+
+//TEXT 【Hasaki】
+<enT0156>"I-I told you, sometimes you have to do things like this. That's why. Um... It's kind of like how sometimes a nuclear meltdown can happen even when it's supposed to be impossible for the reactor to malfunction! It's just like that!"
+<ptT0156>"I-I told you, sometimes you have to do things like this. That's why. Um... It's kind of like how sometimes a nuclear meltdown can happen even when it's supposed to be impossible for the reactor to malfunction! It's just like that!"
+
+//TEXT
+<enT0157>No, uh... I don't think it's like that at all.
+<ptT0157>No, uh... I don't think it's like that at all.
+
+//TEXT 【Hasaki】
+<enT0158>"Anyway, you can wash out the conditioner now."
+<ptT0158>"Anyway, you can wash out the conditioner now."
+
+//TEXT 【Tomosane】
+<enT0159>"Oh, sure..."
+<ptT0159>"Oh, sure..."
+
+//TEXT 【Hasaki】
+<enT0160>"Ahhh... That feels good... Wow, my hair is so soft."
+<ptT0160>"Ahhh... That feels good... Wow, my hair is so soft."
+
+//TEXT 【Tomosane】
+<enT0161>"Yeah..."
+<ptT0161>"Yeah..."
+
+//TEXT
+<enT0162>When the conditioner was in her hair, it felt nice and slippery, but once I washed the conditioner out it changed to a soft, silky feeling.
+<ptT0162>When the conditioner was in her hair, it felt nice and slippery, but once I washed the conditioner out it changed to a soft, silky feeling.
+
+//TEXT
+<enT0163>Ooh... This is totally different from the feeling of a guy's hair. Or maybe that's because she's still so young?
+<ptT0163>Ooh... This is totally different from the feeling of a guy's hair. Or maybe that's because she's still so young?
+
+//TEXT
+<enT0164>She looks a lot younger than she actually is.
+<ptT0164>She looks a lot younger than she actually is.
+
+//TEXT
+<enT0165>That must be because of her Mamiya blood.
+<ptT0165>That must be because of her Mamiya blood.
+
+//TEXT 【Hasaki】
+<enT0166>"Keep going."
+<ptT0166>"Keep going."
+
+//TEXT 【Tomosane】
+<enT0167>"A-All right..."
+<ptT0167>"A-All right..."
+
+//TEXT
+<enT0168>There was no point resisting at this point. I put a little bit in my palm just like Yuki told me and rubbed it into Hasaki's hair.
+<ptT0168>There was no point resisting at this point. I put a little bit in my palm just like Yuki told me and rubbed it into Hasaki's hair.
+
+//TEXT
+<enT0169>This "treatment" stuff was more viscous than shampoo or conditioner, like paste.
+<ptT0169>This "treatment" stuff was more viscous than shampoo or conditioner, like paste.
+
+//TEXT 【Hasaki】
+<enT0170>"Ah... It feels funny."
+<ptT0170>"Ah... It feels funny."
+
+//TEXT 【Tomosane】
+<enT0171>"This is designed for use on people's hair, right? It kind of reminds me of something else."
+<ptT0171>"This is designed for use on people's hair, right? It kind of reminds me of something else."
+
+//TEXT 【Hasaki】
+<enT0172>"Oh, that's because it comes in a tube. It's different from the shampoo or conditioner."
+<ptT0172>"Oh, that's because it comes in a tube. It's different from the shampoo or conditioner."
+
+//TEXT 【Tomosane】
+<enT0173>"What do you usually use, Hasaki?"
+<ptT0173>"What do you usually use, Hasaki?"
+
+//TEXT 【Hasaki】
+<enT0174>"Hm? Probably the same thing you use. Just shampoo and conditioner. I've been interested in these bottles in the bathroom for a while now, but I never knew how to use the treatment or anything like that."
+<ptT0174>"Hm? Probably the same thing you use. Just shampoo and conditioner. I've been interested in these bottles in the bathroom for a while now, but I never knew how to use the treatment or anything like that."
+
+//TEXT
+<enT0175>It was just like the shampoo and conditioner, but someone who didn't know that might have thought it was supposed to go on your face. Makeup remover has about the same consistency as this stuff, I think.
+<ptT0175>It was just like the shampoo and conditioner, but someone who didn't know that might have thought it was supposed to go on your face. Makeup remover has about the same consistency as this stuff, I think.
+
+//TEXT 【Tomosane】
+<enT0176>"I'm gonna rinse it out now."
+<ptT0176>"I'm gonna rinse it out now."
+
+//TEXT 【Hasaki】
+<enT0177>"Huh? Already?"
+<ptT0177>"Huh? Already?"
+
+//TEXT 【Tomosane】
+<enT0178>"Yeah, you're supposed to wash this out right away."
+<ptT0178>"Yeah, you're supposed to wash this out right away."
+
+//TEXT
+<enT0179>I gently rinsed the treatment out of her hair.
+<ptT0179>I gently rinsed the treatment out of her hair.
+
+//TEXT
+<enT0180>It says that I can just wash it out like normal, but apparently it can cause a rash if someone has weak skin, so I was extra careful as I rinsed her hair with water.
+<ptT0180>It says that I can just wash it out like normal, but apparently it can cause a rash if someone has weak skin, so I was extra careful as I rinsed her hair with water.
+
+//TEXT
+<enT0181>After it all rinsed out, her hair was even softer than before.
+<ptT0181>After it all rinsed out, her hair was even softer than before.
+
+//TEXT 【Hasaki】
+<enT0182>"Wow, this is amazing!"
+<ptT0182>"Wow, this is amazing!"
+
+//TEXT 【Tomosane】
+<enT0183>"Haa... Good for you."
+<ptT0183>"Haa... Good for you."
+
+//TEXT 【Hasaki】
+<enT0184>"Yeah!"
+<ptT0184>"Yeah!"
+
+//TEXT
+<enT0185>Hasaki cheerfully turned toward me.
+<ptT0185>Hasaki cheerfully turned toward me.
+
+//TEXT
+<enT0186>And because of where I was standing, she turned to face my...
+<ptT0186>And because of where I was standing, she turned to face my...
+
+//TEXT 【Hasaki】
+<enT0187>"Ah―"
+<ptT0187>"Ah―"
+
+//TEXT
+<enT0188>I could tell she was about to scream, and I prepared myself in case she was about to hit me in a very delicate area.
+<ptT0188>I could tell she was about to scream, and I prepared myself in case she was about to hit me in a very delicate area.
+
+//TEXT 【Hasaki】
+<enT0189>"Ah..."
+<ptT0189>"Ah..."
+
+//TEXT 【Tomosane】
+<enT0190>"H-Hasaki!"
+<ptT0190>"H-Hasaki!"
+
+//TEXT
+<enT0191>Hasaki fainted on the spot.
+<ptT0191>Hasaki fainted on the spot.
+
+///================================================================================
+
+//OTHER
+<enZ0001>4_0706_hsfro.bss
+<ptZ0001>4_0706_hsfro.bss
+
+//OTHER
+<enZ0002>bgm103
+<ptZ0002>bgm103
+
+//OTHER
+<enZ0003>se538
+<ptZ0003>se538
+
+//OTHER
+<enZ0004>hasa_000476
+<ptZ0004>hasa_000476
+
+//OTHER
+<enZ0005>hasa_000477
+<ptZ0005>hasa_000477
+
+//OTHER
+<enZ0006>map005
+<ptZ0006>map005
+
+//OTHER
+<enZ0007>ev4011g
+<ptZ0007>ev4011g
+
+//OTHER
+<enZ0008>hasa_000478
+<ptZ0008>hasa_000478
+
+//OTHER
+<enZ0009>yuki_003628
+<ptZ0009>yuki_003628
+
+//OTHER
+<enZ0010>hasa_000479
+<ptZ0010>hasa_000479
+
+//OTHER
+<enZ0011>yuki_003629
+<ptZ0011>yuki_003629
+
+//OTHER
+<enZ0012>hasa_000480
+<ptZ0012>hasa_000480
+
+//OTHER
+<enZ0013>yuki_003630
+<ptZ0013>yuki_003630
+
+//OTHER
+<enZ0014>yuki_003631
+<ptZ0014>yuki_003631
+
+//OTHER
+<enZ0015>yuki_003632
+<ptZ0015>yuki_003632
+
+//OTHER
+<enZ0016>yuki_003633
+<ptZ0016>yuki_003633
+
+//OTHER
+<enZ0017>yuki_003634
+<ptZ0017>yuki_003634
+
+//OTHER
+<enZ0018>ev4011c
+<ptZ0018>ev4011c
+
+//OTHER
+<enZ0019>hasa_000481
+<ptZ0019>hasa_000481
+
+//OTHER
+<enZ0020>yuki_003635
+<ptZ0020>yuki_003635
+
+//OTHER
+<enZ0021>hasa_000482
+<ptZ0021>hasa_000482
+
+//OTHER
+<enZ0022>yuki_003636
+<ptZ0022>yuki_003636
+
+//OTHER
+<enZ0023>hasa_000483
+<ptZ0023>hasa_000483
+
+//OTHER
+<enZ0024>yuki_003637
+<ptZ0024>yuki_003637
+
+//OTHER
+<enZ0025>ev4011a
+<ptZ0025>ev4011a
+
+//OTHER
+<enZ0026>hasa_000484
+<ptZ0026>hasa_000484
+
+//OTHER
+<enZ0027>yuki_003638
+<ptZ0027>yuki_003638
+
+//OTHER
+<enZ0028>hasa_000485
+<ptZ0028>hasa_000485
+
+//OTHER
+<enZ0029>yuki_003639
+<ptZ0029>yuki_003639
+
+//OTHER
+<enZ0030>hasa_000486
+<ptZ0030>hasa_000486
+
+//OTHER
+<enZ0031>yuki_003640
+<ptZ0031>yuki_003640
+
+//OTHER
+<enZ0032>ev4011b
+<ptZ0032>ev4011b
+
+//OTHER
+<enZ0033>hasa_000487
+<ptZ0033>hasa_000487
+
+//OTHER
+<enZ0034>yuki_003641
+<ptZ0034>yuki_003641
+
+//OTHER
+<enZ0035>hasa_000488
+<ptZ0035>hasa_000488
+
+//OTHER
+<enZ0036>hasa_000489
+<ptZ0036>hasa_000489
+
+//OTHER
+<enZ0037>yuki_003642
+<ptZ0037>yuki_003642
+
+//OTHER
+<enZ0038>hasa_000490
+<ptZ0038>hasa_000490
+
+//OTHER
+<enZ0039>hasa_000491
+<ptZ0039>hasa_000491
+
+//OTHER
+<enZ0040>yuki_003643
+<ptZ0040>yuki_003643
+
+//OTHER
+<enZ0041>hasa_000492
+<ptZ0041>hasa_000492
+
+//OTHER
+<enZ0042>ev4011d
+<ptZ0042>ev4011d
+
+//OTHER
+<enZ0043>yuki_003644
+<ptZ0043>yuki_003644
+
+//OTHER
+<enZ0044>hasa_000493
+<ptZ0044>hasa_000493
+
+//OTHER
+<enZ0045>yuki_003645
+<ptZ0045>yuki_003645
+
+//OTHER
+<enZ0046>hasa_000494
+<ptZ0046>hasa_000494
+
+//OTHER
+<enZ0047>yuki_003646
+<ptZ0047>yuki_003646
+
+//OTHER
+<enZ0048>ev4011f
+<ptZ0048>ev4011f
+
+//OTHER
+<enZ0049>yuki_003647
+<ptZ0049>yuki_003647
+
+//OTHER
+<enZ0050>yuki_003648
+<ptZ0050>yuki_003648
+
+//OTHER
+<enZ0051>hasa_000495
+<ptZ0051>hasa_000495
+
+//OTHER
+<enZ0052>hasa_000496
+<ptZ0052>hasa_000496
+
+//OTHER
+<enZ0053>hasa_000497
+<ptZ0053>hasa_000497
+
+//OTHER
+<enZ0054>hasa_000498
+<ptZ0054>hasa_000498
+
+//OTHER
+<enZ0055>bgm104
+<ptZ0055>bgm104
+
+//OTHER
+<enZ0056>ev4011e
+<ptZ0056>ev4011e
+
+//OTHER
+<enZ0057>hasa_000499
+<ptZ0057>hasa_000499
+
+//OTHER
+<enZ0058>hasa_000500
+<ptZ0058>hasa_000500
+
+//OTHER
+<enZ0059>hasa_000501
+<ptZ0059>hasa_000501
+
+//OTHER
+<enZ0060>hasa_000502
+<ptZ0060>hasa_000502
+
+//OTHER
+<enZ0061>hasa_000503
+<ptZ0061>hasa_000503
+
+//OTHER
+<enZ0062>hasa_000504
+<ptZ0062>hasa_000504
+
+//OTHER
+<enZ0063>hasa_000505
+<ptZ0063>hasa_000505
+
+//OTHER
+<enZ0064>hasa_000506
+<ptZ0064>hasa_000506
+
+//OTHER
+<enZ0065>hasa_000507
+<ptZ0065>hasa_000507
+
+//OTHER
+<enZ0066>hasa_000508
+<ptZ0066>hasa_000508
+
+//OTHER
+<enZ0067>hasa_000509
+<ptZ0067>hasa_000509
+
+//OTHER
+<enZ0068>bgm016
+<ptZ0068>bgm016
+
+//OTHER
+<enZ0069>hasa_000510
+<ptZ0069>hasa_000510
+
+//OTHER
+<enZ0070>hasa_000511
+<ptZ0070>hasa_000511
+
+//OTHER
+<enZ0071>hasa_000512
+<ptZ0071>hasa_000512
+
+//OTHER
+<enZ0072>hasa_000513
+<ptZ0072>hasa_000513
+
+//OTHER
+<enZ0073>hasa_000514
+<ptZ0073>hasa_000514
+
+//OTHER
+<enZ0074>hasa_000515
+<ptZ0074>hasa_000515
+
+//OTHER
+<enZ0075>hasa_000516
+<ptZ0075>hasa_000516
+
+//OTHER
+<enZ0076>hasa_000517
+<ptZ0076>hasa_000517
+
+//OTHER
+<enZ0077>hasa_000518
+<ptZ0077>hasa_000518
+
+//OTHER
+<enZ0078>hasa_000519
+<ptZ0078>hasa_000519
+
+//OTHER
+<enZ0079>hasa_000520
+<ptZ0079>hasa_000520
+
+//OTHER
+<enZ0080>hasa_000521
+<ptZ0080>hasa_000521
+
+//OTHER
+<enZ0081>hasa_000522
+<ptZ0081>hasa_000522
+
+//OTHER
+<enZ0082>hasa_000523
+<ptZ0082>hasa_000523
+
+//OTHER
+<enZ0083>hasa_000524
+<ptZ0083>hasa_000524
+
+//OTHER
+<enZ0084>hasa_000525
+<ptZ0084>hasa_000525
+
+//OTHER
+<enZ0085>hasa_000526
+<ptZ0085>hasa_000526
+
+//OTHER
+<enZ0086>se548
+<ptZ0086>se548
+
+//OTHER
+<enZ0087>bgm004
+<ptZ0087>bgm004
+
+//OTHER
+<enZ0088>hasa_000527
+<ptZ0088>hasa_000527
+
+//OTHER
+<enZ0089>hasa_000528
+<ptZ0089>hasa_000528
+
+//OTHER
+<enZ0090>hasa_000529
+<ptZ0090>hasa_000529
+
+//OTHER
+<enZ0091>hasa_000530
+<ptZ0091>hasa_000530
+
+//OTHER
+<enZ0092>hasa_000531
+<ptZ0092>hasa_000531
+
+//OTHER
+<enZ0093>hasa_000532
+<ptZ0093>hasa_000532
+
+//OTHER
+<enZ0094>hasa_000533
+<ptZ0094>hasa_000533
+
+//OTHER
+<enZ0095>hasa_000534
+<ptZ0095>hasa_000534
+
+//OTHER
+<enZ0096>hasa_000535
+<ptZ0096>hasa_000535
+
+//OTHER
+<enZ0097>hasa_000536
+<ptZ0097>hasa_000536
+
+//OTHER
+<enZ0098>se011
+<ptZ0098>se011
+
+//OTHER
+<enZ0099>map003
+<ptZ0099>map003
+

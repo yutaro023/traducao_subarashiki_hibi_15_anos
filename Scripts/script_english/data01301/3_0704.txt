@@ -1,0 +1,1448 @@
+//NAME
+<enN0001>Mamiya
+<ptN0001>Mamiya
+
+//NAME
+<enN0002>Zakuro
+<ptN0002>Zakuro
+
+///================================================================================
+
+//TEXT
+<enT0001>It's Saturday... School lets out early today.
+<ptT0001>It's Saturday... School lets out early today.
+
+//TEXT
+<enT0002>Despite that, I couldn't stop myself from skipping class after first period.
+<ptT0002>Despite that, I couldn't stop myself from skipping class after first period.
+
+//TEXT
+<enT0003>Before, I never even considered skipping...
+<ptT0003>Before, I never even considered skipping...
+
+//TEXT
+<enT0004>I went up the stairs as the bell for second period rang.
+<ptT0004>I went up the stairs as the bell for second period rang.
+
+//TEXT
+<enT0005>I went up the stairs and left that place where I didn't belong behind me. Up and up.
+<ptT0005>I went up the stairs and left that place where I didn't belong behind me. Up and up.
+
+//TEXT
+<enT0006>I was expecting him to be there.
+<ptT0006>I was expecting him to be there.
+
+//TEXT
+<enT0007>His beautiful hair fluttered in the wind.
+<ptT0007>His beautiful hair fluttered in the wind.
+
+//TEXT
+<enT0008>Long, straight, carefully combed hair.
+<ptT0008>Long, straight, carefully combed hair.
+
+//TEXT
+<enT0009>Pretty eyes...
+<ptT0009>Pretty eyes...
+
+//TEXT
+<enT0010>Even God himself would be enthralled by that sight.
+<ptT0010>Even God himself would be enthralled by that sight.
+
+//TEXT
+<enT0011>That's why...
+<ptT0011>That's why...
+
+//TEXT 【Mamiya】
+<enT0012>"Hmm?"
+<ptT0012>"Hmm?"
+
+//TEXT 【Zakuro】
+<enT0013>"Oh, g-good morning."
+<ptT0013>"Oh, g-good morning."
+
+//TEXT 【Mamiya】
+<enT0014>"Huh? Who are you?"
+<ptT0014>"Huh? Who are you?"
+
+//TEXT
+<enT0015>He had a smile on his face as he asked me that.
+<ptT0015>He had a smile on his face as he asked me that.
+
+//TEXT 【Zakuro】
+<enT0016>"Wh-Why can't you remember it? I'm Takashima Zakuro, from the class next to yours."
+<ptT0016>"Wh-Why can't you remember it? I'm Takashima Zakuro, from the class next to yours."
+
+//TEXT 【Mamiya】
+<enT0017>"Takashima... Zakuro... Oh, you skipped class yesterday. Wait, what are you doing right now?"
+<ptT0017>"Takashima... Zakuro... Oh, you skipped class yesterday. Wait, what are you doing right now?"
+
+//TEXT 【Zakuro】
+<enT0018>"Skipping class."
+<ptT0018>"Skipping class."
+
+//TEXT 【Mamiya】
+<enT0019>"Really?"
+<ptT0019>"Really?"
+
+//TEXT 【Zakuro】
+<enT0020>"Yes."
+<ptT0020>"Yes."
+
+//TEXT
+<enT0021>I sat down next to him.
+<ptT0021>I sat down next to him.
+
+//TEXT
+<enT0022>Maybe a little too close...
+<ptT0022>Maybe a little too close...
+
+//TEXT 【Zakuro】
+<enT0023>"Oh, here."
+<ptT0023>"Oh, here."
+
+//TEXT
+<enT0024>I gave him the book I had borrowed.
+<ptT0024>I gave him the book I had borrowed.
+
+//TEXT 【Mamiya】
+<enT0025>"Oh, Rodari. Did you like it?"
+<ptT0025>"Oh, Rodari. Did you like it?"
+
+//TEXT 【Zakuro】
+<enT0026>"Yeah, it was really interesting."
+<ptT0026>"Yeah, it was really interesting."
+
+//TEXT 【Mamiya】
+<enT0027>"Then I'm glad I lent it to you."
+<ptT0027>"Then I'm glad I lent it to you."
+
+//TEXT 【Zakuro】
+<enT0028>"..."
+<ptT0028>"..."
+
+//TEXT 【Zakuro】
+<enT0029>"What country is the author from?"
+<ptT0029>"What country is the author from?"
+
+//TEXT 【Mamiya】
+<enT0030>"Which do you think? There are hints in the story if you think about the places and buildings that show up... Can you remember?"
+<ptT0030>"Which do you think? There are hints in the story if you think about the places and buildings that show up... Can you remember?"
+
+//TEXT 【Zakuro】
+<enT0031>"Uh, there were lots of old Roman ruins in the story..."
+<ptT0031>"Uh, there were lots of old Roman ruins in the story..."
+
+//TEXT 【Mamiya】
+<enT0032>"Largo di Torre Argentina."
+<ptT0032>"Largo di Torre Argentina."
+
+//TEXT 【Zakuro】
+<enT0033>"Yeah, and there was also... Venice, the Garibaldi Bridge, and the Leaning Tower of Pisa. Does that mean he's from Italy?"
+<ptT0033>"Yeah, and there was also... Venice, the Garibaldi Bridge, and the Leaning Tower of Pisa. Does that mean he's from Italy?"
+
+//TEXT 【Mamiya】
+<enT0034>"Exactly. Gianni Rodari was a writer of children's stories in Italy."
+<ptT0034>"Exactly. Gianni Rodari was a writer of children's stories in Italy."
+
+//TEXT 【Zakuro】
+<enT0035>"You know a lot about writers, don't you?"
+<ptT0035>"You know a lot about writers, don't you?"
+
+//TEXT 【Mamiya】
+<enT0036>"Not at all. It's just easy to remember the authors you like, don't you think?"
+<ptT0036>"Not at all. It's just easy to remember the authors you like, don't you think?"
+
+//TEXT 【Zakuro】
+<enT0037>"Yeah..."
+<ptT0037>"Yeah..."
+
+//TEXT 【Zakuro】
+<enT0038>"What are you reading today?"
+<ptT0038>"What are you reading today?"
+
+//TEXT 【Mamiya】
+<enT0039>"Oh, nothing new... It's the same book as yesterday."
+<ptT0039>"Oh, nothing new... It's the same book as yesterday."
+
+//TEXT 【Zakuro】
+<enT0040>"The same book as yesterday?"
+<ptT0040>"The same book as yesterday?"
+
+//TEXT 【Zakuro】
+<enT0041>"The cover is different... and it's not even the same size."
+<ptT0041>"The cover is different... and it's not even the same size."
+
+//TEXT 【Mamiya】
+<enT0042>"I was just curious, so I tried it."
+<ptT0042>"I was just curious, so I tried it."
+
+//TEXT 【Zakuro】
+<enT0043>"Curious about what?"
+<ptT0043>"Curious about what?"
+
+//TEXT
+<enT0044>There were unfamiliar words printed in book he held up in front of me.
+<ptT0044>There were unfamiliar words printed in book he held up in front of me.
+
+//TEXT
+<enT0045>Beside him he had a notebook and...
+<ptT0045>Beside him he had a notebook and...
+
+//TEXT 【Zakuro】
+<enT0046>"A French dictionary... F-French?!"
+<ptT0046>"A French dictionary... F-French?!"
+
+//TEXT 【Mamiya】
+<enT0047>"Oh, well... I'm probably not understanding much of it. I was just curious."
+<ptT0047>"Oh, well... I'm probably not understanding much of it. I was just curious."
+
+//TEXT 【Zakuro】
+<enT0048>"Mamiya-kun, can you read French?"
+<ptT0048>"Mamiya-kun, can you read French?"
+
+//TEXT 【Mamiya】
+<enT0049>"Of course not. I just like to study it in my free time once in a while."
+<ptT0049>"Of course not. I just like to study it in my free time once in a while."
+
+//TEXT 【Zakuro】
+<enT0050>"But there are translations in your notebook..."
+<ptT0050>"But there are translations in your notebook..."
+
+//TEXT 【Mamiya】
+<enT0051>"Oh, that's just because I've read it so many times before. With a dictionary, I can at least translate a few of the lines."
+<ptT0051>"Oh, that's just because I've read it so many times before. With a dictionary, I can at least translate a few of the lines."
+
+//TEXT 【Mamiya】
+<enT0052>"But really, it's not a big deal."
+<ptT0052>"But really, it's not a big deal."
+
+//TEXT
+<enT0053>He hid the book away.
+<ptT0053>He hid the book away.
+
+//TEXT
+<enT0054>...
+<ptT0054>...
+
+//TEXT 【Zakuro】
+<enT0055>"Cyrano... de..."
+<ptT0055>"Cyrano... de..."
+
+//TEXT 【Mamiya】
+<enT0056>"Cyrano de Bergerac?"
+<ptT0056>"Cyrano de Bergerac?"
+
+//TEXT 【Zakuro】
+<enT0057>"Yeah... Do you think I could read it?"
+<ptT0057>"Yeah... Do you think I could read it?"
+
+//TEXT 【Mamiya】
+<enT0058>"Can you read French?"
+<ptT0058>"Can you read French?"
+
+//TEXT 【Zakuro】
+<enT0059>"Oh, that's not what I mean. The one you were reading before."
+<ptT0059>"Oh, that's not what I mean. The one you were reading before."
+
+//TEXT 【Mamiya】
+<enT0060>"Oh, like I said, anyone who's graduated from middle school could read that. Have you finished middle school?"
+<ptT0060>"Oh, like I said, anyone who's graduated from middle school could read that. Have you finished middle school?"
+
+//TEXT 【Zakuro】
+<enT0061>"Of course I have!"
+<ptT0061>"Of course I have!"
+
+//TEXT 【Mamiya】
+<enT0062>"Do you want to read it?"
+<ptT0062>"Do you want to read it?"
+
+//TEXT 【Zakuro】
+<enT0063>"Yes..."
+<ptT0063>"Yes..."
+
+//TEXT 【Mamiya】
+<enT0064>"Okay, then... Here."
+<ptT0064>"Okay, then... Here."
+
+//TEXT
+<enT0065>He gave me the book from yesterday.
+<ptT0065>He gave me the book from yesterday.
+
+//TEXT 【Zakuro】
+<enT0066>"Cyrano de Bergerac..."
+<ptT0066>"Cyrano de Bergerac..."
+
+//TEXT 【Mamiya】
+<enT0067>"It's an excellent, flowing translation."
+<ptT0067>"It's an excellent, flowing translation."
+
+//TEXT 【Zakuro】
+<enT0068>"Thank you."
+<ptT0068>"Thank you."
+
+//TEXT 【Mamiya】
+<enT0069>"So that book caught your eye?"
+<ptT0069>"So that book caught your eye?"
+
+//TEXT
+<enT0070>Well, it's the book you were reading so intently...
+<ptT0070>Well, it's the book you were reading so intently...
+
+//TEXT
+<enT0071>Though I could never say that.
+<ptT0071>Though I could never say that.
+
+//TEXT 【Zakuro】
+<enT0072>"It sounded really interesting when I heard you talk about it."
+<ptT0072>"It sounded really interesting when I heard you talk about it."
+
+//TEXT 【Mamiya】
+<enT0073>"It really is a good book."
+<ptT0073>"It really is a good book."
+
+//TEXT 【Zakuro】
+<enT0074>"Yeah..."
+<ptT0074>"Yeah..."
+
+//TEXT 【Zakuro】
+<enT0075>"You've read this book quite a few times, then."
+<ptT0075>"You've read this book quite a few times, then."
+
+//TEXT 【Mamiya】
+<enT0076>"Well, it's a play, so it's not as long as it looks. I just ended up reading it over a few times."
+<ptT0076>"Well, it's a play, so it's not as long as it looks. I just ended up reading it over a few times."
+
+//TEXT 【Zakuro】
+<enT0077>"Not because you particularly like it?"
+<ptT0077>"Not because you particularly like it?"
+
+//TEXT 【Mamiya】
+<enT0078>"I wonder... I'm not sure, but there definitely aren't many other books that have made me want to read the original text."
+<ptT0078>"I wonder... I'm not sure, but there definitely aren't many other books that have made me want to read the original text."
+
+//TEXT 【Zakuro】
+<enT0079>"Have you done that for other books?"
+<ptT0079>"Have you done that for other books?"
+
+//TEXT 【Mamiya】
+<enT0080>"Just a few pages. I always give up after a while."
+<ptT0080>"Just a few pages. I always give up after a while."
+
+//TEXT 【Mamiya】
+<enT0081>"I guess, in a way... I do really like it, since I've filled up a couple notebooks translating it as I read."
+<ptT0081>"I guess, in a way... I do really like it, since I've filled up a couple notebooks translating it as I read."
+
+//TEXT 【Zakuro】
+<enT0082>"I see..."
+<ptT0082>"I see..."
+
+//TEXT
+<enT0083>He said it was a story about an ugly man... Why was Mamiya-kun so captivated by this play?
+<ptT0083>He said it was a story about an ugly man... Why was Mamiya-kun so captivated by this play?
+
+//TEXT
+<enT0084>And he said it was about unrequited true love...
+<ptT0084>And he said it was about unrequited true love...
+
+//TEXT
+<enT0085>Does that mean...
+<ptT0085>Does that mean...
+
+//TEXT 【Zakuro】
+<enT0086>"Mamiya-kun... Have you ever experienced unrequited love?"
+<ptT0086>"Mamiya-kun... Have you ever experienced unrequited love?"
+
+//TEXT 【Mamiya】
+<enT0087>"...Where did that come from?"
+<ptT0087>"...Where did that come from?"
+
+//TEXT 【Zakuro】
+<enT0088>"Oh, nevermind... I'm sorry."
+<ptT0088>"Oh, nevermind... I'm sorry."
+
+//TEXT 【Mamiya】
+<enT0089>"You mean maybe that's why I like this book?"
+<ptT0089>"You mean maybe that's why I like this book?"
+
+//TEXT 【Zakuro】
+<enT0090>"Oh, no... Uh..."
+<ptT0090>"Oh, no... Uh..."
+
+//TEXT
+<enT0091>Maybe I was too straightforward... I must seem stupid...
+<ptT0091>Maybe I was too straightforward... I must seem stupid...
+
+//TEXT
+<enT0092>Does he like a book about unrequited love because he's experienced it... That was a stupid question.
+<ptT0092>Does he like a book about unrequited love because he's experienced it... That was a stupid question.
+
+//TEXT
+<enT0093>My face must have been beet red. Mamiya-kun looked at me and laughed... and then...
+<ptT0093>My face must have been beet red. Mamiya-kun looked at me and laughed... and then...
+
+//TEXT 【Mamiya】
+<enT0094>"I'm still human, you know? Of course I've experienced unrequited love."
+<ptT0094>"I'm still human, you know? Of course I've experienced unrequited love."
+
+//TEXT 【Mamiya】
+<enT0095>"A one-sided love that never reaches the object of one's affections... I've experienced that before."
+<ptT0095>"A one-sided love that never reaches the object of one's affections... I've experienced that before."
+
+//TEXT 【Zakuro】
+<enT0096>"..."
+<ptT0096>"..."
+
+//TEXT
+<enT0097>I kind of...
+<ptT0097>I kind of...
+
+//TEXT
+<enT0098>Felt a little... jealous.
+<ptT0098>Felt a little... jealous.
+
+//TEXT 【Mamiya】
+<enT0099>"Well, let's drop that subject. It's kind of embarrassing."
+<ptT0099>"Well, let's drop that subject. It's kind of embarrassing."
+
+//TEXT 【Zakuro】
+<enT0100>"Oh, sure... I'm sorry."
+<ptT0100>"Oh, sure... I'm sorry."
+
+//TEXT
+<enT0101>Embarrassing... It really was embarrassing.
+<ptT0101>Embarrassing... It really was embarrassing.
+
+//TEXT 【Mamiya】
+<enT0102>"The way you said that makes me wonder... Are you interested in it because of your own experiences with unrequited love?"
+<ptT0102>"The way you said that makes me wonder... Are you interested in it because of your own experiences with unrequited love?"
+
+//TEXT 【Zakuro】
+<enT0103>"Eh? Y-Yes!"
+<ptT0103>"Eh? Y-Yes!"
+
+//TEXT
+<enT0104>Wait, why did I answer that question? Am I stupid?
+<ptT0104>Wait, why did I answer that question? Am I stupid?
+
+//TEXT 【Mamiya】
+<enT0105>"I see. That must be tough... though it can be fun in its own way."
+<ptT0105>"I see. That must be tough... though it can be fun in its own way."
+
+//TEXT 【Zakuro】
+<enT0106>"Yes..."
+<ptT0106>"Yes..."
+
+//TEXT
+<enT0107>...
+<ptT0107>...
+
+//TEXT
+<enT0108>He can probably see straight through me.
+<ptT0108>He can probably see straight through me.
+
+//TEXT
+<enT0109>Jeez, it's like...
+<ptT0109>Jeez, it's like...
+
+//TEXT
+<enT0110>Just... what is going on?
+<ptT0110>Just... what is going on?
+
+//TEXT
+<enT0111>Today I borrowed another book from Mamiya-kun.
+<ptT0111>Today I borrowed another book from Mamiya-kun.
+
+//TEXT
+<enT0112>But today, unlike yesterday, it's one of Mamiya-kun's favorite plays.
+<ptT0112>But today, unlike yesterday, it's one of Mamiya-kun's favorite plays.
+
+//TEXT 【Zakuro】
+<enT0113>"Maybe I can get a little closer to Mamiya-kun..."
+<ptT0113>"Maybe I can get a little closer to Mamiya-kun..."
+
+//TEXT
+<enT0114>Maybe not.
+<ptT0114>Maybe not.
+
+//TEXT
+<enT0115>I can read it during the next class.
+<ptT0115>I can read it during the next class.
+
+//TEXT
+<enT0116>The Classical Literature teacher does nothing but write on the blackboard and talk in a monotone.
+<ptT0116>The Classical Literature teacher does nothing but write on the blackboard and talk in a monotone.
+
+//TEXT
+<enT0117>He won't even notice me reading in his class.
+<ptT0117>He won't even notice me reading in his class.
+
+//TEXT 【Zakuro】
+<enT0118>"Yeah... It's interesting."
+<ptT0118>"Yeah... It's interesting."
+
+//TEXT
+<enT0119>It didn't seem like an old book at all.
+<ptT0119>It didn't seem like an old book at all.
+
+//TEXT
+<enT0120>He said it was criticized for being old and dated when it was first published... and yet reading it after all these years, it didn't seem old at all.
+<ptT0120>He said it was criticized for being old and dated when it was first published... and yet reading it after all these years, it didn't seem old at all.
+
+//TEXT
+<enT0121>The protagonist, Cyrano, was kind of like Mamiya-kun.
+<ptT0121>The protagonist, Cyrano, was kind of like Mamiya-kun.
+
+//TEXT
+<enT0122>Though Mamiya-kun isn't ugly like Cyrano. He seems more like the beautiful man in the story, Christian (though I don't know what Christian would have actually looked like, since it's just text).
+<ptT0122>Though Mamiya-kun isn't ugly like Cyrano. He seems more like the beautiful man in the story, Christian (though I don't know what Christian would have actually looked like, since it's just text).
+
+//TEXT
+<enT0123>Cyrano is very ugly, but also intelligent and reliable.
+<ptT0123>Cyrano is very ugly, but also intelligent and reliable.
+
+//TEXT
+<enT0124>Mamiya-kun is intelligent and reliable, but also very handsome.
+<ptT0124>Mamiya-kun is intelligent and reliable, but also very handsome.
+
+//TEXT 【Zakuro】
+<enT0125>"His vocabulary is really good."
+<ptT0125>"His vocabulary is really good."
+
+//TEXT
+<enT0126>That could be said of both Cyrano and Mamiya-kun.
+<ptT0126>That could be said of both Cyrano and Mamiya-kun.
+
+//TEXT 【Zakuro】
+<enT0127>"The beautiful heroine, Roxanne, was captivated by Cyrano's voice, but..."
+<ptT0127>"The beautiful heroine, Roxanne, was captivated by Cyrano's voice, but..."
+
+//TEXT
+<enT0128>Listening to an intelligent person speak definitely is captivating...
+<ptT0128>Listening to an intelligent person speak definitely is captivating...
+
+//TEXT
+<enT0129>That happens to me when I listen to Mamiya-kun.
+<ptT0129>That happens to me when I listen to Mamiya-kun.
+
+//TEXT
+<enT0130>But...
+<ptT0130>But...
+
+//TEXT 【Mamiya】
+<enT0131>"It's just... it bugged me how the heroine in this manga wasn't a virgin, so I was gonna burn it and upload the video."
+<ptT0131>"It's just... it bugged me how the heroine in this manga wasn't a virgin, so I was gonna burn it and upload the video."
+
+//TEXT
+<enT0132>Sometimes he's like that.
+<ptT0132>Sometimes he's like that.
+
+//TEXT
+<enT0133>When he talks like that, he just seems pitiful.
+<ptT0133>When he talks like that, he just seems pitiful.
+
+//TEXT
+<enT0134>His voice is so beautiful, but what he's saying...
+<ptT0134>His voice is so beautiful, but what he's saying...
+
+//TEXT
+<enT0135>I can't even think of that as the same person.
+<ptT0135>I can't even think of that as the same person.
+
+//TEXT 【Zakuro】
+<enT0136>"Why would Mamiya-kun say something crude like that?"
+<ptT0136>"Why would Mamiya-kun say something crude like that?"
+
+//TEXT 【Zakuro】
+<enT0137>"He burnt it because the girl wasn't a virgin... That's terrible."
+<ptT0137>"He burnt it because the girl wasn't a virgin... That's terrible."
+
+//TEXT
+<enT0138>That was when we first met.
+<ptT0138>That was when we first met.
+
+//TEXT
+<enT0139>Which means... maybe he was trying to deceive me...
+<ptT0139>Which means... maybe he was trying to deceive me...
+
+//TEXT
+<enT0140>Maybe he was intentionally acting like that...
+<ptT0140>Maybe he was intentionally acting like that...
+
+//TEXT
+<enT0141>Oh, actually...
+<ptT0141>Oh, actually...
+
+//TEXT 【Zakuro】
+<enT0142>"Come! Take it, and change..."
+<ptT0142>"Come! Take it, and change..."
+
+//TEXT 【Zakuro】
+<enT0143>"That was a line in Cyrano de Bergerac."
+<ptT0143>"That was a line in Cyrano de Bergerac."
+
+//TEXT 【Zakuro】
+<enT0144>"It was a line from the scene where Cyrano suggests that he could write love letters for Christian to send to Roxanne."
+<ptT0144>"It was a line from the scene where Cyrano suggests that he could write love letters for Christian to send to Roxanne."
+
+//TEXT
+<enT0145>The protagonist, Cyrano... He was a genius, but also incredibly ugly.
+<ptT0145>The protagonist, Cyrano... He was a genius, but also incredibly ugly.
+
+//TEXT
+<enT0146>He fell in love with a beautiful, intelligent woman named Roxanne.
+<ptT0146>He fell in love with a beautiful, intelligent woman named Roxanne.
+
+//TEXT
+<enT0147>But a beautiful woman would never fall in love with such a hideous man.
+<ptT0147>But a beautiful woman would never fall in love with such a hideous man.
+
+//TEXT
+<enT0148>A love that could never be requited...
+<ptT0148>A love that could never be requited...
+
+//TEXT
+<enT0149>That's what he thought.
+<ptT0149>That's what he thought.
+
+//TEXT
+<enT0150>He met a man named Christian, whose only virtue was that he was incredibly handsome.
+<ptT0150>He met a man named Christian, whose only virtue was that he was incredibly handsome.
+
+//TEXT
+<enT0151>He too had fallen in love with Roxanne, but a brilliant woman like Roxanne would never fall in love with a constantly tongue-tied man like him just because he was handsome.
+<ptT0151>He too had fallen in love with Roxanne, but a brilliant woman like Roxanne would never fall in love with a constantly tongue-tied man like him just because he was handsome.
+
+//TEXT
+<enT0152>Then Cyrano came up with a plan.
+<ptT0152>Then Cyrano came up with a plan.
+
+//TEXT
+<enT0153>Christian would profess his love with the words that Cyrano had written.
+<ptT0153>Christian would profess his love with the words that Cyrano had written.
+
+//TEXT
+<enT0154>When he suggested it to Christian, this is what he said:
+<ptT0154>When he suggested it to Christian, this is what he said:
+
+//TEXT 【Zakuro】
+<enT0155>"Come! Take it, and change..."
+<ptT0155>"Come! Take it, and change..."
+
+//TEXT
+<enT0156>Then... when Mamiya-kun acted like that...
+<ptT0156>Then... when Mamiya-kun acted like that...
+
+//TEXT
+<enT0157>Maybe it wasn't really him...
+<ptT0157>Maybe it wasn't really him...
+
+//TEXT
+<enT0158>Maybe he was telling me, 'Take it!'...
+<ptT0158>Maybe he was telling me, 'Take it!'...
+
+//TEXT 【Zakuro】
+<enT0159>"Ahahahaha... Reality could never be that sweet."
+<ptT0159>"Ahahahaha... Reality could never be that sweet."
+
+//TEXT
+<enT0160>It couldn't be... After that, he said, "feigned love-words into true." That would make the strange, pitiful Mamiya-kun the real one.
+<ptT0160>It couldn't be... After that, he said, "feigned love-words into true." That would make the strange, pitiful Mamiya-kun the real one.
+
+//TEXT 【Zakuro】
+<enT0161>"That wouldn't be good at all."
+<ptT0161>"That wouldn't be good at all."
+
+//TEXT
+<enT0162>Mamiya-kun's favorite play, Cyrano de Bergerac...
+<ptT0162>Mamiya-kun's favorite play, Cyrano de Bergerac...
+
+//TEXT
+<enT0163>A story about an ugly genius and a beautiful idiot working together to seduce a woman...
+<ptT0163>A story about an ugly genius and a beautiful idiot working together to seduce a woman...
+
+//TEXT
+<enT0164>Cyrano has the soul and Christian has the body...
+<ptT0164>Cyrano has the soul and Christian has the body...
+
+//TEXT
+<enT0165>By the way, Christian was the kind of man who got so flustered in front of the woman he loved that he could barely even speak.
+<ptT0165>By the way, Christian was the kind of man who got so flustered in front of the woman he loved that he could barely even speak.
+
+//TEXT
+<enT0166>If you think about it like that, the intelligent Christian with Cyrano's soul, and the stupid Christian without it...
+<ptT0166>If you think about it like that, the intelligent Christian with Cyrano's soul, and the stupid Christian without it...
+
+//TEXT
+<enT0167>It's just like the intelligent Mamiya-kun and the strange one.
+<ptT0167>It's just like the intelligent Mamiya-kun and the strange one.
+
+//TEXT
+<enT0168>Huh?
+<ptT0168>Huh?
+
+//TEXT
+<enT0169>Could there be... two of him?
+<ptT0169>Could there be... two of him?
+
+//TEXT
+<enT0170>Maybe there's a stupid yet handsome Mamiya-kun and an ugly but smart Mamiya-kun.
+<ptT0170>Maybe there's a stupid yet handsome Mamiya-kun and an ugly but smart Mamiya-kun.
+
+//TEXT 【Zakuro】
+<enT0171>"That's impossible, huh..."
+<ptT0171>"That's impossible, huh..."
+
+//TEXT
+<enT0172>In Cyrano de Bergerac, Christian's voice changed when Cyrano talked.
+<ptT0172>In Cyrano de Bergerac, Christian's voice changed when Cyrano talked.
+
+//TEXT
+<enT0173>Of course, it was like someone else was dubbed in over his voice.
+<ptT0173>Of course, it was like someone else was dubbed in over his voice.
+
+//TEXT
+<enT0174>But Mamiya-kun's voice didn't change.
+<ptT0174>But Mamiya-kun's voice didn't change.
+
+//TEXT
+<enT0175>They both sounded like Mamiya-kun.
+<ptT0175>They both sounded like Mamiya-kun.
+
+//TEXT
+<enT0176>Their voices were the same, but the words they used were so different...
+<ptT0176>Their voices were the same, but the words they used were so different...
+
+//TEXT
+<enT0177>Completely different.
+<ptT0177>Completely different.
+
+//TEXT
+<enT0178>...
+<ptT0178>...
+
+//TEXT 【Zakuro】
+<enT0179>"Though, I've..."
+<ptT0179>"Though, I've..."
+
+//TEXT 【Zakuro】
+<enT0180>"Been thinking about Mamiya-kun all day..."
+<ptT0180>"Been thinking about Mamiya-kun all day..."
+
+//TEXT 【Zakuro】
+<enT0181>"Ahahahaha..."
+<ptT0181>"Ahahahaha..."
+
+//TEXT
+<enT0182>It has to be love.
+<ptT0182>It has to be love.
+
+//TEXT
+<enT0183>This is unrequited love.
+<ptT0183>This is unrequited love.
+
+//TEXT
+<enT0184>Yep.
+<ptT0184>Yep.
+
+//TEXT
+<enT0185>...
+<ptT0185>...
+
+//TEXT
+<enT0186>Yeah... That's right.
+<ptT0186>Yeah... That's right.
+
+//TEXT
+<enT0187>Totally unrequited love...
+<ptT0187>Totally unrequited love...
+
+//TEXT
+<enT0188>One-sided...
+<ptT0188>One-sided...
+
+//TEXT 【Zakuro】
+<enT0189>"Because..."
+<ptT0189>"Because..."
+
+//TEXT
+<enT0190>We could never be together.
+<ptT0190>We could never be together.
+
+//TEXT
+<enT0191>Mamiya-kun, with his handsome face and his vast intellect, is more like Roxanne than Christian or Cyrano.
+<ptT0191>Mamiya-kun, with his handsome face and his vast intellect, is more like Roxanne than Christian or Cyrano.
+
+//TEXT 【Zakuro】
+<enT0192>"Then I'm..."
+<ptT0192>"Then I'm..."
+
+//TEXT
+<enT0193>I'm not smart or beautiful...
+<ptT0193>I'm not smart or beautiful...
+
+//TEXT
+<enT0194>I'm neither Christian nor Cyrano... I'm no one.
+<ptT0194>I'm neither Christian nor Cyrano... I'm no one.
+
+//TEXT
+<enT0195>That's why...
+<ptT0195>That's why...
+
+//TEXT 【Zakuro】
+<enT0196>"My love could never be requited."
+<ptT0196>"My love could never be requited."
+
+//TEXT 【Zakuro】
+<enT0197>"That's right."
+<ptT0197>"That's right."
+
+//TEXT
+<enT0198>Everyone looks at me with disgust.
+<ptT0198>Everyone looks at me with disgust.
+
+//TEXT
+<enT0199>Until a few months ago, I was bullied.
+<ptT0199>Until a few months ago, I was bullied.
+
+//TEXT
+<enT0200>Recently, the bullying has stopped, though. I don't understand why.
+<ptT0200>Recently, the bullying has stopped, though. I don't understand why.
+
+//TEXT
+<enT0201>They bullied me so much, then one day, it suddenly stopped. That's why I'm always on edge.
+<ptT0201>They bullied me so much, then one day, it suddenly stopped. That's why I'm always on edge.
+
+//TEXT
+<enT0202>I'm always worried that I'll be plunged back into that hell.
+<ptT0202>I'm always worried that I'll be plunged back into that hell.
+
+//TEXT
+<enT0203>I'm always cautious not to offend anyone.
+<ptT0203>I'm always cautious not to offend anyone.
+
+//TEXT
+<enT0204>Trying not to annoy anyone... Trying to fit in...
+<ptT0204>Trying not to annoy anyone... Trying to fit in...
+
+//TEXT
+<enT0205>That's all I can think about.
+<ptT0205>That's all I can think about.
+
+//TEXT 【Zakuro】
+<enT0206>"Ahaha... I'm like a stalker..."
+<ptT0206>"Ahaha... I'm like a stalker..."
+
+//TEXT
+<enT0207>When I saw Mamiya-kun reading alone on the rooftop... I took a picture.
+<ptT0207>When I saw Mamiya-kun reading alone on the rooftop... I took a picture.
+
+//TEXT 【Zakuro】
+<enT0208>"He would probably hate me if he found it."
+<ptT0208>"He would probably hate me if he found it."
+
+//TEXT 【Zakuro】
+<enT0209>"But..."
+<ptT0209>"But..."
+
+//TEXT
+<enT0210>Why is he so cool when he's up there? He's completely different from any other time I see him.
+<ptT0210>Why is he so cool when he's up there? He's completely different from any other time I see him.
+
+//TEXT 【Zakuro】
+<enT0211>"Why is he so smart and cool? Ahahaha."
+<ptT0211>"Why is he so smart and cool? Ahahaha."
+
+//TEXT
+<enT0212>I didn't even realize until a moment later that I was rolling around in bed, unconsciously clutching his picture to my chest.
+<ptT0212>I didn't even realize until a moment later that I was rolling around in bed, unconsciously clutching his picture to my chest.
+
+//TEXT 【Zakuro】
+<enT0213>"This really makes me seem like a stalker, but tomorrow's Sunday... It should be fine."
+<ptT0213>"This really makes me seem like a stalker, but tomorrow's Sunday... It should be fine."
+
+//TEXT
+<enT0214>That excuse doesn't really make sense.
+<ptT0214>That excuse doesn't really make sense.
+
+//TEXT
+<enT0215>I know that.
+<ptT0215>I know that.
+
+//TEXT
+<enT0216>But I won't be able to see Mamiya-kun tomorrow.
+<ptT0216>But I won't be able to see Mamiya-kun tomorrow.
+
+//TEXT
+<enT0217>Though I do have the book he lent me.
+<ptT0217>Though I do have the book he lent me.
+
+//TEXT 【Zakuro】
+<enT0218>"Huh?"
+<ptT0218>"Huh?"
+
+//TEXT
+<enT0219>That's right... This is Mamiya-kun's book.
+<ptT0219>That's right... This is Mamiya-kun's book.
+
+//TEXT
+<enT0220>It's something he touched...
+<ptT0220>It's something he touched...
+
+//TEXT 【Zakuro】
+<enT0221>"W-Whoa!"
+<ptT0221>"W-Whoa!"
+
+//TEXT 【Zakuro】
+<enT0222>"Next time I take a bath... I won't wash this hand."
+<ptT0222>"Next time I take a bath... I won't wash this hand."
+
+//TEXT
+<enT0223>Though doing that might just confirm me as a stalker.
+<ptT0223>Though doing that might just confirm me as a stalker.
+
+//TEXT 【Zakuro】
+<enT0224>"Ahahaha. That's a joke. I just met him. There's no way I could fall in love that quickly."
+<ptT0224>"Ahahaha. That's a joke. I just met him. There's no way I could fall in love that quickly."
+
+//TEXT 【Zakuro】
+<enT0225>"Yeah, he's just really interesting, that's all."
+<ptT0225>"Yeah, he's just really interesting, that's all."
+
+//TEXT 【Zakuro】
+<enT0226>"There's no way I could become a normal girl. Only a normal girl could fall in love like that."
+<ptT0226>"There's no way I could become a normal girl. Only a normal girl could fall in love like that."
+
+//TEXT
+<enT0227>...
+<ptT0227>...
+
+//TEXT
+<enT0228>That's right...
+<ptT0228>That's right...
+
+//TEXT
+<enT0229>Nothing good has happened in the past when I started to feel like that about someone.
+<ptT0229>Nothing good has happened in the past when I started to feel like that about someone.
+
+//TEXT
+<enT0230>I should just stay in my room and keep my feelings to myself.
+<ptT0230>I should just stay in my room and keep my feelings to myself.
+
+//TEXT
+<enT0231>I'll just pretend it's a joke... I'll just keep it to myself... That's good enough for me.
+<ptT0231>I'll just pretend it's a joke... I'll just keep it to myself... That's good enough for me.
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0704.bss
+<ptZ0001>3_0704.bss
+
+//OTHER
+<enZ0002>July 4th
+<ptZ0002>July 4th
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>dayzk0704
+<ptZ0004>dayzk0704
+
+//OTHER
+<enZ0005>se022
+<ptZ0005>se022
+
+//OTHER
+<enZ0006>bgm003
+<ptZ0006>bgm003
+
+//OTHER
+<enZ0007>map021
+<ptZ0007>map021
+
+//OTHER
+<enZ0008>ev6009c3
+<ptZ0008>ev6009c3
+
+//OTHER
+<enZ0009>se030
+<ptZ0009>se030
+
+//OTHER
+<enZ0010>taku_004615
+<ptZ0010>taku_004615
+
+//OTHER
+<enZ0011>zaku_001803
+<ptZ0011>zaku_001803
+
+//OTHER
+<enZ0012>taku_004616
+<ptZ0012>taku_004616
+
+//OTHER
+<enZ0013>zaku_001804
+<ptZ0013>zaku_001804
+
+//OTHER
+<enZ0014>ev6009b3
+<ptZ0014>ev6009b3
+
+//OTHER
+<enZ0015>taku_004617
+<ptZ0015>taku_004617
+
+//OTHER
+<enZ0016>zaku_001805
+<ptZ0016>zaku_001805
+
+//OTHER
+<enZ0017>taku_004618
+<ptZ0017>taku_004618
+
+//OTHER
+<enZ0018>zaku_001806
+<ptZ0018>zaku_001806
+
+//OTHER
+<enZ0019>zaku_001807
+<ptZ0019>zaku_001807
+
+//OTHER
+<enZ0020>taku_004619
+<ptZ0020>taku_004619
+
+//OTHER
+<enZ0021>zaku_001808
+<ptZ0021>zaku_001808
+
+//OTHER
+<enZ0022>taku_004620
+<ptZ0022>taku_004620
+
+//OTHER
+<enZ0023>zaku_001809
+<ptZ0023>zaku_001809
+
+//OTHER
+<enZ0024>zaku_001810
+<ptZ0024>zaku_001810
+
+//OTHER
+<enZ0025>taku_004621
+<ptZ0025>taku_004621
+
+//OTHER
+<enZ0026>zaku_001811
+<ptZ0026>zaku_001811
+
+//OTHER
+<enZ0027>taku_004622
+<ptZ0027>taku_004622
+
+//OTHER
+<enZ0028>zaku_001812
+<ptZ0028>zaku_001812
+
+//OTHER
+<enZ0029>taku_004623
+<ptZ0029>taku_004623
+
+//OTHER
+<enZ0030>zaku_001813
+<ptZ0030>zaku_001813
+
+//OTHER
+<enZ0031>taku_004624
+<ptZ0031>taku_004624
+
+//OTHER
+<enZ0032>zaku_001814
+<ptZ0032>zaku_001814
+
+//OTHER
+<enZ0033>zaku_001815
+<ptZ0033>zaku_001815
+
+//OTHER
+<enZ0034>taku_004625
+<ptZ0034>taku_004625
+
+//OTHER
+<enZ0035>zaku_001816
+<ptZ0035>zaku_001816
+
+//OTHER
+<enZ0036>zaku_001817
+<ptZ0036>zaku_001817
+
+//OTHER
+<enZ0037>taku_004626
+<ptZ0037>taku_004626
+
+//OTHER
+<enZ0038>zaku_001818
+<ptZ0038>zaku_001818
+
+//OTHER
+<enZ0039>zaku_001819
+<ptZ0039>zaku_001819
+
+//OTHER
+<enZ0040>taku_004627
+<ptZ0040>taku_004627
+
+//OTHER
+<enZ0041>zaku_001820
+<ptZ0041>zaku_001820
+
+//OTHER
+<enZ0042>taku_004628
+<ptZ0042>taku_004628
+
+//OTHER
+<enZ0043>zaku_001821
+<ptZ0043>zaku_001821
+
+//OTHER
+<enZ0044>taku_004629
+<ptZ0044>taku_004629
+
+//OTHER
+<enZ0045>taku_004630
+<ptZ0045>taku_004630
+
+//OTHER
+<enZ0046>zaku_001822
+<ptZ0046>zaku_001822
+
+//OTHER
+<enZ0047>taku_004631
+<ptZ0047>taku_004631
+
+//OTHER
+<enZ0048>zaku_001823
+<ptZ0048>zaku_001823
+
+//OTHER
+<enZ0049>taku_004632
+<ptZ0049>taku_004632
+
+//OTHER
+<enZ0050>zaku_001824
+<ptZ0050>zaku_001824
+
+//OTHER
+<enZ0051>taku_004633
+<ptZ0051>taku_004633
+
+//OTHER
+<enZ0052>zaku_001825
+<ptZ0052>zaku_001825
+
+//OTHER
+<enZ0053>ev6009a3
+<ptZ0053>ev6009a3
+
+//OTHER
+<enZ0054>taku_004634
+<ptZ0054>taku_004634
+
+//OTHER
+<enZ0055>zaku_001826
+<ptZ0055>zaku_001826
+
+//OTHER
+<enZ0056>taku_004635
+<ptZ0056>taku_004635
+
+//OTHER
+<enZ0057>zaku_001827
+<ptZ0057>zaku_001827
+
+//OTHER
+<enZ0058>taku_004636
+<ptZ0058>taku_004636
+
+//OTHER
+<enZ0059>zaku_001828
+<ptZ0059>zaku_001828
+
+//OTHER
+<enZ0060>taku_004637
+<ptZ0060>taku_004637
+
+//OTHER
+<enZ0061>zaku_001829
+<ptZ0061>zaku_001829
+
+//OTHER
+<enZ0062>taku_004638
+<ptZ0062>taku_004638
+
+//OTHER
+<enZ0063>zaku_001830
+<ptZ0063>zaku_001830
+
+//OTHER
+<enZ0064>zaku_001831
+<ptZ0064>zaku_001831
+
+//OTHER
+<enZ0065>taku_004639
+<ptZ0065>taku_004639
+
+//OTHER
+<enZ0066>zaku_001832
+<ptZ0066>zaku_001832
+
+//OTHER
+<enZ0067>taku_004640
+<ptZ0067>taku_004640
+
+//OTHER
+<enZ0068>zaku_001833
+<ptZ0068>zaku_001833
+
+//OTHER
+<enZ0069>taku_004641
+<ptZ0069>taku_004641
+
+//OTHER
+<enZ0070>taku_004642
+<ptZ0070>taku_004642
+
+//OTHER
+<enZ0071>zaku_001834
+<ptZ0071>zaku_001834
+
+//OTHER
+<enZ0072>zaku_001835
+<ptZ0072>zaku_001835
+
+//OTHER
+<enZ0073>taku_004643
+<ptZ0073>taku_004643
+
+//OTHER
+<enZ0074>zaku_001836
+<ptZ0074>zaku_001836
+
+//OTHER
+<enZ0075>taku_004644
+<ptZ0075>taku_004644
+
+//OTHER
+<enZ0076>zaku_001837
+<ptZ0076>zaku_001837
+
+//OTHER
+<enZ0077>taku_004645
+<ptZ0077>taku_004645
+
+//OTHER
+<enZ0078>taku_004646
+<ptZ0078>taku_004646
+
+//OTHER
+<enZ0079>zaku_001838
+<ptZ0079>zaku_001838
+
+//OTHER
+<enZ0080>taku_004647
+<ptZ0080>taku_004647
+
+//OTHER
+<enZ0081>zaku_001839
+<ptZ0081>zaku_001839
+
+//OTHER
+<enZ0082>taku_004648
+<ptZ0082>taku_004648
+
+//OTHER
+<enZ0083>zaku_001840
+<ptZ0083>zaku_001840
+
+//OTHER
+<enZ0084>taku_004649
+<ptZ0084>taku_004649
+
+//OTHER
+<enZ0085>zaku_001841
+<ptZ0085>zaku_001841
+
+//OTHER
+<enZ0086>Black
+<ptZ0086>Black
+
+//OTHER
+<enZ0087>bg1014a
+<ptZ0087>bg1014a
+
+//OTHER
+<enZ0088>bgm020
+<ptZ0088>bgm020
+
+//OTHER
+<enZ0089>zaku_001842
+<ptZ0089>zaku_001842
+
+//OTHER
+<enZ0090>map029
+<ptZ0090>map029
+
+//OTHER
+<enZ0091>zaku_001843
+<ptZ0091>zaku_001843
+
+//OTHER
+<enZ0092>zaku_001844
+<ptZ0092>zaku_001844
+
+//OTHER
+<enZ0093>zaku_001845
+<ptZ0093>zaku_001845
+
+//OTHER
+<enZ0094>sp0072
+<ptZ0094>sp0072
+
+//OTHER
+<enZ0095>taku_004650
+<ptZ0095>taku_004650
+
+//OTHER
+<enZ0096>map009
+<ptZ0096>map009
+
+//OTHER
+<enZ0097>zaku_001846
+<ptZ0097>zaku_001846
+
+//OTHER
+<enZ0098>zaku_001847
+<ptZ0098>zaku_001847
+
+//OTHER
+<enZ0099>bgm017
+<ptZ0099>bgm017
+
+//OTHER
+<enZ0100>zaku_001848
+<ptZ0100>zaku_001848
+
+//OTHER
+<enZ0101>zaku_001849
+<ptZ0101>zaku_001849
+
+//OTHER
+<enZ0102>zaku_001850
+<ptZ0102>zaku_001850
+
+//OTHER
+<enZ0103>zaku_001851
+<ptZ0103>zaku_001851
+
+//OTHER
+<enZ0104>zaku_001852
+<ptZ0104>zaku_001852
+
+//OTHER
+<enZ0105>zaku_001853
+<ptZ0105>zaku_001853
+
+//OTHER
+<enZ0106>zaku_001854
+<ptZ0106>zaku_001854
+
+//OTHER
+<enZ0107>zaku_001855
+<ptZ0107>zaku_001855
+
+//OTHER
+<enZ0108>zaku_001856
+<ptZ0108>zaku_001856
+
+//OTHER
+<enZ0109>zaku_001857
+<ptZ0109>zaku_001857
+
+//OTHER
+<enZ0110>zaku_001858
+<ptZ0110>zaku_001858
+
+//OTHER
+<enZ0111>zaku_001859
+<ptZ0111>zaku_001859
+
+//OTHER
+<enZ0112>zaku_001860
+<ptZ0112>zaku_001860
+
+//OTHER
+<enZ0113>zaku_001861
+<ptZ0113>zaku_001861
+
+//OTHER
+<enZ0114>ev1009c
+<ptZ0114>ev1009c
+
+//OTHER
+<enZ0115>bgm004
+<ptZ0115>bgm004
+
+//OTHER
+<enZ0116>zaku_001862
+<ptZ0116>zaku_001862
+
+//OTHER
+<enZ0117>zaku_001863
+<ptZ0117>zaku_001863
+
+//OTHER
+<enZ0118>zaku_001864
+<ptZ0118>zaku_001864
+
+//OTHER
+<enZ0119>ev1009d
+<ptZ0119>ev1009d
+
+//OTHER
+<enZ0120>zaku_001865
+<ptZ0120>zaku_001865
+
+//OTHER
+<enZ0121>zaku_001866
+<ptZ0121>zaku_001866
+
+//OTHER
+<enZ0122>zaku_001867
+<ptZ0122>zaku_001867
+
+//OTHER
+<enZ0123>zaku_001868
+<ptZ0123>zaku_001868
+
+//OTHER
+<enZ0124>zaku_001869
+<ptZ0124>zaku_001869
+
+//OTHER
+<enZ0125>zaku_001870
+<ptZ0125>zaku_001870
+
+//OTHER
+<enZ0126>zaku_001871
+<ptZ0126>zaku_001871
+
+//OTHER
+<enZ0127>zaku_001872
+<ptZ0127>zaku_001872
+
+//OTHER
+<enZ0128>3_0705
+<ptZ0128>3_0705
+

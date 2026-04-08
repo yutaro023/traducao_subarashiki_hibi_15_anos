@@ -1,0 +1,3652 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Zakuro
+<ptN0002>Zakuro
+
+//NAME
+<enN0003>Doll
+<ptN0003>Doll
+
+//NAME
+<enN0004>Mysterious Person
+<ptN0004>Mysterious Person
+
+//NAME
+<enN0005>Book
+<ptN0005>Book
+
+///================================================================================
+
+//TEXT
+<enT0001>That day, it was afternoon by the time I realized all the other people had disappeared from the world.
+<ptT0001>That day, it was afternoon by the time I realized all the other people had disappeared from the world.
+
+//TEXT
+<enT0002>The first thing I noticed was that Kagami and Tsukasa were gone.
+<ptT0002>The first thing I noticed was that Kagami and Tsukasa were gone.
+
+//TEXT
+<enT0003>The house that had been so noisy before was now enveloped in silence. Not a single voice could be heard.
+<ptT0003>The house that had been so noisy before was now enveloped in silence. Not a single voice could be heard.
+
+//TEXT
+<enT0004>There was nothing but static on the TV no matter which channel I flipped to.
+<ptT0004>There was nothing but static on the TV no matter which channel I flipped to.
+
+//TEXT
+<enT0005>At first, I thought it was just a coincidence.
+<ptT0005>At first, I thought it was just a coincidence.
+
+//TEXT
+<enT0006>I thought Kagami and Tsukasa had gone home. I thought the TV antenna was just acting up.
+<ptT0006>I thought Kagami and Tsukasa had gone home. I thought the TV antenna was just acting up.
+
+//TEXT
+<enT0007>I walked around the room with sleepy eyes.
+<ptT0007>I walked around the room with sleepy eyes.
+
+//TEXT
+<enT0008>I didn't start to get anxious until I got in the shower.
+<ptT0008>I didn't start to get anxious until I got in the shower.
+
+//TEXT
+<enT0009>As the hot water pricked at my skin, my thoughts started to come together, and I began to notice that some things were off.
+<ptT0009>As the hot water pricked at my skin, my thoughts started to come together, and I began to notice that some things were off.
+
+//TEXT
+<enT0010>Since last night, I had hardly seen any other human beings.
+<ptT0010>Since last night, I had hardly seen any other human beings.
+
+//TEXT
+<enT0011>I took some milk out of the fridge.
+<ptT0011>I took some milk out of the fridge.
+
+//TEXT
+<enT0012>The stuff in the fridge hadn't gone bad. The power was still on.
+<ptT0012>The stuff in the fridge hadn't gone bad. The power was still on.
+
+//TEXT
+<enT0013>I looked at the clock. It was still ticking away the seconds.
+<ptT0013>I looked at the clock. It was still ticking away the seconds.
+
+//TEXT
+<enT0014>It ticked off each second, one by one, with a crisp sound.
+<ptT0014>It ticked off each second, one by one, with a crisp sound.
+
+//TEXT
+<enT0015>I sat on the floor and looked around.
+<ptT0015>I sat on the floor and looked around.
+
+//TEXT
+<enT0016>The room was really big.
+<ptT0016>The room was really big.
+
+//TEXT
+<enT0017>I'd been living in this house alone up until now, but this was the first time I'd felt like I was living alone.
+<ptT0017>I'd been living in this house alone up until now, but this was the first time I'd felt like I was living alone.
+
+//TEXT
+<enT0018>I chugged the rest of the milk and went back to my room.
+<ptT0018>I chugged the rest of the milk and went back to my room.
+
+//TEXT
+<enT0019>I turned on the computer.
+<ptT0019>I turned on the computer.
+
+//TEXT
+<enT0020>The servers were still up, so I could connect to the Internet.
+<ptT0020>The servers were still up, so I could connect to the Internet.
+
+//TEXT
+<enT0021>My email inbox was empty. Nothing new.
+<ptT0021>My email inbox was empty. Nothing new.
+
+//TEXT
+<enT0022>My anxiety grew.
+<ptT0022>My anxiety grew.
+
+//TEXT
+<enT0023>But then I felt a moment of relief.
+<ptT0023>But then I felt a moment of relief.
+
+//TEXT 【Yuki】
+<enT0024>"There are new posts."
+<ptT0024>"There are new posts."
+
+//TEXT
+<enT0025>The news site I visit had been updated, and there were new posts on the anonymous text board.
+<ptT0025>The news site I visit had been updated, and there were new posts on the anonymous text board.
+
+//TEXT
+<enT0026>Through the screen, I could feel the presence of people in the world.
+<ptT0026>Through the screen, I could feel the presence of people in the world.
+
+//TEXT
+<enT0027>The words were increasing. The words were expanding.
+<ptT0027>The words were increasing. The words were expanding.
+
+//TEXT
+<enT0028>Time kept ticking away.
+<ptT0028>Time kept ticking away.
+
+//TEXT
+<enT0029>Second by second, unchanging.
+<ptT0029>Second by second, unchanging.
+
+//TEXT
+<enT0030>But despite that...
+<ptT0030>But despite that...
+
+//TEXT
+<enT0031>Or perhaps... because of that?
+<ptT0031>Or perhaps... because of that?
+
+//TEXT
+<enT0032>The landscape had changed, like it was flickering. I felt a strange feeling every time the clock ticked away another second.
+<ptT0032>The landscape had changed, like it was flickering. I felt a strange feeling every time the clock ticked away another second.
+
+//TEXT
+<enT0033>It felt like the world was contracting.
+<ptT0033>It felt like the world was contracting.
+
+//TEXT 【Yuki】
+<enT0034>"Now that I think about it, why haven't I seen Kagami and Tsukasa since last night?"
+<ptT0034>"Now that I think about it, why haven't I seen Kagami and Tsukasa since last night?"
+
+//TEXT
+<enT0035>They were so insistent on staying here, but now...
+<ptT0035>They were so insistent on staying here, but now...
+
+//TEXT
+<enT0036>They had left without a word.
+<ptT0036>They had left without a word.
+
+//TEXT
+<enT0037>In that case, why didn't I just go press the intercom and ask?
+<ptT0037>In that case, why didn't I just go press the intercom and ask?
+
+//TEXT
+<enT0038>Their house was right next to mine. The two of them should've been over there.
+<ptT0038>Their house was right next to mine. The two of them should've been over there.
+
+//TEXT
+<enT0039>The words on the Internet were still increasing.
+<ptT0039>The words on the Internet were still increasing.
+
+//TEXT
+<enT0040>Words were being written on every site.
+<ptT0040>Words were being written on every site.
+
+//TEXT
+<enT0041>That was my proof that people still existed.
+<ptT0041>That was my proof that people still existed.
+
+//TEXT
+<enT0042>This wasn't an imaginary world. It was the real world, where the news was still being updated minute by minute.
+<ptT0042>This wasn't an imaginary world. It was the real world, where the news was still being updated minute by minute.
+
+//TEXT
+<enT0043>So why did I feel so uneasy?
+<ptT0043>So why did I feel so uneasy?
+
+//TEXT
+<enT0044>The words continued expanding, but I had this feeling like the world was contracting.
+<ptT0044>The words continued expanding, but I had this feeling like the world was contracting.
+
+//TEXT
+<enT0045>As the world shrunk, the words expanded.
+<ptT0045>As the world shrunk, the words expanded.
+
+//TEXT
+<enT0046>I turned the TV on again.
+<ptT0046>I turned the TV on again.
+
+//TEXT
+<enT0047>Static.
+<ptT0047>Static.
+
+//TEXT
+<enT0048>The signal was poor. Was the antenna mistuned?
+<ptT0048>The signal was poor. Was the antenna mistuned?
+
+//TEXT
+<enT0049>Words still flowed through the telephone line.
+<ptT0049>Words still flowed through the telephone line.
+
+//TEXT
+<enT0050>No, not just words. Images and even videos were showing up.
+<ptT0050>No, not just words. Images and even videos were showing up.
+
+//TEXT 【Yuki】
+<enT0051>"What's this feeling? What the... Ahaha."
+<ptT0051>"What's this feeling? What the... Ahaha."
+
+//TEXT
+<enT0052>The television screen was still full of static. It wasn't receiving anything.
+<ptT0052>The television screen was still full of static. It wasn't receiving anything.
+
+//TEXT
+<enT0053>36,000/86,400
+<ptT0053>36,000/86,400
+
+//TEXT
+<enT0054>36,100/86,400
+<ptT0054>36,100/86,400
+
+//TEXT 【Yuki】
+<enT0055>"Hmph. I give up."
+<ptT0055>"Hmph. I give up."
+
+//TEXT
+<enT0056>I brushed the hair out of my face as I let out a sardonic laugh and looked around the room.
+<ptT0056>I brushed the hair out of my face as I let out a sardonic laugh and looked around the room.
+
+//TEXT
+<enT0057>I looked out the window.
+<ptT0057>I looked out the window.
+
+//TEXT
+<enT0058>A large sunflower was blooming.
+<ptT0058>A large sunflower was blooming.
+
+//TEXT
+<enT0059>For some reason, it looked gloomy.
+<ptT0059>For some reason, it looked gloomy.
+
+//TEXT
+<enT0060>They say sunflowers face toward the sun when they bloom.
+<ptT0060>They say sunflowers face toward the sun when they bloom.
+
+//TEXT
+<enT0061>They're flowers that symbolize brightness.
+<ptT0061>They're flowers that symbolize brightness.
+
+//TEXT
+<enT0062>Regardless, the sunflower looked like a flower that had been put on someone's grave.
+<ptT0062>Regardless, the sunflower looked like a flower that had been put on someone's grave.
+
+//TEXT
+<enT0063>The sunflower's yellow color started to get on my nerves.
+<ptT0063>The sunflower's yellow color started to get on my nerves.
+
+//TEXT
+<enT0064>The static didn't stop.
+<ptT0064>The static didn't stop.
+
+//TEXT
+<enT0065>The words increased. The computer screen was covered in words.
+<ptT0065>The words increased. The computer screen was covered in words.
+
+//TEXT
+<enT0066>I took out my cellphone. I had zero bars of reception.
+<ptT0066>I took out my cellphone. I had zero bars of reception.
+
+//TEXT 【Yuki】
+<enT0067>"No signal at all?"
+<ptT0067>"No signal at all?"
+
+//TEXT
+<enT0068>All the wired devices were still working.
+<ptT0068>All the wired devices were still working.
+
+//TEXT
+<enT0069>But not a single radio signal was getting through.
+<ptT0069>But not a single radio signal was getting through.
+
+//TEXT 【Yuki】
+<enT0070>"Some sort of jamming, maybe?"
+<ptT0070>"Some sort of jamming, maybe?"
+
+//TEXT
+<enT0071>I tried the landline.
+<ptT0071>I tried the landline.
+
+//TEXT
+<enT0072>If I could use the Internet, I should've been able to use the phone.
+<ptT0072>If I could use the Internet, I should've been able to use the phone.
+
+//TEXT
+<enT0073>I could hear the phone ringing next door.
+<ptT0073>I could hear the phone ringing next door.
+
+//TEXT
+<enT0074>Are Kagami and Tsukasa not home?
+<ptT0074>Are Kagami and Tsukasa not home?
+
+//TEXT
+<enT0075>The atmosphere was unbearable. I got dressed and ran outside.
+<ptT0075>The atmosphere was unbearable. I got dressed and ran outside.
+
+//TEXT
+<enT0076>I stood in front of the Wakatsuki house.
+<ptT0076>I stood in front of the Wakatsuki house.
+
+//TEXT
+<enT0077>Why didn't they answer the phone? Shouldn't someone be upset by all the weird stuff happening?
+<ptT0077>Why didn't they answer the phone? Shouldn't someone be upset by all the weird stuff happening?
+
+//TEXT 【Yuki】
+<enT0078>"What's this?"
+<ptT0078>"What's this?"
+
+//TEXT
+<enT0079>When I tried to ring the doorbell, I realized...
+<ptT0079>When I tried to ring the doorbell, I realized...
+
+//TEXT
+<enT0080>This house had no nameplate. There was just a white ceramic plate there.
+<ptT0080>This house had no nameplate. There was just a white ceramic plate there.
+
+//TEXT 【Yuki】
+<enT0081>"Ah..."
+<ptT0081>"Ah..."
+
+//TEXT
+<enT0082>I walked to the station.
+<ptT0082>I walked to the station.
+
+//TEXT
+<enT0083>The trains were running like normal.
+<ptT0083>The trains were running like normal.
+
+//TEXT
+<enT0084>But no one was there.
+<ptT0084>But no one was there.
+
+//TEXT
+<enT0085>It wasn't a terribly large station, but it wasn't so small that the lack of people seemed normal, either.
+<ptT0085>It wasn't a terribly large station, but it wasn't so small that the lack of people seemed normal, either.
+
+//TEXT
+<enT0086>A train came into the station.
+<ptT0086>A train came into the station.
+
+//TEXT
+<enT0087>There was no announcement.
+<ptT0087>There was no announcement.
+
+//TEXT
+<enT0088>I couldn't help but laugh.
+<ptT0088>I couldn't help but laugh.
+
+//TEXT 【Yuki】
+<enT0089>"If every trace of humanity was gone, then it wouldn't be that scary, but..."
+<ptT0089>"If every trace of humanity was gone, then it wouldn't be that scary, but..."
+
+//TEXT
+<enT0090>Existences flickered before me. They were existences that I couldn't see or touch.
+<ptT0090>Existences flickered before me. They were existences that I couldn't see or touch.
+
+//TEXT 【Yuki】
+<enT0091>"Ahaha... What is this? This is just like that ride from yesterday."
+<ptT0091>"Ahaha... What is this? This is just like that ride from yesterday."
+
+//TEXT
+<enT0092>The Spirit Room.
+<ptT0092>The Spirit Room.
+
+//TEXT
+<enT0093>Lifestyles that continued despite the people being cut out of them.
+<ptT0093>Lifestyles that continued despite the people being cut out of them.
+
+//TEXT
+<enT0094>The gondola that kept moving forward and forward.
+<ptT0094>The gondola that kept moving forward and forward.
+
+//TEXT
+<enT0095>I rode the train.
+<ptT0095>I rode the train.
+
+//TEXT
+<enT0096>36,427/86,400
+<ptT0096>36,427/86,400
+
+//TEXT
+<enT0097>43,200/86,400
+<ptT0097>43,200/86,400
+
+//TEXT
+<enT0098>I didn't see anyone even after coming all the way out here.
+<ptT0098>I didn't see anyone even after coming all the way out here.
+
+//TEXT
+<enT0099>No one was at school. Even in Suginomiya, I didn't see anyone.
+<ptT0099>No one was at school. Even in Suginomiya, I didn't see anyone.
+
+//TEXT
+<enT0100>"Maybe you didn't see anyone because it's the weekend?"
+<ptT0100>"Maybe you didn't see anyone because it's the weekend?"
+
+//TEXT 【Yuki】
+<enT0101>"Ahaha. Still, it's weird that I didn't see anyone at all."
+<ptT0101>"Ahaha. Still, it's weird that I didn't see anyone at all."
+
+//TEXT 【Yuki】
+<enT0102>"Where are we?"
+<ptT0102>"Where are we?"
+
+//TEXT 【Zakuro】
+<enT0103>"Is there any meaning in that question?"
+<ptT0103>"Is there any meaning in that question?"
+
+//TEXT 【Yuki】
+<enT0104>"Who cares if there's meaning? Of course I'm going to ask! That's just natural!"
+<ptT0104>"Who cares if there's meaning? Of course I'm going to ask! That's just natural!"
+
+//TEXT 【Zakuro】
+<enT0105>"Natural, is it?"
+<ptT0105>"Natural, is it?"
+
+//TEXT 【Zakuro】
+<enT0106>"Well then, I'll answer you."
+<ptT0106>"Well then, I'll answer you."
+
+//TEXT 【Zakuro】
+<enT0107>"This is the roof of the tallest building of Kita High, Building C."
+<ptT0107>"This is the roof of the tallest building of Kita High, Building C."
+
+//TEXT 【Zakuro】
+<enT0108>"The closest place to the sky."
+<ptT0108>"The closest place to the sky."
+
+//TEXT 【Yuki】
+<enT0109>"No, that's not what I mean. This whole city."
+<ptT0109>"No, that's not what I mean. This whole city."
+
+//TEXT 【Zakuro】
+<enT0110>"This ward is called Suginomiya."
+<ptT0110>"This ward is called Suginomiya."
+
+//TEXT 【Yuki】
+<enT0111>"That's not it. I didn't meet anyone on my way here, but there are still signs of human existence."
+<ptT0111>"That's not it. I didn't meet anyone on my way here, but there are still signs of human existence."
+
+//TEXT 【Zakuro】
+<enT0112>"The world is nothing but the world. If you ask what 'the world where I didn't meet anyone' is, there's nothing to say except that it is 'the world where you didn't meet anyone.'"
+<ptT0112>"The world is nothing but the world. If you ask what 'the world where I didn't meet anyone' is, there's nothing to say except that it is 'the world where you didn't meet anyone.'"
+
+//TEXT 【Yuki】
+<enT0113>"That's not what I mean!"
+<ptT0113>"That's not what I mean!"
+
+//TEXT 【Zakuro】
+<enT0114>"I brought some tea. Would you like to have some?"
+<ptT0114>"I brought some tea. Would you like to have some?"
+
+//TEXT 【Yuki】
+<enT0115>"Tea?"
+<ptT0115>"Tea?"
+
+//TEXT 【Zakuro】
+<enT0116>"Yes."
+<ptT0116>"Yes."
+
+//TEXT
+<enT0117>The roof and the tea set.
+<ptT0117>The roof and the tea set.
+
+//TEXT
+<enT0118>Takashima-san and I.
+<ptT0118>Takashima-san and I.
+
+//TEXT
+<enT0119>The texture of the teacup Takashima-san handed me.
+<ptT0119>The texture of the teacup Takashima-san handed me.
+
+//TEXT
+<enT0120>I smelled an aroma coming from the tea.
+<ptT0120>I smelled an aroma coming from the tea.
+
+//TEXT
+<enT0121>Earl Gray filled my nostrils.
+<ptT0121>Earl Gray filled my nostrils.
+
+//TEXT 【Zakuro】
+<enT0122>"I picked out the best leaves. Please, relax."
+<ptT0122>"I picked out the best leaves. Please, relax."
+
+//TEXT
+<enT0123>The bitter taste and pleasant aroma grew within my mouth.
+<ptT0123>The bitter taste and pleasant aroma grew within my mouth.
+
+//TEXT
+<enT0124>I glanced up at the sky.
+<ptT0124>I glanced up at the sky.
+
+//TEXT
+<enT0125>The blue sky stretched as far as the eye could see.
+<ptT0125>The blue sky stretched as far as the eye could see.
+
+//TEXT
+<enT0126>The sunlight.
+<ptT0126>The sunlight.
+
+//TEXT
+<enT0127>The sound of the wind.
+<ptT0127>The sound of the wind.
+
+//TEXT
+<enT0128>Every sensation seemed to affirm the reality of this world.
+<ptT0128>Every sensation seemed to affirm the reality of this world.
+
+//TEXT 【Zakuro】
+<enT0129>"The internal world."
+<ptT0129>"The internal world."
+
+//TEXT
+<enT0130>She let those words hang in the air.
+<ptT0130>She let those words hang in the air.
+
+//TEXT 【Zakuro】
+<enT0131>"The internal world and the external world."
+<ptT0131>"The internal world and the external world."
+
+//TEXT 【Zakuro】
+<enT0132>"Do you think they exist?"
+<ptT0132>"Do you think they exist?"
+
+//TEXT 【Zakuro】
+<enT0133>"Is everything you're feeling right now part of the external world? Or part of the internal world?"
+<ptT0133>"Is everything you're feeling right now part of the external world? Or part of the internal world?"
+
+//TEXT 【Zakuro】
+<enT0134>"Is this blue sky part of your internal world? Or is it part of the external world?"
+<ptT0134>"Is this blue sky part of your internal world? Or is it part of the external world?"
+
+//TEXT 【Zakuro】
+<enT0135>"It is as if we each have our own internal world, and we only feel that we are all inhabiting a communal external world."
+<ptT0135>"It is as if we each have our own internal world, and we only feel that we are all inhabiting a communal external world."
+
+//TEXT 【Zakuro】
+<enT0136>"So how does one reach the external world which we share?"
+<ptT0136>"So how does one reach the external world which we share?"
+
+//TEXT 【Yuki】
+<enT0137>"Reach..."
+<ptT0137>"Reach..."
+
+//TEXT 【Zakuro】
+<enT0138>"By what means can a person truly know the world?"
+<ptT0138>"By what means can a person truly know the world?"
+
+//TEXT 【Zakuro】
+<enT0139>"And by what means can a person come to false conclusions about the world?"
+<ptT0139>"And by what means can a person come to false conclusions about the world?"
+
+//TEXT 【Zakuro】
+<enT0140>"Is there a way to determine whether a perception is correct?"
+<ptT0140>"Is there a way to determine whether a perception is correct?"
+
+//TEXT 【Zakuro】
+<enT0141>"Is there a limit to human knowledge? If so, in what form does that limit exist?"
+<ptT0141>"Is there a limit to human knowledge? If so, in what form does that limit exist?"
+
+//TEXT 【Yuki】
+<enT0142>"What are you talking about all of a sudden?"
+<ptT0142>"What are you talking about all of a sudden?"
+
+//TEXT 【Zakuro】
+<enT0143>"Nothing. I just answered your question with more questions."
+<ptT0143>"Nothing. I just answered your question with more questions."
+
+//TEXT 【Zakuro】
+<enT0144>"Is this world right here your internal world? Or is it the external world?"
+<ptT0144>"Is this world right here your internal world? Or is it the external world?"
+
+//TEXT 【Yuki】
+<enT0145>"The internal world and... the external world?"
+<ptT0145>"The internal world and... the external world?"
+
+//TEXT 【Zakuro】
+<enT0146>"Yes. The internal world and the external world."
+<ptT0146>"Yes. The internal world and the external world."
+
+//TEXT 【Zakuro】
+<enT0147>"It is from the external world that we get all information which can't be codified in language. It manifests in our consciousness through vision, the sense of touch, and all our other senses."
+<ptT0147>"It is from the external world that we get all information which can't be codified in language. It manifests in our consciousness through vision, the sense of touch, and all our other senses."
+
+//TEXT 【Zakuro】
+<enT0148>"External information, basic cognition, sense data. The nomenclature isn't important. We receive that information and use it to construct our inner worlds."
+<ptT0148>"External information, basic cognition, sense data. The nomenclature isn't important. We receive that information and use it to construct our inner worlds."
+
+//TEXT 【Zakuro】
+<enT0149>"If one believes that..."
+<ptT0149>"If one believes that..."
+
+//TEXT 【Zakuro】
+<enT0150>"Then the world has a two-layered structure, with an internal and external world."
+<ptT0150>"Then the world has a two-layered structure, with an internal and external world."
+
+//TEXT 【Zakuro】
+<enT0151>"In that case, how are those two worlds demarcated?"
+<ptT0151>"In that case, how are those two worlds demarcated?"
+
+//TEXT 【Zakuro】
+<enT0152>"Is the flavor of the tea you just drank part of the external world? Is it part of the internal world?"
+<ptT0152>"Is the flavor of the tea you just drank part of the external world? Is it part of the internal world?"
+
+//TEXT 【Zakuro】
+<enT0153>"How about the teacup you just touched? Is it part of the external world? Is it part of the internal world?"
+<ptT0153>"How about the teacup you just touched? Is it part of the external world? Is it part of the internal world?"
+
+//TEXT 【Zakuro】
+<enT0154>"The person you are looking at right now... Am I part of your internal world? Am I part of the external world?"
+<ptT0154>"The person you are looking at right now... Am I part of your internal world? Am I part of the external world?"
+
+//TEXT 【Zakuro】
+<enT0155>"The object that existed before the information came from the external world..."
+<ptT0155>"The object that existed before the information came from the external world..."
+
+//TEXT 【Zakuro】
+<enT0156>"What is the object that comes from the outside, and until what point is it external? From what point is it internal?"
+<ptT0156>"What is the object that comes from the outside, and until what point is it external? From what point is it internal?"
+
+//TEXT 【Zakuro】
+<enT0157>"An object becomes part of the internal world at the moment that one senses it through sight, sound, or any other sense."
+<ptT0157>"An object becomes part of the internal world at the moment that one senses it through sight, sound, or any other sense."
+
+//TEXT 【Zakuro】
+<enT0158>"So when can we reach this so-called external world?"
+<ptT0158>"So when can we reach this so-called external world?"
+
+//TEXT 【Zakuro】
+<enT0159>"So I answer your question thusly."
+<ptT0159>"So I answer your question thusly."
+
+//TEXT 【Zakuro】
+<enT0160>"Where are we?"
+<ptT0160>"Where are we?"
+
+//TEXT 【Zakuro】
+<enT0161>"Suginomiya Ward, Kita High, Building C, rooftop."
+<ptT0161>"Suginomiya Ward, Kita High, Building C, rooftop."
+
+//TEXT 【Zakuro】
+<enT0162>"I cannot give you a better answer than that."
+<ptT0162>"I cannot give you a better answer than that."
+
+//TEXT 【Zakuro】
+<enT0163>"I have no way of viewing any world other than the one I am looking at now. I have no way of finding out about the external world."
+<ptT0163>"I have no way of viewing any world other than the one I am looking at now. I have no way of finding out about the external world."
+
+//TEXT 【Zakuro】
+<enT0164>"I can only gain information through the context of my own inner world. I can only speak to those questions which I am capable of knowing the answer to."
+<ptT0164>"I can only gain information through the context of my own inner world. I can only speak to those questions which I am capable of knowing the answer to."
+
+//TEXT
+<enT0165>Takashima-san's expression was almost blank today.
+<ptT0165>Takashima-san's expression was almost blank today.
+
+//TEXT
+<enT0166>It was like her expression had vanished along with the people of the city.
+<ptT0166>It was like her expression had vanished along with the people of the city.
+
+//TEXT 【Yuki】
+<enT0167>"You sure know a lot of hard stuff, Takashima-san."
+<ptT0167>"You sure know a lot of hard stuff, Takashima-san."
+
+//TEXT 【Zakuro】
+<enT0168>"No. They're all thoughts that you've had."
+<ptT0168>"No. They're all thoughts that you've had."
+
+//TEXT 【Yuki】
+<enT0169>"..."
+<ptT0169>"..."
+
+//TEXT 【Zakuro】
+<enT0170>"I suppose you've realized by now."
+<ptT0170>"I suppose you've realized by now."
+
+//TEXT 【Yuki】
+<enT0171>"The identity of the girl who is the world itself is..."
+<ptT0171>"The identity of the girl who is the world itself is..."
+
+//TEXT 【Zakuro】
+<enT0172>"Yes."
+<ptT0172>"Yes."
+
+//TEXT 【Yuki】
+<enT0173>"Hey, Takashima-san."
+<ptT0173>"Hey, Takashima-san."
+
+//TEXT 【Zakuro】
+<enT0174>"Yes."
+<ptT0174>"Yes."
+
+//TEXT 【Yuki】
+<enT0175>"Could I touch you?"
+<ptT0175>"Could I touch you?"
+
+//TEXT 【Zakuro】
+<enT0176>"Yes, if that is what you desire."
+<ptT0176>"Yes, if that is what you desire."
+
+//TEXT
+<enT0177>I reached out to her.
+<ptT0177>I reached out to her.
+
+//TEXT
+<enT0178>The smell of her hair. The feel of her skin, her breath, her pulse. I could feel all of them.
+<ptT0178>The smell of her hair. The feel of her skin, her breath, her pulse. I could feel all of them.
+
+//TEXT 【Yuki】
+<enT0179>"You're warm."
+<ptT0179>"You're warm."
+
+//TEXT 【Zakuro】
+<enT0180>"Yes."
+<ptT0180>"Yes."
+
+//TEXT 【Yuki】
+<enT0181>"Why did everyone disappear?"
+<ptT0181>"Why did everyone disappear?"
+
+//TEXT 【Zakuro】
+<enT0182>"If there is no vessel or container for a liquid, then that liquid is unable to fill any space."
+<ptT0182>"If there is no vessel or container for a liquid, then that liquid is unable to fill any space."
+
+//TEXT 【Zakuro】
+<enT0183>"You were the one who whispered that this earth is not a vessel."
+<ptT0183>"You were the one who whispered that this earth is not a vessel."
+
+//TEXT 【Zakuro】
+<enT0184>"That is all."
+<ptT0184>"That is all."
+
+//TEXT 【Yuki】
+<enT0185>"A liquid without a vessel..."
+<ptT0185>"A liquid without a vessel..."
+
+//TEXT 【Yuki】
+<enT0186>"That's me?"
+<ptT0186>"That's me?"
+
+//TEXT 【Zakuro】
+<enT0187>"You could say that. Or you could say it's not."
+<ptT0187>"You could say that. Or you could say it's not."
+
+//TEXT 【Zakuro】
+<enT0188>"Putting that aside..."
+<ptT0188>"Putting that aside..."
+
+//TEXT 【Yuki】
+<enT0189>"What?"
+<ptT0189>"What?"
+
+//TEXT 【Zakuro】
+<enT0190>"Shall we go see the beginning and end of the sky together?"
+<ptT0190>"Shall we go see the beginning and end of the sky together?"
+
+//TEXT 【Yuki】
+<enT0191>"The beginning and end of the sky..."
+<ptT0191>"The beginning and end of the sky..."
+
+//TEXT 【Zakuro】
+<enT0192>"Yes. The final sky."
+<ptT0192>"Yes. The final sky."
+
+//TEXT
+<enT0193>The two of us looked up at the sky from the rooftop.
+<ptT0193>The two of us looked up at the sky from the rooftop.
+
+//TEXT
+<enT0194>We laid down and looked at the great blue sky.
+<ptT0194>We laid down and looked at the great blue sky.
+
+//TEXT
+<enT0195>Her head came up to my arm, so she ended up using it as a pillow.
+<ptT0195>Her head came up to my arm, so she ended up using it as a pillow.
+
+//TEXT 【Zakuro】
+<enT0196>"It doesn't hurt, does it?"
+<ptT0196>"It doesn't hurt, does it?"
+
+//TEXT 【Yuki】
+<enT0197>"Not at all."
+<ptT0197>"Not at all."
+
+//TEXT 【Zakuro】
+<enT0198>"I see."
+<ptT0198>"I see."
+
+//TEXT 【Yuki】
+<enT0199>"Takashima-san?"
+<ptT0199>"Takashima-san?"
+
+//TEXT 【Zakuro】
+<enT0200>"Yes."
+<ptT0200>"Yes."
+
+//TEXT 【Yuki】
+<enT0201>"Does my arm make a good pillow?"
+<ptT0201>"Does my arm make a good pillow?"
+
+//TEXT 【Zakuro】
+<enT0202>"Yes. It's very comfortable."
+<ptT0202>"Yes. It's very comfortable."
+
+//TEXT
+<enT0203>Takashima-san laughed.
+<ptT0203>Takashima-san laughed.
+
+//TEXT
+<enT0204>I definitely felt her. I could feel her touch, her fragrance, and her breath.
+<ptT0204>I definitely felt her. I could feel her touch, her fragrance, and her breath.
+
+//TEXT
+<enT0205>That's why I asked.
+<ptT0205>That's why I asked.
+
+//TEXT 【Yuki】
+<enT0206>"My smell, my pulse, my warmth..."
+<ptT0206>"My smell, my pulse, my warmth..."
+
+//TEXT 【Zakuro】
+<enT0207>"Heheh. Don't worry. They're all right here."
+<ptT0207>"Heheh. Don't worry. They're all right here."
+
+//TEXT 【Zakuro】
+<enT0208>"I'm not a figment of your imagination or an illusion, so long as you believe that to be so."
+<ptT0208>"I'm not a figment of your imagination or an illusion, so long as you believe that to be so."
+
+//TEXT
+<enT0209>If I believe, then I exist.
+<ptT0209>If I believe, then I exist.
+
+//TEXT 【Yuki】
+<enT0210>"Existence through belief... We're like gods."
+<ptT0210>"Existence through belief... We're like gods."
+
+//TEXT 【Zakuro】
+<enT0211>"Heheh. Not at all."
+<ptT0211>"Heheh. Not at all."
+
+//TEXT 【Zakuro】
+<enT0212>"That's an incredibly natural prerequisite."
+<ptT0212>"That's an incredibly natural prerequisite."
+
+//TEXT 【Zakuro】
+<enT0213>"Without belief in something, a person couldn't even muster the will to walk."
+<ptT0213>"Without belief in something, a person couldn't even muster the will to walk."
+
+//TEXT 【Yuki】
+<enT0214>"We aren't permitted to even walk through the maze of skepticism."
+<ptT0214>"We aren't permitted to even walk through the maze of skepticism."
+
+//TEXT 【Zakuro】
+<enT0215>"Your feet will falter when you begin to doubt whether the next step will plunge you into the abyss."
+<ptT0215>"Your feet will falter when you begin to doubt whether the next step will plunge you into the abyss."
+
+//TEXT 【Yuki】
+<enT0216>"Heh. In other words, don't doubt yourself."
+<ptT0216>"Heh. In other words, don't doubt yourself."
+
+//TEXT 【Zakuro】
+<enT0217>"That's not what I'm saying. There are myriad answers without questions worth asking."
+<ptT0217>"That's not what I'm saying. There are myriad answers without questions worth asking."
+
+//TEXT 【Zakuro】
+<enT0218>"I'm just saying that there's no meaning in asking them."
+<ptT0218>"I'm just saying that there's no meaning in asking them."
+
+//TEXT 【Zakuro】
+<enT0219>"After all..."
+<ptT0219>"After all..."
+
+//TEXT 【Zakuro】
+<enT0220>"Hah, haa..."
+<ptT0220>"Hah, haa..."
+
+//TEXT
+<enT0221>Her eyes suddenly started to droop.
+<ptT0221>Her eyes suddenly started to droop.
+
+//TEXT 【Zakuro】
+<enT0222>"Regardless of whether you believe or not, I'm happy here next to you."
+<ptT0222>"Regardless of whether you believe or not, I'm happy here next to you."
+
+//TEXT 【Zakuro】
+<enT0223>"It feels very, very nice."
+<ptT0223>"It feels very, very nice."
+
+//TEXT 【Zakuro】
+<enT0224>"The warmth of the person I love is comfortable. That's all. Hmm..."
+<ptT0224>"The warmth of the person I love is comfortable. That's all. Hmm..."
+
+//TEXT
+<enT0225>Takashima-san nuzzled into my arm, a tranquil expression on her face.
+<ptT0225>Takashima-san nuzzled into my arm, a tranquil expression on her face.
+
+//TEXT
+<enT0226>She said my arm was comfortable.
+<ptT0226>She said my arm was comfortable.
+
+//TEXT
+<enT0227>Was there any meaning in doubting her words?
+<ptT0227>Was there any meaning in doubting her words?
+
+//TEXT 【Zakuro】
+<enT0228>"Oh, how I wish I could stay here forever."
+<ptT0228>"Oh, how I wish I could stay here forever."
+
+//TEXT 【Yuki】
+<enT0229>"Forever? My arm would go numb."
+<ptT0229>"Forever? My arm would go numb."
+
+//TEXT 【Zakuro】
+<enT0230>"Not that I want to lay here forever. Just..."
+<ptT0230>"Not that I want to lay here forever. Just..."
+
+//TEXT 【Zakuro】
+<enT0231>"I want to stay in our world."
+<ptT0231>"I want to stay in our world."
+
+//TEXT 【Yuki】
+<enT0232>"Our world?"
+<ptT0232>"Our world?"
+
+//TEXT 【Zakuro】
+<enT0233>"Right. This world is you, and this world is me."
+<ptT0233>"Right. This world is you, and this world is me."
+
+//TEXT 【Yuki】
+<enT0234>"What do you mean?"
+<ptT0234>"What do you mean?"
+
+//TEXT 【Zakuro】
+<enT0235>"Who knows? What do I mean? Heheh."
+<ptT0235>"Who knows? What do I mean? Heheh."
+
+//TEXT
+<enT0236>The world was dyed red as the sun began to set.
+<ptT0236>The world was dyed red as the sun began to set.
+
+//TEXT
+<enT0237>Vega revealed her form in the eastern sky. Next, Deneb. Finally, Altair completed the shape of the Summer Triangle.
+<ptT0237>Vega revealed her form in the eastern sky. Next, Deneb. Finally, Altair completed the shape of the Summer Triangle.
+
+//TEXT
+<enT0238>An enormous triangle stretched across the Milky Way.
+<ptT0238>An enormous triangle stretched across the Milky Way.
+
+//TEXT
+<enT0239>Stars dashed across the sky.
+<ptT0239>Stars dashed across the sky.
+
+//TEXT
+<enT0240>The Summer Triangle approached the apex of the heavens.
+<ptT0240>The Summer Triangle approached the apex of the heavens.
+
+//TEXT 【Yuki】
+<enT0241>"The Summer Triangle is all the way up there."
+<ptT0241>"The Summer Triangle is all the way up there."
+
+//TEXT 【Zakuro】
+<enT0242>"Yes."
+<ptT0242>"Yes."
+
+//TEXT 【Yuki】
+<enT0243>"We're almost out of time. Today is the last, isn't it?"
+<ptT0243>"We're almost out of time. Today is the last, isn't it?"
+
+//TEXT 【Zakuro】
+<enT0244>"Yes."
+<ptT0244>"Yes."
+
+//TEXT 【Yuki】
+<enT0245>"The time is approaching when the girl of the sky will meet the girl who is the world itself, right?"
+<ptT0245>"The time is approaching when the girl of the sky will meet the girl who is the world itself, right?"
+
+//TEXT 【Zakuro】
+<enT0246>"Yes."
+<ptT0246>"Yes."
+
+//TEXT 【Zakuro】
+<enT0247>"Well then..."
+<ptT0247>"Well then..."
+
+//TEXT
+<enT0248>Takashima-san took the doll and held it over the fence.
+<ptT0248>Takashima-san took the doll and held it over the fence.
+
+//TEXT
+<enT0249>I silently waited for the sky.
+<ptT0249>I silently waited for the sky.
+
+//TEXT 【Zakuro】
+<enT0250>"Yuki-san."
+<ptT0250>"Yuki-san."
+
+//TEXT
+<enT0251>I opened my eyes when I heard her say my name.
+<ptT0251>I opened my eyes when I heard her say my name.
+
+//TEXT
+<enT0252>The doll she had thrown was floating in the air, and then it stood up.
+<ptT0252>The doll she had thrown was floating in the air, and then it stood up.
+
+//TEXT 【Yuki】
+<enT0253>"!"
+<ptT0253>"!"
+
+//TEXT
+<enT0254>I had thought that things were a little strange before, but this time I couldn't help but gasp at the sight before me.
+<ptT0254>I had thought that things were a little strange before, but this time I couldn't help but gasp at the sight before me.
+
+//TEXT 【Zakuro】
+<enT0255>"Excuse me, Mr. Stuffed Rabbit?"
+<ptT0255>"Excuse me, Mr. Stuffed Rabbit?"
+
+//TEXT 【Doll】
+<enT0256>"Yes?"
+<ptT0256>"Yes?"
+
+//TEXT 【Zakuro】
+<enT0257>"Are you the station master?"
+<ptT0257>"Are you the station master?"
+
+//TEXT 【Doll】
+<enT0258>"No, not at all."
+<ptT0258>"No, not at all."
+
+//TEXT 【Zakuro】
+<enT0259>"Then who are you?"
+<ptT0259>"Then who are you?"
+
+//TEXT 【Doll】
+<enT0260>"I'm the Rabbit Station Master."
+<ptT0260>"I'm the Rabbit Station Master."
+
+//TEXT 【Zakuro】
+<enT0261>"So you're Mr. Rabbit Station Master, then."
+<ptT0261>"So you're Mr. Rabbit Station Master, then."
+
+//TEXT 【Doll】
+<enT0262>"Yes. I'm Mr. Rabbit Station Master. Um, putting that aside..."
+<ptT0262>"Yes. I'm Mr. Rabbit Station Master. Um, putting that aside..."
+
+//TEXT
+<enT0263>The stuffed rabbit moved toward me.
+<ptT0263>The stuffed rabbit moved toward me.
+
+//TEXT
+<enT0264>He stopped in front of me and peered at me with eyes that looked like... No, eyes that really were buttons.
+<ptT0264>He stopped in front of me and peered at me with eyes that looked like... No, eyes that really were buttons.
+
+//TEXT 【Yuki】
+<enT0265>"What?"
+<ptT0265>"What?"
+
+//TEXT 【Doll】
+<enT0266>"Excuse me. Would you allow me to partake in one of your cigarettes?"
+<ptT0266>"Excuse me. Would you allow me to partake in one of your cigarettes?"
+
+//TEXT 【Yuki】
+<enT0267>"Sure..."
+<ptT0267>"Sure..."
+
+//TEXT
+<enT0268>I wondered why he was here, but for the moment, I just passed him a cigarette.
+<ptT0268>I wondered why he was here, but for the moment, I just passed him a cigarette.
+
+//TEXT 【Doll】
+<enT0269>"Oh... You have good taste. This is quite the rare brand."
+<ptT0269>"Oh... You have good taste. This is quite the rare brand."
+
+//TEXT 【Yuki】
+<enT0270>"Not really. It's sold at the convenience store, so it's not all that rare."
+<ptT0270>"Not really. It's sold at the convenience store, so it's not all that rare."
+
+//TEXT 【Doll】
+<enT0271>"Then that convenience store is what's rare."
+<ptT0271>"Then that convenience store is what's rare."
+
+//TEXT 【Yuki】
+<enT0272>"Convenience stores are everywhere."
+<ptT0272>"Convenience stores are everywhere."
+
+//TEXT 【Doll】
+<enT0273>"Are they now? Also, could you give me a light?"
+<ptT0273>"Are they now? Also, could you give me a light?"
+
+//TEXT
+<enT0274>He was awfully demanding for a stuffed toy.
+<ptT0274>He was awfully demanding for a stuffed toy.
+
+//TEXT 【Yuki】
+<enT0275>"Sure."
+<ptT0275>"Sure."
+
+//TEXT 【Doll】
+<enT0276>"Whoa, whoa, be careful with that. I'm really flammable, you know?"
+<ptT0276>"Whoa, whoa, be careful with that. I'm really flammable, you know?"
+
+//TEXT 【Yuki】
+<enT0277>"Then maybe you shouldn't be smoking?"
+<ptT0277>"Then maybe you shouldn't be smoking?"
+
+//TEXT 【Doll】
+<enT0278>"That's a good point. Ahaha."
+<ptT0278>"That's a good point. Ahaha."
+
+//TEXT
+<enT0279>He laughed, though he didn't seem to pay any heed to my warning.
+<ptT0279>He laughed, though he didn't seem to pay any heed to my warning.
+
+//TEXT
+<enT0280>86,383/86,400
+<ptT0280>86,383/86,400
+
+//TEXT
+<enT0281>He lit the cigarette.
+<ptT0281>He lit the cigarette.
+
+//TEXT 【Doll】
+<enT0282>"Haaa... It tastes really good."
+<ptT0282>"Haaa... It tastes really good."
+
+//TEXT 【Yuki】
+<enT0283>"Well, yeah."
+<ptT0283>"Well, yeah."
+
+//TEXT 【Doll】
+<enT0284>"You know, they say tobacco is bad for you, don't they?"
+<ptT0284>"You know, they say tobacco is bad for you, don't they?"
+
+//TEXT 【Yuki】
+<enT0285>"Yeah. It really is, you know?"
+<ptT0285>"Yeah. It really is, you know?"
+
+//TEXT 【Doll】
+<enT0286>"Actually, that's a lie."
+<ptT0286>"Actually, that's a lie."
+
+//TEXT 【Yuki】
+<enT0287>"No. It's definitely not a lie."
+<ptT0287>"No. It's definitely not a lie."
+
+//TEXT 【Doll】
+<enT0288>"You don't get it. You don't get it at all. You can say that so easily because you don't smoke yourself."
+<ptT0288>"You don't get it. You don't get it at all. You can say that so easily because you don't smoke yourself."
+
+//TEXT 【Yuki】
+<enT0289>"No, I smoke. Why else would I have cigarettes on me?"
+<ptT0289>"No, I smoke. Why else would I have cigarettes on me?"
+
+//TEXT 【Doll】
+<enT0290>"I guess you're right. That's another good point. Ahaha."
+<ptT0290>"I guess you're right. That's another good point. Ahaha."
+
+//TEXT
+<enT0291>He laughed me off. He really didn't care about my opinion at all.
+<ptT0291>He laughed me off. He really didn't care about my opinion at all.
+
+//TEXT
+<enT0292>The gray smoke disappeared into the darkness of the night.
+<ptT0292>The gray smoke disappeared into the darkness of the night.
+
+//TEXT
+<enT0293>86,394/86,400
+<ptT0293>86,394/86,400
+
+//TEXT
+<enT0294>86,395/86,400
+<ptT0294>86,395/86,400
+
+//TEXT
+<enT0295>86,396/86,400
+<ptT0295>86,396/86,400
+
+//TEXT
+<enT0296>86,397/86,400
+<ptT0296>86,397/86,400
+
+//TEXT 【Doll】
+<enT0297>"You know, they only recently discovered that tobacco isn't all that bad for you."
+<ptT0297>"You know, they only recently discovered that tobacco isn't all that bad for you."
+
+//TEXT 【Doll】
+<enT0298>"They actually discovered it's good for you. They did research and proved it."
+<ptT0298>"They actually discovered it's good for you. They did research and proved it."
+
+//TEXT 【Yuki】
+<enT0299>"What? Who did research like that?"
+<ptT0299>"What? Who did research like that?"
+
+//TEXT 【Doll】
+<enT0300>"The Ministry of Health and Welfare."
+<ptT0300>"The Ministry of Health and Welfare."
+
+//TEXT 【Yuki】
+<enT0301>"No way."
+<ptT0301>"No way."
+
+//TEXT 【Doll】
+<enT0302>"It's true. The newest statistical analysis bears it out. For young people, it's almost always good for the body."
+<ptT0302>"It's true. The newest statistical analysis bears it out. For young people, it's almost always good for the body."
+
+//TEXT 【Doll】
+<enT0303>"They say good medicine never tastes good, right? It's just like that."
+<ptT0303>"They say good medicine never tastes good, right? It's just like that."
+
+//TEXT 【Doll】
+<enT0304>"It means what's bitter is better for you."
+<ptT0304>"It means what's bitter is better for you."
+
+//TEXT 【Yuki】
+<enT0305>"That's wrong."
+<ptT0305>"That's wrong."
+
+//TEXT 【Doll】
+<enT0306>"It's not wrong."
+<ptT0306>"It's not wrong."
+
+//TEXT 【Yuki】
+<enT0307>"Then what about a poison that tastes bitter?"
+<ptT0307>"Then what about a poison that tastes bitter?"
+
+//TEXT 【Doll】
+<enT0308>"Well, of course poison is going to be bitter."
+<ptT0308>"Well, of course poison is going to be bitter."
+
+//TEXT 【Doll】
+<enT0309>"Poison and medicine are the same thing. Depending on how you take it and how much you use, poison can be medicine. That's why tobacco is a kind of medicine."
+<ptT0309>"Poison and medicine are the same thing. Depending on how you take it and how much you use, poison can be medicine. That's why tobacco is a kind of medicine."
+
+//TEXT 【Doll】
+<enT0310>"Right now, the majority party is advocating the classification of tobacco as a designated health food."
+<ptT0310>"Right now, the majority party is advocating the classification of tobacco as a designated health food."
+
+//TEXT 【Doll】
+<enT0311>"But still, this cigarette tastes really good."
+<ptT0311>"But still, this cigarette tastes really good."
+
+//TEXT
+<enT0312>What's up with this guy?
+<ptT0312>What's up with this guy?
+
+//TEXT
+<enT0313>He flicked the cigarette away. It slowly fell to the ground and scattered cinders into the air upon impact.
+<ptT0313>He flicked the cigarette away. It slowly fell to the ground and scattered cinders into the air upon impact.
+
+//TEXT
+<enT0314>86,398/86,400
+<ptT0314>86,398/86,400
+
+//TEXT
+<enT0315>His feet began to rise off the ground.
+<ptT0315>His feet began to rise off the ground.
+
+//TEXT
+<enT0316>86,399/86,400
+<ptT0316>86,399/86,400
+
+//TEXT
+<enT0317>00,000/86,400
+<ptT0317>00,000/86,400
+
+//TEXT
+<enT0318>He took out his pocket watch.
+<ptT0318>He took out his pocket watch.
+
+//TEXT 【Doll】
+<enT0319>"Please stay behind the white line. It's dangerous."
+<ptT0319>"Please stay behind the white line. It's dangerous."
+
+//TEXT 【Yuki】
+<enT0320>"White line?"
+<ptT0320>"White line?"
+
+//TEXT
+<enT0321>At some point the fence had disappeared, and it was replaced by a white line.
+<ptT0321>At some point the fence had disappeared, and it was replaced by a white line.
+
+//TEXT
+<enT0322>It felt like I could step right off the roof and into thin air.
+<ptT0322>It felt like I could step right off the roof and into thin air.
+
+//TEXT 【Yuki】
+<enT0323>"Huh... I guess anything can happen now."
+<ptT0323>"Huh... I guess anything can happen now."
+
+//TEXT 【Doll】
+<enT0324>"Not 'anything,' not anything at all. Come on, it's dangerous, so please step back."
+<ptT0324>"Not 'anything,' not anything at all. Come on, it's dangerous, so please step back."
+
+//TEXT 【Yuki】
+<enT0325>"What's that?"
+<ptT0325>"What's that?"
+
+//TEXT 【Doll】
+<enT0326>"Oh, the next steamer is a special direct train to the Summer Triangle. Please step away from the white line."
+<ptT0326>"Oh, the next steamer is a special direct train to the Summer Triangle. Please step away from the white line."
+
+//TEXT 【Yuki】
+<enT0327>"Steamer?"
+<ptT0327>"Steamer?"
+
+//TEXT 【Yuki】
+<enT0328>"What the hell?"
+<ptT0328>"What the hell?"
+
+//TEXT 【Zakuro】
+<enT0329>"This is what surprises you, not the fact that the doll is the station master? Heheh."
+<ptT0329>"This is what surprises you, not the fact that the doll is the station master? Heheh."
+
+//TEXT 【Yuki】
+<enT0330>"This is a steam train?"
+<ptT0330>"This is a steam train?"
+
+//TEXT 【Zakuro】
+<enT0331>"Yes. It's the Milky Way Railroad."
+<ptT0331>"Yes. It's the Milky Way Railroad."
+
+//TEXT 【Doll】
+<enT0332>"The doors are opening."
+<ptT0332>"The doors are opening."
+
+//TEXT 【Zakuro】
+<enT0333>"Well, let's go."
+<ptT0333>"Well, let's go."
+
+//TEXT 【Yuki】
+<enT0334>"What do you mean, 'let's go'?"
+<ptT0334>"What do you mean, 'let's go'?"
+
+//TEXT
+<enT0335>Suddenly the rooftop was overflowing with people, like a train station.
+<ptT0335>Suddenly the rooftop was overflowing with people, like a train station.
+
+//TEXT
+<enT0336>Though I had no idea what they were.
+<ptT0336>Though I had no idea what they were.
+
+//TEXT
+<enT0337>"Aren't you going to get on?"
+<ptT0337>"Aren't you going to get on?"
+
+//TEXT
+<enT0338>I suddenly heard a voice from behind me.
+<ptT0338>I suddenly heard a voice from behind me.
+
+//TEXT
+<enT0339>Even though no one was there a moment ago.
+<ptT0339>Even though no one was there a moment ago.
+
+//TEXT
+<enT0340>The man in front of me was covered in grime and wore tattered clothes.
+<ptT0340>The man in front of me was covered in grime and wore tattered clothes.
+
+//TEXT 【Yuki】
+<enT0341>"Oh, well..."
+<ptT0341>"Oh, well..."
+
+//TEXT 【Doll】
+<enT0342>"I'll inspect your tickets."
+<ptT0342>"I'll inspect your tickets."
+
+//TEXT
+<enT0343>A teddy bear came out of the train and stood in front of me.
+<ptT0343>A teddy bear came out of the train and stood in front of me.
+
+//TEXT 【Yuki】
+<enT0344>"Who are you?"
+<ptT0344>"Who are you?"
+
+//TEXT 【Doll】
+<enT0345>"I'm the conductor, of course. Come on, if you're going to get on, please show me your ticket."
+<ptT0345>"I'm the conductor, of course. Come on, if you're going to get on, please show me your ticket."
+
+//TEXT
+<enT0346>The conductor? He looked just like the stuffed animal that fell on me from the rooftop.
+<ptT0346>The conductor? He looked just like the stuffed animal that fell on me from the rooftop.
+
+//TEXT 【Zakuro】
+<enT0347>"Here."
+<ptT0347>"Here."
+
+//TEXT
+<enT0348>Takashima-san took a small gray ticket from her pocket.
+<ptT0348>Takashima-san took a small gray ticket from her pocket.
+
+//TEXT 【Doll】
+<enT0349>"And how about you?"
+<ptT0349>"And how about you?"
+
+//TEXT 【Yuki】
+<enT0350>"Oh, no, I don't..."
+<ptT0350>"Oh, no, I don't..."
+
+//TEXT
+<enT0351>Even if I wanted to get on this mysterious train, it's not like I had a ticket.
+<ptT0351>Even if I wanted to get on this mysterious train, it's not like I had a ticket.
+
+//TEXT
+<enT0352>I pulled out my pockets to show I didn't have anything and... pulled out a green piece of paper, about the size of a postcard, folded in four.
+<ptT0352>I pulled out my pockets to show I didn't have anything and... pulled out a green piece of paper, about the size of a postcard, folded in four.
+
+//TEXT
+<enT0353>When he saw the paper, he took it from my hand.
+<ptT0353>When he saw the paper, he took it from my hand.
+
+//TEXT 【Doll】
+<enT0354>"Let me see."
+<ptT0354>"Let me see."
+
+//TEXT
+<enT0355>The conductor stood very straight and unfolded the paper carefully.
+<ptT0355>The conductor stood very straight and unfolded the paper carefully.
+
+//TEXT
+<enT0356>Then, as he read it, he kept fidgeting and straightening the buttons on his jacket.
+<ptT0356>Then, as he read it, he kept fidgeting and straightening the buttons on his jacket.
+
+//TEXT
+<enT0357>What was that? Was it not a ticket after all?
+<ptT0357>What was that? Was it not a ticket after all?
+
+//TEXT
+<enT0358>The station master came over too, and they both peered up at the paper and studied it intensely.
+<ptT0358>The station master came over too, and they both peered up at the paper and studied it intensely.
+
+//TEXT
+<enT0359>I wondered if they were going to get mad at me...
+<ptT0359>I wondered if they were going to get mad at me...
+
+//TEXT 【Doll】
+<enT0360>"Hmm... You've got something really rare here. Did you bring this from three-dimensional space, sir?"
+<ptT0360>"Hmm... You've got something really rare here. Did you bring this from three-dimensional space, sir?"
+
+//TEXT
+<enT0361>The conductor asked me that while handing the ticket back to me, but I had no idea how to respond.
+<ptT0361>The conductor asked me that while handing the ticket back to me, but I had no idea how to respond.
+
+//TEXT 【Yuki】
+<enT0362>"Uh... I don't really know..."
+<ptT0362>"Uh... I don't really know..."
+
+//TEXT
+<enT0363>I opened the paper, and it proved to be ten strange characters printed in the middle of a black arabesque pattern.
+<ptT0363>I opened the paper, and it proved to be ten strange characters printed in the middle of a black arabesque pattern.
+
+//TEXT 【Yuki】
+<enT0364>"What's this..."
+<ptT0364>"What's this..."
+
+//TEXT 【Mysterious Person】
+<enT0365>"My, this is very valuable..."
+<ptT0365>"My, this is very valuable..."
+
+//TEXT 【Yuki】
+<enT0366>"Is it?"
+<ptT0366>"Is it?"
+
+//TEXT 【Mysterious Person】
+<enT0367>"I can't believe you could have something like this and not know about it... What you have here is a ticket that even lets you go to the real heaven."
+<ptT0367>"I can't believe you could have something like this and not know about it... What you have here is a ticket that even lets you go to the real heaven."
+
+//TEXT 【Mysterious Person】
+<enT0368>"Not just heaven, wherever you like. Why, if you have this, you ought to be able to go anywhere at all on the likes of this Milky Way Railway of the imperfect, illusory fourth dimension."
+<ptT0368>"Not just heaven, wherever you like. Why, if you have this, you ought to be able to go anywhere at all on the likes of this Milky Way Railway of the imperfect, illusory fourth dimension."
+
+//TEXT 【Mysterious Person】
+<enT0369>"No, this really is quite something..."
+<ptT0369>"No, this really is quite something..."
+
+//TEXT 【Doll】
+<enT0370>"We only stop at this station for five minutes. Please board the train."
+<ptT0370>"We only stop at this station for five minutes. Please board the train."
+
+//TEXT 【Yuki】
+<enT0371>"This station?"
+<ptT0371>"This station?"
+
+//TEXT
+<enT0372>The rooftop was... a train station.
+<ptT0372>The rooftop was... a train station.
+
+//TEXT 【Yuki】
+<enT0373>"What's the name of this station?"
+<ptT0373>"What's the name of this station?"
+
+//TEXT 【Doll】
+<enT0374>"Suginomiya Kita High Rooftop Station."
+<ptT0374>"Suginomiya Kita High Rooftop Station."
+
+//TEXT
+<enT0375>Oh, just what you'd expect...
+<ptT0375>Oh, just what you'd expect...
+
+//TEXT
+<enT0376>Takashima-san and I entered a carriage lit by a row of small yellow lights.
+<ptT0376>Takashima-san and I entered a carriage lit by a row of small yellow lights.
+
+//TEXT
+<enT0377>The seats in the carriage were covered with plush blue cloth and were almost all empty.
+<ptT0377>The seats in the carriage were covered with plush blue cloth and were almost all empty.
+
+//TEXT
+<enT0378>We sat in one of the many empty seats.
+<ptT0378>We sat in one of the many empty seats.
+
+//TEXT
+<enT0379>Then a man who we'd seen outside started talking to us.
+<ptT0379>Then a man who we'd seen outside started talking to us.
+
+//TEXT 【Mysterious Person】
+<enT0380>"Well then, where would you like that ticket to take you?"
+<ptT0380>"Well then, where would you like that ticket to take you?"
+
+//TEXT 【Yuki】
+<enT0381>"Ahaha... This is kind of embarrassing, but I actually don't know where we're going."
+<ptT0381>"Ahaha... This is kind of embarrassing, but I actually don't know where we're going."
+
+//TEXT 【Mysterious Person】
+<enT0382>"I see... How about we say, 'I don't have any particular place to go, but I thought I'd ride the train to Osaka'?"
+<ptT0382>"I see... How about we say, 'I don't have any particular place to go, but I thought I'd ride the train to Osaka'?"
+
+//TEXT 【Yuki】
+<enT0383>"Does this train go to Osaka?"
+<ptT0383>"Does this train go to Osaka?"
+
+//TEXT 【Mysterious Person】
+<enT0384>"Of course it does."
+<ptT0384>"Of course it does."
+
+//TEXT 【Yuki】
+<enT0385>"But I don't really feel like going to Osaka..."
+<ptT0385>"But I don't really feel like going to Osaka..."
+
+//TEXT 【Zakuro】
+<enT0386>"Here, look at this map."
+<ptT0386>"Here, look at this map."
+
+//TEXT 【Yuki】
+<enT0387>"Map?"
+<ptT0387>"Map?"
+
+//TEXT
+<enT0388>Takashima-san took out a map that looked like a circular sheet.
+<ptT0388>Takashima-san took out a map that looked like a circular sheet.
+
+//TEXT 【Yuki】
+<enT0389>"That's a map..."
+<ptT0389>"That's a map..."
+
+//TEXT 【Mysterious Person】
+<enT0390>"Oh? You didn't receive one at the station?"
+<ptT0390>"Oh? You didn't receive one at the station?"
+
+//TEXT
+<enT0391>It was a sparkling stone that seemed to have been cut out of the night sky itself.
+<ptT0391>It was a sparkling stone that seemed to have been cut out of the night sky itself.
+
+//TEXT 【Yuki】
+<enT0392>"Is that obsidian?"
+<ptT0392>"Is that obsidian?"
+
+//TEXT 【Zakuro】
+<enT0393>"Yes, that's right. This map is made of obsidian."
+<ptT0393>"Yes, that's right. This map is made of obsidian."
+
+//TEXT 【Zakuro】
+<enT0394>"Look, if you hold it up to the window like this..."
+<ptT0394>"Look, if you hold it up to the window like this..."
+
+//TEXT 【Yuki】
+<enT0395>"Ah..."
+<ptT0395>"Ah..."
+
+//TEXT
+<enT0396>At that moment everything before my eyes became suddenly bright as though the light from a trillion phosphorescent squid had been frozen at the same instance and dropped down into the sky.
+<ptT0396>At that moment everything before my eyes became suddenly bright as though the light from a trillion phosphorescent squid had been frozen at the same instance and dropped down into the sky.
+
+//TEXT
+<enT0397>Or as though a diamond company had pretended it was not making a good haul and had hoarded its diamonds in hopes of keeping the price high, but someone had suddenly turned the cache upside down and scattered diamonds everywhere.
+<ptT0397>Or as though a diamond company had pretended it was not making a good haul and had hoarded its diamonds in hopes of keeping the price high, but someone had suddenly turned the cache upside down and scattered diamonds everywhere.
+
+//TEXT 【Zakuro】
+<enT0398>"Is that moonlight shining on the river bed?"
+<ptT0398>"Is that moonlight shining on the river bed?"
+
+//TEXT
+<enT0399>We glanced out the window and watched as the silver pampas grass of the sky that grew among the palely shining banks of the Milky Way river rippled and swayed in the rustling wind.
+<ptT0399>We glanced out the window and watched as the silver pampas grass of the sky that grew among the palely shining banks of the Milky Way river rippled and swayed in the rustling wind.
+
+//TEXT 【Yuki】
+<enT0400>"That's not moonlight. It's on account of the silver river of the Milky Way that it shines so."
+<ptT0400>"That's not moonlight. It's on account of the silver river of the Milky Way that it shines so."
+
+//TEXT
+<enT0401>When I stuck my head out the window...
+<ptT0401>When I stuck my head out the window...
+
+//TEXT
+<enT0402>The Milky Way.
+<ptT0402>The Milky Way.
+
+//TEXT
+<enT0403>I became aware of beautiful water, more transparent than glass or even hydrogen, flowing soundlessly on. It might have been a trick of the eyes, but at times the water seemed to form tiny purple ripples or shine like a rainbow.
+<ptT0403>I became aware of beautiful water, more transparent than glass or even hydrogen, flowing soundlessly on. It might have been a trick of the eyes, but at times the water seemed to form tiny purple ripples or shine like a rainbow.
+
+//TEXT
+<enT0404>In the fields here and there stood beautiful phosphorescent triangular markers.
+<ptT0404>In the fields here and there stood beautiful phosphorescent triangular markers.
+
+//TEXT
+<enT0405>The far ones were small and sharply etched in orange and yellow. The near ones were large and had a slightly hazy pale blue light.
+<ptT0405>The far ones were small and sharply etched in orange and yellow. The near ones were large and had a slightly hazy pale blue light.
+
+//TEXT
+<enT0406>Set in various configurations, some triangular, some rectangular, some in the shape of a lightning bolt or loop of chain, they filled the fields with their light.
+<ptT0406>Set in various configurations, some triangular, some rectangular, some in the shape of a lightning bolt or loop of chain, they filled the fields with their light.
+
+//TEXT 【Mysterious Person】
+<enT0407>"It's beautiful, isn't it?"
+<ptT0407>"It's beautiful, isn't it?"
+
+//TEXT
+<enT0408>The man whispered to himself, and something caught my eye.
+<ptT0408>The man whispered to himself, and something caught my eye.
+
+//TEXT 【Yuki】
+<enT0409>"Um, is that line on your hand a charm or something?"
+<ptT0409>"Um, is that line on your hand a charm or something?"
+
+//TEXT 【Mysterious Person】
+<enT0410>"The line drawn on my hand? This is... something my master bestowed upon me."
+<ptT0410>"The line drawn on my hand? This is... something my master bestowed upon me."
+
+//TEXT 【Mysterious Person】
+<enT0411>"A very enthusiastic person, apt to draw such lines with a pen."
+<ptT0411>"A very enthusiastic person, apt to draw such lines with a pen."
+
+//TEXT 【Yuki】
+<enT0412>"Oh..."
+<ptT0412>"Oh..."
+
+//TEXT
+<enT0413>So his master drew a line on his hand with a pen. What a strange person.
+<ptT0413>So his master drew a line on his hand with a pen. What a strange person.
+
+//TEXT 【Yuki】
+<enT0414>"Is there some meaning to that line?"
+<ptT0414>"Is there some meaning to that line?"
+
+//TEXT 【Mysterious Person】
+<enT0415>"Yes. Every one of these lines marks the parts of my body that my master is pleased with."
+<ptT0415>"Yes. Every one of these lines marks the parts of my body that my master is pleased with."
+
+//TEXT
+<enT0416>He touched one of the many lines drawn on his body and laughed mischievously.
+<ptT0416>He touched one of the many lines drawn on his body and laughed mischievously.
+
+//TEXT
+<enT0417>That face looked like the same man's face and a completely different man's face at the same time.
+<ptT0417>That face looked like the same man's face and a completely different man's face at the same time.
+
+//TEXT 【Mysterious Person】
+<enT0418>"It may be unforgivable that I lived to be eighty-two. My satisfaction on that account was, however, less than you might think."
+<ptT0418>"It may be unforgivable that I lived to be eighty-two. My satisfaction on that account was, however, less than you might think."
+
+//TEXT 【Mysterious Person】
+<enT0419>"You are right that a great longing for survival possessed me continually. I was in continual fear of death and continually struggling with it."
+<ptT0419>"You are right that a great longing for survival possessed me continually. I was in continual fear of death and continually struggling with it."
+
+//TEXT 【Mysterious Person】
+<enT0420>"I believe that the struggle against death, the unconditional and self-willed determination to live, is the motive power behind the lives and activities of all outstanding men."
+<ptT0420>"I believe that the struggle against death, the unconditional and self-willed determination to live, is the motive power behind the lives and activities of all outstanding men."
+
+//TEXT 【Mysterious Person】
+<enT0421>"My eighty-two years showed just as conclusively that we must all die in the end as if I had died a schoolboy."
+<ptT0421>"My eighty-two years showed just as conclusively that we must all die in the end as if I had died a schoolboy."
+
+//TEXT 【Mysterious Person】
+<enT0422>"If it helps to justify me I should like to say this too; my nature had much of the child in it, its curiosity and love for idleness and play."
+<ptT0422>"If it helps to justify me I should like to say this too; my nature had much of the child in it, its curiosity and love for idleness and play."
+
+//TEXT 【Mysterious Person】
+<enT0423>"Well, and so it went on and on, till I saw that sooner or later there must be enough of play."
+<ptT0423>"Well, and so it went on and on, till I saw that sooner or later there must be enough of play."
+
+//TEXT
+<enT0424>When he read out that description, I got the feeling that I knew him from somewhere.
+<ptT0424>When he read out that description, I got the feeling that I knew him from somewhere.
+
+//TEXT 【Zakuro】
+<enT0425>"Where have you come from?"
+<ptT0425>"Where have you come from?"
+
+//TEXT
+<enT0426>Takashima-san asked that of the man in front of us.
+<ptT0426>Takashima-san asked that of the man in front of us.
+
+//TEXT 【Mysterious Person】
+<enT0427>"I was in the service of a wise master, but for a time I separated from my master and approached the house of my kin."
+<ptT0427>"I was in the service of a wise master, but for a time I separated from my master and approached the house of my kin."
+
+//TEXT 【Mysterious Person】
+<enT0428>"That was because I thought more people than just myself should know of my existence."
+<ptT0428>"That was because I thought more people than just myself should know of my existence."
+
+//TEXT 【Mysterious Person】
+<enT0429>"I had many friends in the mansion, and many guests came every day."
+<ptT0429>"I had many friends in the mansion, and many guests came every day."
+
+//TEXT 【Mysterious Person】
+<enT0430>"People who were shocked, who laughed, who cried, who were enraged. I met with many people like that."
+<ptT0430>"People who were shocked, who laughed, who cried, who were enraged. I met with many people like that."
+
+//TEXT 【Mysterious Person】
+<enT0431>"That was the Wonderful Everyday that my master allowed me."
+<ptT0431>"That was the Wonderful Everyday that my master allowed me."
+
+//TEXT 【Zakuro】
+<enT0432>"Your master truly valued you, didn't he?"
+<ptT0432>"Your master truly valued you, didn't he?"
+
+//TEXT 【Mysterious Person】
+<enT0433>"Yes, truly. Even after I've aged many years and been burned by the flame, I still have the ability to come here."
+<ptT0433>"Yes, truly. Even after I've aged many years and been burned by the flame, I still have the ability to come here."
+
+//TEXT 【Mysterious Person】
+<enT0434>"I suppose this is what they call destiny."
+<ptT0434>"I suppose this is what they call destiny."
+
+//TEXT 【Zakuro】
+<enT0435>"Would you mind if I touched your hand?"
+<ptT0435>"Would you mind if I touched your hand?"
+
+//TEXT 【Mysterious Person】
+<enT0436>"Of course, if you wish."
+<ptT0436>"Of course, if you wish."
+
+//TEXT
+<enT0437>Takashima-san softly grasped the man's outstretched hand.
+<ptT0437>Takashima-san softly grasped the man's outstretched hand.
+
+//TEXT 【Zakuro】
+<enT0438>"Seriousness is an accident of time. It consists, I don't mind telling you in confidence, of putting too high a value on time."
+<ptT0438>"Seriousness is an accident of time. It consists, I don't mind telling you in confidence, of putting too high a value on time."
+
+//TEXT 【Zakuro】
+<enT0439>"I, too, once put too high a value on time. For that reason I wished to be a hundred years old. In eternity, however, there is no time, you see. Eternity is a mere moment, just long enough for a joke."
+<ptT0439>"I, too, once put too high a value on time. For that reason I wished to be a hundred years old. In eternity, however, there is no time, you see. Eternity is a mere moment, just long enough for a joke."
+
+//TEXT 【Mysterious Person】
+<enT0440>"Are you able to read the line?"
+<ptT0440>"Are you able to read the line?"
+
+//TEXT 【Zakuro】
+<enT0441>"I can read it because it is. Because your master drew it on you."
+<ptT0441>"I can read it because it is. Because your master drew it on you."
+
+//TEXT 【Zakuro】
+<enT0442>"As a playwright shapes a drama from a handful of characters, so do we from the pieces of the disintegrated self build up ever new groups, with ever new interplay and suspense, and new situations that are eternally inexhaustible."
+<ptT0442>"As a playwright shapes a drama from a handful of characters, so do we from the pieces of the disintegrated self build up ever new groups, with ever new interplay and suspense, and new situations that are eternally inexhaustible."
+
+//TEXT 【Zakuro】
+<enT0443>"It takes hold of some music played where you please, without distinction, stupid and coarse, lamentably distorted, to boot, and chucks it into space to land where it has no business to be."
+<ptT0443>"It takes hold of some music played where you please, without distinction, stupid and coarse, lamentably distorted, to boot, and chucks it into space to land where it has no business to be."
+
+//TEXT 【Zakuro】
+<enT0444>"And yet after all this it cannot destroy the original spirit of the music; it can only demonstrate its own senseless mechanism, its inane meddling and marring."
+<ptT0444>"And yet after all this it cannot destroy the original spirit of the music; it can only demonstrate its own senseless mechanism, its inane meddling and marring."
+
+//TEXT 【Zakuro】
+<enT0445>"Listen, then, you poor thing. Listen well. You have need of it."
+<ptT0445>"Listen, then, you poor thing. Listen well. You have need of it."
+
+//TEXT 【Zakuro】
+<enT0446>"And now you hear not only a Handel who, disfigured by radio, is, all the same, in this most ghastly of disguises still divine."
+<ptT0446>"And now you hear not only a Handel who, disfigured by radio, is, all the same, in this most ghastly of disguises still divine."
+
+//TEXT 【Zakuro】
+<enT0447>"You hear as well and you observe, most worthy sir, a most admirable symbol of all life. When you listen to radio you are a witness of the everlasting war between idea and appearance, between time and eternity, between the human and the divine."
+<ptT0447>"You hear as well and you observe, most worthy sir, a most admirable symbol of all life. When you listen to radio you are a witness of the everlasting war between idea and appearance, between time and eternity, between the human and the divine."
+
+//TEXT 【Zakuro】
+<enT0448>"It little becomes people like you to be critics of radio or of life either. Better learn to listen first! Learn what is to be taken seriously and laugh at the rest."
+<ptT0448>"It little becomes people like you to be critics of radio or of life either. Better learn to listen first! Learn what is to be taken seriously and laugh at the rest."
+
+//TEXT 【Yuki】
+<enT0449>"Is that... how it is?"
+<ptT0449>"Is that... how it is?"
+
+//TEXT
+<enT0450>The man looked at my expression and understood everything.
+<ptT0450>The man looked at my expression and understood everything.
+
+//TEXT 【Yuki】
+<enT0451>"I remember it being smaller than that, though. It was pocket sized."
+<ptT0451>"I remember it being smaller than that, though. It was pocket sized."
+
+//TEXT 【Book】
+<enT0452>"That's right... You often took me along to the cafe."
+<ptT0452>"That's right... You often took me along to the cafe."
+
+//TEXT 【Book】
+<enT0453>"Please look at the cross in the stars. Does it make you remember a poem from another day?"
+<ptT0453>"Please look at the cross in the stars. Does it make you remember a poem from another day?"
+
+//TEXT
+<enT0454>When I looked out the window...
+<ptT0454>When I looked out the window...
+
+//TEXT
+<enT0455>Far downstream, emerging like a single tree out of the invisible water of the river, a cross studded with lights of blue, bitter-orange and every color under the sun and crowned with a pale white halo of cloud.
+<ptT0455>Far downstream, emerging like a single tree out of the invisible water of the river, a cross studded with lights of blue, bitter-orange and every color under the sun and crowned with a pale white halo of cloud.
+
+//TEXT
+<enT0456>"But we above you ever more residing, in the ether's star translumined ice
+<ptT0456>"But we above you ever more residing, in the ether's star translumined ice
+
+//TEXT
+<enT0457>Know not day nor night nor time's dividing
+<ptT0457>Know not day nor night nor time's dividing
+
+//TEXT
+<enT0458>Wear not age nor sex for our device
+<ptT0458>Wear not age nor sex for our device
+
+//TEXT
+<enT0459>All your sins and anguish self-affrighting
+<ptT0459>All your sins and anguish self-affrighting
+
+//TEXT
+<enT0460>Your murders and lascivious delighting
+<ptT0460>Your murders and lascivious delighting
+
+//TEXT
+<enT0461>Are to us as but a show, like the suns that circling go,
+<ptT0461>Are to us as but a show, like the suns that circling go,
+
+//TEXT
+<enT0462>Changing not our day for night;
+<ptT0462>Changing not our day for night;
+
+//TEXT
+<enT0463>On your frenzied life we spy, and refresh ourselves thereafter,
+<ptT0463>On your frenzied life we spy, and refresh ourselves thereafter,
+
+//TEXT
+<enT0464>With the stars in order fleeing;
+<ptT0464>With the stars in order fleeing;
+
+//TEXT
+<enT0465>Our breath is winter; in our sight
+<ptT0465>Our breath is winter; in our sight
+
+//TEXT
+<enT0466>Fawns the dragon of the sky;
+<ptT0466>Fawns the dragon of the sky;
+
+//TEXT
+<enT0467>Cool and unchanging is our eternal being;
+<ptT0467>Cool and unchanging is our eternal being;
+
+//TEXT
+<enT0468>Cool and star bright is our eternal laughter."
+<ptT0468>Cool and star bright is our eternal laughter."
+
+//TEXT
+<enT0469>A current of excitement ran through the train.
+<ptT0469>A current of excitement ran through the train.
+
+//TEXT
+<enT0470>All that could be heard here and there was a happy cry, as when a child leaps up and plucks a gourd, or a sigh, ineffably deep and humble.
+<ptT0470>All that could be heard here and there was a happy cry, as when a child leaps up and plucks a gourd, or a sigh, ineffably deep and humble.
+
+//TEXT
+<enT0471>Then, gradually, the cross came abreast of their window and they could see the circlet of clouds, pale as the flesh of apples, slowly, gently turning.
+<ptT0471>Then, gradually, the cross came abreast of their window and they could see the circlet of clouds, pale as the flesh of apples, slowly, gently turning.
+
+//TEXT
+<enT0472>"Hallelujah! Hallelujah!" the voices of the people resounded bright and joyful. And from the farthest reaches of the sky, that chill sky, everyone heard the indescribably fresh, transparent call of a trumpet.
+<ptT0472>"Hallelujah! Hallelujah!" the voices of the people resounded bright and joyful. And from the farthest reaches of the sky, that chill sky, everyone heard the indescribably fresh, transparent call of a trumpet.
+
+//TEXT
+<enT0473>Then, passing a cluster of signals and electric lamps, the train gradually slowed, until at last it came to a full stop directly opposite the cross.
+<ptT0473>Then, passing a cluster of signals and electric lamps, the train gradually slowed, until at last it came to a full stop directly opposite the cross.
+
+//TEXT 【Book】
+<enT0474>"I'm happy that I had the chance to meet you."
+<ptT0474>"I'm happy that I had the chance to meet you."
+
+//TEXT 【Book】
+<enT0475>"We'll walk from space to space in glad progression."
+<ptT0475>"We'll walk from space to space in glad progression."
+
+//TEXT 【Book】
+<enT0476>"And should not cling to one as homestead for us."
+<ptT0476>"And should not cling to one as homestead for us."
+
+//TEXT 【Book】
+<enT0477>"The cosmic spirit will not bind nor bore us."
+<ptT0477>"The cosmic spirit will not bind nor bore us."
+
+//TEXT 【Book】
+<enT0478>"It lifts and widens us in ev'ry session."
+<ptT0478>"It lifts and widens us in ev'ry session."
+
+//TEXT 【Book】
+<enT0479>"For hardly set in one of life's expanses, we make it home, and apathy commences."
+<ptT0479>"For hardly set in one of life's expanses, we make it home, and apathy commences."
+
+//TEXT 【Book】
+<enT0480>"But only he, who travels and takes chances, can break the habits' paralyzing stances."
+<ptT0480>"But only he, who travels and takes chances, can break the habits' paralyzing stances."
+
+//TEXT 【Book】
+<enT0481>"It might be, even, that the last of hours will make us once again a youthful lover."
+<ptT0481>"It might be, even, that the last of hours will make us once again a youthful lover."
+
+//TEXT 【Book】
+<enT0482>"The call of life to us forever flowers..."
+<ptT0482>"The call of life to us forever flowers..."
+
+//TEXT 【Book】
+<enT0483>"Anon, my heart: Say farewell and recover!"
+<ptT0483>"Anon, my heart: Say farewell and recover!"
+
+//TEXT 【Yuki】
+<enT0484>"Thank you."
+<ptT0484>"Thank you."
+
+//TEXT
+<enT0485>In the next instant, his form had disappeared.
+<ptT0485>In the next instant, his form had disappeared.
+
+//TEXT
+<enT0486>The train was over half-empty now. All at once, it had become lonely and deserted with the wind rushing in.
+<ptT0486>The train was over half-empty now. All at once, it had become lonely and deserted with the wind rushing in.
+
+//TEXT
+<enT0487>We looked and saw all the people kneeling devoutly on the shores of the Milky Way river in front of the cross.
+<ptT0487>We looked and saw all the people kneeling devoutly on the shores of the Milky Way river in front of the cross.
+
+//TEXT
+<enT0488>We saw a god-like figure robed in white approaching with outstretched arms across the invisible water of the heavenly river.
+<ptT0488>We saw a god-like figure robed in white approaching with outstretched arms across the invisible water of the heavenly river.
+
+//TEXT
+<enT0489>But at that moment a glassy whistle blew and, just as the train was beginning to move, a silvery mist rolled smoothly in from farther downstream and blocked their view.
+<ptT0489>But at that moment a glassy whistle blew and, just as the train was beginning to move, a silvery mist rolled smoothly in from farther downstream and blocked their view.
+
+//TEXT 【Zakuro】
+<enT0490>"Yuki-san."
+<ptT0490>"Yuki-san."
+
+//TEXT
+<enT0491>Then, the only passengers left were the two of us.
+<ptT0491>Then, the only passengers left were the two of us.
+
+//TEXT 【Zakuro】
+<enT0492>"There's the Coal Sack over there. It's a hole in the sky."
+<ptT0492>"There's the Coal Sack over there. It's a hole in the sky."
+
+//TEXT
+<enT0493>I looked where she was pointing.
+<ptT0493>I looked where she was pointing.
+
+//TEXT
+<enT0494>In one part of the heavenly river gaped a huge pitch-black hole. I could not tell how deep the bottom was or what might be inside. No matter how much I peered into it, rubbing my eyes, I could make nothing out; only my eyes began to smart.
+<ptT0494>In one part of the heavenly river gaped a huge pitch-black hole. I could not tell how deep the bottom was or what might be inside. No matter how much I peered into it, rubbing my eyes, I could make nothing out; only my eyes began to smart.
+
+//TEXT
+<enT0495>Those were all lines out of Night on the Milky Way Railroad.
+<ptT0495>Those were all lines out of Night on the Milky Way Railroad.
+
+//TEXT
+<enT0496>Indeed, our story ended with a story.
+<ptT0496>Indeed, our story ended with a story.
+
+//TEXT 【Yuki】
+<enT0497>"This is where Giovanni and Campanella have to part ways."
+<ptT0497>"This is where Giovanni and Campanella have to part ways."
+
+//TEXT 【Yuki】
+<enT0498>"This was the final stop for their story."
+<ptT0498>"This was the final stop for their story."
+
+//TEXT 【Zakuro】
+<enT0499>"Yes, that's right."
+<ptT0499>"Yes, that's right."
+
+//TEXT 【Yuki】
+<enT0500>"Then, from here on out, I have to walk alone."
+<ptT0500>"Then, from here on out, I have to walk alone."
+
+//TEXT 【Zakuro】
+<enT0501>"Yes."
+<ptT0501>"Yes."
+
+//TEXT 【Yuki】
+<enT0502>"I see. So that's how it is."
+<ptT0502>"I see. So that's how it is."
+
+//TEXT
+<enT0503>When had I realized?
+<ptT0503>When had I realized?
+
+//TEXT
+<enT0504>No, I got the feeling there was no "when." I'd probably understood everything from that moment.
+<ptT0504>No, I got the feeling there was no "when." I'd probably understood everything from that moment.
+
+//TEXT 【Yuki】
+<enT0505>"The girl who is the world itself was me."
+<ptT0505>"The girl who is the world itself was me."
+
+//TEXT 【Zakuro】
+<enT0506>"Yes."
+<ptT0506>"Yes."
+
+//TEXT 【Yuki】
+<enT0507>"And the beginning and end of the sky that you were looking for..."
+<ptT0507>"And the beginning and end of the sky that you were looking for..."
+
+//TEXT 【Yuki】
+<enT0508>"That was the end of this illusionary world's sky and the beginning of the sky in the real world."
+<ptT0508>"That was the end of this illusionary world's sky and the beginning of the sky in the real world."
+
+//TEXT 【Yuki】
+<enT0509>"So you were looking for the border between the illusionary world and the real world."
+<ptT0509>"So you were looking for the border between the illusionary world and the real world."
+
+//TEXT 【Zakuro】
+<enT0510>"The illusionary world and the real world, is it? I wish they were so clearly demarcated."
+<ptT0510>"The illusionary world and the real world, is it? I wish they were so clearly demarcated."
+
+//TEXT 【Zakuro】
+<enT0511>"I just tried to return you to your original world."
+<ptT0511>"I just tried to return you to your original world."
+
+//TEXT 【Zakuro】
+<enT0512>"Because you got caught up in this."
+<ptT0512>"Because you got caught up in this."
+
+//TEXT 【Yuki】
+<enT0513>"I got caught up, huh?"
+<ptT0513>"I got caught up, huh?"
+
+//TEXT
+<enT0514>From that twilit rooftop.
+<ptT0514>From that twilit rooftop.
+
+//TEXT
+<enT0515>A girl jumped over the fence.
+<ptT0515>A girl jumped over the fence.
+
+//TEXT
+<enT0516>I saw it happen.
+<ptT0516>I saw it happen.
+
+//TEXT 【Yuki】
+<enT0517>"I definitely did hear a loud sound, at least for a moment."
+<ptT0517>"I definitely did hear a loud sound, at least for a moment."
+
+//TEXT 【Yuki】
+<enT0518>"The moment that doll touched my skin..."
+<ptT0518>"The moment that doll touched my skin..."
+
+//TEXT 【Yuki】
+<enT0519>"That evening, it wasn't a doll that fell from the rooftop, was it?"
+<ptT0519>"That evening, it wasn't a doll that fell from the rooftop, was it?"
+
+//TEXT 【Zakuro】
+<enT0520>"No. That was me."
+<ptT0520>"No. That was me."
+
+//TEXT 【Yuki】
+<enT0521>"You were the one who fell."
+<ptT0521>"You were the one who fell."
+
+//TEXT 【Zakuro】
+<enT0522>"Yes."
+<ptT0522>"Yes."
+
+//TEXT 【Yuki】
+<enT0523>"And that's how you hit me?"
+<ptT0523>"And that's how you hit me?"
+
+//TEXT 【Zakuro】
+<enT0524>"Yes. That's how it happened."
+<ptT0524>"Yes. That's how it happened."
+
+//TEXT 【Yuki】
+<enT0525>"I see."
+<ptT0525>"I see."
+
+//TEXT 【Yuki】
+<enT0526>"Which means that the destination of this Milky Way Railroad is a pretty boring place."
+<ptT0526>"Which means that the destination of this Milky Way Railroad is a pretty boring place."
+
+//TEXT 【Zakuro】
+<enT0527>"A boring place?"
+<ptT0527>"A boring place?"
+
+//TEXT 【Yuki】
+<enT0528>"After all, wouldn't that mean we're going to wake up in a hospital bed?"
+<ptT0528>"After all, wouldn't that mean we're going to wake up in a hospital bed?"
+
+//TEXT 【Zakuro】
+<enT0529>"I don't understand."
+<ptT0529>"I don't understand."
+
+//TEXT 【Yuki】
+<enT0530>"You don't?"
+<ptT0530>"You don't?"
+
+//TEXT 【Zakuro】
+<enT0531>"No, not really."
+<ptT0531>"No, not really."
+
+//TEXT 【Yuki】
+<enT0532>"Or we might even wake up in Heaven."
+<ptT0532>"Or we might even wake up in Heaven."
+
+//TEXT 【Zakuro】
+<enT0533>"No, I don't think that world exists."
+<ptT0533>"No, I don't think that world exists."
+
+//TEXT 【Yuki】
+<enT0534>"Then Hell, maybe?"
+<ptT0534>"Then Hell, maybe?"
+
+//TEXT 【Zakuro】
+<enT0535>"That world doesn't exist, either."
+<ptT0535>"That world doesn't exist, either."
+
+//TEXT 【Zakuro】
+<enT0536>"The world ahead is a familiar sight. It is a world of filled with ordinary sights."
+<ptT0536>"The world ahead is a familiar sight. It is a world of filled with ordinary sights."
+
+//TEXT 【Yuki】
+<enT0537>"So at the very least, I'll be going back somewhere."
+<ptT0537>"So at the very least, I'll be going back somewhere."
+
+//TEXT 【Zakuro】
+<enT0538>"Yes, beneath the sky where the three stars of Vega, Altair, and Deneb shine."
+<ptT0538>"Yes, beneath the sky where the three stars of Vega, Altair, and Deneb shine."
+
+//TEXT 【Yuki】
+<enT0539>"Beneath the sky..."
+<ptT0539>"Beneath the sky..."
+
+//TEXT 【Zakuro】
+<enT0540>"This is our parting."
+<ptT0540>"This is our parting."
+
+//TEXT 【Yuki】
+<enT0541>"Yeah, I guess it is."
+<ptT0541>"Yeah, I guess it is."
+
+//TEXT 【Zakuro】
+<enT0542>"I'm sorry."
+<ptT0542>"I'm sorry."
+
+//TEXT 【Yuki】
+<enT0543>"You don't need to apologize anymore."
+<ptT0543>"You don't need to apologize anymore."
+
+//TEXT 【Zakuro】
+<enT0544>"Then please let me say one more thing."
+<ptT0544>"Then please let me say one more thing."
+
+//TEXT 【Yuki】
+<enT0545>"One more thing?"
+<ptT0545>"One more thing?"
+
+//TEXT 【Zakuro】
+<enT0546>"Thank you."
+<ptT0546>"Thank you."
+
+//TEXT 【Zakuro】
+<enT0547>"You were the one who gave me life."
+<ptT0547>"You were the one who gave me life."
+
+//TEXT 【Zakuro】
+<enT0548>"I always loved you."
+<ptT0548>"I always loved you."
+
+//TEXT 【Zakuro】
+<enT0549>"I'm sure I was just a nuisance, but I'm thankful that I was able to meet you again in this world."
+<ptT0549>"I'm sure I was just a nuisance, but I'm thankful that I was able to meet you again in this world."
+
+//TEXT 【Zakuro】
+<enT0550>"I'm thankful that you let me experience something so wonderful, even as I was walking this road that I must walk alone."
+<ptT0550>"I'm thankful that you let me experience something so wonderful, even as I was walking this road that I must walk alone."
+
+//TEXT 【Zakuro】
+<enT0551>"In my short life here in this world that you call an illusion, I made many memories."
+<ptT0551>"In my short life here in this world that you call an illusion, I made many memories."
+
+//TEXT 【Zakuro】
+<enT0552>"Even if it is an illusionary world, they're the best memories I have."
+<ptT0552>"Even if it is an illusionary world, they're the best memories I have."
+
+//TEXT 【Zakuro】
+<enT0553>"Even if it is just a cheap, good-for-nothing dream world. Even then, the time I spent with you..."
+<ptT0553>"Even if it is just a cheap, good-for-nothing dream world. Even then, the time I spent with you..."
+
+//TEXT
+<enT0554>"Every day was wonderful."
+<ptT0554>"Every day was wonderful."
+
+//TEXT
+<enT0555>The world was covered in white.
+<ptT0555>The world was covered in white.
+
+//TEXT
+<enT0556>Unbroken white.
+<ptT0556>Unbroken white.
+
+//TEXT
+<enT0557>A world of nothing but white.
+<ptT0557>A world of nothing but white.
+
+//TEXT
+<enT0558>An astonishing world.
+<ptT0558>An astonishing world.
+
+//TEXT
+<enT0559>A world where you could neither move forward nor run away.
+<ptT0559>A world where you could neither move forward nor run away.
+
+//TEXT
+<enT0560>But still, I forged ahead.
+<ptT0560>But still, I forged ahead.
+
+//TEXT
+<enT0561>Even though the scenery around me didn't change at all, I kept on running.
+<ptT0561>Even though the scenery around me didn't change at all, I kept on running.
+
+//TEXT
+<enT0562>Takashima-san...
+<ptT0562>Takashima-san...
+
+//TEXT
+<enT0563>Obstinance, vanity, scruples, discrimination, pride.
+<ptT0563>Obstinance, vanity, scruples, discrimination, pride.
+
+//TEXT
+<enT0564>Takashima-san left all those bothersome things behind.
+<ptT0564>Takashima-san left all those bothersome things behind.
+
+//TEXT
+<enT0565>But I...
+<ptT0565>But I...
+
+//TEXT
+<enT0566>I would continue to demand my tobacco, my rooftop, and my frilly dress.
+<ptT0566>I would continue to demand my tobacco, my rooftop, and my frilly dress.
+
+//TEXT
+<enT0567>If that was the road by which I was supposed to return.
+<ptT0567>If that was the road by which I was supposed to return.
+
+//TEXT
+<enT0568>I remembered the sunflowers.
+<ptT0568>I remembered the sunflowers.
+
+//TEXT
+<enT0569>And I realized something.
+<ptT0569>And I realized something.
+
+//TEXT
+<enT0570>Sunflowers bring to mind an offering of flowers.
+<ptT0570>Sunflowers bring to mind an offering of flowers.
+
+//TEXT
+<enT0571>Actually, he was the one who said that.
+<ptT0571>Actually, he was the one who said that.
+
+//TEXT
+<enT0572>They look like chrysanthemums because they both belong to Astaraceae.
+<ptT0572>They look like chrysanthemums because they both belong to Astaraceae.
+
+//TEXT
+<enT0573>I had walked through this white world before.
+<ptT0573>I had walked through this white world before.
+
+//TEXT
+<enT0574>This was the second time I had to walk this road.
+<ptT0574>This was the second time I had to walk this road.
+
+//TEXT
+<enT0575>This inescapable white world...
+<ptT0575>This inescapable white world...
+
+//TEXT
+<enT0576>It was just like the road beyond that field of sunflowers.
+<ptT0576>It was just like the road beyond that field of sunflowers.
+
+//TEXT 【Yuki】
+<enT0577>"I exist if I desire it, huh?"
+<ptT0577>"I exist if I desire it, huh?"
+
+//TEXT
+<enT0578>In that white world, I remembered it all.
+<ptT0578>In that white world, I remembered it all.
+
+//TEXT
+<enT0579>I knew that when I woke from this dream, I would have forgotten most of it.
+<ptT0579>I knew that when I woke from this dream, I would have forgotten most of it.
+
+//TEXT
+<enT0580>But...
+<ptT0580>But...
+
+//TEXT
+<enT0581>I pointed to the end of that endless white pathway.
+<ptT0581>I pointed to the end of that endless white pathway.
+
+//TEXT 【Yuki】
+<enT0582>"The world is a vessel."
+<ptT0582>"The world is a vessel."
+
+//TEXT 【Yuki】
+<enT0583>"That which can fill the vessel..."
+<ptT0583>"That which can fill the vessel..."
+
+//TEXT
+<enT0584>I pressed to my chest the truth I'd found and exited the white room.
+<ptT0584>I pressed to my chest the truth I'd found and exited the white room.
+
+//TEXT
+<enT0585>I was done being a ghost.
+<ptT0585>I was done being a ghost.
+
+//TEXT
+<enT0586>　00,001/86,400
+<ptT0586>　00,001/86,400
+
+//TEXT
+<enT0587>Yuki opened her eyes.
+<ptT0587>Yuki opened her eyes.
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-1_0719_Escape.bss
+<ptZ0001>1-1_0719_Escape.bss
+
+//OTHER
+<enZ0002>July 19th
+<ptZ0002>July 19th
+
+//OTHER
+<enZ0003>Down the Rabbit-Hole
+<ptZ0003>Down the Rabbit-Hole
+
+//OTHER
+<enZ0004>map023
+<ptZ0004>map023
+
+//OTHER
+<enZ0005>dayyk0719esc
+<ptZ0005>dayyk0719esc
+
+//OTHER
+<enZ0006>white
+<ptZ0006>white
+
+//OTHER
+<enZ0007>sp0008a
+<ptZ0007>sp0008a
+
+//OTHER
+<enZ0008>se906
+<ptZ0008>se906
+
+//OTHER
+<enZ0009>se548
+<ptZ0009>se548
+
+//OTHER
+<enZ0010>bg1002a
+<ptZ0010>bg1002a
+
+//OTHER
+<enZ0011>bgm012
+<ptZ0011>bgm012
+
+//OTHER
+<enZ0012>bg1003a
+<ptZ0012>bg1003a
+
+//OTHER
+<enZ0013>se224
+<ptZ0013>se224
+
+//OTHER
+<enZ0014>yuki_001109
+<ptZ0014>yuki_001109
+
+//OTHER
+<enZ0015>yuki_001110
+<ptZ0015>yuki_001110
+
+//OTHER
+<enZ0016>se344
+<ptZ0016>se344
+
+//OTHER
+<enZ0017>yuki_001111
+<ptZ0017>yuki_001111
+
+//OTHER
+<enZ0018>yuki_001112
+<ptZ0018>yuki_001112
+
+//OTHER
+<enZ0019>yuki_001113
+<ptZ0019>yuki_001113
+
+//OTHER
+<enZ0020>yuki_001114
+<ptZ0020>yuki_001114
+
+//OTHER
+<enZ0021>se554
+<ptZ0021>se554
+
+//OTHER
+<enZ0022>bg1001a
+<ptZ0022>bg1001a
+
+//OTHER
+<enZ0023>yuki_001115
+<ptZ0023>yuki_001115
+
+//OTHER
+<enZ0024>yuki_001116
+<ptZ0024>yuki_001116
+
+//OTHER
+<enZ0025>bg1006a2
+<ptZ0025>bg1006a2
+
+//OTHER
+<enZ0026>yuki_001117
+<ptZ0026>yuki_001117
+
+//OTHER
+<enZ0027>yuki_001118
+<ptZ0027>yuki_001118
+
+//OTHER
+<enZ0028>se049
+<ptZ0028>se049
+
+//OTHER
+<enZ0029>bg1017a
+<ptZ0029>bg1017a
+
+//OTHER
+<enZ0030>se057b
+<ptZ0030>se057b
+
+//OTHER
+<enZ0031>zaku_000659
+<ptZ0031>zaku_000659
+
+//OTHER
+<enZ0032>yuki_001119
+<ptZ0032>yuki_001119
+
+//OTHER
+<enZ0033>zk0000b
+<ptZ0033>zk0000b
+
+//OTHER
+<enZ0034>bgm114
+<ptZ0034>bgm114
+
+//OTHER
+<enZ0035>yuki_001120
+<ptZ0035>yuki_001120
+
+//OTHER
+<enZ0036>zaku_000660
+<ptZ0036>zaku_000660
+
+//OTHER
+<enZ0037>yuki_001121
+<ptZ0037>yuki_001121
+
+//OTHER
+<enZ0038>zk0000
+<ptZ0038>zk0000
+
+//OTHER
+<enZ0039>zaku_000661
+<ptZ0039>zaku_000661
+
+//OTHER
+<enZ0040>zk0000a
+<ptZ0040>zk0000a
+
+//OTHER
+<enZ0041>zaku_000662
+<ptZ0041>zaku_000662
+
+//OTHER
+<enZ0042>zaku_000663
+<ptZ0042>zaku_000663
+
+//OTHER
+<enZ0043>zaku_000664
+<ptZ0043>zaku_000664
+
+//OTHER
+<enZ0044>yuki_001122
+<ptZ0044>yuki_001122
+
+//OTHER
+<enZ0045>zaku_000665
+<ptZ0045>zaku_000665
+
+//OTHER
+<enZ0046>yuki_001123
+<ptZ0046>yuki_001123
+
+//OTHER
+<enZ0047>zaku_000666
+<ptZ0047>zaku_000666
+
+//OTHER
+<enZ0048>yuki_001124
+<ptZ0048>yuki_001124
+
+//OTHER
+<enZ0049>zk0010a
+<ptZ0049>zk0010a
+
+//OTHER
+<enZ0050>zaku_000667
+<ptZ0050>zaku_000667
+
+//OTHER
+<enZ0051>yuki_001125
+<ptZ0051>yuki_001125
+
+//OTHER
+<enZ0052>zaku_000668
+<ptZ0052>zaku_000668
+
+//OTHER
+<enZ0053>zk0001a_l
+<ptZ0053>zk0001a_l
+
+//OTHER
+<enZ0054>zaku_000669
+<ptZ0054>zaku_000669
+
+//OTHER
+<enZ0055>zk0000_l
+<ptZ0055>zk0000_l
+
+//OTHER
+<enZ0056>zaku_000670
+<ptZ0056>zaku_000670
+
+//OTHER
+<enZ0057>zaku_000671
+<ptZ0057>zaku_000671
+
+//OTHER
+<enZ0058>zk0007_l
+<ptZ0058>zk0007_l
+
+//OTHER
+<enZ0059>zaku_000672
+<ptZ0059>zaku_000672
+
+//OTHER
+<enZ0060>zaku_000673
+<ptZ0060>zaku_000673
+
+//OTHER
+<enZ0061>zaku_000674
+<ptZ0061>zaku_000674
+
+//OTHER
+<enZ0062>zaku_000675
+<ptZ0062>zaku_000675
+
+//OTHER
+<enZ0063>zaku_000676
+<ptZ0063>zaku_000676
+
+//OTHER
+<enZ0064>yuki_001126
+<ptZ0064>yuki_001126
+
+//OTHER
+<enZ0065>zaku_000677
+<ptZ0065>zaku_000677
+
+//OTHER
+<enZ0066>zaku_000678
+<ptZ0066>zaku_000678
+
+//OTHER
+<enZ0067>zaku_000679
+<ptZ0067>zaku_000679
+
+//OTHER
+<enZ0068>zaku_000680
+<ptZ0068>zaku_000680
+
+//OTHER
+<enZ0069>yuki_001127
+<ptZ0069>yuki_001127
+
+//OTHER
+<enZ0070>zaku_000681
+<ptZ0070>zaku_000681
+
+//OTHER
+<enZ0071>zaku_000682
+<ptZ0071>zaku_000682
+
+//OTHER
+<enZ0072>yuki_001128
+<ptZ0072>yuki_001128
+
+//OTHER
+<enZ0073>zaku_000683
+<ptZ0073>zaku_000683
+
+//OTHER
+<enZ0074>zaku_000684
+<ptZ0074>zaku_000684
+
+//OTHER
+<enZ0075>zaku_000685
+<ptZ0075>zaku_000685
+
+//OTHER
+<enZ0076>zaku_000686
+<ptZ0076>zaku_000686
+
+//OTHER
+<enZ0077>zaku_000687
+<ptZ0077>zaku_000687
+
+//OTHER
+<enZ0078>zaku_000688
+<ptZ0078>zaku_000688
+
+//OTHER
+<enZ0079>zaku_000689
+<ptZ0079>zaku_000689
+
+//OTHER
+<enZ0080>zaku_000690
+<ptZ0080>zaku_000690
+
+//OTHER
+<enZ0081>zaku_000691
+<ptZ0081>zaku_000691
+
+//OTHER
+<enZ0082>zaku_000692
+<ptZ0082>zaku_000692
+
+//OTHER
+<enZ0083>zaku_000693
+<ptZ0083>zaku_000693
+
+//OTHER
+<enZ0084>zaku_000694
+<ptZ0084>zaku_000694
+
+//OTHER
+<enZ0085>zaku_000695
+<ptZ0085>zaku_000695
+
+//OTHER
+<enZ0086>zaku_000696
+<ptZ0086>zaku_000696
+
+//OTHER
+<enZ0087>zaku_000697
+<ptZ0087>zaku_000697
+
+//OTHER
+<enZ0088>zaku_000698
+<ptZ0088>zaku_000698
+
+//OTHER
+<enZ0089>zaku_000699
+<ptZ0089>zaku_000699
+
+//OTHER
+<enZ0090>zaku_000700
+<ptZ0090>zaku_000700
+
+//OTHER
+<enZ0091>zaku_000701
+<ptZ0091>zaku_000701
+
+//OTHER
+<enZ0092>yuki_001129
+<ptZ0092>yuki_001129
+
+//OTHER
+<enZ0093>zaku_000702
+<ptZ0093>zaku_000702
+
+//OTHER
+<enZ0094>yuki_001130
+<ptZ0094>yuki_001130
+
+//OTHER
+<enZ0095>zaku_000703
+<ptZ0095>zaku_000703
+
+//OTHER
+<enZ0096>yuki_001131
+<ptZ0096>yuki_001131
+
+//OTHER
+<enZ0097>zaku_000704
+<ptZ0097>zaku_000704
+
+//OTHER
+<enZ0098>yuki_001132
+<ptZ0098>yuki_001132
+
+//OTHER
+<enZ0099>zaku_000705
+<ptZ0099>zaku_000705
+
+//OTHER
+<enZ0100>yuki_001133
+<ptZ0100>yuki_001133
+
+//OTHER
+<enZ0101>zaku_000706
+<ptZ0101>zaku_000706
+
+//OTHER
+<enZ0102>yuki_001134
+<ptZ0102>yuki_001134
+
+//OTHER
+<enZ0103>zaku_000707
+<ptZ0103>zaku_000707
+
+//OTHER
+<enZ0104>yuki_001135
+<ptZ0104>yuki_001135
+
+//OTHER
+<enZ0105>zaku_000708
+<ptZ0105>zaku_000708
+
+//OTHER
+<enZ0106>zaku_000709
+<ptZ0106>zaku_000709
+
+//OTHER
+<enZ0107>zaku_000710
+<ptZ0107>zaku_000710
+
+//OTHER
+<enZ0108>yuki_001136
+<ptZ0108>yuki_001136
+
+//OTHER
+<enZ0109>yuki_001137
+<ptZ0109>yuki_001137
+
+//OTHER
+<enZ0110>zaku_000711
+<ptZ0110>zaku_000711
+
+//OTHER
+<enZ0111>zaku_000712
+<ptZ0111>zaku_000712
+
+//OTHER
+<enZ0112>yuki_001138
+<ptZ0112>yuki_001138
+
+//OTHER
+<enZ0113>zaku_000713
+<ptZ0113>zaku_000713
+
+//OTHER
+<enZ0114>yuki_001139
+<ptZ0114>yuki_001139
+
+//OTHER
+<enZ0115>zaku_000714
+<ptZ0115>zaku_000714
+
+//OTHER
+<enZ0116>ev1005a
+<ptZ0116>ev1005a
+
+//OTHER
+<enZ0117>zaku_000715
+<ptZ0117>zaku_000715
+
+//OTHER
+<enZ0118>yuki_001140
+<ptZ0118>yuki_001140
+
+//OTHER
+<enZ0119>zaku_000716
+<ptZ0119>zaku_000716
+
+//OTHER
+<enZ0120>yuki_001141
+<ptZ0120>yuki_001141
+
+//OTHER
+<enZ0121>zaku_000717
+<ptZ0121>zaku_000717
+
+//OTHER
+<enZ0122>yuki_001142
+<ptZ0122>yuki_001142
+
+//OTHER
+<enZ0123>zaku_000718
+<ptZ0123>zaku_000718
+
+//OTHER
+<enZ0124>yuki_001143
+<ptZ0124>yuki_001143
+
+//OTHER
+<enZ0125>zaku_000719
+<ptZ0125>zaku_000719
+
+//OTHER
+<enZ0126>zaku_000720
+<ptZ0126>zaku_000720
+
+//OTHER
+<enZ0127>yuki_001144
+<ptZ0127>yuki_001144
+
+//OTHER
+<enZ0128>zaku_000721
+<ptZ0128>zaku_000721
+
+//OTHER
+<enZ0129>zaku_000722
+<ptZ0129>zaku_000722
+
+//OTHER
+<enZ0130>zaku_000723
+<ptZ0130>zaku_000723
+
+//OTHER
+<enZ0131>yuki_001145
+<ptZ0131>yuki_001145
+
+//OTHER
+<enZ0132>zaku_000724
+<ptZ0132>zaku_000724
+
+//OTHER
+<enZ0133>yuki_001146
+<ptZ0133>yuki_001146
+
+//OTHER
+<enZ0134>zaku_000725
+<ptZ0134>zaku_000725
+
+//OTHER
+<enZ0135>zaku_000726
+<ptZ0135>zaku_000726
+
+//OTHER
+<enZ0136>zaku_000727
+<ptZ0136>zaku_000727
+
+//OTHER
+<enZ0137>ev1005c
+<ptZ0137>ev1005c
+
+//OTHER
+<enZ0138>zaku_000728
+<ptZ0138>zaku_000728
+
+//OTHER
+<enZ0139>zaku_000729
+<ptZ0139>zaku_000729
+
+//OTHER
+<enZ0140>zaku_000730
+<ptZ0140>zaku_000730
+
+//OTHER
+<enZ0141>zaku_000731
+<ptZ0141>zaku_000731
+
+//OTHER
+<enZ0142>ev1005b
+<ptZ0142>ev1005b
+
+//OTHER
+<enZ0143>zaku_000732
+<ptZ0143>zaku_000732
+
+//OTHER
+<enZ0144>yuki_001147
+<ptZ0144>yuki_001147
+
+//OTHER
+<enZ0145>zaku_000733
+<ptZ0145>zaku_000733
+
+//OTHER
+<enZ0146>zaku_000734
+<ptZ0146>zaku_000734
+
+//OTHER
+<enZ0147>yuki_001148
+<ptZ0147>yuki_001148
+
+//OTHER
+<enZ0148>zaku_000735
+<ptZ0148>zaku_000735
+
+//OTHER
+<enZ0149>yuki_001149
+<ptZ0149>yuki_001149
+
+//OTHER
+<enZ0150>zaku_000736
+<ptZ0150>zaku_000736
+
+//OTHER
+<enZ0151>ev1005d
+<ptZ0151>ev1005d
+
+//OTHER
+<enZ0152>yuki_001150
+<ptZ0152>yuki_001150
+
+//OTHER
+<enZ0153>zaku_000737
+<ptZ0153>zaku_000737
+
+//OTHER
+<enZ0154>yuki_001151
+<ptZ0154>yuki_001151
+
+//OTHER
+<enZ0155>zaku_000738
+<ptZ0155>zaku_000738
+
+//OTHER
+<enZ0156>yuki_001152
+<ptZ0156>yuki_001152
+
+//OTHER
+<enZ0157>zaku_000739
+<ptZ0157>zaku_000739
+
+//OTHER
+<enZ0158>zaku_000740
+<ptZ0158>zaku_000740
+
+//OTHER
+<enZ0159>zaku_000741
+<ptZ0159>zaku_000741
+
+//OTHER
+<enZ0160>bg1017c
+<ptZ0160>bg1017c
+
+//OTHER
+<enZ0161>rb0000
+<ptZ0161>rb0000
+
+//OTHER
+<enZ0162>yuki_001153
+<ptZ0162>yuki_001153
+
+//OTHER
+<enZ0163>zaku_000742
+<ptZ0163>zaku_000742
+
+//OTHER
+<enZ0164>zk0008
+<ptZ0164>zk0008
+
+//OTHER
+<enZ0165>zaku_000743
+<ptZ0165>zaku_000743
+
+//OTHER
+<enZ0166>zaku_000744
+<ptZ0166>zaku_000744
+
+//OTHER
+<enZ0167>zk0001
+<ptZ0167>zk0001
+
+//OTHER
+<enZ0168>zaku_000745
+<ptZ0168>zaku_000745
+
+//OTHER
+<enZ0169>rb0000_l
+<ptZ0169>rb0000_l
+
+//OTHER
+<enZ0170>yuki_001154
+<ptZ0170>yuki_001154
+
+//OTHER
+<enZ0171>yuki_001155
+<ptZ0171>yuki_001155
+
+//OTHER
+<enZ0172>yuki_001156
+<ptZ0172>yuki_001156
+
+//OTHER
+<enZ0173>yuki_001157
+<ptZ0173>yuki_001157
+
+//OTHER
+<enZ0174>rb0001_l
+<ptZ0174>rb0001_l
+
+//OTHER
+<enZ0175>yuki_001158
+<ptZ0175>yuki_001158
+
+//OTHER
+<enZ0176>se200
+<ptZ0176>se200
+
+//OTHER
+<enZ0177>rb0001
+<ptZ0177>rb0001
+
+//OTHER
+<enZ0178>yuki_001159
+<ptZ0178>yuki_001159
+
+//OTHER
+<enZ0179>yuki_001160
+<ptZ0179>yuki_001160
+
+//OTHER
+<enZ0180>yuki_001161
+<ptZ0180>yuki_001161
+
+//OTHER
+<enZ0181>yuki_001162
+<ptZ0181>yuki_001162
+
+//OTHER
+<enZ0182>yuki_001163
+<ptZ0182>yuki_001163
+
+//OTHER
+<enZ0183>yuki_001164
+<ptZ0183>yuki_001164
+
+//OTHER
+<enZ0184>yuki_001165
+<ptZ0184>yuki_001165
+
+//OTHER
+<enZ0185>yuki_001166
+<ptZ0185>yuki_001166
+
+//OTHER
+<enZ0186>yuki_001167
+<ptZ0186>yuki_001167
+
+//OTHER
+<enZ0187>se633
+<ptZ0187>se633
+
+//OTHER
+<enZ0188>yuki_001168
+<ptZ0188>yuki_001168
+
+//OTHER
+<enZ0189>yuki_001169
+<ptZ0189>yuki_001169
+
+//OTHER
+<enZ0190>se325
+<ptZ0190>se325
+
+//OTHER
+<enZ0191>yuki_001170
+<ptZ0191>yuki_001170
+
+//OTHER
+<enZ0192>yuki_001171
+<ptZ0192>yuki_001171
+
+//OTHER
+<enZ0193>se326
+<ptZ0193>se326
+
+//OTHER
+<enZ0194>yuki_001172
+<ptZ0194>yuki_001172
+
+//OTHER
+<enZ0195>zaku_000746
+<ptZ0195>zaku_000746
+
+//OTHER
+<enZ0196>yuki_001173
+<ptZ0196>yuki_001173
+
+//OTHER
+<enZ0197>zaku_000747
+<ptZ0197>zaku_000747
+
+//OTHER
+<enZ0198>black
+<ptZ0198>black
+
+//OTHER
+<enZ0199>sp0021
+<ptZ0199>sp0021
+
+//OTHER
+<enZ0200>se324
+<ptZ0200>se324
+
+//OTHER
+<enZ0201>zaku_000748
+<ptZ0201>zaku_000748
+
+//OTHER
+<enZ0202>yuki_001174
+<ptZ0202>yuki_001174
+
+//OTHER
+<enZ0203>yuki_001175
+<ptZ0203>yuki_001175
+
+//OTHER
+<enZ0204>br0000
+<ptZ0204>br0000
+
+//OTHER
+<enZ0205>yuki_001176
+<ptZ0205>yuki_001176
+
+//OTHER
+<enZ0206>zaku_000749
+<ptZ0206>zaku_000749
+
+//OTHER
+<enZ0207>yuki_001177
+<ptZ0207>yuki_001177
+
+//OTHER
+<enZ0208>br0000_l
+<ptZ0208>br0000_l
+
+//OTHER
+<enZ0209>yuki_001178
+<ptZ0209>yuki_001178
+
+//OTHER
+<enZ0210>yuki_001179
+<ptZ0210>yuki_001179
+
+//OTHER
+<enZ0211>yuki_001180
+<ptZ0211>yuki_001180
+
+//OTHER
+<enZ0212>yuki_001181
+<ptZ0212>yuki_001181
+
+//OTHER
+<enZ0213>yuki_001182
+<ptZ0213>yuki_001182
+
+//OTHER
+<enZ0214>ev1006a
+<ptZ0214>ev1006a
+
+//OTHER
+<enZ0215>bgm102
+<ptZ0215>bgm102
+
+//OTHER
+<enZ0216>yuki_001183
+<ptZ0216>yuki_001183
+
+//OTHER
+<enZ0217>yuki_001184
+<ptZ0217>yuki_001184
+
+//OTHER
+<enZ0218>yuki_001185
+<ptZ0218>yuki_001185
+
+//OTHER
+<enZ0219>zaku_000750
+<ptZ0219>zaku_000750
+
+//OTHER
+<enZ0220>yuki_001186
+<ptZ0220>yuki_001186
+
+//OTHER
+<enZ0221>yuki_001187
+<ptZ0221>yuki_001187
+
+//OTHER
+<enZ0222>yuki_001188
+<ptZ0222>yuki_001188
+
+//OTHER
+<enZ0223>zaku_000751
+<ptZ0223>zaku_000751
+
+//OTHER
+<enZ0224>zaku_000752
+<ptZ0224>zaku_000752
+
+//OTHER
+<enZ0225>yuki_001189
+<ptZ0225>yuki_001189
+
+//OTHER
+<enZ0226>ev1006b
+<ptZ0226>ev1006b
+
+//OTHER
+<enZ0227>zaku_000753
+<ptZ0227>zaku_000753
+
+//OTHER
+<enZ0228>yuki_001190
+<ptZ0228>yuki_001190
+
+//OTHER
+<enZ0229>yuki_001191
+<ptZ0229>yuki_001191
+
+//OTHER
+<enZ0230>yuki_001192
+<ptZ0230>yuki_001192
+
+//OTHER
+<enZ0231>yuki_001193
+<ptZ0231>yuki_001193
+
+//OTHER
+<enZ0232>zaku_000754
+<ptZ0232>zaku_000754
+
+//OTHER
+<enZ0233>zaku_000755
+<ptZ0233>zaku_000755
+
+//OTHER
+<enZ0234>zaku_000756
+<ptZ0234>zaku_000756
+
+//OTHER
+<enZ0235>zaku_000757
+<ptZ0235>zaku_000757
+
+//OTHER
+<enZ0236>zaku_000758
+<ptZ0236>zaku_000758
+
+//OTHER
+<enZ0237>zaku_000759
+<ptZ0237>zaku_000759
+
+//OTHER
+<enZ0238>zaku_000760
+<ptZ0238>zaku_000760
+
+//OTHER
+<enZ0239>zaku_000761
+<ptZ0239>zaku_000761
+
+//OTHER
+<enZ0240>zaku_000762
+<ptZ0240>zaku_000762
+
+//OTHER
+<enZ0241>zaku_000763
+<ptZ0241>zaku_000763
+
+//OTHER
+<enZ0242>zaku_000764
+<ptZ0242>zaku_000764
+
+//OTHER
+<enZ0243>zaku_000765
+<ptZ0243>zaku_000765
+
+//OTHER
+<enZ0244>zaku_000766
+<ptZ0244>zaku_000766
+
+//OTHER
+<enZ0245>yuki_001194
+<ptZ0245>yuki_001194
+
+//OTHER
+<enZ0246>yuki_001195
+<ptZ0246>yuki_001195
+
+//OTHER
+<enZ0247>ev1006c
+<ptZ0247>ev1006c
+
+//OTHER
+<enZ0248>yuki_001196
+<ptZ0248>yuki_001196
+
+//OTHER
+<enZ0249>se912
+<ptZ0249>se912
+
+//OTHER
+<enZ0250>zaku_000767
+<ptZ0250>zaku_000767
+
+//OTHER
+<enZ0251>ev1006d
+<ptZ0251>ev1006d
+
+//OTHER
+<enZ0252>zaku_000768
+<ptZ0252>zaku_000768
+
+//OTHER
+<enZ0253>ev1006e
+<ptZ0253>ev1006e
+
+//OTHER
+<enZ0254>yuki_001197
+<ptZ0254>yuki_001197
+
+//OTHER
+<enZ0255>yuki_001198
+<ptZ0255>yuki_001198
+
+//OTHER
+<enZ0256>zaku_000769
+<ptZ0256>zaku_000769
+
+//OTHER
+<enZ0257>map001
+<ptZ0257>map001
+
+//OTHER
+<enZ0258>ev1006f
+<ptZ0258>ev1006f
+
+//OTHER
+<enZ0259>yuki_001199
+<ptZ0259>yuki_001199
+
+//OTHER
+<enZ0260>zaku_000770
+<ptZ0260>zaku_000770
+
+//OTHER
+<enZ0261>yuki_001200
+<ptZ0261>yuki_001200
+
+//OTHER
+<enZ0262>yuki_001201
+<ptZ0262>yuki_001201
+
+//OTHER
+<enZ0263>zaku_000771
+<ptZ0263>zaku_000771
+
+//OTHER
+<enZ0264>yuki_001202
+<ptZ0264>yuki_001202
+
+//OTHER
+<enZ0265>yuki_001203
+<ptZ0265>yuki_001203
+
+//OTHER
+<enZ0266>yuki_001204
+<ptZ0266>yuki_001204
+
+//OTHER
+<enZ0267>zaku_000772
+<ptZ0267>zaku_000772
+
+//OTHER
+<enZ0268>zaku_000773
+<ptZ0268>zaku_000773
+
+//OTHER
+<enZ0269>zaku_000774
+<ptZ0269>zaku_000774
+
+//OTHER
+<enZ0270>yuki_001205
+<ptZ0270>yuki_001205
+
+//OTHER
+<enZ0271>yuki_001206
+<ptZ0271>yuki_001206
+
+//OTHER
+<enZ0272>yuki_001207
+<ptZ0272>yuki_001207
+
+//OTHER
+<enZ0273>yuki_001208
+<ptZ0273>yuki_001208
+
+//OTHER
+<enZ0274>zaku_000775
+<ptZ0274>zaku_000775
+
+//OTHER
+<enZ0275>yuki_001209
+<ptZ0275>yuki_001209
+
+//OTHER
+<enZ0276>zaku_000776
+<ptZ0276>zaku_000776
+
+//OTHER
+<enZ0277>yuki_001210
+<ptZ0277>yuki_001210
+
+//OTHER
+<enZ0278>zaku_000777
+<ptZ0278>zaku_000777
+
+//OTHER
+<enZ0279>yuki_001211
+<ptZ0279>yuki_001211
+
+//OTHER
+<enZ0280>yuki_001212
+<ptZ0280>yuki_001212
+
+//OTHER
+<enZ0281>zaku_000778
+<ptZ0281>zaku_000778
+
+//OTHER
+<enZ0282>yuki_001213
+<ptZ0282>yuki_001213
+
+//OTHER
+<enZ0283>zaku_000779
+<ptZ0283>zaku_000779
+
+//OTHER
+<enZ0284>yuki_001214
+<ptZ0284>yuki_001214
+
+//OTHER
+<enZ0285>zaku_000780
+<ptZ0285>zaku_000780
+
+//OTHER
+<enZ0286>yuki_001215
+<ptZ0286>yuki_001215
+
+//OTHER
+<enZ0287>zaku_000781
+<ptZ0287>zaku_000781
+
+//OTHER
+<enZ0288>yuki_001216
+<ptZ0288>yuki_001216
+
+//OTHER
+<enZ0289>zaku_000782
+<ptZ0289>zaku_000782
+
+//OTHER
+<enZ0290>zaku_000783
+<ptZ0290>zaku_000783
+
+//OTHER
+<enZ0291>yuki_001217
+<ptZ0291>yuki_001217
+
+//OTHER
+<enZ0292>zaku_000784
+<ptZ0292>zaku_000784
+
+//OTHER
+<enZ0293>yuki_001218
+<ptZ0293>yuki_001218
+
+//OTHER
+<enZ0294>zaku_000785
+<ptZ0294>zaku_000785
+
+//OTHER
+<enZ0295>yuki_001219
+<ptZ0295>yuki_001219
+
+//OTHER
+<enZ0296>zaku_000786
+<ptZ0296>zaku_000786
+
+//OTHER
+<enZ0297>ev1006_mask
+<ptZ0297>ev1006_mask
+
+//OTHER
+<enZ0298>ev1006g
+<ptZ0298>ev1006g
+
+//OTHER
+<enZ0299>yuki_001220
+<ptZ0299>yuki_001220
+
+//OTHER
+<enZ0300>zaku_000787
+<ptZ0300>zaku_000787
+
+//OTHER
+<enZ0301>yuki_001221
+<ptZ0301>yuki_001221
+
+//OTHER
+<enZ0302>zaku_000788
+<ptZ0302>zaku_000788
+
+//OTHER
+<enZ0303>zaku_000789
+<ptZ0303>zaku_000789
+
+//OTHER
+<enZ0304>zaku_000790
+<ptZ0304>zaku_000790
+
+//OTHER
+<enZ0305>zaku_000791
+<ptZ0305>zaku_000791
+
+//OTHER
+<enZ0306>zaku_000792
+<ptZ0306>zaku_000792
+
+//OTHER
+<enZ0307>zaku_000793
+<ptZ0307>zaku_000793
+
+//OTHER
+<enZ0308>zaku_000794
+<ptZ0308>zaku_000794
+
+//OTHER
+<enZ0309>zaku_000795
+<ptZ0309>zaku_000795
+
+//OTHER
+<enZ0310>zaku_000796
+<ptZ0310>zaku_000796
+
+//OTHER
+<enZ0311>map022
+<ptZ0311>map022
+
+//OTHER
+<enZ0312>bgm017
+<ptZ0312>bgm017
+
+//OTHER
+<enZ0313>map035
+<ptZ0313>map035
+
+//OTHER
+<enZ0314>sp0022
+<ptZ0314>sp0022
+
+//OTHER
+<enZ0315>yuki_001222
+<ptZ0315>yuki_001222
+
+//OTHER
+<enZ0316>yuki_001223
+<ptZ0316>yuki_001223
+
+//OTHER
+<enZ0317>yuki_001224
+<ptZ0317>yuki_001224
+
+//OTHER
+<enZ0318>map034
+<ptZ0318>map034
+
+//OTHER
+<enZ0319>end1-1true
+<ptZ0319>end1-1true
+
+//OTHER
+<enZ0320>main
+<ptZ0320>main
+

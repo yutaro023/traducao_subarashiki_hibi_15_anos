@@ -1,0 +1,1256 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+//NAME
+<enN0003>Shiroyama
+<ptN0003>Shiroyama
+
+//NAME
+<enN0004>Iida
+<ptN0004>Iida
+
+//NAME
+<enN0005>Iinuma
+<ptN0005>Iinuma
+
+///================================================================================
+
+//TEXT
+<enT0001>.........
+<ptT0001>.........
+
+//TEXT
+<enT0002>......
+<ptT0002>......
+
+//TEXT
+<enT0003>...
+<ptT0003>...
+
+//TEXT 【Tomosane】
+<enT0004>"..."
+<ptT0004>"..."
+
+//TEXT 【Tomosane】
+<enT0005>"Huh?"
+<ptT0005>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0006>"The sky?"
+<ptT0006>"The sky?"
+
+//TEXT 【Tomosane】
+<enT0007>"Where am I?"
+<ptT0007>"Where am I?"
+
+//TEXT 【Tomosane】
+<enT0008>"Building B? And it's afternoon?"
+<ptT0008>"Building B? And it's afternoon?"
+
+//TEXT 【Tomosane】
+<enT0009>"I..."
+<ptT0009>"I..."
+
+//TEXT
+<enT0010>What happened?
+<ptT0010>What happened?
+
+//TEXT
+<enT0011>I'm confused...
+<ptT0011>I'm confused...
+
+//TEXT
+<enT0012>This hasn't happened... in a while.
+<ptT0012>This hasn't happened... in a while.
+
+//TEXT 【Tomosane】
+<enT0013>"I was out for a while that time."
+<ptT0013>"I was out for a while that time."
+
+//TEXT
+<enT0014>It was just my intuition, but I knew it right away.
+<ptT0014>It was just my intuition, but I knew it right away.
+
+//TEXT
+<enT0015>That my consciousness had been gone for an unusually long time.
+<ptT0015>That my consciousness had been gone for an unusually long time.
+
+//TEXT
+<enT0016>The longer it's gone, the greater the reaction when my consciousness returns. I could tell that quite a long time had passed.
+<ptT0016>The longer it's gone, the greater the reaction when my consciousness returns. I could tell that quite a long time had passed.
+
+//TEXT
+<enT0017>But when I looked at the time on my cell phone, surprise turned into horror.
+<ptT0017>But when I looked at the time on my cell phone, surprise turned into horror.
+
+//TEXT 【Tomosane】
+<enT0018>"July 10th... 12:05..."
+<ptT0018>"July 10th... 12:05..."
+
+//TEXT
+<enT0019>It's been a long time since I've experienced a gap that big... No, this must be the first time.
+<ptT0019>It's been a long time since I've experienced a gap that big... No, this must be the first time.
+
+//TEXT
+<enT0020>I slowly followed my memory back to the last time I was awake.
+<ptT0020>I slowly followed my memory back to the last time I was awake.
+
+//TEXT
+<enT0021>...
+<ptT0021>...
+
+//TEXT
+<enT0022>The last thing I remembered was that day when we were in the bathroom together.
+<ptT0022>The last thing I remembered was that day when we were in the bathroom together.
+
+//TEXT
+<enT0023>The date was July 6th. It's been 4 days since then...
+<ptT0023>The date was July 6th. It's been 4 days since then...
+
+//TEXT
+<enT0024>I'd never experienced such a large leap forward in time before.
+<ptT0024>I'd never experienced such a large leap forward in time before.
+
+//TEXT 【Tomosane】
+<enT0025>"Why hasn't my consciousness come to the surface in such a long time?"
+<ptT0025>"Why hasn't my consciousness come to the surface in such a long time?"
+
+//TEXT 【Tomosane】
+<enT0026>"I'm shocked... No, this is terrifying."
+<ptT0026>"I'm shocked... No, this is terrifying."
+
+//TEXT 【Tomosane】
+<enT0027>"I've experienced leaps forward in time before, but I'm shocked that it could last this long."
+<ptT0027>"I've experienced leaps forward in time before, but I'm shocked that it could last this long."
+
+//TEXT 【Tomosane】
+<enT0028>"Is this how Yuki feels?"
+<ptT0028>"Is this how Yuki feels?"
+
+//TEXT
+<enT0029>She was just a bit surprised when it happened to her, like it was no big deal.
+<ptT0029>She was just a bit surprised when it happened to her, like it was no big deal.
+
+//TEXT
+<enT0030>I can't believe she could experience something like that and still act like it's nothing.
+<ptT0030>I can't believe she could experience something like that and still act like it's nothing.
+
+//TEXT
+<enT0031>That woman is something else.
+<ptT0031>That woman is something else.
+
+//TEXT
+<enT0032>When I lose consciousness for this long, I get the feeling I'm being pushed out.
+<ptT0032>When I lose consciousness for this long, I get the feeling I'm being pushed out.
+
+//TEXT
+<enT0033>Like I'm being forcibly driven away.
+<ptT0033>Like I'm being forcibly driven away.
+
+//TEXT
+<enT0034>When I finally awoke, I felt like I had just woken from a long dream... and I felt utterly bewildered.
+<ptT0034>When I finally awoke, I felt like I had just woken from a long dream... and I felt utterly bewildered.
+
+//TEXT
+<enT0035>It must have been even worse for Yuki.
+<ptT0035>It must have been even worse for Yuki.
+
+//TEXT
+<enT0036>Even worse...
+<ptT0036>Even worse...
+
+//TEXT
+<enT0037>How much worse could it get?
+<ptT0037>How much worse could it get?
+
+//TEXT
+<enT0038>I was only gone for four days. It's not like I lost several weeks like Yuki did.
+<ptT0038>I was only gone for four days. It's not like I lost several weeks like Yuki did.
+
+//TEXT
+<enT0039>If I'm this bewildered after four days, how bad would it be after four weeks?
+<ptT0039>If I'm this bewildered after four days, how bad would it be after four weeks?
+
+//TEXT
+<enT0040>I can't even imagine it.
+<ptT0040>I can't even imagine it.
+
+//TEXT
+<enT0041>Would I even be able to reconstruct my consciousness after that long?
+<ptT0041>Would I even be able to reconstruct my consciousness after that long?
+
+//TEXT
+<enT0042>Or would my consciousness still be scattered and lost when I woke up?
+<ptT0042>Or would my consciousness still be scattered and lost when I woke up?
+
+//TEXT
+<enT0043>After experiencing this today...
+<ptT0043>After experiencing this today...
+
+//TEXT
+<enT0044>That state is closer to nonexistence than a simple pause.
+<ptT0044>That state is closer to nonexistence than a simple pause.
+
+//TEXT
+<enT0045>There was a strong force, so strong that I was surprised I could even lift my consciousness to the surface.
+<ptT0045>There was a strong force, so strong that I was surprised I could even lift my consciousness to the surface.
+
+//TEXT
+<enT0046>And that force...
+<ptT0046>And that force...
+
+//TEXT 【Tomosane】
+<enT0047>"That force wasn't suppressing my consciousness... That force tried to erase it."
+<ptT0047>"That force wasn't suppressing my consciousness... That force tried to erase it."
+
+//TEXT 【Tomosane】
+<enT0048>"..."
+<ptT0048>"..."
+
+//TEXT
+<enT0049>That's right.
+<ptT0049>That's right.
+
+//TEXT 【Tomosane】
+<enT0050>"Is that it? Yuki, you..."
+<ptT0050>"Is that it? Yuki, you..."
+
+//TEXT
+<enT0051>I'm such a fool. I never realized that truth before.
+<ptT0051>I'm such a fool. I never realized that truth before.
+
+//TEXT
+<enT0052>But now that I think about it, it's obvious.
+<ptT0052>But now that I think about it, it's obvious.
+
+//TEXT
+<enT0053>That's not a pause in our consciousness.
+<ptT0053>That's not a pause in our consciousness.
+
+//TEXT 【Tomosane】
+<enT0054>"Yuki was already... being erased."
+<ptT0054>"Yuki was already... being erased."
+
+//TEXT
+<enT0055>It's impossible for her personality to just coincidentally be paused for such a long time.
+<ptT0055>It's impossible for her personality to just coincidentally be paused for such a long time.
+
+//TEXT
+<enT0056>Her personality was already being erased.
+<ptT0056>Her personality was already being erased.
+
+//TEXT
+<enT0057>That's why the new, disconnected personality "Minakami Yuki" was created.
+<ptT0057>That's why the new, disconnected personality "Minakami Yuki" was created.
+
+//TEXT
+<enT0058>The new "Minakami Yuki," who perceives Hasaki as two fictional twins, was only created once Yuki was erased.
+<ptT0058>The new "Minakami Yuki," who perceives Hasaki as two fictional twins, was only created once Yuki was erased.
+
+//TEXT
+<enT0059>Which means Yuki is already an unnecessary personality. She was nothing more than a hindrance for the creation of the new Yuki personality.
+<ptT0059>Which means Yuki is already an unnecessary personality. She was nothing more than a hindrance for the creation of the new Yuki personality.
+
+//TEXT
+<enT0060>That's why she seemed so rushed.
+<ptT0060>That's why she seemed so rushed.
+
+//TEXT 【Tomosane】
+<enT0061>"Yuki, that dummy..."
+<ptT0061>"Yuki, that dummy..."
+
+//TEXT
+<enT0062>She said she was forcibly keeping her consciousness on the surface.
+<ptT0062>She said she was forcibly keeping her consciousness on the surface.
+
+//TEXT
+<enT0063>I didn't think anything about that statement.
+<ptT0063>I didn't think anything about that statement.
+
+//TEXT
+<enT0064>I understood it as just another piece of the same puzzle.
+<ptT0064>I understood it as just another piece of the same puzzle.
+
+//TEXT 【Tomosane】
+<enT0065>"No... This is completely different than before."
+<ptT0065>"No... This is completely different than before."
+
+//TEXT
+<enT0066>That's right.
+<ptT0066>That's right.
+
+//TEXT 【Tomosane】
+<enT0067>"Mamiya Takuji is already trying to remove the original Yuki."
+<ptT0067>"Mamiya Takuji is already trying to remove the original Yuki."
+
+//TEXT
+<enT0068>That's much more than simply stopping her personality for a long time.
+<ptT0068>That's much more than simply stopping her personality for a long time.
+
+//TEXT
+<enT0069>Mamiya Takuji is forcibly erasing her.
+<ptT0069>Mamiya Takuji is forcibly erasing her.
+
+//TEXT
+<enT0070>Which means the disappearance of Yuki's personality.
+<ptT0070>Which means the disappearance of Yuki's personality.
+
+//TEXT
+<enT0071>No, the reverse. Yuki didn't come out of a long pause. She was only holding onto her consciousness after she barely escaped being erased.
+<ptT0071>No, the reverse. Yuki didn't come out of a long pause. She was only holding onto her consciousness after she barely escaped being erased.
+
+//TEXT
+<enT0072>Somehow, she held onto her consciousness so she could continue to exist.
+<ptT0072>Somehow, she held onto her consciousness so she could continue to exist.
+
+//TEXT
+<enT0073>Which means now Yuki is...
+<ptT0073>Which means now Yuki is...
+
+//TEXT
+<enT0074>That dumbass. She was worried about my relationship with Hasaki at the end, huh?
+<ptT0074>That dumbass. She was worried about my relationship with Hasaki at the end, huh?
+
+//TEXT 【Tomosane】
+<enT0075>"Why didn't she say anything?"
+<ptT0075>"Why didn't she say anything?"
+
+//TEXT 【Tomosane】
+<enT0076>"She was already being erased."
+<ptT0076>"She was already being erased."
+
+//TEXT 【Tomosane】
+<enT0077>"She only delayed her disappearance by holding onto her consciousness."
+<ptT0077>"She only delayed her disappearance by holding onto her consciousness."
+
+//TEXT
+<enT0078>Why did she try so hard to delay it?
+<ptT0078>Why did she try so hard to delay it?
+
+//TEXT 【Tomosane】
+<enT0079>"Damn it, Yuki."
+<ptT0079>"Damn it, Yuki."
+
+//TEXT
+<enT0080>From my perspective, "I" am an existence that will disappear, while "Yuki" is going to remain in this world.
+<ptT0080>From my perspective, "I" am an existence that will disappear, while "Yuki" is going to remain in this world.
+
+//TEXT
+<enT0081>But she must've felt the same way.
+<ptT0081>But she must've felt the same way.
+
+//TEXT
+<enT0082>The new "Minakami Yuki" is the one that will remain.
+<ptT0082>The new "Minakami Yuki" is the one that will remain.
+
+//TEXT
+<enT0083>The Yuki I know will disappear.
+<ptT0083>The Yuki I know will disappear.
+
+//TEXT
+<enT0084>She will be erased.
+<ptT0084>She will be erased.
+
+//TEXT
+<enT0085>Even before me...
+<ptT0085>Even before me...
+
+//TEXT
+<enT0086>That's why she wanted to leave Hasaki in my hands, since she knew I would last longer than her.
+<ptT0086>That's why she wanted to leave Hasaki in my hands, since she knew I would last longer than her.
+
+//TEXT
+<enT0087>She wanted to leave Hasaki to me, "Yuuki Tomosane," not the new "Minakami Yuki," who is the same and yet completely different from her.
+<ptT0087>She wanted to leave Hasaki to me, "Yuuki Tomosane," not the new "Minakami Yuki," who is the same and yet completely different from her.
+
+//TEXT
+<enT0088>She wanted to leave her in my hands.
+<ptT0088>She wanted to leave her in my hands.
+
+//TEXT
+<enT0089>That's why she held onto her consciousness so desperately for those few days.
+<ptT0089>That's why she held onto her consciousness so desperately for those few days.
+
+//TEXT
+<enT0090>That Yuki was already useless once the new "Minakami Yuki," the one that Mamiya Takuji desired, was born.
+<ptT0090>That Yuki was already useless once the new "Minakami Yuki," the one that Mamiya Takuji desired, was born.
+
+//TEXT
+<enT0091>Rather, she was getting in the way of the new "Minakami Yuki."
+<ptT0091>Rather, she was getting in the way of the new "Minakami Yuki."
+
+//TEXT
+<enT0092>There's no point in them both existing.
+<ptT0092>There's no point in them both existing.
+
+//TEXT
+<enT0093>Rather, it's only natural for the old Yuki to disappear once the new "Minakami Yuki" is born.
+<ptT0093>Rather, it's only natural for the old Yuki to disappear once the new "Minakami Yuki" is born.
+
+//TEXT 【Tomosane】
+<enT0094>"Then... what about me?"
+<ptT0094>"Then... what about me?"
+
+//TEXT
+<enT0095>Why was my consciousness stopped for such a long―well, not long compared to Yuki―time?
+<ptT0095>Why was my consciousness stopped for such a long―well, not long compared to Yuki―time?
+
+//TEXT 【Tomosane】
+<enT0096>"Agh!"
+<ptT0096>"Agh!"
+
+//TEXT
+<enT0097>I could feel Mamiya Takuji's existence.
+<ptT0097>I could feel Mamiya Takuji's existence.
+
+//TEXT
+<enT0098>That's strange. He's fated to be erased by me, and yet...
+<ptT0098>That's strange. He's fated to be erased by me, and yet...
+
+//TEXT
+<enT0099>His existence is growing even stronger.
+<ptT0099>His existence is growing even stronger.
+
+//TEXT
+<enT0100>And it feels like my existence is growing weaker.
+<ptT0100>And it feels like my existence is growing weaker.
+
+//TEXT 【Tomosane】
+<enT0101>"Ah!"
+<ptT0101>"Ah!"
+
+//TEXT
+<enT0102>I checked my phone again.
+<ptT0102>I checked my phone again.
+
+//TEXT 【Tomosane】
+<enT0103>"Today is..."
+<ptT0103>"Today is..."
+
+//TEXT
+<enT0104>That's right!
+<ptT0104>That's right!
+
+//TEXT
+<enT0105>I remembered when I looked at the date again.
+<ptT0105>I remembered when I looked at the date again.
+
+//TEXT
+<enT0106>The day I promised to meet Mamiya Takuji had already passed.
+<ptT0106>The day I promised to meet Mamiya Takuji had already passed.
+
+//TEXT
+<enT0107>The day I was supposed to meet him again...
+<ptT0107>The day I was supposed to meet him again...
+
+//TEXT 【Tomosane】
+<enT0108>"Fuck!"
+<ptT0108>"Fuck!"
+
+//TEXT 【Tomosane】
+<enT0109>"I have to erase him."
+<ptT0109>"I have to erase him."
+
+//TEXT
+<enT0110>For some reason, I had a worrying presentiment.
+<ptT0110>For some reason, I had a worrying presentiment.
+
+//TEXT
+<enT0111>I couldn't understand.
+<ptT0111>I couldn't understand.
+
+//TEXT
+<enT0112>Why would I feel like that?
+<ptT0112>Why would I feel like that?
+
+//TEXT
+<enT0113>My heart was steeped in uncertainty.
+<ptT0113>My heart was steeped in uncertainty.
+
+//TEXT 【Tomosane】
+<enT0114>"Haa, haa..."
+<ptT0114>"Haa, haa..."
+
+//TEXT
+<enT0115>I tuned into the channel of Mamiya's existence.
+<ptT0115>I tuned into the channel of Mamiya's existence.
+
+//TEXT
+<enT0116>The place was right in front of Takashima Zakuro's classroom.
+<ptT0116>The place was right in front of Takashima Zakuro's classroom.
+
+//TEXT
+<enT0117>I didn't have a solid reason, but my intuition told me that if I aligned our channels here, I could meet him.
+<ptT0117>I didn't have a solid reason, but my intuition told me that if I aligned our channels here, I could meet him.
+
+//TEXT
+<enT0118>No, it wasn't my intuition or anything supernatural like that.
+<ptT0118>No, it wasn't my intuition or anything supernatural like that.
+
+//TEXT
+<enT0119>Mamiya's consciousness appears in this place.
+<ptT0119>Mamiya's consciousness appears in this place.
+
+//TEXT
+<enT0120>So I can't miss that moment.
+<ptT0120>So I can't miss that moment.
+
+//TEXT
+<enT0121>I can't let him trade places with me. I have to hold onto my own consciousness.
+<ptT0121>I can't let him trade places with me. I have to hold onto my own consciousness.
+
+//TEXT
+<enT0122>If my hypothesis is correct, I could simply let myself be pushed out of consciousness without meeting Mamiya at all.
+<ptT0122>If my hypothesis is correct, I could simply let myself be pushed out of consciousness without meeting Mamiya at all.
+
+//TEXT 【Tomosane】
+<enT0123>"..."
+<ptT0123>"..."
+
+//TEXT
+<enT0124>Mamiya's body came into sight hazily. He was peeking into the classroom from the hallway.
+<ptT0124>Mamiya's body came into sight hazily. He was peeking into the classroom from the hallway.
+
+//TEXT
+<enT0125>I think this classroom was next to ours. This is Takashima Zakuro's classroom.
+<ptT0125>I think this classroom was next to ours. This is Takashima Zakuro's classroom.
+
+//TEXT
+<enT0126>I wonder if Mamiya Takuji has some sort of relationship with Takashima Zakuro too, just like Yuki did.
+<ptT0126>I wonder if Mamiya Takuji has some sort of relationship with Takashima Zakuro too, just like Yuki did.
+
+//TEXT
+<enT0127>No... That's not important right now.
+<ptT0127>No... That's not important right now.
+
+//TEXT
+<enT0128>Here he comes.
+<ptT0128>Here he comes.
+
+//TEXT 【Tomosane】
+<enT0129>"I've been looking for you..."
+<ptT0129>"I've been looking for you..."
+
+//TEXT 【Takuji】
+<enT0130>"    "
+<ptT0130>"    "
+
+//TEXT
+<enT0131>Our channels weren't quite lined up. Almost there...
+<ptT0131>Our channels weren't quite lined up. Almost there...
+
+//TEXT 【Takuji】
+<enT0132>"U-Umm..."
+<ptT0132>"U-Umm..."
+
+//TEXT
+<enT0133>...
+<ptT0133>...
+
+//TEXT
+<enT0134>There he is.
+<ptT0134>There he is.
+
+//TEXT
+<enT0135>This is kind of anticlimactic.
+<ptT0135>This is kind of anticlimactic.
+
+//TEXT
+<enT0136>I didn't think I would be able to find him.
+<ptT0136>I didn't think I would be able to find him.
+
+//TEXT 【Tomosane】
+<enT0137>"You promised you'd bring me 50,000 yen. Your time's up."
+<ptT0137>"You promised you'd bring me 50,000 yen. Your time's up."
+
+//TEXT
+<enT0138>The promise from a week ago. I ordered him to bring me 50,000 yen.
+<ptT0138>The promise from a week ago. I ordered him to bring me 50,000 yen.
+
+//TEXT
+<enT0139>I felt uneasy, thinking...
+<ptT0139>I felt uneasy, thinking...
+
+//TEXT
+<enT0140>What if my consciousness was gone for such a long time because Mamiya Takuji tried to erase me just like Yuki?
+<ptT0140>What if my consciousness was gone for such a long time because Mamiya Takuji tried to erase me just like Yuki?
+
+//TEXT
+<enT0141>In the end, Yuki and I only exist in accordance with his will.
+<ptT0141>In the end, Yuki and I only exist in accordance with his will.
+
+//TEXT
+<enT0142>This man looks weak, but he's the absolute authority, the one who created everything.
+<ptT0142>This man looks weak, but he's the absolute authority, the one who created everything.
+
+//TEXT
+<enT0143>Yuki and I, the Destroyer and the Harmonizer, were both created through this man's will.
+<ptT0143>Yuki and I, the Destroyer and the Harmonizer, were both created through this man's will.
+
+//TEXT
+<enT0144>Which means, if he changed his mind―for instance, if he's too scared to be erased―then it's possible that he could forcibly erase me.
+<ptT0144>Which means, if he changed his mind―for instance, if he's too scared to be erased―then it's possible that he could forcibly erase me.
+
+//TEXT
+<enT0145>That's why I had chills running down my spine.
+<ptT0145>That's why I had chills running down my spine.
+
+//TEXT
+<enT0146>Mamiya Takuji cowered before me.
+<ptT0146>Mamiya Takuji cowered before me.
+
+//TEXT
+<enT0147>But I was the one who was truly afraid.
+<ptT0147>But I was the one who was truly afraid.
+
+//TEXT
+<enT0148>Because I could disappear on his mere whim.
+<ptT0148>Because I could disappear on his mere whim.
+
+//TEXT 【Tomosane】
+<enT0149>"Hurry up... Give me the money. The money."
+<ptT0149>"Hurry up... Give me the money. The money."
+
+//TEXT 【Takuji】
+<enT0150>"Um, well..."
+<ptT0150>"Um, well..."
+
+//TEXT 【Tomosane】
+<enT0151>"Don't tell me you don't have your wallet with you. I can see it in your back pocket."
+<ptT0151>"Don't tell me you don't have your wallet with you. I can see it in your back pocket."
+
+//TEXT 【Takuji】
+<enT0152>"Huh? U-Umm..."
+<ptT0152>"Huh? U-Umm..."
+
+//TEXT 【Takuji】
+<enT0153>"Eagh!"
+<ptT0153>"Eagh!"
+
+//TEXT
+<enT0154>I braced myself after hitting him.
+<ptT0154>I braced myself after hitting him.
+
+//TEXT
+<enT0155>I almost expected to disappear the second I struck him.
+<ptT0155>I almost expected to disappear the second I struck him.
+
+//TEXT
+<enT0156>But that fear didn't come true.
+<ptT0156>But that fear didn't come true.
+
+//TEXT
+<enT0157>He crumpled under my first blow, just like every time before.
+<ptT0157>He crumpled under my first blow, just like every time before.
+
+//TEXT
+<enT0158>Nothing changed. Nothing at all.
+<ptT0158>Nothing changed. Nothing at all.
+
+//TEXT
+<enT0159>Which means...
+<ptT0159>Which means...
+
+//TEXT
+<enT0160>I should hurt him enough to erase his existence right here and now.
+<ptT0160>I should hurt him enough to erase his existence right here and now.
+
+//TEXT
+<enT0161>Even if he hasn't erased me yet, I should destroy him as soon as I can.
+<ptT0161>Even if he hasn't erased me yet, I should destroy him as soon as I can.
+
+//TEXT
+<enT0162>Because that's my fated role.
+<ptT0162>Because that's my fated role.
+
+//TEXT 【Tomosane】
+<enT0163>"Now then, hand it over."
+<ptT0163>"Now then, hand it over."
+
+//TEXT 【Takuji】
+<enT0164>"U-Uh... Okay..."
+<ptT0164>"U-Uh... Okay..."
+
+//TEXT 【Tomosane】
+<enT0165>"What's this?"
+<ptT0165>"What's this?"
+
+//TEXT 【Takuji】
+<enT0166>"Huh? Wh-What do you mean?"
+<ptT0166>"Huh? Wh-What do you mean?"
+
+//TEXT 【Tomosane】
+<enT0167>"There's only 27,571 yen here."
+<ptT0167>"There's only 27,571 yen here."
+
+//TEXT 【Takuji】
+<enT0168>"W-Well..."
+<ptT0168>"W-Well..."
+
+//TEXT 【Takuji】
+<enT0169>"Ow..."
+<ptT0169>"Ow..."
+
+//TEXT 【Tomosane】
+<enT0170>"You're not going to have a good time if you can't even keep your promises. You're more than 20,000 yen short."
+<ptT0170>"You're not going to have a good time if you can't even keep your promises. You're more than 20,000 yen short."
+
+//TEXT 【Takuji】
+<enT0171>"I-I'm sorry..."
+<ptT0171>"I-I'm sorry..."
+
+//TEXT 【Tomosane】
+<enT0172>"Oh, no..."
+<ptT0172>"Oh, no..."
+
+//TEXT 【Takuji】
+<enT0173>"E-Eek."
+<ptT0173>"E-Eek."
+
+//TEXT 【Tomosane】
+<enT0174>"I don't care for your apologies. It's just, it really bothers me when I don't have any money."
+<ptT0174>"I don't care for your apologies. It's just, it really bothers me when I don't have any money."
+
+//TEXT
+<enT0175>Disappear! Disappear! Disappear! Disappear! Disappear!
+<ptT0175>Disappear! Disappear! Disappear! Disappear! Disappear!
+
+//TEXT
+<enT0176>I prayed as I punched him.
+<ptT0176>I prayed as I punched him.
+
+//TEXT
+<enT0177>As I punched him, I noticed... something was weird.
+<ptT0177>As I punched him, I noticed... something was weird.
+
+//TEXT
+<enT0178>Disappear! Disappear! Disappear! Disappear! Disappear!
+<ptT0178>Disappear! Disappear! Disappear! Disappear! Disappear!
+
+//TEXT 【Tomosane】
+<enT0179>"Ah!"
+<ptT0179>"Ah!"
+
+//TEXT
+<enT0180>Mamiya's eyes glimmered for a moment.
+<ptT0180>Mamiya's eyes glimmered for a moment.
+
+//TEXT
+<enT0181>No, I must've been imagining it. He was the same frightened child as always. There was no change.
+<ptT0181>No, I must've been imagining it. He was the same frightened child as always. There was no change.
+
+//TEXT
+<enT0182>But I instinctively stopped my fist.
+<ptT0182>But I instinctively stopped my fist.
+
+//TEXT 【Takuji】
+<enT0183>"I'm so sorry. I'm so sorry. I'm so sorry. I'm so sorry..."
+<ptT0183>"I'm so sorry. I'm so sorry. I'm so sorry. I'm so sorry..."
+
+//TEXT 【Tomosane】
+<enT0184>"Tch..."
+<ptT0184>"Tch..."
+
+//TEXT
+<enT0185>For some reason, my entire body was covered with a sheen of cold sweat.
+<ptT0185>For some reason, my entire body was covered with a sheen of cold sweat.
+
+//TEXT
+<enT0186>He was crying and begging for mercy at my feet, but the one whose heart was truly frozen with fear...
+<ptT0186>He was crying and begging for mercy at my feet, but the one whose heart was truly frozen with fear...
+
+//TEXT 【Tomosane】
+<enT0187>"Damn it. It's me."
+<ptT0187>"Damn it. It's me."
+
+//TEXT 【Shiroyama】
+<enT0188>"Ah..."
+<ptT0188>"Ah..."
+
+//TEXT 【Iida】
+<enT0189>"Oh, Mamiya-kun."
+<ptT0189>"Oh, Mamiya-kun."
+
+//TEXT 【Iinuma】
+<enT0190>"Sup?"
+<ptT0190>"Sup?"
+
+//TEXT 【Tomosane】
+<enT0191>"..."
+<ptT0191>"..."
+
+//TEXT 【Shiroyama】
+<enT0192>"Gah!"
+<ptT0192>"Gah!"
+
+//TEXT 【Iinuma】
+<enT0193>"Why?"
+<ptT0193>"Why?"
+
+//TEXT
+<enT0194>There was no reason. It was just an outburst of anger.
+<ptT0194>There was no reason. It was just an outburst of anger.
+
+//TEXT
+<enT0195>Anger at myself, for being afraid of Mamiya Takuji.
+<ptT0195>Anger at myself, for being afraid of Mamiya Takuji.
+
+//TEXT 【Tomosane】
+<enT0196>"Just now... 'Oh crap' was written on your face, like you didn't want to see me."
+<ptT0196>"Just now... 'Oh crap' was written on your face, like you didn't want to see me."
+
+//TEXT 【Shiroyama】
+<enT0197>"Th-That's..."
+<ptT0197>"Th-That's..."
+
+//TEXT 【Tomosane】
+<enT0198>"I don't know why, but I'm not too fond of excuses."
+<ptT0198>"I don't know why, but I'm not too fond of excuses."
+
+//TEXT 【Iinuma】
+<enT0199>"Mamiya-kun, I don't think he meant it that way..."
+<ptT0199>"Mamiya-kun, I don't think he meant it that way..."
+
+//TEXT 【Tomosane】
+<enT0200>"What? Iinuma, are you talking back to me?"
+<ptT0200>"What? Iinuma, are you talking back to me?"
+
+//TEXT 【Iinuma】
+<enT0201>"N-Not at all, but..."
+<ptT0201>"N-Not at all, but..."
+
+//TEXT 【Tomosane】
+<enT0202>"If you're going to disobey me, you'd better be prepared to kill me. You know that, right?"
+<ptT0202>"If you're going to disobey me, you'd better be prepared to kill me. You know that, right?"
+
+//TEXT 【Iinuma】
+<enT0203>"Y-Yes... That's..."
+<ptT0203>"Y-Yes... That's..."
+
+//TEXT 【Tomosane】
+<enT0204>"Well, whatever."
+<ptT0204>"Well, whatever."
+
+//TEXT 【Tomosane】
+<enT0205>"Actually, didn't you know someone who was growing some leaf, Numada?"
+<ptT0205>"Actually, didn't you know someone who was growing some leaf, Numada?"
+
+//TEXT 【Iida】
+<enT0206>"A-About that... He got caught by the police."
+<ptT0206>"A-About that... He got caught by the police."
+
+//TEXT 【Tomosane】
+<enT0207>"Really? He got caught?"
+<ptT0207>"Really? He got caught?"
+
+//TEXT 【Shiroyama】
+<enT0208>"Yes, and... he snitched on a lot of other people."
+<ptT0208>"Yes, and... he snitched on a lot of other people."
+
+//TEXT 【Tomosane】
+<enT0209>"So you're going to get caught too?"
+<ptT0209>"So you're going to get caught too?"
+
+//TEXT 【Iida】
+<enT0210>"No... I think I'm probably safe, but..."
+<ptT0210>"No... I think I'm probably safe, but..."
+
+//TEXT 【Tomosane】
+<enT0211>"Anyway, if you do get caught, don't tell them about me. Otherwise, I'll kill you when I get out."
+<ptT0211>"Anyway, if you do get caught, don't tell them about me. Otherwise, I'll kill you when I get out."
+
+//TEXT 【Iida】
+<enT0212>"I'm not a snitch. Besides, I'm not going to get caught... Probably."
+<ptT0212>"I'm not a snitch. Besides, I'm not going to get caught... Probably."
+
+//TEXT 【Tomosane】
+<enT0213>"Hmm. Well, keep it up then."
+<ptT0213>"Hmm. Well, keep it up then."
+
+//TEXT
+<enT0214>This conversation is pointless.
+<ptT0214>This conversation is pointless.
+
+//TEXT
+<enT0215>I'm only running away from Mamiya Takuji. Shiroyama doesn't matter right now.
+<ptT0215>I'm only running away from Mamiya Takuji. Shiroyama doesn't matter right now.
+
+//TEXT
+<enT0216>None of these guys matter at all.
+<ptT0216>None of these guys matter at all.
+
+//TEXT
+<enT0217>Mamiya Takuji's destruction... that is my raison d'etre.
+<ptT0217>Mamiya Takuji's destruction... that is my raison d'etre.
+
+//TEXT
+<enT0218>And yet...
+<ptT0218>And yet...
+
+//TEXT 【Tomosane】
+<enT0219>"And as for you, Mamiya-kun, I'll wait till next week. Get me the rest of the money."
+<ptT0219>"And as for you, Mamiya-kun, I'll wait till next week. Get me the rest of the money."
+
+//TEXT 【Tomosane】
+<enT0220>"If you don't, it won't just be painful."
+<ptT0220>"If you don't, it won't just be painful."
+
+//TEXT 【Takuji】
+<enT0221>"O-Okay..."
+<ptT0221>"O-Okay..."
+
+//TEXT
+<enT0222>Our voice was shaking with fear. Not his voice, mine.
+<ptT0222>Our voice was shaking with fear. Not his voice, mine.
+
+//TEXT 【Tomosane】
+<enT0223>"Alright, then... Does anyone have a cigarette?"
+<ptT0223>"Alright, then... Does anyone have a cigarette?"
+
+//TEXT 【Shiroyama】
+<enT0224>"Ah, you want some of my Sevens?"
+<ptT0224>"Ah, you want some of my Sevens?"
+
+//TEXT 【Tomosane】
+<enT0225>"Sevens? Isn't that the stuff that smells like shit?"
+<ptT0225>"Sevens? Isn't that the stuff that smells like shit?"
+
+//TEXT 【Iida】
+<enT0226>"Yeah, it is."
+<ptT0226>"Yeah, it is."
+
+//TEXT 【Shiroyama】
+<enT0227>"What? Really? I like it."
+<ptT0227>"What? Really? I like it."
+
+//TEXT 【Tomosane】
+<enT0228>"Whatever, that works."
+<ptT0228>"Whatever, that works."
+
+//TEXT 【Iida】
+<enT0229>"You always like the offbeat brands. What was it? Never... Neverland, I think?"
+<ptT0229>"You always like the offbeat brands. What was it? Never... Neverland, I think?"
+
+//TEXT 【Tomosane】
+<enT0230>"It's not like I want to smoke something weird like that. It's just what's always in my pocket, so I smoke it."
+<ptT0230>"It's not like I want to smoke something weird like that. It's just what's always in my pocket, so I smoke it."
+
+//TEXT 【Iida】
+<enT0231>"What? Is your pocket an extradimensional portal?"
+<ptT0231>"What? Is your pocket an extradimensional portal?"
+
+//TEXT 【Tomosane】
+<enT0232>"I wish. Then I'd have as much as I wanted. Though I'd rather it gave me money instead."
+<ptT0232>"I wish. Then I'd have as much as I wanted. Though I'd rather it gave me money instead."
+
+//TEXT 【Shiroyama】
+<enT0233>"Of course."
+<ptT0233>"Of course."
+
+//TEXT
+<enT0234>Even when I smoked, I couldn't stop trembling.
+<ptT0234>Even when I smoked, I couldn't stop trembling.
+
+//TEXT
+<enT0235>I'm being completely eaten up by Mamiya Takuji.
+<ptT0235>I'm being completely eaten up by Mamiya Takuji.
+
+//TEXT
+<enT0236>What's going on?
+<ptT0236>What's going on?
+
+//TEXT
+<enT0237>I have to finish Mamiya Takuji soon.
+<ptT0237>I have to finish Mamiya Takuji soon.
+
+//TEXT
+<enT0238>That's supposed to be my role.
+<ptT0238>That's supposed to be my role.
+
+//TEXT 【Tomosane】
+<enT0239>"Agh!"
+<ptT0239>"Agh!"
+
+//TEXT 【Shiroyama】
+<enT0240>"Huh? Are you heading home?"
+<ptT0240>"Huh? Are you heading home?"
+
+//TEXT 【Tomosane】
+<enT0241>"I just wanted to go to the station."
+<ptT0241>"I just wanted to go to the station."
+
+//TEXT 【Iida】
+<enT0242>"You're gonna ditch all your classes?"
+<ptT0242>"You're gonna ditch all your classes?"
+
+//TEXT 【Tomosane】
+<enT0243>"Dunno. Anyway, I want to get some coffee at that cafe, Spring Coffee, in front of the station."
+<ptT0243>"Dunno. Anyway, I want to get some coffee at that cafe, Spring Coffee, in front of the station."
+
+//TEXT 【Iida】
+<enT0244>"Ahahaha, see ya later."
+<ptT0244>"Ahahaha, see ya later."
+
+//TEXT 【Tomosane】
+<enT0245>"...!"
+<ptT0245>"...!"
+
+//TEXT
+<enT0246>I felt dizzy. The world twisted and warped.
+<ptT0246>I felt dizzy. The world twisted and warped.
+
+//TEXT
+<enT0247>My vision blurred.
+<ptT0247>My vision blurred.
+
+//TEXT 【Tomosane】
+<enT0248>"What am I doing?"
+<ptT0248>"What am I doing?"
+
+//TEXT
+<enT0249>I have to finish him.
+<ptT0249>I have to finish him.
+
+//TEXT
+<enT0250>Finish Mamiya Takuji.
+<ptT0250>Finish Mamiya Takuji.
+
+//TEXT
+<enT0251>"Are you going to kill him again?"
+<ptT0251>"Are you going to kill him again?"
+
+//TEXT 【Tomosane】
+<enT0252>"Huh?"
+<ptT0252>"Huh?"
+
+//TEXT
+<enT0253>I thought I heard someone's voice.
+<ptT0253>I thought I heard someone's voice.
+
+//TEXT
+<enT0254>But I faded out before I could figure out whose it was.
+<ptT0254>But I faded out before I could figure out whose it was.
+
+//TEXT
+<enT0255>My consciousness was forcibly ended.
+<ptT0255>My consciousness was forcibly ended.
+
+//TEXT
+<enT0256>By the Creator, Mamiya Takuji.
+<ptT0256>By the Creator, Mamiya Takuji.
+
+///================================================================================
+
+//OTHER
+<enZ0001>4_0710.bss
+<ptZ0001>4_0710.bss
+
+//OTHER
+<enZ0002>July 10th
+<ptZ0002>July 10th
+
+//OTHER
+<enZ0003>Jabberwocky
+<ptZ0003>Jabberwocky
+
+//OTHER
+<enZ0004>daytm0710
+<ptZ0004>daytm0710
+
+//OTHER
+<enZ0005>black
+<ptZ0005>black
+
+//OTHER
+<enZ0006>sp0008c
+<ptZ0006>sp0008c
+
+//OTHER
+<enZ0007>sp0008f
+<ptZ0007>sp0008f
+
+//OTHER
+<enZ0008>map003
+<ptZ0008>map003
+
+//OTHER
+<enZ0009>bg1016a
+<ptZ0009>bg1016a
+
+//OTHER
+<enZ0010>bgm007
+<ptZ0010>bgm007
+
+//OTHER
+<enZ0011>se019
+<ptZ0011>se019
+
+//OTHER
+<enZ0012>map024
+<ptZ0012>map024
+
+//OTHER
+<enZ0013>bg1011a
+<ptZ0013>bg1011a
+
+//OTHER
+<enZ0014>tkj0300
+<ptZ0014>tkj0300
+
+//OTHER
+<enZ0015>bgm012
+<ptZ0015>bgm012
+
+//OTHER
+<enZ0016>se246
+<ptZ0016>se246
+
+//OTHER
+<enZ0017>taku_005306
+<ptZ0017>taku_005306
+
+//OTHER
+<enZ0018>tkj0006a_l
+<ptZ0018>tkj0006a_l
+
+//OTHER
+<enZ0019>taku_000890
+<ptZ0019>taku_000890
+
+//OTHER
+<enZ0020>taku_000891
+<ptZ0020>taku_000891
+
+//OTHER
+<enZ0021>tkj0009a_l
+<ptZ0021>tkj0009a_l
+
+//OTHER
+<enZ0022>taku_000892
+<ptZ0022>taku_000892
+
+//OTHER
+<enZ0023>se004
+<ptZ0023>se004
+
+//OTHER
+<enZ0024>taku_000893
+<ptZ0024>taku_000893
+
+//OTHER
+<enZ0025>tkj0007a
+<ptZ0025>tkj0007a
+
+//OTHER
+<enZ0026>tkj0006a
+<ptZ0026>tkj0006a
+
+//OTHER
+<enZ0027>taku_000894
+<ptZ0027>taku_000894
+
+//OTHER
+<enZ0028>tkj0008a
+<ptZ0028>tkj0008a
+
+//OTHER
+<enZ0029>taku_000895
+<ptZ0029>taku_000895
+
+//OTHER
+<enZ0030>tkj0009a
+<ptZ0030>tkj0009a
+
+//OTHER
+<enZ0031>taku_000896
+<ptZ0031>taku_000896
+
+//OTHER
+<enZ0032>taku_000897
+<ptZ0032>taku_000897
+
+//OTHER
+<enZ0033>taku_000898
+<ptZ0033>taku_000898
+
+//OTHER
+<enZ0034>taku_000899
+<ptZ0034>taku_000899
+
+//OTHER
+<enZ0035>se517
+<ptZ0035>se517
+
+//OTHER
+<enZ0036>tkj0300_l
+<ptZ0036>tkj0300_l
+
+//OTHER
+<enZ0037>taku_005307
+<ptZ0037>taku_005307
+
+//OTHER
+<enZ0038>sr0000
+<ptZ0038>sr0000
+
+//OTHER
+<enZ0039>nm0000
+<ptZ0039>nm0000
+
+//OTHER
+<enZ0040>in0000
+<ptZ0040>in0000
+
+//OTHER
+<enZ0041>sr0040
+<ptZ0041>sr0040
+
+//OTHER
+<enZ0042>nm0041
+<ptZ0042>nm0041
+
+//OTHER
+<enZ0043>sr0041
+<ptZ0043>sr0041
+
+//OTHER
+<enZ0044>tkj0000a_l
+<ptZ0044>tkj0000a_l
+
+//OTHER
+<enZ0045>tkj0007a_l
+<ptZ0045>tkj0007a_l
+
+//OTHER
+<enZ0046>taku_000900
+<ptZ0046>taku_000900
+
+//OTHER
+<enZ0047>nm0042
+<ptZ0047>nm0042
+
+//OTHER
+<enZ0048>bg1010a
+<ptZ0048>bg1010a
+
+//OTHER
+<enZ0049>yuki_003667
+<ptZ0049>yuki_003667
+
+//OTHER
+<enZ0050>se216
+<ptZ0050>se216
+
+//OTHER
+<enZ0051>map200
+<ptZ0051>map200
+
+//OTHER
+<enZ0052>4_0712
+<ptZ0052>4_0712
+

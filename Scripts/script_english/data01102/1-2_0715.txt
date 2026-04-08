@@ -1,0 +1,5228 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+//NAME
+<enN0003>Kagami
+<ptN0003>Kagami
+
+//NAME
+<enN0004>Tsukasa
+<ptN0004>Tsukasa
+
+//NAME
+<enN0005>Iida
+<ptN0005>Iida
+
+//NAME
+<enN0006>Mamiya
+<ptN0006>Mamiya
+
+//NAME
+<enN0007>Female Student
+<ptN0007>Female Student
+
+//NAME
+<enN0008>Male Student
+<ptN0008>Male Student
+
+//NAME
+<enN0009>Ayana
+<ptN0009>Ayana
+
+///================================================================================
+
+//TEXT 【Yuki】
+<enT0001>"Ah, what a pain. I'm late because that guy was so slow ringing up my order."
+<ptT0001>"Ah, what a pain. I'm late because that guy was so slow ringing up my order."
+
+//TEXT
+<enT0002>I looked at the clock.
+<ptT0002>I looked at the clock.
+
+//TEXT
+<enT0003>It was after 11, about the time when fourth period would be starting.
+<ptT0003>It was after 11, about the time when fourth period would be starting.
+
+//TEXT 【Yuki】
+<enT0004>"Um, also because the train was so slow getting here, maybe? Or something like that."
+<ptT0004>"Um, also because the train was so slow getting here, maybe? Or something like that."
+
+//TEXT
+<enT0005>Though that still didn't explain all the lost time, did it?
+<ptT0005>Though that still didn't explain all the lost time, did it?
+
+//TEXT 【Yuki】
+<enT0006>"And because the shower took so long. Or something like that."
+<ptT0006>"And because the shower took so long. Or something like that."
+
+//TEXT 【Yuki】
+<enT0007>"I guess that's the reason I'm late."
+<ptT0007>"I guess that's the reason I'm late."
+
+//TEXT 【Yuki】
+<enT0008>"Oh, that's the bell. Third period is over."
+<ptT0008>"Oh, that's the bell. Third period is over."
+
+//TEXT 【Yuki】
+<enT0009>"Ooh, just barely made it. I made it to morning classes, so I can just say my alarm clock didn't go off or something."
+<ptT0009>"Ooh, just barely made it. I made it to morning classes, so I can just say my alarm clock didn't go off or something."
+
+//TEXT
+<enT0010>Vertigo again?
+<ptT0010>Vertigo again?
+
+//TEXT
+<enT0011>Lately, I've been feeling dizzy all the time.
+<ptT0011>Lately, I've been feeling dizzy all the time.
+
+//TEXT
+<enT0012>Maybe I really am sick.
+<ptT0012>Maybe I really am sick.
+
+//TEXT 【Takuji】
+<enT0013>"Shut up!"
+<ptT0013>"Shut up!"
+
+//TEXT
+<enT0014>
+<ptT0014>
+
+//TEXT 【Kagami】
+<enT0015>"You're the one who needs to shut up!"
+<ptT0015>"You're the one who needs to shut up!"
+
+//TEXT 【Takuji】
+<enT0016>"What did you say, you whore?!"
+<ptT0016>"What did you say, you whore?!"
+
+//TEXT 【Kagami】
+<enT0017>"Wh-Whore? You're one to talk, you little brat!"
+<ptT0017>"Wh-Whore? You're one to talk, you little brat!"
+
+//TEXT 【Takuji】
+<enT0018>"What did you say?!"
+<ptT0018>"What did you say?!"
+
+//TEXT 【Takuji】
+<enT0019>"You dare say those words to one who has reached true enlightenment?! Y-You're the little brat!"
+<ptT0019>"You dare say those words to one who has reached true enlightenment?! Y-You're the little brat!"
+
+//TEXT 【Kagami】
+<enT0020>"Don't fucking say that!"
+<ptT0020>"Don't fucking say that!"
+
+//TEXT
+<enT0021>What's happening?
+<ptT0021>What's happening?
+
+//TEXT
+<enT0022>It looked like Kagami and Takuji were fighting.
+<ptT0022>It looked like Kagami and Takuji were fighting.
+
+//TEXT 【Kagami】
+<enT0023>"Don't say crap like that. Everyone's already scared as it is!"
+<ptT0023>"Don't say crap like that. Everyone's already scared as it is!"
+
+//TEXT 【Takuji】
+<enT0024>"It's not crap. It's the truth!"
+<ptT0024>"It's not crap. It's the truth!"
+
+//TEXT 【Tsukasa】
+<enT0025>"W-Wait, Onee-chan, calm down. You too, Mamiya-kun."
+<ptT0025>"W-Wait, Onee-chan, calm down. You too, Mamiya-kun."
+
+//TEXT 【Takuji】
+<enT0026>"I am calm. Aren't you the ones losing your calm?"
+<ptT0026>"I am calm. Aren't you the ones losing your calm?"
+
+//TEXT 【Tsukasa】
+<enT0027>"U-Um, maybe, but could we please talk without raising our voices?"
+<ptT0027>"U-Um, maybe, but could we please talk without raising our voices?"
+
+//TEXT 【Takuji】
+<enT0028>"I'm not raising my voice! It simply sounds that way because your ears are not capable of comprehending the truth entering them!"
+<ptT0028>"I'm not raising my voice! It simply sounds that way because your ears are not capable of comprehending the truth entering them!"
+
+//TEXT 【Iida】
+<enT0029>"Everyone sit down. Class is starting."
+<ptT0029>"Everyone sit down. Class is starting."
+
+//TEXT 【Yuki】
+<enT0030>"Mr. Iida, the world history teacher."
+<ptT0030>"Mr. Iida, the world history teacher."
+
+//TEXT 【Iida】
+<enT0031>"Come on, why are you just standing around?"
+<ptT0031>"Come on, why are you just standing around?"
+
+//TEXT 【Kagami】
+<enT0032>"Oh! Yes, sir!"
+<ptT0032>"Oh! Yes, sir!"
+
+//TEXT 【Tsukasa】
+<enT0033>"Oh, oh..."
+<ptT0033>"Oh, oh..."
+
+//TEXT 【Iida】
+<enT0034>"Everyone sit down! Class is starting."
+<ptT0034>"Everyone sit down! Class is starting."
+
+//TEXT 【Iida】
+<enT0035>"Mamiya, why are you still standing?"
+<ptT0035>"Mamiya, why are you still standing?"
+
+//TEXT 【Takuji】
+<enT0036>"..."
+<ptT0036>"..."
+
+//TEXT 【Iida】
+<enT0037>"What's wrong? Quit spacing out and sit down."
+<ptT0037>"What's wrong? Quit spacing out and sit down."
+
+//TEXT 【Mamiya】
+<enT0038>"Do I look like I'm spacing out?"
+<ptT0038>"Do I look like I'm spacing out?"
+
+//TEXT 【Iida】
+<enT0039>"Come on, Mamiya, your grades have fallen far enough. Would you quit asking stupid questions and sit down already?"
+<ptT0039>"Come on, Mamiya, your grades have fallen far enough. Would you quit asking stupid questions and sit down already?"
+
+//TEXT 【Mamiya】
+<enT0040>"Hehehe. A stupid question, is it? If you say so."
+<ptT0040>"Hehehe. A stupid question, is it? If you say so."
+
+//TEXT 【Iida】
+<enT0041>"Okay, class is starting. Turn to page 67. Today, we're covering the Roman Emp―"
+<ptT0041>"Okay, class is starting. Turn to page 67. Today, we're covering the Roman Emp―"
+
+//TEXT 【Takuji】
+<enT0042>"Mr. Iida!"
+<ptT0042>"Mr. Iida!"
+
+//TEXT 【Iida】
+<enT0043>"Something wrong? Or would you like to let me start class already?"
+<ptT0043>"Something wrong? Or would you like to let me start class already?"
+
+//TEXT 【Takuji】
+<enT0044>"..."
+<ptT0044>"..."
+
+//TEXT 【Iida】
+<enT0045>"What's wrong, Mamiya? Do you need to go to the bathroom?"
+<ptT0045>"What's wrong, Mamiya? Do you need to go to the bathroom?"
+
+//TEXT 【Takuji】
+<enT0046>"..."
+<ptT0046>"..."
+
+//TEXT 【Takuji】
+<enT0047>"You really are one of the vulgar people. That's why you can't see the big picture."
+<ptT0047>"You really are one of the vulgar people. That's why you can't see the big picture."
+
+//TEXT 【Iida】
+<enT0048>"Did you say something, Mamiya?"
+<ptT0048>"Did you say something, Mamiya?"
+
+//TEXT 【Takuji】
+<enT0049>"You don't even know that it's all about to end."
+<ptT0049>"You don't even know that it's all about to end."
+
+//TEXT 【Iida】
+<enT0050>"It's all about to end? What are you going on about now?"
+<ptT0050>"It's all about to end? What are you going on about now?"
+
+//TEXT 【Takuji】
+<enT0051>"For instance, if we were on a sinking ship, would you be standing at the bow reciting facts about the Roman Empire?"
+<ptT0051>"For instance, if we were on a sinking ship, would you be standing at the bow reciting facts about the Roman Empire?"
+
+//TEXT 【Iida】
+<enT0052>"Mamiya, what are you saying?"
+<ptT0052>"Mamiya, what are you saying?"
+
+//TEXT 【Takuji】
+<enT0053>"It's a question. A question. Would you be talking about some trivia from thousands of years ago while the ship sank around you?"
+<ptT0053>"It's a question. A question. Would you be talking about some trivia from thousands of years ago while the ship sank around you?"
+
+//TEXT 【Iida】
+<enT0054>"History isn't just trivia. And this isn't a boat. It's a classroom, and it's not sinking."
+<ptT0054>"History isn't just trivia. And this isn't a boat. It's a classroom, and it's not sinking."
+
+//TEXT 【Takuji】
+<enT0055>"I see. It's not a boat, it's not sinking, and your description of long-dead emperors isn't just trivia."
+<ptT0055>"I see. It's not a boat, it's not sinking, and your description of long-dead emperors isn't just trivia."
+
+//TEXT 【Iida】
+<enT0056>"That's right. Well, Mamiya? Have any more complaints?"
+<ptT0056>"That's right. Well, Mamiya? Have any more complaints?"
+
+//TEXT 【Takuji】
+<enT0057>"I have no complaints. It's rather obvious that a vulgar peasant such as yourself wouldn't be able to see the truth."
+<ptT0057>"I have no complaints. It's rather obvious that a vulgar peasant such as yourself wouldn't be able to see the truth."
+
+//TEXT 【Takuji】
+<enT0058>"After all, no one complains that cats and dogs can't do arithmetic, do they?"
+<ptT0058>"After all, no one complains that cats and dogs can't do arithmetic, do they?"
+
+//TEXT 【Iida】
+<enT0059>"Mamiya, are you feeling all right?"
+<ptT0059>"Mamiya, are you feeling all right?"
+
+//TEXT 【Takuji】
+<enT0060>"Feeling all right? Whatever do you mean? Maybe you should ask that of yourself, the one doing something so meaningless at a time like this."
+<ptT0060>"Feeling all right? Whatever do you mean? Maybe you should ask that of yourself, the one doing something so meaningless at a time like this."
+
+//TEXT 【Iida】
+<enT0061>"What do you mean, meaningless?"
+<ptT0061>"What do you mean, meaningless?"
+
+//TEXT 【Takuji】
+<enT0062>"Please, consider this. The world may have been created by a demon just ten seconds ago, and everything we call history was planted in our heads by that demon."
+<ptT0062>"Please, consider this. The world may have been created by a demon just ten seconds ago, and everything we call history was planted in our heads by that demon."
+
+//TEXT 【Iida】
+<enT0063>"That's impossible. There's plenty of historical evidence that contradicts that idea."
+<ptT0063>"That's impossible. There's plenty of historical evidence that contradicts that idea."
+
+//TEXT 【Takuji】
+<enT0064>"Then maybe the demon made that too. Maybe it planted the historical evidence."
+<ptT0064>"Then maybe the demon made that too. Maybe it planted the historical evidence."
+
+//TEXT 【Iida】
+<enT0065>"Mamiya, are you sure you're feeling all right? What's wrong?"
+<ptT0065>"Mamiya, are you sure you're feeling all right? What's wrong?"
+
+//TEXT 【Takuji】
+<enT0066>"Even if it wasn't a demon, this textbook may simply be a collection of humanity's convenient rationalizations."
+<ptT0066>"Even if it wasn't a demon, this textbook may simply be a collection of humanity's convenient rationalizations."
+
+//TEXT 【Takuji】
+<enT0067>"The truth may be that there are much greater things in this world, and someone wrote this book in order to conceal them."
+<ptT0067>"The truth may be that there are much greater things in this world, and someone wrote this book in order to conceal them."
+
+//TEXT 【Iida】
+<enT0068>"Who's the class representative?"
+<ptT0068>"Who's the class representative?"
+
+//TEXT 【Female Student】
+<enT0069>"M-Me, sir."
+<ptT0069>"M-Me, sir."
+
+//TEXT 【Iida】
+<enT0070>"Please go to the staff room and ask them to send Ms. Kiyokawa."
+<ptT0070>"Please go to the staff room and ask them to send Ms. Kiyokawa."
+
+//TEXT 【Female Student】
+<enT0071>"Y-Yes. Understood."
+<ptT0071>"Y-Yes. Understood."
+
+//TEXT
+<enT0072>The moment the class representative passed by Takuji...
+<ptT0072>The moment the class representative passed by Takuji...
+
+//TEXT
+<enT0073>He pushed her violently, and she crumpled to the floor.
+<ptT0073>He pushed her violently, and she crumpled to the floor.
+
+//TEXT 【Female Student】
+<enT0074>"Aah!"
+<ptT0074>"Aah!"
+
+//TEXT 【Iida】
+<enT0075>"Mamiya, you―!"
+<ptT0075>"Mamiya, you―!"
+
+//TEXT 【Kagami】
+<enT0076>"Y-You little...!"
+<ptT0076>"Y-You little...!"
+
+//TEXT 【Tsukasa】
+<enT0077>"Onee-chan..."
+<ptT0077>"Onee-chan..."
+
+//TEXT
+<enT0078>Kagami stood defiantly in front of Mamiya.
+<ptT0078>Kagami stood defiantly in front of Mamiya.
+
+//TEXT 【Kagami】
+<enT0079>"What's wrong with you?! How dare you hit a girl?!"
+<ptT0079>"What's wrong with you?! How dare you hit a girl?!"
+
+//TEXT 【Takuji】
+<enT0080>"It doesn't matter whether she's a boy or a girl."
+<ptT0080>"It doesn't matter whether she's a boy or a girl."
+
+//TEXT 【Takuji】
+<enT0081>"That you're doing this at all, sitting here and playing along with this farce, when everything is about to end... It's absurd!"
+<ptT0081>"That you're doing this at all, sitting here and playing along with this farce, when everything is about to end... It's absurd!"
+
+//TEXT 【Takuji】
+<enT0082>"Every single person here has turned their back on the truth!"
+<ptT0082>"Every single person here has turned their back on the truth!"
+
+//TEXT 【Iida】
+<enT0083>"Cut it out, Mamiya! Are you okay?"
+<ptT0083>"Cut it out, Mamiya! Are you okay?"
+
+//TEXT 【Female Student】
+<enT0084>"I-I'm fine. I just fell because he surprised me."
+<ptT0084>"I-I'm fine. I just fell because he surprised me."
+
+//TEXT 【Takuji】
+<enT0085>"Hmph."
+<ptT0085>"Hmph."
+
+//TEXT 【Iida】
+<enT0086>"Mamiya, apologize!"
+<ptT0086>"Mamiya, apologize!"
+
+//TEXT 【Takuji】
+<enT0087>"Why would I do that?"
+<ptT0087>"Why would I do that?"
+
+//TEXT 【Iida】
+<enT0088>"Mamiya, do you understand what you're saying?"
+<ptT0088>"Mamiya, do you understand what you're saying?"
+
+//TEXT 【Iida】
+<enT0089>"What do you mean, the world is ending? I heard a lot of the students have been scared of something lately. Are you the one spreading those rumors?"
+<ptT0089>"What do you mean, the world is ending? I heard a lot of the students have been scared of something lately. Are you the one spreading those rumors?"
+
+//TEXT 【Takuji】
+<enT0090>"It means the world is ending, that's all."
+<ptT0090>"It means the world is ending, that's all."
+
+//TEXT 【Takuji】
+<enT0091>"The end of everything."
+<ptT0091>"The end of everything."
+
+//TEXT 【Takuji】
+<enT0092>"You could call it the final destination."
+<ptT0092>"You could call it the final destination."
+
+//TEXT 【Takuji】
+<enT0093>"It's no rumor. It's merely the truth."
+<ptT0093>"It's no rumor. It's merely the truth."
+
+//TEXT 【Takuji】
+<enT0094>"You are a weak human being, a small human being, and therefore you cannot even lay eyes on me."
+<ptT0094>"You are a weak human being, a small human being, and therefore you cannot even lay eyes on me."
+
+//TEXT 【Iida】
+<enT0095>"Mamiya, come over here!"
+<ptT0095>"Mamiya, come over here!"
+
+//TEXT 【Takuji】
+<enT0096>"Haha. So you intend to use violence because you can't win with logic?"
+<ptT0096>"Haha. So you intend to use violence because you can't win with logic?"
+
+//TEXT 【Iida】
+<enT0097>"Ah..."
+<ptT0097>"Ah..."
+
+//TEXT 【Yuki】
+<enT0098>"Huh?!"
+<ptT0098>"Huh?!"
+
+//TEXT 【Kagami】
+<enT0099>"Ah!"
+<ptT0099>"Ah!"
+
+//TEXT
+<enT0100>No one could understand what had just happened.
+<ptT0100>No one could understand what had just happened.
+
+//TEXT
+<enT0101>Just that a loud sound echoed through the classroom, and then the teacher fell down, covered in blood.
+<ptT0101>Just that a loud sound echoed through the classroom, and then the teacher fell down, covered in blood.
+
+//TEXT
+<enT0102>We were too confused to understand that Mamiya had just struck him with a flower vase.
+<ptT0102>We were too confused to understand that Mamiya had just struck him with a flower vase.
+
+//TEXT 【Female Student】
+<enT0103>"Th-That's..."
+<ptT0103>"Th-That's..."
+
+//TEXT 【Female Student】
+<enT0104>"I-It's just like the email said."
+<ptT0104>"I-It's just like the email said."
+
+//TEXT 【Yuki】
+<enT0105>"Email?"
+<ptT0105>"Email?"
+
+//TEXT
+<enT0106>That word seemed out of place, but before I could ask what she meant...
+<ptT0106>That word seemed out of place, but before I could ask what she meant...
+
+//TEXT 【Female Student】
+<enT0107>"Aaaaahh!"
+<ptT0107>"Aaaaahh!"
+
+//TEXT
+<enT0108>Someone screamed, sending the rest of the class into a panic.
+<ptT0108>Someone screamed, sending the rest of the class into a panic.
+
+//TEXT 【Male Student】
+<enT0109>"Wh-What just..."
+<ptT0109>"Wh-What just..."
+
+//TEXT 【Male Student】
+<enT0110>"Is... Is he dead?"
+<ptT0110>"Is... Is he dead?"
+
+//TEXT
+<enT0111>They made a lot of noise over the collapsed teacher, but no one did anything to Mamiya Takuji except sneak glances from the corners of their eyes.
+<ptT0111>They made a lot of noise over the collapsed teacher, but no one did anything to Mamiya Takuji except sneak glances from the corners of their eyes.
+
+//TEXT
+<enT0112>Because they were afraid of him? Because they believed they mustn't look at his face?
+<ptT0112>Because they were afraid of him? Because they believed they mustn't look at his face?
+
+//TEXT
+<enT0113>But Mamiya Takuji simply stood there and smiled.
+<ptT0113>But Mamiya Takuji simply stood there and smiled.
+
+//TEXT 【Takuji】
+<enT0114>"What's wrong? You seem awfully scared of something."
+<ptT0114>"What's wrong? You seem awfully scared of something."
+
+//TEXT 【Kagami】
+<enT0115>"He's... bleeding."
+<ptT0115>"He's... bleeding."
+
+//TEXT 【Tsukasa】
+<enT0116>"Onee-chan, we have to help him."
+<ptT0116>"Onee-chan, we have to help him."
+
+//TEXT 【Tsukasa】
+<enT0117>"Auugh."
+<ptT0117>"Auugh."
+
+//TEXT
+<enT0118>
+<ptT0118>
+
+//TEXT 【Kagami】
+<enT0119>"Tsukasa!"
+<ptT0119>"Tsukasa!"
+
+//TEXT
+<enT0120>When Tsukasa tried to go over to the teacher, Takuji threw her to the side.
+<ptT0120>When Tsukasa tried to go over to the teacher, Takuji threw her to the side.
+
+//TEXT
+<enT0121>She fell to the ground.
+<ptT0121>She fell to the ground.
+
+//TEXT 【Yuki】
+<enT0122>"Mamiya Takuji! You son of a..."
+<ptT0122>"Mamiya Takuji! You son of a..."
+
+//TEXT 【Takuji】
+<enT0123>"Oh, if it isn't Minakami-san."
+<ptT0123>"Oh, if it isn't Minakami-san."
+
+//TEXT 【Takuji】
+<enT0124>"It would appear you're no better than the rest of the poor little lambs here."
+<ptT0124>"It would appear you're no better than the rest of the poor little lambs here."
+
+//TEXT 【Takuji】
+<enT0125>"Your heart is thick with fear."
+<ptT0125>"Your heart is thick with fear."
+
+//TEXT 【Takuji】
+<enT0126>"You should just stand back and watch in fear, like you've been doing."
+<ptT0126>"You should just stand back and watch in fear, like you've been doing."
+
+//TEXT 【Takuji】
+<enT0127>"And then you shall feel the flames of hell licking at your flesh."
+<ptT0127>"And then you shall feel the flames of hell licking at your flesh."
+
+//TEXT 【Yuki】
+<enT0128>"Mamiya..."
+<ptT0128>"Mamiya..."
+
+//TEXT 【Takuji】
+<enT0129>"What, are you going to hit me?"
+<ptT0129>"What, are you going to hit me?"
+
+//TEXT 【Takuji】
+<enT0130>"You're going to bully me, just like Yuuki Tomosane and the rest of humanity have?!"
+<ptT0130>"You're going to bully me, just like Yuuki Tomosane and the rest of humanity have?!"
+
+//TEXT 【Yuki】
+<enT0131>"Huh?"
+<ptT0131>"Huh?"
+
+//TEXT
+<enT0132>Again...
+<ptT0132>Again...
+
+//TEXT
+<enT0133>What's this feeling?
+<ptT0133>What's this feeling?
+
+//TEXT
+<enT0134>When I was near Mamiya, I got dizzy.
+<ptT0134>When I was near Mamiya, I got dizzy.
+
+//TEXT
+<enT0135>Why did it keep happening?
+<ptT0135>Why did it keep happening?
+
+//TEXT 【Takuji】
+<enT0136>"Mark my words, all ye who quiver in fear."
+<ptT0136>"Mark my words, all ye who quiver in fear."
+
+//TEXT 【Takuji】
+<enT0137>"All life shall end on the 20th! That is the absolute truth!"
+<ptT0137>"All life shall end on the 20th! That is the absolute truth!"
+
+//TEXT 【Takuji】
+<enT0138>"Both Shiroyama and Takashima died for this truth!"
+<ptT0138>"Both Shiroyama and Takashima died for this truth!"
+
+//TEXT 【Takuji】
+<enT0139>"Death, that is the message of prophecy!"
+<ptT0139>"Death, that is the message of prophecy!"
+
+//TEXT 【Takuji】
+<enT0140>"Death, that is the absolute truth!"
+<ptT0140>"Death, that is the absolute truth!"
+
+//TEXT 【Takuji】
+<enT0141>"Why is death the message that leads to prophecy?"
+<ptT0141>"Why is death the message that leads to prophecy?"
+
+//TEXT 【Takuji】
+<enT0142>"Because the foolish attempt to conceal death!"
+<ptT0142>"Because the foolish attempt to conceal death!"
+
+//TEXT 【Takuji】
+<enT0143>"So we must speak of that which is concealed!"
+<ptT0143>"So we must speak of that which is concealed!"
+
+//TEXT 【Takuji】
+<enT0144>"That which conceals death! The first is education! The second is the media!"
+<ptT0144>"That which conceals death! The first is education! The second is the media!"
+
+//TEXT 【Takuji】
+<enT0145>"In countries such as this, mandatory education has become commonplace. In our society, the media has swelled and transformed into the highest authority in the world!"
+<ptT0145>"In countries such as this, mandatory education has become commonplace. In our society, the media has swelled and transformed into the highest authority in the world!"
+
+//TEXT 【Takuji】
+<enT0146>"We have a host of taboos implanted into our minds by public education and through the mass media."
+<ptT0146>"We have a host of taboos implanted into our minds by public education and through the mass media."
+
+//TEXT 【Takuji】
+<enT0147>"The greatest taboo of all is to think upon death!"
+<ptT0147>"The greatest taboo of all is to think upon death!"
+
+//TEXT 【Takuji】
+<enT0148>"We have put aside any thought of death! We are obliged to act as if our daily lives will continue for eternity!"
+<ptT0148>"We have put aside any thought of death! We are obliged to act as if our daily lives will continue for eternity!"
+
+//TEXT 【Takuji】
+<enT0149>"And the reason is because everything is powerless, everything is meaningless before the unreasoning specter of death!"
+<ptT0149>"And the reason is because everything is powerless, everything is meaningless before the unreasoning specter of death!"
+
+//TEXT 【Takuji】
+<enT0150>"That is why education and the media try to disguise the true meaning of death!"
+<ptT0150>"That is why education and the media try to disguise the true meaning of death!"
+
+//TEXT 【Takuji】
+<enT0151>"The death they intimate to us is but a phantasm on the far shores, something with which we have no relation. It has been reduced to a mere toy, something you can enjoy without worrying that it may ever strike you."
+<ptT0151>"The death they intimate to us is but a phantasm on the far shores, something with which we have no relation. It has been reduced to a mere toy, something you can enjoy without worrying that it may ever strike you."
+
+//TEXT 【Takuji】
+<enT0152>"But the reality that everyone knows is that every single day, death creeps ever closer to all the people on the planet. Death is reality itself."
+<ptT0152>"But the reality that everyone knows is that every single day, death creeps ever closer to all the people on the planet. Death is reality itself."
+
+//TEXT 【Iida】
+<enT0153>"M-Mamiya... you..."
+<ptT0153>"M-Mamiya... you..."
+
+//TEXT 【Female Student】
+<enT0154>"Mr. Iida!"
+<ptT0154>"Mr. Iida!"
+
+//TEXT 【Female Student】
+<enT0155>"H-He's okay..."
+<ptT0155>"H-He's okay..."
+
+//TEXT 【Iida】
+<enT0156>"You're wrong..."
+<ptT0156>"You're wrong..."
+
+//TEXT 【Takuji】
+<enT0157>"What have I said that's wrong?"
+<ptT0157>"What have I said that's wrong?"
+
+//TEXT 【Iida】
+<enT0158>"That religious nonsense... You..."
+<ptT0158>"That religious nonsense... You..."
+
+//TEXT 【Takuji】
+<enT0159>"Did you hear that?"
+<ptT0159>"Did you hear that?"
+
+//TEXT 【Takuji】
+<enT0160>"Just now, this man called my thoughts 'religious nonsense.'"
+<ptT0160>"Just now, this man called my thoughts 'religious nonsense.'"
+
+//TEXT 【Takuji】
+<enT0161>"As if to say I was a 'madman'."
+<ptT0161>"As if to say I was a 'madman'."
+
+//TEXT 【Iida】
+<enT0162>"Th-That's wrong..."
+<ptT0162>"Th-That's wrong..."
+
+//TEXT 【Takuji】
+<enT0163>"Am I wrong? To ponder upon death... Has religion not advanced thought on mortality for the past several thousand years? Has metaphysics not?"
+<ptT0163>"Am I wrong? To ponder upon death... Has religion not advanced thought on mortality for the past several thousand years? Has metaphysics not?"
+
+//TEXT 【Takuji】
+<enT0164>"In other words, that which reeks of religion, the action of contemplating death, seems to him the action of a madman. Am I wrong?"
+<ptT0164>"In other words, that which reeks of religion, the action of contemplating death, seems to him the action of a madman. Am I wrong?"
+
+//TEXT 【Iida】
+<enT0165>"You're wrong... You sound like a cultist..."
+<ptT0165>"You're wrong... You sound like a cultist..."
+
+//TEXT 【Takuji】
+<enT0166>"Oh, really? What a strange thing you've just said. What part of what I'm saying seems crazy to you?"
+<ptT0166>"Oh, really? What a strange thing you've just said. What part of what I'm saying seems crazy to you?"
+
+//TEXT 【Iida】
+<enT0167>"I don't know, but..."
+<ptT0167>"I don't know, but..."
+
+//TEXT 【Takuji】
+<enT0168>"If you ask me, it seems like you have unfounded conviction for that dogma which you call common sense."
+<ptT0168>"If you ask me, it seems like you have unfounded conviction for that dogma which you call common sense."
+
+//TEXT 【Iida】
+<enT0169>"What are you talking about?"
+<ptT0169>"What are you talking about?"
+
+//TEXT 【Takuji】
+<enT0170>"You can't resist attaching the label 'crazy' to that which you cannot understand. You declare anything which would overthrow your common sense to be the words of a madman."
+<ptT0170>"You can't resist attaching the label 'crazy' to that which you cannot understand. You declare anything which would overthrow your common sense to be the words of a madman."
+
+//TEXT 【Iida】
+<enT0171>"Y-You're twisting my words... Mamiya, you..."
+<ptT0171>"Y-You're twisting my words... Mamiya, you..."
+
+//TEXT 【Iida】
+<enT0172>"Please. Someone call the homeroom teacher! Someone!"
+<ptT0172>"Please. Someone call the homeroom teacher! Someone!"
+
+//TEXT
+<enT0173>He desperately appealed to the students, but not a single one moved.
+<ptT0173>He desperately appealed to the students, but not a single one moved.
+
+//TEXT
+<enT0174>Every person in the room was dominated by the atmosphere.
+<ptT0174>Every person in the room was dominated by the atmosphere.
+
+//TEXT 【Takuji】
+<enT0175>"Modern society has reduced death to an abstraction. It is a society that views death as a taboo!"
+<ptT0175>"Modern society has reduced death to an abstraction. It is a society that views death as a taboo!"
+
+//TEXT 【Takuji】
+<enT0176>"The only ones who could speak of that as correct are slaves who have not even the capacity to think!"
+<ptT0176>"The only ones who could speak of that as correct are slaves who have not even the capacity to think!"
+
+//TEXT 【Takuji】
+<enT0177>"In previous generations, death was the most important subject of philosophical thought, was it not?!"
+<ptT0177>"In previous generations, death was the most important subject of philosophical thought, was it not?!"
+
+//TEXT 【Takuji】
+<enT0178>"Was death not the matter of utmost concern?!"
+<ptT0178>"Was death not the matter of utmost concern?!"
+
+//TEXT 【Takuji】
+<enT0179>"And despite that, modern governments and societies have treated it as if it was irrelevant to our lives."
+<ptT0179>"And despite that, modern governments and societies have treated it as if it was irrelevant to our lives."
+
+//TEXT 【Kagami】
+<enT0180>"You're labeling their deaths with your own selfish reasoning."
+<ptT0180>"You're labeling their deaths with your own selfish reasoning."
+
+//TEXT 【Takuji】
+<enT0181>"Selfish, you say?"
+<ptT0181>"Selfish, you say?"
+
+//TEXT 【Kagami】
+<enT0182>"It's sophistry. It's complete nonsense!"
+<ptT0182>"It's sophistry. It's complete nonsense!"
+
+//TEXT 【Kagami】
+<enT0183>"I've heard that theory about society covering up death before. Let's say you're right about that one. Even then, what you're saying about those two deaths signifying something is nothing but fabrication."
+<ptT0183>"I've heard that theory about society covering up death before. Let's say you're right about that one. Even then, what you're saying about those two deaths signifying something is nothing but fabrication."
+
+//TEXT 【Kagami】
+<enT0184>"It's nonsense. A delusion."
+<ptT0184>"It's nonsense. A delusion."
+
+//TEXT 【Takuji】
+<enT0185>"I see. You're pretty smart for a whore."
+<ptT0185>"I see. You're pretty smart for a whore."
+
+//TEXT 【Kagami】
+<enT0186>"Stop calling me that!"
+<ptT0186>"Stop calling me that!"
+
+//TEXT 【Takuji】
+<enT0187>"I suppose this is what you're trying to say. You want me to show you proof that the meaning I've claimed for their death is veracious."
+<ptT0187>"I suppose this is what you're trying to say. You want me to show you proof that the meaning I've claimed for their death is veracious."
+
+//TEXT 【Kagami】
+<enT0188>"Proof? Are you stupid? There's nothing you could show us that would prove that. After all, no matter how you look at it, you're just spouting fantasies!"
+<ptT0188>"Proof? Are you stupid? There's nothing you could show us that would prove that. After all, no matter how you look at it, you're just spouting fantasies!"
+
+//TEXT 【Takuji】
+<enT0189>"Fantasies, huh? Do you know how we differentiate between science and charlatanry?"
+<ptT0189>"Fantasies, huh? Do you know how we differentiate between science and charlatanry?"
+
+//TEXT 【Kagami】
+<enT0190>"Science and charlatanry?"
+<ptT0190>"Science and charlatanry?"
+
+//TEXT 【Takuji】
+<enT0191>"Yes. How would one differentiate science from pseudoscience?"
+<ptT0191>"Yes. How would one differentiate science from pseudoscience?"
+
+//TEXT 【Kagami】
+<enT0192>"I-It's obvious that pseudoscience is fake."
+<ptT0192>"I-It's obvious that pseudoscience is fake."
+
+//TEXT 【Takuji】
+<enT0193>"You can't just say it's obvious that X is Y when that statement has no logical basis."
+<ptT0193>"You can't just say it's obvious that X is Y when that statement has no logical basis."
+
+//TEXT 【Takuji】
+<enT0194>"The difference between science and pseudoscience lies in whether or not the theory makes novel predictions."
+<ptT0194>"The difference between science and pseudoscience lies in whether or not the theory makes novel predictions."
+
+//TEXT 【Kagami】
+<enT0195>"Novel predictions?"
+<ptT0195>"Novel predictions?"
+
+//TEXT 【Takuji】
+<enT0196>"The word prediction sounds almost religious, doesn't it? To put it simply, a novel prediction is a truthful prediction that may appear strange to the layman, but can be derived from the theory."
+<ptT0196>"The word prediction sounds almost religious, doesn't it? To put it simply, a novel prediction is a truthful prediction that may appear strange to the layman, but can be derived from the theory."
+
+//TEXT 【Takuji】
+<enT0197>"Einstein made many predictions. Black holes, the curvature of space... Those are predictions derived from his theory of relativity."
+<ptT0197>"Einstein made many predictions. Black holes, the curvature of space... Those are predictions derived from his theory of relativity."
+
+//TEXT 【Takuji】
+<enT0198>"To the people who couldn't understand his theory, they seemed like very strange predictions."
+<ptT0198>"To the people who couldn't understand his theory, they seemed like very strange predictions."
+
+//TEXT 【Takuji】
+<enT0199>"But they were all correct. Do you know why?"
+<ptT0199>"But they were all correct. Do you know why?"
+
+//TEXT 【Kagami】
+<enT0200>"If his theory was correct..."
+<ptT0200>"If his theory was correct..."
+
+//TEXT 【Takuji】
+<enT0201>"Yes, the theory of relativity was correct, and so he was able to derive correct predictions from it."
+<ptT0201>"Yes, the theory of relativity was correct, and so he was able to derive correct predictions from it."
+
+//TEXT 【Takuji】
+<enT0202>"In other words, if the predictions I make based on my theory, if those predictions come true, then my theory is correct."
+<ptT0202>"In other words, if the predictions I make based on my theory, if those predictions come true, then my theory is correct."
+
+//TEXT 【Kagami】
+<enT0203>"Predictions?"
+<ptT0203>"Predictions?"
+
+//TEXT 【Takuji】
+<enT0204>"Therefore, I shall now make several novel predictions."
+<ptT0204>"Therefore, I shall now make several novel predictions."
+
+//TEXT 【Takuji】
+<enT0205>"And as they bear fruit, one by one, you will all quiver with fear."
+<ptT0205>"And as they bear fruit, one by one, you will all quiver with fear."
+
+//TEXT 【Takuji】
+<enT0206>"You will see that I am correct..."
+<ptT0206>"You will see that I am correct..."
+
+//TEXT 【Kagami】
+<enT0207>"That's all drivel."
+<ptT0207>"That's all drivel."
+
+//TEXT 【Takuji】
+<enT0208>"God sacrificed these two so that I could be reborn!"
+<ptT0208>"God sacrificed these two so that I could be reborn!"
+
+//TEXT 【Takuji】
+<enT0209>"The first was Shiroyama Tsubasa, and the second was Takashima Zakuro. God sacrificed them so that I could be reborn!"
+<ptT0209>"The first was Shiroyama Tsubasa, and the second was Takashima Zakuro. God sacrificed them so that I could be reborn!"
+
+//TEXT 【Takuji】
+<enT0210>"I have been reborn!"
+<ptT0210>"I have been reborn!"
+
+//TEXT 【Takuji】
+<enT0211>"As what?"
+<ptT0211>"As what?"
+
+//TEXT 【Takuji】
+<enT0212>"The savior."
+<ptT0212>"The savior."
+
+//TEXT 【Takuji】
+<enT0213>"Yes, as the savior!"
+<ptT0213>"Yes, as the savior!"
+
+//TEXT 【Takuji】
+<enT0214>"The world will end in five days."
+<ptT0214>"The world will end in five days."
+
+//TEXT 【Takuji】
+<enT0215>"But that is an omen of greater things."
+<ptT0215>"But that is an omen of greater things."
+
+//TEXT 【Takuji】
+<enT0216>"An omen that the world will be reborn."
+<ptT0216>"An omen that the world will be reborn."
+
+//TEXT 【Takuji】
+<enT0217>"Those not saved, along with the old world, will fall into the depths of hell to suffer for eternity."
+<ptT0217>"Those not saved, along with the old world, will fall into the depths of hell to suffer for eternity."
+
+//TEXT 【Takuji】
+<enT0218>"An eternity of torment!"
+<ptT0218>"An eternity of torment!"
+
+//TEXT 【Takuji】
+<enT0219>"Everyone knows..."
+<ptT0219>"Everyone knows..."
+
+//TEXT 【Takuji】
+<enT0220>"That the world is pervaded by lies! That the truth is hidden!"
+<ptT0220>"That the world is pervaded by lies! That the truth is hidden!"
+
+//TEXT 【Takuji】
+<enT0221>"The foolish speak of equality!"
+<ptT0221>"The foolish speak of equality!"
+
+//TEXT 【Takuji】
+<enT0222>"But everyone knows that the world is not equal!"
+<ptT0222>"But everyone knows that the world is not equal!"
+
+//TEXT 【Takuji】
+<enT0223>"The foolish speak of freedom!"
+<ptT0223>"The foolish speak of freedom!"
+
+//TEXT 【Takuji】
+<enT0224>"But everyone knows that there is no freedom in the world!"
+<ptT0224>"But everyone knows that there is no freedom in the world!"
+
+//TEXT 【Takuji】
+<enT0225>"The foolish speak of love!"
+<ptT0225>"The foolish speak of love!"
+
+//TEXT 【Takuji】
+<enT0226>"But everyone knows that love is traitorous!"
+<ptT0226>"But everyone knows that love is traitorous!"
+
+//TEXT 【Takuji】
+<enT0227>"The foolish say that you must not kill!"
+<ptT0227>"The foolish say that you must not kill!"
+
+//TEXT 【Takuji】
+<enT0228>"But everyone knows that the world is brimming with murderers!"
+<ptT0228>"But everyone knows that the world is brimming with murderers!"
+
+//TEXT 【Takuji】
+<enT0229>"The foolish say that you must not lie!"
+<ptT0229>"The foolish say that you must not lie!"
+
+//TEXT 【Takuji】
+<enT0230>"But everyone knows that the foolish themselves are lying!"
+<ptT0230>"But everyone knows that the foolish themselves are lying!"
+
+//TEXT 【Takuji】
+<enT0231>"Those who swallow the lies of the foolish make fools of themselves!"
+<ptT0231>"Those who swallow the lies of the foolish make fools of themselves!"
+
+//TEXT 【Takuji】
+<enT0232>"Yes, their lies!"
+<ptT0232>"Yes, their lies!"
+
+//TEXT 【Takuji】
+<enT0233>"They were all lies!"
+<ptT0233>"They were all lies!"
+
+//TEXT 【Takuji】
+<enT0234>"That the world has always existed..."
+<ptT0234>"That the world has always existed..."
+
+//TEXT 【Takuji】
+<enT0235>"And that the world will continue to exist forevermore!"
+<ptT0235>"And that the world will continue to exist forevermore!"
+
+//TEXT 【Takuji】
+<enT0236>"They are all lies!"
+<ptT0236>"They are all lies!"
+
+//TEXT 【Takuji】
+<enT0237>"The path we walk leads to..."
+<ptT0237>"The path we walk leads to..."
+
+//TEXT 【Takuji】
+<enT0238>"The abyss!"
+<ptT0238>"The abyss!"
+
+//TEXT 【Takuji】
+<enT0239>"The world will end!"
+<ptT0239>"The world will end!"
+
+//TEXT 【Takuji】
+<enT0240>"It will surely end!"
+<ptT0240>"It will surely end!"
+
+//TEXT 【Takuji】
+<enT0241>"This is the truth!"
+<ptT0241>"This is the truth!"
+
+//TEXT 【Takuji】
+<enT0242>"As proof, I shall make three predictions."
+<ptT0242>"As proof, I shall make three predictions."
+
+//TEXT 【Takuji】
+<enT0243>"Firstly! The thickness of death in the air will be affirmed with yet another death!"
+<ptT0243>"Firstly! The thickness of death in the air will be affirmed with yet another death!"
+
+//TEXT 【Takuji】
+<enT0244>"Secondly! A large number of people will witness the death!"
+<ptT0244>"Secondly! A large number of people will witness the death!"
+
+//TEXT 【Takuji】
+<enT0245>"Thirdly! The deceased will speak of..."
+<ptT0245>"Thirdly! The deceased will speak of..."
+
+//TEXT 【Takuji】
+<enT0246>"The ultimate demise!"
+<ptT0246>"The ultimate demise!"
+
+//TEXT
+<enT0247>Mamiya dashed out of the classroom.
+<ptT0247>Mamiya dashed out of the classroom.
+
+//TEXT
+<enT0248>Everyone was speechless at his sudden departure.
+<ptT0248>Everyone was speechless at his sudden departure.
+
+//TEXT
+<enT0249>After a long silence, another teacher came running in, and the classroom was filled with chatter.
+<ptT0249>After a long silence, another teacher came running in, and the classroom was filled with chatter.
+
+//TEXT
+<enT0250>Kagami helped Tsukasa up.
+<ptT0250>Kagami helped Tsukasa up.
+
+//TEXT
+<enT0251>I just stood there.
+<ptT0251>I just stood there.
+
+//TEXT 【Yuki】
+<enT0252>"The world is pervaded by lies, and the truth is hidden, huh?"
+<ptT0252>"The world is pervaded by lies, and the truth is hidden, huh?"
+
+//TEXT
+<enT0253>Why did I simply stand by and watch?
+<ptT0253>Why did I simply stand by and watch?
+
+//TEXT
+<enT0254>Why didn't I say anything back to him?
+<ptT0254>Why didn't I say anything back to him?
+
+//TEXT
+<enT0255>Because I was dizzy?
+<ptT0255>Because I was dizzy?
+
+//TEXT
+<enT0256>Because my head hurt?
+<ptT0256>Because my head hurt?
+
+//TEXT
+<enT0257>That's no excuse. It wasn't so bad that I wasn't able to at least say a single word.
+<ptT0257>That's no excuse. It wasn't so bad that I wasn't able to at least say a single word.
+
+//TEXT
+<enT0258>I couldn't speak at all.
+<ptT0258>I couldn't speak at all.
+
+//TEXT
+<enT0259>I just listened to Kagami yelling at him.
+<ptT0259>I just listened to Kagami yelling at him.
+
+//TEXT
+<enT0260>I just listened to Mamiya Takuji gleefully listing his predictions.
+<ptT0260>I just listened to Mamiya Takuji gleefully listing his predictions.
+
+//TEXT
+<enT0261>I couldn't do anything.
+<ptT0261>I couldn't do anything.
+
+//TEXT
+<enT0262>I wonder what I was supposed to do back there.
+<ptT0262>I wonder what I was supposed to do back there.
+
+//TEXT
+<enT0263>......
+<ptT0263>......
+
+//TEXT
+<enT0264>I wonder what I was supposed to do to Mamiya Takuji back there.
+<ptT0264>I wonder what I was supposed to do to Mamiya Takuji back there.
+
+//TEXT 【Yuki】
+<enT0265>"Otonashi Ayana-san..."
+<ptT0265>"Otonashi Ayana-san..."
+
+//TEXT 【Ayana】
+<enT0266>"Good morning."
+<ptT0266>"Good morning."
+
+//TEXT 【Yuki】
+<enT0267>"Good morning. So you're cutting class too?"
+<ptT0267>"Good morning. So you're cutting class too?"
+
+//TEXT 【Ayana】
+<enT0268>"Well, yes."
+<ptT0268>"Well, yes."
+
+//TEXT 【Yuki】
+<enT0269>"I see. So what were you doing?"
+<ptT0269>"I see. So what were you doing?"
+
+//TEXT 【Ayana】
+<enT0270>"Looking."
+<ptT0270>"Looking."
+
+//TEXT 【Yuki】
+<enT0271>"At the sky again?"
+<ptT0271>"At the sky again?"
+
+//TEXT 【Ayana】
+<enT0272>"Yes."
+<ptT0272>"Yes."
+
+//TEXT 【Yuki】
+<enT0273>"The sky, huh?"
+<ptT0273>"The sky, huh?"
+
+//TEXT 【Ayana】
+<enT0274>"Yeah."
+<ptT0274>"Yeah."
+
+//TEXT 【Yuki】
+<enT0275>"I see."
+<ptT0275>"I see."
+
+//TEXT 【Ayana】
+<enT0276>"Minakami-san, why are you crying?"
+<ptT0276>"Minakami-san, why are you crying?"
+
+//TEXT 【Yuki】
+<enT0277>"Crying?"
+<ptT0277>"Crying?"
+
+//TEXT 【Ayana】
+<enT0278>"Yeah."
+<ptT0278>"Yeah."
+
+//TEXT 【Yuki】
+<enT0279>"..."
+<ptT0279>"..."
+
+//TEXT 【Yuki】
+<enT0280>"Doesn't the word 'crying' usually refer to someone who's shedding tears?"
+<ptT0280>"Doesn't the word 'crying' usually refer to someone who's shedding tears?"
+
+//TEXT 【Ayana】
+<enT0281>"Does it? I'm not sure. I just had a feeling."
+<ptT0281>"Does it? I'm not sure. I just had a feeling."
+
+//TEXT 【Yuki】
+<enT0282>"..."
+<ptT0282>"..."
+
+//TEXT 【Yuki】
+<enT0283>"Nothing worth crying over happened, but..."
+<ptT0283>"Nothing worth crying over happened, but..."
+
+//TEXT 【Ayana】
+<enT0284>"But?"
+<ptT0284>"But?"
+
+//TEXT 【Yuki】
+<enT0285>"I don't really feel that great, either."
+<ptT0285>"I don't really feel that great, either."
+
+//TEXT 【Ayana】
+<enT0286>"You don't feel that great?"
+<ptT0286>"You don't feel that great?"
+
+//TEXT 【Yuki】
+<enT0287>"Nope."
+<ptT0287>"Nope."
+
+//TEXT 【Ayana】
+<enT0288>"Because a lot has happened?"
+<ptT0288>"Because a lot has happened?"
+
+//TEXT 【Yuki】
+<enT0289>"Yeah, maybe. A lot has happened lately. I'm getting worn out."
+<ptT0289>"Yeah, maybe. A lot has happened lately. I'm getting worn out."
+
+//TEXT 【Yuki】
+<enT0290>"What about you?"
+<ptT0290>"What about you?"
+
+//TEXT 【Ayana】
+<enT0291>"What about me?"
+<ptT0291>"What about me?"
+
+//TEXT 【Yuki】
+<enT0292>"I was just wondering, how do you feel?"
+<ptT0292>"I was just wondering, how do you feel?"
+
+//TEXT 【Ayana】
+<enT0293>"How do I feel?"
+<ptT0293>"How do I feel?"
+
+//TEXT 【Yuki】
+<enT0294>"It's just that two of our classmates died in such a short period of time, and the whole school is going wild with rumors."
+<ptT0294>"It's just that two of our classmates died in such a short period of time, and the whole school is going wild with rumors."
+
+//TEXT 【Ayana】
+<enT0295>"Rumors?"
+<ptT0295>"Rumors?"
+
+//TEXT 【Yuki】
+<enT0296>"Oh... I see. You don't know about them, do you?"
+<ptT0296>"Oh... I see. You don't know about them, do you?"
+
+//TEXT 【Ayana】
+<enT0297>"Is it about the messages from Takashima Zakuro-san?"
+<ptT0297>"Is it about the messages from Takashima Zakuro-san?"
+
+//TEXT 【Yuki】
+<enT0298>"You knew?"
+<ptT0298>"You knew?"
+
+//TEXT 【Ayana】
+<enT0299>"Sort of."
+<ptT0299>"Sort of."
+
+//TEXT 【Yuki】
+<enT0300>"Did you get one of those messages on your phone too?"
+<ptT0300>"Did you get one of those messages on your phone too?"
+
+//TEXT 【Ayana】
+<enT0301>"I don't have a cell phone. I received something else."
+<ptT0301>"I don't have a cell phone. I received something else."
+
+//TEXT 【Yuki】
+<enT0302>"Something else? Wait, what is it?"
+<ptT0302>"Something else? Wait, what is it?"
+
+//TEXT 【Ayana】
+<enT0303>"Yes, something from Takashima-san."
+<ptT0303>"Yes, something from Takashima-san."
+
+//TEXT 【Yuki】
+<enT0304>"From Takashima-san?!"
+<ptT0304>"From Takashima-san?!"
+
+//TEXT 【Ayana】
+<enT0305>"Yes."
+<ptT0305>"Yes."
+
+//TEXT 【Yuki】
+<enT0306>"What is it?"
+<ptT0306>"What is it?"
+
+//TEXT 【Ayana】
+<enT0307>"Do you want to see?"
+<ptT0307>"Do you want to see?"
+
+//TEXT 【Yuki】
+<enT0308>"Um... Well, of course, if you say it like that. But what do you mean? Is it okay?"
+<ptT0308>"Um... Well, of course, if you say it like that. But what do you mean? Is it okay?"
+
+//TEXT 【Ayana】
+<enT0309>"What do you mean by 'okay'?"
+<ptT0309>"What do you mean by 'okay'?"
+
+//TEXT 【Yuki】
+<enT0310>"Oh, uh... I don't really know how to put it."
+<ptT0310>"Oh, uh... I don't really know how to put it."
+
+//TEXT 【Ayana】
+<enT0311>"How about we say, if it's okay with you?"
+<ptT0311>"How about we say, if it's okay with you?"
+
+//TEXT 【Yuki】
+<enT0312>"Why me? Is it something that shocking?"
+<ptT0312>"Why me? Is it something that shocking?"
+
+//TEXT 【Ayana】
+<enT0313>"Who knows? I couldn't say."
+<ptT0313>"Who knows? I couldn't say."
+
+//TEXT 【Ayana】
+<enT0314>"It's just something that you've hidden."
+<ptT0314>"It's just something that you've hidden."
+
+//TEXT 【Yuki】
+<enT0315>"Me?"
+<ptT0315>"Me?"
+
+//TEXT 【Ayana】
+<enT0316>"Yes, though more accurately, it's not something you've hidden. It's something that's been hidden from you."
+<ptT0316>"Yes, though more accurately, it's not something you've hidden. It's something that's been hidden from you."
+
+//TEXT 【Yuki】
+<enT0317>"What do you mean. I don't really understand. D-Do you know something?"
+<ptT0317>"What do you mean. I don't really understand. D-Do you know something?"
+
+//TEXT 【Ayana】
+<enT0318>"I only know that which you know."
+<ptT0318>"I only know that which you know."
+
+//TEXT 【Yuki】
+<enT0319>"What I know?"
+<ptT0319>"What I know?"
+
+//TEXT 【Ayana】
+<enT0320>"Yes. Your limit is the limit of the world. Therefore, I am unable to tell or show you anything which you are not capable of seeing or speaking of."
+<ptT0320>"Yes. Your limit is the limit of the world. Therefore, I am unable to tell or show you anything which you are not capable of seeing or speaking of."
+
+//TEXT 【Yuki】
+<enT0321>"Wh-What do you mean?"
+<ptT0321>"Wh-What do you mean?"
+
+//TEXT 【Ayana】
+<enT0322>"To put it clearly, that of which you can speak..."
+<ptT0322>"To put it clearly, that of which you can speak..."
+
+//TEXT 【Ayana】
+<enT0323>"Is only that which you have seen. I can't show you anything else."
+<ptT0323>"Is only that which you have seen. I can't show you anything else."
+
+//TEXT 【Yuki】
+<enT0324>"What I've seen?"
+<ptT0324>"What I've seen?"
+
+//TEXT 【Yuki】
+<enT0325>"Huh?!"
+<ptT0325>"Huh?!"
+
+//TEXT 【Ayana】
+<enT0326>"Why do humans try to hide things?"
+<ptT0326>"Why do humans try to hide things?"
+
+//TEXT 【Yuki】
+<enT0327>"What are you talking about?"
+<ptT0327>"What are you talking about?"
+
+//TEXT 【Ayana】
+<enT0328>"Even though they know something, they act as if they don't, and then one day they truly do forget."
+<ptT0328>"Even though they know something, they act as if they don't, and then one day they truly do forget."
+
+//TEXT 【Ayana】
+<enT0329>"They still want to know it, even after they've forgotten it."
+<ptT0329>"They still want to know it, even after they've forgotten it."
+
+//TEXT 【Yuki】
+<enT0330>"..."
+<ptT0330>"..."
+
+//TEXT 【Yuki】
+<enT0331>"Ayana-san..."
+<ptT0331>"Ayana-san..."
+
+//TEXT 【Ayana】
+<enT0332>"Actually, I heard a voice from Mamiya-kun's classroom."
+<ptT0332>"Actually, I heard a voice from Mamiya-kun's classroom."
+
+//TEXT 【Yuki】
+<enT0333>"Mamiya told everyone about how people have hidden death. He says the world has hidden death."
+<ptT0333>"Mamiya told everyone about how people have hidden death. He says the world has hidden death."
+
+//TEXT 【Ayana】
+<enT0334>"Then why do people try to dig it up after they've gone through all the trouble of hiding it?"
+<ptT0334>"Then why do people try to dig it up after they've gone through all the trouble of hiding it?"
+
+//TEXT 【Ayana】
+<enT0335>"Why are people captivated by death once they've finally managed to hide it out of sight?"
+<ptT0335>"Why are people captivated by death once they've finally managed to hide it out of sight?"
+
+//TEXT 【Ayana】
+<enT0336>"They put so much effort into hiding it, and yet they dig it up again."
+<ptT0336>"They put so much effort into hiding it, and yet they dig it up again."
+
+//TEXT 【Ayana】
+<enT0337>"Minakami-san, you too are trying to unearth something which you've hidden."
+<ptT0337>"Minakami-san, you too are trying to unearth something which you've hidden."
+
+//TEXT 【Ayana】
+<enT0338>"It's exactly the same thing."
+<ptT0338>"It's exactly the same thing."
+
+//TEXT 【Yuki】
+<enT0339>"Something I've hidden?"
+<ptT0339>"Something I've hidden?"
+
+//TEXT 【Ayana】
+<enT0340>"Yes, if you manage to conceal it, or..."
+<ptT0340>"Yes, if you manage to conceal it, or..."
+
+//TEXT 【Yuki】
+<enT0341>"Or?"
+<ptT0341>"Or?"
+
+//TEXT 【Ayana】
+<enT0342>"The Wonderful Everyday."
+<ptT0342>"The Wonderful Everyday."
+
+//TEXT 【Yuki】
+<enT0343>"The Wonderful Everyday?"
+<ptT0343>"The Wonderful Everyday?"
+
+//TEXT 【Ayana】
+<enT0344>"People live within the eternity of life."
+<ptT0344>"People live within the eternity of life."
+
+//TEXT 【Yuki】
+<enT0345>"People live within eternity? What are you talking about?"
+<ptT0345>"People live within eternity? What are you talking about?"
+
+//TEXT 【Ayana】
+<enT0346>"Yes. Life is a closed box. After all, death opens its doors for no one."
+<ptT0346>"Yes. Life is a closed box. After all, death opens its doors for no one."
+
+//TEXT 【Ayana】
+<enT0347>"If you manage to conceal it, you will know nothing."
+<ptT0347>"If you manage to conceal it, you will know nothing."
+
+//TEXT 【Ayana】
+<enT0348>"Just like that, the Wonderful Everyday will be constructed upon the silence whereupon you cannot speak."
+<ptT0348>"Just like that, the Wonderful Everyday will be constructed upon the silence whereupon you cannot speak."
+
+//TEXT 【Ayana】
+<enT0349>"Without thinking of death, without knowing death, in the middle of life."
+<ptT0349>"Without thinking of death, without knowing death, in the middle of life."
+
+//TEXT 【Ayana】
+<enT0350>"Just like the cat that one day crossed your path. Just like the dog that one night howled while you slept."
+<ptT0350>"Just like the cat that one day crossed your path. Just like the dog that one night howled while you slept."
+
+//TEXT 【Ayana】
+<enT0351>"Walking gingerly upon the top of a fence. Howling as if to devour the crescent moon."
+<ptT0351>"Walking gingerly upon the top of a fence. Howling as if to devour the crescent moon."
+
+//TEXT 【Ayana】
+<enT0352>"Like a kitten, ending the lives of those smaller than itself. Like a puppy, looking up at people with submissive eyes."
+<ptT0352>"Like a kitten, ending the lives of those smaller than itself. Like a puppy, looking up at people with submissive eyes."
+
+//TEXT 【Ayana】
+<enT0353>"Like a cat, passing the night in solitude. Like a dog, amongst a great mass of companions."
+<ptT0353>"Like a cat, passing the night in solitude. Like a dog, amongst a great mass of companions."
+
+//TEXT 【Ayana】
+<enT0354>"Thinking not of life, yet knowing life."
+<ptT0354>"Thinking not of life, yet knowing life."
+
+//TEXT 【Ayana】
+<enT0355>"Within it, or without it, the Wonderful Everyday will..."
+<ptT0355>"Within it, or without it, the Wonderful Everyday will..."
+
+//TEXT 【Yuki】
+<enT0356>"..."
+<ptT0356>"..."
+
+//TEXT
+<enT0357>Her voice was quiet.
+<ptT0357>Her voice was quiet.
+
+//TEXT
+<enT0358>And her eyes were lucid.
+<ptT0358>And her eyes were lucid.
+
+//TEXT
+<enT0359>She seemed to know everything. She seemed to see everything.
+<ptT0359>She seemed to know everything. She seemed to see everything.
+
+//TEXT
+<enT0360>She gave me goosebumps.
+<ptT0360>She gave me goosebumps.
+
+//TEXT
+<enT0361>But...
+<ptT0361>But...
+
+//TEXT 【Yuki】
+<enT0362>"Ayana-san, what is it that you know?"
+<ptT0362>"Ayana-san, what is it that you know?"
+
+//TEXT 【Ayana】
+<enT0363>"Only that which you know."
+<ptT0363>"Only that which you know."
+
+//TEXT 【Yuki】
+<enT0364>"What do you mean?"
+<ptT0364>"What do you mean?"
+
+//TEXT 【Ayana】
+<enT0365>"Hehe. I don't like people who do nothing but ask questions."
+<ptT0365>"Hehe. I don't like people who do nothing but ask questions."
+
+//TEXT 【Yuki】
+<enT0366>"I don't really want people to like me anyways."
+<ptT0366>"I don't really want people to like me anyways."
+
+//TEXT 【Ayana】
+<enT0367>"Hehe."
+<ptT0367>"Hehe."
+
+//TEXT
+<enT0368>What she knows...
+<ptT0368>What she knows...
+
+//TEXT
+<enT0369>I was scared of that truth, and...
+<ptT0369>I was scared of that truth, and...
+
+//TEXT
+<enT0370>I wanted to know it, too.
+<ptT0370>I wanted to know it, too.
+
+//TEXT 【Ayana】
+<enT0371>"Do you want to go outside?"
+<ptT0371>"Do you want to go outside?"
+
+//TEXT 【Yuki】
+<enT0372>"Outside?"
+<ptT0372>"Outside?"
+
+//TEXT 【Ayana】
+<enT0373>"Yes. To the next world."
+<ptT0373>"Yes. To the next world."
+
+//TEXT 【Yuki】
+<enT0374>"The next world?"
+<ptT0374>"The next world?"
+
+//TEXT 【Ayana】
+<enT0375>"Yes."
+<ptT0375>"Yes."
+
+//TEXT 【Yuki】
+<enT0376>"You're starting to sound like Mamiya Takuji."
+<ptT0376>"You're starting to sound like Mamiya Takuji."
+
+//TEXT 【Ayana】
+<enT0377>"Really? Do I sound cool?"
+<ptT0377>"Really? Do I sound cool?"
+
+//TEXT 【Yuki】
+<enT0378>"Not at all... It's pretty gross."
+<ptT0378>"Not at all... It's pretty gross."
+
+//TEXT 【Ayana】
+<enT0379>"I thought I sounded cool talking about the outside world and the next world. They sound like they would be nice."
+<ptT0379>"I thought I sounded cool talking about the outside world and the next world. They sound like they would be nice."
+
+//TEXT 【Yuki】
+<enT0380>"Hmm, so then what is that 'outside'? What's the next world?"
+<ptT0380>"Hmm, so then what is that 'outside'? What's the next world?"
+
+//TEXT 【Yuki】
+<enT0381>"You mean heaven? Or some other afterlife? Or a higher plane of existence? Either way..."
+<ptT0381>"You mean heaven? Or some other afterlife? Or a higher plane of existence? Either way..."
+
+//TEXT 【Ayana】
+<enT0382>"Does it sound absurd?"
+<ptT0382>"Does it sound absurd?"
+
+//TEXT 【Yuki】
+<enT0383>"Yeah."
+<ptT0383>"Yeah."
+
+//TEXT 【Ayana】
+<enT0384>"Hehe, yes. It's just as you say."
+<ptT0384>"Hehe, yes. It's just as you say."
+
+//TEXT 【Ayana】
+<enT0385>"There is no outside world."
+<ptT0385>"There is no outside world."
+
+//TEXT 【Ayana】
+<enT0386>"Everything is our world. No matter how far you go, it is our world."
+<ptT0386>"Everything is our world. No matter how far you go, it is our world."
+
+//TEXT 【Ayana】
+<enT0387>"Whether you stay here or forge ahead, all of it is our world."
+<ptT0387>"Whether you stay here or forge ahead, all of it is our world."
+
+//TEXT 【Ayana】
+<enT0388>"If there is an afterlife, that too is certainly part of our world. If a higher plane exists, that too is part of our world."
+<ptT0388>"If there is an afterlife, that too is certainly part of our world. If a higher plane exists, that too is part of our world."
+
+//TEXT 【Ayana】
+<enT0389>"Even if Heaven exists, even if Hell exists, all of them are certainly part of our world."
+<ptT0389>"Even if Heaven exists, even if Hell exists, all of them are certainly part of our world."
+
+//TEXT 【Ayana】
+<enT0390>"Even if I were to make an annotation, even if I were to add something from outside the world, that too would become a new part of our world."
+<ptT0390>"Even if I were to make an annotation, even if I were to add something from outside the world, that too would become a new part of our world."
+
+//TEXT 【Yuki】
+<enT0391>"No, I don't think you could call that part either old or new."
+<ptT0391>"No, I don't think you could call that part either old or new."
+
+//TEXT 【Ayana】
+<enT0392>"..."
+<ptT0392>"..."
+
+//TEXT 【Ayana】
+<enT0393>"Heh, hehehe."
+<ptT0393>"Heh, hehehe."
+
+//TEXT 【Yuki】
+<enT0394>"..."
+<ptT0394>"..."
+
+//TEXT 【Ayana】
+<enT0395>"Then the world you can see from here, your world, is neither old nor new."
+<ptT0395>"Then the world you can see from here, your world, is neither old nor new."
+
+//TEXT 【Ayana】
+<enT0396>"Do you think this annotation is correct, Minakami-san?"
+<ptT0396>"Do you think this annotation is correct, Minakami-san?"
+
+//TEXT 【Yuki】
+<enT0397>"What?!"
+<ptT0397>"What?!"
+
+//TEXT
+<enT0398>Ayana-san slowly brought her face closer to mine.
+<ptT0398>Ayana-san slowly brought her face closer to mine.
+
+//TEXT
+<enT0399>Then she headbutted me with a conk.
+<ptT0399>Then she headbutted me with a conk.
+
+//TEXT 【Yuki】
+<enT0400>"A-Ayana-san?"
+<ptT0400>"A-Ayana-san?"
+
+//TEXT 【Ayana】
+<enT0401>"..."
+<ptT0401>"..."
+
+//TEXT 【Yuki】
+<enT0402>"Wha―"
+<ptT0402>"Wha―"
+
+//TEXT 【Yuki】
+<enT0403>"Wh-What was..."
+<ptT0403>"Wh-What was..."
+
+//TEXT 【Ayana】
+<enT0404>"Hehe."
+<ptT0404>"Hehe."
+
+//TEXT 【Yuki】
+<enT0405>"Just now, Takashima-san was..."
+<ptT0405>"Just now, Takashima-san was..."
+
+//TEXT 【Ayana】
+<enT0406>"I can show you anything you possess."
+<ptT0406>"I can show you anything you possess."
+
+//TEXT 【Yuki】
+<enT0407>"What I possess? What does that mean?"
+<ptT0407>"What I possess? What does that mean?"
+
+//TEXT 【Ayana】
+<enT0408>"Minakami-san, have you heard this?"
+<ptT0408>"Minakami-san, have you heard this?"
+
+//TEXT 【Yuki】
+<enT0409>"Hmm?"
+<ptT0409>"Hmm?"
+
+//TEXT 【Ayana】
+<enT0410>"How many souls does a world require?"
+<ptT0410>"How many souls does a world require?"
+
+//TEXT 【Yuki】
+<enT0411>"..."
+<ptT0411>"..."
+
+//TEXT 【Yuki】
+<enT0412>"What do you mean?"
+<ptT0412>"What do you mean?"
+
+//TEXT 【Ayana】
+<enT0413>"Exactly what I said."
+<ptT0413>"Exactly what I said."
+
+//TEXT 【Ayana】
+<enT0414>"The necessary number of souls in a world. Most likely, one is enough."
+<ptT0414>"The necessary number of souls in a world. Most likely, one is enough."
+
+//TEXT 【Yuki】
+<enT0415>"What do you mean, Ayana-san?"
+<ptT0415>"What do you mean, Ayana-san?"
+
+//TEXT 【Yuki】
+<enT0416>"Huh?!"
+<ptT0416>"Huh?!"
+
+//TEXT 【Yuki】
+<enT0417>"Ayana-san?"
+<ptT0417>"Ayana-san?"
+
+//TEXT
+<enT0418>She wasn't there anymore...
+<ptT0418>She wasn't there anymore...
+
+//TEXT
+<enT0419>No one was there...
+<ptT0419>No one was there...
+
+//TEXT
+<enT0420>While I was on the rooftop killing time, all of the day's classes had ended.
+<ptT0420>While I was on the rooftop killing time, all of the day's classes had ended.
+
+//TEXT
+<enT0421>I had no reason to be at school after classes were over, so I decided to go back to the classroom for the moment.
+<ptT0421>I had no reason to be at school after classes were over, so I decided to go back to the classroom for the moment.
+
+//TEXT 【Kagami】
+<enT0422>"Ah, Yuki!"
+<ptT0422>"Ah, Yuki!"
+
+//TEXT 【Yuki】
+<enT0423>"Kagami..."
+<ptT0423>"Kagami..."
+
+//TEXT 【Kagami】
+<enT0424>"Yuki."
+<ptT0424>"Yuki."
+
+//TEXT 【Kagami】
+<enT0425>"You were cutting class again."
+<ptT0425>"You were cutting class again."
+
+//TEXT 【Yuki】
+<enT0426>"Yeah. Sorry."
+<ptT0426>"Yeah. Sorry."
+
+//TEXT 【Kagami】
+<enT0427>"Like I care!"
+<ptT0427>"Like I care!"
+
+//TEXT 【Yuki】
+<enT0428>"Haa..."
+<ptT0428>"Haa..."
+
+//TEXT 【Yuki】
+<enT0429>"'Like I care'? Did you get that out of some shoujo manga?"
+<ptT0429>"'Like I care'? Did you get that out of some shoujo manga?"
+
+//TEXT 【Yuki】
+<enT0430>"Hey, Kagami-san. What are you so mad about?"
+<ptT0430>"Hey, Kagami-san. What are you so mad about?"
+
+//TEXT 【Kagami】
+<enT0431>"Nothing."
+<ptT0431>"Nothing."
+
+//TEXT 【Yuki】
+<enT0432>"It doesn't seem like nothing."
+<ptT0432>"It doesn't seem like nothing."
+
+//TEXT 【Kagami】
+<enT0433>"I'm not mad."
+<ptT0433>"I'm not mad."
+
+//TEXT 【Yuki】
+<enT0434>"Ah..."
+<ptT0434>"Ah..."
+
+//TEXT 【Kagami】
+<enT0435>"We have a practice match with another team, so don't bother me."
+<ptT0435>"We have a practice match with another team, so don't bother me."
+
+//TEXT 【Yuki】
+<enT0436>"Kagami!"
+<ptT0436>"Kagami!"
+
+//TEXT 【Kagami】
+<enT0437>"Ah."
+<ptT0437>"Ah."
+
+//TEXT 【Yuki】
+<enT0438>"Kagami, what's wrong?"
+<ptT0438>"Kagami, what's wrong?"
+
+//TEXT 【Kagami】
+<enT0439>"Nothing's wrong."
+<ptT0439>"Nothing's wrong."
+
+//TEXT 【Yuki】
+<enT0440>"Kagami..."
+<ptT0440>"Kagami..."
+
+//TEXT 【Kagami】
+<enT0441>"I have to go to my club."
+<ptT0441>"I have to go to my club."
+
+//TEXT
+<enT0442>......
+<ptT0442>......
+
+//TEXT
+<enT0443>Haa...
+<ptT0443>Haa...
+
+//TEXT
+<enT0444>Maybe it's because I skipped class to get out of there.
+<ptT0444>Maybe it's because I skipped class to get out of there.
+
+//TEXT
+<enT0445>I suppose I shouldn't be surprised, after I ran off and left her alone in there.
+<ptT0445>I suppose I shouldn't be surprised, after I ran off and left her alone in there.
+
+//TEXT
+<enT0446>Sorry about that.
+<ptT0446>Sorry about that.
+
+//TEXT 【Yuki】
+<enT0447>"Tsukasa."
+<ptT0447>"Tsukasa."
+
+//TEXT 【Tsukasa】
+<enT0448>"Sorry. Would you mind leaving her alone for a little while?"
+<ptT0448>"Sorry. Would you mind leaving her alone for a little while?"
+
+//TEXT 【Yuki】
+<enT0449>"All right."
+<ptT0449>"All right."
+
+//TEXT
+<enT0450>......
+<ptT0450>......
+
+//TEXT
+<enT0451>Maybe Tsukasa is mad at me too.
+<ptT0451>Maybe Tsukasa is mad at me too.
+
+//TEXT
+<enT0452>As soon as I got home, I turned on my computer.
+<ptT0452>As soon as I got home, I turned on my computer.
+
+//TEXT 【Yuki】
+<enT0453>"I wonder if they approved my registration."
+<ptT0453>"I wonder if they approved my registration."
+
+//TEXT
+<enT0454>I immediately opened my email and checked the messages.
+<ptT0454>I immediately opened my email and checked the messages.
+
+//TEXT 【Yuki】
+<enT0455>"I want to meet you soon."
+<ptT0455>"I want to meet you soon."
+
+//TEXT 【Yuki】
+<enT0456>"All I want is sex."
+<ptT0456>"All I want is sex."
+
+//TEXT 【Yuki】
+<enT0457>"My husband was raped by a giant anteater."
+<ptT0457>"My husband was raped by a giant anteater."
+
+//TEXT
+<enT0458>They were almost all spam.
+<ptT0458>They were almost all spam.
+
+//TEXT
+<enT0459>All this spam sure is annoying.
+<ptT0459>All this spam sure is annoying.
+
+//TEXT
+<enT0460>The guy sending out all this crap should go kill himself.
+<ptT0460>The guy sending out all this crap should go kill himself.
+
+//TEXT 【Yuki】
+<enT0461>"Registration complete. Kita High message board SAWAYAKA Secretariat."
+<ptT0461>"Registration complete. Kita High message board SAWAYAKA Secretariat."
+
+//TEXT 【Yuki】
+<enT0462>"..."
+<ptT0462>"..."
+
+//TEXT
+<enT0463>The title almost looked like spam at first glance, but it wasn't.
+<ptT0463>The title almost looked like spam at first glance, but it wasn't.
+
+//TEXT
+<enT0464>This was the first step in following the trail of breadcrumbs.
+<ptT0464>This was the first step in following the trail of breadcrumbs.
+
+//TEXT
+<enT0465>My pulse quickened a little bit.
+<ptT0465>My pulse quickened a little bit.
+
+//TEXT 【Yuki】
+<enT0466>"Here I go."
+<ptT0466>"Here I go."
+
+//TEXT
+<enT0467>I opened the email.
+<ptT0467>I opened the email.
+
+//TEXT
+<enT0468>Hello, Shibata Katsuie-san.\n
+<ptT0468>Hello, Shibata Katsuie-san.\n
+
+//TEXT
+<enT0469>This is the secretariat for the Kita High message board, SAWAYAKA.\n
+<ptT0469>This is the secretariat for the Kita High message board, SAWAYAKA.\n
+
+//TEXT
+<enT0470>Thank you for registering on the Kita High underground message board.\n
+<ptT0470>Thank you for registering on the Kita High underground message board.\n
+
+//TEXT
+<enT0471>Your member registration has been completed.\n
+<ptT0471>Your member registration has been completed.\n
+
+//TEXT
+<enT0472>You may log into the site with the login credentials you provided at the time of registration, which are also listed below.\n
+<ptT0472>You may log into the site with the login credentials you provided at the time of registration, which are also listed below.\n
+
+//TEXT
+<enT0473>Please make another copy of this information and keep it in a safe place.\n
+<ptT0473>Please make another copy of this information and keep it in a safe place.\n
+
+//TEXT
+<enT0474>Login ID:
+<ptT0474>Login ID:
+
+//TEXT
+<enT0475> YA!KI!U!CHI!\n
+<ptT0475> YA!KI!U!CHI!\n
+
+//TEXT
+<enT0476>Password:
+<ptT0476>Password:
+
+//TEXT
+<enT0477> SI!ZU!GA!TA!KE!Suicide!
+<ptT0477> SI!ZU!GA!TA!KE!Suicide!
+
+//TEXT
+<enT0478>This name and the ID and password definitely were mine.
+<ptT0478>This name and the ID and password definitely were mine.
+
+//TEXT 【Yuki】
+<enT0479>"They actually approved it."
+<ptT0479>"They actually approved it."
+
+//TEXT
+<enT0480>If they actually approved something like "Shibata Katsuie," that meant the administrator was just approving any registration without even thinking about it. It might've even been automatic approval.
+<ptT0480>If they actually approved something like "Shibata Katsuie," that meant the administrator was just approving any registration without even thinking about it. It might've even been automatic approval.
+
+//TEXT
+<enT0481>I wondered who the administrator was.
+<ptT0481>I wondered who the administrator was.
+
+//TEXT
+<enT0482>I clicked the link.
+<ptT0482>I clicked the link.
+
+//TEXT
+<enT0483>It was the typical style of floating thread message board.
+<ptT0483>It was the typical style of floating thread message board.
+
+//TEXT
+<enT0484>The threads with the most recent posts were displayed closest to the top of the page.
+<ptT0484>The threads with the most recent posts were displayed closest to the top of the page.
+
+//TEXT
+<enT0485>So the threads dropped to the bottom if there weren't many responses, though they could rise to the top again if they got responses.
+<ptT0485>So the threads dropped to the bottom if there weren't many responses, though they could rise to the top again if they got responses.
+
+//TEXT
+<enT0486>Apparently, this kind of message board got its name from the way threads at the bottom could float up to the top.
+<ptT0486>Apparently, this kind of message board got its name from the way threads at the bottom could float up to the top.
+
+//TEXT 【Yuki】
+<enT0487>"I figured there would just be a few threads, but it's pretty popular, huh?"
+<ptT0487>"I figured there would just be a few threads, but it's pretty popular, huh?"
+
+//TEXT
+<enT0488>Though there probably weren't this many threads until just recently.
+<ptT0488>Though there probably weren't this many threads until just recently.
+
+//TEXT 【Yuki】
+<enT0489>"Takashima Zakuro's death... Mamiya Takuji's speech... Is it true that the world is going to end... There weren't very many threads before all this happened, so the entire board is covered with threads on this topic."
+<ptT0489>"Takashima Zakuro's death... Mamiya Takuji's speech... Is it true that the world is going to end... There weren't very many threads before all this happened, so the entire board is covered with threads on this topic."
+
+//TEXT
+<enT0490>And the one that particularly stood out...
+<ptT0490>And the one that particularly stood out...
+
+//TEXT
+<enT0491>1: Who shall be saved and who shall not
+<ptT0491>1: Who shall be saved and who shall not
+
+//TEXT
+<enT0492>This thread was created today at 11:23 a.m.
+<ptT0492>This thread was created today at 11:23 a.m.
+
+//TEXT
+<enT0493>Mamiya Takuji himself made it.
+<ptT0493>Mamiya Takuji himself made it.
+
+//TEXT
+<enT0494>1: Mamiya Takuji: 2012/07/15(Wed) 11:23:12 ID:mamiya\n
+<ptT0494>1: Mamiya Takuji: 2012/07/15(Wed) 11:23:12 ID:mamiya\n
+
+//TEXT
+<enT0495>Many of you have confirmed it.\n
+<ptT0495>Many of you have confirmed it.\n
+
+//TEXT
+<enT0496>Many of you have seen it.\n
+<ptT0496>Many of you have seen it.\n
+
+//TEXT
+<enT0497>Takashima's message predicted my awakening.\n
+<ptT0497>Takashima's message predicted my awakening.\n
+
+//TEXT
+<enT0498>I am standing here now.\n\n
+<ptT0498>I am standing here now.\n\n
+
+//TEXT
+<enT0499>As the savior.\n
+<ptT0499>As the savior.\n
+
+//TEXT
+<enT0500>Now it is time to determine who will be saved and who will not.\n
+<ptT0500>Now it is time to determine who will be saved and who will not.\n
+
+//TEXT
+<enT0501>2: Anonymous Kita High Student: 2012/07/15(Wed) 11:26:15 ID:KAERA\n
+<ptT0501>2: Anonymous Kita High Student: 2012/07/15(Wed) 11:26:15 ID:KAERA\n
+
+//TEXT
+<enT0502>Another one right after Takashima?\n
+<ptT0502>Another one right after Takashima?\n
+
+//TEXT
+<enT0503>Knock it off with that crap.
+<ptT0503>Knock it off with that crap.
+
+//TEXT
+<enT0504>3: Anonymous Kita High Student: 2012/07/15(Wed) 11:30:20 ID:inkin\n
+<ptT0504>3: Anonymous Kita High Student: 2012/07/15(Wed) 11:30:20 ID:inkin\n
+
+//TEXT
+<enT0505>I reported you to the police.
+<ptT0505>I reported you to the police.
+
+//TEXT
+<enT0506>4: Anonymous Kita High Student: 2012/07/15(Wed) 11:35:40 ID: ADAMO\n
+<ptT0506>4: Anonymous Kita High Student: 2012/07/15(Wed) 11:35:40 ID: ADAMO\n
+
+//TEXT
+<enT0507>lol they still haven't caught you yet?
+<ptT0507>lol they still haven't caught you yet?
+
+//TEXT
+<enT0508>Not surprisingly, Mamiya's thread was full of trolls.
+<ptT0508>Not surprisingly, Mamiya's thread was full of trolls.
+
+//TEXT
+<enT0509>Though of course no one was taking him seriously.
+<ptT0509>Though of course no one was taking him seriously.
+
+//TEXT
+<enT0510>I was a bit relieved.
+<ptT0510>I was a bit relieved.
+
+//TEXT
+<enT0511>I'd heard several people went missing after the incident earlier, but evidently they were unrelated.
+<ptT0511>I'd heard several people went missing after the incident earlier, but evidently they were unrelated.
+
+//TEXT
+<enT0512>Everyone was just making fun of his posts on here.
+<ptT0512>Everyone was just making fun of his posts on here.
+
+//TEXT 【Yuki】
+<enT0513>"Hmm..."
+<ptT0513>"Hmm..."
+
+//TEXT 【Yuki】
+<enT0514>"Well then, let's start checking these out. I'd better start with the ones that are about to disappear."
+<ptT0514>"Well then, let's start checking these out. I'd better start with the ones that are about to disappear."
+
+//TEXT
+<enT0515>I looked for the oldest of the threads that had topped 1,000 posts and gotten locked.
+<ptT0515>I looked for the oldest of the threads that had topped 1,000 posts and gotten locked.
+
+//TEXT 【Yuki】
+<enT0516>"This might be it."
+<ptT0516>"This might be it."
+
+//TEXT
+<enT0517>97: Thread for discussion of the falling accident.
+<ptT0517>97: Thread for discussion of the falling accident.
+
+//TEXT
+<enT0518>The date was 7/10. This thread was about Shiroyama's accident.
+<ptT0518>The date was 7/10. This thread was about Shiroyama's accident.
+
+//TEXT
+<enT0519>1: Anonymous Kita High Student: 2012/07/10(Fri) 15:20:12 ID:marudai\n
+<ptT0519>1: Anonymous Kita High Student: 2012/07/10(Fri) 15:20:12 ID:marudai\n
+
+//TEXT
+<enT0520>It's been coming up in other threads, but I made this thread to talk about it exclusively.
+<ptT0520>It's been coming up in other threads, but I made this thread to talk about it exclusively.
+
+//TEXT
+<enT0521>2: Anonymous Kita High Student: 2012/07/10(Fri) 15:21:15 ID:KAERA\n
+<ptT0521>2: Anonymous Kita High Student: 2012/07/10(Fri) 15:21:15 ID:KAERA\n
+
+//TEXT
+<enT0522>It's kind of rude to start a thread about someone's death.
+<ptT0522>It's kind of rude to start a thread about someone's death.
+
+//TEXT
+<enT0523>3: Anonymous Kita High Student: 2012/07/10(Fri) 15:22:20 ID:inkin\n
+<ptT0523>3: Anonymous Kita High Student: 2012/07/10(Fri) 15:22:20 ID:inkin\n
+
+//TEXT
+<enT0524>Was it really Shiroyama from Class 3?
+<ptT0524>Was it really Shiroyama from Class 3?
+
+//TEXT
+<enT0525>4: Anonymous Kita High Student: 2012/07/10(Fri) 15:25:40 ID: ADAMO\n
+<ptT0525>4: Anonymous Kita High Student: 2012/07/10(Fri) 15:25:40 ID: ADAMO\n
+
+//TEXT
+<enT0526>～This thread has peacefully ended～
+<ptT0526>～This thread has peacefully ended～
+
+//TEXT
+<enT0527>25: Anonymous Kita High Student: 2012/07/11(Sat) 00:20:12 ID:KINKIN\n
+<ptT0527>25: Anonymous Kita High Student: 2012/07/11(Sat) 00:20:12 ID:KINKIN\n
+
+//TEXT
+<enT0528>Kita High, 3rd year, class 6, seat number 12\n
+<ptT0528>Kita High, 3rd year, class 6, seat number 12\n
+
+//TEXT
+<enT0529>Shiroyama Tsubasa\n
+<ptT0529>Shiroyama Tsubasa\n
+
+//TEXT
+<enT0530>Height: 175cm, Weight: 62kg\n
+<ptT0530>Height: 175cm, Weight: 62kg\n
+
+//TEXT
+<enT0531>Date of Birth: 5/10\n
+<ptT0531>Date of Birth: 5/10\n
+
+//TEXT
+<enT0532>Blood Type: A
+<ptT0532>Blood Type: A
+
+//TEXT
+<enT0533>26: Anonymous Kita High Student: 2012/07/11(Sat) 00:20:45 ID:Aanana\n
+<ptT0533>26: Anonymous Kita High Student: 2012/07/11(Sat) 00:20:45 ID:Aanana\n
+
+//TEXT
+<enT0534>lol where'd you get that? did you measure him yourself lolol
+<ptT0534>lol where'd you get that? did you measure him yourself lolol
+
+//TEXT
+<enT0535>27: Takashima Zakuro: 2012/07/11(Sat) 00:20:46 ID:zakuro\n
+<ptT0535>27: Takashima Zakuro: 2012/07/11(Sat) 00:20:46 ID:zakuro\n
+
+//TEXT
+<enT0536>His death was inevitable.
+<ptT0536>His death was inevitable.
+
+//TEXT
+<enT0537>This reply, #27, was posted with a registered name.
+<ptT0537>This reply, #27, was posted with a registered name.
+
+//TEXT
+<enT0538>Was this... Takashima Zakuro-san herself?
+<ptT0538>Was this... Takashima Zakuro-san herself?
+
+//TEXT
+<enT0539>So she was posting on here...
+<ptT0539>So she was posting on here...
+
+//TEXT
+<enT0540>28: Anonymous Kita High Student: 2012/07/11(Sat) 01:21:25 ID:kintama\n
+<ptT0540>28: Anonymous Kita High Student: 2012/07/11(Sat) 01:21:25 ID:kintama\n
+
+//TEXT
+<enT0541>>>27\n
+<ptT0541>>>27\n
+
+//TEXT
+<enT0542>Seriously, learn some tact.
+<ptT0542>Seriously, learn some tact.
+
+//TEXT
+<enT0543>29: Anonymous Kita High Student: 2012/07/11(Sat) 01:22:16 ID:aria\n
+<ptT0543>29: Anonymous Kita High Student: 2012/07/11(Sat) 01:22:16 ID:aria\n
+
+//TEXT
+<enT0544>Takashima Zakuro's in class three, right? I bet she killed him.
+<ptT0544>Takashima Zakuro's in class three, right? I bet she killed him.
+
+//TEXT
+<enT0545>30: Anonymous Kita High Student: 2012/07/11(Sat) 01:22:50 ID:anaana\n
+<ptT0545>30: Anonymous Kita High Student: 2012/07/11(Sat) 01:22:50 ID:anaana\n
+
+//TEXT
+<enT0546>Your name is Takashima-san? I think you need to be a little more respectful.
+<ptT0546>Your name is Takashima-san? I think you need to be a little more respectful.
+
+//TEXT
+<enT0547>31: Anonymous Kita High Student: 2012/07/11(Sat) 01:31:20 ID:meka\n
+<ptT0547>31: Anonymous Kita High Student: 2012/07/11(Sat) 01:31:20 ID:meka\n
+
+//TEXT
+<enT0548>>>27\n
+<ptT0548>>>27\n
+
+//TEXT
+<enT0549>what a freak
+<ptT0549>what a freak
+
+//TEXT
+<enT0550>Everyone was insulting her.
+<ptT0550>Everyone was insulting her.
+
+//TEXT
+<enT0551>That was to be expected, since she said that right after his death.
+<ptT0551>That was to be expected, since she said that right after his death.
+
+//TEXT
+<enT0552>But why?
+<ptT0552>But why?
+
+//TEXT
+<enT0553>32: Takashima Zakuro: 2012/07/11(Sat) 01:50:15 ID:zakuro\n
+<ptT0553>32: Takashima Zakuro: 2012/07/11(Sat) 01:50:15 ID:zakuro\n
+
+//TEXT
+<enT0554>His death is just the beginning.
+<ptT0554>His death is just the beginning.
+
+//TEXT
+<enT0555>33: Anonymous Kita High Student: 2012/07/11(Sat) 01:51:20 ID:kinako\n
+<ptT0555>33: Anonymous Kita High Student: 2012/07/11(Sat) 01:51:20 ID:kinako\n
+
+//TEXT
+<enT0556>lol it's just the beginning she says. does that mean our token black guy dies next?
+<ptT0556>lol it's just the beginning she says. does that mean our token black guy dies next?
+
+//TEXT
+<enT0557>34: Anonymous Kita High Student: 2012/07/11(Sat) 01:53:21 ID:aida\n
+<ptT0557>34: Anonymous Kita High Student: 2012/07/11(Sat) 01:53:21 ID:aida\n
+
+//TEXT
+<enT0558>>>30\n
+<ptT0558>>>30\n
+
+//TEXT
+<enT0559>I think there really is a problem with what you're saying, Takashima.
+<ptT0559>I think there really is a problem with what you're saying, Takashima.
+
+//TEXT
+<enT0560>35: Takashima Zakuro: 2012/07/11(Sat) 02:00:25 ID:zakuro\n
+<ptT0560>35: Takashima Zakuro: 2012/07/11(Sat) 02:00:25 ID:zakuro\n
+
+//TEXT
+<enT0561>But this is all according to prophecy...
+<ptT0561>But this is all according to prophecy...
+
+//TEXT
+<enT0562>36: Anonymous Kita High Student: 2012/07/11(Sat) 02:02:11 ID:kanakana\n
+<ptT0562>36: Anonymous Kita High Student: 2012/07/11(Sat) 02:02:11 ID:kanakana\n
+
+//TEXT
+<enT0563>now she thinks there's a prophecy lol
+<ptT0563>now she thinks there's a prophecy lol
+
+//TEXT
+<enT0564>37: Anonymous Kita High Student: 2012/07/11(Sat) 02:03:21 ID:kanakana\n
+<ptT0564>37: Anonymous Kita High Student: 2012/07/11(Sat) 02:03:21 ID:kanakana\n
+
+//TEXT
+<enT0565>where's your tinfoil hat?
+<ptT0565>where's your tinfoil hat?
+
+//TEXT
+<enT0566>Was Takashima-san the one who started all this?
+<ptT0566>Was Takashima-san the one who started all this?
+
+//TEXT
+<enT0567>Before Mamiya Takuji...
+<ptT0567>Before Mamiya Takuji...
+
+//TEXT
+<enT0568>But still, a prophecy...
+<ptT0568>But still, a prophecy...
+
+//TEXT 【Yuki】
+<enT0569>"..."
+<ptT0569>"..."
+
+//TEXT
+<enT0570>It seemed like that was Takashima-san's last post in that thread.
+<ptT0570>It seemed like that was Takashima-san's last post in that thread.
+
+//TEXT
+<enT0571>Takashima-san's posts were ignored, and the thread about Shiroyama's accident went on to a thousand posts.
+<ptT0571>Takashima-san's posts were ignored, and the thread about Shiroyama's accident went on to a thousand posts.
+
+//TEXT
+<enT0572>I looked for other threads.
+<ptT0572>I looked for other threads.
+
+//TEXT 【Yuki】
+<enT0573>"This is..."
+<ptT0573>"This is..."
+
+//TEXT
+<enT0574>74: Bick Hazard is coming.
+<ptT0574>74: Bick Hazard is coming.
+
+//TEXT
+<enT0575>1: Takashima Zakuro: 2012/07/11(Sat) 22:02:13 ID:zakuro\n
+<ptT0575>1: Takashima Zakuro: 2012/07/11(Sat) 22:02:13 ID:zakuro\n
+
+//TEXT
+<enT0576>The sealed nevus uses a Specialized Physics Bug (i.e. an Outer Magic Dark Summons Bug) to plant negative thoughts in the human race.\n
+<ptT0576>The sealed nevus uses a Specialized Physics Bug (i.e. an Outer Magic Dark Summons Bug) to plant negative thoughts in the human race.\n
+
+//TEXT
+<enT0577>That is the true nature of the battle between the dictators and tyrants of the world (Hitler, Genghis Khan, Marie Antoinette, etc.) and us (the peasants, the revolutionaries, the proletariat).\n
+<ptT0577>That is the true nature of the battle between the dictators and tyrants of the world (Hitler, Genghis Khan, Marie Antoinette, etc.) and us (the peasants, the revolutionaries, the proletariat).\n
+
+//TEXT
+<enT0578>Shiroyama Tsubasa was infected by the Specialized Physics Bug.\n
+<ptT0578>Shiroyama Tsubasa was infected by the Specialized Physics Bug.\n
+
+//TEXT
+<enT0579>The nevus used him to degrade me (the phenomenon of inducing a low energy state with a negative energy blast).\n
+<ptT0579>The nevus used him to degrade me (the phenomenon of inducing a low energy state with a negative energy blast).\n
+
+//TEXT
+<enT0580>And the reason is because the nevus will soon awaken. Bick Hazard is coming.\n\n
+<ptT0580>And the reason is because the nevus will soon awaken. Bick Hazard is coming.\n\n
+
+//TEXT
+<enT0581>A great disaster will occur!
+<ptT0581>A great disaster will occur!
+
+//TEXT
+<enT0582>2: Anonymous Kita High Student: 2012/07/11(Sat) 22:10:15 ID:KAERA\n
+<ptT0582>2: Anonymous Kita High Student: 2012/07/11(Sat) 22:10:15 ID:KAERA\n
+
+//TEXT
+<enT0583>Stay away from me, Bick Hazard.\n
+<ptT0583>Stay away from me, Bick Hazard.\n
+
+//TEXT
+<enT0584>　  /＼＿＿_／＼\n
+<ptT0584>　  /＼＿＿_／＼\n
+
+//TEXT
+<enT0585>／／　　   ヽ ＼\n
+<ptT0585>／／　　   ヽ ＼\n
+
+//TEXT
+<enT0586> |（●）  （●）　|\n
+<ptT0586> |（●）  （●）　|\n
+
+//TEXT
+<enT0587> |　 ノ(、_)ヽ    |\n
+<ptT0587> |　 ノ(、_)ヽ    |\n
+
+//TEXT
+<enT0588> |　 ;‐＝‐ヽ    |\n
+<ptT0588> |　 ;‐＝‐ヽ    |\n
+
+//TEXT
+<enT0589> ＼　｀ニニ´　  ／\n
+<ptT0589> ＼　｀ニニ´　  ／\n
+
+//TEXT
+<enT0590> ／｀ー‐--―´´＼\n
+<ptT0590> ／｀ー‐--―´´＼\n
+
+//TEXT
+<enT0591>　 　　    ｎｎ 　 ｎｎ\n
+<ptT0591>　 　　    ｎｎ 　 ｎｎ\n
+
+//TEXT
+<enT0592>　 　　ｎ|｜|　　||||ｎ\n
+<ptT0592>　 　　ｎ|｜|　　||||ｎ\n
+
+//TEXT
+<enT0593>　 　  |||｜∩　∩||| |\n
+<ptT0593>　 　  |||｜∩　∩||| |\n
+
+//TEXT
+<enT0594>　 　  |::　!}　{！   |\n
+<ptT0594>　 　  |::　!}　{！   |\n
+
+//TEXT
+<enT0595>　 　  ヽ　,イ 　ヽ :イ 
+<ptT0595>　 　  ヽ　,イ 　ヽ :イ 
+
+//TEXT
+<enT0596>
+<ptT0596>
+
+//TEXT
+<enT0597>3: Anonymous Kita High Student: 2012/07/11(Sat) 22:16:25 ID:KAERA\n
+<ptT0597>3: Anonymous Kita High Student: 2012/07/11(Sat) 22:16:25 ID:KAERA\n
+
+//TEXT
+<enT0598>>>2\n
+<ptT0598>>>2\n
+
+//TEXT
+<enT0599>lol
+<ptT0599>lol
+
+//TEXT
+<enT0600>4: Anonymous Kita High Student: 2012/07/11(Sat) 22:17:23 ID:KAERA\n
+<ptT0600>4: Anonymous Kita High Student: 2012/07/11(Sat) 22:17:23 ID:KAERA\n
+
+//TEXT
+<enT0601>　　　 ∧  ∧ ∩Pls\n
+<ptT0601>　　　 ∧  ∧ ∩Pls\n
+
+//TEXT
+<enT0602>　　( ´∀｀)/　∧  ∧ ∩stay\n
+<ptT0602>　　( ´∀｀)/　∧  ∧ ∩stay\n
+
+//TEXT
+<enT0603>　⊂　    ﾉ　　( ´∀｀)/\n
+<ptT0603>　⊂　    ﾉ　　( ´∀｀)/\n
+
+//TEXT
+<enT0604>　　(つ ﾉ　　⊂　　   ﾉ　 ∧  ∧ ∩away\n
+<ptT0604>　　(つ ﾉ　　⊂　　   ﾉ　 ∧  ∧ ∩away\n
+
+//TEXT
+<enT0605>　　 (ノ　　　　(つ ﾉ　　( ´∀｀)/\n
+<ptT0605>　　 (ノ　　　　(つ ﾉ　　( ´∀｀)/\n
+
+//TEXT
+<enT0606>　　　　　　　　 (ノ　　 ⊂　　 ﾉ\n
+<ptT0606>　　　　　　　　 (ノ　　 ⊂　　 ﾉ\n
+
+//TEXT
+<enT0607>　　　　　　　　　　　　　 (つ ﾉ　  ∧  ∧ ∩from\n
+<ptT0607>　　　　　　　　　　　　　 (つ ﾉ　  ∧  ∧ ∩from\n
+
+//TEXT
+<enT0608>　　　　　　　　　　　　　　(ノ　　( ´∀｀)/\n
+<ptT0608>　　　　　　　　　　　　　　(ノ　　( ´∀｀)/\n
+
+//TEXT
+<enT0609>　　　　　　　　　　　　　　　　 ＿| つ／ヽ-、＿\n
+<ptT0609>　　　　　　　　　　　　　　　　 ＿| つ／ヽ-、＿\n
+
+//TEXT
+<enT0610>　　　　　　　　　　　　　　　／　└-(＿＿＿_／\n
+<ptT0610>　　　　　　　　　　　　　　　／　└-(＿＿＿_／\n
+
+//TEXT
+<enT0611>　　　　　　　　　　　　　　　￣￣￣￣￣￣￣\n
+<ptT0611>　　　　　　　　　　　　　　　￣￣￣￣￣￣￣\n
+
+//TEXT
+<enT0612>　　　　　　　　　　　　　　　　　　 ＜⌒／ヽ＿_＿me\n
+<ptT0612>　　　　　　　　　　　　　　　　　　 ＜⌒／ヽ＿_＿me\n
+
+//TEXT
+<enT0613>　　　　　　　　　　　　　　　　　／＜__/_＿＿＿／
+<ptT0613>　　　　　　　　　　　　　　　　　／＜__/_＿＿＿／
+
+//TEXT
+<enT0614>kthx
+<ptT0614>kthx
+
+//TEXT
+<enT0615>5: Takashima Zakuro: 2012/07/11(Sat) 22:21:13 ID:zakuro\n
+<ptT0615>5: Takashima Zakuro: 2012/07/11(Sat) 22:21:13 ID:zakuro\n
+
+//TEXT
+<enT0616>Don't joke around!
+<ptT0616>Don't joke around!
+
+//TEXT
+<enT0617>They weren't going to take her seriously.
+<ptT0617>They weren't going to take her seriously.
+
+//TEXT
+<enT0618>She sounded crazy. I probably would've reacted the exact same way.
+<ptT0618>She sounded crazy. I probably would've reacted the exact same way.
+
+//TEXT
+<enT0619>I didn't know what she was talking about, but it was full of hard words. I wasn't sure what else she expected anyone to say.
+<ptT0619>I didn't know what she was talking about, but it was full of hard words. I wasn't sure what else she expected anyone to say.
+
+//TEXT
+<enT0620>8: Anonymous Kita High Student: 2012/07/11(Sat) 23:28:21 ID:KAERA\n
+<ptT0620>8: Anonymous Kita High Student: 2012/07/11(Sat) 23:28:21 ID:KAERA\n
+
+//TEXT
+<enT0621>>>1\n
+<ptT0621>>>1\n
+
+//TEXT
+<enT0622>Who's Bick Hazard? He sounds like some big guy.
+<ptT0622>Who's Bick Hazard? He sounds like some big guy.
+
+//TEXT
+<enT0623>9: Takashima Zakuro: 2012/07/11(Sat) 23:30:15 ID:zakuro\n
+<ptT0623>9: Takashima Zakuro: 2012/07/11(Sat) 23:30:15 ID:zakuro\n
+
+//TEXT
+<enT0624>>>8\n
+<ptT0624>>>8\n
+
+//TEXT
+<enT0625>Bick Hazard is not a person. It is a great disaster.
+<ptT0625>Bick Hazard is not a person. It is a great disaster.
+
+//TEXT
+<enT0626>10: Anonymous Kita High Student: 2012/07/11(Sat) 23:30:21 ID:daiki\n
+<ptT0626>10: Anonymous Kita High Student: 2012/07/11(Sat) 23:30:21 ID:daiki\n
+
+//TEXT
+<enT0627>>>8\n
+<ptT0627>>>8\n
+
+//TEXT
+<enT0628>Honestly, I think it's the aftershocks from the worldwide recession. Bick Hazard was the reason the ***son in front of the station closed down.
+<ptT0628>Honestly, I think it's the aftershocks from the worldwide recession. Bick Hazard was the reason the ***son in front of the station closed down.
+
+//TEXT
+<enT0629>11: Anonymous Kita High Student: 2012/07/11(Sat) 23:30:21 ID:daiki\n
+<ptT0629>11: Anonymous Kita High Student: 2012/07/11(Sat) 23:30:21 ID:daiki\n
+
+//TEXT
+<enT0630>>>8\n
+<ptT0630>>>8\n
+
+//TEXT
+<enT0631>I know what you mean!
+<ptT0631>I know what you mean!
+
+//TEXT
+<enT0632>12: Takashima Zakuro: 2012/07/11(Sat) 23:30:15 ID:zakuro\n
+<ptT0632>12: Takashima Zakuro: 2012/07/11(Sat) 23:30:15 ID:zakuro\n
+
+//TEXT
+<enT0633>>>10\n
+<ptT0633>>>10\n
+
+//TEXT
+<enT0634>>>11\n
+<ptT0634>>>11\n
+
+//TEXT
+<enT0635>That's wrong!
+<ptT0635>That's wrong!
+
+//TEXT
+<enT0636>Yeah, it probably was wrong.
+<ptT0636>Yeah, it probably was wrong.
+
+//TEXT
+<enT0637>Though I didn't really know what Bick Hazard was either.
+<ptT0637>Though I didn't really know what Bick Hazard was either.
+
+//TEXT
+<enT0638>24: Takashima Zakuro: 2012/07/11(Sat) 23:31:45 ID:zakuro\n
+<ptT0638>24: Takashima Zakuro: 2012/07/11(Sat) 23:31:45 ID:zakuro\n
+
+//TEXT
+<enT0639>The nevus implanted the Specialized Physics Bug in Shiroyama Tsubasa in order to induce a low energy state in one of the angel warriors, the only beings that can stop the nevus.\n
+<ptT0639>The nevus implanted the Specialized Physics Bug in Shiroyama Tsubasa in order to induce a low energy state in one of the angel warriors, the only beings that can stop the nevus.\n
+
+//TEXT
+<enT0640>Every angel warrior was targeted by an assassin that was being manipulated by a Specialized Physics Bug. However, every Specialized Physics Bug within the barrier (Tokyo's 23rd Ward) has been exterminated with the combined power of the golden Angel Remover and the flashing blue Angel Night.\n
+<ptT0640>Every angel warrior was targeted by an assassin that was being manipulated by a Specialized Physics Bug. However, every Specialized Physics Bug within the barrier (Tokyo's 23rd Ward) has been exterminated with the combined power of the golden Angel Remover and the flashing blue Angel Night.\n
+
+//TEXT
+<enT0641>Since Shiroyama-kun's brain had already been devoured, he went insane and jumped from the rooftop when the Specialized Physics Bug disappeared.
+<ptT0641>Since Shiroyama-kun's brain had already been devoured, he went insane and jumped from the rooftop when the Specialized Physics Bug disappeared.
+
+//TEXT
+<enT0642>After that, the thread was filled with trolls.
+<ptT0642>After that, the thread was filled with trolls.
+
+//TEXT
+<enT0643>People making fun of her, people getting mad, people who sounded a little scared. But at this point, the people in the thread weren't terribly scared.
+<ptT0643>People making fun of her, people getting mad, people who sounded a little scared. But at this point, the people in the thread weren't terribly scared.
+
+//TEXT
+<enT0644>Everyone was just making a lot of noise over some crazy person on the Internet.
+<ptT0644>Everyone was just making a lot of noise over some crazy person on the Internet.
+
+//TEXT
+<enT0645>256: Anonymous Kita High Student: 2012/07/12(Sun) 00:30:21 ID:daiki\n
+<ptT0645>256: Anonymous Kita High Student: 2012/07/12(Sun) 00:30:21 ID:daiki\n
+
+//TEXT
+<enT0646>So then, when is the world going to end? You keep saying it's a prophecy, but all I hear you talking about is stuff that already happened. When is the world going to end?
+<ptT0646>So then, when is the world going to end? You keep saying it's a prophecy, but all I hear you talking about is stuff that already happened. When is the world going to end?
+
+//TEXT
+<enT0647>257: Takashima Zakuro: 2012/07/12(Sun) 02:10:05 ID:zakuro\n
+<ptT0647>257: Takashima Zakuro: 2012/07/12(Sun) 02:10:05 ID:zakuro\n
+
+//TEXT
+<enT0648>A great disaster will occur on July 20th, 2012.
+<ptT0648>A great disaster will occur on July 20th, 2012.
+
+//TEXT
+<enT0649>258: Anonymous Kita High Student: 2012/07/12(Sun) 02:31:11 ID:daiki\n
+<ptT0649>258: Anonymous Kita High Student: 2012/07/12(Sun) 02:31:11 ID:daiki\n
+
+//TEXT
+<enT0650>>>257\n
+<ptT0650>>>257\n
+
+//TEXT
+<enT0651>lol next week?
+<ptT0651>lol next week?
+
+//TEXT
+<enT0652>265: Takashima Zakuro: 2012/07/12(Sun) 04:18:25 ID:zakuro\n
+<ptT0652>265: Takashima Zakuro: 2012/07/12(Sun) 04:18:25 ID:zakuro\n
+
+//TEXT
+<enT0653>Not just a few people, but many people will die.\n
+<ptT0653>Not just a few people, but many people will die.\n
+
+//TEXT
+<enT0654>More than you can count. The planet will reach a bottleneck.
+<ptT0654>More than you can count. The planet will reach a bottleneck.
+
+//TEXT
+<enT0655>266: Anonymous Kita High Student: 2012/07/12(Sun) 04:31:21 ID:KAERA\n
+<ptT0655>266: Anonymous Kita High Student: 2012/07/12(Sun) 04:31:21 ID:KAERA\n
+
+//TEXT
+<enT0656>>>265\n
+<ptT0656>>>265\n
+
+//TEXT
+<enT0657>A bottleneck?
+<ptT0657>A bottleneck?
+
+//TEXT
+<enT0658>267: Anonymous Kita High Student: 2012/07/12(Sun) 04:33:54 ID:daiki\n
+<ptT0658>267: Anonymous Kita High Student: 2012/07/12(Sun) 04:33:54 ID:daiki\n
+
+//TEXT
+<enT0659>>>266\n
+<ptT0659>>>266\n
+
+//TEXT
+<enT0660>A bottleneck... You could probably think of it as a genetic bottleneck.\n
+<ptT0660>A bottleneck... You could probably think of it as a genetic bottleneck.\n
+
+//TEXT
+<enT0661>A sudden decrease in genetic variety.\n
+<ptT0661>A sudden decrease in genetic variety.\n
+
+//TEXT
+<enT0662>It's when a lot of animals die and their genetic strains disappear. Like she said, that would be a great disaster.
+<ptT0662>It's when a lot of animals die and their genetic strains disappear. Like she said, that would be a great disaster.
+
+//TEXT
+<enT0663>652: Takashima Zakuro: 2012/07/12(Sun) 05:18:25 ID:zakuro\n
+<ptT0663>652: Takashima Zakuro: 2012/07/12(Sun) 05:18:25 ID:zakuro\n
+
+//TEXT
+<enT0664>We shall perform the Brain Reverse on July 12th, 2012.\n
+<ptT0664>We shall perform the Brain Reverse on July 12th, 2012.\n
+
+//TEXT
+<enT0665>Then everyone will know.\n
+<ptT0665>Then everyone will know.\n
+
+//TEXT
+<enT0666>The fact that I am not human.\n
+<ptT0666>The fact that I am not human.\n
+
+//TEXT
+<enT0667>And the fact that the world is heading toward destruction.
+<ptT0667>And the fact that the world is heading toward destruction.
+
+//TEXT
+<enT0668>She was writing about this "Brain Reverse" on the day she committed suicide?
+<ptT0668>She was writing about this "Brain Reverse" on the day she committed suicide?
+
+//TEXT
+<enT0669>Actually, isn't that word...
+<ptT0669>Actually, isn't that word...
+
+//TEXT
+<enT0670>I looked at the words I'd copied off of Takashima-san's desk.
+<ptT0670>I looked at the words I'd copied off of Takashima-san's desk.
+
+//TEXT 【Yuki】
+<enT0671>"..."
+<ptT0671>"..."
+
+//TEXT 【Yuki】
+<enT0672>"This really is the same as the scribbles that were on her desk."
+<ptT0672>"This really is the same as the scribbles that were on her desk."
+
+//TEXT
+<enT0673>Which meant there was no doubt the posts were made by Takashima-san.
+<ptT0673>Which meant there was no doubt the posts were made by Takashima-san.
+
+//TEXT
+<enT0674>Brain Reverse, Har Megiddo, Nebula Cloud, Elhimuro... Angel Remover... Angel Night... I am Angel Advise.
+<ptT0674>Brain Reverse, Har Megiddo, Nebula Cloud, Elhimuro... Angel Remover... Angel Night... I am Angel Advise.
+
+//TEXT 【Yuki】
+<enT0675>"So Takashima-san is Angel Advise, and the two that she mentioned in the thread, Angel Remover and Angel Night, are..."
+<ptT0675>"So Takashima-san is Angel Advise, and the two that she mentioned in the thread, Angel Remover and Angel Night, are..."
+
+//TEXT
+<enT0676>The other two that were with her.
+<ptT0676>The other two that were with her.
+
+//TEXT
+<enT0677>It all made sense.
+<ptT0677>It all made sense.
+
+//TEXT
+<enT0678>So I guess when she said, "I'm not human," she was saying that because she thought she was the angel warrior, Angel Advise.
+<ptT0678>So I guess when she said, "I'm not human," she was saying that because she thought she was the angel warrior, Angel Advise.
+
+//TEXT
+<enT0679>856: Takashima Zakuro: 2012/07/12(Sun) 09:02:13 ID:zakuro\n
+<ptT0679>856: Takashima Zakuro: 2012/07/12(Sun) 09:02:13 ID:zakuro\n
+
+//TEXT
+<enT0680>Bick Hazard shall arrive soon!
+<ptT0680>Bick Hazard shall arrive soon!
+
+//TEXT
+<enT0681>Nine o'clock in the morning, on the 12th. Apparently, that was her last post.
+<ptT0681>Nine o'clock in the morning, on the 12th. Apparently, that was her last post.
+
+//TEXT
+<enT0682>It was the day she performed the Brain Reverse. In other words, that's when she jumped from the rooftop.
+<ptT0682>It was the day she performed the Brain Reverse. In other words, that's when she jumped from the rooftop.
+
+//TEXT 【Yuki】
+<enT0683>"What's this?"
+<ptT0683>"What's this?"
+
+//TEXT 【Yuki】
+<enT0684>"This thread was made that evening. This would be right after her suicide."
+<ptT0684>"This thread was made that evening. This would be right after her suicide."
+
+//TEXT
+<enT0685> 71: I got something weird (||||▽￣)」 scary
+<ptT0685> 71: I got something weird (||||▽￣)」 scary
+
+//TEXT
+<enT0686>1: Anonymous Kita High Student: 2012/07/12(Sun) 22:52:25 ID:MARUKOME\n
+<ptT0686>1: Anonymous Kita High Student: 2012/07/12(Sun) 22:52:25 ID:MARUKOME\n
+
+//TEXT
+<enT0687>I got an email, but the picture and message are weird.\n\n
+<ptT0687>I got an email, but the picture and message are weird.\n\n
+
+//TEXT
+<enT0688>through death i have been reborn as a warrior\n
+<ptT0688>through death i have been reborn as a warrior\n
+
+//TEXT
+<enT0689>or so they said but it hurts\n
+<ptT0689>or so they said but it hurts\n
+
+//TEXT
+<enT0690>i have no body but\n
+<ptT0690>i have no body but\n
+
+//TEXT
+<enT0691>it still hurts\n
+<ptT0691>it still hurts\n
+
+//TEXT
+<enT0692>it hurts because i've been broken\n
+<ptT0692>it hurts because i've been broken\n
+
+//TEXT
+<enT0693>therefore\n
+<ptT0693>therefore\n
+
+//TEXT
+<enT0694>everyone must die\n
+<ptT0694>everyone must die\n
+
+//TEXT
+<enT0695>you will die in 8 days\n
+<ptT0695>you will die in 8 days\n
+
+//TEXT
+<enT0696>all of you will die\n\n
+<ptT0696>all of you will die\n\n
+
+//TEXT
+<enT0697>The address on this was takasimazakuro.
+<ptT0697>The address on this was takasimazakuro.
+
+//TEXT
+<enT0698>2: Anonymous Kita High Student: 2012/07/12(Sun) 22:55:12 ID:GENKI\n
+<ptT0698>2: Anonymous Kita High Student: 2012/07/12(Sun) 22:55:12 ID:GENKI\n
+
+//TEXT
+<enT0699>I got one too （´・ω・）
+<ptT0699>I got one too （´・ω・）
+
+//TEXT
+<enT0700>3: Anonymous Kita High Student: 2012/07/12(Sun) 22:58:32 ID:KINDARMAN\n
+<ptT0700>3: Anonymous Kita High Student: 2012/07/12(Sun) 22:58:32 ID:KINDARMAN\n
+
+//TEXT
+<enT0701>That's the same as the one I got. What's up with that? Is it really from Takashima Zakuro?
+<ptT0701>That's the same as the one I got. What's up with that? Is it really from Takashima Zakuro?
+
+//TEXT
+<enT0702>After that, the thread was full of responses saying they had gotten the message too.
+<ptT0702>After that, the thread was full of responses saying they had gotten the message too.
+
+//TEXT
+<enT0703>It looked like almost everyone on this message board had gotten one.
+<ptT0703>It looked like almost everyone on this message board had gotten one.
+
+//TEXT
+<enT0704>The same question I was thinking popped up in the thread.
+<ptT0704>The same question I was thinking popped up in the thread.
+
+//TEXT
+<enT0705>50: Anonymous Kita High Student: 2012/07/12(Sun) 23:40:45 ID:WAKAWAK\n
+<ptT0705>50: Anonymous Kita High Student: 2012/07/12(Sun) 23:40:45 ID:WAKAWAK\n
+
+//TEXT
+<enT0706>Did they all come at the same time?
+<ptT0706>Did they all come at the same time?
+
+//TEXT
+<enT0707>52: Anonymous Kita High Student: 2012/07/12(Sun) 23:45:05 ID:KITAMURA\n
+<ptT0707>52: Anonymous Kita High Student: 2012/07/12(Sun) 23:45:05 ID:KITAMURA\n
+
+//TEXT
+<enT0708>Doesn't it look like they were all sent at the same time?
+<ptT0708>Doesn't it look like they were all sent at the same time?
+
+//TEXT
+<enT0709>54: Anonymous Kita High Student: 2012/07/12(Sun) 23:48:45 ID:GENKI\n
+<ptT0709>54: Anonymous Kita High Student: 2012/07/12(Sun) 23:48:45 ID:GENKI\n
+
+//TEXT
+<enT0710>>>50\n
+<ptT0710>>>50\n
+
+//TEXT
+<enT0711>I think it was around 10:44.\n
+<ptT0711>I think it was around 10:44.\n
+
+//TEXT
+<enT0712>>>52\n
+<ptT0712>>>52\n
+
+//TEXT
+<enT0713>It looks like everyone's getting them at the same time.
+<ptT0713>It looks like everyone's getting them at the same time.
+
+//TEXT
+<enT0714>55: Anonymous Kita High Student: 2012/07/12(Sun) 23:50:45 ID:WAKAWAK\n
+<ptT0714>55: Anonymous Kita High Student: 2012/07/12(Sun) 23:50:45 ID:WAKAWAK\n
+
+//TEXT
+<enT0715>>>54\n
+<ptT0715>>>54\n
+
+//TEXT
+<enT0716>Mine was right around 10:45, too.\n
+<ptT0716>Mine was right around 10:45, too.\n
+
+//TEXT
+<enT0717>>>52\n
+<ptT0717>>>52\n
+
+//TEXT
+<enT0718>I think they were all simultaneous...
+<ptT0718>I think they were all simultaneous...
+
+//TEXT
+<enT0719>Simultaneous transmission... Well, I suppose so.
+<ptT0719>Simultaneous transmission... Well, I suppose so.
+
+//TEXT
+<enT0720>Every single one was at the same time.
+<ptT0720>Every single one was at the same time.
+
+//TEXT
+<enT0721>Which means...
+<ptT0721>Which means...
+
+//TEXT
+<enT0722>The sender had a register of names or some collection of data like that.
+<ptT0722>The sender had a register of names or some collection of data like that.
+
+//TEXT
+<enT0723>Though, that was assuming that Takashima Zakuro wasn't the sender.
+<ptT0723>Though, that was assuming that Takashima Zakuro wasn't the sender.
+
+//TEXT 【Yuki】
+<enT0724>"A register... Maybe a teacher? Though of course the school register doesn't have email addresses."
+<ptT0724>"A register... Maybe a teacher? Though of course the school register doesn't have email addresses."
+
+//TEXT
+<enT0725>152: Anonymous Kita High Student: 2012/07/13(M) 01:40:45 ID:satokon\n
+<ptT0725>152: Anonymous Kita High Student: 2012/07/13(M) 01:40:45 ID:satokon\n
+
+//TEXT
+<enT0726>It's kind of hard to say, but I think those messages really are from Takashima Zakuro.\n
+<ptT0726>It's kind of hard to say, but I think those messages really are from Takashima Zakuro.\n
+
+//TEXT
+<enT0727>I know because I had her address in my phone.\n
+<ptT0727>I know because I had her address in my phone.\n
+
+//TEXT
+<enT0728>I don't know if someone else might be using it, but the messages are coming from Takashima's phone.
+<ptT0728>I don't know if someone else might be using it, but the messages are coming from Takashima's phone.
+
+//TEXT
+<enT0729>153: Akasaka Megu: 2012/07/13(M) 01:42:25 ID:megu\n
+<ptT0729>153: Akasaka Megu: 2012/07/13(M) 01:42:25 ID:megu\n
+
+//TEXT
+<enT0730>>>152\n
+<ptT0730>>>152\n
+
+//TEXT
+<enT0731>You're Satoko, right?\n
+<ptT0731>You're Satoko, right?\n
+
+//TEXT
+<enT0732>I have it too... That definitely is Takashima.\n
+<ptT0732>I have it too... That definitely is Takashima.\n
+
+//TEXT
+<enT0733>I mean, the address is the exact same... And the picture is from her phone too. Her phone's camera had a horrible resolution.
+<ptT0733>I mean, the address is the exact same... And the picture is from her phone too. Her phone's camera had a horrible resolution.
+
+//TEXT
+<enT0734>154: Satoko: 2012/07/13(M) 01:46:48 ID:satokon\n
+<ptT0734>154: Satoko: 2012/07/13(M) 01:46:48 ID:satokon\n
+
+//TEXT
+<enT0735>What should we do? That's Takashima's phone.\n
+<ptT0735>What should we do? That's Takashima's phone.\n
+
+//TEXT
+<enT0736>The picture is the same resolution as the pictures we took with it before.\n
+<ptT0736>The picture is the same resolution as the pictures we took with it before.\n
+
+//TEXT
+<enT0737>The same as the ones we took at the restaurant.\n
+<ptT0737>The same as the ones we took at the restaurant.\n
+
+//TEXT
+<enT0738>Is Takashima alive?
+<ptT0738>Is Takashima alive?
+
+//TEXT
+<enT0739>155: Anonymous Kita High Student: 2012/07/13(M) 01:51:11 ID:atata\n
+<ptT0739>155: Anonymous Kita High Student: 2012/07/13(M) 01:51:11 ID:atata\n
+
+//TEXT
+<enT0740>Takashima died. She's not alive. That much is certain.
+<ptT0740>Takashima died. She's not alive. That much is certain.
+
+//TEXT
+<enT0741>160: Satoko: 2012/07/13(M) 03:12:48 ID:satokon\n
+<ptT0741>160: Satoko: 2012/07/13(M) 03:12:48 ID:satokon\n
+
+//TEXT
+<enT0742>I'm scared... What should I do?
+<ptT0742>I'm scared... What should I do?
+
+//TEXT
+<enT0743>161: Anonymous Kita High Student: 2012/07/13(M) 03:15:11 ID:atata\n
+<ptT0743>161: Anonymous Kita High Student: 2012/07/13(M) 03:15:11 ID:atata\n
+
+//TEXT
+<enT0744>Why are you scared?
+<ptT0744>Why are you scared?
+
+//TEXT
+<enT0745>162: Akasaka Megu: 2012/07/13(M) 03:22:25 ID:megu\n
+<ptT0745>162: Akasaka Megu: 2012/07/13(M) 03:22:25 ID:megu\n
+
+//TEXT
+<enT0746>Takashima probably has a grudge against us... Was that message really from a ghost? Takashima's ghost?\n
+<ptT0746>Takashima probably has a grudge against us... Was that message really from a ghost? Takashima's ghost?\n
+
+//TEXT
+<enT0747>Then I'm...
+<ptT0747>Then I'm...
+
+//TEXT
+<enT0748>163: Anonymous Kita High Student: 2012/07/13(M) 03:25:21 ID:atata\n
+<ptT0748>163: Anonymous Kita High Student: 2012/07/13(M) 03:25:21 ID:atata\n
+
+//TEXT
+<enT0749>You guys bullied her?
+<ptT0749>You guys bullied her?
+
+//TEXT
+<enT0750>164: Satoko 2012/07/13(M) 03:29:18 ID:satokon\n
+<ptT0750>164: Satoko 2012/07/13(M) 03:29:18 ID:satokon\n
+
+//TEXT
+<enT0751>It wasn't just us. At first, the whole class did it... Why just us?
+<ptT0751>It wasn't just us. At first, the whole class did it... Why just us?
+
+//TEXT
+<enT0752>165: Anonymous Kita High Student: 2012/07/13(M) 03:33:31 ID:atata\n
+<ptT0752>165: Anonymous Kita High Student: 2012/07/13(M) 03:33:31 ID:atata\n
+
+//TEXT
+<enT0753>What do you mean, "just us"?
+<ptT0753>What do you mean, "just us"?
+
+//TEXT
+<enT0754>166: Satoko: 2012/07/13(M) 03:36:33 ID:satokon\n
+<ptT0754>166: Satoko: 2012/07/13(M) 03:36:33 ID:satokon\n
+
+//TEXT
+<enT0755>I asked Akiko and Eri. The other people in our class didn't get the email.
+<ptT0755>I asked Akiko and Eri. The other people in our class didn't get the email.
+
+//TEXT
+<enT0756>167: Anonymous Kita High Student: 2012/07/13(M) 03:40:42 ID:manaka\n
+<ptT0756>167: Anonymous Kita High Student: 2012/07/13(M) 03:40:42 ID:manaka\n
+
+//TEXT
+<enT0757>lol we got it and we don't even know her.
+<ptT0757>lol we got it and we don't even know her.
+
+//TEXT
+<enT0758>168: Anonymous Kita High Student: 2012/07/13(M) 03:40:42 ID:kiri\n
+<ptT0758>168: Anonymous Kita High Student: 2012/07/13(M) 03:40:42 ID:kiri\n
+
+//TEXT
+<enT0759>It's your fault! Go die so she can rest in peace.
+<ptT0759>It's your fault! Go die so she can rest in peace.
+
+//TEXT
+<enT0760>170: Satoko: 2012/07/13(M) 03:52:32 ID:satokon\n
+<ptT0760>170: Satoko: 2012/07/13(M) 03:52:32 ID:satokon\n
+
+//TEXT
+<enT0761>I didn't think it would... I didn't think it would turn out like this...
+<ptT0761>I didn't think it would... I didn't think it would turn out like this...
+
+//TEXT
+<enT0762>171: Anonymous Kita High Student: 2012/07/13(M) 03:55:53 ID:akana\n
+<ptT0762>171: Anonymous Kita High Student: 2012/07/13(M) 03:55:53 ID:akana\n
+
+//TEXT
+<enT0763>Who cares? You guys should be the only ones receiving her curse.
+<ptT0763>Who cares? You guys should be the only ones receiving her curse.
+
+//TEXT
+<enT0764>172: Anonymous Kita High Student: 2012/07/13(M) 03:58:12 ID:kotoko\n
+<ptT0764>172: Anonymous Kita High Student: 2012/07/13(M) 03:58:12 ID:kotoko\n
+
+//TEXT
+<enT0765>Actually, just before she died, didn't she say she wasn't human?
+<ptT0765>Actually, just before she died, didn't she say she wasn't human?
+
+//TEXT
+<enT0766>173: Anonymous Kita High Student\n
+<ptT0766>173: Anonymous Kita High Student\n
+
+//TEXT
+<enT0767>>>172\n\n
+<ptT0767>>>172\n\n
+
+//TEXT
+<enT0768>>We shall perform the Brain Reverse on July 12th, 2012.\n
+<ptT0768>>We shall perform the Brain Reverse on July 12th, 2012.\n
+
+//TEXT
+<enT0769>>Then everyone will know.\n
+<ptT0769>>Then everyone will know.\n
+
+//TEXT
+<enT0770>>The fact that I am not human.\n
+<ptT0770>>The fact that I am not human.\n
+
+//TEXT
+<enT0771>>And the fact that the world is heading toward destruction.\n\n
+<ptT0771>>And the fact that the world is heading toward destruction.\n\n
+
+//TEXT
+<enT0772>That's what she said.\n
+<ptT0772>That's what she said.\n
+
+//TEXT
+<enT0773>Maybe she was already a ghost when she wrote that?
+<ptT0773>Maybe she was already a ghost when she wrote that?
+
+//TEXT
+<enT0774>174: Anonymous Kita High Student: 2012/07/13(M) 04:06:12 ID:mamada\n
+<ptT0774>174: Anonymous Kita High Student: 2012/07/13(M) 04:06:12 ID:mamada\n
+
+//TEXT
+<enT0775>>>173\n
+<ptT0775>>>173\n
+
+//TEXT
+<enT0776>She committed suicide after that post, so I think it's okay to assume she was human at the time.\n
+<ptT0776>She committed suicide after that post, so I think it's okay to assume she was human at the time.\n
+
+//TEXT
+<enT0777>Don't say stuff like that to confuse people.
+<ptT0777>Don't say stuff like that to confuse people.
+
+//TEXT
+<enT0778>392: Anonymous Kita High Student: 2012/07/13(M) 11:42:53 ID:ikeda\n
+<ptT0778>392: Anonymous Kita High Student: 2012/07/13(M) 11:42:53 ID:ikeda\n
+
+//TEXT
+<enT0779>The twentieth is way too soon for the world to end, but maybe it's when Takashima's curse will happen?
+<ptT0779>The twentieth is way too soon for the world to end, but maybe it's when Takashima's curse will happen?
+
+//TEXT
+<enT0780>393: Anonymous Kita High Student: 2012/07/13(M) 11:45:22 ID:mamada\n
+<ptT0780>393: Anonymous Kita High Student: 2012/07/13(M) 11:45:22 ID:mamada\n
+
+//TEXT
+<enT0781>>>392\n
+<ptT0781>>>392\n
+
+//TEXT
+<enT0782>But still, it's not like one person's ghost could destroy the world.
+<ptT0782>But still, it's not like one person's ghost could destroy the world.
+
+//TEXT
+<enT0783>394: Anonymous Kita High Student: 2012/07/13(M) 11:48:52 ID:mini\n
+<ptT0783>394: Anonymous Kita High Student: 2012/07/13(M) 11:48:52 ID:mini\n
+
+//TEXT
+<enT0784>So the world won't end.
+<ptT0784>So the world won't end.
+
+//TEXT
+<enT0785>395: Anonymous Kita High Student: 2012/07/13(M) 11:55:52 ID:kimi\n
+<ptT0785>395: Anonymous Kita High Student: 2012/07/13(M) 11:55:52 ID:kimi\n
+
+//TEXT
+<enT0786>It means the people who bullied her will perish.\n
+<ptT0786>It means the people who bullied her will perish.\n
+
+//TEXT
+<enT0787>On the 20th, they'll be killed by the curse.
+<ptT0787>On the 20th, they'll be killed by the curse.
+
+//TEXT
+<enT0788>396: Anonymous Kita High Student: 2012/07/13(M) 11:58:02 ID:tomoda\n
+<ptT0788>396: Anonymous Kita High Student: 2012/07/13(M) 11:58:02 ID:tomoda\n
+
+//TEXT
+<enT0789>She was probably holding a grudge. That's why part of her curse was sending out that picture...
+<ptT0789>She was probably holding a grudge. That's why part of her curse was sending out that picture...
+
+//TEXT
+<enT0790>397: Anonymous Kita High Student: 2012/07/13(M) 12:02:02 ID:kotoko\n
+<ptT0790>397: Anonymous Kita High Student: 2012/07/13(M) 12:02:02 ID:kotoko\n
+
+//TEXT
+<enT0791>Um...\n
+<ptT0791>Um...\n
+
+//TEXT
+<enT0792>I googled this: July 20th, 2012 end of the world...\n
+<ptT0792>I googled this: July 20th, 2012 end of the world...\n
+
+//TEXT
+<enT0793>What the heck is this?\n\n
+<ptT0793>What the heck is this?\n\n
+
+//TEXT
+<enT0794>http:::org:webbotproject.com/
+<ptT0794>http:::org:webbotproject.com/
+
+//TEXT
+<enT0795>I clicked on the link.
+<ptT0795>I clicked on the link.
+
+//TEXT 【Yuki】
+<enT0796>"Whoa..."
+<ptT0796>"Whoa..."
+
+//TEXT 【Yuki】
+<enT0797>"This page is really sketchy..."
+<ptT0797>"This page is really sketchy..."
+
+//TEXT
+<enT0798>Sketchy as hell. Everything on the page looked like a lie.
+<ptT0798>Sketchy as hell. Everything on the page looked like a lie.
+
+//TEXT 【Yuki】
+<enT0799>"Nanakusa Ward, Tama City, Tokyo Metropolitan Area... Uh, the New White Lotus Association Web Bot Research Facility..."
+<ptT0799>"Nanakusa Ward, Tama City, Tokyo Metropolitan Area... Uh, the New White Lotus Association Web Bot Research Facility..."
+
+//TEXT
+<enT0800>Totally an occult page.
+<ptT0800>Totally an occult page.
+
+//TEXT 【Yuki】
+<enT0801>"This has to be some random page that the search engine dragged up."
+<ptT0801>"This has to be some random page that the search engine dragged up."
+
+//TEXT
+<enT0802>The page looked like it was thrown together in a few minutes. Would anyone really believe this?
+<ptT0802>The page looked like it was thrown together in a few minutes. Would anyone really believe this?
+
+//TEXT
+<enT0803>It listed events predicted by the Web Bot.
+<ptT0803>It listed events predicted by the Web Bot.
+
+//TEXT 【Yuki】
+<enT0804>"I see..."
+<ptT0804>"I see..."
+
+//TEXT
+<enT0805>The anthrax attacks in America in 2001.
+<ptT0805>The anthrax attacks in America in 2001.
+
+//TEXT
+<enT0806>The east coast's Great Power Outage in 2003.
+<ptT0806>The east coast's Great Power Outage in 2003.
+
+//TEXT
+<enT0807>The earthquake and tsunami in Indonesia that caused 30,000 casualties.
+<ptT0807>The earthquake and tsunami in Indonesia that caused 30,000 casualties.
+
+//TEXT
+<enT0808>Hurricane Katrina in 2005.
+<ptT0808>Hurricane Katrina in 2005.
+
+//TEXT 【Yuki】
+<enT0809>"Oh, this is what they were talking about in class."
+<ptT0809>"Oh, this is what they were talking about in class."
+
+//TEXT
+<enT0810>And the last one...
+<ptT0810>And the last one...
+
+//TEXT
+<enT0811>July 20th, 2012. Disaster level: Infinity.
+<ptT0811>July 20th, 2012. Disaster level: Infinity.
+
+//TEXT 【Yuki】
+<enT0812>"Disaster level... infinity."
+<ptT0812>"Disaster level... infinity."
+
+//TEXT
+<enT0813>What's up with this prediction?
+<ptT0813>What's up with this prediction?
+
+//TEXT
+<enT0814>Is that really right?
+<ptT0814>Is that really right?
+
+//TEXT
+<enT0815>This website was more than a little suspect.
+<ptT0815>This website was more than a little suspect.
+
+//TEXT
+<enT0816>......
+<ptT0816>......
+
+//TEXT 【Yuki】
+<enT0817>"But still..."
+<ptT0817>"But still..."
+
+//TEXT
+<enT0818>Even if it was just a coincidence, that was the same day Takashima-san predicted the world would end.
+<ptT0818>Even if it was just a coincidence, that was the same day Takashima-san predicted the world would end.
+
+//TEXT 【Yuki】
+<enT0819>"I can see why people might believe that."
+<ptT0819>"I can see why people might believe that."
+
+//TEXT
+<enT0820>The site was full of nonsensical explanations for its predictions.
+<ptT0820>The site was full of nonsensical explanations for its predictions.
+
+//TEXT
+<enT0821>This site must have been where Yokoyama was getting all her information.
+<ptT0821>This site must have been where Yokoyama was getting all her information.
+
+//TEXT 【Yuki】
+<enT0822>"Hm?"
+<ptT0822>"Hm?"
+
+//TEXT
+<enT0823>Now there was there nigh unto the mountains a great herd of swine feeding.
+<ptT0823>Now there was there nigh unto the mountains a great herd of swine feeding.
+
+//TEXT
+<enT0824>And all the devils besought him, saying, send us into the swine, that we may enter into them.
+<ptT0824>And all the devils besought him, saying, send us into the swine, that we may enter into them.
+
+//TEXT
+<enT0825>And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.
+<ptT0825>And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.
+
+//TEXT
+<enT0826>And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.
+<ptT0826>And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.
+
+//TEXT
+<enT0827>And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
+<ptT0827>And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
+
+//TEXT
+<enT0828>And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.
+<ptT0828>And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.
+
+//TEXT
+<enT0829>Those verses were written there.
+<ptT0829>Those verses were written there.
+
+//TEXT 【Yuki】
+<enT0830>"This is... a verse from the Bible. Are they a Christian organization? I thought they were Nichiren Buddhists."
+<ptT0830>"This is... a verse from the Bible. Are they a Christian organization? I thought they were Nichiren Buddhists."
+
+//TEXT
+<enT0831>Kind of creepy.
+<ptT0831>Kind of creepy.
+
+//TEXT 【Yuki】
+<enT0832>"Haa... I'm tired."
+<ptT0832>"Haa... I'm tired."
+
+//TEXT
+<enT0833>I'd been on the computer since I got home. Before I realized it, midnight had long since passed.
+<ptT0833>I'd been on the computer since I got home. Before I realized it, midnight had long since passed.
+
+//TEXT 【Yuki】
+<enT0834>"It's already starting to get brighter outside."
+<ptT0834>"It's already starting to get brighter outside."
+
+//TEXT 【Yuki】
+<enT0835>"Haah... The sun comes up so early in the summer."
+<ptT0835>"Haah... The sun comes up so early in the summer."
+
+//TEXT
+<enT0836>Well, that's because I was reading every thread one by one. That's why it took so long.
+<ptT0836>Well, that's because I was reading every thread one by one. That's why it took so long.
+
+//TEXT 【Yuki】
+<enT0837>"If I don't get some sleep soon, I'm not going to wake up until after noon."
+<ptT0837>"If I don't get some sleep soon, I'm not going to wake up until after noon."
+
+//TEXT
+<enT0838>I stopped what I was doing for the moment and crawled into bed.
+<ptT0838>I stopped what I was doing for the moment and crawled into bed.
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-2_0715.bss
+<ptZ0001>1-2_0715.bss
+
+//OTHER
+<enZ0002>July 15th
+<ptZ0002>July 15th
+
+//OTHER
+<enZ0003>Down the Rabbit-Hole II
+<ptZ0003>Down the Rabbit-Hole II
+
+//OTHER
+<enZ0004>dayyk0715_2
+<ptZ0004>dayyk0715_2
+
+//OTHER
+<enZ0005>bg1008a
+<ptZ0005>bg1008a
+
+//OTHER
+<enZ0006>bgm020
+<ptZ0006>bgm020
+
+//OTHER
+<enZ0007>yuki_002131
+<ptZ0007>yuki_002131
+
+//OTHER
+<enZ0008>yuki_002132
+<ptZ0008>yuki_002132
+
+//OTHER
+<enZ0009>yuki_002133
+<ptZ0009>yuki_002133
+
+//OTHER
+<enZ0010>yuki_002134
+<ptZ0010>yuki_002134
+
+//OTHER
+<enZ0011>se022
+<ptZ0011>se022
+
+//OTHER
+<enZ0012>yuki_002135
+<ptZ0012>yuki_002135
+
+//OTHER
+<enZ0013>map001
+<ptZ0013>map001
+
+//OTHER
+<enZ0014>white
+<ptZ0014>white
+
+//OTHER
+<enZ0015>bg1010a
+<ptZ0015>bg1010a
+
+//OTHER
+<enZ0016>yuki_002136
+<ptZ0016>yuki_002136
+
+//OTHER
+<enZ0017>se522
+<ptZ0017>se522
+
+//OTHER
+<enZ0018>se246
+<ptZ0018>se246
+
+//OTHER
+<enZ0019>taku_000106
+<ptZ0019>taku_000106
+
+//OTHER
+<enZ0020>ev3006a
+<ptZ0020>ev3006a
+
+//OTHER
+<enZ0021>bgm013
+<ptZ0021>bgm013
+
+//OTHER
+<enZ0022>kaga_000890
+<ptZ0022>kaga_000890
+
+//OTHER
+<enZ0023>taku_000107
+<ptZ0023>taku_000107
+
+//OTHER
+<enZ0024>kaga_000891
+<ptZ0024>kaga_000891
+
+//OTHER
+<enZ0025>taku_000108
+<ptZ0025>taku_000108
+
+//OTHER
+<enZ0026>taku_000109
+<ptZ0026>taku_000109
+
+//OTHER
+<enZ0027>kaga_000892
+<ptZ0027>kaga_000892
+
+//OTHER
+<enZ0028>kaga_000893
+<ptZ0028>kaga_000893
+
+//OTHER
+<enZ0029>taku_000110
+<ptZ0029>taku_000110
+
+//OTHER
+<enZ0030>tuka_000697
+<ptZ0030>tuka_000697
+
+//OTHER
+<enZ0031>taku_000111
+<ptZ0031>taku_000111
+
+//OTHER
+<enZ0032>tuka_000698
+<ptZ0032>tuka_000698
+
+//OTHER
+<enZ0033>taku_000112
+<ptZ0033>taku_000112
+
+//OTHER
+<enZ0034>bg1013c
+<ptZ0034>bg1013c
+
+//OTHER
+<enZ0035>kg0009a_l
+<ptZ0035>kg0009a_l
+
+//OTHER
+<enZ0036>tk0009a_l
+<ptZ0036>tk0009a_l
+
+//OTHER
+<enZ0037>tkj4004
+<ptZ0037>tkj4004
+
+//OTHER
+<enZ0038>yuki_002137
+<ptZ0038>yuki_002137
+
+//OTHER
+<enZ0039>kaga_000894
+<ptZ0039>kaga_000894
+
+//OTHER
+<enZ0040>tuka_000699
+<ptZ0040>tuka_000699
+
+//OTHER
+<enZ0041>taku_000113
+<ptZ0041>taku_000113
+
+//OTHER
+<enZ0042>taku_000114
+<ptZ0042>taku_000114
+
+//OTHER
+<enZ0043>tkj4000
+<ptZ0043>tkj4000
+
+//OTHER
+<enZ0044>taku_000115
+<ptZ0044>taku_000115
+
+//OTHER
+<enZ0045>taku_000116
+<ptZ0045>taku_000116
+
+//OTHER
+<enZ0046>taku_000117
+<ptZ0046>taku_000117
+
+//OTHER
+<enZ0047>taku_000118
+<ptZ0047>taku_000118
+
+//OTHER
+<enZ0048>taku_000119
+<ptZ0048>taku_000119
+
+//OTHER
+<enZ0049>taku_000120
+<ptZ0049>taku_000120
+
+//OTHER
+<enZ0050>tkj4001
+<ptZ0050>tkj4001
+
+//OTHER
+<enZ0051>taku_000121
+<ptZ0051>taku_000121
+
+//OTHER
+<enZ0052>taku_000122
+<ptZ0052>taku_000122
+
+//OTHER
+<enZ0053>taku_000123
+<ptZ0053>taku_000123
+
+//OTHER
+<enZ0054>taku_000124
+<ptZ0054>taku_000124
+
+//OTHER
+<enZ0055>taku_000125
+<ptZ0055>taku_000125
+
+//OTHER
+<enZ0056>taku_000126
+<ptZ0056>taku_000126
+
+//OTHER
+<enZ0057>taku_000127
+<ptZ0057>taku_000127
+
+//OTHER
+<enZ0058>taku_000128
+<ptZ0058>taku_000128
+
+//OTHER
+<enZ0059>taku_000129
+<ptZ0059>taku_000129
+
+//OTHER
+<enZ0060>taku_000130
+<ptZ0060>taku_000130
+
+//OTHER
+<enZ0061>josia_000039
+<ptZ0061>josia_000039
+
+//OTHER
+<enZ0062>josia_000040
+<ptZ0062>josia_000040
+
+//OTHER
+<enZ0063>se004
+<ptZ0063>se004
+
+//OTHER
+<enZ0064>josia_000041
+<ptZ0064>josia_000041
+
+//OTHER
+<enZ0065>kaga_000895
+<ptZ0065>kaga_000895
+
+//OTHER
+<enZ0066>tuka_000700
+<ptZ0066>tuka_000700
+
+//OTHER
+<enZ0067>kaga_000896
+<ptZ0067>kaga_000896
+
+//OTHER
+<enZ0068>taku_000131
+<ptZ0068>taku_000131
+
+//OTHER
+<enZ0069>taku_000132
+<ptZ0069>taku_000132
+
+//OTHER
+<enZ0070>taku_000133
+<ptZ0070>taku_000133
+
+//OTHER
+<enZ0071>josia_000042
+<ptZ0071>josia_000042
+
+//OTHER
+<enZ0072>taku_000134
+<ptZ0072>taku_000134
+
+//OTHER
+<enZ0073>taku_000135
+<ptZ0073>taku_000135
+
+//OTHER
+<enZ0074>taku_000136
+<ptZ0074>taku_000136
+
+//OTHER
+<enZ0075>taku_000137
+<ptZ0075>taku_000137
+
+//OTHER
+<enZ0076>taku_000138
+<ptZ0076>taku_000138
+
+//OTHER
+<enZ0077>taku_000139
+<ptZ0077>taku_000139
+
+//OTHER
+<enZ0078>taku_000140
+<ptZ0078>taku_000140
+
+//OTHER
+<enZ0079>tkj4004_l
+<ptZ0079>tkj4004_l
+
+//OTHER
+<enZ0080>tkj4001_l
+<ptZ0080>tkj4001_l
+
+//OTHER
+<enZ0081>taku_000141
+<ptZ0081>taku_000141
+
+//OTHER
+<enZ0082>tkj4003_l
+<ptZ0082>tkj4003_l
+
+//OTHER
+<enZ0083>se353
+<ptZ0083>se353
+
+//OTHER
+<enZ0084>se011
+<ptZ0084>se011
+
+//OTHER
+<enZ0085>yuki_002138
+<ptZ0085>yuki_002138
+
+//OTHER
+<enZ0086>kg0006a
+<ptZ0086>kg0006a
+
+//OTHER
+<enZ0087>kaga_000897
+<ptZ0087>kaga_000897
+
+//OTHER
+<enZ0088>bgm012
+<ptZ0088>bgm012
+
+//OTHER
+<enZ0089>josia_000043
+<ptZ0089>josia_000043
+
+//OTHER
+<enZ0090>josia_000044
+<ptZ0090>josia_000044
+
+//OTHER
+<enZ0091>yuki_002139
+<ptZ0091>yuki_002139
+
+//OTHER
+<enZ0092>josia_000045
+<ptZ0092>josia_000045
+
+//OTHER
+<enZ0093>kyod_000011_l
+<ptZ0093>kyod_000011_l
+
+//OTHER
+<enZ0094>taku_000142
+<ptZ0094>taku_000142
+
+//OTHER
+<enZ0095>kg0007a
+<ptZ0095>kg0007a
+
+//OTHER
+<enZ0096>tk0006a
+<ptZ0096>tk0006a
+
+//OTHER
+<enZ0097>kaga_000898
+<ptZ0097>kaga_000898
+
+//OTHER
+<enZ0098>tk0005_l
+<ptZ0098>tk0005_l
+
+//OTHER
+<enZ0099>tuka_000701
+<ptZ0099>tuka_000701
+
+//OTHER
+<enZ0100>tk0009_l
+<ptZ0100>tk0009_l
+
+//OTHER
+<enZ0101>tuka_000702
+<ptZ0101>tuka_000702
+
+//OTHER
+<enZ0102>kg0005a_l
+<ptZ0102>kg0005a_l
+
+//OTHER
+<enZ0103>kaga_000899
+<ptZ0103>kaga_000899
+
+//OTHER
+<enZ0104>yuki_002140
+<ptZ0104>yuki_002140
+
+//OTHER
+<enZ0105>taku_000143
+<ptZ0105>taku_000143
+
+//OTHER
+<enZ0106>taku_000144
+<ptZ0106>taku_000144
+
+//OTHER
+<enZ0107>taku_000145
+<ptZ0107>taku_000145
+
+//OTHER
+<enZ0108>taku_000146
+<ptZ0108>taku_000146
+
+//OTHER
+<enZ0109>taku_000147
+<ptZ0109>taku_000147
+
+//OTHER
+<enZ0110>yuki_002141
+<ptZ0110>yuki_002141
+
+//OTHER
+<enZ0111>taku_000148
+<ptZ0111>taku_000148
+
+//OTHER
+<enZ0112>tkj4002
+<ptZ0112>tkj4002
+
+//OTHER
+<enZ0113>taku_000149
+<ptZ0113>taku_000149
+
+//OTHER
+<enZ0114>se205
+<ptZ0114>se205
+
+//OTHER
+<enZ0115>yuki_002142
+<ptZ0115>yuki_002142
+
+//OTHER
+<enZ0116>ev6002
+<ptZ0116>ev6002
+
+//OTHER
+<enZ0117>taku_000150
+<ptZ0117>taku_000150
+
+//OTHER
+<enZ0118>taku_000151
+<ptZ0118>taku_000151
+
+//OTHER
+<enZ0119>taku_000152
+<ptZ0119>taku_000152
+
+//OTHER
+<enZ0120>taku_000153
+<ptZ0120>taku_000153
+
+//OTHER
+<enZ0121>taku_000154
+<ptZ0121>taku_000154
+
+//OTHER
+<enZ0122>taku_000155
+<ptZ0122>taku_000155
+
+//OTHER
+<enZ0123>taku_000156
+<ptZ0123>taku_000156
+
+//OTHER
+<enZ0124>taku_000157
+<ptZ0124>taku_000157
+
+//OTHER
+<enZ0125>taku_000158
+<ptZ0125>taku_000158
+
+//OTHER
+<enZ0126>taku_000159
+<ptZ0126>taku_000159
+
+//OTHER
+<enZ0127>taku_000160
+<ptZ0127>taku_000160
+
+//OTHER
+<enZ0128>taku_000161
+<ptZ0128>taku_000161
+
+//OTHER
+<enZ0129>taku_000162
+<ptZ0129>taku_000162
+
+//OTHER
+<enZ0130>taku_000163
+<ptZ0130>taku_000163
+
+//OTHER
+<enZ0131>taku_000164
+<ptZ0131>taku_000164
+
+//OTHER
+<enZ0132>taku_000165
+<ptZ0132>taku_000165
+
+//OTHER
+<enZ0133>taku_000166
+<ptZ0133>taku_000166
+
+//OTHER
+<enZ0134>josia_000046
+<ptZ0134>josia_000046
+
+//OTHER
+<enZ0135>josib_000024
+<ptZ0135>josib_000024
+
+//OTHER
+<enZ0136>ev6002b
+<ptZ0136>ev6002b
+
+//OTHER
+<enZ0137>taku_000167
+<ptZ0137>taku_000167
+
+//OTHER
+<enZ0138>taku_000168
+<ptZ0138>taku_000168
+
+//OTHER
+<enZ0139>taku_000169
+<ptZ0139>taku_000169
+
+//OTHER
+<enZ0140>taku_000170
+<ptZ0140>taku_000170
+
+//OTHER
+<enZ0141>taku_000171
+<ptZ0141>taku_000171
+
+//OTHER
+<enZ0142>taku_000172
+<ptZ0142>taku_000172
+
+//OTHER
+<enZ0143>taku_000173
+<ptZ0143>taku_000173
+
+//OTHER
+<enZ0144>taku_000174
+<ptZ0144>taku_000174
+
+//OTHER
+<enZ0145>taku_000175
+<ptZ0145>taku_000175
+
+//OTHER
+<enZ0146>taku_000176
+<ptZ0146>taku_000176
+
+//OTHER
+<enZ0147>taku_000177
+<ptZ0147>taku_000177
+
+//OTHER
+<enZ0148>taku_000178
+<ptZ0148>taku_000178
+
+//OTHER
+<enZ0149>taku_000179
+<ptZ0149>taku_000179
+
+//OTHER
+<enZ0150>taku_000180
+<ptZ0150>taku_000180
+
+//OTHER
+<enZ0151>kaga_000900
+<ptZ0151>kaga_000900
+
+//OTHER
+<enZ0152>taku_000181
+<ptZ0152>taku_000181
+
+//OTHER
+<enZ0153>kaga_000901
+<ptZ0153>kaga_000901
+
+//OTHER
+<enZ0154>kaga_000902
+<ptZ0154>kaga_000902
+
+//OTHER
+<enZ0155>kaga_000903
+<ptZ0155>kaga_000903
+
+//OTHER
+<enZ0156>taku_000182
+<ptZ0156>taku_000182
+
+//OTHER
+<enZ0157>kaga_000904
+<ptZ0157>kaga_000904
+
+//OTHER
+<enZ0158>taku_000183
+<ptZ0158>taku_000183
+
+//OTHER
+<enZ0159>kaga_000905
+<ptZ0159>kaga_000905
+
+//OTHER
+<enZ0160>taku_000184
+<ptZ0160>taku_000184
+
+//OTHER
+<enZ0161>kaga_000906
+<ptZ0161>kaga_000906
+
+//OTHER
+<enZ0162>taku_000185
+<ptZ0162>taku_000185
+
+//OTHER
+<enZ0163>kaga_000907
+<ptZ0163>kaga_000907
+
+//OTHER
+<enZ0164>taku_000186
+<ptZ0164>taku_000186
+
+//OTHER
+<enZ0165>taku_000187
+<ptZ0165>taku_000187
+
+//OTHER
+<enZ0166>kaga_000908
+<ptZ0166>kaga_000908
+
+//OTHER
+<enZ0167>taku_000188
+<ptZ0167>taku_000188
+
+//OTHER
+<enZ0168>taku_000189
+<ptZ0168>taku_000189
+
+//OTHER
+<enZ0169>taku_000190
+<ptZ0169>taku_000190
+
+//OTHER
+<enZ0170>taku_000191
+<ptZ0170>taku_000191
+
+//OTHER
+<enZ0171>kaga_000909
+<ptZ0171>kaga_000909
+
+//OTHER
+<enZ0172>taku_000192
+<ptZ0172>taku_000192
+
+//OTHER
+<enZ0173>taku_000193
+<ptZ0173>taku_000193
+
+//OTHER
+<enZ0174>kaga_000910
+<ptZ0174>kaga_000910
+
+//OTHER
+<enZ0175>taku_000194
+<ptZ0175>taku_000194
+
+//OTHER
+<enZ0176>taku_000195
+<ptZ0176>taku_000195
+
+//OTHER
+<enZ0177>taku_000196
+<ptZ0177>taku_000196
+
+//OTHER
+<enZ0178>kaga_000911
+<ptZ0178>kaga_000911
+
+//OTHER
+<enZ0179>taku_000197
+<ptZ0179>taku_000197
+
+//OTHER
+<enZ0180>taku_000198
+<ptZ0180>taku_000198
+
+//OTHER
+<enZ0181>taku_000199
+<ptZ0181>taku_000199
+
+//OTHER
+<enZ0182>taku_000200
+<ptZ0182>taku_000200
+
+//OTHER
+<enZ0183>taku_000201
+<ptZ0183>taku_000201
+
+//OTHER
+<enZ0184>taku_000202
+<ptZ0184>taku_000202
+
+//OTHER
+<enZ0185>taku_000203
+<ptZ0185>taku_000203
+
+//OTHER
+<enZ0186>taku_000204
+<ptZ0186>taku_000204
+
+//OTHER
+<enZ0187>taku_000205
+<ptZ0187>taku_000205
+
+//OTHER
+<enZ0188>taku_000206
+<ptZ0188>taku_000206
+
+//OTHER
+<enZ0189>taku_000207
+<ptZ0189>taku_000207
+
+//OTHER
+<enZ0190>taku_000208
+<ptZ0190>taku_000208
+
+//OTHER
+<enZ0191>taku_000209
+<ptZ0191>taku_000209
+
+//OTHER
+<enZ0192>taku_000210
+<ptZ0192>taku_000210
+
+//OTHER
+<enZ0193>taku_000211
+<ptZ0193>taku_000211
+
+//OTHER
+<enZ0194>taku_000212
+<ptZ0194>taku_000212
+
+//OTHER
+<enZ0195>taku_000213
+<ptZ0195>taku_000213
+
+//OTHER
+<enZ0196>taku_000214
+<ptZ0196>taku_000214
+
+//OTHER
+<enZ0197>taku_000215
+<ptZ0197>taku_000215
+
+//OTHER
+<enZ0198>taku_000216
+<ptZ0198>taku_000216
+
+//OTHER
+<enZ0199>taku_000217
+<ptZ0199>taku_000217
+
+//OTHER
+<enZ0200>taku_000218
+<ptZ0200>taku_000218
+
+//OTHER
+<enZ0201>taku_000219
+<ptZ0201>taku_000219
+
+//OTHER
+<enZ0202>taku_000220
+<ptZ0202>taku_000220
+
+//OTHER
+<enZ0203>taku_000221
+<ptZ0203>taku_000221
+
+//OTHER
+<enZ0204>taku_000222
+<ptZ0204>taku_000222
+
+//OTHER
+<enZ0205>taku_000223
+<ptZ0205>taku_000223
+
+//OTHER
+<enZ0206>taku_000224
+<ptZ0206>taku_000224
+
+//OTHER
+<enZ0207>taku_000225
+<ptZ0207>taku_000225
+
+//OTHER
+<enZ0208>taku_000226
+<ptZ0208>taku_000226
+
+//OTHER
+<enZ0209>taku_000227
+<ptZ0209>taku_000227
+
+//OTHER
+<enZ0210>taku_000228
+<ptZ0210>taku_000228
+
+//OTHER
+<enZ0211>taku_000229
+<ptZ0211>taku_000229
+
+//OTHER
+<enZ0212>taku_000230
+<ptZ0212>taku_000230
+
+//OTHER
+<enZ0213>taku_000231
+<ptZ0213>taku_000231
+
+//OTHER
+<enZ0214>taku_000232
+<ptZ0214>taku_000232
+
+//OTHER
+<enZ0215>taku_000233
+<ptZ0215>taku_000233
+
+//OTHER
+<enZ0216>taku_000234
+<ptZ0216>taku_000234
+
+//OTHER
+<enZ0217>taku_000235
+<ptZ0217>taku_000235
+
+//OTHER
+<enZ0218>se021
+<ptZ0218>se021
+
+//OTHER
+<enZ0219>kyod_000011
+<ptZ0219>kyod_000011
+
+//OTHER
+<enZ0220>sp0008a
+<ptZ0220>sp0008a
+
+//OTHER
+<enZ0221>bgm003
+<ptZ0221>bgm003
+
+//OTHER
+<enZ0222>yuki_002143
+<ptZ0222>yuki_002143
+
+//OTHER
+<enZ0223>ay0000b
+<ptZ0223>ay0000b
+
+//OTHER
+<enZ0224>bg1016a
+<ptZ0224>bg1016a
+
+//OTHER
+<enZ0225>yuki_002144
+<ptZ0225>yuki_002144
+
+//OTHER
+<enZ0226>bgm019
+<ptZ0226>bgm019
+
+//OTHER
+<enZ0227>ay0000a
+<ptZ0227>ay0000a
+
+//OTHER
+<enZ0228>aya_000153
+<ptZ0228>aya_000153
+
+//OTHER
+<enZ0229>yuki_002145
+<ptZ0229>yuki_002145
+
+//OTHER
+<enZ0230>aya_000154
+<ptZ0230>aya_000154
+
+//OTHER
+<enZ0231>yuki_002146
+<ptZ0231>yuki_002146
+
+//OTHER
+<enZ0232>aya_000155
+<ptZ0232>aya_000155
+
+//OTHER
+<enZ0233>yuki_002147
+<ptZ0233>yuki_002147
+
+//OTHER
+<enZ0234>aya_000156
+<ptZ0234>aya_000156
+
+//OTHER
+<enZ0235>yuki_002148
+<ptZ0235>yuki_002148
+
+//OTHER
+<enZ0236>aya_000157
+<ptZ0236>aya_000157
+
+//OTHER
+<enZ0237>yuki_002149
+<ptZ0237>yuki_002149
+
+//OTHER
+<enZ0238>aya_000158
+<ptZ0238>aya_000158
+
+//OTHER
+<enZ0239>yuki_002150
+<ptZ0239>yuki_002150
+
+//OTHER
+<enZ0240>aya_000159
+<ptZ0240>aya_000159
+
+//OTHER
+<enZ0241>yuki_002151
+<ptZ0241>yuki_002151
+
+//OTHER
+<enZ0242>yuki_002152
+<ptZ0242>yuki_002152
+
+//OTHER
+<enZ0243>aya_000160
+<ptZ0243>aya_000160
+
+//OTHER
+<enZ0244>yuki_002153
+<ptZ0244>yuki_002153
+
+//OTHER
+<enZ0245>yuki_002154
+<ptZ0245>yuki_002154
+
+//OTHER
+<enZ0246>aya_000161
+<ptZ0246>aya_000161
+
+//OTHER
+<enZ0247>yuki_002155
+<ptZ0247>yuki_002155
+
+//OTHER
+<enZ0248>aya_000162
+<ptZ0248>aya_000162
+
+//OTHER
+<enZ0249>yuki_002156
+<ptZ0249>yuki_002156
+
+//OTHER
+<enZ0250>aya_000163
+<ptZ0250>aya_000163
+
+//OTHER
+<enZ0251>yuki_002157
+<ptZ0251>yuki_002157
+
+//OTHER
+<enZ0252>yuki_002158
+<ptZ0252>yuki_002158
+
+//OTHER
+<enZ0253>aya_000164
+<ptZ0253>aya_000164
+
+//OTHER
+<enZ0254>yuki_002159
+<ptZ0254>yuki_002159
+
+//OTHER
+<enZ0255>aya_000165
+<ptZ0255>aya_000165
+
+//OTHER
+<enZ0256>yuki_002160
+<ptZ0256>yuki_002160
+
+//OTHER
+<enZ0257>aya_000166
+<ptZ0257>aya_000166
+
+//OTHER
+<enZ0258>yuki_002161
+<ptZ0258>yuki_002161
+
+//OTHER
+<enZ0259>aya_000167
+<ptZ0259>aya_000167
+
+//OTHER
+<enZ0260>yuki_002162
+<ptZ0260>yuki_002162
+
+//OTHER
+<enZ0261>aya_000168
+<ptZ0261>aya_000168
+
+//OTHER
+<enZ0262>yuki_002163
+<ptZ0262>yuki_002163
+
+//OTHER
+<enZ0263>aya_000169
+<ptZ0263>aya_000169
+
+//OTHER
+<enZ0264>yuki_002164
+<ptZ0264>yuki_002164
+
+//OTHER
+<enZ0265>aya_000170
+<ptZ0265>aya_000170
+
+//OTHER
+<enZ0266>yuki_002165
+<ptZ0266>yuki_002165
+
+//OTHER
+<enZ0267>aya_000171
+<ptZ0267>aya_000171
+
+//OTHER
+<enZ0268>yuki_002166
+<ptZ0268>yuki_002166
+
+//OTHER
+<enZ0269>aya_000172
+<ptZ0269>aya_000172
+
+//OTHER
+<enZ0270>yuki_002167
+<ptZ0270>yuki_002167
+
+//OTHER
+<enZ0271>aya_000173
+<ptZ0271>aya_000173
+
+//OTHER
+<enZ0272>yuki_002168
+<ptZ0272>yuki_002168
+
+//OTHER
+<enZ0273>aya_000174
+<ptZ0273>aya_000174
+
+//OTHER
+<enZ0274>yuki_002169
+<ptZ0274>yuki_002169
+
+//OTHER
+<enZ0275>aya_000175
+<ptZ0275>aya_000175
+
+//OTHER
+<enZ0276>aya_000176
+<ptZ0276>aya_000176
+
+//OTHER
+<enZ0277>yuki_002170
+<ptZ0277>yuki_002170
+
+//OTHER
+<enZ0278>aya_000177
+<ptZ0278>aya_000177
+
+//OTHER
+<enZ0279>yuki_002171
+<ptZ0279>yuki_002171
+
+//OTHER
+<enZ0280>aya_000178
+<ptZ0280>aya_000178
+
+//OTHER
+<enZ0281>yuki_002172
+<ptZ0281>yuki_002172
+
+//OTHER
+<enZ0282>aya_000179
+<ptZ0282>aya_000179
+
+//OTHER
+<enZ0283>yuki_002173
+<ptZ0283>yuki_002173
+
+//OTHER
+<enZ0284>aya_000180
+<ptZ0284>aya_000180
+
+//OTHER
+<enZ0285>aya_000181
+<ptZ0285>aya_000181
+
+//OTHER
+<enZ0286>yuki_002174
+<ptZ0286>yuki_002174
+
+//OTHER
+<enZ0287>aya00_z
+<ptZ0287>aya00_z
+
+//OTHER
+<enZ0288>ay0000a_l
+<ptZ0288>ay0000a_l
+
+//OTHER
+<enZ0289>yuki_002175
+<ptZ0289>yuki_002175
+
+//OTHER
+<enZ0290>aya_000182
+<ptZ0290>aya_000182
+
+//OTHER
+<enZ0291>yuki_002176
+<ptZ0291>yuki_002176
+
+//OTHER
+<enZ0292>aya_000183
+<ptZ0292>aya_000183
+
+//OTHER
+<enZ0293>aya_000184
+<ptZ0293>aya_000184
+
+//OTHER
+<enZ0294>yuki_002177
+<ptZ0294>yuki_002177
+
+//OTHER
+<enZ0295>yuki_002178
+<ptZ0295>yuki_002178
+
+//OTHER
+<enZ0296>aya_000185
+<ptZ0296>aya_000185
+
+//OTHER
+<enZ0297>yuki_002179
+<ptZ0297>yuki_002179
+
+//OTHER
+<enZ0298>ay0000_l
+<ptZ0298>ay0000_l
+
+//OTHER
+<enZ0299>aya_000186
+<ptZ0299>aya_000186
+
+//OTHER
+<enZ0300>aya_000187
+<ptZ0300>aya_000187
+
+//OTHER
+<enZ0301>aya_000188
+<ptZ0301>aya_000188
+
+//OTHER
+<enZ0302>aya_000189
+<ptZ0302>aya_000189
+
+//OTHER
+<enZ0303>aya_000190
+<ptZ0303>aya_000190
+
+//OTHER
+<enZ0304>yuki_002180
+<ptZ0304>yuki_002180
+
+//OTHER
+<enZ0305>aya_000191
+<ptZ0305>aya_000191
+
+//OTHER
+<enZ0306>yuki_002181
+<ptZ0306>yuki_002181
+
+//OTHER
+<enZ0307>ay0001_l
+<ptZ0307>ay0001_l
+
+//OTHER
+<enZ0308>aya_000192
+<ptZ0308>aya_000192
+
+//OTHER
+<enZ0309>yuki_002182
+<ptZ0309>yuki_002182
+
+//OTHER
+<enZ0310>aya_000193
+<ptZ0310>aya_000193
+
+//OTHER
+<enZ0311>yuki_002183
+<ptZ0311>yuki_002183
+
+//OTHER
+<enZ0312>aya_000194
+<ptZ0312>aya_000194
+
+//OTHER
+<enZ0313>aya_000195
+<ptZ0313>aya_000195
+
+//OTHER
+<enZ0314>aya_000196
+<ptZ0314>aya_000196
+
+//OTHER
+<enZ0315>aya_000197
+<ptZ0315>aya_000197
+
+//OTHER
+<enZ0316>aya_000198
+<ptZ0316>aya_000198
+
+//OTHER
+<enZ0317>aya_000199
+<ptZ0317>aya_000199
+
+//OTHER
+<enZ0318>aya_000200
+<ptZ0318>aya_000200
+
+//OTHER
+<enZ0319>aya_000201
+<ptZ0319>aya_000201
+
+//OTHER
+<enZ0320>aya_000202
+<ptZ0320>aya_000202
+
+//OTHER
+<enZ0321>aya_000203
+<ptZ0321>aya_000203
+
+//OTHER
+<enZ0322>yuki_002184
+<ptZ0322>yuki_002184
+
+//OTHER
+<enZ0323>yuki_002185
+<ptZ0323>yuki_002185
+
+//OTHER
+<enZ0324>ay0003_l
+<ptZ0324>ay0003_l
+
+//OTHER
+<enZ0325>aya_000204
+<ptZ0325>aya_000204
+
+//OTHER
+<enZ0326>yuki_002186
+<ptZ0326>yuki_002186
+
+//OTHER
+<enZ0327>ay0002_l
+<ptZ0327>ay0002_l
+
+//OTHER
+<enZ0328>aya_000205
+<ptZ0328>aya_000205
+
+//OTHER
+<enZ0329>yuki_002187
+<ptZ0329>yuki_002187
+
+//OTHER
+<enZ0330>ay0002a_l
+<ptZ0330>ay0002a_l
+
+//OTHER
+<enZ0331>aya_000206
+<ptZ0331>aya_000206
+
+//OTHER
+<enZ0332>ay0001a_l
+<ptZ0332>ay0001a_l
+
+//OTHER
+<enZ0333>aya_000207
+<ptZ0333>aya_000207
+
+//OTHER
+<enZ0334>yuki_002188
+<ptZ0334>yuki_002188
+
+//OTHER
+<enZ0335>aya_000208
+<ptZ0335>aya_000208
+
+//OTHER
+<enZ0336>yuki_002189
+<ptZ0336>yuki_002189
+
+//OTHER
+<enZ0337>aya_000209
+<ptZ0337>aya_000209
+
+//OTHER
+<enZ0338>yuki_002190
+<ptZ0338>yuki_002190
+
+//OTHER
+<enZ0339>aya_000210
+<ptZ0339>aya_000210
+
+//OTHER
+<enZ0340>yuki_002191
+<ptZ0340>yuki_002191
+
+//OTHER
+<enZ0341>ay0006_l
+<ptZ0341>ay0006_l
+
+//OTHER
+<enZ0342>aya_000211
+<ptZ0342>aya_000211
+
+//OTHER
+<enZ0343>yuki_002192
+<ptZ0343>yuki_002192
+
+//OTHER
+<enZ0344>yuki_002193
+<ptZ0344>yuki_002193
+
+//OTHER
+<enZ0345>ay0008a_l
+<ptZ0345>ay0008a_l
+
+//OTHER
+<enZ0346>aya_000212
+<ptZ0346>aya_000212
+
+//OTHER
+<enZ0347>yuki_002194
+<ptZ0347>yuki_002194
+
+//OTHER
+<enZ0348>aya_000213
+<ptZ0348>aya_000213
+
+//OTHER
+<enZ0349>aya_000214
+<ptZ0349>aya_000214
+
+//OTHER
+<enZ0350>aya_000215
+<ptZ0350>aya_000215
+
+//OTHER
+<enZ0351>aya_000216
+<ptZ0351>aya_000216
+
+//OTHER
+<enZ0352>aya_000217
+<ptZ0352>aya_000217
+
+//OTHER
+<enZ0353>aya_000218
+<ptZ0353>aya_000218
+
+//OTHER
+<enZ0354>aya_000219
+<ptZ0354>aya_000219
+
+//OTHER
+<enZ0355>yuki_002195
+<ptZ0355>yuki_002195
+
+//OTHER
+<enZ0356>aya_000220
+<ptZ0356>aya_000220
+
+//OTHER
+<enZ0357>aya_000221
+<ptZ0357>aya_000221
+
+//OTHER
+<enZ0358>yuki_002196
+<ptZ0358>yuki_002196
+
+//OTHER
+<enZ0359>aya_000222
+<ptZ0359>aya_000222
+
+//OTHER
+<enZ0360>aya_000223
+<ptZ0360>aya_000223
+
+//OTHER
+<enZ0361>yuki_002197
+<ptZ0361>yuki_002197
+
+//OTHER
+<enZ0362>yuki_002198
+<ptZ0362>yuki_002198
+
+//OTHER
+<enZ0363>aya_000224
+<ptZ0363>aya_000224
+
+//OTHER
+<enZ0364>ev8001b
+<ptZ0364>ev8001b
+
+//OTHER
+<enZ0365>ev8001a
+<ptZ0365>ev8001a
+
+//OTHER
+<enZ0366>yuki_002199
+<ptZ0366>yuki_002199
+
+//OTHER
+<enZ0367>yuki_002200
+<ptZ0367>yuki_002200
+
+//OTHER
+<enZ0368>aya_000225
+<ptZ0368>aya_000225
+
+//OTHER
+<enZ0369>yuki_002201
+<ptZ0369>yuki_002201
+
+//OTHER
+<enZ0370>aya_000226
+<ptZ0370>aya_000226
+
+//OTHER
+<enZ0371>yuki_002202
+<ptZ0371>yuki_002202
+
+//OTHER
+<enZ0372>aya_000227
+<ptZ0372>aya_000227
+
+//OTHER
+<enZ0373>yuki_002203
+<ptZ0373>yuki_002203
+
+//OTHER
+<enZ0374>aya_000228
+<ptZ0374>aya_000228
+
+//OTHER
+<enZ0375>yuki_002204
+<ptZ0375>yuki_002204
+
+//OTHER
+<enZ0376>yuki_002205
+<ptZ0376>yuki_002205
+
+//OTHER
+<enZ0377>aya_000229
+<ptZ0377>aya_000229
+
+//OTHER
+<enZ0378>aya_000230
+<ptZ0378>aya_000230
+
+//OTHER
+<enZ0379>yuki_002206
+<ptZ0379>yuki_002206
+
+//OTHER
+<enZ0380>sp0030a
+<ptZ0380>sp0030a
+
+//OTHER
+<enZ0381>yuki_002207
+<ptZ0381>yuki_002207
+
+//OTHER
+<enZ0382>yuki_002208
+<ptZ0382>yuki_002208
+
+//OTHER
+<enZ0383>bgm014
+<ptZ0383>bgm014
+
+//OTHER
+<enZ0384>kg0005a
+<ptZ0384>kg0005a
+
+//OTHER
+<enZ0385>kaga_000912
+<ptZ0385>kaga_000912
+
+//OTHER
+<enZ0386>kg0004a
+<ptZ0386>kg0004a
+
+//OTHER
+<enZ0387>yuki_002209
+<ptZ0387>yuki_002209
+
+//OTHER
+<enZ0388>kaga_000913
+<ptZ0388>kaga_000913
+
+//OTHER
+<enZ0389>kaga_000914
+<ptZ0389>kaga_000914
+
+//OTHER
+<enZ0390>yuki_002210
+<ptZ0390>yuki_002210
+
+//OTHER
+<enZ0391>kg0005
+<ptZ0391>kg0005
+
+//OTHER
+<enZ0392>kaga_000915
+<ptZ0392>kaga_000915
+
+//OTHER
+<enZ0393>yuki_002211
+<ptZ0393>yuki_002211
+
+//OTHER
+<enZ0394>yuki_002212
+<ptZ0394>yuki_002212
+
+//OTHER
+<enZ0395>kg0000b
+<ptZ0395>kg0000b
+
+//OTHER
+<enZ0396>bg1011a
+<ptZ0396>bg1011a
+
+//OTHER
+<enZ0397>yuki_002213
+<ptZ0397>yuki_002213
+
+//OTHER
+<enZ0398>kg0004
+<ptZ0398>kg0004
+
+//OTHER
+<enZ0399>kaga_000916
+<ptZ0399>kaga_000916
+
+//OTHER
+<enZ0400>yuki_002214
+<ptZ0400>yuki_002214
+
+//OTHER
+<enZ0401>kaga_000917
+<ptZ0401>kaga_000917
+
+//OTHER
+<enZ0402>yuki_002215
+<ptZ0402>yuki_002215
+
+//OTHER
+<enZ0403>kaga_000918
+<ptZ0403>kaga_000918
+
+//OTHER
+<enZ0404>yuki_002216
+<ptZ0404>yuki_002216
+
+//OTHER
+<enZ0405>kaga_000919
+<ptZ0405>kaga_000919
+
+//OTHER
+<enZ0406>yuki_002217
+<ptZ0406>yuki_002217
+
+//OTHER
+<enZ0407>kg0006
+<ptZ0407>kg0006
+
+//OTHER
+<enZ0408>kaga_000920
+<ptZ0408>kaga_000920
+
+//OTHER
+<enZ0409>yuki_002218
+<ptZ0409>yuki_002218
+
+//OTHER
+<enZ0410>kaga_000921
+<ptZ0410>kaga_000921
+
+//OTHER
+<enZ0411>tk0006
+<ptZ0411>tk0006
+
+//OTHER
+<enZ0412>yuki_002219
+<ptZ0412>yuki_002219
+
+//OTHER
+<enZ0413>tuka_000703
+<ptZ0413>tuka_000703
+
+//OTHER
+<enZ0414>yuki_002220
+<ptZ0414>yuki_002220
+
+//OTHER
+<enZ0415>ev0005a
+<ptZ0415>ev0005a
+
+//OTHER
+<enZ0416>yuki_002221
+<ptZ0416>yuki_002221
+
+//OTHER
+<enZ0417>yuki_002222
+<ptZ0417>yuki_002222
+
+//OTHER
+<enZ0418>yuki_002223
+<ptZ0418>yuki_002223
+
+//OTHER
+<enZ0419>yuki_002224
+<ptZ0419>yuki_002224
+
+//OTHER
+<enZ0420>ev0005b
+<ptZ0420>ev0005b
+
+//OTHER
+<enZ0421>yuki_002225
+<ptZ0421>yuki_002225
+
+//OTHER
+<enZ0422>yuki_002226
+<ptZ0422>yuki_002226
+
+//OTHER
+<enZ0423>se902
+<ptZ0423>se902
+
+//OTHER
+<enZ0424>yuki_002227
+<ptZ0424>yuki_002227
+
+//OTHER
+<enZ0425>yuki_002228
+<ptZ0425>yuki_002228
+
+//OTHER
+<enZ0426>sp0031
+<ptZ0426>sp0031
+
+//OTHER
+<enZ0427>yuki_002229
+<ptZ0427>yuki_002229
+
+//OTHER
+<enZ0428>yuki_002230
+<ptZ0428>yuki_002230
+
+//OTHER
+<enZ0429>bgm010
+<ptZ0429>bgm010
+
+//OTHER
+<enZ0430>yuki_002231
+<ptZ0430>yuki_002231
+
+//OTHER
+<enZ0431>yuki_002232
+<ptZ0431>yuki_002232
+
+//OTHER
+<enZ0432>yuki_002233
+<ptZ0432>yuki_002233
+
+//OTHER
+<enZ0433>yuki_002234
+<ptZ0433>yuki_002234
+
+//OTHER
+<enZ0434>yuki_002235
+<ptZ0434>yuki_002235
+
+//OTHER
+<enZ0435>yuki_002236
+<ptZ0435>yuki_002236
+
+//OTHER
+<enZ0436>yuki_002237
+<ptZ0436>yuki_002237
+
+//OTHER
+<enZ0437>yuki_002238
+<ptZ0437>yuki_002238
+
+//OTHER
+<enZ0438>yuki_002239
+<ptZ0438>yuki_002239
+
+//OTHER
+<enZ0439>yuki_002240
+<ptZ0439>yuki_002240
+
+//OTHER
+<enZ0440>yuki_002241
+<ptZ0440>yuki_002241
+
+//OTHER
+<enZ0441>yuki_002242
+<ptZ0441>yuki_002242
+
+//OTHER
+<enZ0442>sp0032
+<ptZ0442>sp0032
+
+//OTHER
+<enZ0443>yuki_002243
+<ptZ0443>yuki_002243
+
+//OTHER
+<enZ0444>yuki_002244
+<ptZ0444>yuki_002244
+
+//OTHER
+<enZ0445>yuki_002245
+<ptZ0445>yuki_002245
+
+//OTHER
+<enZ0446>yuki_002246
+<ptZ0446>yuki_002246
+
+//OTHER
+<enZ0447>yuki_002247
+<ptZ0447>yuki_002247
+
+//OTHER
+<enZ0448>yuki_002248
+<ptZ0448>yuki_002248
+
+//OTHER
+<enZ0449>yuki_002249
+<ptZ0449>yuki_002249
+
+//OTHER
+<enZ0450>yuki_002250
+<ptZ0450>yuki_002250
+
+//OTHER
+<enZ0451>yuki_002251
+<ptZ0451>yuki_002251
+
+//OTHER
+<enZ0452>yuki_002252
+<ptZ0452>yuki_002252
+
+//OTHER
+<enZ0453>bg1003a
+<ptZ0453>bg1003a
+
+//OTHER
+<enZ0454>se058
+<ptZ0454>se058
+
+//OTHER
+<enZ0455>yuki_002253
+<ptZ0455>yuki_002253
+
+//OTHER
+<enZ0456>yuki_002254
+<ptZ0456>yuki_002254
+
+//OTHER
+<enZ0457>yuki_002255
+<ptZ0457>yuki_002255
+
+//OTHER
+<enZ0458>yuki_002256
+<ptZ0458>yuki_002256
+
+//OTHER
+<enZ0459>1-2_0716
+<ptZ0459>1-2_0716
+

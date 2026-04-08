@@ -1,0 +1,3100 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Megu
+<ptN0002>Megu
+
+//NAME
+<enN0003>Satoko
+<ptN0003>Satoko
+
+//NAME
+<enN0004>God
+<ptN0004>God
+
+//NAME
+<enN0005>Mamiya
+<ptN0005>Mamiya
+
+//NAME
+<enN0006>Ayana
+<ptN0006>Ayana
+
+//NAME
+<enN0007>Female Student
+<ptN0007>Female Student
+
+//NAME
+<enN0008>Male Student
+<ptN0008>Male Student
+
+///================================================================================
+
+//TEXT 【Zakuro】
+<enT0001>"I'm... human... I'm... human..."
+<ptT0001>"I'm... human... I'm... human..."
+
+//TEXT 【Zakuro】
+<enT0002>"I'm sorry... I'm sorry, God..."
+<ptT0002>"I'm sorry... I'm sorry, God..."
+
+//TEXT 【Zakuro】
+<enT0003>"I know I'm an eyesore... I'll try not to draw attention to myself, so..."
+<ptT0003>"I know I'm an eyesore... I'll try not to draw attention to myself, so..."
+
+//TEXT 【Megu】
+<enT0004>"What's with her? Is she acting like she's broken?"
+<ptT0004>"What's with her? Is she acting like she's broken?"
+
+//TEXT 【Satoko】
+<enT0005>"Whoa... I think she really is."
+<ptT0005>"Whoa... I think she really is."
+
+//TEXT 【Zakuro】
+<enT0006>"Ah... I'm sorry... I'm sorry... I won't do anything..."
+<ptT0006>"Ah... I'm sorry... I'm sorry... I won't do anything..."
+
+//TEXT 【Satoko】
+<enT0007>"But... couldn't this get us in trouble?"
+<ptT0007>"But... couldn't this get us in trouble?"
+
+//TEXT 【Megu】
+<enT0008>"How?"
+<ptT0008>"How?"
+
+//TEXT 【Satoko】
+<enT0009>"Just look at her... This could be bad."
+<ptT0009>"Just look at her... This could be bad."
+
+//TEXT 【Megu】
+<enT0010>"Like I said, what's the problem?!"
+<ptT0010>"Like I said, what's the problem?!"
+
+//TEXT 【Satoko】
+<enT0011>"If anyone finds out about yesterday... That was totally a crime."
+<ptT0011>"If anyone finds out about yesterday... That was totally a crime."
+
+//TEXT 【Megu】
+<enT0012>"What are you talking about? We didn't do anything. Tsubasa and those idiots did it all. Besides, you saw her, that was totally consensual."
+<ptT0012>"What are you talking about? We didn't do anything. Tsubasa and those idiots did it all. Besides, you saw her, that was totally consensual."
+
+//TEXT 【Satoko】
+<enT0013>"...Yeah, it looked like she was enjoying it, but it might be a problem if someone finds out we drugged her, don't you think?"
+<ptT0013>"...Yeah, it looked like she was enjoying it, but it might be a problem if someone finds out we drugged her, don't you think?"
+
+//TEXT 【Zakuro】
+<enT0014>"I'm sorry... I'm sorry... I'm just..."
+<ptT0014>"I'm sorry... I'm sorry... I'm just..."
+
+//TEXT 【Megu】
+<enT0015>"It'll be fine. She came to school and everything."
+<ptT0015>"It'll be fine. She came to school and everything."
+
+//TEXT 【Satoko】
+<enT0016>"I guess so, but... she always comes to school, even if she's sick. Maybe her parents are real tightwads?"
+<ptT0016>"I guess so, but... she always comes to school, even if she's sick. Maybe her parents are real tightwads?"
+
+//TEXT 【Megu】
+<enT0017>"Then her parents probably just think she caught a cold or something, you know?"
+<ptT0017>"Then her parents probably just think she caught a cold or something, you know?"
+
+//TEXT 【Megu】
+<enT0018>"Yeah, let's leave it up to her parents. I'm sure she'll be fine tomorrow. People are surprisingly resilient, after all."
+<ptT0018>"Yeah, let's leave it up to her parents. I'm sure she'll be fine tomorrow. People are surprisingly resilient, after all."
+
+//TEXT 【Satoko】
+<enT0019>"Yeah, I've heard that."
+<ptT0019>"Yeah, I've heard that."
+
+//TEXT 【Megu】
+<enT0020>"Yeah, sometimes I get like crazy depressed. It just hits me like a brick and I can't do shit. Just makes me want to off myself or something."
+<ptT0020>"Yeah, sometimes I get like crazy depressed. It just hits me like a brick and I can't do shit. Just makes me want to off myself or something."
+
+//TEXT 【Megu】
+<enT0021>"But after a few days, I get over it."
+<ptT0021>"But after a few days, I get over it."
+
+//TEXT 【Satoko】
+<enT0022>"She'll be fine if she just hangs out with her friends for a few days."
+<ptT0022>"She'll be fine if she just hangs out with her friends for a few days."
+
+//TEXT 【Megu】
+<enT0023>"Yeah. My first time was with some random guy I didn't know too, but I'm still alive."
+<ptT0023>"Yeah. My first time was with some random guy I didn't know too, but I'm still alive."
+
+//TEXT 【Satoko】
+<enT0024>"Yeah, I heard you got fucked by some of the guys in your club, right?"
+<ptT0024>"Yeah, I heard you got fucked by some of the guys in your club, right?"
+
+//TEXT 【Megu】
+<enT0025>"Yeah, a whole bunch of them all at once, and I was still a virgin, too."
+<ptT0025>"Yeah, a whole bunch of them all at once, and I was still a virgin, too."
+
+//TEXT 【Zakuro】
+<enT0026>"I won't ask for anything again... I won't dream anymore..."
+<ptT0026>"I won't ask for anything again... I won't dream anymore..."
+
+//TEXT
+<enT0027>Nothing...
+<ptT0027>Nothing...
+
+//TEXT
+<enT0028>I won't ask for anything...
+<ptT0028>I won't ask for anything...
+
+//TEXT
+<enT0029>Never again...
+<ptT0029>Never again...
+
+//TEXT
+<enT0030>Mamiya-kun...
+<ptT0030>Mamiya-kun...
+
+//TEXT
+<enT0031>Mamiya-kun...
+<ptT0031>Mamiya-kun...
+
+//TEXT
+<enT0032>I...
+<ptT0032>I...
+
+//TEXT
+<enT0033>I'm worthless now that I'm not a virgin, right?
+<ptT0033>I'm worthless now that I'm not a virgin, right?
+
+//TEXT
+<enT0034>I can't ask for anything...
+<ptT0034>I can't ask for anything...
+
+//TEXT
+<enT0035>I can't ask for anything.
+<ptT0035>I can't ask for anything.
+
+//TEXT
+<enT0036>A worm doesn't deserve anything.
+<ptT0036>A worm doesn't deserve anything.
+
+//TEXT
+<enT0037>I won't ask for anything.
+<ptT0037>I won't ask for anything.
+
+//TEXT
+<enT0038>I'm just a filthy bug... A pile of shit...
+<ptT0038>I'm just a filthy bug... A pile of shit...
+
+//TEXT
+<enT0039>I'm nothing more than a moist hole. I should've known I was going to get raped...
+<ptT0039>I'm nothing more than a moist hole. I should've known I was going to get raped...
+
+//TEXT
+<enT0040>Mamiya-kun will never want to touch me now...
+<ptT0040>Mamiya-kun will never want to touch me now...
+
+//TEXT
+<enT0041>Because I'm filthy.
+<ptT0041>Because I'm filthy.
+
+//TEXT
+<enT0042>Because I've been dirtied.
+<ptT0042>Because I've been dirtied.
+
+//TEXT
+<enT0043>Because I stink.
+<ptT0043>Because I stink.
+
+//TEXT
+<enT0044>Because I'm a whore.
+<ptT0044>Because I'm a whore.
+
+//TEXT
+<enT0045>Because I'm diseased.
+<ptT0045>Because I'm diseased.
+
+//TEXT
+<enT0046>Because I'm a worm.
+<ptT0046>Because I'm a worm.
+
+//TEXT
+<enT0047>I should have never loved.
+<ptT0047>I should have never loved.
+
+//TEXT
+<enT0048>I'm just here to be raped.
+<ptT0048>I'm just here to be raped.
+
+//TEXT
+<enT0049>I might as well go satisfy some other guy's sexual desires.
+<ptT0049>I might as well go satisfy some other guy's sexual desires.
+
+//TEXT
+<enT0050>I might as well die.
+<ptT0050>I might as well die.
+
+//TEXT
+<enT0051>I might as well rot and die.
+<ptT0051>I might as well rot and die.
+
+//TEXT
+<enT0052>So maggots can eat my flesh.
+<ptT0052>So maggots can eat my flesh.
+
+//TEXT
+<enT0053>So I can rot and disappear.
+<ptT0053>So I can rot and disappear.
+
+//TEXT
+<enT0054>I should just rot...
+<ptT0054>I should just rot...
+
+//TEXT
+<enT0055>And die.
+<ptT0055>And die.
+
+//TEXT
+<enT0056>A moist hole...
+<ptT0056>A moist hole...
+
+//TEXT
+<enT0057>Go die...
+<ptT0057>Go die...
+
+//TEXT 【Zakuro】
+<enT0058>"No... I don't want to die..."
+<ptT0058>"No... I don't want to die..."
+
+//TEXT
+<enT0059>Your life has no value. Go die.
+<ptT0059>Your life has no value. Go die.
+
+//TEXT 【Zakuro】
+<enT0060>"I'm sorry, I'm sorry... I don't want to die, I don't want to die, I don't want to die..."
+<ptT0060>"I'm sorry, I'm sorry... I don't want to die, I don't want to die, I don't want to die..."
+
+//TEXT
+<enT0061>Are you still talking?
+<ptT0061>Are you still talking?
+
+//TEXT
+<enT0062>Gross.
+<ptT0062>Gross.
+
+//TEXT
+<enT0063>You're just a hole.
+<ptT0063>You're just a hole.
+
+//TEXT
+<enT0064>Go die.
+<ptT0064>Go die.
+
+//TEXT
+<enT0065>Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die
+<ptT0065>Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die Die
+
+//TEXT 【Zakuro】
+<enT0066>"I don't want to die... Why me?"
+<ptT0066>"I don't want to die... Why me?"
+
+//TEXT
+<enT0067>Because you're a worm.
+<ptT0067>Because you're a worm.
+
+//TEXT
+<enT0068>Because you're a moist hole.
+<ptT0068>Because you're a moist hole.
+
+//TEXT
+<enT0069>Because you're an ugly bitch.
+<ptT0069>Because you're an ugly bitch.
+
+//TEXT
+<enT0070>Because you're a worm, because you're a moist hole, because you're an ugly bitch, because you're a worm, because you're a moist hole, because you're an ugly bitch, because you're a worm, because you're a moist hole, because you're an ugly bitch.
+<ptT0070>Because you're a worm, because you're a moist hole, because you're an ugly bitch, because you're a worm, because you're a moist hole, because you're an ugly bitch, because you're a worm, because you're a moist hole, because you're an ugly bitch.
+
+//TEXT
+<enT0071>Because your life is worthless.
+<ptT0071>Because your life is worthless.
+
+//TEXT
+<enT0072>　　 Because you're gross.
+<ptT0072>　　 Because you're gross.
+
+//TEXT
+<enT0073>　　　　　　　　　　   Because you're not human.
+<ptT0073>　　　　　　　　　　   Because you're not human.
+
+//TEXT 【Zakuro】
+<enT0074>"I'm human... I'm human... I'm human I'm human I'm human I'm human I'm human I'm I'm I'm I'm..."
+<ptT0074>"I'm human... I'm human... I'm human I'm human I'm human I'm human I'm human I'm I'm I'm I'm..."
+
+//TEXT
+<enT0075>Shut up.
+<ptT0075>Shut up.
+
+//TEXT
+<enT0076>Gross.
+<ptT0076>Gross.
+
+//TEXT
+<enT0077>Nasty whore.
+<ptT0077>Nasty whore.
+
+//TEXT
+<enT0078>uglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycunt.
+<ptT0078>uglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycuntuglycunt.
+
+//TEXT
+<enT0079>ugly cunt lol
+<ptT0079>ugly cunt lol
+
+//TEXT
+<enT0080>　　　　　　　　　　nonvirgin lol
+<ptT0080>　　　　　　　　　　nonvirgin lol
+
+//TEXT
+<enT0081>　　　　　　　　　　　　　　　　　　　fleshy hole lol
+<ptT0081>　　　　　　　　　　　　　　　　　　　fleshy hole lol
+
+//TEXT 【Zakuro】
+<enT0082>"I'm sorry... I'm sorry... I... I'm sorry... I, I, I..."
+<ptT0082>"I'm sorry... I'm sorry... I... I'm sorry... I, I, I..."
+
+//TEXT 【Zakuro】
+<enT0083>"Please, God..."
+<ptT0083>"Please, God..."
+
+//TEXT 【God】
+<enT0084>"What?"
+<ptT0084>"What?"
+
+//TEXT 【Zakuro】
+<enT0085>"I, I..."
+<ptT0085>"I, I..."
+
+//TEXT 【God】
+<enT0086>"Jesus fucking christ, what's stinking this place up?"
+<ptT0086>"Jesus fucking christ, what's stinking this place up?"
+
+//TEXT 【God】
+<enT0087>"Is that you?"
+<ptT0087>"Is that you?"
+
+//TEXT 【God】
+<enT0088>"God damn."
+<ptT0088>"God damn."
+
+//TEXT 【Zakuro】
+<enT0089>"I... I... I... I, I-"
+<ptT0089>"I... I... I... I, I-"
+
+//TEXT 【God】
+<enT0090>"I'm God."
+<ptT0090>"I'm God."
+
+//TEXT 【God】
+<enT0091>"I'm the amazing all-powerful God."
+<ptT0091>"I'm the amazing all-powerful God."
+
+//TEXT 【God】
+<enT0092>"I can answer your questions, doubts, Copernicuses."
+<ptT0092>"I can answer your questions, doubts, Copernicuses."
+
+//TEXT 【Zakuro】
+<enT0093>"I won't... I won't ask you for anything ever again... I, I..."
+<ptT0093>"I won't... I won't ask you for anything ever again... I, I..."
+
+//TEXT 【God】
+<enT0094>"Oh, really? So you're done coveting your neighbors, then?!"
+<ptT0094>"Oh, really? So you're done coveting your neighbors, then?!"
+
+//TEXT 【Zakuro】
+<enT0095>"So, so, so..."
+<ptT0095>"So, so, so..."
+
+//TEXT 【God】
+<enT0096>"Then would you stop breathing in all my damn air?
+<ptT0096>"Then would you stop breathing in all my damn air?
+
+//TEXT
+<enT0097>\nFor fuck's sake!"
+<ptT0097>\nFor fuck's sake!"
+
+//TEXT 【God】
+<enT0098>"God damn!"
+<ptT0098>"God damn!"
+
+//TEXT 【Zakuro】
+<enT0099>"I don't want to die. I don't want to die... I don't want to die... I won't ask you for anything else. I don't want to die..."
+<ptT0099>"I don't want to die. I don't want to die... I don't want to die... I won't ask you for anything else. I don't want to die..."
+
+//TEXT 【God】
+<enT0100>"Hoo boy～"
+<ptT0100>"Hoo boy～"
+
+//TEXT 【God】
+<enT0101>"I liiieeed, teehee, teehee～"
+<ptT0101>"I liiieeed, teehee, teehee～"
+
+//TEXT 【God】
+<enT0102>"What's wrong, Takashima Zakuro-chan? If you keep crying, something might pop out and GET YOU! WHEELCHAIR! RELIGIOUS REVOLUTION!"
+<ptT0102>"What's wrong, Takashima Zakuro-chan? If you keep crying, something might pop out and GET YOU! WHEELCHAIR! RELIGIOUS REVOLUTION!"
+
+//TEXT 【God】
+<enT0103>"That'll be 30 yen."
+<ptT0103>"That'll be 30 yen."
+
+//TEXT 【Zakuro】
+<enT0104>"I-I can't... I..."
+<ptT0104>"I-I can't... I..."
+
+//TEXT 【God】
+<enT0105>"If you pay me 30 yen, I'll save your soul."
+<ptT0105>"If you pay me 30 yen, I'll save your soul."
+
+//TEXT 【Zakuro】
+<enT0106>"Y-You'll save my soul?"
+<ptT0106>"Y-You'll save my soul?"
+
+//TEXT 【God】
+<enT0107>"Sow you want me to shave your soul?!"
+<ptT0107>"Sow you want me to shave your soul?!"
+
+//TEXT 【God】
+<enT0108>"Sell your soul, just 30 yen!"
+<ptT0108>"Sell your soul, just 30 yen!"
+
+//TEXT 【God】
+<enT0109>"You already sold your body!"
+<ptT0109>"You already sold your body!"
+
+//TEXT 【Zakuro】
+<enT0110>"I didn't sell it... I didn't sell my body... I..."
+<ptT0110>"I didn't sell it... I didn't sell my body... I..."
+
+//TEXT 【God】
+<enT0111>"You whore!"
+<ptT0111>"You whore!"
+
+//TEXT 【Zakuro】
+<enT0112>"That's not true... That's not true... I, I... That's not true..."
+<ptT0112>"That's not true... That's not true... I, I... That's not true..."
+
+//TEXT 【God】
+<enT0113>"Yes, it's not true, is it?"
+<ptT0113>"Yes, it's not true, is it?"
+
+//TEXT 【God】
+<enT0114>"I totally agree with you."
+<ptT0114>"I totally agree with you."
+
+//TEXT 【God】
+<enT0115>"I would totally make a new pedigree with you."
+<ptT0115>"I would totally make a new pedigree with you."
+
+//TEXT 【God】
+<enT0116>"And by that I mean I'd have sex with you!"
+<ptT0116>"And by that I mean I'd have sex with you!"
+
+//TEXT 【God】
+<enT0117>"And sex is a metaphor for me fucking you!"
+<ptT0117>"And sex is a metaphor for me fucking you!"
+
+//TEXT 【God】
+<enT0118>"Fuck! Come on, you love to get down, right? You're a dirty girl, love to shaaaagggg! Scream for me, tell me you want your little cunt filled!"
+<ptT0118>"Fuck! Come on, you love to get down, right? You're a dirty girl, love to shaaaagggg! Scream for me, tell me you want your little cunt filled!"
+
+//TEXT 【Zakuro】
+<enT0119>"I don't... I hate that stuff... I don't want any of that..."
+<ptT0119>"I don't... I hate that stuff... I don't want any of that..."
+
+//TEXT 【God】
+<enT0120>"I understand."
+<ptT0120>"I understand."
+
+//TEXT 【God】
+<enT0121>"But you wanted to fuck Mamiya-kun, didn't you?"
+<ptT0121>"But you wanted to fuck Mamiya-kun, didn't you?"
+
+//TEXT 【Zakuro】
+<enT0122>"I-I didn't want... I..."
+<ptT0122>"I-I didn't want... I..."
+
+//TEXT 【God】
+<enT0123>"You liar!"
+<ptT0123>"You liar!"
+
+//TEXT 【God】
+<enT0124>"He got your pussy nice and wet, didn't he?!"
+<ptT0124>"He got your pussy nice and wet, didn't he?!"
+
+//TEXT 【Zakuro】
+<enT0125>"That's not true! I just liked Mamiya-kun, that's all. I, I―"
+<ptT0125>"That's not true! I just liked Mamiya-kun, that's all. I, I―"
+
+//TEXT 【God】
+<enT0126>"Calm down, calm down."
+<ptT0126>"Calm down, calm down."
+
+//TEXT 【God】
+<enT0127>"It'll all be okay. I know you're a pure girl at heart."
+<ptT0127>"It'll all be okay. I know you're a pure girl at heart."
+
+//TEXT 【God】
+<enT0128>"I know everything. For instance, I know that your cunt smells like rotten fish right now."
+<ptT0128>"I know everything. For instance, I know that your cunt smells like rotten fish right now."
+
+//TEXT 【Zakuro】
+<enT0129>"That's awful... Don't say that... I can't take it..."
+<ptT0129>"That's awful... Don't say that... I can't take it..."
+
+//TEXT 【God】
+<enT0130>"Don't worry about it. I mean, anyone's cunt would smell after that."
+<ptT0130>"Don't worry about it. I mean, anyone's cunt would smell after that."
+
+//TEXT 【Zakuro】
+<enT0131>"I don't smell... That's not me..."
+<ptT0131>"I don't smell... That's not me..."
+
+//TEXT 【God】
+<enT0132>"Of course it smells. You had like ten guys put their dicks in you last night! It's probably the nastiest cunt in all of creation!"
+<ptT0132>"Of course it smells. You had like ten guys put their dicks in you last night! It's probably the nastiest cunt in all of creation!"
+
+//TEXT 【Zakuro】
+<enT0133>"Wha―?!"
+<ptT0133>"Wha―?!"
+
+//TEXT 【God】
+<enT0134>"You were a pure girl with a cunt that didn't smell until last night. Your cunt is probably going to reek for the rest of your life now, though."
+<ptT0134>"You were a pure girl with a cunt that didn't smell until last night. Your cunt is probably going to reek for the rest of your life now, though."
+
+//TEXT 【God】
+<enT0135>"It's a new show, airing at 11! Takashima Zakurero, the girl with a smelly cunt!"
+<ptT0135>"It's a new show, airing at 11! Takashima Zakurero, the girl with a smelly cunt!"
+
+//TEXT 【God】
+<enT0136>"I liieeeed, teehee, teehee～"
+<ptT0136>"I liieeeed, teehee, teehee～"
+
+//TEXT 【God】
+<enT0137>"Ahahahahahahahahahahahaha!"
+<ptT0137>"Ahahahahahahahahahahahaha!"
+
+//TEXT
+<enT0138>Now my entire life is...
+<ptT0138>Now my entire life is...
+
+//TEXT
+<enT0139>There's nothing left for me...
+<ptT0139>There's nothing left for me...
+
+//TEXT
+<enT0140>So now I... I can't... I can't...
+<ptT0140>So now I... I can't... I can't...
+
+//TEXT 【God】
+<enT0141>"That's not true!"
+<ptT0141>"That's not true!"
+
+//TEXT 【God】
+<enT0142>"There's an infinite array of possibilities laid out before you."
+<ptT0142>"There's an infinite array of possibilities laid out before you."
+
+//TEXT 【God】
+<enT0143>"As God, I can assure you."
+<ptT0143>"As God, I can assure you."
+
+//TEXT 【God】
+<enT0144>"There are unlimited possibilities within your grasp!"
+<ptT0144>"There are unlimited possibilities within your grasp!"
+
+//TEXT 【God】
+<enT0145>"30 yen!"
+<ptT0145>"30 yen!"
+
+//TEXT
+<enT0146>It felt like my head was going to split open.
+<ptT0146>It felt like my head was going to split open.
+
+//TEXT
+<enT0147>It's because I didn't get any sleep... Because I didn't get any sleep... Because I didn't get any sleep... That's why this is happening...
+<ptT0147>It's because I didn't get any sleep... Because I didn't get any sleep... Because I didn't get any sleep... That's why this is happening...
+
+//TEXT
+<enT0148>It's not like I'm going crazy or anything.
+<ptT0148>It's not like I'm going crazy or anything.
+
+//TEXT
+<enT0149>My head...
+<ptT0149>My head...
+
+//TEXT
+<enT0150>My head... My head... My head...
+<ptT0150>My head... My head... My head...
+
+//TEXT 【God】
+<enT0151>"30 yen for head! 30,000 yen for the body! That's just common sense for a whore!"
+<ptT0151>"30 yen for head! 30,000 yen for the body! That's just common sense for a whore!"
+
+//TEXT 【God】
+<enT0152>"The cost of living is too high! Who the heck is running this place?"
+<ptT0152>"The cost of living is too high! Who the heck is running this place?"
+
+//TEXT 【God】
+<enT0153>"But your body only costs as much as a room at the love hotel! So cheap! Better buy now before it's gone!"
+<ptT0153>"But your body only costs as much as a room at the love hotel! So cheap! Better buy now before it's gone!"
+
+//TEXT 【God】
+<enT0154>"You just love to fuck!"
+<ptT0154>"You just love to fuck!"
+
+//TEXT 【God】
+<enT0155>"Why don't you try saying it? It's wool."
+<ptT0155>"Why don't you try saying it? It's wool."
+
+//TEXT 【Zakuro】
+<enT0156>"I don't love to fuck... I don't love to fuck... I don't love to fuck..."
+<ptT0156>"I don't love to fuck... I don't love to fuck... I don't love to fuck..."
+
+//TEXT 【God】
+<enT0157>"All the cool kids call it the bedtop sport for indoor types. I'll have to write that one down, GYAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA."
+<ptT0157>"All the cool kids call it the bedtop sport for indoor types. I'll have to write that one down, GYAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA."
+
+//TEXT 【God】
+<enT0158>"On the roof...
+<ptT0158>"On the roof...
+
+//TEXT
+<enT0159> GUESS WHO'S HERE!"
+<ptT0159> GUESS WHO'S HERE!"
+
+//TEXT 【God】
+<enT0160>"The sky's so far up! Smoking is so much fun! The special express is a NO SMOKING ZONE!"
+<ptT0160>"The sky's so far up! Smoking is so much fun! The special express is a NO SMOKING ZONE!"
+
+//TEXT 【Zakuro】
+<enT0161>"Ah! Mamiya-kun!"
+<ptT0161>"Ah! Mamiya-kun!"
+
+//TEXT
+<enT0162>I ran over to the other rooftop.
+<ptT0162>I ran over to the other rooftop.
+
+//TEXT 【Mamiya】
+<enT0163>"...Huh? You're..."
+<ptT0163>"...Huh? You're..."
+
+//TEXT
+<enT0164>Mamiya-kun looked up at me with a kind smile.
+<ptT0164>Mamiya-kun looked up at me with a kind smile.
+
+//TEXT 【Zakuro】
+<enT0165>"I'm Takashima Zakuro! I love you, Mamiya-kun!"
+<ptT0165>"I'm Takashima Zakuro! I love you, Mamiya-kun!"
+
+//TEXT 【Mamiya】
+<enT0166>"But you're not a virgin, are you?"
+<ptT0166>"But you're not a virgin, are you?"
+
+//TEXT 【Zakuro】
+<enT0167>"Huh?"
+<ptT0167>"Huh?"
+
+//TEXT 【Mamiya】
+<enT0168>"I'm not interested in used goods."
+<ptT0168>"I'm not interested in used goods."
+
+//TEXT 【Mamiya】
+<enT0169>"Someone needs to take out the trash."
+<ptT0169>"Someone needs to take out the trash."
+
+//TEXT 【Mamiya】
+<enT0170>"You're garbage!"
+<ptT0170>"You're garbage!"
+
+//TEXT 【Zakuro】
+<enT0171>"U-Um... Cyrano de..."
+<ptT0171>"U-Um... Cyrano de..."
+
+//TEXT 【Mamiya】
+<enT0172>"Oh, that book I lent you stinks to high heaven. Stinky, stinky, stinky, stinky, stinky. It smells like whore."
+<ptT0172>"Oh, that book I lent you stinks to high heaven. Stinky, stinky, stinky, stinky, stinky. It smells like whore."
+
+//TEXT 【Zakuro】
+<enT0173>"N-No, I bathed over and over last night. Mamiya-kun... I washed and washed."
+<ptT0173>"N-No, I bathed over and over last night. Mamiya-kun... I washed and washed."
+
+//TEXT 【Mamiya】
+<enT0174>"Then I guess it was worth lending it to you, huh?"
+<ptT0174>"Then I guess it was worth lending it to you, huh?"
+
+//TEXT 【Mamiya】
+<enT0175>"Go ahead... Say Cyrano's line..."
+<ptT0175>"Go ahead... Say Cyrano's line..."
+
+//TEXT 【Zakuro】
+<enT0176>"U-Um... A poet!"
+<ptT0176>"U-Um... A poet!"
+
+//TEXT 【Mamiya】
+<enT0177>"A slut!"
+<ptT0177>"A slut!"
+
+//TEXT 【Mamiya】
+<enT0178>"A whore!"
+<ptT0178>"A whore!"
+
+//TEXT 【Mamiya】
+<enT0179>"A worm..."
+<ptT0179>"A worm..."
+
+//TEXT 【Mamiya】
+<enT0180>"And... a slimy, wet hole..."
+<ptT0180>"And... a slimy, wet hole..."
+
+//TEXT 【God】
+<enT0181>"I'm God."
+<ptT0181>"I'm God."
+
+//TEXT 【Zakuro】
+<enT0182>"Ah... Aaah..."
+<ptT0182>"Ah... Aaah..."
+
+//TEXT 【God】
+<enT0183>"I can see right through you!"
+<ptT0183>"I can see right through you!"
+
+//TEXT 【God】
+<enT0184>"You think you're special cuz you read Cyrano de Bergerac?! I bet you spend all day reading porn on your cellphone!"
+<ptT0184>"You think you're special cuz you read Cyrano de Bergerac?! I bet you spend all day reading porn on your cellphone!"
+
+//TEXT 【God】
+<enT0185>"I bet Cyrano's smooth, flowing prose gets you wet like a Catholic schoolgirl!"
+<ptT0185>"I bet Cyrano's smooth, flowing prose gets you wet like a Catholic schoolgirl!"
+
+//TEXT 【Zakuro】
+<enT0186>"That's not true... That's not true... I'm... I'm not..."
+<ptT0186>"That's not true... That's not true... I'm... I'm not..."
+
+//TEXT 【Zakuro】
+<enT0187>"That's a lie, that's a lie, that's a lie... Don't say that, don't say that, don't say that..."
+<ptT0187>"That's a lie, that's a lie, that's a lie... Don't say that, don't say that, don't say that..."
+
+//TEXT 【Zakuro】
+<enT0188>"N-No... Nooo..."
+<ptT0188>"N-No... Nooo..."
+
+//TEXT
+<enT0189>"Yo, Mamiya."
+<ptT0189>"Yo, Mamiya."
+
+//TEXT
+<enT0190>"Sh-Shiroyama-kun..."
+<ptT0190>"Sh-Shiroyama-kun..."
+
+//TEXT
+<enT0191>"What are you so scared of?"
+<ptT0191>"What are you so scared of?"
+
+//TEXT
+<enT0192>"No, i-it's nothing..."
+<ptT0192>"No, i-it's nothing..."
+
+//TEXT 【Zakuro】
+<enT0193>"..."
+<ptT0193>"..."
+
+//TEXT
+<enT0194>That's Mamiya-kun...
+<ptT0194>That's Mamiya-kun...
+
+//TEXT
+<enT0195>Someone was bullying him.
+<ptT0195>Someone was bullying him.
+
+//TEXT
+<enT0196>"We're friends, aren't we?"
+<ptT0196>"We're friends, aren't we?"
+
+//TEXT
+<enT0197>"So lend your good ol' friend a few bucks."
+<ptT0197>"So lend your good ol' friend a few bucks."
+
+//TEXT
+<enT0198>"B-But I just gave you some money yesterday..."
+<ptT0198>"B-But I just gave you some money yesterday..."
+
+//TEXT
+<enT0199>"Yeah... I really appreciated it too."
+<ptT0199>"Yeah... I really appreciated it too."
+
+//TEXT
+<enT0200>"He was almost there, didn't you see it? Then he fell from his fucking horse. That race was totally fixed. Don't you think so?"
+<ptT0200>"He was almost there, didn't you see it? Then he fell from his fucking horse. That race was totally fixed. Don't you think so?"
+
+//TEXT
+<enT0201>"Uh, yeah..."
+<ptT0201>"Uh, yeah..."
+
+//TEXT
+<enT0202>"He would've won if they hadn't fixed the race... So gimme some more."
+<ptT0202>"He would've won if they hadn't fixed the race... So gimme some more."
+
+//TEXT
+<enT0203>"B-But, I..."
+<ptT0203>"B-But, I..."
+
+//TEXT
+<enT0204>There was no way for him to rebuff the bully.
+<ptT0204>There was no way for him to rebuff the bully.
+
+//TEXT
+<enT0205>He couldn't do anything.
+<ptT0205>He couldn't do anything.
+
+//TEXT
+<enT0206>He looked pathetic...
+<ptT0206>He looked pathetic...
+
+//TEXT
+<enT0207>Just like me.
+<ptT0207>Just like me.
+
+//TEXT
+<enT0208>"Your buddy is having some financial trouble... You can help me out, right?"
+<ptT0208>"Your buddy is having some financial trouble... You can help me out, right?"
+
+//TEXT
+<enT0209>"..."
+<ptT0209>"..."
+
+//TEXT
+<enT0210>"I'll give it back once I win... Haven't you heard about this baby? I bought this Rolex with my winnings last time."
+<ptT0210>"I'll give it back once I win... Haven't you heard about this baby? I bought this Rolex with my winnings last time."
+
+//TEXT
+<enT0211>"What are you trying to say?"
+<ptT0211>"What are you trying to say?"
+
+//TEXT
+<enT0212>"You've, uh... been saying you were gonna pay me back for a while now."
+<ptT0212>"You've, uh... been saying you were gonna pay me back for a while now."
+
+//TEXT
+<enT0213>"Huh? The fuck did you say?"
+<ptT0213>"Huh? The fuck did you say?"
+
+//TEXT
+<enT0214>"Nothing, sorry, sorry, it was nothing..."
+<ptT0214>"Nothing, sorry, sorry, it was nothing..."
+
+//TEXT
+<enT0215>"Shut up and give me the money already."
+<ptT0215>"Shut up and give me the money already."
+
+//TEXT
+<enT0216>"Um... Wouldn't that girl have money too? I think her name was Takashima Zakuro?"
+<ptT0216>"Um... Wouldn't that girl have money too? I think her name was Takashima Zakuro?"
+
+//TEXT
+<enT0217>"Wow, she has stonking big tits."
+<ptT0217>"Wow, she has stonking big tits."
+
+//TEXT
+<enT0218>"She's only good for fucking. It's your job to pay up. You're my wallet."
+<ptT0218>"She's only good for fucking. It's your job to pay up. You're my wallet."
+
+//TEXT
+<enT0219>"Oh, sorry..."
+<ptT0219>"Oh, sorry..."
+
+//TEXT
+<enT0220>He's the worst...
+<ptT0220>He's the worst...
+
+//TEXT
+<enT0221>He's the same...
+<ptT0221>He's the same...
+
+//TEXT
+<enT0222>Just like all the others...
+<ptT0222>Just like all the others...
+
+//TEXT
+<enT0223>That's right...
+<ptT0223>That's right...
+
+//TEXT
+<enT0224>This is how they treat the one person I really like.
+<ptT0224>This is how they treat the one person I really like.
+
+//TEXT
+<enT0225>That must be it...
+<ptT0225>That must be it...
+
+//TEXT
+<enT0226>The fake one was the cool, smart Mamiya-kun.
+<ptT0226>The fake one was the cool, smart Mamiya-kun.
+
+//TEXT
+<enT0227>I couldn't make that Mamiya-kun into the real one.
+<ptT0227>I couldn't make that Mamiya-kun into the real one.
+
+//TEXT
+<enT0228>Just like that, weak people live their entire lives being stepped on by the strong.
+<ptT0228>Just like that, weak people live their entire lives being stepped on by the strong.
+
+//TEXT
+<enT0229>That's the worst...
+<ptT0229>That's the worst...
+
+//TEXT
+<enT0230>Everything here is awful...
+<ptT0230>Everything here is awful...
+
+//TEXT
+<enT0231>"Wouldn't it be easier if you just jumped?"
+<ptT0231>"Wouldn't it be easier if you just jumped?"
+
+//TEXT 【Zakuro】
+<enT0232>"..."
+<ptT0232>"..."
+
+//TEXT
+<enT0233>"But... you should open your eyes."
+<ptT0233>"But... you should open your eyes."
+
+//TEXT 【Zakuro】
+<enT0234>"...Shut up."
+<ptT0234>"...Shut up."
+
+//TEXT
+<enT0235>"It's right in front of you. If you just open your eyes, you'll understand..."
+<ptT0235>"It's right in front of you. If you just open your eyes, you'll understand..."
+
+//TEXT 【Zakuro】
+<enT0236>"..."
+<ptT0236>"..."
+
+//TEXT
+<enT0237>"If you don't..."
+<ptT0237>"If you don't..."
+
+//TEXT 【Zakuro】
+<enT0238>"Just... leave me alone..."
+<ptT0238>"Just... leave me alone..."
+
+//TEXT 【Zakuro】
+<enT0239>"I don't care... do whatever you want..."
+<ptT0239>"I don't care... do whatever you want..."
+
+//TEXT
+<enT0240>"You'll die..."
+<ptT0240>"You'll die..."
+
+//TEXT 【Zakuro】
+<enT0241>"No!"
+<ptT0241>"No!"
+
+//TEXT 【Ayana】
+<enT0242>"Have you opened your eyes?"
+<ptT0242>"Have you opened your eyes?"
+
+//TEXT 【Zakuro】
+<enT0243>"You're..."
+<ptT0243>"You're..."
+
+//TEXT 【Ayana】
+<enT0244>"Otonashi Ayana..."
+<ptT0244>"Otonashi Ayana..."
+
+//TEXT 【Zakuro】
+<enT0245>"Why..."
+<ptT0245>"Why..."
+
+//TEXT 【Zakuro】
+<enT0246>"Have I been... dreaming this whole time?"
+<ptT0246>"Have I been... dreaming this whole time?"
+
+//TEXT 【Zakuro】
+<enT0247>"Th-That's it... That was all a dream... It must have been."
+<ptT0247>"Th-That's it... That was all a dream... It must have been."
+
+//TEXT 【God】
+<enT0248>"Stick a prick in her!"
+<ptT0248>"Stick a prick in her!"
+
+//TEXT 【Zakuro】
+<enT0249>"Ah!"
+<ptT0249>"Ah!"
+
+//TEXT 【Ayana】
+<enT0250>"You don't need to listen to that... It has no power."
+<ptT0250>"You don't need to listen to that... It has no power."
+
+//TEXT 【God】
+<enT0251>"I have way too much power. I am God."
+<ptT0251>"I have way too much power. I am God."
+
+//TEXT 【Ayana】
+<enT0252>"It can't do anything, so it crawls inside people's hearts like that. It's completely powerless."
+<ptT0252>"It can't do anything, so it crawls inside people's hearts like that. It's completely powerless."
+
+//TEXT 【Zakuro】
+<enT0253>"Y-You're..."
+<ptT0253>"Y-You're..."
+
+//TEXT 【Ayana】
+<enT0254>"Otonashi Ayana."
+<ptT0254>"Otonashi Ayana."
+
+//TEXT 【Zakuro】
+<enT0255>"What is this? Am I insane? Why is he so big? He's taller than a skyscraper! How is that possible?"
+<ptT0255>"What is this? Am I insane? Why is he so big? He's taller than a skyscraper! How is that possible?"
+
+//TEXT 【Ayana】
+<enT0256>"Who knows? I'm not a doctor, so how would I know?"
+<ptT0256>"Who knows? I'm not a doctor, so how would I know?"
+
+//TEXT 【Zakuro】
+<enT0257>"But... You can see him too, right?"
+<ptT0257>"But... You can see him too, right?"
+
+//TEXT 【Ayana】
+<enT0258>"Then the answer is simple..."
+<ptT0258>"Then the answer is simple..."
+
+//TEXT 【Ayana】
+<enT0259>"1... Neither you nor I is insane."
+<ptT0259>"1... Neither you nor I is insane."
+
+//TEXT 【Ayana】
+<enT0260>"2... You and I are both insane..."
+<ptT0260>"2... You and I are both insane..."
+
+//TEXT 【Ayana】
+<enT0261>"Which would you prefer?"
+<ptT0261>"Which would you prefer?"
+
+//TEXT 【Zakuro】
+<enT0262>"Don't screw with me!"
+<ptT0262>"Don't screw with me!"
+
+//TEXT 【God】
+<enT0263>"Yeah, just stick it in! Zakuro Cutter!"
+<ptT0263>"Yeah, just stick it in! Zakuro Cutter!"
+
+//TEXT 【God】
+<enT0264>"Oh, it's in your pocket, by the way."
+<ptT0264>"Oh, it's in your pocket, by the way."
+
+//TEXT 【Zakuro】
+<enT0265>"..."
+<ptT0265>"..."
+
+//TEXT
+<enT0266>When I searched my pockets, I found a box cutter.
+<ptT0266>When I searched my pockets, I found a box cutter.
+
+//TEXT 【God】
+<enT0267>"That's right! The infamous Zakuro Cutter can even cut through paper! What an amazing weapon! Good luck!"
+<ptT0267>"That's right! The infamous Zakuro Cutter can even cut through paper! What an amazing weapon! Good luck!"
+
+//TEXT 【Ayana】
+<enT0268>"You can't kill someone with a box cutter."
+<ptT0268>"You can't kill someone with a box cutter."
+
+//TEXT 【Zakuro】
+<enT0269>"I never asked if you could..."
+<ptT0269>"I never asked if you could..."
+
+//TEXT 【God】
+<enT0270>"Aim for the eyes! That's the weak spot!"
+<ptT0270>"Aim for the eyes! That's the weak spot!"
+
+//TEXT 【Zakuro】
+<enT0271>"Answer me!"
+<ptT0271>"Answer me!"
+
+//TEXT 【Zakuro】
+<enT0272>"Why does this only happen to me?! Why?! Why?!"
+<ptT0272>"Why does this only happen to me?! Why?! Why?!"
+
+//TEXT 【God】
+<enT0273>"And this is the Zakuro Ear!"
+<ptT0273>"And this is the Zakuro Ear!"
+
+//TEXT 【God】
+<enT0274>"Extract the information from her with your Zakuro Ear!"
+<ptT0274>"Extract the information from her with your Zakuro Ear!"
+
+//TEXT 【Zakuro】
+<enT0275>"Zakuro Ear...?"
+<ptT0275>"Zakuro Ear...?"
+
+//TEXT 【Zakuro】
+<enT0276>"Why is this happening to me?!"
+<ptT0276>"Why is this happening to me?!"
+
+//TEXT 【God】
+<enT0277>"Maybe you should... check your inbox!"
+<ptT0277>"Maybe you should... check your inbox!"
+
+//TEXT 【Zakuro】
+<enT0278>"Huh?"
+<ptT0278>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0279>"I got a text."
+<ptT0279>"I got a text."
+
+//TEXT 【Ayana】
+<enT0280>"...Why don't you read it?"
+<ptT0280>"...Why don't you read it?"
+
+//TEXT
+<enT0281>...
+<ptT0281>...
+
+//TEXT
+<enT0282>―――――――――――――――――――――――\n
+<ptT0282>―――――――――――――――――――――――\n
+
+//TEXT
+<enT0283>2012/7/10 12:52\n
+<ptT0283>2012/7/10 12:52\n
+
+//TEXT
+<enT0284>from: Usami\n
+<ptT0284>from: Usami\n
+
+//TEXT
+<enT0285>subject: PS\n
+<ptT0285>subject: PS\n
+
+//TEXT
+<enT0286>―――――――――――――――――――――――\n
+<ptT0286>―――――――――――――――――――――――\n
+
+//TEXT
+<enT0287>You've probably suffered for a long time.\n
+<ptT0287>You've probably suffered for a long time.\n
+
+//TEXT
+<enT0288>\n
+<ptT0288>\n
+
+//TEXT
+<enT0289>But the only reason you're suffering is because your existence is correct.\n
+<ptT0289>But the only reason you're suffering is because your existence is correct.\n
+
+//TEXT
+<enT0290>You suffer because you're correct.\n
+<ptT0290>You suffer because you're correct.\n
+
+//TEXT
+<enT0291>But the incorrect person who is tormenting you will die.\n
+<ptT0291>But the incorrect person who is tormenting you will die.\n
+
+//TEXT
+<enT0292>\n
+<ptT0292>\n
+
+//TEXT
+<enT0293>Soon, one of your problems will disappear.
+<ptT0293>Soon, one of your problems will disappear.
+
+//TEXT 【Zakuro】
+<enT0294>"This is..."
+<ptT0294>"This is..."
+
+//TEXT 【God】
+<enT0295>"I think so too."
+<ptT0295>"I think so too."
+
+//TEXT 【God】
+<enT0296>"You won't die because you're the one who's correct!"
+<ptT0296>"You won't die because you're the one who's correct!"
+
+//TEXT 【God】
+<enT0297>"Evil will be destroyed."
+<ptT0297>"Evil will be destroyed."
+
+//TEXT 【Zakuro】
+<enT0298>"...The person tormenting me..."
+<ptT0298>"...The person tormenting me..."
+
+//TEXT 【Zakuro】
+<enT0299>"The person tormenting me..."
+<ptT0299>"The person tormenting me..."
+
+//TEXT 【Zakuro】
+<enT0300>"Is really..."
+<ptT0300>"Is really..."
+
+//TEXT 【Zakuro】
+<enT0301>"It's because you're all wrong!"
+<ptT0301>"It's because you're all wrong!"
+
+//TEXT 【Zakuro】
+<enT0302>"All of you!"
+<ptT0302>"All of you!"
+
+//TEXT 【Zakuro】
+<enT0303>"Akasaka and Kitami... and Kimika... and Mamiya-kun, too..."
+<ptT0303>"Akasaka and Kitami... and Kimika... and Mamiya-kun, too..."
+
+//TEXT 【Zakuro】
+<enT0304>"And you, Otonashi Ayana! Are you here to torment me too?!"
+<ptT0304>"And you, Otonashi Ayana! Are you here to torment me too?!"
+
+//TEXT 【Ayana】
+<enT0305>"Why would you think that?"
+<ptT0305>"Why would you think that?"
+
+//TEXT 【Zakuro】
+<enT0306>"Just talking to you... makes me feel like I'm going insane."
+<ptT0306>"Just talking to you... makes me feel like I'm going insane."
+
+//TEXT 【Ayana】
+<enT0307>"But you've been like that since before you met me."
+<ptT0307>"But you've been like that since before you met me."
+
+//TEXT 【Zakuro】
+<enT0308>"Ah!"
+<ptT0308>"Ah!"
+
+//TEXT 【Ayana】
+<enT0309>"Didn't it all start when you got raped by those men?"
+<ptT0309>"Didn't it all start when you got raped by those men?"
+
+//TEXT 【Zakuro】
+<enT0310>"Huh?"
+<ptT0310>"Huh?"
+
+//TEXT 【Ayana】
+<enT0311>"Wasn't it because you got raped?"
+<ptT0311>"Wasn't it because you got raped?"
+
+//TEXT 【Zakuro】
+<enT0312>"...Ra...ped..."
+<ptT0312>"...Ra...ped..."
+
+//TEXT 【Zakuro】
+<enT0313>"I... got..."
+<ptT0313>"I... got..."
+
+//TEXT 【Ayana】
+<enT0314>"Spread out on the bed like a sex doll... They could do whatever they wanted..."
+<ptT0314>"Spread out on the bed like a sex doll... They could do whatever they wanted..."
+
+//TEXT 【Zakuro】
+<enT0315>"Ah... Aah..."
+<ptT0315>"Ah... Aah..."
+
+//TEXT 【God】
+<enT0316>"Now! Aim for the eyes!"
+<ptT0316>"Now! Aim for the eyes!"
+
+//TEXT 【Zakuro】
+<enT0317>"NOOOOO!!"
+<ptT0317>"NOOOOO!!"
+
+//TEXT 【Zakuro】
+<enT0318>"I, I, I, I..."
+<ptT0318>"I, I, I, I..."
+
+//TEXT 【Zakuro】
+<enT0319>"That's right... I was raped... by those men, by those men... I, I, I..."
+<ptT0319>"That's right... I was raped... by those men, by those men... I, I, I..."
+
+//TEXT 【Zakuro】
+<enT0320>"Defiled, defiled, defiled, defiled, defiled, defiled... defiled, defiled..."
+<ptT0320>"Defiled, defiled, defiled, defiled, defiled, defiled... defiled, defiled..."
+
+//TEXT 【Zakuro】
+<enT0321>"Filthy, filthy, filthy, filthy, filthy, filthy, filthy..."
+<ptT0321>"Filthy, filthy, filthy, filthy, filthy, filthy, filthy..."
+
+//TEXT 【Zakuro】
+<enT0322>"I... I, I'm..."
+<ptT0322>"I... I, I'm..."
+
+//TEXT 【Zakuro】
+<enT0323>"Huh?!"
+<ptT0323>"Huh?!"
+
+//TEXT 【Zakuro】
+<enT0324>"What?"
+<ptT0324>"What?"
+
+//TEXT 【Zakuro】
+<enT0325>"What is this?"
+<ptT0325>"What is this?"
+
+//TEXT 【Zakuro】
+<enT0326>"What is this ominous thing?"
+<ptT0326>"What is this ominous thing?"
+
+//TEXT 【Zakuro】
+<enT0327>"This is..."
+<ptT0327>"This is..."
+
+//TEXT 【God】
+<enT0328>"Take a good look out the window."
+<ptT0328>"Take a good look out the window."
+
+//TEXT 【God】
+<enT0329>"Look out the window."
+<ptT0329>"Look out the window."
+
+//TEXT 【Zakuro】
+<enT0330>"...This is..."
+<ptT0330>"...This is..."
+
+//TEXT
+<enT0331>A great, black shadow... covering the sky...
+<ptT0331>A great, black shadow... covering the sky...
+
+//TEXT
+<enT0332>An endless black gloom...
+<ptT0332>An endless black gloom...
+
+//TEXT
+<enT0333>Like the world's twilight...
+<ptT0333>Like the world's twilight...
+
+//TEXT
+<enT0334>A gloomy scene...
+<ptT0334>A gloomy scene...
+
+//TEXT 【Zakuro】
+<enT0335>"I've seen this before..."
+<ptT0335>"I've seen this before..."
+
+//TEXT 【Zakuro】
+<enT0336>"In a dream once..."
+<ptT0336>"In a dream once..."
+
+//TEXT 【Zakuro】
+<enT0337>"Or..."
+<ptT0337>"Or..."
+
+//TEXT 【Zakuro】
+<enT0338>"Much further in the past..."
+<ptT0338>"Much further in the past..."
+
+//TEXT 【God】
+<enT0339>"End Sky."
+<ptT0339>"End Sky."
+
+//TEXT
+<enT0340>A silhouette fell from the sky.
+<ptT0340>A silhouette fell from the sky.
+
+//TEXT
+<enT0341>The shape of a human.
+<ptT0341>The shape of a human.
+
+//TEXT
+<enT0342>A silhouette, shaped like a human, fell from the sky, just like that.
+<ptT0342>A silhouette, shaped like a human, fell from the sky, just like that.
+
+//TEXT
+<enT0343>And broke upon the ground...
+<ptT0343>And broke upon the ground...
+
+//TEXT
+<enT0344>A terrible sound...
+<ptT0344>A terrible sound...
+
+//TEXT
+<enT0345>He must have literally been full of shit.
+<ptT0345>He must have literally been full of shit.
+
+//TEXT
+<enT0346>That was what it sounded like.
+<ptT0346>That was what it sounded like.
+
+//TEXT 【Female Student】
+<enT0347>"Aaahhh!"
+<ptT0347>"Aaahhh!"
+
+//TEXT 【Male Student】
+<enT0348>"Someone jumped off the roof!"
+<ptT0348>"Someone jumped off the roof!"
+
+//TEXT 【Zakuro】
+<enT0349>"He... jumped..."
+<ptT0349>"He... jumped..."
+
+//TEXT 【Zakuro】
+<enT0350>"Someone fell from the sky... and died."
+<ptT0350>"Someone fell from the sky... and died."
+
+//TEXT 【Zakuro】
+<enT0351>"Fell from the sky... and splattered on the ground..."
+<ptT0351>"Fell from the sky... and splattered on the ground..."
+
+//TEXT 【Male Student】
+<enT0352>"Seriously?!"
+<ptT0352>"Seriously?!"
+
+//TEXT 【Zakuro】
+<enT0353>"Yes, seriously... I saw it..."
+<ptT0353>"Yes, seriously... I saw it..."
+
+//TEXT 【Male Student】
+<enT0354>"Huh? What happened?"
+<ptT0354>"Huh? What happened?"
+
+//TEXT 【Male Student】
+<enT0355>"What, really?!"
+<ptT0355>"What, really?!"
+
+//TEXT 【Female Student】
+<enT0356>"Where, where?"
+<ptT0356>"Where, where?"
+
+//TEXT 【Zakuro】
+<enT0357>"Everyone crowded at the window..."
+<ptT0357>"Everyone crowded at the window..."
+
+//TEXT 【Zakuro】
+<enT0358>"Like flies to carrion..."
+<ptT0358>"Like flies to carrion..."
+
+//TEXT 【Zakuro】
+<enT0359>"They're all so happy..."
+<ptT0359>"They're all so happy..."
+
+//TEXT 【Zakuro】
+<enT0360>"They love the smell of rotting flesh..."
+<ptT0360>"They love the smell of rotting flesh..."
+
+//TEXT 【Zakuro】
+<enT0361>"They're all insane... They're all so filthy... They all look like worms..."
+<ptT0361>"They're all insane... They're all so filthy... They all look like worms..."
+
+//TEXT 【Zakuro】
+<enT0362>"That's why... they're all having so much fun..."
+<ptT0362>"That's why... they're all having so much fun..."
+
+//TEXT 【Zakuro】
+<enT0363>"Because they're just bugs..."
+<ptT0363>"Because they're just bugs..."
+
+//TEXT 【Zakuro】
+<enT0364>"Because they're the cockroaches... that are tormenting me..."
+<ptT0364>"Because they're the cockroaches... that are tormenting me..."
+
+//TEXT 【Male Student】
+<enT0365>"That's..."
+<ptT0365>"That's..."
+
+//TEXT 【Male Student】
+<enT0366>"Is that... Shiroyama, from class three?"
+<ptT0366>"Is that... Shiroyama, from class three?"
+
+//TEXT 【Male Student】
+<enT0367>"That's him! That's Shiroyama!"
+<ptT0367>"That's him! That's Shiroyama!"
+
+//TEXT 【Female Student】
+<enT0368>"Why did he jump?"
+<ptT0368>"Why did he jump?"
+
+//TEXT 【Male Student】
+<enT0369>"Like I know!"
+<ptT0369>"Like I know!"
+
+//TEXT 【Zakuro】
+<enT0370>"Shiroyama?"
+<ptT0370>"Shiroyama?"
+
+//TEXT 【Zakuro】
+<enT0371>"Oh, Akasaka Megu's boyfriend..."
+<ptT0371>"Oh, Akasaka Megu's boyfriend..."
+
+//TEXT 【Zakuro】
+<enT0372>"He died..."
+<ptT0372>"He died..."
+
+//TEXT 【Zakuro】
+<enT0373>"So that's who..."
+<ptT0373>"So that's who..."
+
+//TEXT 【Zakuro】
+<enT0374>"That's it... That makes sense..."
+<ptT0374>"That's it... That makes sense..."
+
+//TEXT 【Zakuro】
+<enT0375>"He was one of the people who raped me, after all."
+<ptT0375>"He was one of the people who raped me, after all."
+
+//TEXT 【Zakuro】
+<enT0376>"He was one of the people who trampled me underfoot."
+<ptT0376>"He was one of the people who trampled me underfoot."
+
+//TEXT 【Zakuro】
+<enT0377>"I'm the one who's correct..."
+<ptT0377>"I'm the one who's correct..."
+
+//TEXT 【Zakuro】
+<enT0378>"He's a cockroach... He couldn't forgive me for being better than him..."
+<ptT0378>"He's a cockroach... He couldn't forgive me for being better than him..."
+
+//TEXT 【Zakuro】
+<enT0379>"So will the others die too?"
+<ptT0379>"So will the others die too?"
+
+//TEXT 【Zakuro】
+<enT0380>"The ones that were with him... What about that guy called Numada? And of course, Akasaka Megu and Kitami Satoko..."
+<ptT0380>"The ones that were with him... What about that guy called Numada? And of course, Akasaka Megu and Kitami Satoko..."
+
+//TEXT 【Zakuro】
+<enT0381>"They'll all die, right?"
+<ptT0381>"They'll all die, right?"
+
+//TEXT 【Zakuro】
+<enT0382>"Hehe... Hehehehehe... Die... Die..."
+<ptT0382>"Hehe... Hehehehehe... Die... Die..."
+
+//TEXT 【Zakuro】
+<enT0383>"Smear your brains across the sidewalk... Break every bone in your body... Not like it'll be a big loss. All you fuckers have are cockroach brains, after all."
+<ptT0383>"Smear your brains across the sidewalk... Break every bone in your body... Not like it'll be a big loss. All you fuckers have are cockroach brains, after all."
+
+//TEXT 【Zakuro】
+<enT0384>"Your bodies are full of excrement."
+<ptT0384>"Your bodies are full of excrement."
+
+//TEXT 【Zakuro】
+<enT0385>"We don't need you... You just stink."
+<ptT0385>"We don't need you... You just stink."
+
+//TEXT
+<enT0386>'One of your problems will disappear tomorrow.'
+<ptT0386>'One of your problems will disappear tomorrow.'
+
+//TEXT
+<enT0387>One of my problems...
+<ptT0387>One of my problems...
+
+//TEXT
+<enT0388>He was one of my problems...
+<ptT0388>He was one of my problems...
+
+//TEXT
+<enT0389>But it's not enough...
+<ptT0389>But it's not enough...
+
+//TEXT
+<enT0390>I have more than one problem...
+<ptT0390>I have more than one problem...
+
+//TEXT
+<enT0391>I have far more than that.
+<ptT0391>I have far more than that.
+
+//TEXT
+<enT0392>Far more people... have to die.
+<ptT0392>Far more people... have to die.
+
+//TEXT
+<enT0393>Far more worms have to be crushed.
+<ptT0393>Far more worms have to be crushed.
+
+//TEXT 【Zakuro】
+<enT0394>"Ah... I have to send her a response."
+<ptT0394>"Ah... I have to send her a response."
+
+//TEXT 【Zakuro】
+<enT0395>"Um... Oh, here it is. Usami-san's message..."
+<ptT0395>"Um... Oh, here it is. Usami-san's message..."
+
+//TEXT 【Zakuro】
+<enT0396>"Um..."
+<ptT0396>"Um..."
+
+//TEXT 【Zakuro】
+<enT0397>"Thank you very much... Thanks to you, one of my problems has been solved."
+<ptT0397>"Thank you very much... Thanks to you, one of my problems has been solved."
+
+//TEXT 【Zakuro】
+<enT0398>"But I still have many more problems. Will they be solved too?"
+<ptT0398>"But I still have many more problems. Will they be solved too?"
+
+//TEXT 【Zakuro】
+<enT0399>"If they aren't solved, I might just go crazy."
+<ptT0399>"If they aren't solved, I might just go crazy."
+
+//TEXT 【Zakuro】
+<enT0400>"I'm eagerly awaiting your next message."
+<ptT0400>"I'm eagerly awaiting your next message."
+
+//TEXT 【Zakuro】
+<enT0401>"Ehehehe..."
+<ptT0401>"Ehehehe..."
+
+//TEXT 【Ayana】
+<enT0402>"Takashima-san..."
+<ptT0402>"Takashima-san..."
+
+//TEXT 【Zakuro】
+<enT0403>"Huh?"
+<ptT0403>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0404>"You're... Otonashi Ayana-san..."
+<ptT0404>"You're... Otonashi Ayana-san..."
+
+//TEXT 【Ayana】
+<enT0405>"Takashima-san, are you going that way?"
+<ptT0405>"Takashima-san, are you going that way?"
+
+//TEXT 【Zakuro】
+<enT0406>"Where do you think I'm going?"
+<ptT0406>"Where do you think I'm going?"
+
+//TEXT 【Ayana】
+<enT0407>"Down the wrong path."
+<ptT0407>"Down the wrong path."
+
+//TEXT 【Zakuro】
+<enT0408>"Huh? What are you talking about? Now you're telling me I'm wrong too..."
+<ptT0408>"Huh? What are you talking about? Now you're telling me I'm wrong too..."
+
+//TEXT 【Ayana】
+<enT0409>"Shiroyama-kun's death isn't what you think it is."
+<ptT0409>"Shiroyama-kun's death isn't what you think it is."
+
+//TEXT 【Zakuro】
+<enT0410>"Then what is it?"
+<ptT0410>"Then what is it?"
+
+//TEXT 【Ayana】
+<enT0411>"Numada-kun and Shiroyama-kun always do chin-ups on the roof."
+<ptT0411>"Numada-kun and Shiroyama-kun always do chin-ups on the roof."
+
+//TEXT 【Zakuro】
+<enT0412>"Chin-ups? Hmm, really..."
+<ptT0412>"Chin-ups? Hmm, really..."
+
+//TEXT 【Zakuro】
+<enT0413>"So then... what do you think I believe about his death?"
+<ptT0413>"So then... what do you think I believe about his death?"
+
+//TEXT 【Ayana】
+<enT0414>"That was just an accident. It would be better if you just believed it was an accident."
+<ptT0414>"That was just an accident. It would be better if you just believed it was an accident."
+
+//TEXT 【Zakuro】
+<enT0415>"Is there such a thing as just an accident? Can't you come up with plenty of reasons leading to any accident?"
+<ptT0415>"Is there such a thing as just an accident? Can't you come up with plenty of reasons leading to any accident?"
+
+//TEXT 【Ayana】
+<enT0416>"If you don't stop here... everything will begin to move."
+<ptT0416>"If you don't stop here... everything will begin to move."
+
+//TEXT 【Zakuro】
+<enT0417>"Begin to move?"
+<ptT0417>"Begin to move?"
+
+//TEXT 【Ayana】
+<enT0418>"Your choice is probably... incredibly dangerous."
+<ptT0418>"Your choice is probably... incredibly dangerous."
+
+//TEXT 【Zakuro】
+<enT0419>"Dangerous?"
+<ptT0419>"Dangerous?"
+
+//TEXT 【Ayana】
+<enT0420>"Yes... Your choice will affect the fate of many other people."
+<ptT0420>"Yes... Your choice will affect the fate of many other people."
+
+//TEXT 【Zakuro】
+<enT0421>"So I really can influence people's fates..."
+<ptT0421>"So I really can influence people's fates..."
+
+//TEXT 【Zakuro】
+<enT0422>"That's it. It must be because I'm different from these cockroaches."
+<ptT0422>"That's it. It must be because I'm different from these cockroaches."
+
+//TEXT 【Ayana】
+<enT0423>"You're wrong."
+<ptT0423>"You're wrong."
+
+//TEXT 【Zakuro】
+<enT0424>"No, I'm not."
+<ptT0424>"No, I'm not."
+
+//TEXT 【Ayana】
+<enT0425>"..."
+<ptT0425>"..."
+
+//TEXT 【Zakuro】
+<enT0426>"I'm correct!"
+<ptT0426>"I'm correct!"
+
+//TEXT 【Zakuro】
+<enT0427>"That's why he died!"
+<ptT0427>"That's why he died!"
+
+//TEXT 【Zakuro】
+<enT0428>"That's it! That's why he died!"
+<ptT0428>"That's it! That's why he died!"
+
+//TEXT
+<enT0429>I'm correct.
+<ptT0429>I'm correct.
+
+//TEXT
+<enT0430>I'm not wrong.
+<ptT0430>I'm not wrong.
+
+//TEXT
+<enT0431>In a world of cockroaches, only I am human.
+<ptT0431>In a world of cockroaches, only I am human.
+
+//TEXT
+<enT0432>That's why I suffer.
+<ptT0432>That's why I suffer.
+
+//TEXT
+<enT0433>They should all die.
+<ptT0433>They should all die.
+
+//TEXT
+<enT0434>Die painfully...
+<ptT0434>Die painfully...
+
+//TEXT 【Zakuro】
+<enT0435>"A text..."
+<ptT0435>"A text..."
+
+//TEXT 【Zakuro】
+<enT0436>"A text message..."
+<ptT0436>"A text message..."
+
+//TEXT 【Zakuro】
+<enT0437>"Ah!"
+<ptT0437>"Ah!"
+
+//TEXT
+<enT0438>I quickly pulled out my phone.
+<ptT0438>I quickly pulled out my phone.
+
+//TEXT
+<enT0439>Usami had already replied to my message.
+<ptT0439>Usami had already replied to my message.
+
+//TEXT 【Zakuro】
+<enT0440>"Um... Oh, it really is from Usami..."
+<ptT0440>"Um... Oh, it really is from Usami..."
+
+//TEXT 【Zakuro】
+<enT0441>"..."
+<ptT0441>"..."
+
+//TEXT 【Zakuro】
+<enT0442>"What's this?"
+<ptT0442>"What's this?"
+
+//TEXT 【Zakuro】
+<enT0443>"Takashima-san, you're wrong..."
+<ptT0443>"Takashima-san, you're wrong..."
+
+//TEXT 【Zakuro】
+<enT0444>"Wha―?!"
+<ptT0444>"Wha―?!"
+
+//TEXT
+<enT0445>This again...
+<ptT0445>This again...
+
+//TEXT
+<enT0446>So she's... the same.
+<ptT0446>So she's... the same.
+
+//TEXT
+<enT0447>...
+<ptT0447>...
+
+//TEXT 【Zakuro】
+<enT0448>"..."
+<ptT0448>"..."
+
+//TEXT
+<enT0449>Then I skimmed over the rest of the message.
+<ptT0449>Then I skimmed over the rest of the message.
+
+//TEXT
+<enT0450>...
+<ptT0450>...
+
+//TEXT 【Zakuro】
+<enT0451>"Huh?"
+<ptT0451>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0452>"So that's... my mistake..."
+<ptT0452>"So that's... my mistake..."
+
+//TEXT 【Zakuro】
+<enT0453>"I..."
+<ptT0453>"I..."
+
+//TEXT
+<enT0454>So...
+<ptT0454>So...
+
+//TEXT
+<enT0455>I was mistaken... That's all...
+<ptT0455>I was mistaken... That's all...
+
+//TEXT
+<enT0456>I have to meet her...
+<ptT0456>I have to meet her...
+
+//TEXT
+<enT0457>I have to... meet my allies...
+<ptT0457>I have to... meet my allies...
+
+//TEXT
+<enT0458>I must.
+<ptT0458>I must.
+
+//TEXT
+<enT0459>I must meet them.
+<ptT0459>I must meet them.
+
+//TEXT
+<enT0460>So that I can learn the true reason behind my mistake.
+<ptT0460>So that I can learn the true reason behind my mistake.
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0710_trans.bss
+<ptZ0001>3_0710_trans.bss
+
+//OTHER
+<enZ0002>July 10th
+<ptZ0002>July 10th
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>dayzk0710
+<ptZ0004>dayzk0710
+
+//OTHER
+<enZ0005>bgm101
+<ptZ0005>bgm101
+
+//OTHER
+<enZ0006>zaku_003401
+<ptZ0006>zaku_003401
+
+//OTHER
+<enZ0007>zaku_003402
+<ptZ0007>zaku_003402
+
+//OTHER
+<enZ0008>zaku_003403
+<ptZ0008>zaku_003403
+
+//OTHER
+<enZ0009>st0050
+<ptZ0009>st0050
+
+//OTHER
+<enZ0010>mg0051
+<ptZ0010>mg0051
+
+//OTHER
+<enZ0011>map016
+<ptZ0011>map016
+
+//OTHER
+<enZ0012>bg1014a
+<ptZ0012>bg1014a
+
+//OTHER
+<enZ0013>megu_000598
+<ptZ0013>megu_000598
+
+//OTHER
+<enZ0014>st0001
+<ptZ0014>st0001
+
+//OTHER
+<enZ0015>sato_000406
+<ptZ0015>sato_000406
+
+//OTHER
+<enZ0016>zaku_003404
+<ptZ0016>zaku_003404
+
+//OTHER
+<enZ0017>st0006
+<ptZ0017>st0006
+
+//OTHER
+<enZ0018>sato_000407
+<ptZ0018>sato_000407
+
+//OTHER
+<enZ0019>megu_000599
+<ptZ0019>megu_000599
+
+//OTHER
+<enZ0020>st0010
+<ptZ0020>st0010
+
+//OTHER
+<enZ0021>sato_000408
+<ptZ0021>sato_000408
+
+//OTHER
+<enZ0022>mg0005
+<ptZ0022>mg0005
+
+//OTHER
+<enZ0023>megu_000600
+<ptZ0023>megu_000600
+
+//OTHER
+<enZ0024>sato_000409
+<ptZ0024>sato_000409
+
+//OTHER
+<enZ0025>mg0004
+<ptZ0025>mg0004
+
+//OTHER
+<enZ0026>megu_000601
+<ptZ0026>megu_000601
+
+//OTHER
+<enZ0027>sato_000410
+<ptZ0027>sato_000410
+
+//OTHER
+<enZ0028>zaku_003405
+<ptZ0028>zaku_003405
+
+//OTHER
+<enZ0029>mg0001
+<ptZ0029>mg0001
+
+//OTHER
+<enZ0030>megu_000602
+<ptZ0030>megu_000602
+
+//OTHER
+<enZ0031>sato_000411
+<ptZ0031>sato_000411
+
+//OTHER
+<enZ0032>mg0000
+<ptZ0032>mg0000
+
+//OTHER
+<enZ0033>megu_000603
+<ptZ0033>megu_000603
+
+//OTHER
+<enZ0034>megu_000604
+<ptZ0034>megu_000604
+
+//OTHER
+<enZ0035>sato_000412
+<ptZ0035>sato_000412
+
+//OTHER
+<enZ0036>mg0002
+<ptZ0036>mg0002
+
+//OTHER
+<enZ0037>megu_000605
+<ptZ0037>megu_000605
+
+//OTHER
+<enZ0038>megu_000606
+<ptZ0038>megu_000606
+
+//OTHER
+<enZ0039>sato_000413
+<ptZ0039>sato_000413
+
+//OTHER
+<enZ0040>megu_000607
+<ptZ0040>megu_000607
+
+//OTHER
+<enZ0041>st0008
+<ptZ0041>st0008
+
+//OTHER
+<enZ0042>sato_000414
+<ptZ0042>sato_000414
+
+//OTHER
+<enZ0043>mg0010
+<ptZ0043>mg0010
+
+//OTHER
+<enZ0044>megu_000608
+<ptZ0044>megu_000608
+
+//OTHER
+<enZ0045>zaku_003406
+<ptZ0045>zaku_003406
+
+//OTHER
+<enZ0046>Black
+<ptZ0046>Black
+
+//OTHER
+<enZ0047>tkj3000
+<ptZ0047>tkj3000
+
+//OTHER
+<enZ0048>black
+<ptZ0048>black
+
+//OTHER
+<enZ0049>ev1107b
+<ptZ0049>ev1107b
+
+//OTHER
+<enZ0050>zaku_003407
+<ptZ0050>zaku_003407
+
+//OTHER
+<enZ0051>zaku_003408
+<ptZ0051>zaku_003408
+
+//OTHER
+<enZ0052>zaku_003409
+<ptZ0052>zaku_003409
+
+//OTHER
+<enZ0053>zaku_003410
+<ptZ0053>zaku_003410
+
+//OTHER
+<enZ0054>zaku_003411
+<ptZ0054>zaku_003411
+
+//OTHER
+<enZ0055>bggod01
+<ptZ0055>bggod01
+
+//OTHER
+<enZ0056>White
+<ptZ0056>White
+
+//OTHER
+<enZ0057>sugargod012
+<ptZ0057>sugargod012
+
+//OTHER
+<enZ0058>zaku_003412
+<ptZ0058>zaku_003412
+
+//OTHER
+<enZ0059>sugargod01
+<ptZ0059>sugargod01
+
+//OTHER
+<enZ0060>zaku_003413
+<ptZ0060>zaku_003413
+
+//OTHER
+<enZ0061>sugargod022
+<ptZ0061>sugargod022
+
+//OTHER
+<enZ0062>god_sp
+<ptZ0062>god_sp
+
+//OTHER
+<enZ0063>zaku_003414
+<ptZ0063>zaku_003414
+
+//OTHER
+<enZ0064>zaku_003415
+<ptZ0064>zaku_003415
+
+//OTHER
+<enZ0065>zaku_003416
+<ptZ0065>zaku_003416
+
+//OTHER
+<enZ0066>sugargod0117
+<ptZ0066>sugargod0117
+
+//OTHER
+<enZ0067>zaku_003417
+<ptZ0067>zaku_003417
+
+//OTHER
+<enZ0068>sugargod0185
+<ptZ0068>sugargod0185
+
+//OTHER
+<enZ0069>sugargod032
+<ptZ0069>sugargod032
+
+//OTHER
+<enZ0070>sugargod01y
+<ptZ0070>sugargod01y
+
+//OTHER
+<enZ0071>zaku_003418
+<ptZ0071>zaku_003418
+
+//OTHER
+<enZ0072>sugargod03s
+<ptZ0072>sugargod03s
+
+//OTHER
+<enZ0073>zaku_003419
+<ptZ0073>zaku_003419
+
+//OTHER
+<enZ0074>zaku_003420
+<ptZ0074>zaku_003420
+
+//OTHER
+<enZ0075>zaku_003421
+<ptZ0075>zaku_003421
+
+//OTHER
+<enZ0076>sugargod03
+<ptZ0076>sugargod03
+
+//OTHER
+<enZ0077>zaku_003422
+<ptZ0077>zaku_003422
+
+//OTHER
+<enZ0078>zaku_003423
+<ptZ0078>zaku_003423
+
+//OTHER
+<enZ0079>zaku_003424
+<ptZ0079>zaku_003424
+
+//OTHER
+<enZ0080>zaku_003425
+<ptZ0080>zaku_003425
+
+//OTHER
+<enZ0081>zaku_003426
+<ptZ0081>zaku_003426
+
+//OTHER
+<enZ0082>zaku_003427
+<ptZ0082>zaku_003427
+
+//OTHER
+<enZ0083>map034
+<ptZ0083>map034
+
+//OTHER
+<enZ0084>bg1010a
+<ptZ0084>bg1010a
+
+//OTHER
+<enZ0085>zaku_003428
+<ptZ0085>zaku_003428
+
+//OTHER
+<enZ0086>bggod03c
+<ptZ0086>bggod03c
+
+//OTHER
+<enZ0087>bg1015a
+<ptZ0087>bg1015a
+
+//OTHER
+<enZ0088>map001
+<ptZ0088>map001
+
+//OTHER
+<enZ0089>bg1016a
+<ptZ0089>bg1016a
+
+//OTHER
+<enZ0090>zaku_003429_a
+<ptZ0090>zaku_003429_a
+
+//OTHER
+<enZ0091>ev6009c
+<ptZ0091>ev6009c
+
+//OTHER
+<enZ0092>taku_005232
+<ptZ0092>taku_005232
+
+//OTHER
+<enZ0093>zaku_003430
+<ptZ0093>zaku_003430
+
+//OTHER
+<enZ0094>taku_005233
+<ptZ0094>taku_005233
+
+//OTHER
+<enZ0095>zaku_003431
+<ptZ0095>zaku_003431
+
+//OTHER
+<enZ0096>taku_005234
+<ptZ0096>taku_005234
+
+//OTHER
+<enZ0097>taku_005235
+<ptZ0097>taku_005235
+
+//OTHER
+<enZ0098>taku_005236_a
+<ptZ0098>taku_005236_a
+
+//OTHER
+<enZ0099>zaku_003432
+<ptZ0099>zaku_003432
+
+//OTHER
+<enZ0100>taku_005237
+<ptZ0100>taku_005237
+
+//OTHER
+<enZ0101>zaku_003433
+<ptZ0101>zaku_003433
+
+//OTHER
+<enZ0102>taku_005238
+<ptZ0102>taku_005238
+
+//OTHER
+<enZ0103>taku_005239
+<ptZ0103>taku_005239
+
+//OTHER
+<enZ0104>zaku_003434
+<ptZ0104>zaku_003434
+
+//OTHER
+<enZ0105>taku_005240
+<ptZ0105>taku_005240
+
+//OTHER
+<enZ0106>taku_005241
+<ptZ0106>taku_005241
+
+//OTHER
+<enZ0107>taku_005242
+<ptZ0107>taku_005242
+
+//OTHER
+<enZ0108>taku_005243
+<ptZ0108>taku_005243
+
+//OTHER
+<enZ0109>ev6009d
+<ptZ0109>ev6009d
+
+//OTHER
+<enZ0110>zaku_003435
+<ptZ0110>zaku_003435
+
+//OTHER
+<enZ0111>zaku_003436
+<ptZ0111>zaku_003436
+
+//OTHER
+<enZ0112>zaku_003437
+<ptZ0112>zaku_003437
+
+//OTHER
+<enZ0113>zaku_003438
+<ptZ0113>zaku_003438
+
+//OTHER
+<enZ0114>se071
+<ptZ0114>se071
+
+//OTHER
+<enZ0115>map022
+<ptZ0115>map022
+
+//OTHER
+<enZ0116>sr0042
+<ptZ0116>sr0042
+
+//OTHER
+<enZ0117>tkj0006a
+<ptZ0117>tkj0006a
+
+//OTHER
+<enZ0118>tkj0009a
+<ptZ0118>tkj0009a
+
+//OTHER
+<enZ0119>tkj0007a
+<ptZ0119>tkj0007a
+
+//OTHER
+<enZ0120>zaku_003439
+<ptZ0120>zaku_003439
+
+//OTHER
+<enZ0121>tkj0000a
+<ptZ0121>tkj0000a
+
+//OTHER
+<enZ0122>sr0000
+<ptZ0122>sr0000
+
+//OTHER
+<enZ0123>sr0005
+<ptZ0123>sr0005
+
+//OTHER
+<enZ0124>tkj0001a
+<ptZ0124>tkj0001a
+
+//OTHER
+<enZ0125>zaku_003440
+<ptZ0125>zaku_003440
+
+//OTHER
+<enZ0126>zaku_003441
+<ptZ0126>zaku_003441
+
+//OTHER
+<enZ0127>zaku_003442
+<ptZ0127>zaku_003442
+
+//OTHER
+<enZ0128>zaku_003443
+<ptZ0128>zaku_003443
+
+//OTHER
+<enZ0129>zaku_003444
+<ptZ0129>zaku_003444
+
+//OTHER
+<enZ0130>zaku_003445
+<ptZ0130>zaku_003445
+
+//OTHER
+<enZ0131>ay0000a
+<ptZ0131>ay0000a
+
+//OTHER
+<enZ0132>aya_000795
+<ptZ0132>aya_000795
+
+//OTHER
+<enZ0133>zaku_003446
+<ptZ0133>zaku_003446
+
+//OTHER
+<enZ0134>ay0001a
+<ptZ0134>ay0001a
+
+//OTHER
+<enZ0135>aya_000796
+<ptZ0135>aya_000796
+
+//OTHER
+<enZ0136>zaku_003447
+<ptZ0136>zaku_003447
+
+//OTHER
+<enZ0137>zaku_003448
+<ptZ0137>zaku_003448
+
+//OTHER
+<enZ0138>zaku_003449
+<ptZ0138>zaku_003449
+
+//OTHER
+<enZ0139>bggod03a
+<ptZ0139>bggod03a
+
+//OTHER
+<enZ0140>sugargod02b
+<ptZ0140>sugargod02b
+
+//OTHER
+<enZ0141>zaku_003450
+<ptZ0141>zaku_003450
+
+//OTHER
+<enZ0142>ay0000
+<ptZ0142>ay0000
+
+//OTHER
+<enZ0143>aya_000797
+<ptZ0143>aya_000797
+
+//OTHER
+<enZ0144>godl18b2
+<ptZ0144>godl18b2
+
+//OTHER
+<enZ0145>aya_000798
+<ptZ0145>aya_000798
+
+//OTHER
+<enZ0146>zaku_003451
+<ptZ0146>zaku_003451
+
+//OTHER
+<enZ0147>sugargod01b
+<ptZ0147>sugargod01b
+
+//OTHER
+<enZ0148>aya_000799
+<ptZ0148>aya_000799
+
+//OTHER
+<enZ0149>zaku_003452
+<ptZ0149>zaku_003452
+
+//OTHER
+<enZ0150>aya_000800
+<ptZ0150>aya_000800
+
+//OTHER
+<enZ0151>zaku_003453
+<ptZ0151>zaku_003453
+
+//OTHER
+<enZ0152>godw108_sp
+<ptZ0152>godw108_sp
+
+//OTHER
+<enZ0153>aya_000801
+<ptZ0153>aya_000801
+
+//OTHER
+<enZ0154>ay0002a
+<ptZ0154>ay0002a
+
+//OTHER
+<enZ0155>aya_000802_a
+<ptZ0155>aya_000802_a
+
+//OTHER
+<enZ0156>ay0002
+<ptZ0156>ay0002
+
+//OTHER
+<enZ0157>aya_000803
+<ptZ0157>aya_000803
+
+//OTHER
+<enZ0158>ay0011
+<ptZ0158>ay0011
+
+//OTHER
+<enZ0159>aya_000804
+<ptZ0159>aya_000804
+
+//OTHER
+<enZ0160>zaku_003454
+<ptZ0160>zaku_003454
+
+//OTHER
+<enZ0161>sugargod022b
+<ptZ0161>sugargod022b
+
+//OTHER
+<enZ0162>sugargod012b
+<ptZ0162>sugargod012b
+
+//OTHER
+<enZ0163>zaku_003455
+<ptZ0163>zaku_003455
+
+//OTHER
+<enZ0164>aya_000805
+<ptZ0164>aya_000805
+
+//OTHER
+<enZ0165>zaku_003456
+<ptZ0165>zaku_003456
+
+//OTHER
+<enZ0166>zaku_003457
+<ptZ0166>zaku_003457
+
+//OTHER
+<enZ0167>zaku_003458
+<ptZ0167>zaku_003458
+
+//OTHER
+<enZ0168>zaku_003459
+<ptZ0168>zaku_003459
+
+//OTHER
+<enZ0169>zaku_003460
+<ptZ0169>zaku_003460
+
+//OTHER
+<enZ0170>god18c
+<ptZ0170>god18c
+
+//OTHER
+<enZ0171>se089
+<ptZ0171>se089
+
+//OTHER
+<enZ0172>zaku_003461
+<ptZ0172>zaku_003461
+
+//OTHER
+<enZ0173>zaku_003462
+<ptZ0173>zaku_003462
+
+//OTHER
+<enZ0174>aya_000806
+<ptZ0174>aya_000806
+
+//OTHER
+<enZ0175>zaku_003463
+<ptZ0175>zaku_003463
+
+//OTHER
+<enZ0176>sugargod032b
+<ptZ0176>sugargod032b
+
+//OTHER
+<enZ0177>zaku_003464
+<ptZ0177>zaku_003464
+
+//OTHER
+<enZ0178>zaku_003465
+<ptZ0178>zaku_003465
+
+//OTHER
+<enZ0179>zaku_003466
+<ptZ0179>zaku_003466
+
+//OTHER
+<enZ0180>zaku_003467
+<ptZ0180>zaku_003467
+
+//OTHER
+<enZ0181>zaku_003468
+<ptZ0181>zaku_003468
+
+//OTHER
+<enZ0182>zaku_003469
+<ptZ0182>zaku_003469
+
+//OTHER
+<enZ0183>zaku_003470
+<ptZ0183>zaku_003470
+
+//OTHER
+<enZ0184>aya_000807
+<ptZ0184>aya_000807
+
+//OTHER
+<enZ0185>zaku_003471
+<ptZ0185>zaku_003471
+
+//OTHER
+<enZ0186>aya_000808
+<ptZ0186>aya_000808
+
+//OTHER
+<enZ0187>zaku_003472
+<ptZ0187>zaku_003472
+
+//OTHER
+<enZ0188>aya_000809
+<ptZ0188>aya_000809
+
+//OTHER
+<enZ0189>zaku_003473
+<ptZ0189>zaku_003473
+
+//OTHER
+<enZ0190>aya_000810
+<ptZ0190>aya_000810
+
+//OTHER
+<enZ0191>zaku_003474
+<ptZ0191>zaku_003474
+
+//OTHER
+<enZ0192>zaku_003475
+<ptZ0192>zaku_003475
+
+//OTHER
+<enZ0193>aya_000811
+<ptZ0193>aya_000811
+
+//OTHER
+<enZ0194>zaku_003476
+<ptZ0194>zaku_003476
+
+//OTHER
+<enZ0195>zaku_003477
+<ptZ0195>zaku_003477
+
+//OTHER
+<enZ0196>bg1010b
+<ptZ0196>bg1010b
+
+//OTHER
+<enZ0197>zaku_003478
+<ptZ0197>zaku_003478
+
+//OTHER
+<enZ0198>zaku_003479
+<ptZ0198>zaku_003479
+
+//OTHER
+<enZ0199>zaku_003480
+<ptZ0199>zaku_003480
+
+//OTHER
+<enZ0200>zaku_003481
+<ptZ0200>zaku_003481
+
+//OTHER
+<enZ0201>zaku_003482
+<ptZ0201>zaku_003482
+
+//OTHER
+<enZ0202>sp0040a
+<ptZ0202>sp0040a
+
+//OTHER
+<enZ0203>zaku_003483
+<ptZ0203>zaku_003483
+
+//OTHER
+<enZ0204>zaku_003484
+<ptZ0204>zaku_003484
+
+//OTHER
+<enZ0205>zaku_003485
+<ptZ0205>zaku_003485
+
+//OTHER
+<enZ0206>zaku_003486
+<ptZ0206>zaku_003486
+
+//OTHER
+<enZ0207>zaku_003487
+<ptZ0207>zaku_003487
+
+//OTHER
+<enZ0208>zaku_003488
+<ptZ0208>zaku_003488
+
+//OTHER
+<enZ0209>zaku_003489
+<ptZ0209>zaku_003489
+
+//OTHER
+<enZ0210>zaku_003490
+<ptZ0210>zaku_003490
+
+//OTHER
+<enZ0211>zaku_003491
+<ptZ0211>zaku_003491
+
+//OTHER
+<enZ0212>zaku_003492
+<ptZ0212>zaku_003492
+
+//OTHER
+<enZ0213>map027
+<ptZ0213>map027
+
+//OTHER
+<enZ0214>sp0076a
+<ptZ0214>sp0076a
+
+//OTHER
+<enZ0215>sp0040b
+<ptZ0215>sp0040b
+
+//OTHER
+<enZ0216>se606
+<ptZ0216>se606
+
+//OTHER
+<enZ0217>sp0076b
+<ptZ0217>sp0076b
+
+//OTHER
+<enZ0218>josia_000088_a
+<ptZ0218>josia_000088_a
+
+//OTHER
+<enZ0219>zaku_003493
+<ptZ0219>zaku_003493
+
+//OTHER
+<enZ0220>zaku_003494
+<ptZ0220>zaku_003494
+
+//OTHER
+<enZ0221>zaku_003495
+<ptZ0221>zaku_003495
+
+//OTHER
+<enZ0222>zaku_003496
+<ptZ0222>zaku_003496
+
+//OTHER
+<enZ0223>josid_000002
+<ptZ0223>josid_000002
+
+//OTHER
+<enZ0224>zaku_003497
+<ptZ0224>zaku_003497
+
+//OTHER
+<enZ0225>zaku_003498
+<ptZ0225>zaku_003498
+
+//OTHER
+<enZ0226>zaku_003499
+<ptZ0226>zaku_003499
+
+//OTHER
+<enZ0227>zaku_003500
+<ptZ0227>zaku_003500
+
+//OTHER
+<enZ0228>zaku_003501
+<ptZ0228>zaku_003501
+
+//OTHER
+<enZ0229>zaku_003502
+<ptZ0229>zaku_003502
+
+//OTHER
+<enZ0230>zaku_003503
+<ptZ0230>zaku_003503
+
+//OTHER
+<enZ0231>zaku_003504
+<ptZ0231>zaku_003504
+
+//OTHER
+<enZ0232>josie_000002
+<ptZ0232>josie_000002
+
+//OTHER
+<enZ0233>zaku_003505
+<ptZ0233>zaku_003505
+
+//OTHER
+<enZ0234>zaku_003506
+<ptZ0234>zaku_003506
+
+//OTHER
+<enZ0235>zaku_003507
+<ptZ0235>zaku_003507
+
+//OTHER
+<enZ0236>zaku_003508
+<ptZ0236>zaku_003508
+
+//OTHER
+<enZ0237>zaku_003509
+<ptZ0237>zaku_003509
+
+//OTHER
+<enZ0238>zaku_003510
+<ptZ0238>zaku_003510
+
+//OTHER
+<enZ0239>zaku_003511
+<ptZ0239>zaku_003511
+
+//OTHER
+<enZ0240>zaku_003512
+<ptZ0240>zaku_003512
+
+//OTHER
+<enZ0241>zaku_003513
+<ptZ0241>zaku_003513
+
+//OTHER
+<enZ0242>zaku_003514
+<ptZ0242>zaku_003514
+
+//OTHER
+<enZ0243>zaku_003515
+<ptZ0243>zaku_003515
+
+//OTHER
+<enZ0244>zaku_003516
+<ptZ0244>zaku_003516
+
+//OTHER
+<enZ0245>zaku_003517
+<ptZ0245>zaku_003517
+
+//OTHER
+<enZ0246>zaku_003518
+<ptZ0246>zaku_003518
+
+//OTHER
+<enZ0247>zaku_003519
+<ptZ0247>zaku_003519
+
+//OTHER
+<enZ0248>zaku_003520
+<ptZ0248>zaku_003520
+
+//OTHER
+<enZ0249>sp0038
+<ptZ0249>sp0038
+
+//OTHER
+<enZ0250>zaku_003521
+<ptZ0250>zaku_003521
+
+//OTHER
+<enZ0251>zaku_003522
+<ptZ0251>zaku_003522
+
+//OTHER
+<enZ0252>zaku_003523
+<ptZ0252>zaku_003523
+
+//OTHER
+<enZ0253>zaku_003524
+<ptZ0253>zaku_003524
+
+//OTHER
+<enZ0254>zaku_003525
+<ptZ0254>zaku_003525
+
+//OTHER
+<enZ0255>zaku_003526
+<ptZ0255>zaku_003526
+
+//OTHER
+<enZ0256>zaku_003527
+<ptZ0256>zaku_003527
+
+//OTHER
+<enZ0257>se555
+<ptZ0257>se555
+
+//OTHER
+<enZ0258>zaku_003528
+<ptZ0258>zaku_003528
+
+//OTHER
+<enZ0259>aya_000812
+<ptZ0259>aya_000812
+
+//OTHER
+<enZ0260>zaku_003529
+<ptZ0260>zaku_003529
+
+//OTHER
+<enZ0261>zaku_003530
+<ptZ0261>zaku_003530
+
+//OTHER
+<enZ0262>aya_000813
+<ptZ0262>aya_000813
+
+//OTHER
+<enZ0263>zaku_003531
+<ptZ0263>zaku_003531
+
+//OTHER
+<enZ0264>aya_000814
+<ptZ0264>aya_000814
+
+//OTHER
+<enZ0265>zaku_003532
+<ptZ0265>zaku_003532
+
+//OTHER
+<enZ0266>aya_000815
+<ptZ0266>aya_000815
+
+//OTHER
+<enZ0267>zaku_003533
+<ptZ0267>zaku_003533
+
+//OTHER
+<enZ0268>aya_000816
+<ptZ0268>aya_000816
+
+//OTHER
+<enZ0269>zaku_003534
+<ptZ0269>zaku_003534
+
+//OTHER
+<enZ0270>zaku_003535
+<ptZ0270>zaku_003535
+
+//OTHER
+<enZ0271>aya_000817
+<ptZ0271>aya_000817
+
+//OTHER
+<enZ0272>zaku_003536
+<ptZ0272>zaku_003536
+
+//OTHER
+<enZ0273>ay0010a
+<ptZ0273>ay0010a
+
+//OTHER
+<enZ0274>aya_000818
+<ptZ0274>aya_000818
+
+//OTHER
+<enZ0275>zaku_003537
+<ptZ0275>zaku_003537
+
+//OTHER
+<enZ0276>aya_000819
+<ptZ0276>aya_000819
+
+//OTHER
+<enZ0277>zaku_003538
+<ptZ0277>zaku_003538
+
+//OTHER
+<enZ0278>aya_000820
+<ptZ0278>aya_000820
+
+//OTHER
+<enZ0279>zaku_003539
+<ptZ0279>zaku_003539
+
+//OTHER
+<enZ0280>zaku_003540
+<ptZ0280>zaku_003540
+
+//OTHER
+<enZ0281>aya_000821
+<ptZ0281>aya_000821
+
+//OTHER
+<enZ0282>zaku_003541
+<ptZ0282>zaku_003541
+
+//OTHER
+<enZ0283>ay0009a
+<ptZ0283>ay0009a
+
+//OTHER
+<enZ0284>aya_000822
+<ptZ0284>aya_000822
+
+//OTHER
+<enZ0285>zaku_003542
+<ptZ0285>zaku_003542
+
+//OTHER
+<enZ0286>zaku_003543
+<ptZ0286>zaku_003543
+
+//OTHER
+<enZ0287>zaku_003544
+<ptZ0287>zaku_003544
+
+//OTHER
+<enZ0288>se019
+<ptZ0288>se019
+
+//OTHER
+<enZ0289>zaku_003545
+<ptZ0289>zaku_003545
+
+//OTHER
+<enZ0290>bg1009a
+<ptZ0290>bg1009a
+
+//OTHER
+<enZ0291>bg1008a
+<ptZ0291>bg1008a
+
+//OTHER
+<enZ0292>bg1006a
+<ptZ0292>bg1006a
+
+//OTHER
+<enZ0293>zaku_003546
+<ptZ0293>zaku_003546
+
+//OTHER
+<enZ0294>zaku_003547
+<ptZ0294>zaku_003547
+
+//OTHER
+<enZ0295>zaku_003548
+<ptZ0295>zaku_003548
+
+//OTHER
+<enZ0296>sp0077
+<ptZ0296>sp0077
+
+//OTHER
+<enZ0297>zaku_003549
+<ptZ0297>zaku_003549
+
+//OTHER
+<enZ0298>zaku_003550
+<ptZ0298>zaku_003550
+
+//OTHER
+<enZ0299>zaku_003551
+<ptZ0299>zaku_003551
+
+//OTHER
+<enZ0300>zaku_003552
+<ptZ0300>zaku_003552
+
+//OTHER
+<enZ0301>zaku_003553
+<ptZ0301>zaku_003553
+
+//OTHER
+<enZ0302>se075
+<ptZ0302>se075
+
+//OTHER
+<enZ0303>zaku_003554
+<ptZ0303>zaku_003554
+
+//OTHER
+<enZ0304>zaku_003555
+<ptZ0304>zaku_003555
+
+//OTHER
+<enZ0305>zaku_003556
+<ptZ0305>zaku_003556
+
+//OTHER
+<enZ0306>3_0711_trans
+<ptZ0306>3_0711_trans
+

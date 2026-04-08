@@ -1,0 +1,4052 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Zakuro
+<ptN0002>Zakuro
+
+///================================================================================
+
+//TEXT
+<enT0001>It was Saturday afternoon... For some reason, I was riding the train.
+<ptT0001>It was Saturday afternoon... For some reason, I was riding the train.
+
+//TEXT
+<enT0002>"Let's ride this train to the last stop."
+<ptT0002>"Let's ride this train to the last stop."
+
+//TEXT
+<enT0003>It kind of felt like Takashima-san forced me into this.
+<ptT0003>It kind of felt like Takashima-san forced me into this.
+
+//TEXT 【Yuki】
+<enT0004>"By the way, where is the last stop?"
+<ptT0004>"By the way, where is the last stop?"
+
+//TEXT 【Zakuro】
+<enT0005>"The amusement park. Have you ever been there?"
+<ptT0005>"The amusement park. Have you ever been there?"
+
+//TEXT 【Yuki】
+<enT0006>"Is that right? I haven't been there. I didn't even know there was an amusement park there."
+<ptT0006>"Is that right? I haven't been there. I didn't even know there was an amusement park there."
+
+//TEXT 【Zakuro】
+<enT0007>"..."
+<ptT0007>"..."
+
+//TEXT 【Zakuro】
+<enT0008>"Is that so..."
+<ptT0008>"Is that so..."
+
+//TEXT
+<enT0009>For a moment, her voice sounded kind of sad.
+<ptT0009>For a moment, her voice sounded kind of sad.
+
+//TEXT
+<enT0010>Did I say something wrong?
+<ptT0010>Did I say something wrong?
+
+//TEXT 【Yuki】
+<enT0011>"U-Uh, have you been there before?"
+<ptT0011>"U-Uh, have you been there before?"
+
+//TEXT 【Zakuro】
+<enT0012>"I... I've been there once before."
+<ptT0012>"I... I've been there once before."
+
+//TEXT 【Yuki】
+<enT0013>"Oh, really? With your parents?"
+<ptT0013>"Oh, really? With your parents?"
+
+//TEXT 【Zakuro】
+<enT0014>"No. I was with the person I loved the most in the world."
+<ptT0014>"No. I was with the person I loved the most in the world."
+
+//TEXT 【Yuki】
+<enT0015>"That's the first I've heard of that. There's someone that you're in love with?"
+<ptT0015>"That's the first I've heard of that. There's someone that you're in love with?"
+
+//TEXT 【Zakuro】
+<enT0016>"Yes, there was."
+<ptT0016>"Yes, there was."
+
+//TEXT 【Yuki】
+<enT0017>"Was? Why are you using the past tense?"
+<ptT0017>"Was? Why are you using the past tense?"
+
+//TEXT 【Zakuro】
+<enT0018>"Everything about the person I knew, even their face, has changed."
+<ptT0018>"Everything about the person I knew, even their face, has changed."
+
+//TEXT 【Yuki】
+<enT0019>"Even their face changed?"
+<ptT0019>"Even their face changed?"
+
+//TEXT 【Zakuro】
+<enT0020>"Yes, so the person I loved isn't in this world anymore."
+<ptT0020>"Yes, so the person I loved isn't in this world anymore."
+
+//TEXT 【Yuki】
+<enT0021>"You mean..."
+<ptT0021>"You mean..."
+
+//TEXT
+<enT0022>Maybe it was an accident, or sickness, or something...
+<ptT0022>Maybe it was an accident, or sickness, or something...
+
+//TEXT 【Yuki】
+<enT0023>"D-Did I ask something I shouldn't have?"
+<ptT0023>"D-Did I ask something I shouldn't have?"
+
+//TEXT 【Zakuro】
+<enT0024>"No, I don't mind at all. It's not your fault. But leaving that aside..."
+<ptT0024>"No, I don't mind at all. It's not your fault. But leaving that aside..."
+
+//TEXT
+<enT0025>Takashima-san pointed her finger out the window.
+<ptT0025>Takashima-san pointed her finger out the window.
+
+//TEXT 【Zakuro】
+<enT0026>"I can see the last station. Look, there's the amusement park."
+<ptT0026>"I can see the last station. Look, there's the amusement park."
+
+//TEXT 【Yuki】
+<enT0027>"Ah..."
+<ptT0027>"Ah..."
+
+//TEXT
+<enT0028>The last stop was right in front of the amusement park.
+<ptT0028>The last stop was right in front of the amusement park.
+
+//TEXT
+<enT0029>I'd been riding this train for years, but I never noticed that it stopped there.
+<ptT0029>I'd been riding this train for years, but I never noticed that it stopped there.
+
+//TEXT
+<enT0030>It was the last stop, so I saw "Amusement Park Bound" every time I rode this train, but I probably didn't care.
+<ptT0030>It was the last stop, so I saw "Amusement Park Bound" every time I rode this train, but I probably didn't care.
+
+//TEXT
+<enT0031>The doors opened at the last station.
+<ptT0031>The doors opened at the last station.
+
+//TEXT
+<enT0032>People got off much more slowly than they would at any other stop.
+<ptT0032>People got off much more slowly than they would at any other stop.
+
+//TEXT
+<enT0033>The doors stayed open for a long time at the last stop. There was no need to rush like when you're trying to get off at one of the intermediate stops.
+<ptT0033>The doors stayed open for a long time at the last stop. There was no need to rush like when you're trying to get off at one of the intermediate stops.
+
+//TEXT
+<enT0034>At the "Amusement Park" station, everyone left slowly, idling nearby.
+<ptT0034>At the "Amusement Park" station, everyone left slowly, idling nearby.
+
+//TEXT
+<enT0035>Next stop: a land of wonder.
+<ptT0035>Next stop: a land of wonder.
+
+//TEXT
+<enT0036>Though this "land of wonder" was old and faded.
+<ptT0036>Though this "land of wonder" was old and faded.
+
+//TEXT
+<enT0037>The people were all laughing as they stepped into that cheap wonderland.
+<ptT0037>The people were all laughing as they stepped into that cheap wonderland.
+
+//TEXT 【Zakuro】
+<enT0038>"Shouldn't we get off here too?"
+<ptT0038>"Shouldn't we get off here too?"
+
+//TEXT 【Yuki】
+<enT0039>"That's why you brought me here, isn't it?"
+<ptT0039>"That's why you brought me here, isn't it?"
+
+//TEXT 【Zakuro】
+<enT0040>"Yes. That's right, but it's just a place where I have a lot of memories. It probably doesn't mean anything to you, so I don't mind if you would rather go home."
+<ptT0040>"Yes. That's right, but it's just a place where I have a lot of memories. It probably doesn't mean anything to you, so I don't mind if you would rather go home."
+
+//TEXT 【Yuki】
+<enT0041>"There's no point going home now."
+<ptT0041>"There's no point going home now."
+
+//TEXT 【Zakuro】
+<enT0042>"Really? Just being with you like this is meaningful enough for me."
+<ptT0042>"Really? Just being with you like this is meaningful enough for me."
+
+//TEXT 【Yuki】
+<enT0043>"There you go again. You shouldn't make those jokes so casually."
+<ptT0043>"There you go again. You shouldn't make those jokes so casually."
+
+//TEXT 【Zakuro】
+<enT0044>"So I shouldn't make those jokes because they make Tsukasa-san and Kagami-san act strange?"
+<ptT0044>"So I shouldn't make those jokes because they make Tsukasa-san and Kagami-san act strange?"
+
+//TEXT 【Yuki】
+<enT0045>"Yeah, pretty much."
+<ptT0045>"Yeah, pretty much."
+
+//TEXT 【Zakuro】
+<enT0046>"But it's a bit upsetting that you would call them jokes, Yuki-sama."
+<ptT0046>"But it's a bit upsetting that you would call them jokes, Yuki-sama."
+
+//TEXT 【Yuki】
+<enT0047>"Huh?"
+<ptT0047>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0048>"I really do enjoy spending time alone with you, Yuki... even though we can't get away from those other two very often."
+<ptT0048>"I really do enjoy spending time alone with you, Yuki... even though we can't get away from those other two very often."
+
+//TEXT 【Yuki】
+<enT0049>"Get away from them?"
+<ptT0049>"Get away from them?"
+
+//TEXT 【Zakuro】
+<enT0050>"If Kagami-san and Tsukasa-san knew the truth about what we're doing today, things probably wouldn't end peacefully."
+<ptT0050>"If Kagami-san and Tsukasa-san knew the truth about what we're doing today, things probably wouldn't end peacefully."
+
+//TEXT 【Yuki】
+<enT0051>"Th-There you go again. Those two are just messing around."
+<ptT0051>"Th-There you go again. Those two are just messing around."
+
+//TEXT 【Zakuro】
+<enT0052>"You're still saying that it's just a... joke, I guess."
+<ptT0052>"You're still saying that it's just a... joke, I guess."
+
+//TEXT 【Yuki】
+<enT0053>"Yeah, exactly."
+<ptT0053>"Yeah, exactly."
+
+//TEXT 【Zakuro】
+<enT0054>"Then go on some rides with me here at the amusement park. Just play along, as a joke."
+<ptT0054>"Then go on some rides with me here at the amusement park. Just play along, as a joke."
+
+//TEXT 【Yuki】
+<enT0055>"Oh, sure. That was the plan anyway."
+<ptT0055>"Oh, sure. That was the plan anyway."
+
+//TEXT 【Zakuro】
+<enT0056>"Thank you."
+<ptT0056>"Thank you."
+
+//TEXT 【Yuki】
+<enT0057>"Well, let's go, then."
+<ptT0057>"Well, let's go, then."
+
+//TEXT 【Zakuro】
+<enT0058>"Yes."
+<ptT0058>"Yes."
+
+//TEXT
+<enT0059>We walked around together.
+<ptT0059>We walked around together.
+
+//TEXT
+<enT0060>Our shoes echoed off the hard concrete.
+<ptT0060>Our shoes echoed off the hard concrete.
+
+//TEXT 【Yuki】
+<enT0061>"I wonder how long it's been since I last had shaved ice."
+<ptT0061>"I wonder how long it's been since I last had shaved ice."
+
+//TEXT 【Zakuro】
+<enT0062>"Is it good?"
+<ptT0062>"Is it good?"
+
+//TEXT 【Yuki】
+<enT0063>"Yeah. It's just ice, but it's really good."
+<ptT0063>"Yeah. It's just ice, but it's really good."
+
+//TEXT 【Zakuro】
+<enT0064>"Heheh. I dragged you all the way out here, so this is the least I could do."
+<ptT0064>"Heheh. I dragged you all the way out here, so this is the least I could do."
+
+//TEXT 【Yuki】
+<enT0065>"You really didn't need to pay for mine too."
+<ptT0065>"You really didn't need to pay for mine too."
+
+//TEXT 【Zakuro】
+<enT0066>"No, I did. I knew you would say that, because you're so kind."
+<ptT0066>"No, I did. I knew you would say that, because you're so kind."
+
+//TEXT 【Yuki】
+<enT0067>"That's not true."
+<ptT0067>"That's not true."
+
+//TEXT 【Zakuro】
+<enT0068>"Heheh. Really? I think you're kind just for saying that."
+<ptT0068>"Heheh. Really? I think you're kind just for saying that."
+
+//TEXT 【Yuki】
+<enT0069>"I dunno about that..."
+<ptT0069>"I dunno about that..."
+
+//TEXT 【Yuki】
+<enT0070>"Anyway, there are a lot of people here, even though it's such a shabby amusement park. I heard places like these usually operate in the red nowadays."
+<ptT0070>"Anyway, there are a lot of people here, even though it's such a shabby amusement park. I heard places like these usually operate in the red nowadays."
+
+//TEXT 【Zakuro】
+<enT0071>"How crowded it is just shows how amazing this amusement park is."
+<ptT0071>"How crowded it is just shows how amazing this amusement park is."
+
+//TEXT 【Yuki】
+<enT0072>"Maybe so."
+<ptT0072>"Maybe so."
+
+//TEXT
+<enT0073>There was a fake castle, and mannequins were rusted. The whole place was a bunch of silly dreams, all thrown haphazardly together.
+<ptT0073>There was a fake castle, and mannequins were rusted. The whole place was a bunch of silly dreams, all thrown haphazardly together.
+
+//TEXT
+<enT0074>It was a world where various dreams were put together without any unifying theme or logic.
+<ptT0074>It was a world where various dreams were put together without any unifying theme or logic.
+
+//TEXT
+<enT0075>People laughed and played in such a cheap world. Happy people.
+<ptT0075>People laughed and played in such a cheap world. Happy people.
+
+//TEXT
+<enT0076>As I walked among those people, I felt like I had turned into a ghost.
+<ptT0076>As I walked among those people, I felt like I had turned into a ghost.
+
+//TEXT
+<enT0077>I felt a strange sensation, as if my feet weren't actually touching the ground...
+<ptT0077>I felt a strange sensation, as if my feet weren't actually touching the ground...
+
+//TEXT
+<enT0078>As if a dream had become real...
+<ptT0078>As if a dream had become real...
+
+//TEXT 【Zakuro】
+<enT0079>"Today is my treat, so let's enjoy ourselves."
+<ptT0079>"Today is my treat, so let's enjoy ourselves."
+
+//TEXT
+<enT0080>That strange feeling was dispelled by Takashima-san's smile.
+<ptT0080>That strange feeling was dispelled by Takashima-san's smile.
+
+//TEXT 【Yuki】
+<enT0081>"Oh, sure."
+<ptT0081>"Oh, sure."
+
+//TEXT
+<enT0082>A herd of smiles surrounded me, gathered here in this cheap world.
+<ptT0082>A herd of smiles surrounded me, gathered here in this cheap world.
+
+//TEXT
+<enT0083>I was saved from the feeling of floating by the person at my side.
+<ptT0083>I was saved from the feeling of floating by the person at my side.
+
+//TEXT 【Yuki】
+<enT0084>"Oh, but you really don't need to pay for me. Anyway, we're here, so let's enjoy ourselves. I actually haven't been to an amusement park since I was a child."
+<ptT0084>"Oh, but you really don't need to pay for me. Anyway, we're here, so let's enjoy ourselves. I actually haven't been to an amusement park since I was a child."
+
+//TEXT 【Zakuro】
+<enT0085>"Is that right? Not since you were a child? Oh, by the way, Yuki-sama."
+<ptT0085>"Is that right? Not since you were a child? Oh, by the way, Yuki-sama."
+
+//TEXT 【Yuki】
+<enT0086>"What?"
+<ptT0086>"What?"
+
+//TEXT 【Zakuro】
+<enT0087>"Can we call this a date?"
+<ptT0087>"Can we call this a date?"
+
+//TEXT 【Yuki】
+<enT0088>"Huh? I don't really mind, but why?"
+<ptT0088>"Huh? I don't really mind, but why?"
+
+//TEXT 【Zakuro】
+<enT0089>"Oh, nothing. Just something for me to remember you by."
+<ptT0089>"Oh, nothing. Just something for me to remember you by."
+
+//TEXT 【Yuki】
+<enT0090>"Remember me?"
+<ptT0090>"Remember me?"
+
+//TEXT 【Zakuro】
+<enT0091>"You know, tomorrow is the 19th."
+<ptT0091>"You know, tomorrow is the 19th."
+
+//TEXT 【Yuki】
+<enT0092>"Yeah, it is, but so what?"
+<ptT0092>"Yeah, it is, but so what?"
+
+//TEXT 【Zakuro】
+<enT0093>"The date for the stargazing was set for the 19th. We will search for the beginning and end of tomorrow's night sky."
+<ptT0093>"The date for the stargazing was set for the 19th. We will search for the beginning and end of tomorrow's night sky."
+
+//TEXT 【Yuki】
+<enT0094>"Yeah, we will. I hope we find it this time."
+<ptT0094>"Yeah, we will. I hope we find it this time."
+
+//TEXT 【Zakuro】
+<enT0095>"Yes, but if we do, we probably can't be together the next day, on the 20th."
+<ptT0095>"Yes, but if we do, we probably can't be together the next day, on the 20th."
+
+//TEXT 【Yuki】
+<enT0096>"Huh? Wh-What do you mean?"
+<ptT0096>"Huh? Wh-What do you mean?"
+
+//TEXT
+<enT0097>Did she mean that she was the world girl? That she thought she was going to return to the sky on the 19th?
+<ptT0097>Did she mean that she was the world girl? That she thought she was going to return to the sky on the 19th?
+
+//TEXT
+<enT0098>But if she really tried to do that...
+<ptT0098>But if she really tried to do that...
+
+//TEXT 【Yuki】
+<enT0099>"E-Excuse me, Takashima-san."
+<ptT0099>"E-Excuse me, Takashima-san."
+
+//TEXT 【Zakuro】
+<enT0100>"Heheh. What is it? Did you think I was planning to jump off the roof on the 19th?"
+<ptT0100>"Heheh. What is it? Did you think I was planning to jump off the roof on the 19th?"
+
+//TEXT 【Yuki】
+<enT0101>"Uh, no. How should I put it?"
+<ptT0101>"Uh, no. How should I put it?"
+
+//TEXT 【Zakuro】
+<enT0102>"Don't worry. I won't do anything like that."
+<ptT0102>"Don't worry. I won't do anything like that."
+
+//TEXT 【Zakuro】
+<enT0103>"That was a joke. Just a joke. It's not true that we won't be able to be together after the 20th."
+<ptT0103>"That was a joke. Just a joke. It's not true that we won't be able to be together after the 20th."
+
+//TEXT 【Yuki】
+<enT0104>"Oh, really? Don't scare me like that."
+<ptT0104>"Oh, really? Don't scare me like that."
+
+//TEXT 【Zakuro】
+<enT0105>"I'm sorry."
+<ptT0105>"I'm sorry."
+
+//TEXT 【Yuki】
+<enT0106>"You know, the other day..."
+<ptT0106>"You know, the other day..."
+
+//TEXT 【Zakuro】
+<enT0107>"The other day?"
+<ptT0107>"The other day?"
+
+//TEXT
+<enT0108>Those words tumbled out of my mouth almost by accident. I hesitated, not knowing if I should finish the sentence, but I had to ask her about it.
+<ptT0108>Those words tumbled out of my mouth almost by accident. I hesitated, not knowing if I should finish the sentence, but I had to ask her about it.
+
+//TEXT 【Yuki】
+<enT0109>"I saw you dropping a doll at school. You told me that ritual was supposed to be done when the Summer Triangle was visible, so..."
+<ptT0109>"I saw you dropping a doll at school. You told me that ritual was supposed to be done when the Summer Triangle was visible, so..."
+
+//TEXT 【Zakuro】
+<enT0110>"July 16th, 2012, 5:58 PM. Right?"
+<ptT0110>"July 16th, 2012, 5:58 PM. Right?"
+
+//TEXT 【Yuki】
+<enT0111>"?!"
+<ptT0111>"?!"
+
+//TEXT
+<enT0112>Why did she remember the exact time? That was the same time that Ayana said it was.
+<ptT0112>Why did she remember the exact time? That was the same time that Ayana said it was.
+
+//TEXT
+<enT0113>The time was accurate down to the minute.
+<ptT0113>The time was accurate down to the minute.
+
+//TEXT
+<enT0114>Maybe there was some meaning in the exact time she did it.
+<ptT0114>Maybe there was some meaning in the exact time she did it.
+
+//TEXT 【Yuki】
+<enT0115>"Yeah, at that time, you dropped the doll from Building C, right?"
+<ptT0115>"Yeah, at that time, you dropped the doll from Building C, right?"
+
+//TEXT 【Zakuro】
+<enT0116>"You saw it, huh?"
+<ptT0116>"You saw it, huh?"
+
+//TEXT 【Yuki】
+<enT0117>"Was I not supposed to?"
+<ptT0117>"Was I not supposed to?"
+
+//TEXT 【Zakuro】
+<enT0118>"It doesn't really matter. I was just dropping the doll."
+<ptT0118>"It doesn't really matter. I was just dropping the doll."
+
+//TEXT 【Yuki】
+<enT0119>"But why did you drop it at that kind of time? Wasn't that a way of searching for something in the sky?"
+<ptT0119>"But why did you drop it at that kind of time? Wasn't that a way of searching for something in the sky?"
+
+//TEXT 【Zakuro】
+<enT0120>"Yes, that's right."
+<ptT0120>"Yes, that's right."
+
+//TEXT 【Yuki】
+<enT0121>"But the landmark, the Summer Triangle, wasn't visible at that time."
+<ptT0121>"But the landmark, the Summer Triangle, wasn't visible at that time."
+
+//TEXT 【Zakuro】
+<enT0122>"You're right. I guess it wasn't."
+<ptT0122>"You're right. I guess it wasn't."
+
+//TEXT 【Yuki】
+<enT0123>"Then why did you drop the doll at that time?"
+<ptT0123>"Then why did you drop the doll at that time?"
+
+//TEXT 【Zakuro】
+<enT0124>"I guess you could call it the borderline."
+<ptT0124>"I guess you could call it the borderline."
+
+//TEXT 【Yuki】
+<enT0125>"The borderline?"
+<ptT0125>"The borderline?"
+
+//TEXT 【Zakuro】
+<enT0126>"Yes."
+<ptT0126>"Yes."
+
+//TEXT 【Yuki】
+<enT0127>"Um, Ayana-san said it was supposed to have an effect on another world..."
+<ptT0127>"Um, Ayana-san said it was supposed to have an effect on another world..."
+
+//TEXT 【Zakuro】
+<enT0128>"Otonashi Ayana..."
+<ptT0128>"Otonashi Ayana..."
+
+//TEXT
+<enT0129>Takashima-san's expression suddenly disappeared.
+<ptT0129>Takashima-san's expression suddenly disappeared.
+
+//TEXT 【Yuki】
+<enT0130>"Wh-What's the matter?"
+<ptT0130>"Wh-What's the matter?"
+
+//TEXT 【Zakuro】
+<enT0131>"Otonashi Ayana, you said? So something like her can exist even in this kind of place."
+<ptT0131>"Otonashi Ayana, you said? So something like her can exist even in this kind of place."
+
+//TEXT 【Yuki】
+<enT0132>"Even in this kind of place?"
+<ptT0132>"Even in this kind of place?"
+
+//TEXT 【Zakuro】
+<enT0133>"But that was inevitable. Now I understand. I can understand why something like her would exist even here."
+<ptT0133>"But that was inevitable. Now I understand. I can understand why something like her would exist even here."
+
+//TEXT
+<enT0134>I was getting goosebumps for some reason. What the heck was this conversation we were having?
+<ptT0134>I was getting goosebumps for some reason. What the heck was this conversation we were having?
+
+//TEXT
+<enT0135>I'd been perspiring for a while now. It was a cold sweat.
+<ptT0135>I'd been perspiring for a while now. It was a cold sweat.
+
+//TEXT
+<enT0136>Takashima-san's expression was dead. I'd never seen a face like that.
+<ptT0136>Takashima-san's expression was dead. I'd never seen a face like that.
+
+//TEXT
+<enT0137>Why would her expression change like that when talking about Ayana?
+<ptT0137>Why would her expression change like that when talking about Ayana?
+
+//TEXT 【Zakuro】
+<enT0138>"But Otonashi-san... Now that I think about it, there were parts of her that were kind, too."
+<ptT0138>"But Otonashi-san... Now that I think about it, there were parts of her that were kind, too."
+
+//TEXT 【Zakuro】
+<enT0139>"The fate I've chosen can't be changed now."
+<ptT0139>"The fate I've chosen can't be changed now."
+
+//TEXT 【Zakuro】
+<enT0140>"Whether it is inevitable or just coincidence isn't a distinction that a human can make."
+<ptT0140>"Whether it is inevitable or just coincidence isn't a distinction that a human can make."
+
+//TEXT 【Yuki】
+<enT0141>"What are you talking about?"
+<ptT0141>"What are you talking about?"
+
+//TEXT 【Zakuro】
+<enT0142>"The last words Otonashi-san said to me."
+<ptT0142>"The last words Otonashi-san said to me."
+
+//TEXT 【Yuki】
+<enT0143>"The last?"
+<ptT0143>"The last?"
+
+//TEXT 【Zakuro】
+<enT0144>"Ah, I'm sorry!"
+<ptT0144>"Ah, I'm sorry!"
+
+//TEXT 【Zakuro】
+<enT0145>"Y-You see, I had an argument with her. Those were the words she said when we parted."
+<ptT0145>"Y-You see, I had an argument with her. Those were the words she said when we parted."
+
+//TEXT 【Yuki】
+<enT0146>"I-Is that what it was?"
+<ptT0146>"I-Is that what it was?"
+
+//TEXT
+<enT0147>So Takashima-san and Otonashi-san knew each other.
+<ptT0147>So Takashima-san and Otonashi-san knew each other.
+
+//TEXT
+<enT0148>Now that I thought about it, they did both kind of fit into the \n"mysterious girl" mold.
+<ptT0148>Now that I thought about it, they did both kind of fit into the \n"mysterious girl" mold.
+
+//TEXT 【Yuki】
+<enT0149>"Takashima-san, you had an argument with Ayana-san?"
+<ptT0149>"Takashima-san, you had an argument with Ayana-san?"
+
+//TEXT 【Zakuro】
+<enT0150>"That's right. Please don't worry too much about what I just said, nor about the incident with the doll."
+<ptT0150>"That's right. Please don't worry too much about what I just said, nor about the incident with the doll."
+
+//TEXT 【Zakuro】
+<enT0151>"When I dropped the doll from Building C, that was just practice."
+<ptT0151>"When I dropped the doll from Building C, that was just practice."
+
+//TEXT 【Yuki】
+<enT0152>"Practice?"
+<ptT0152>"Practice?"
+
+//TEXT 【Zakuro】
+<enT0153>"Yes. I haven't dropped a doll from the roof in a while, so I was worried I might be out of practice."
+<ptT0153>"Yes. I haven't dropped a doll from the roof in a while, so I was worried I might be out of practice."
+
+//TEXT 【Yuki】
+<enT0154>"Can you get 'out of practice' at something like that?"
+<ptT0154>"Can you get 'out of practice' at something like that?"
+
+//TEXT 【Zakuro】
+<enT0155>"Yes. It's rather difficult. You have to throw it so that it floats in the air."
+<ptT0155>"Yes. It's rather difficult. You have to throw it so that it floats in the air."
+
+//TEXT 【Yuki】
+<enT0156>"But it's never floated before, has it?"
+<ptT0156>"But it's never floated before, has it?"
+
+//TEXT 【Zakuro】
+<enT0157>"It hasn't."
+<ptT0157>"It hasn't."
+
+//TEXT 【Yuki】
+<enT0158>"Then how can you practice?"
+<ptT0158>"Then how can you practice?"
+
+//TEXT 【Zakuro】
+<enT0159>"It doesn't float because the sky is wrong. With the correct technique, the doll will float in the right sky."
+<ptT0159>"It doesn't float because the sky is wrong. With the correct technique, the doll will float in the right sky."
+
+//TEXT 【Zakuro】
+<enT0160>"But if you can't throw it correctly, it won't float even in the right sky."
+<ptT0160>"But if you can't throw it correctly, it won't float even in the right sky."
+
+//TEXT 【Zakuro】
+<enT0161>"And then we would never find the beginning and end of the sky."
+<ptT0161>"And then we would never find the beginning and end of the sky."
+
+//TEXT 【Yuki】
+<enT0162>"I-I guess that makes sense."
+<ptT0162>"I-I guess that makes sense."
+
+//TEXT
+<enT0163>I guess for all these "mysterious" people, it must be a pain following all these "mysterious" rules.
+<ptT0163>I guess for all these "mysterious" people, it must be a pain following all these "mysterious" rules.
+
+//TEXT 【Zakuro】
+<enT0164>"But..."
+<ptT0164>"But..."
+
+//TEXT
+<enT0165>Takashima-san's face suddenly softened.
+<ptT0165>Takashima-san's face suddenly softened.
+
+//TEXT
+<enT0166>When she looked at me, the smile had returned to her lips.
+<ptT0166>When she looked at me, the smile had returned to her lips.
+
+//TEXT 【Yuki】
+<enT0167>"What is it?"
+<ptT0167>"What is it?"
+
+//TEXT 【Zakuro】
+<enT0168>"This is nothing like that time, when I was so nervous. Right now, I'm totally relaxed, and I'm enjoying this calm, peaceful, happy moment."
+<ptT0168>"This is nothing like that time, when I was so nervous. Right now, I'm totally relaxed, and I'm enjoying this calm, peaceful, happy moment."
+
+//TEXT 【Yuki】
+<enT0169>"Are you talking about the person you came with the last time you were here?"
+<ptT0169>"Are you talking about the person you came with the last time you were here?"
+
+//TEXT 【Zakuro】
+<enT0170>"Ah, yes. That's right."
+<ptT0170>"Ah, yes. That's right."
+
+//TEXT 【Yuki】
+<enT0171>"There's really no comparison there, though. You were nervous because you were with the person you liked."
+<ptT0171>"There's really no comparison there, though. You were nervous because you were with the person you liked."
+
+//TEXT 【Zakuro】
+<enT0172>"But I like you too."
+<ptT0172>"But I like you too."
+
+//TEXT 【Yuki】
+<enT0173>"But that's something different. Not 'love,' just plain old 'like.'"
+<ptT0173>"But that's something different. Not 'love,' just plain old 'like.'"
+
+//TEXT 【Zakuro】
+<enT0174>"If that's how you want to put it, I loved the person I was here with last, and I love you too."
+<ptT0174>"If that's how you want to put it, I loved the person I was here with last, and I love you too."
+
+//TEXT 【Yuki】
+<enT0175>"Ugh..."
+<ptT0175>"Ugh..."
+
+//TEXT
+<enT0176>Now she's saying it too. Jeez.
+<ptT0176>Now she's saying it too. Jeez.
+
+//TEXT 【Yuki】
+<enT0177>"But still, there's no way you would get nervous around me, since we're both girls."
+<ptT0177>"But still, there's no way you would get nervous around me, since we're both girls."
+
+//TEXT 【Zakuro】
+<enT0178>"Heheh. Who cares about that? We still have time to enjoy this wonderland!"
+<ptT0178>"Heheh. Who cares about that? We still have time to enjoy this wonderland!"
+
+//TEXT 【Yuki】
+<enT0179>"Wonderland, huh? What a cheap wonderland it is."
+<ptT0179>"Wonderland, huh? What a cheap wonderland it is."
+
+//TEXT 【Zakuro】
+<enT0180>"Dreams are nice because they're cheap. If they weren't cheap, they wouldn't be dreams. What do you think about that?"
+<ptT0180>"Dreams are nice because they're cheap. If they weren't cheap, they wouldn't be dreams. What do you think about that?"
+
+//TEXT 【Zakuro】
+<enT0181>"We rode a lot of different ones, huh?"
+<ptT0181>"We rode a lot of different ones, huh?"
+
+//TEXT 【Yuki】
+<enT0182>"Yeah. Are there any others you want to try?"
+<ptT0182>"Yeah. Are there any others you want to try?"
+
+//TEXT 【Zakuro】
+<enT0183>"Now that you mention it, there's a boat ride here."
+<ptT0183>"Now that you mention it, there's a boat ride here."
+
+//TEXT 【Yuki】
+<enT0184>"Oh, is there?"
+<ptT0184>"Oh, is there?"
+
+//TEXT 【Zakuro】
+<enT0185>"How does that sound? Does the boat sound like fun?"
+<ptT0185>"How does that sound? Does the boat sound like fun?"
+
+//TEXT 【Yuki】
+<enT0186>"That one?"
+<ptT0186>"That one?"
+
+//TEXT 【Zakuro】
+<enT0187>"Yes, that ride looks like fun."
+<ptT0187>"Yes, that ride looks like fun."
+
+//TEXT 【Yuki】
+<enT0188>"Spirit room: 'The End Sky'..."
+<ptT0188>"Spirit room: 'The End Sky'..."
+
+//TEXT 【Zakuro】
+<enT0189>"That's a strange name. It obviously means 'the end of the sky,' but it's written 'The End Sky.'"
+<ptT0189>"That's a strange name. It obviously means 'the end of the sky,' but it's written 'The End Sky.'"
+
+//TEXT 【Yuki】
+<enT0190>"I wonder what it is. It says it's a spirit room, so it's probably one of those scary attractions."
+<ptT0190>"I wonder what it is. It says it's a spirit room, so it's probably one of those scary attractions."
+
+//TEXT 【Zakuro】
+<enT0191>"I'm not really sure, but it looks odd, doesn't it? It says it's a 'spirit room,' not a 'haunted house.' It sounds kind of creepy."
+<ptT0191>"I'm not really sure, but it looks odd, doesn't it? It says it's a 'spirit room,' not a 'haunted house.' It sounds kind of creepy."
+
+//TEXT 【Yuki】
+<enT0192>"Yeah. Let's check it out."
+<ptT0192>"Yeah. Let's check it out."
+
+//TEXT 【Zakuro】
+<enT0193>"Okay."
+<ptT0193>"Okay."
+
+//TEXT
+<enT0194>The building had a bizarre structure.
+<ptT0194>The building had a bizarre structure.
+
+//TEXT
+<enT0195>That was the one thing that made me uncomfortable. Other than that, it looked like an ordinary attraction.
+<ptT0195>That was the one thing that made me uncomfortable. Other than that, it looked like an ordinary attraction.
+
+//TEXT
+<enT0196>It was one of those attractions where you ride around in a gondola. I couldn't tell if the rails rusted or what, but they were making an unpleasant noise.
+<ptT0196>It was one of those attractions where you ride around in a gondola. I couldn't tell if the rails rusted or what, but they were making an unpleasant noise.
+
+//TEXT
+<enT0197>We sat in the gondola and looked at various worlds that passed us by, each of which had been neatly demarcated from the last.
+<ptT0197>We sat in the gondola and looked at various worlds that passed us by, each of which had been neatly demarcated from the last.
+
+//TEXT
+<enT0198>At first, we were surrounded by never-ending darkness.
+<ptT0198>At first, we were surrounded by never-ending darkness.
+
+//TEXT
+<enT0199>It felt like we were rising and falling, or even moving from side to side sometimes, but we couldn't really tell for sure what was happening in the dark.
+<ptT0199>It felt like we were rising and falling, or even moving from side to side sometimes, but we couldn't really tell for sure what was happening in the dark.
+
+//TEXT 【Yuki】
+<enT0200>"Wh-What is this?"
+<ptT0200>"Wh-What is this?"
+
+//TEXT 【Yuki】
+<enT0201>"What the heck? Are we in a convenience store? Did we go the wrong way?"
+<ptT0201>"What the heck? Are we in a convenience store? Did we go the wrong way?"
+
+//TEXT 【Zakuro】
+<enT0202>"That can't be it. Why would anyone come to a convenience store on a creepy gondola like this? Besides, there aren't any customers or employees."
+<ptT0202>"That can't be it. Why would anyone come to a convenience store on a creepy gondola like this? Besides, there aren't any customers or employees."
+
+//TEXT 【Yuki】
+<enT0203>"There really isn't anyone here. It's kinda scary how dark it is, too. If something popped out right now, it might actually scare me."
+<ptT0203>"There really isn't anyone here. It's kinda scary how dark it is, too. If something popped out right now, it might actually scare me."
+
+//TEXT
+<enT0204>The gondola slowly passed through the deserted store.
+<ptT0204>The gondola slowly passed through the deserted store.
+
+//TEXT
+<enT0205>I was expecting someone dressed up like a ghost to pop out at any moment, but nothing happened.
+<ptT0205>I was expecting someone dressed up like a ghost to pop out at any moment, but nothing happened.
+
+//TEXT
+<enT0206>The thin layer of dust on all the shelves was a bit eerie.
+<ptT0206>The thin layer of dust on all the shelves was a bit eerie.
+
+//TEXT 【Yuki】
+<enT0207>"Hm... Do you think they would mind if I took a piece of candy?"
+<ptT0207>"Hm... Do you think they would mind if I took a piece of candy?"
+
+//TEXT 【Zakuro】
+<enT0208>"You can't do that. It's not like there's a sign that says 'free samples' or anything."
+<ptT0208>"You can't do that. It's not like there's a sign that says 'free samples' or anything."
+
+//TEXT 【Yuki】
+<enT0209>"But the security cameras aren't even turned on."
+<ptT0209>"But the security cameras aren't even turned on."
+
+//TEXT 【Zakuro】
+<enT0210>"That's not the problem here..."
+<ptT0210>"That's not the problem here..."
+
+//TEXT
+<enT0211>I grabbed a bag of potato chips from a nearby shelf.
+<ptT0211>I grabbed a bag of potato chips from a nearby shelf.
+
+//TEXT
+<enT0212>The expiration date was July 20th, 1999.
+<ptT0212>The expiration date was July 20th, 1999.
+
+//TEXT 【Yuki】
+<enT0213>"Ahaha... This is an antique."
+<ptT0213>"Ahaha... This is an antique."
+
+//TEXT 【Zakuro】
+<enT0214>"Let's stop this."
+<ptT0214>"Let's stop this."
+
+//TEXT
+<enT0215>It was starting to make sense. The scenery didn't just look old. It really was old.
+<ptT0215>It was starting to make sense. The scenery didn't just look old. It really was old.
+
+//TEXT
+<enT0216>What the heck was the designer thinking when he made this ride?
+<ptT0216>What the heck was the designer thinking when he made this ride?
+
+//TEXT
+<enT0217>A deserted store. It definitely was creepy, but as an attraction in an amusement park, it was kind of lacking.
+<ptT0217>A deserted store. It definitely was creepy, but as an attraction in an amusement park, it was kind of lacking.
+
+//TEXT
+<enT0218>The rusty rails squeaked as the gondola turned toward a door behind the register.
+<ptT0218>The rusty rails squeaked as the gondola turned toward a door behind the register.
+
+//TEXT
+<enT0219>I looked at the register.
+<ptT0219>I looked at the register.
+
+//TEXT
+<enT0220>Something was scribbled on a piece of paper there.
+<ptT0220>Something was scribbled on a piece of paper there.
+
+//TEXT
+<enT0221>Just one sentence.
+<ptT0221>Just one sentence.
+
+//TEXT
+<enT0222>Title of this piece\n"Convenience Store End"
+<ptT0222>Title of this piece\n"Convenience Store End"
+
+//TEXT 【Yuki】
+<enT0223>"This piece? Convenience Store End? What does that mean?
+<ptT0223>"This piece? Convenience Store End? What does that mean?
+
+//TEXT 【Zakuro】
+<enT0224>"Maybe it means that this is the end of the convenience store?"
+<ptT0224>"Maybe it means that this is the end of the convenience store?"
+
+//TEXT 【Yuki】
+<enT0225>"The end of the convenience store, huh?"
+<ptT0225>"The end of the convenience store, huh?"
+
+//TEXT 【Yuki】
+<enT0226>"What is this supposed to be? Some sort of commentary on consumerism?"
+<ptT0226>"What is this supposed to be? Some sort of commentary on consumerism?"
+
+//TEXT 【Zakuro】
+<enT0227>"I don't know. That seems kind of complicated."
+<ptT0227>"I don't know. That seems kind of complicated."
+
+//TEXT
+<enT0228>The gondola skirted the wall and entered a staircase. We watched the convenience store recede below us as we ascended.
+<ptT0228>The gondola skirted the wall and entered a staircase. We watched the convenience store recede below us as we ascended.
+
+//TEXT
+<enT0229>The gondola went up the endless stairs.
+<ptT0229>The gondola went up the endless stairs.
+
+//TEXT
+<enT0230>I was a bit surprised that it could go up the steps. It was quite the agile machine.
+<ptT0230>I was a bit surprised that it could go up the steps. It was quite the agile machine.
+
+//TEXT 【Zakuro】
+<enT0231>"This is a really long stairway, isn't it?"
+<ptT0231>"This is a really long stairway, isn't it?"
+
+//TEXT 【Yuki】
+<enT0232>"It's just stairs and stairs, stretching on forever."
+<ptT0232>"It's just stairs and stairs, stretching on forever."
+
+//TEXT 【Zakuro】
+<enT0233>"Oh, I can see the end."
+<ptT0233>"Oh, I can see the end."
+
+//TEXT
+<enT0234>The staircase that we thought was about to end doubled back in the opposite direction, and after we passed that...
+<ptT0234>The staircase that we thought was about to end doubled back in the opposite direction, and after we passed that...
+
+//TEXT 【Yuki】
+<enT0235>"Was the building really this big?"
+<ptT0235>"Was the building really this big?"
+
+//TEXT 【Zakuro】
+<enT0236>"No. From the outside, it didn't look this big..."
+<ptT0236>"No. From the outside, it didn't look this big..."
+
+//TEXT 【Yuki】
+<enT0237>"Wh-What?"
+<ptT0237>"Wh-What?"
+
+//TEXT 【Zakuro】
+<enT0238>"It's pitch black."
+<ptT0238>"It's pitch black."
+
+//TEXT 【Yuki】
+<enT0239>"What is this?"
+<ptT0239>"What is this?"
+
+//TEXT 【Zakuro】
+<enT0240>"It looks like the gondola got on an elevator."
+<ptT0240>"It looks like the gondola got on an elevator."
+
+//TEXT 【Yuki】
+<enT0241>"What kind of ride is this?"
+<ptT0241>"What kind of ride is this?"
+
+//TEXT 【Zakuro】
+<enT0242>"This part looks like an apartment building."
+<ptT0242>"This part looks like an apartment building."
+
+//TEXT 【Yuki】
+<enT0243>"An apartment building..."
+<ptT0243>"An apartment building..."
+
+//TEXT 【Zakuro】
+<enT0244>"Oh, the gondola is moving again."
+<ptT0244>"Oh, the gondola is moving again."
+
+//TEXT
+<enT0245>It moved steadily through the concrete hallway. That was a barren, lifeless hallway, and there was no telling where it would lead.
+<ptT0245>It moved steadily through the concrete hallway. That was a barren, lifeless hallway, and there was no telling where it would lead.
+
+//TEXT 【Yuki】
+<enT0246>"Hey. This is a hallway, right? We have to be in an apartment complex..."
+<ptT0246>"Hey. This is a hallway, right? We have to be in an apartment complex..."
+
+//TEXT 【Zakuro】
+<enT0247>"Yes, probably."
+<ptT0247>"Yes, probably."
+
+//TEXT 【Yuki】
+<enT0248>"Then why are there curtains on the hallway windows?"
+<ptT0248>"Then why are there curtains on the hallway windows?"
+
+//TEXT 【Zakuro】
+<enT0249>"Huh?"
+<ptT0249>"Huh?"
+
+//TEXT
+<enT0250>The windows of the once-modern hallway had at some point changed into the decrepit windows of a condemned apartment.
+<ptT0250>The windows of the once-modern hallway had at some point changed into the decrepit windows of a condemned apartment.
+
+//TEXT
+<enT0251>I had thought that we were still in the hallway, but maybe the gondola turned into one of the rooms without either of us noticing.
+<ptT0251>I had thought that we were still in the hallway, but maybe the gondola turned into one of the rooms without either of us noticing.
+
+//TEXT 【Zakuro】
+<enT0252>"This is a room, isn't it?"
+<ptT0252>"This is a room, isn't it?"
+
+//TEXT 【Yuki】
+<enT0253>"It looks so old."
+<ptT0253>"It looks so old."
+
+//TEXT 【Zakuro】
+<enT0254>"Ah."
+<ptT0254>"Ah."
+
+//TEXT 【Yuki】
+<enT0255>"Would you call this the living room?"
+<ptT0255>"Would you call this the living room?"
+
+//TEXT 【Zakuro】
+<enT0256>"It feels like we're back in the Shouwa era."
+<ptT0256>"It feels like we're back in the Shouwa era."
+
+//TEXT
+<enT0257>There was an engraved plate on the table.
+<ptT0257>There was an engraved plate on the table.
+
+//TEXT
+<enT0258>Title of this piece\n"Living Room End"
+<ptT0258>Title of this piece\n"Living Room End"
+
+//TEXT 【Yuki】
+<enT0259>"What's this? Maybe it really is some sort of criticism of modern culture."
+<ptT0259>"What's this? Maybe it really is some sort of criticism of modern culture."
+
+//TEXT 【Zakuro】
+<enT0260>"Maybe it's trying to express a father's fear that the tight-knit family unit is falling apart."
+<ptT0260>"Maybe it's trying to express a father's fear that the tight-knit family unit is falling apart."
+
+//TEXT
+<enT0261>The sound of grinding rust filled the room as the gondola advanced forward. The entire scene felt kind of surreal, or rather, downright eerie.
+<ptT0261>The sound of grinding rust filled the room as the gondola advanced forward. The entire scene felt kind of surreal, or rather, downright eerie.
+
+//TEXT
+<enT0262>The calendar and clock were both stopped at the same point.
+<ptT0262>The calendar and clock were both stopped at the same point.
+
+//TEXT 【Yuki】
+<enT0263>"July of 1999, again."
+<ptT0263>"July of 1999, again."
+
+//TEXT
+<enT0264>What was up with that date? It must have been the date when this attraction was made.
+<ptT0264>What was up with that date? It must have been the date when this attraction was made.
+
+//TEXT
+<enT0265>We left the living room and emerged into another staircase, except this time it was a small set of stairs like in someone's house.
+<ptT0265>We left the living room and emerged into another staircase, except this time it was a small set of stairs like in someone's house.
+
+//TEXT
+<enT0266>It was really creepy.
+<ptT0266>It was really creepy.
+
+//TEXT 【Yuki】
+<enT0267>"Huh? Those stairs led right into a classroom."
+<ptT0267>"Huh? Those stairs led right into a classroom."
+
+//TEXT 【Zakuro】
+<enT0268>"The living room was connected to the classroom, huh? Heheh. If you lived in a house like that, you would never be late, would you?"
+<ptT0268>"The living room was connected to the classroom, huh? Heheh. If you lived in a house like that, you would never be late, would you?"
+
+//TEXT 【Yuki】
+<enT0269>"But on the other hand, your teacher could come to your room and ask, 'Are you doing your homework?'"
+<ptT0269>"But on the other hand, your teacher could come to your room and ask, 'Are you doing your homework?'"
+
+//TEXT 【Zakuro】
+<enT0270>"Ahaha. You're right, that might be annoying."
+<ptT0270>"Ahaha. You're right, that might be annoying."
+
+//TEXT
+<enT0271>A plate was set upon the podium.
+<ptT0271>A plate was set upon the podium.
+
+//TEXT
+<enT0272>Title of this piece\n"End of the Classroom"
+<ptT0272>Title of this piece\n"End of the Classroom"
+
+//TEXT
+<enT0273>A convenience store, a living room, and then a classroom.
+<ptT0273>A convenience store, a living room, and then a classroom.
+
+//TEXT
+<enT0274>I see. So the designer was trying to bring out a feeling of unease.
+<ptT0274>I see. So the designer was trying to bring out a feeling of unease.
+
+//TEXT
+<enT0275>There was no one in all these places where people should be, and the riders feel like intruders for being in places where they shouldn't be.
+<ptT0275>There was no one in all these places where people should be, and the riders feel like intruders for being in places where they shouldn't be.
+
+//TEXT 【Yuki】
+<enT0276>"I see. So that's what it meant by 'spirit room.'"
+<ptT0276>"I see. So that's what it meant by 'spirit room.'"
+
+//TEXT 【Zakuro】
+<enT0277>"What do you mean?"
+<ptT0277>"What do you mean?"
+
+//TEXT 【Yuki】
+<enT0278>"All of the rooms are places that exist so that people can live in them. And when you suddenly take the people out of them, and look at all of these places from this gondola..."
+<ptT0278>"All of the rooms are places that exist so that people can live in them. And when you suddenly take the people out of them, and look at all of these places from this gondola..."
+
+//TEXT 【Yuki】
+<enT0279>"We get to look into these people's lifestyles, as if those lifestyles had been amputated and preserved in a jar."
+<ptT0279>"We get to look into these people's lifestyles, as if those lifestyles had been amputated and preserved in a jar."
+
+//TEXT 【Yuki】
+<enT0280>"I think we're the spirits on this ride."
+<ptT0280>"I think we're the spirits on this ride."
+
+//TEXT 【Zakuro】
+<enT0281>"So there won't be any ghosts popping out and scaring us?"
+<ptT0281>"So there won't be any ghosts popping out and scaring us?"
+
+//TEXT 【Yuki】
+<enT0282>"I don't think they're going to do anything crude like that."
+<ptT0282>"I don't think they're going to do anything crude like that."
+
+//TEXT 【Yuki】
+<enT0283>"If any ghosts appeared, we would go back to being human."
+<ptT0283>"If any ghosts appeared, we would go back to being human."
+
+//TEXT
+<enT0284>The gondola left the classroom and went out into the hallway.
+<ptT0284>The gondola left the classroom and went out into the hallway.
+
+//TEXT
+<enT0285>Just how big was this building?
+<ptT0285>Just how big was this building?
+
+//TEXT 【Zakuro】
+<enT0286>"It's a really long ride, isn't it?"
+<ptT0286>"It's a really long ride, isn't it?"
+
+//TEXT 【Yuki】
+<enT0287>"Yeah. It's just showing us all these deserted scenes, but it's scary how big this place is."
+<ptT0287>"Yeah. It's just showing us all these deserted scenes, but it's scary how big this place is."
+
+//TEXT
+<enT0288>The gondola kept moving through the hallway. The rust was causing a high-pitched whine.
+<ptT0288>The gondola kept moving through the hallway. The rust was causing a high-pitched whine.
+
+//TEXT
+<enT0289>The gondola advanced past the classroom and... stopped.
+<ptT0289>The gondola advanced past the classroom and... stopped.
+
+//TEXT 【Zakuro】
+<enT0290>"It stopped."
+<ptT0290>"It stopped."
+
+//TEXT 【Yuki】
+<enT0291>"Yeah."
+<ptT0291>"Yeah."
+
+//TEXT
+<enT0292>A bell rang behind us as a door closed.
+<ptT0292>A bell rang behind us as a door closed.
+
+//TEXT
+<enT0293>The gondola rotated around, and...
+<ptT0293>The gondola rotated around, and...
+
+//TEXT 【Yuki】
+<enT0294>"Somehow we ended up in another elevator."
+<ptT0294>"Somehow we ended up in another elevator."
+
+//TEXT 【Zakuro】
+<enT0295>"Yes. It really is a huge building, isn't it?"
+<ptT0295>"Yes. It really is a huge building, isn't it?"
+
+//TEXT
+<enT0296>Title of this piece\n"The Final Abode"
+<ptT0296>Title of this piece\n"The Final Abode"
+
+//TEXT 【Yuki】
+<enT0297>"'The Final Abode'... That's kind of a gross name for a hospital."
+<ptT0297>"'The Final Abode'... That's kind of a gross name for a hospital."
+
+//TEXT 【Zakuro】
+<enT0298>"By the 'The Final Abode,' they mean the place where you live while waiting to die, I guess."
+<ptT0298>"By the 'The Final Abode,' they mean the place where you live while waiting to die, I guess."
+
+//TEXT 【Yuki】
+<enT0299>"You might be right. Most people die in the hospital, but that's a creepy way of saying it."
+<ptT0299>"You might be right. Most people die in the hospital, but that's a creepy way of saying it."
+
+//TEXT
+<enT0300>Nevertheless, this was a hell of a design.
+<ptT0300>Nevertheless, this was a hell of a design.
+
+//TEXT
+<enT0301>The gondola started to move into the bed.
+<ptT0301>The gondola started to move into the bed.
+
+//TEXT 【Zakuro】
+<enT0302>"Whoa, we're going to run into it."
+<ptT0302>"Whoa, we're going to run into it."
+
+//TEXT 【Yuki】
+<enT0303>"Whoa!"
+<ptT0303>"Whoa!"
+
+//TEXT
+<enT0304>The gondola went into the bed.
+<ptT0304>The gondola went into the bed.
+
+//TEXT
+<enT0305>What kind of structure did this ride have?
+<ptT0305>What kind of structure did this ride have?
+
+//TEXT 【Zakuro】
+<enT0306>"It's dark, isn't it?"
+<ptT0306>"It's dark, isn't it?"
+
+//TEXT 【Yuki】
+<enT0307>"Yeah. It's pitch black."
+<ptT0307>"Yeah. It's pitch black."
+
+//TEXT 【Zakuro】
+<enT0308>"Oh, there's a light."
+<ptT0308>"Oh, there's a light."
+
+//TEXT
+<enT0309>The blue sky spread out above us.
+<ptT0309>The blue sky spread out above us.
+
+//TEXT
+<enT0310>And...
+<ptT0310>And...
+
+//TEXT
+<enT0311>When we looked down...
+<ptT0311>When we looked down...
+
+//TEXT
+<enT0312>There was another plate.
+<ptT0312>There was another plate.
+
+//TEXT
+<enT0313>Title of this piece\n"The End Sky"
+<ptT0313>Title of this piece\n"The End Sky"
+
+//TEXT 【Yuki】
+<enT0314>"I see. So that's what it was."
+<ptT0314>"I see. So that's what it was."
+
+//TEXT
+<enT0315>A tremor ran up my spine, twisting my face into a jagged smile.
+<ptT0315>A tremor ran up my spine, twisting my face into a jagged smile.
+
+//TEXT
+<enT0316>Normally, you were supposed to be scared when you were inside a haunted house, not when you left it.
+<ptT0316>Normally, you were supposed to be scared when you were inside a haunted house, not when you left it.
+
+//TEXT
+<enT0317>But for some reason, this one was different.
+<ptT0317>But for some reason, this one was different.
+
+//TEXT
+<enT0318>It felt as if everything up to this point was a prelude.
+<ptT0318>It felt as if everything up to this point was a prelude.
+
+//TEXT
+<enT0319>The creepy feeling from all the deserted places where people should've been, and all the places where we had no right to be, culminated beneath this sky.
+<ptT0319>The creepy feeling from all the deserted places where people should've been, and all the places where we had no right to be, culminated beneath this sky.
+
+//TEXT
+<enT0320>Just like that, the gondola stopped.
+<ptT0320>Just like that, the gondola stopped.
+
+//TEXT
+<enT0321>It seemed like the ride should return to the beginning for the next person, but if this wasn't the end, it would be like the plate was lying.
+<ptT0321>It seemed like the ride should return to the beginning for the next person, but if this wasn't the end, it would be like the plate was lying.
+
+//TEXT 【Yuki】
+<enT0322>"Th-That was kind of weird."
+<ptT0322>"Th-That was kind of weird."
+
+//TEXT 【Zakuro】
+<enT0323>"Heheh. I suppose so."
+<ptT0323>"Heheh. I suppose so."
+
+//TEXT 【Yuki】
+<enT0324>"Well then, how about we ride something fun next?"
+<ptT0324>"Well then, how about we ride something fun next?"
+
+//TEXT 【Zakuro】
+<enT0325>"That sounds good. It would be nice to ride something more relaxing."
+<ptT0325>"That sounds good. It would be nice to ride something more relaxing."
+
+//TEXT
+<enT0326>Really, who the heck would make a ride like that?
+<ptT0326>Really, who the heck would make a ride like that?
+
+//TEXT
+<enT0327>I doubted there was any particular meaning to it. But still, it wasn't a very pleasant experience.
+<ptT0327>I doubted there was any particular meaning to it. But still, it wasn't a very pleasant experience.
+
+//TEXT 【Yuki】
+<enT0328>"A ride where you can experience the feeling of being a ghost..."
+<ptT0328>"A ride where you can experience the feeling of being a ghost..."
+
+//TEXT 【Zakuro】
+<enT0329>"Yuki-sama, look! There's a boat over here!"
+<ptT0329>"Yuki-sama, look! There's a boat over here!"
+
+//TEXT 【Yuki】
+<enT0330>"Oh, sure. Just a sec."
+<ptT0330>"Oh, sure. Just a sec."
+
+//TEXT 【Zakuro】
+<enT0331>"Yuki-sama, how does that sound? Would you ride the boat with me?"
+<ptT0331>"Yuki-sama, how does that sound? Would you ride the boat with me?"
+
+//TEXT 【Yuki】
+<enT0332>"Oh, that might be nice. After that weird ride, a boat ride would probably feel good."
+<ptT0332>"Oh, that might be nice. After that weird ride, a boat ride would probably feel good."
+
+//TEXT
+<enT0333>Creak... Creak...
+<ptT0333>Creak... Creak...
+
+//TEXT
+<enT0334>Creak... Creak...
+<ptT0334>Creak... Creak...
+
+//TEXT 【Zakuro】
+<enT0335>"I'm sorry about this. I'm making you row, even though I'm the maid."
+<ptT0335>"I'm sorry about this. I'm making you row, even though I'm the maid."
+
+//TEXT 【Yuki】
+<enT0336>"It's nothing. Ahaha..."
+<ptT0336>"It's nothing. Ahaha..."
+
+//TEXT
+<enT0337>At first, Takashima-san said she was going to row, but with her at the oars, we'd hardly moved at all.
+<ptT0337>At first, Takashima-san said she was going to row, but with her at the oars, we'd hardly moved at all.
+
+//TEXT 【Yuki】
+<enT0338>"I'm not very good at this, so just say something if you're feeling seasick."
+<ptT0338>"I'm not very good at this, so just say something if you're feeling seasick."
+
+//TEXT 【Zakuro】
+<enT0339>"I'm fine. There's no way I would get sick from your rowing."
+<ptT0339>"I'm fine. There's no way I would get sick from your rowing."
+
+//TEXT 【Yuki】
+<enT0340>"How can you say that with such certainty?"
+<ptT0340>"How can you say that with such certainty?"
+
+//TEXT 【Zakuro】
+<enT0341>"Ahaha. I wonder why."
+<ptT0341>"Ahaha. I wonder why."
+
+//TEXT 【Zakuro】
+<enT0342>"The breeze on this lake is always nice and cool."
+<ptT0342>"The breeze on this lake is always nice and cool."
+
+//TEXT 【Yuki】
+<enT0343>"This is the first time I've been here, so I wouldn't know."
+<ptT0343>"This is the first time I've been here, so I wouldn't know."
+
+//TEXT 【Zakuro】
+<enT0344>"It feels really good. I think it's wonderful."
+<ptT0344>"It feels really good. I think it's wonderful."
+
+//TEXT 【Yuki】
+<enT0345>"Yeah, the water draws the cool breeze over the lake, doesn't it?"
+<ptT0345>"Yeah, the water draws the cool breeze over the lake, doesn't it?"
+
+//TEXT 【Zakuro】
+<enT0346>"It feels so nice..."
+<ptT0346>"It feels so nice..."
+
+//TEXT 【Zakuro】
+<enT0347>"The water looks like a mirror reflecting the sky, like we're in a boat flying through the heavens."
+<ptT0347>"The water looks like a mirror reflecting the sky, like we're in a boat flying through the heavens."
+
+//TEXT 【Yuki】
+<enT0348>"I see what you mean, but that would be kinda scary."
+<ptT0348>"I see what you mean, but that would be kinda scary."
+
+//TEXT 【Zakuro】
+<enT0349>"Do you think so? I think it feels good to walk through the clouds."
+<ptT0349>"Do you think so? I think it feels good to walk through the clouds."
+
+//TEXT 【Yuki】
+<enT0350>"Ahaha. You say that as if you've actually done it before."
+<ptT0350>"Ahaha. You say that as if you've actually done it before."
+
+//TEXT 【Yuki】
+<enT0351>"I've never walked on a cloud before, so I wouldn't know. I just think it's kind of scary to imagine us being up in the sky."
+<ptT0351>"I've never walked on a cloud before, so I wouldn't know. I just think it's kind of scary to imagine us being up in the sky."
+
+//TEXT 【Zakuro】
+<enT0352>"Scary, is it? That's the opposite of what you said last time."
+<ptT0352>"Scary, is it? That's the opposite of what you said last time."
+
+//TEXT 【Yuki】
+<enT0353>"Last time?"
+<ptT0353>"Last time?"
+
+//TEXT 【Zakuro】
+<enT0354>"Oh, it's nothing. I'm just talking to myself."
+<ptT0354>"Oh, it's nothing. I'm just talking to myself."
+
+//TEXT
+<enT0355>Creak... Creak...
+<ptT0355>Creak... Creak...
+
+//TEXT
+<enT0356>Creak... Creak...
+<ptT0356>Creak... Creak...
+
+//TEXT 【Zakuro】
+<enT0357>"Heheh."
+<ptT0357>"Heheh."
+
+//TEXT 【Yuki】
+<enT0358>"Hmm? What's up?"
+<ptT0358>"Hmm? What's up?"
+
+//TEXT 【Zakuro】
+<enT0359>"Oh, it's just... Look, if I touch the water, it's like I can reach out and touch the sky, I guess. That's all."
+<ptT0359>"Oh, it's just... Look, if I touch the water, it's like I can reach out and touch the sky, I guess. That's all."
+
+//TEXT 【Yuki】
+<enT0360>"Hehehe. That's interesting."
+<ptT0360>"Hehehe. That's interesting."
+
+//TEXT 【Zakuro】
+<enT0361>"That's something I heard from the person I loved."
+<ptT0361>"That's something I heard from the person I loved."
+
+//TEXT 【Yuki】
+<enT0362>"Oh? He was a poet, wasn't he?"
+<ptT0362>"Oh? He was a poet, wasn't he?"
+
+//TEXT 【Zakuro】
+<enT0363>"He was a poet, a swordsman, a philosopher, and a pioneer of aerodynamics."
+<ptT0363>"He was a poet, a swordsman, a philosopher, and a pioneer of aerodynamics."
+
+//TEXT 【Yuki】
+<enT0364>"..."
+<ptT0364>"..."
+
+//TEXT
+<enT0365>......
+<ptT0365>......
+
+//TEXT
+<enT0366>...
+<ptT0366>...
+
+//TEXT 【Yuki】
+<enT0367>"...♪"
+<ptT0367>"...♪"
+
+//TEXT 【Zakuro】
+<enT0368>"..."
+<ptT0368>"..."
+
+//TEXT
+<enT0369>We were on the train back home.
+<ptT0369>We were on the train back home.
+
+//TEXT
+<enT0370>It felt nice. Our languid spirits swayed back and forth with the movement of the train.
+<ptT0370>It felt nice. Our languid spirits swayed back and forth with the movement of the train.
+
+//TEXT
+<enT0371>And then...
+<ptT0371>And then...
+
+//TEXT
+<enT0372>Music.
+<ptT0372>Music.
+
+//TEXT
+<enT0373>Takashima-san looked like she was enjoying listening to my music.
+<ptT0373>Takashima-san looked like she was enjoying listening to my music.
+
+//TEXT
+<enT0374>I had her listen to a few songs, judging what genres she liked from her expression. It seemed like Takashima-san enjoyed the classical music.
+<ptT0374>I had her listen to a few songs, judging what genres she liked from her expression. It seemed like Takashima-san enjoyed the classical music.
+
+//TEXT
+<enT0375>I told her that this recording was from a New Year's concert they held every year in a foreign country.
+<ptT0375>I told her that this recording was from a New Year's concert they held every year in a foreign country.
+
+//TEXT
+<enT0376>Their conductor was lauded as a genius, and he led the most famous philharmonic in the world.
+<ptT0376>Their conductor was lauded as a genius, and he led the most famous philharmonic in the world.
+
+//TEXT
+<enT0377>Waltz.
+<ptT0377>Waltz.
+
+//TEXT
+<enT0378>Polka.
+<ptT0378>Polka.
+
+//TEXT
+<enT0379>March.
+<ptT0379>March.
+
+//TEXT
+<enT0380>A dancing melody.
+<ptT0380>A dancing melody.
+
+//TEXT
+<enT0381>The swaying of the train seemed to match the rhythm of the songs.
+<ptT0381>The swaying of the train seemed to match the rhythm of the songs.
+
+//TEXT
+<enT0382>I felt her softly put her hand on my hand that was holding the music player.
+<ptT0382>I felt her softly put her hand on my hand that was holding the music player.
+
+//TEXT
+<enT0383>Fittingly, the name on the screen was Vergnugungszug, "Pleasure Train."
+<ptT0383>Fittingly, the name on the screen was Vergnugungszug, "Pleasure Train."
+
+//TEXT
+<enT0384>Ours was just a ride across town, not a journey, but the relaxed feeling was the same. The song almost made the scenery outside look like it was glowing.
+<ptT0384>Ours was just a ride across town, not a journey, but the relaxed feeling was the same. The song almost made the scenery outside look like it was glowing.
+
+//TEXT 【Zakuro】
+<enT0385>"Do you like classical music?"
+<ptT0385>"Do you like classical music?"
+
+//TEXT 【Yuki】
+<enT0386>"Well, my mother used to be really strict, and she made me practice the piano."
+<ptT0386>"Well, my mother used to be really strict, and she made me practice the piano."
+
+//TEXT 【Zakuro】
+<enT0387>"You can play the piano, then?"
+<ptT0387>"You can play the piano, then?"
+
+//TEXT 【Yuki】
+<enT0388>"Yeah, as long as it's not too hard, I can manage."
+<ptT0388>"Yeah, as long as it's not too hard, I can manage."
+
+//TEXT 【Zakuro】
+<enT0389>"Then could you play for me, tonight?"
+<ptT0389>"Then could you play for me, tonight?"
+
+//TEXT 【Yuki】
+<enT0390>"Tonight?"
+<ptT0390>"Tonight?"
+
+//TEXT 【Zakuro】
+<enT0391>"Yes. I know a store where they have a piano."
+<ptT0391>"Yes. I know a store where they have a piano."
+
+//TEXT 【Yuki】
+<enT0392>"Is that so?"
+<ptT0392>"Is that so?"
+
+//TEXT 【Zakuro】
+<enT0393>"Yes, though it's a place I heard about from the person I loved."
+<ptT0393>"Yes, though it's a place I heard about from the person I loved."
+
+//TEXT 【Yuki】
+<enT0394>"Oh, is it?"
+<ptT0394>"Oh, is it?"
+
+//TEXT 【Zakuro】
+<enT0395>"Would you mind going with me?"
+<ptT0395>"Would you mind going with me?"
+
+//TEXT 【Yuki】
+<enT0396>"I'd be glad to."
+<ptT0396>"I'd be glad to."
+
+//TEXT 【Yuki】
+<enT0397>"This kind of looks like a bar or something."
+<ptT0397>"This kind of looks like a bar or something."
+
+//TEXT 【Zakuro】
+<enT0398>"Don't worry about that. Here, sit on this seat."
+<ptT0398>"Don't worry about that. Here, sit on this seat."
+
+//TEXT 【Yuki】
+<enT0399>"You're right. There is a piano."
+<ptT0399>"You're right. There is a piano."
+
+//TEXT 【Zakuro】
+<enT0400>"Yes. Here."
+<ptT0400>"Yes. Here."
+
+//TEXT
+<enT0401>Takashima-san handed me a key.
+<ptT0401>Takashima-san handed me a key.
+
+//TEXT 【Yuki】
+<enT0402>"What's this?"
+<ptT0402>"What's this?"
+
+//TEXT 【Zakuro】
+<enT0403>"The key to the piano... This bar's piano."
+<ptT0403>"The key to the piano... This bar's piano."
+
+//TEXT 【Yuki】
+<enT0404>"Why do you have a key? Do you work here or something?"
+<ptT0404>"Why do you have a key? Do you work here or something?"
+
+//TEXT 【Zakuro】
+<enT0405>"Heheh. Who knows?"
+<ptT0405>"Heheh. Who knows?"
+
+//TEXT 【Yuki】
+<enT0406>"The name is... Hakushuukyou Bar. Hmm?"
+<ptT0406>"The name is... Hakushuukyou Bar. Hmm?"
+
+//TEXT
+<enT0407>I guess all bars really do look the same. This was my first time in the place, but it felt oddly familiar.
+<ptT0407>I guess all bars really do look the same. This was my first time in the place, but it felt oddly familiar.
+
+//TEXT 【Yuki】
+<enT0408>"Is it all right if I play this piano?"
+<ptT0408>"Is it all right if I play this piano?"
+
+//TEXT 【Zakuro】
+<enT0409>"There's no problem at all. Please, play the piano."
+<ptT0409>"There's no problem at all. Please, play the piano."
+
+//TEXT 【Yuki】
+<enT0410>"Ah, sure."
+<ptT0410>"Ah, sure."
+
+//TEXT
+<enT0411>I played a few notes. It was pretty well tuned.
+<ptT0411>I played a few notes. It was pretty well tuned.
+
+//TEXT
+<enT0412>Actually, the piano felt like it was really easy to play. It seemed that the piano and I were compatible.
+<ptT0412>Actually, the piano felt like it was really easy to play. It seemed that the piano and I were compatible.
+
+//TEXT 【Yuki】
+<enT0413>"Is there anything you'd like to hear?"
+<ptT0413>"Is there anything you'd like to hear?"
+
+//TEXT 【Zakuro】
+<enT0414>"Yes. For the first one, Erik Satie. Le Picadilly would be nice."
+<ptT0414>"Yes. For the first one, Erik Satie. Le Picadilly would be nice."
+
+//TEXT 【Yuki】
+<enT0415>"Oh, you listen to Satie. Good taste."
+<ptT0415>"Oh, you listen to Satie. Good taste."
+
+//TEXT 【Zakuro】
+<enT0416>"That's right. Enjoying Satie is in good taste. He was a great composer."
+<ptT0416>"That's right. Enjoying Satie is in good taste. He was a great composer."
+
+//TEXT 【Yuki】
+<enT0417>"Oh, that's rare. Are you singing your own praises now?"
+<ptT0417>"Oh, that's rare. Are you singing your own praises now?"
+
+//TEXT 【Zakuro】
+<enT0418>"I guess I am."
+<ptT0418>"I guess I am."
+
+//TEXT 【Yuki】
+<enT0419>"What a coincidence, though. I like Satie too."
+<ptT0419>"What a coincidence, though. I like Satie too."
+
+//TEXT
+<enT0420>I spread my fingers over the keys.
+<ptT0420>I spread my fingers over the keys.
+
+//TEXT
+<enT0421>I closed my eyes for a moment, and then...
+<ptT0421>I closed my eyes for a moment, and then...
+
+//TEXT
+<enT0422>My fingers danced.
+<ptT0422>My fingers danced.
+
+//TEXT
+<enT0423>As I struck the keys, layers of different tones flowed out from the piano.
+<ptT0423>As I struck the keys, layers of different tones flowed out from the piano.
+
+//TEXT
+<enT0424>The music wove a tapestry of good cheer.
+<ptT0424>The music wove a tapestry of good cheer.
+
+//TEXT
+<enT0425>It was a happy rhythm.
+<ptT0425>It was a happy rhythm.
+
+//TEXT
+<enT0426>Bright.
+<ptT0426>Bright.
+
+//TEXT
+<enT0427>Ornate.
+<ptT0427>Ornate.
+
+//TEXT
+<enT0428>And somehow nostalgic.
+<ptT0428>And somehow nostalgic.
+
+//TEXT
+<enT0429>It felt simple and candid.
+<ptT0429>It felt simple and candid.
+
+//TEXT
+<enT0430>Satie's music blends into the human lifestyle like a piece of furniture.
+<ptT0430>Satie's music blends into the human lifestyle like a piece of furniture.
+
+//TEXT
+<enT0431>Takashima-san listened quietly.
+<ptT0431>Takashima-san listened quietly.
+
+//TEXT
+<enT0432>I was having fun playing.
+<ptT0432>I was having fun playing.
+
+//TEXT 【Yuki】
+<enT0433>"How was it?"
+<ptT0433>"How was it?"
+
+//TEXT 【Zakuro】
+<enT0434>"It was wonderful."
+<ptT0434>"It was wonderful."
+
+//TEXT 【Yuki】
+<enT0435>"I had fun, too. I haven't played in a long time."
+<ptT0435>"I had fun, too. I haven't played in a long time."
+
+//TEXT
+<enT0436>And I didn't feel rusty at all.
+<ptT0436>And I didn't feel rusty at all.
+
+//TEXT
+<enT0437>I hadn't been practicing on the piano at home, so I thought that I would mess up, but...
+<ptT0437>I hadn't been practicing on the piano at home, so I thought that I would mess up, but...
+
+//TEXT 【Zakuro】
+<enT0438>"Could you play one more?"
+<ptT0438>"Could you play one more?"
+
+//TEXT 【Yuki】
+<enT0439>"Yeah, sure. What song?"
+<ptT0439>"Yeah, sure. What song?"
+
+//TEXT 【Zakuro】
+<enT0440>"I would like to hear your favorite song."
+<ptT0440>"I would like to hear your favorite song."
+
+//TEXT 【Yuki】
+<enT0441>"My favorite?"
+<ptT0441>"My favorite?"
+
+//TEXT 【Zakuro】
+<enT0442>"Yes, your number one favorite song."
+<ptT0442>"Yes, your number one favorite song."
+
+//TEXT 【Yuki】
+<enT0443>"My favorite, huh?"
+<ptT0443>"My favorite, huh?"
+
+//TEXT
+<enT0444>I faced the piano again and closed my eyes.
+<ptT0444>I faced the piano again and closed my eyes.
+
+//TEXT
+<enT0445>I slowly opened my hands, and...
+<ptT0445>I slowly opened my hands, and...
+
+//TEXT
+<enT0446>I began to play.
+<ptT0446>I began to play.
+
+//TEXT
+<enT0447>I played my favorite song.
+<ptT0447>I played my favorite song.
+
+//TEXT
+<enT0448>Takashima-san listened with a happy expression on her face.
+<ptT0448>Takashima-san listened with a happy expression on her face.
+
+//TEXT
+<enT0449>I had to wonder if she knew this song.
+<ptT0449>I had to wonder if she knew this song.
+
+//TEXT
+<enT0450>If she liked Satie, she might have heard it before. It was a famous song.
+<ptT0450>If she liked Satie, she might have heard it before. It was a famous song.
+
+//TEXT
+<enT0451>"The Dreamy Fish." That was the title.
+<ptT0451>"The Dreamy Fish." That was the title.
+
+//TEXT
+<enT0452>It was about the dream a fish living in the ocean might have. That was the image the melody evoked.
+<ptT0452>It was about the dream a fish living in the ocean might have. That was the image the melody evoked.
+
+//TEXT
+<enT0453>They say Satie's titles were often different from the actual content of the pieces.
+<ptT0453>They say Satie's titles were often different from the actual content of the pieces.
+
+//TEXT
+<enT0454>He didn't want people's impressions to be affected by the title he gave it.
+<ptT0454>He didn't want people's impressions to be affected by the title he gave it.
+
+//TEXT
+<enT0455>That was why a lot of his compositions had strange titles.
+<ptT0455>That was why a lot of his compositions had strange titles.
+
+//TEXT
+<enT0456>Embryons desseches. Deux preludes pour un chien. Sonatine bureaucratique. Trois morceaux en forme de poire. Tons of songs like that.
+<ptT0456>Embryons desseches. Deux preludes pour un chien. Sonatine bureaucratique. Trois morceaux en forme de poire. Tons of songs like that.
+
+//TEXT
+<enT0457>But it felt like this song really was about a fish dreaming.
+<ptT0457>But it felt like this song really was about a fish dreaming.
+
+//TEXT 【Yuki】
+<enT0458>"How was it?"
+<ptT0458>"How was it?"
+
+//TEXT 【Zakuro】
+<enT0459>"..."
+<ptT0459>"..."
+
+//TEXT 【Yuki】
+<enT0460>"Wh-What's wrong?"
+<ptT0460>"Wh-What's wrong?"
+
+//TEXT 【Zakuro】
+<enT0461>"Yes... Thank you very much."
+<ptT0461>"Yes... Thank you very much."
+
+//TEXT 【Yuki】
+<enT0462>"Huh? A-Are you crying?"
+<ptT0462>"Huh? A-Are you crying?"
+
+//TEXT 【Zakuro】
+<enT0463>"No... I'm not crying."
+<ptT0463>"No... I'm not crying."
+
+//TEXT 【Yuki】
+<enT0464>"But..."
+<ptT0464>"But..."
+
+//TEXT 【Zakuro】
+<enT0465>"No, just... thank you."
+<ptT0465>"No, just... thank you."
+
+//TEXT 【Zakuro】
+<enT0466>"This semester is going to end soon."
+<ptT0466>"This semester is going to end soon."
+
+//TEXT 【Yuki】
+<enT0467>"Yeah it is, although we skipped today."
+<ptT0467>"Yeah it is, although we skipped today."
+
+//TEXT 【Zakuro】
+<enT0468>"Yep. So with today, it's over."
+<ptT0468>"Yep. So with today, it's over."
+
+//TEXT 【Yuki】
+<enT0469>"It's over?"
+<ptT0469>"It's over?"
+
+//TEXT 【Zakuro】
+<enT0470>"Yes, that's why I dragged you along to the amusement park."
+<ptT0470>"Yes, that's why I dragged you along to the amusement park."
+
+//TEXT 【Yuki】
+<enT0471>"Wh-What do you mean? I don't understand what you're saying."
+<ptT0471>"Wh-What do you mean? I don't understand what you're saying."
+
+//TEXT 【Zakuro】
+<enT0472>"At the end of this semester, I'm transferring to a different school."
+<ptT0472>"At the end of this semester, I'm transferring to a different school."
+
+//TEXT 【Yuki】
+<enT0473>"Huh?"
+<ptT0473>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0474>"I'll only be here in this city until the 20th, when the semester ends."
+<ptT0474>"I'll only be here in this city until the 20th, when the semester ends."
+
+//TEXT 【Yuki】
+<enT0475>"R-Really?"
+<ptT0475>"R-Really?"
+
+//TEXT 【Zakuro】
+<enT0476>"Yes. I've almost completely moved out already, but I wanted to at least stay and finish the semester."
+<ptT0476>"Yes. I've almost completely moved out already, but I wanted to at least stay and finish the semester."
+
+//TEXT 【Yuki】
+<enT0477>"Oh... I see."
+<ptT0477>"Oh... I see."
+
+//TEXT 【Zakuro】
+<enT0478>"So tomorrow is the last day I can stay at your house."
+<ptT0478>"So tomorrow is the last day I can stay at your house."
+
+//TEXT 【Zakuro】
+<enT0479>"I have to leave this city the day after tomorrow."
+<ptT0479>"I have to leave this city the day after tomorrow."
+
+//TEXT 【Yuki】
+<enT0480>"Why did you stay until now, then?"
+<ptT0480>"Why did you stay until now, then?"
+
+//TEXT 【Yuki】
+<enT0481>"It sounds like your parents have already moved. It must have been hard to convince them to let you stay."
+<ptT0481>"It sounds like your parents have already moved. It must have been hard to convince them to let you stay."
+
+//TEXT 【Zakuro】
+<enT0482>"Yes. I insisted they let me stay at least until the semester ended."
+<ptT0482>"Yes. I insisted they let me stay at least until the semester ended."
+
+//TEXT 【Yuki】
+<enT0483>"Why did you do that? Was there something you still had to do before leaving?"
+<ptT0483>"Why did you do that? Was there something you still had to do before leaving?"
+
+//TEXT 【Zakuro】
+<enT0484>"Yes, there was. There was a person that I had to meet, no matter what."
+<ptT0484>"Yes, there was. There was a person that I had to meet, no matter what."
+
+//TEXT 【Zakuro】
+<enT0485>"And I remembered the legend."
+<ptT0485>"And I remembered the legend."
+
+//TEXT 【Yuki】
+<enT0486>"What legend?"
+<ptT0486>"What legend?"
+
+//TEXT 【Zakuro】
+<enT0487>"About the place where the girl of the sky meets the girl who is the world itself."
+<ptT0487>"About the place where the girl of the sky meets the girl who is the world itself."
+
+//TEXT 【Zakuro】
+<enT0488>"That legend has become a sort of spell on this town."
+<ptT0488>"That legend has become a sort of spell on this town."
+
+//TEXT 【Yuki】
+<enT0489>"A spell?"
+<ptT0489>"A spell?"
+
+//TEXT 【Zakuro】
+<enT0490>"It's famous. So you really didn't know. It's a spell that lets you find the person you love."
+<ptT0490>"It's famous. So you really didn't know. It's a spell that lets you find the person you love."
+
+//TEXT 【Yuki】
+<enT0491>"I see. So then, the last person you wanted to meet was the person you loved."
+<ptT0491>"I see. So then, the last person you wanted to meet was the person you loved."
+
+//TEXT 【Zakuro】
+<enT0492>"Yes."
+<ptT0492>"Yes."
+
+//TEXT 【Yuki】
+<enT0493>"Then you shouldn't be trying to use a charm or anything. If you asked us, we could've helped you find him."
+<ptT0493>"Then you shouldn't be trying to use a charm or anything. If you asked us, we could've helped you find him."
+
+//TEXT 【Zakuro】
+<enT0494>"No, there's no need to search."
+<ptT0494>"No, there's no need to search."
+
+//TEXT 【Yuki】
+<enT0495>"Huh? What do you mean, no need?"
+<ptT0495>"Huh? What do you mean, no need?"
+
+//TEXT 【Zakuro】
+<enT0496>"You see, the spell worked properly."
+<ptT0496>"You see, the spell worked properly."
+
+//TEXT 【Yuki】
+<enT0497>"It worked? You mean you managed to find the person you were looking for?"
+<ptT0497>"It worked? You mean you managed to find the person you were looking for?"
+
+//TEXT 【Zakuro】
+<enT0498>"Yes, thanks to you."
+<ptT0498>"Yes, thanks to you."
+
+//TEXT 【Yuki】
+<enT0499>"B-But isn't that a bit strange? You say you found the person you loved, but you spent the entire time at my place, right? What exactly were you doing?"
+<ptT0499>"B-But isn't that a bit strange? You say you found the person you loved, but you spent the entire time at my place, right? What exactly were you doing?"
+
+//TEXT 【Zakuro】
+<enT0500>"Because the person I wanted to meet was Yuki-sama. It was you."
+<ptT0500>"Because the person I wanted to meet was Yuki-sama. It was you."
+
+//TEXT 【Yuki】
+<enT0501>"Me?"
+<ptT0501>"Me?"
+
+//TEXT 【Zakuro】
+<enT0502>"Yes."
+<ptT0502>"Yes."
+
+//TEXT 【Yuki】
+<enT0503>"Um, let me get this straight. Uh, first off, we're both girls, and besides, you didn't even know me until after you dropped the doll on my head."
+<ptT0503>"Um, let me get this straight. Uh, first off, we're both girls, and besides, you didn't even know me until after you dropped the doll on my head."
+
+//TEXT 【Zakuro】
+<enT0504>"That's how it seems to you, but that's just because you're so forgetful."
+<ptT0504>"That's how it seems to you, but that's just because you're so forgetful."
+
+//TEXT 【Zakuro】
+<enT0505>"If my being a girl is a problem, you should say that to the other two, not just me."
+<ptT0505>"If my being a girl is a problem, you should say that to the other two, not just me."
+
+//TEXT 【Yuki】
+<enT0506>"By the other two, you mean..."
+<ptT0506>"By the other two, you mean..."
+
+//TEXT 【Zakuro】
+<enT0507>"Kagami-san and Tsukasa-san."
+<ptT0507>"Kagami-san and Tsukasa-san."
+
+//TEXT 【Yuki】
+<enT0508>"Um, they were probably just playing along, you know?"
+<ptT0508>"Um, they were probably just playing along, you know?"
+
+//TEXT 【Zakuro】
+<enT0509>"Maybe so. They probably were."
+<ptT0509>"Maybe so. They probably were."
+
+//TEXT 【Zakuro】
+<enT0510>"But when someone falls in love with another person, that's just how it is. Or do you think falling in love is something intentional?"
+<ptT0510>"But when someone falls in love with another person, that's just how it is. Or do you think falling in love is something intentional?"
+
+//TEXT 【Yuki】
+<enT0511>"Uh, no... That's not it. How can I put it?"
+<ptT0511>"Uh, no... That's not it. How can I put it?"
+
+//TEXT 【Zakuro】
+<enT0512>"I had a lot of fun the last few days."
+<ptT0512>"I had a lot of fun the last few days."
+
+//TEXT 【Zakuro】
+<enT0513>"At first I thought that I only wanted to be with you because I like you, but as the days went by, I realized that I like Kagami-san and Tsukasa-san too."
+<ptT0513>"At first I thought that I only wanted to be with you because I like you, but as the days went by, I realized that I like Kagami-san and Tsukasa-san too."
+
+//TEXT 【Zakuro】
+<enT0514>"I loved being together with you all."
+<ptT0514>"I loved being together with you all."
+
+//TEXT 【Yuki】
+<enT0515>"Takashima-san..."
+<ptT0515>"Takashima-san..."
+
+//TEXT 【Zakuro】
+<enT0516>"Competing with Kagami-san for you, playing with Tsukasa-san..."
+<ptT0516>"Competing with Kagami-san for you, playing with Tsukasa-san..."
+
+//TEXT 【Zakuro】
+<enT0517>"So thank you for everything."
+<ptT0517>"So thank you for everything."
+
+//TEXT
+<enT0518>The legend that tells of the meeting between the world girl and the sky girl.
+<ptT0518>The legend that tells of the meeting between the world girl and the sky girl.
+
+//TEXT
+<enT0519>The legend that led to some kind of spell for the two girls.
+<ptT0519>The legend that led to some kind of spell for the two girls.
+
+//TEXT
+<enT0520>The sky we were going to search for was in Takashima-san's hand from the moment we started to search.
+<ptT0520>The sky we were going to search for was in Takashima-san's hand from the moment we started to search.
+
+//TEXT
+<enT0521>That was the answer.
+<ptT0521>That was the answer.
+
+//TEXT 【Zakuro】
+<enT0522>"And... I'm sorry."
+<ptT0522>"And... I'm sorry."
+
+//TEXT 【Yuki】
+<enT0523>"You're sorry?"
+<ptT0523>"You're sorry?"
+
+//TEXT 【Zakuro】
+<enT0524>"Maybe I shouldn't say this."
+<ptT0524>"Maybe I shouldn't say this."
+
+//TEXT 【Yuki】
+<enT0525>"What's wrong, Takashima-san?"
+<ptT0525>"What's wrong, Takashima-san?"
+
+//TEXT 【Zakuro】
+<enT0526>"Tomorrow, when we go stargazing, let's start right after midnight."
+<ptT0526>"Tomorrow, when we go stargazing, let's start right after midnight."
+
+//TEXT 【Yuki】
+<enT0527>"Right after midnight? You mean right when the date changes to the 20th?"
+<ptT0527>"Right after midnight? You mean right when the date changes to the 20th?"
+
+//TEXT 【Zakuro】
+<enT0528>"Yes."
+<ptT0528>"Yes."
+
+//TEXT 【Yuki】
+<enT0529>"Why? If we want to find the sky, it would be easier to do at an earlier time. And besides, we can't really be in the building that late."
+<ptT0529>"Why? If we want to find the sky, it would be easier to do at an earlier time. And besides, we can't really be in the building that late."
+
+//TEXT 【Zakuro】
+<enT0530>"There's no problem. We can get into the building."
+<ptT0530>"There's no problem. We can get into the building."
+
+//TEXT 【Yuki】
+<enT0531>"Huh?"
+<ptT0531>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0532>"If the world girl desires it, nothing in this world is impossible."
+<ptT0532>"If the world girl desires it, nothing in this world is impossible."
+
+//TEXT 【Yuki】
+<enT0533>"Uh, excuse me. Takashima-san, by that..."
+<ptT0533>"Uh, excuse me. Takashima-san, by that..."
+
+//TEXT 【Zakuro】
+<enT0534>"I understand. It sounds like I'm saying something strange to you right now. You probably think I'm some 'mysterious girl,' or maybe that I'm some 'crazy weirdo'..."
+<ptT0534>"I understand. It sounds like I'm saying something strange to you right now. You probably think I'm some 'mysterious girl,' or maybe that I'm some 'crazy weirdo'..."
+
+//TEXT 【Yuki】
+<enT0535>"Ah, no, that's not..."
+<ptT0535>"Ah, no, that's not..."
+
+//TEXT 【Zakuro】
+<enT0536>"It's fine. I understand now. I understand everything."
+<ptT0536>"It's fine. I understand now. I understand everything."
+
+//TEXT 【Zakuro】
+<enT0537>"At first, I suffered for my own sin."
+<ptT0537>"At first, I suffered for my own sin."
+
+//TEXT 【Yuki】
+<enT0538>"Your own sin?"
+<ptT0538>"Your own sin?"
+
+//TEXT 【Zakuro】
+<enT0539>"Yes. I thought that I had to atone for the crime I'd committed."
+<ptT0539>"Yes. I thought that I had to atone for the crime I'd committed."
+
+//TEXT 【Yuki】
+<enT0540>"Some kind of redemption?"
+<ptT0540>"Some kind of redemption?"
+
+//TEXT 【Zakuro】
+<enT0541>"But I understand after walking through this world together with you."
+<ptT0541>"But I understand after walking through this world together with you."
+
+//TEXT 【Zakuro】
+<enT0542>"The redemption that I seek will only end up making you suffer."
+<ptT0542>"The redemption that I seek will only end up making you suffer."
+
+//TEXT 【Zakuro】
+<enT0543>"If I don't do it, then you'll be happy. You can live the rest of your life like this, in this Wonderful Everyday. But..."
+<ptT0543>"If I don't do it, then you'll be happy. You can live the rest of your life like this, in this Wonderful Everyday. But..."
+
+//TEXT 【Zakuro】
+<enT0544>"My redemption would take that all away."
+<ptT0544>"My redemption would take that all away."
+
+//TEXT 【Yuki】
+<enT0545>"U-Uh, I don't really get it."
+<ptT0545>"U-Uh, I don't really get it."
+
+//TEXT 【Zakuro】
+<enT0546>"Tomorrow, before the 19th ends, please come to Building C."
+<ptT0546>"Tomorrow, before the 19th ends, please come to Building C."
+
+//TEXT 【Yuki】
+<enT0547>"Um, then, Kagami and Tsukasa..."
+<ptT0547>"Um, then, Kagami and Tsukasa..."
+
+//TEXT 【Zakuro】
+<enT0548>"If you wish, I think you'll be able to bring them along. But if you don't wish to, you won't be able to."
+<ptT0548>"If you wish, I think you'll be able to bring them along. But if you don't wish to, you won't be able to."
+
+//TEXT 【Yuki】
+<enT0549>"What does that..."
+<ptT0549>"What does that..."
+
+//TEXT 【Zakuro】
+<enT0550>"You'll understand tomorrow."
+<ptT0550>"You'll understand tomorrow."
+
+//TEXT 【Zakuro】
+<enT0551>"Depending on how you approach the day we call tomorrow, the shape of the world could change greatly."
+<ptT0551>"Depending on how you approach the day we call tomorrow, the shape of the world could change greatly."
+
+//TEXT 【Yuki】
+<enT0552>"The day we call tomorrow?"
+<ptT0552>"The day we call tomorrow?"
+
+//TEXT 【Zakuro】
+<enT0553>"Yes, just like this shop..."
+<ptT0553>"Yes, just like this shop..."
+
+//TEXT 【Yuki】
+<enT0554>"This shop is..."
+<ptT0554>"This shop is..."
+
+//TEXT
+<enT0555>Then it hit me. The other customers were gone. Even the bartender was nowhere to be seen.
+<ptT0555>Then it hit me. The other customers were gone. Even the bartender was nowhere to be seen.
+
+//TEXT
+<enT0556>The only two people here were Takashima-san and me.
+<ptT0556>The only two people here were Takashima-san and me.
+
+//TEXT 【Yuki】
+<enT0557>"Th-This is..."
+<ptT0557>"Th-This is..."
+
+//TEXT 【Zakuro】
+<enT0558>"Most likely, it's because you wish for a long journey."
+<ptT0558>"Most likely, it's because you wish for a long journey."
+
+//TEXT 【Yuki】
+<enT0559>"A long journey?"
+<ptT0559>"A long journey?"
+
+//TEXT 【Zakuro】
+<enT0560>"Yes. So, tomorrow, on the rooftop..."
+<ptT0560>"Yes. So, tomorrow, on the rooftop..."
+
+//TEXT 【Yuki】
+<enT0561>"Wait, Takashima-san!"
+<ptT0561>"Wait, Takashima-san!"
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-1_0718_Dream.bss
+<ptZ0001>1-1_0718_Dream.bss
+
+//OTHER
+<enZ0002>July 18th
+<ptZ0002>July 18th
+
+//OTHER
+<enZ0003>Down the Rabbit-Hole
+<ptZ0003>Down the Rabbit-Hole
+
+//OTHER
+<enZ0004>map023
+<ptZ0004>map023
+
+//OTHER
+<enZ0005>dayyk0718
+<ptZ0005>dayyk0718
+
+//OTHER
+<enZ0006>black
+<ptZ0006>black
+
+//OTHER
+<enZ0007>se912
+<ptZ0007>se912
+
+//OTHER
+<enZ0008>sp0013_loopb
+<ptZ0008>sp0013_loopb
+
+//OTHER
+<enZ0009>sp0013_window1
+<ptZ0009>sp0013_window1
+
+//OTHER
+<enZ0010>bgm004
+<ptZ0010>bgm004
+
+//OTHER
+<enZ0011>yuki_000728
+<ptZ0011>yuki_000728
+
+//OTHER
+<enZ0012>zaku_000408
+<ptZ0012>zaku_000408
+
+//OTHER
+<enZ0013>yuki_000729
+<ptZ0013>yuki_000729
+
+//OTHER
+<enZ0014>zaku_000409
+<ptZ0014>zaku_000409
+
+//OTHER
+<enZ0015>zaku_000410
+<ptZ0015>zaku_000410
+
+//OTHER
+<enZ0016>yuki_000730
+<ptZ0016>yuki_000730
+
+//OTHER
+<enZ0017>zaku_000411
+<ptZ0017>zaku_000411
+
+//OTHER
+<enZ0018>yuki_000731
+<ptZ0018>yuki_000731
+
+//OTHER
+<enZ0019>zaku_000412
+<ptZ0019>zaku_000412
+
+//OTHER
+<enZ0020>yuki_000732
+<ptZ0020>yuki_000732
+
+//OTHER
+<enZ0021>zaku_000413
+<ptZ0021>zaku_000413
+
+//OTHER
+<enZ0022>yuki_000733
+<ptZ0022>yuki_000733
+
+//OTHER
+<enZ0023>zaku_000414
+<ptZ0023>zaku_000414
+
+//OTHER
+<enZ0024>yuki_000734
+<ptZ0024>yuki_000734
+
+//OTHER
+<enZ0025>zaku_000415
+<ptZ0025>zaku_000415
+
+//OTHER
+<enZ0026>yuki_000735
+<ptZ0026>yuki_000735
+
+//OTHER
+<enZ0027>yuki_000736
+<ptZ0027>yuki_000736
+
+//OTHER
+<enZ0028>zaku_000416
+<ptZ0028>zaku_000416
+
+//OTHER
+<enZ0029>zaku_000417
+<ptZ0029>zaku_000417
+
+//OTHER
+<enZ0030>yuki_000737
+<ptZ0030>yuki_000737
+
+//OTHER
+<enZ0031>se297
+<ptZ0031>se297
+
+//OTHER
+<enZ0032>zaku_000418
+<ptZ0032>zaku_000418
+
+//OTHER
+<enZ0033>yuki_000738
+<ptZ0033>yuki_000738
+
+//OTHER
+<enZ0034>zaku_000419
+<ptZ0034>zaku_000419
+
+//OTHER
+<enZ0035>yuki_000739
+<ptZ0035>yuki_000739
+
+//OTHER
+<enZ0036>zaku_000420
+<ptZ0036>zaku_000420
+
+//OTHER
+<enZ0037>yuki_000740
+<ptZ0037>yuki_000740
+
+//OTHER
+<enZ0038>zaku_000421
+<ptZ0038>zaku_000421
+
+//OTHER
+<enZ0039>yuki_000741
+<ptZ0039>yuki_000741
+
+//OTHER
+<enZ0040>zaku_000422
+<ptZ0040>zaku_000422
+
+//OTHER
+<enZ0041>yuki_000742
+<ptZ0041>yuki_000742
+
+//OTHER
+<enZ0042>zaku_000423
+<ptZ0042>zaku_000423
+
+//OTHER
+<enZ0043>yuki_000743
+<ptZ0043>yuki_000743
+
+//OTHER
+<enZ0044>zaku_000424
+<ptZ0044>zaku_000424
+
+//OTHER
+<enZ0045>yuki_000744
+<ptZ0045>yuki_000744
+
+//OTHER
+<enZ0046>zaku_000425
+<ptZ0046>zaku_000425
+
+//OTHER
+<enZ0047>yuki_000745
+<ptZ0047>yuki_000745
+
+//OTHER
+<enZ0048>zaku_000426
+<ptZ0048>zaku_000426
+
+//OTHER
+<enZ0049>yuki_000746
+<ptZ0049>yuki_000746
+
+//OTHER
+<enZ0050>zaku_000427
+<ptZ0050>zaku_000427
+
+//OTHER
+<enZ0051>yuki_000747
+<ptZ0051>yuki_000747
+
+//OTHER
+<enZ0052>zaku_000428
+<ptZ0052>zaku_000428
+
+//OTHER
+<enZ0053>ev1002a
+<ptZ0053>ev1002a
+
+//OTHER
+<enZ0054>yuki_000748
+<ptZ0054>yuki_000748
+
+//OTHER
+<enZ0055>zaku_000429
+<ptZ0055>zaku_000429
+
+//OTHER
+<enZ0056>yuki_000749
+<ptZ0056>yuki_000749
+
+//OTHER
+<enZ0057>zaku_000430
+<ptZ0057>zaku_000430
+
+//OTHER
+<enZ0058>yuki_000750
+<ptZ0058>yuki_000750
+
+//OTHER
+<enZ0059>zaku_000431
+<ptZ0059>zaku_000431
+
+//OTHER
+<enZ0060>yuki_000751
+<ptZ0060>yuki_000751
+
+//OTHER
+<enZ0061>zaku_000432
+<ptZ0061>zaku_000432
+
+//OTHER
+<enZ0062>yuki_000752
+<ptZ0062>yuki_000752
+
+//OTHER
+<enZ0063>yuki_000753
+<ptZ0063>yuki_000753
+
+//OTHER
+<enZ0064>zaku_000433
+<ptZ0064>zaku_000433
+
+//OTHER
+<enZ0065>yuki_000754
+<ptZ0065>yuki_000754
+
+//OTHER
+<enZ0066>zaku_000434
+<ptZ0066>zaku_000434
+
+//OTHER
+<enZ0067>yuki_000755
+<ptZ0067>yuki_000755
+
+//OTHER
+<enZ0068>yuki_000756
+<ptZ0068>yuki_000756
+
+//OTHER
+<enZ0069>zaku_000435
+<ptZ0069>zaku_000435
+
+//OTHER
+<enZ0070>yuki_000757
+<ptZ0070>yuki_000757
+
+//OTHER
+<enZ0071>ev1002b
+<ptZ0071>ev1002b
+
+//OTHER
+<enZ0072>zaku_000436
+<ptZ0072>zaku_000436
+
+//OTHER
+<enZ0073>yuki_000758
+<ptZ0073>yuki_000758
+
+//OTHER
+<enZ0074>zaku_000437
+<ptZ0074>zaku_000437
+
+//OTHER
+<enZ0075>yuki_000759
+<ptZ0075>yuki_000759
+
+//OTHER
+<enZ0076>zaku_000438
+<ptZ0076>zaku_000438
+
+//OTHER
+<enZ0077>yuki_000760
+<ptZ0077>yuki_000760
+
+//OTHER
+<enZ0078>zaku_000439
+<ptZ0078>zaku_000439
+
+//OTHER
+<enZ0079>yuki_000761
+<ptZ0079>yuki_000761
+
+//OTHER
+<enZ0080>zaku_000440
+<ptZ0080>zaku_000440
+
+//OTHER
+<enZ0081>yuki_000762
+<ptZ0081>yuki_000762
+
+//OTHER
+<enZ0082>yuki_000763
+<ptZ0082>yuki_000763
+
+//OTHER
+<enZ0083>zaku_000441
+<ptZ0083>zaku_000441
+
+//OTHER
+<enZ0084>yuki_000764
+<ptZ0084>yuki_000764
+
+//OTHER
+<enZ0085>zaku_000442
+<ptZ0085>zaku_000442
+
+//OTHER
+<enZ0086>zaku_000443
+<ptZ0086>zaku_000443
+
+//OTHER
+<enZ0087>yuki_000765
+<ptZ0087>yuki_000765
+
+//OTHER
+<enZ0088>zaku_000444
+<ptZ0088>zaku_000444
+
+//OTHER
+<enZ0089>yuki_000766
+<ptZ0089>yuki_000766
+
+//OTHER
+<enZ0090>zaku_000445
+<ptZ0090>zaku_000445
+
+//OTHER
+<enZ0091>yuki_000767
+<ptZ0091>yuki_000767
+
+//OTHER
+<enZ0092>zaku_000446
+<ptZ0092>zaku_000446
+
+//OTHER
+<enZ0093>yuki_000768
+<ptZ0093>yuki_000768
+
+//OTHER
+<enZ0094>yuki_000769
+<ptZ0094>yuki_000769
+
+//OTHER
+<enZ0095>zaku_000447
+<ptZ0095>zaku_000447
+
+//OTHER
+<enZ0096>yuki_000770
+<ptZ0096>yuki_000770
+
+//OTHER
+<enZ0097>zaku_000448
+<ptZ0097>zaku_000448
+
+//OTHER
+<enZ0098>yuki_000771
+<ptZ0098>yuki_000771
+
+//OTHER
+<enZ0099>zaku_000449
+<ptZ0099>zaku_000449
+
+//OTHER
+<enZ0100>yuki_000772
+<ptZ0100>yuki_000772
+
+//OTHER
+<enZ0101>zaku_000450
+<ptZ0101>zaku_000450
+
+//OTHER
+<enZ0102>yuki_000773
+<ptZ0102>yuki_000773
+
+//OTHER
+<enZ0103>zaku_000451
+<ptZ0103>zaku_000451
+
+//OTHER
+<enZ0104>yuki_000774
+<ptZ0104>yuki_000774
+
+//OTHER
+<enZ0105>zaku_000452
+<ptZ0105>zaku_000452
+
+//OTHER
+<enZ0106>yuki_000775
+<ptZ0106>yuki_000775
+
+//OTHER
+<enZ0107>zaku_000453
+<ptZ0107>zaku_000453
+
+//OTHER
+<enZ0108>yuki_000776
+<ptZ0108>yuki_000776
+
+//OTHER
+<enZ0109>zaku_000454
+<ptZ0109>zaku_000454
+
+//OTHER
+<enZ0110>yuki_000777
+<ptZ0110>yuki_000777
+
+//OTHER
+<enZ0111>zaku_000455
+<ptZ0111>zaku_000455
+
+//OTHER
+<enZ0112>zaku_000456
+<ptZ0112>zaku_000456
+
+//OTHER
+<enZ0113>zaku_000457
+<ptZ0113>zaku_000457
+
+//OTHER
+<enZ0114>zaku_000458
+<ptZ0114>zaku_000458
+
+//OTHER
+<enZ0115>yuki_000778
+<ptZ0115>yuki_000778
+
+//OTHER
+<enZ0116>zaku_000459
+<ptZ0116>zaku_000459
+
+//OTHER
+<enZ0117>yuki_000779
+<ptZ0117>yuki_000779
+
+//OTHER
+<enZ0118>zaku_000460
+<ptZ0118>zaku_000460
+
+//OTHER
+<enZ0119>zaku_000461
+<ptZ0119>zaku_000461
+
+//OTHER
+<enZ0120>yuki_000780
+<ptZ0120>yuki_000780
+
+//OTHER
+<enZ0121>yuki_000781
+<ptZ0121>yuki_000781
+
+//OTHER
+<enZ0122>zaku_000462
+<ptZ0122>zaku_000462
+
+//OTHER
+<enZ0123>zaku_000463
+<ptZ0123>zaku_000463
+
+//OTHER
+<enZ0124>yuki_000782
+<ptZ0124>yuki_000782
+
+//OTHER
+<enZ0125>zaku_000464
+<ptZ0125>zaku_000464
+
+//OTHER
+<enZ0126>yuki_000783
+<ptZ0126>yuki_000783
+
+//OTHER
+<enZ0127>zaku_000465
+<ptZ0127>zaku_000465
+
+//OTHER
+<enZ0128>yuki_000784
+<ptZ0128>yuki_000784
+
+//OTHER
+<enZ0129>zaku_000466
+<ptZ0129>zaku_000466
+
+//OTHER
+<enZ0130>yuki_000785
+<ptZ0130>yuki_000785
+
+//OTHER
+<enZ0131>zaku_000467
+<ptZ0131>zaku_000467
+
+//OTHER
+<enZ0132>zaku_000468
+<ptZ0132>zaku_000468
+
+//OTHER
+<enZ0133>zaku_000469
+<ptZ0133>zaku_000469
+
+//OTHER
+<enZ0134>yuki_000786
+<ptZ0134>yuki_000786
+
+//OTHER
+<enZ0135>sp0008c
+<ptZ0135>sp0008c
+
+//OTHER
+<enZ0136>zaku_000470
+<ptZ0136>zaku_000470
+
+//OTHER
+<enZ0137>yuki_000787
+<ptZ0137>yuki_000787
+
+//OTHER
+<enZ0138>zaku_000471
+<ptZ0138>zaku_000471
+
+//OTHER
+<enZ0139>yuki_000788
+<ptZ0139>yuki_000788
+
+//OTHER
+<enZ0140>zaku_000472
+<ptZ0140>zaku_000472
+
+//OTHER
+<enZ0141>yuki_000789
+<ptZ0141>yuki_000789
+
+//OTHER
+<enZ0142>zaku_000473
+<ptZ0142>zaku_000473
+
+//OTHER
+<enZ0143>yuki_000790
+<ptZ0143>yuki_000790
+
+//OTHER
+<enZ0144>zaku_000474
+<ptZ0144>zaku_000474
+
+//OTHER
+<enZ0145>yuki_000791
+<ptZ0145>yuki_000791
+
+//OTHER
+<enZ0146>yuki_000792
+<ptZ0146>yuki_000792
+
+//OTHER
+<enZ0147>zaku_000475
+<ptZ0147>zaku_000475
+
+//OTHER
+<enZ0148>yuki_000793
+<ptZ0148>yuki_000793
+
+//OTHER
+<enZ0149>zaku_000476
+<ptZ0149>zaku_000476
+
+//OTHER
+<enZ0150>map029
+<ptZ0150>map029
+
+//OTHER
+<enZ0151>zaku_000515
+<ptZ0151>zaku_000515
+
+//OTHER
+<enZ0152>yuki_000840
+<ptZ0152>yuki_000840
+
+//OTHER
+<enZ0153>zaku_000516
+<ptZ0153>zaku_000516
+
+//OTHER
+<enZ0154>yuki_000841
+<ptZ0154>yuki_000841
+
+//OTHER
+<enZ0155>zaku_000517
+<ptZ0155>zaku_000517
+
+//OTHER
+<enZ0156>yuki_000794
+<ptZ0156>yuki_000794
+
+//OTHER
+<enZ0157>zaku_000477
+<ptZ0157>zaku_000477
+
+//OTHER
+<enZ0158>yuki_000795
+<ptZ0158>yuki_000795
+
+//OTHER
+<enZ0159>zaku_000478
+<ptZ0159>zaku_000478
+
+//OTHER
+<enZ0160>yuki_000796
+<ptZ0160>yuki_000796
+
+//OTHER
+<enZ0161>zaku_000479
+<ptZ0161>zaku_000479
+
+//OTHER
+<enZ0162>yuki_000797
+<ptZ0162>yuki_000797
+
+//OTHER
+<enZ0163>zaku_000480
+<ptZ0163>zaku_000480
+
+//OTHER
+<enZ0164>bgm109
+<ptZ0164>bgm109
+
+//OTHER
+<enZ0165>yuki_000798
+<ptZ0165>yuki_000798
+
+//OTHER
+<enZ0166>sp0014a
+<ptZ0166>sp0014a
+
+//OTHER
+<enZ0167>se913
+<ptZ0167>se913
+
+//OTHER
+<enZ0168>yuki_000799
+<ptZ0168>yuki_000799
+
+//OTHER
+<enZ0169>zaku_000481
+<ptZ0169>zaku_000481
+
+//OTHER
+<enZ0170>yuki_000800
+<ptZ0170>yuki_000800
+
+//OTHER
+<enZ0171>sp0014b
+<ptZ0171>sp0014b
+
+//OTHER
+<enZ0172>sp0014c
+<ptZ0172>sp0014c
+
+//OTHER
+<enZ0173>yuki_000801
+<ptZ0173>yuki_000801
+
+//OTHER
+<enZ0174>zaku_000482
+<ptZ0174>zaku_000482
+
+//OTHER
+<enZ0175>yuki_000802
+<ptZ0175>yuki_000802
+
+//OTHER
+<enZ0176>zaku_000483
+<ptZ0176>zaku_000483
+
+//OTHER
+<enZ0177>yuki_000803
+<ptZ0177>yuki_000803
+
+//OTHER
+<enZ0178>zaku_000484
+<ptZ0178>zaku_000484
+
+//OTHER
+<enZ0179>sp0014d
+<ptZ0179>sp0014d
+
+//OTHER
+<enZ0180>yuki_000804
+<ptZ0180>yuki_000804
+
+//OTHER
+<enZ0181>zaku_000485
+<ptZ0181>zaku_000485
+
+//OTHER
+<enZ0182>yuki_000805
+<ptZ0182>yuki_000805
+
+//OTHER
+<enZ0183>yuki_000806
+<ptZ0183>yuki_000806
+
+//OTHER
+<enZ0184>zaku_000486
+<ptZ0184>zaku_000486
+
+//OTHER
+<enZ0185>sp0015a
+<ptZ0185>sp0015a
+
+//OTHER
+<enZ0186>zaku_000487
+<ptZ0186>zaku_000487
+
+//OTHER
+<enZ0187>yuki_000807
+<ptZ0187>yuki_000807
+
+//OTHER
+<enZ0188>zaku_000488
+<ptZ0188>zaku_000488
+
+//OTHER
+<enZ0189>sp0015b
+<ptZ0189>sp0015b
+
+//OTHER
+<enZ0190>yuki_000808
+<ptZ0190>yuki_000808
+
+//OTHER
+<enZ0191>zaku_000489
+<ptZ0191>zaku_000489
+
+//OTHER
+<enZ0192>se323
+<ptZ0192>se323
+
+//OTHER
+<enZ0193>se575
+<ptZ0193>se575
+
+//OTHER
+<enZ0194>yuki_000809
+<ptZ0194>yuki_000809
+
+//OTHER
+<enZ0195>zaku_000490
+<ptZ0195>zaku_000490
+
+//OTHER
+<enZ0196>yuki_000810
+<ptZ0196>yuki_000810
+
+//OTHER
+<enZ0197>sp0016a
+<ptZ0197>sp0016a
+
+//OTHER
+<enZ0198>zaku_000491
+<ptZ0198>zaku_000491
+
+//OTHER
+<enZ0199>yuki_000811
+<ptZ0199>yuki_000811
+
+//OTHER
+<enZ0200>sp0017a
+<ptZ0200>sp0017a
+
+//OTHER
+<enZ0201>zaku_000492
+<ptZ0201>zaku_000492
+
+//OTHER
+<enZ0202>yuki_000812
+<ptZ0202>yuki_000812
+
+//OTHER
+<enZ0203>zaku_000493
+<ptZ0203>zaku_000493
+
+//OTHER
+<enZ0204>yuki_000813
+<ptZ0204>yuki_000813
+
+//OTHER
+<enZ0205>zaku_000494
+<ptZ0205>zaku_000494
+
+//OTHER
+<enZ0206>yuki_000814
+<ptZ0206>yuki_000814
+
+//OTHER
+<enZ0207>zaku_000495
+<ptZ0207>zaku_000495
+
+//OTHER
+<enZ0208>sp0018a
+<ptZ0208>sp0018a
+
+//OTHER
+<enZ0209>zaku_000496
+<ptZ0209>zaku_000496
+
+//OTHER
+<enZ0210>yuki_000815
+<ptZ0210>yuki_000815
+
+//OTHER
+<enZ0211>zaku_000497
+<ptZ0211>zaku_000497
+
+//OTHER
+<enZ0212>sp0018b
+<ptZ0212>sp0018b
+
+//OTHER
+<enZ0213>yuki_000816
+<ptZ0213>yuki_000816
+
+//OTHER
+<enZ0214>zaku_000498
+<ptZ0214>zaku_000498
+
+//OTHER
+<enZ0215>yuki_000817
+<ptZ0215>yuki_000817
+
+//OTHER
+<enZ0216>zaku_000499
+<ptZ0216>zaku_000499
+
+//OTHER
+<enZ0217>yuki_000818
+<ptZ0217>yuki_000818
+
+//OTHER
+<enZ0218>sp0015c
+<ptZ0218>sp0015c
+
+//OTHER
+<enZ0219>sp0019a
+<ptZ0219>sp0019a
+
+//OTHER
+<enZ0220>yuki_000819
+<ptZ0220>yuki_000819
+
+//OTHER
+<enZ0221>zaku_000500
+<ptZ0221>zaku_000500
+
+//OTHER
+<enZ0222>yuki_000820
+<ptZ0222>yuki_000820
+
+//OTHER
+<enZ0223>zaku_000501
+<ptZ0223>zaku_000501
+
+//OTHER
+<enZ0224>sp0019b
+<ptZ0224>sp0019b
+
+//OTHER
+<enZ0225>yuki_000821
+<ptZ0225>yuki_000821
+
+//OTHER
+<enZ0226>zaku_000502
+<ptZ0226>zaku_000502
+
+//OTHER
+<enZ0227>yuki_000822
+<ptZ0227>yuki_000822
+
+//OTHER
+<enZ0228>yuki_000823
+<ptZ0228>yuki_000823
+
+//OTHER
+<enZ0229>yuki_000824
+<ptZ0229>yuki_000824
+
+//OTHER
+<enZ0230>zaku_000503
+<ptZ0230>zaku_000503
+
+//OTHER
+<enZ0231>yuki_000825
+<ptZ0231>yuki_000825
+
+//OTHER
+<enZ0232>yuki_000826
+<ptZ0232>yuki_000826
+
+//OTHER
+<enZ0233>sp0019c
+<ptZ0233>sp0019c
+
+//OTHER
+<enZ0234>zaku_000504
+<ptZ0234>zaku_000504
+
+//OTHER
+<enZ0235>yuki_000827
+<ptZ0235>yuki_000827
+
+//OTHER
+<enZ0236>sp0017b
+<ptZ0236>sp0017b
+
+//OTHER
+<enZ0237>zaku_000505
+<ptZ0237>zaku_000505
+
+//OTHER
+<enZ0238>yuki_000828
+<ptZ0238>yuki_000828
+
+//OTHER
+<enZ0239>sp0016b
+<ptZ0239>sp0016b
+
+//OTHER
+<enZ0240>yuki_000829
+<ptZ0240>yuki_000829
+
+//OTHER
+<enZ0241>zaku_000506
+<ptZ0241>zaku_000506
+
+//OTHER
+<enZ0242>sp0020a
+<ptZ0242>sp0020a
+
+//OTHER
+<enZ0243>yuki_000830
+<ptZ0243>yuki_000830
+
+//OTHER
+<enZ0244>zaku_000507
+<ptZ0244>zaku_000507
+
+//OTHER
+<enZ0245>yuki_000831
+<ptZ0245>yuki_000831
+
+//OTHER
+<enZ0246>sp0020b
+<ptZ0246>sp0020b
+
+//OTHER
+<enZ0247>sp0020c
+<ptZ0247>sp0020c
+
+//OTHER
+<enZ0248>zaku_000508
+<ptZ0248>zaku_000508
+
+//OTHER
+<enZ0249>yuki_000832
+<ptZ0249>yuki_000832
+
+//OTHER
+<enZ0250>map022
+<ptZ0250>map022
+
+//OTHER
+<enZ0251>zaku_000509
+<ptZ0251>zaku_000509
+
+//OTHER
+<enZ0252>yuki_000833
+<ptZ0252>yuki_000833
+
+//OTHER
+<enZ0253>zaku_000510
+<ptZ0253>zaku_000510
+
+//OTHER
+<enZ0254>sp0008b
+<ptZ0254>sp0008b
+
+//OTHER
+<enZ0255>yuki_000834
+<ptZ0255>yuki_000834
+
+//OTHER
+<enZ0256>yuki_000835
+<ptZ0256>yuki_000835
+
+//OTHER
+<enZ0257>zaku_000511
+<ptZ0257>zaku_000511
+
+//OTHER
+<enZ0258>yuki_000836
+<ptZ0258>yuki_000836
+
+//OTHER
+<enZ0259>zaku_000512
+<ptZ0259>zaku_000512
+
+//OTHER
+<enZ0260>yuki_000837
+<ptZ0260>yuki_000837
+
+//OTHER
+<enZ0261>zaku_000513
+<ptZ0261>zaku_000513
+
+//OTHER
+<enZ0262>yuki_000838
+<ptZ0262>yuki_000838
+
+//OTHER
+<enZ0263>zaku_000514
+<ptZ0263>zaku_000514
+
+//OTHER
+<enZ0264>yuki_000839
+<ptZ0264>yuki_000839
+
+//OTHER
+<enZ0265>map013
+<ptZ0265>map013
+
+//OTHER
+<enZ0266>map018
+<ptZ0266>map018
+
+//OTHER
+<enZ0267>sp0008a
+<ptZ0267>sp0008a
+
+//OTHER
+<enZ0268>map017
+<ptZ0268>map017
+
+//OTHER
+<enZ0269>ev1003b
+<ptZ0269>ev1003b
+
+//OTHER
+<enZ0270>bgm003
+<ptZ0270>bgm003
+
+//OTHER
+<enZ0271>zaku_000518
+<ptZ0271>zaku_000518
+
+//OTHER
+<enZ0272>yuki_000842
+<ptZ0272>yuki_000842
+
+//OTHER
+<enZ0273>yuki_000843
+<ptZ0273>yuki_000843
+
+//OTHER
+<enZ0274>ev1003a
+<ptZ0274>ev1003a
+
+//OTHER
+<enZ0275>zaku_000519
+<ptZ0275>zaku_000519
+
+//OTHER
+<enZ0276>yuki_000844
+<ptZ0276>yuki_000844
+
+//OTHER
+<enZ0277>zaku_000520
+<ptZ0277>zaku_000520
+
+//OTHER
+<enZ0278>se057
+<ptZ0278>se057
+
+//OTHER
+<enZ0279>zaku_000521
+<ptZ0279>zaku_000521
+
+//OTHER
+<enZ0280>yuki_000845
+<ptZ0280>yuki_000845
+
+//OTHER
+<enZ0281>zaku_000522
+<ptZ0281>zaku_000522
+
+//OTHER
+<enZ0282>yuki_000846
+<ptZ0282>yuki_000846
+
+//OTHER
+<enZ0283>zaku_000523
+<ptZ0283>zaku_000523
+
+//OTHER
+<enZ0284>zaku_000524
+<ptZ0284>zaku_000524
+
+//OTHER
+<enZ0285>yuki_000847
+<ptZ0285>yuki_000847
+
+//OTHER
+<enZ0286>zaku_000525
+<ptZ0286>zaku_000525
+
+//OTHER
+<enZ0287>yuki_000848
+<ptZ0287>yuki_000848
+
+//OTHER
+<enZ0288>yuki_000849
+<ptZ0288>yuki_000849
+
+//OTHER
+<enZ0289>zaku_000526
+<ptZ0289>zaku_000526
+
+//OTHER
+<enZ0290>yuki_000850
+<ptZ0290>yuki_000850
+
+//OTHER
+<enZ0291>zaku_000527
+<ptZ0291>zaku_000527
+
+//OTHER
+<enZ0292>zaku_000528
+<ptZ0292>zaku_000528
+
+//OTHER
+<enZ0293>yuki_000851
+<ptZ0293>yuki_000851
+
+//OTHER
+<enZ0294>zaku_000529
+<ptZ0294>zaku_000529
+
+//OTHER
+<enZ0295>yuki_000852
+<ptZ0295>yuki_000852
+
+//OTHER
+<enZ0296>zaku_000530
+<ptZ0296>zaku_000530
+
+//OTHER
+<enZ0297>yuki_000853
+<ptZ0297>yuki_000853
+
+//OTHER
+<enZ0298>zaku_000531
+<ptZ0298>zaku_000531
+
+//OTHER
+<enZ0299>yuki_000854
+<ptZ0299>yuki_000854
+
+//OTHER
+<enZ0300>sp0008h
+<ptZ0300>sp0008h
+
+//OTHER
+<enZ0301>yuki_000855
+<ptZ0301>yuki_000855
+
+//OTHER
+<enZ0302>zaku_000532
+<ptZ0302>zaku_000532
+
+//OTHER
+<enZ0303>ev1004a
+<ptZ0303>ev1004a
+
+//OTHER
+<enZ0304>zaku_000533
+<ptZ0304>zaku_000533
+
+//OTHER
+<enZ0305>yuki_000856
+<ptZ0305>yuki_000856
+
+//OTHER
+<enZ0306>zaku_000534
+<ptZ0306>zaku_000534
+
+//OTHER
+<enZ0307>yuki_000857
+<ptZ0307>yuki_000857
+
+//OTHER
+<enZ0308>zaku_000535
+<ptZ0308>zaku_000535
+
+//OTHER
+<enZ0309>yuki_000858
+<ptZ0309>yuki_000858
+
+//OTHER
+<enZ0310>zaku_000536
+<ptZ0310>zaku_000536
+
+//OTHER
+<enZ0311>yuki_000859
+<ptZ0311>yuki_000859
+
+//OTHER
+<enZ0312>zaku_000537
+<ptZ0312>zaku_000537
+
+//OTHER
+<enZ0313>yuki_000860
+<ptZ0313>yuki_000860
+
+//OTHER
+<enZ0314>zaku_000538
+<ptZ0314>zaku_000538
+
+//OTHER
+<enZ0315>yuki_000861
+<ptZ0315>yuki_000861
+
+//OTHER
+<enZ0316>se272
+<ptZ0316>se272
+
+//OTHER
+<enZ0317>bg1030a
+<ptZ0317>bg1030a
+
+//OTHER
+<enZ0318>yuki_000862
+<ptZ0318>yuki_000862
+
+//OTHER
+<enZ0319>zaku_000539
+<ptZ0319>zaku_000539
+
+//OTHER
+<enZ0320>yuki_000863
+<ptZ0320>yuki_000863
+
+//OTHER
+<enZ0321>zaku_000540
+<ptZ0321>zaku_000540
+
+//OTHER
+<enZ0322>yuki_000864
+<ptZ0322>yuki_000864
+
+//OTHER
+<enZ0323>zaku_000541
+<ptZ0323>zaku_000541
+
+//OTHER
+<enZ0324>yuki_000865
+<ptZ0324>yuki_000865
+
+//OTHER
+<enZ0325>zaku_000542
+<ptZ0325>zaku_000542
+
+//OTHER
+<enZ0326>yuki_000866
+<ptZ0326>yuki_000866
+
+//OTHER
+<enZ0327>yuki_000867
+<ptZ0327>yuki_000867
+
+//OTHER
+<enZ0328>zaku_000543
+<ptZ0328>zaku_000543
+
+//OTHER
+<enZ0329>yuki_000868
+<ptZ0329>yuki_000868
+
+//OTHER
+<enZ0330>ev0002a
+<ptZ0330>ev0002a
+
+//OTHER
+<enZ0331>se231
+<ptZ0331>se231
+
+//OTHER
+<enZ0332>yuki_000869
+<ptZ0332>yuki_000869
+
+//OTHER
+<enZ0333>zaku_000544
+<ptZ0333>zaku_000544
+
+//OTHER
+<enZ0334>yuki_000870
+<ptZ0334>yuki_000870
+
+//OTHER
+<enZ0335>zaku_000545
+<ptZ0335>zaku_000545
+
+//OTHER
+<enZ0336>yuki_000871
+<ptZ0336>yuki_000871
+
+//OTHER
+<enZ0337>zaku_000546
+<ptZ0337>zaku_000546
+
+//OTHER
+<enZ0338>yuki_000872
+<ptZ0338>yuki_000872
+
+//OTHER
+<enZ0339>bgm021
+<ptZ0339>bgm021
+
+//OTHER
+<enZ0340>yuki_000873
+<ptZ0340>yuki_000873
+
+//OTHER
+<enZ0341>zaku_000547
+<ptZ0341>zaku_000547
+
+//OTHER
+<enZ0342>yuki_000874
+<ptZ0342>yuki_000874
+
+//OTHER
+<enZ0343>zaku_000548
+<ptZ0343>zaku_000548
+
+//OTHER
+<enZ0344>yuki_000875
+<ptZ0344>yuki_000875
+
+//OTHER
+<enZ0345>zaku_000549
+<ptZ0345>zaku_000549
+
+//OTHER
+<enZ0346>yuki_000876
+<ptZ0346>yuki_000876
+
+//OTHER
+<enZ0347>zaku_000550
+<ptZ0347>zaku_000550
+
+//OTHER
+<enZ0348>yuki_000877
+<ptZ0348>yuki_000877
+
+//OTHER
+<enZ0349>bgm022
+<ptZ0349>bgm022
+
+//OTHER
+<enZ0350>yuki_000878
+<ptZ0350>yuki_000878
+
+//OTHER
+<enZ0351>zaku_000551
+<ptZ0351>zaku_000551
+
+//OTHER
+<enZ0352>yuki_000879
+<ptZ0352>yuki_000879
+
+//OTHER
+<enZ0353>zaku_000552
+<ptZ0353>zaku_000552
+
+//OTHER
+<enZ0354>yuki_000880
+<ptZ0354>yuki_000880
+
+//OTHER
+<enZ0355>zaku_000553
+<ptZ0355>zaku_000553
+
+//OTHER
+<enZ0356>yuki_000881
+<ptZ0356>yuki_000881
+
+//OTHER
+<enZ0357>zaku_000554
+<ptZ0357>zaku_000554
+
+//OTHER
+<enZ0358>zaku_000555
+<ptZ0358>zaku_000555
+
+//OTHER
+<enZ0359>yuki_000882
+<ptZ0359>yuki_000882
+
+//OTHER
+<enZ0360>zaku_000556
+<ptZ0360>zaku_000556
+
+//OTHER
+<enZ0361>yuki_000883
+<ptZ0361>yuki_000883
+
+//OTHER
+<enZ0362>zaku_000557
+<ptZ0362>zaku_000557
+
+//OTHER
+<enZ0363>yuki_000884
+<ptZ0363>yuki_000884
+
+//OTHER
+<enZ0364>zaku_000558
+<ptZ0364>zaku_000558
+
+//OTHER
+<enZ0365>yuki_000885
+<ptZ0365>yuki_000885
+
+//OTHER
+<enZ0366>zaku_000559
+<ptZ0366>zaku_000559
+
+//OTHER
+<enZ0367>yuki_000886
+<ptZ0367>yuki_000886
+
+//OTHER
+<enZ0368>zaku_000560
+<ptZ0368>zaku_000560
+
+//OTHER
+<enZ0369>yuki_000887
+<ptZ0369>yuki_000887
+
+//OTHER
+<enZ0370>zaku_000561
+<ptZ0370>zaku_000561
+
+//OTHER
+<enZ0371>zaku_000562_a
+<ptZ0371>zaku_000562_a
+
+//OTHER
+<enZ0372>yuki_000888
+<ptZ0372>yuki_000888
+
+//OTHER
+<enZ0373>yuki_000889
+<ptZ0373>yuki_000889
+
+//OTHER
+<enZ0374>zaku_000563
+<ptZ0374>zaku_000563
+
+//OTHER
+<enZ0375>yuki_000890
+<ptZ0375>yuki_000890
+
+//OTHER
+<enZ0376>zaku_000564
+<ptZ0376>zaku_000564
+
+//OTHER
+<enZ0377>zaku_000565
+<ptZ0377>zaku_000565
+
+//OTHER
+<enZ0378>yuki_000891
+<ptZ0378>yuki_000891
+
+//OTHER
+<enZ0379>zaku_000566
+<ptZ0379>zaku_000566
+
+//OTHER
+<enZ0380>zaku_000567
+<ptZ0380>zaku_000567
+
+//OTHER
+<enZ0381>yuki_000892
+<ptZ0381>yuki_000892
+
+//OTHER
+<enZ0382>zaku_000568
+<ptZ0382>zaku_000568
+
+//OTHER
+<enZ0383>yuki_000893
+<ptZ0383>yuki_000893
+
+//OTHER
+<enZ0384>zaku_000569
+<ptZ0384>zaku_000569
+
+//OTHER
+<enZ0385>yuki_000894
+<ptZ0385>yuki_000894
+
+//OTHER
+<enZ0386>zaku_000570
+<ptZ0386>zaku_000570
+
+//OTHER
+<enZ0387>yuki_000895
+<ptZ0387>yuki_000895
+
+//OTHER
+<enZ0388>zaku_000571
+<ptZ0388>zaku_000571
+
+//OTHER
+<enZ0389>yuki_000896
+<ptZ0389>yuki_000896
+
+//OTHER
+<enZ0390>zaku_000572
+<ptZ0390>zaku_000572
+
+//OTHER
+<enZ0391>yuki_000897
+<ptZ0391>yuki_000897
+
+//OTHER
+<enZ0392>zaku_000573
+<ptZ0392>zaku_000573
+
+//OTHER
+<enZ0393>yuki_000898
+<ptZ0393>yuki_000898
+
+//OTHER
+<enZ0394>zaku_000574
+<ptZ0394>zaku_000574
+
+//OTHER
+<enZ0395>yuki_000899
+<ptZ0395>yuki_000899
+
+//OTHER
+<enZ0396>zaku_000575
+<ptZ0396>zaku_000575
+
+//OTHER
+<enZ0397>zaku_000576
+<ptZ0397>zaku_000576
+
+//OTHER
+<enZ0398>yuki_000900
+<ptZ0398>yuki_000900
+
+//OTHER
+<enZ0399>zaku_000577
+<ptZ0399>zaku_000577
+
+//OTHER
+<enZ0400>yuki_000901
+<ptZ0400>yuki_000901
+
+//OTHER
+<enZ0401>zaku_000578
+<ptZ0401>zaku_000578
+
+//OTHER
+<enZ0402>zaku_000579
+<ptZ0402>zaku_000579
+
+//OTHER
+<enZ0403>yuki_000902
+<ptZ0403>yuki_000902
+
+//OTHER
+<enZ0404>zaku_000580
+<ptZ0404>zaku_000580
+
+//OTHER
+<enZ0405>zaku_000581
+<ptZ0405>zaku_000581
+
+//OTHER
+<enZ0406>zaku_000582
+<ptZ0406>zaku_000582
+
+//OTHER
+<enZ0407>yuki_000903
+<ptZ0407>yuki_000903
+
+//OTHER
+<enZ0408>zaku_000583
+<ptZ0408>zaku_000583
+
+//OTHER
+<enZ0409>zaku_000584
+<ptZ0409>zaku_000584
+
+//OTHER
+<enZ0410>1-1_0719_Dream
+<ptZ0410>1-1_0719_Dream
+
+//OTHER
+<enZ0411>zaku_000585
+<ptZ0411>zaku_000585
+
+//OTHER
+<enZ0412>yuki_000904
+<ptZ0412>yuki_000904
+
+//OTHER
+<enZ0413>zaku_000586
+<ptZ0413>zaku_000586
+
+//OTHER
+<enZ0414>yuki_000905
+<ptZ0414>yuki_000905
+
+//OTHER
+<enZ0415>zaku_000587
+<ptZ0415>zaku_000587
+
+//OTHER
+<enZ0416>yuki_000906
+<ptZ0416>yuki_000906
+
+//OTHER
+<enZ0417>zaku_000588
+<ptZ0417>zaku_000588
+
+//OTHER
+<enZ0418>yuki_000907
+<ptZ0418>yuki_000907
+
+//OTHER
+<enZ0419>zaku_000589
+<ptZ0419>zaku_000589
+
+//OTHER
+<enZ0420>yuki_000908
+<ptZ0420>yuki_000908
+
+//OTHER
+<enZ0421>zaku_000590
+<ptZ0421>zaku_000590
+
+//OTHER
+<enZ0422>yuki_000909
+<ptZ0422>yuki_000909
+
+//OTHER
+<enZ0423>zaku_000591
+<ptZ0423>zaku_000591
+
+//OTHER
+<enZ0424>yuki_000910
+<ptZ0424>yuki_000910
+
+//OTHER
+<enZ0425>zaku_000592
+<ptZ0425>zaku_000592
+
+//OTHER
+<enZ0426>zaku_000593
+<ptZ0426>zaku_000593
+
+//OTHER
+<enZ0427>yuki_000911
+<ptZ0427>yuki_000911
+
+//OTHER
+<enZ0428>zaku_000594
+<ptZ0428>zaku_000594
+
+//OTHER
+<enZ0429>yuki_000912
+<ptZ0429>yuki_000912
+
+//OTHER
+<enZ0430>zaku_000595
+<ptZ0430>zaku_000595
+
+//OTHER
+<enZ0431>zaku_000596
+<ptZ0431>zaku_000596
+
+//OTHER
+<enZ0432>zaku_000597
+<ptZ0432>zaku_000597
+
+//OTHER
+<enZ0433>zaku_000598
+<ptZ0433>zaku_000598
+
+//OTHER
+<enZ0434>yuki_000913
+<ptZ0434>yuki_000913
+
+//OTHER
+<enZ0435>zaku_000599
+<ptZ0435>zaku_000599
+
+//OTHER
+<enZ0436>yuki_000914
+<ptZ0436>yuki_000914
+
+//OTHER
+<enZ0437>zaku_000600
+<ptZ0437>zaku_000600
+
+//OTHER
+<enZ0438>yuki_000915
+<ptZ0438>yuki_000915
+
+//OTHER
+<enZ0439>zaku_000601
+<ptZ0439>zaku_000601
+
+//OTHER
+<enZ0440>zaku_000602
+<ptZ0440>zaku_000602
+
+//OTHER
+<enZ0441>yuki_000916
+<ptZ0441>yuki_000916
+
+//OTHER
+<enZ0442>zaku_000603
+<ptZ0442>zaku_000603
+
+//OTHER
+<enZ0443>yuki_000917
+<ptZ0443>yuki_000917
+
+//OTHER
+<enZ0444>yuki_000918
+<ptZ0444>yuki_000918
+
+//OTHER
+<enZ0445>zaku_000604
+<ptZ0445>zaku_000604
+
+//OTHER
+<enZ0446>yuki_000919
+<ptZ0446>yuki_000919
+
+//OTHER
+<enZ0447>zaku_000605
+<ptZ0447>zaku_000605
+
+//OTHER
+<enZ0448>yuki_000920
+<ptZ0448>yuki_000920
+
+//OTHER
+<enZ0449>1-1_0719_Escape
+<ptZ0449>1-1_0719_Escape
+

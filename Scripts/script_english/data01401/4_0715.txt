@@ -1,0 +1,3568 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Yuki
+<ptN0002>Yuki
+
+///================================================================================
+
+//TEXT
+<enT0001>Utter defeat.
+<ptT0001>Utter defeat.
+
+//TEXT
+<enT0002>Once I understood that, the conclusion was simple.
+<ptT0002>Once I understood that, the conclusion was simple.
+
+//TEXT
+<enT0003>My existence was no longer necessary.
+<ptT0003>My existence was no longer necessary.
+
+//TEXT
+<enT0004>The personality created to erase Mamiya Takuji was instead defeated by him.
+<ptT0004>The personality created to erase Mamiya Takuji was instead defeated by him.
+
+//TEXT
+<enT0005>More than anyone else on this planet, I was worthless and unnecessary.
+<ptT0005>More than anyone else on this planet, I was worthless and unnecessary.
+
+//TEXT
+<enT0006>"So now what? Are you just gonna disappear?"
+<ptT0006>"So now what? Are you just gonna disappear?"
+
+//TEXT 【Tomosane】
+<enT0007>"Who's that?"
+<ptT0007>"Who's that?"
+
+//TEXT
+<enT0008>"You don't recognize me?"
+<ptT0008>"You don't recognize me?"
+
+//TEXT 【Tomosane】
+<enT0009>"Yuki?"
+<ptT0009>"Yuki?"
+
+//TEXT 【Yuki】
+<enT0010>"That's right. Why the long face, pardner?"
+<ptT0010>"That's right. Why the long face, pardner?"
+
+//TEXT 【Tomosane】
+<enT0011>"Long face? Does that mean you can see me?"
+<ptT0011>"Long face? Does that mean you can see me?"
+
+//TEXT 【Yuki】
+<enT0012>"Of course I can."
+<ptT0012>"Of course I can."
+
+//TEXT 【Tomosane】
+<enT0013>"I thought I would never see you again."
+<ptT0013>"I thought I would never see you again."
+
+//TEXT 【Yuki】
+<enT0014>"Never again, huh? You said that before, too."
+<ptT0014>"Never again, huh? You said that before, too."
+
+//TEXT 【Tomosane】
+<enT0015>"Before? Did I say that?"
+<ptT0015>"Before? Did I say that?"
+
+//TEXT 【Yuki】
+<enT0016>"Yeah, quite a while back. Don't worry about it."
+<ptT0016>"Yeah, quite a while back. Don't worry about it."
+
+//TEXT
+<enT0017>The warmth of her skin...
+<ptT0017>The warmth of her skin...
+
+//TEXT
+<enT0018>The scent of her body...
+<ptT0018>The scent of her body...
+
+//TEXT 【Yuki】
+<enT0019>"Oh, right. I have a certain feeling to me, don't I?"
+<ptT0019>"Oh, right. I have a certain feeling to me, don't I?"
+
+//TEXT 【Tomosane】
+<enT0020>"Yeah..."
+<ptT0020>"Yeah..."
+
+//TEXT 【Yuki】
+<enT0021>"Then try lifting your consciousness to the surface."
+<ptT0021>"Then try lifting your consciousness to the surface."
+
+//TEXT 【Tomosane】
+<enT0022>"Lifting my consciousness?"
+<ptT0022>"Lifting my consciousness?"
+
+//TEXT 【Yuki】
+<enT0023>"Right now, Mamiya is sound asleep. It shouldn't be all that hard."
+<ptT0023>"Right now, Mamiya is sound asleep. It shouldn't be all that hard."
+
+//TEXT 【Tomosane】
+<enT0024>"Mamiya is sound asleep..."
+<ptT0024>"Mamiya is sound asleep..."
+
+//TEXT
+<enT0025>I was buffeted by the wind.
+<ptT0025>I was buffeted by the wind.
+
+//TEXT
+<enT0026>I'd never felt such a cool wind at this time of year.
+<ptT0026>I'd never felt such a cool wind at this time of year.
+
+//TEXT 【Tomosane】
+<enT0027>"Where are we?"
+<ptT0027>"Where are we?"
+
+//TEXT
+<enT0028>The trees rustled in the wind. A creek babbled in the distance.
+<ptT0028>The trees rustled in the wind. A creek babbled in the distance.
+
+//TEXT 【Tomosane】
+<enT0029>"It's a bit chilly. Is it autumn already?"
+<ptT0029>"It's a bit chilly. Is it autumn already?"
+
+//TEXT 【Yuki】
+<enT0030>"What do you mean?"
+<ptT0030>"What do you mean?"
+
+//TEXT 【Tomosane】
+<enT0031>"No, I just thought maybe I was out for a long time. Like a few months or so."
+<ptT0031>"No, I just thought maybe I was out for a long time. Like a few months or so."
+
+//TEXT 【Yuki】
+<enT0032>"If you were gone for that long, you would never come back."
+<ptT0032>"If you were gone for that long, you would never come back."
+
+//TEXT 【Tomosane】
+<enT0033>"Then why is it so chilly?"
+<ptT0033>"Then why is it so chilly?"
+
+//TEXT 【Tomosane】
+<enT0034>"And besides... is that water I hear? It sounds like there's a stream nearby."
+<ptT0034>"And besides... is that water I hear? It sounds like there's a stream nearby."
+
+//TEXT 【Yuki】
+<enT0035>"Open your eyes."
+<ptT0035>"Open your eyes."
+
+//TEXT 【Tomosane】
+<enT0036>"My eyes?"
+<ptT0036>"My eyes?"
+
+//TEXT
+<enT0037>Oh, my eyes weren't open. That's why it was so dark.
+<ptT0037>Oh, my eyes weren't open. That's why it was so dark.
+
+//TEXT 【Tomosane】
+<enT0038>"..."
+<ptT0038>"..."
+
+//TEXT 【Yuki】
+<enT0039>"Can you see?"
+<ptT0039>"Can you see?"
+
+//TEXT 【Tomosane】
+<enT0040>"My eyes won't open."
+<ptT0040>"My eyes won't open."
+
+//TEXT 【Yuki】
+<enT0041>"Oh, really? Well, don't worry about it. Can you hear the sounds? Can you feel the wind?"
+<ptT0041>"Oh, really? Well, don't worry about it. Can you hear the sounds? Can you feel the wind?"
+
+//TEXT 【Tomosane】
+<enT0042>"Yeah, I can, but..."
+<ptT0042>"Yeah, I can, but..."
+
+//TEXT
+<enT0043>I had forgotten how to open my eyes. I couldn't pry them open.
+<ptT0043>I had forgotten how to open my eyes. I couldn't pry them open.
+
+//TEXT 【Yuki】
+<enT0044>"Ahahahaha... Apparently, some people forget how to breathe, you know? Like when they're sleeping and stuff. But don't worry, you just need to calm yourself."
+<ptT0044>"Ahahahaha... Apparently, some people forget how to breathe, you know? Like when they're sleeping and stuff. But don't worry, you just need to calm yourself."
+
+//TEXT 【Yuki】
+<enT0045>"Calm yourself... and open your eyes. You can still see, I promise."
+<ptT0045>"Calm yourself... and open your eyes. You can still see, I promise."
+
+//TEXT 【Tomosane】
+<enT0046>"Calm..."
+<ptT0046>"Calm..."
+
+//TEXT 【Tomosane】
+<enT0047>"What's... going on?"
+<ptT0047>"What's... going on?"
+
+//TEXT 【Yuki】
+<enT0048>"I'm carrying you."
+<ptT0048>"I'm carrying you."
+
+//TEXT 【Tomosane】
+<enT0049>"I can see that, but why are you carrying me?"
+<ptT0049>"I can see that, but why are you carrying me?"
+
+//TEXT 【Yuki】
+<enT0050>"You got the crap beaten out of you, remember?"
+<ptT0050>"You got the crap beaten out of you, remember?"
+
+//TEXT 【Tomosane】
+<enT0051>"But that doesn't mean my body was actually injured. If it was, Mamiya Takuji would've been injured too."
+<ptT0051>"But that doesn't mean my body was actually injured. If it was, Mamiya Takuji would've been injured too."
+
+//TEXT 【Yuki】
+<enT0052>"So?"
+<ptT0052>"So?"
+
+//TEXT 【Tomosane】
+<enT0053>"So I'm fine. Now let me down."
+<ptT0053>"So I'm fine. Now let me down."
+
+//TEXT 【Yuki】
+<enT0054>"Really? I thought you couldn't move at all."
+<ptT0054>"Really? I thought you couldn't move at all."
+
+//TEXT 【Tomosane】
+<enT0055>"Huh?!"
+<ptT0055>"Huh?!"
+
+//TEXT
+<enT0056>When I tried to get down, I could hardly move my body at all.
+<ptT0056>When I tried to get down, I could hardly move my body at all.
+
+//TEXT 【Tomosane】
+<enT0057>"What's going on?"
+<ptT0057>"What's going on?"
+
+//TEXT 【Yuki】
+<enT0058>"I told you, he beat the crap out of you."
+<ptT0058>"I told you, he beat the crap out of you."
+
+//TEXT 【Tomosane】
+<enT0059>"But that was just in my head..."
+<ptT0059>"But that was just in my head..."
+
+//TEXT 【Yuki】
+<enT0060>"What are you talking about? Those wounds aren't the only thing in your head. You and I only exist in your head too, you know?"
+<ptT0060>"What are you talking about? Those wounds aren't the only thing in your head. You and I only exist in your head too, you know?"
+
+//TEXT 【Tomosane】
+<enT0061>"That's not what I mean."
+<ptT0061>"That's not what I mean."
+
+//TEXT 【Yuki】
+<enT0062>"There's no such thing as a fake wound. Pain is still pain. There's no faking that."
+<ptT0062>"There's no such thing as a fake wound. Pain is still pain. There's no faking that."
+
+//TEXT 【Yuki】
+<enT0063>"Well, I guess it does happen sometimes. Like if you go to the doctor, maybe he tells you there's no way that part of your body actually hurts, but then I'd probably just call the doctor stupid."
+<ptT0063>"Well, I guess it does happen sometimes. Like if you go to the doctor, maybe he tells you there's no way that part of your body actually hurts, but then I'd probably just call the doctor stupid."
+
+//TEXT 【Yuki】
+<enT0064>"There's no such thing as illusory pain. If it hurts, it's pain. Those wounds you received weren't fake, either."
+<ptT0064>"There's no such thing as illusory pain. If it hurts, it's pain. Those wounds you received weren't fake, either."
+
+//TEXT 【Tomosane】
+<enT0065>"Don't get philosophical on me now."
+<ptT0065>"Don't get philosophical on me now."
+
+//TEXT 【Yuki】
+<enT0066>"Well, if I'm being perfectly serious, I just forcibly pulled you up from your unconscious state. That's why you can't move right now."
+<ptT0066>"Well, if I'm being perfectly serious, I just forcibly pulled you up from your unconscious state. That's why you can't move right now."
+
+//TEXT 【Tomosane】
+<enT0067>"What do you mean? You can forcibly bring my consciousness to the forefront?"
+<ptT0067>"What do you mean? You can forcibly bring my consciousness to the forefront?"
+
+//TEXT 【Yuki】
+<enT0068>"Well, there are a few risks involved."
+<ptT0068>"Well, there are a few risks involved."
+
+//TEXT 【Tomosane】
+<enT0069>"Risks?"
+<ptT0069>"Risks?"
+
+//TEXT 【Yuki】
+<enT0070>"Oh, don't worry about it. We're here."
+<ptT0070>"Oh, don't worry about it. We're here."
+
+//TEXT 【Tomosane】
+<enT0071>"Here?"
+<ptT0071>"Here?"
+
+//TEXT 【Tomosane】
+<enT0072>"Where are we?"
+<ptT0072>"Where are we?"
+
+//TEXT 【Yuki】
+<enT0073>"The dojo, specifically the back door. We used to train here, remember?"
+<ptT0073>"The dojo, specifically the back door. We used to train here, remember?"
+
+//TEXT 【Tomosane】
+<enT0074>"No, I don't. Besides, where is this, really?"
+<ptT0074>"No, I don't. Besides, where is this, really?"
+
+//TEXT 【Yuki】
+<enT0075>"The Mamiya dojo. Isn't it nostalgic?"
+<ptT0075>"The Mamiya dojo. Isn't it nostalgic?"
+
+//TEXT 【Tomosane】
+<enT0076>"Mamiya's dojo? You mean our father's martial arts dojo out in the countryside?"
+<ptT0076>"Mamiya's dojo? You mean our father's martial arts dojo out in the countryside?"
+
+//TEXT 【Yuki】
+<enT0077>"Yeah, that's the one."
+<ptT0077>"Yeah, that's the one."
+
+//TEXT 【Tomosane】
+<enT0078>"Sure it's nostalgic or whatever, but more importantly... Why are we here? I mean, shouldn't it take like..."
+<ptT0078>"Sure it's nostalgic or whatever, but more importantly... Why are we here? I mean, shouldn't it take like..."
+
+//TEXT 【Yuki】
+<enT0079>"Hours and hours to get here from Tokyo?"
+<ptT0079>"Hours and hours to get here from Tokyo?"
+
+//TEXT 【Tomosane】
+<enT0080>"Yeah, it's not the kind of place you can just come to on a whim. Why are we here all of a sudden?"
+<ptT0080>"Yeah, it's not the kind of place you can just come to on a whim. Why are we here all of a sudden?"
+
+//TEXT 【Yuki】
+<enT0081>"I know what you mean. Why do you think?"
+<ptT0081>"I know what you mean. Why do you think?"
+
+//TEXT 【Tomosane】
+<enT0082>"We traveled here while I was unconscious? How long was I out this time?"
+<ptT0082>"We traveled here while I was unconscious? How long was I out this time?"
+
+//TEXT 【Yuki】
+<enT0083>"How long do you think?"
+<ptT0083>"How long do you think?"
+
+//TEXT 【Tomosane】
+<enT0084>"I'm not really sure, but it doesn't feel like it was that long."
+<ptT0084>"I'm not really sure, but it doesn't feel like it was that long."
+
+//TEXT 【Yuki】
+<enT0085>"Oh, really... How long do you think, then?"
+<ptT0085>"Oh, really... How long do you think, then?"
+
+//TEXT 【Tomosane】
+<enT0086>"A night... or maybe a little longer. I'd say about a whole day. That's about how long it feels like."
+<ptT0086>"A night... or maybe a little longer. I'd say about a whole day. That's about how long it feels like."
+
+//TEXT 【Yuki】
+<enT0087>"And yet you're shocked to find that you've been transported to a far away place."
+<ptT0087>"And yet you're shocked to find that you've been transported to a far away place."
+
+//TEXT 【Tomosane】
+<enT0088>"Yeah, that about sums it up... So what's going on?"
+<ptT0088>"Yeah, that about sums it up... So what's going on?"
+
+//TEXT 【Yuki】
+<enT0089>"I don't know, what do you think is going on?"
+<ptT0089>"I don't know, what do you think is going on?"
+
+//TEXT 【Yuki】
+<enT0090>"Oh, right, how's your body feel? Can you move yet?"
+<ptT0090>"Oh, right, how's your body feel? Can you move yet?"
+
+//TEXT 【Tomosane】
+<enT0091>"My body? Oh, you're right."
+<ptT0091>"My body? Oh, you're right."
+
+//TEXT
+<enT0092>Before, I could hardly move my body at all, but now I could move it normally.
+<ptT0092>Before, I could hardly move my body at all, but now I could move it normally.
+
+//TEXT
+<enT0093>It was like I had forgotten how to move my limbs... or maybe, like my entire body was weighted down with lead. That kind of feeling.
+<ptT0093>It was like I had forgotten how to move my limbs... or maybe, like my entire body was weighted down with lead. That kind of feeling.
+
+//TEXT
+<enT0094>That feeling was like...
+<ptT0094>That feeling was like...
+
+//TEXT 【Yuki】
+<enT0095>"Like what? What's it like?"
+<ptT0095>"Like what? What's it like?"
+
+//TEXT
+<enT0096>That's right. This particular feeling of unreality...
+<ptT0096>That's right. This particular feeling of unreality...
+
+//TEXT 【Tomosane】
+<enT0097>"In just a day or two... I don't know exactly how much time has passed, but it doesn't seem like I could actually be standing here, so maybe..."
+<ptT0097>"In just a day or two... I don't know exactly how much time has passed, but it doesn't seem like I could actually be standing here, so maybe..."
+
+//TEXT 【Tomosane】
+<enT0098>"A dream... Is this a dream?"
+<ptT0098>"A dream... Is this a dream?"
+
+//TEXT 【Yuki】
+<enT0099>"Hehehe... Bingo. You're smarter than you look."
+<ptT0099>"Hehehe... Bingo. You're smarter than you look."
+
+//TEXT 【Tomosane】
+<enT0100>"This weird feeling in my body is just like a dream, but..."
+<ptT0100>"This weird feeling in my body is just like a dream, but..."
+
+//TEXT 【Yuki】
+<enT0101>"Huh? Is something wrong?"
+<ptT0101>"Huh? Is something wrong?"
+
+//TEXT
+<enT0102>What's different?
+<ptT0102>What's different?
+
+//TEXT
+<enT0103>I can't quite put my finger on it...
+<ptT0103>I can't quite put my finger on it...
+
+//TEXT 【Tomosane】
+<enT0104>"It's like my consciousness is too clear for this to be a dream... It's like I'm really awake. And besides, I've never been aware that I was dreaming while the dream was still going on before."
+<ptT0104>"It's like my consciousness is too clear for this to be a dream... It's like I'm really awake. And besides, I've never been aware that I was dreaming while the dream was still going on before."
+
+//TEXT 【Yuki】
+<enT0105>"I know what you mean. Dreams should be a bit silly, right? Your thoughts and everything you see would be a bit off-kilter. Well, would you believe it was a dream if I was naked right now?"
+<ptT0105>"I know what you mean. Dreams should be a bit silly, right? Your thoughts and everything you see would be a bit off-kilter. Well, would you believe it was a dream if I was naked right now?"
+
+//TEXT 【Tomosane】
+<enT0106>"You're welcome to try it."
+<ptT0106>"You're welcome to try it."
+
+//TEXT 【Yuki】
+<enT0107>"As if!"
+<ptT0107>"As if!"
+
+//TEXT 【Tomosane】
+<enT0108>"What's your deal? You're the one who was flashing me your panties a few days ago."
+<ptT0108>"What's your deal? You're the one who was flashing me your panties a few days ago."
+
+//TEXT 【Yuki】
+<enT0109>"There's a big difference between panties and actual nudity. Panties are just cloth, you know."
+<ptT0109>"There's a big difference between panties and actual nudity. Panties are just cloth, you know."
+
+//TEXT 【Tomosane】
+<enT0110>"Who cares about that?! Anyway, are we in, uh..."
+<ptT0110>"Who cares about that?! Anyway, are we in, uh..."
+
+//TEXT 【Tomosane】
+<enT0111>"A lucid dream?"
+<ptT0111>"A lucid dream?"
+
+//TEXT 【Yuki】
+<enT0112>"Oh, good job. I knew you would figure it out."
+<ptT0112>"Oh, good job. I knew you would figure it out."
+
+//TEXT 【Tomosane】
+<enT0113>"No, I really don't know much about them. I've just heard other people talk about them."
+<ptT0113>"No, I really don't know much about them. I've just heard other people talk about them."
+
+//TEXT 【Yuki】
+<enT0114>"Do you want me to explain?"
+<ptT0114>"Do you want me to explain?"
+
+//TEXT 【Tomosane】
+<enT0115>"For future reference, I suppose..."
+<ptT0115>"For future reference, I suppose..."
+
+//TEXT 【Yuki】
+<enT0116>"Sure. It's important that you know what's really going on. At least if you feel up to it."
+<ptT0116>"Sure. It's important that you know what's really going on. At least if you feel up to it."
+
+//TEXT 【Tomosane】
+<enT0117>"Up to what?"
+<ptT0117>"Up to what?"
+
+//TEXT 【Yuki】
+<enT0118>"Oh, don't worry about it. Anyway, lucid dreams are, uh... Well, to put it simply, it's a dream that you can control, one that you're completely aware of."
+<ptT0118>"Oh, don't worry about it. Anyway, lucid dreams are, uh... Well, to put it simply, it's a dream that you can control, one that you're completely aware of."
+
+//TEXT 【Yuki】
+<enT0119>"The frontal lobe and hippocampus in your brain... Uh, just think of them as the parts that control thought, consciousness, and long-term memory."
+<ptT0119>"The frontal lobe and hippocampus in your brain... Uh, just think of them as the parts that control thought, consciousness, and long-term memory."
+
+//TEXT 【Yuki】
+<enT0120>"When you're awake, those parts process the information you see and hear. And when you're dreaming, you can partially wake up your frontal lobe and then it can control your dreams in cooperation with your hippocampus."
+<ptT0120>"When you're awake, those parts process the information you see and hear. And when you're dreaming, you can partially wake up your frontal lobe and then it can control your dreams in cooperation with your hippocampus."
+
+//TEXT 【Tomosane】
+<enT0121>"Partially wake up my frontal lobe? I think I understand the idea, but is that really possible?"
+<ptT0121>"Partially wake up my frontal lobe? I think I understand the idea, but is that really possible?"
+
+//TEXT 【Yuki】
+<enT0122>"I guess it's possible if you practice enough."
+<ptT0122>"I guess it's possible if you practice enough."
+
+//TEXT 【Tomosane】
+<enT0123>"Practice? Does that mean this is a world created through practice?"
+<ptT0123>"Practice? Does that mean this is a world created through practice?"
+
+//TEXT 【Yuki】
+<enT0124>"I guess so."
+<ptT0124>"I guess so."
+
+//TEXT 【Tomosane】
+<enT0125>"Coincidental fruits of our labor, I guess?"
+<ptT0125>"Coincidental fruits of our labor, I guess?"
+
+//TEXT 【Yuki】
+<enT0126>"Well, there's a trick to it. Most people get really confused when their frontal lobe wakes up during a dream."
+<ptT0126>"Well, there's a trick to it. Most people get really confused when their frontal lobe wakes up during a dream."
+
+//TEXT 【Tomosane】
+<enT0127>"Confusion, huh? I think I understand. When you say partially wake up, it makes me think of sleep paralysis."
+<ptT0127>"Confusion, huh? I think I understand. When you say partially wake up, it makes me think of sleep paralysis."
+
+//TEXT 【Yuki】
+<enT0128>"Yeah, when people become aware of their dreams, they usually feel like they're trapped and can't move their bodies."
+<ptT0128>"Yeah, when people become aware of their dreams, they usually feel like they're trapped and can't move their bodies."
+
+//TEXT 【Yuki】
+<enT0129>"The difference between their real body and their dream body... That incongruence makes your hippocampus remember that you're sleeping."
+<ptT0129>"The difference between their real body and their dream body... That incongruence makes your hippocampus remember that you're sleeping."
+
+//TEXT 【Tomosane】
+<enT0130>"So even though you're not awake, your brain creates a situation where you believe you're awake?"
+<ptT0130>"So even though you're not awake, your brain creates a situation where you believe you're awake?"
+
+//TEXT 【Yuki】
+<enT0131>"Then your heart rate rises, your breathing speeds up, and finally you wake up."
+<ptT0131>"Then your heart rate rises, your breathing speeds up, and finally you wake up."
+
+//TEXT 【Tomosane】
+<enT0132>"So that feeling from before where I couldn't move my body was because I was in a state of half-consciousness?"
+<ptT0132>"So that feeling from before where I couldn't move my body was because I was in a state of half-consciousness?"
+
+//TEXT 【Yuki】
+<enT0133>"Yeah, because even in the dream you were still trying to move your real body."
+<ptT0133>"Yeah, because even in the dream you were still trying to move your real body."
+
+//TEXT 【Tomosane】
+<enT0134>"But I didn't wake up. Was that because of your power?"
+<ptT0134>"But I didn't wake up. Was that because of your power?"
+
+//TEXT 【Yuki】
+<enT0135>"Who knows?"
+<ptT0135>"Who knows?"
+
+//TEXT 【Tomosane】
+<enT0136>"I can't freely control my dreams. I can't imagine it wasn't your power. Didn't you say you practiced it?"
+<ptT0136>"I can't freely control my dreams. I can't imagine it wasn't your power. Didn't you say you practiced it?"
+
+//TEXT 【Yuki】
+<enT0137>"Well, there are a lot of techniques for becoming aware of your dreams. The people on the Malay Peninsula have been developing their own technique for lucid dreaming for millennia."
+<ptT0137>"Well, there are a lot of techniques for becoming aware of your dreams. The people on the Malay Peninsula have been developing their own technique for lucid dreaming for millennia."
+
+//TEXT 【Tomosane】
+<enT0138>"The technique for surviving erasure at Mamiya Takuji's hands... Even while your consciousness is locked away, you need to ensure a minimal level of conscious activity."
+<ptT0138>"The technique for surviving erasure at Mamiya Takuji's hands... Even while your consciousness is locked away, you need to ensure a minimal level of conscious activity."
+
+//TEXT 【Tomosane】
+<enT0139>"Which means this power... Lucid dreaming would be the most useful skill for you to acquire."
+<ptT0139>"Which means this power... Lucid dreaming would be the most useful skill for you to acquire."
+
+//TEXT 【Yuki】
+<enT0140>"You could say that."
+<ptT0140>"You could say that."
+
+//TEXT 【Tomosane】
+<enT0141>"That must mean this is your dream."
+<ptT0141>"That must mean this is your dream."
+
+//TEXT 【Yuki】
+<enT0142>"Really?"
+<ptT0142>"Really?"
+
+//TEXT 【Tomosane】
+<enT0143>"Well... is it not?"
+<ptT0143>"Well... is it not?"
+
+//TEXT 【Yuki】
+<enT0144>"Isn't it a bit hasty to say it's definitely my dream?"
+<ptT0144>"Isn't it a bit hasty to say it's definitely my dream?"
+
+//TEXT 【Tomosane】
+<enT0145>"Huh? Why? What's hasty about that? Didn't you practice to acquire this skill?"
+<ptT0145>"Huh? Why? What's hasty about that? Didn't you practice to acquire this skill?"
+
+//TEXT 【Yuki】
+<enT0146>"Yeah, but still, wouldn't that be a bit weird?"
+<ptT0146>"Yeah, but still, wouldn't that be a bit weird?"
+
+//TEXT 【Tomosane】
+<enT0147>"What would?"
+<ptT0147>"What would?"
+
+//TEXT 【Yuki】
+<enT0148>"For instance, if Hasaki-chan was here, would that be the real Hasaki-chan?"
+<ptT0148>"For instance, if Hasaki-chan was here, would that be the real Hasaki-chan?"
+
+//TEXT 【Tomosane】
+<enT0149>"Huh? Of course not. Besides, Hasaki couldn't come here."
+<ptT0149>"Huh? Of course not. Besides, Hasaki couldn't come here."
+
+//TEXT 【Yuki】
+<enT0150>"But it wouldn't be that weird if Hasaki-chan appeared in one of your dreams, right?"
+<ptT0150>"But it wouldn't be that weird if Hasaki-chan appeared in one of your dreams, right?"
+
+//TEXT 【Tomosane】
+<enT0151>"But that would just be part of the dream. The real Hasaki could never appear in my dream."
+<ptT0151>"But that would just be part of the dream. The real Hasaki could never appear in my dream."
+
+//TEXT 【Yuki】
+<enT0152>"Then if this is my dream, that would make you just a part of my dream. Are you an illusion that my brain is creating?"
+<ptT0152>"Then if this is my dream, that would make you just a part of my dream. Are you an illusion that my brain is creating?"
+
+//TEXT 【Tomosane】
+<enT0153>"No, wait, I'm not an illusion."
+<ptT0153>"No, wait, I'm not an illusion."
+
+//TEXT 【Yuki】
+<enT0154>"Then maybe it's the reverse, and I'm the one that's an illusion."
+<ptT0154>"Then maybe it's the reverse, and I'm the one that's an illusion."
+
+//TEXT 【Tomosane】
+<enT0155>"No, wait... I'm not capable of controlling my dreams like this."
+<ptT0155>"No, wait... I'm not capable of controlling my dreams like this."
+
+//TEXT 【Tomosane】
+<enT0156>"Besides, what you're saying doesn't apply to us, since we share the same body."
+<ptT0156>"Besides, what you're saying doesn't apply to us, since we share the same body."
+
+//TEXT 【Yuki】
+<enT0157>"Really? Is it that simple?"
+<ptT0157>"Really? Is it that simple?"
+
+//TEXT 【Tomosane】
+<enT0158>"Why?"
+<ptT0158>"Why?"
+
+//TEXT 【Yuki】
+<enT0159>"For example, let's say this isn't dissociative identity disorder, or what most people call multiple personality disorder. Suppose we didn't have that."
+<ptT0159>"For example, let's say this isn't dissociative identity disorder, or what most people call multiple personality disorder. Suppose we didn't have that."
+
+//TEXT 【Tomosane】
+<enT0160>"Huh? What do you mean?"
+<ptT0160>"Huh? What do you mean?"
+
+//TEXT 【Yuki】
+<enT0161>"Just listen for a second. For instance, what if there was only one body between us."
+<ptT0161>"Just listen for a second. For instance, what if there was only one body between us."
+
+//TEXT 【Yuki】
+<enT0162>"But in that one body, let's suppose that three souls had actually taken up residence. Each one of those souls could dream."
+<ptT0162>"But in that one body, let's suppose that three souls had actually taken up residence. Each one of those souls could dream."
+
+//TEXT 【Yuki】
+<enT0163>"And when one soul dreams, most of the people in that dream would be people who don't share the same body. Let's say those people were just fabrications of a dreaming mind."
+<ptT0163>"And when one soul dreams, most of the people in that dream would be people who don't share the same body. Let's say those people were just fabrications of a dreaming mind."
+
+//TEXT 【Yuki】
+<enT0164>"And let's assume that the only people in the dream who weren't just fabrications were two of the souls sharing the same body."
+<ptT0164>"And let's assume that the only people in the dream who weren't just fabrications were two of the souls sharing the same body."
+
+//TEXT 【Yuki】
+<enT0165>"Isn't that a bit weird?"
+<ptT0165>"Isn't that a bit weird?"
+
+//TEXT 【Tomosane】
+<enT0166>"Uh... That was sort of complicated, so I'm not really sure. First of all, there's no such thing as a soul. We're just the symptoms of an illness."
+<ptT0166>"Uh... That was sort of complicated, so I'm not really sure. First of all, there's no such thing as a soul. We're just the symptoms of an illness."
+
+//TEXT 【Yuki】
+<enT0167>"Oh, I see. So there's no such thing as a soul, huh? Okay, let's start from that assumption, then."
+<ptT0167>"Oh, I see. So there's no such thing as a soul, huh? Okay, let's start from that assumption, then."
+
+//TEXT 【Yuki】
+<enT0168>"But you know, there's still the possibility that this dream isn't mine or yours, and neither of us truly exists."
+<ptT0168>"But you know, there's still the possibility that this dream isn't mine or yours, and neither of us truly exists."
+
+//TEXT 【Tomosane】
+<enT0169>"What are you trying to say?"
+<ptT0169>"What are you trying to say?"
+
+//TEXT 【Yuki】
+<enT0170>"Well, it's just, if you say that this world is someone's dream, then reality could be someone's dream too."
+<ptT0170>"Well, it's just, if you say that this world is someone's dream, then reality could be someone's dream too."
+
+//TEXT 【Tomosane】
+<enT0171>"That's not true. You can wake up from a dream. If you don't wake up, then it's reality."
+<ptT0171>"That's not true. You can wake up from a dream. If you don't wake up, then it's reality."
+
+//TEXT 【Yuki】
+<enT0172>"I see. So an endless dream is reality, and you assume that you'll eventually wake up from this dream. Okay, if you say so."
+<ptT0172>"I see. So an endless dream is reality, and you assume that you'll eventually wake up from this dream. Okay, if you say so."
+
+//TEXT 【Tomosane】
+<enT0173>"So then... why are we here?"
+<ptT0173>"So then... why are we here?"
+
+//TEXT 【Yuki】
+<enT0174>"Why not? You don't like the Mamiya dojo?"
+<ptT0174>"Why not? You don't like the Mamiya dojo?"
+
+//TEXT 【Tomosane】
+<enT0175>"It doesn't matter to me, but it's not like you or I have ever actually seen the dojo, right?"
+<ptT0175>"It doesn't matter to me, but it's not like you or I have ever actually seen the dojo, right?"
+
+//TEXT 【Yuki】
+<enT0176>"You think so? I suppose we didn't develop multiple personalities until quite a while after Mamiya Takuji was in Sawaimura."
+<ptT0176>"You think so? I suppose we didn't develop multiple personalities until quite a while after Mamiya Takuji was in Sawaimura."
+
+//TEXT 【Tomosane】
+<enT0177>"So why did you pick a place only Mamiya Takuji knows?"
+<ptT0177>"So why did you pick a place only Mamiya Takuji knows?"
+
+//TEXT 【Yuki】
+<enT0178>"Hmm... I guess you don't even recognize this place in your dreams, huh?"
+<ptT0178>"Hmm... I guess you don't even recognize this place in your dreams, huh?"
+
+//TEXT 【Tomosane】
+<enT0179>"Of course not. I didn't exist until just two years ago, and it's been more than ten years since Mamiya Takuji stayed here."
+<ptT0179>"Of course not. I didn't exist until just two years ago, and it's been more than ten years since Mamiya Takuji stayed here."
+
+//TEXT 【Yuki】
+<enT0180>"Yeah... I guess you could say that, but it would make sense if you had the same memories, right? You share quite a lot of memories with him, don't you?"
+<ptT0180>"Yeah... I guess you could say that, but it would make sense if you had the same memories, right? You share quite a lot of memories with him, don't you?"
+
+//TEXT 【Tomosane】
+<enT0181>"Shared memories..."
+<ptT0181>"Shared memories..."
+
+//TEXT 【Yuki】
+<enT0182>"Memories about places are almost always shared, right? The layout of the school building, the road home... All those have to be shared or we'd get lost all the time, right?"
+<ptT0182>"Memories about places are almost always shared, right? The layout of the school building, the road home... All those have to be shared or we'd get lost all the time, right?"
+
+//TEXT
+<enT0183>Now that she mentions it...
+<ptT0183>Now that she mentions it...
+
+//TEXT
+<enT0184>Place-based memories are almost always shared.
+<ptT0184>Place-based memories are almost always shared.
+
+//TEXT
+<enT0185>And besides that, language, common sense, and other knowledge necessary for day-to-day life. Basic, normal knowledge a person should have is shared between us.
+<ptT0185>And besides that, language, common sense, and other knowledge necessary for day-to-day life. Basic, normal knowledge a person should have is shared between us.
+
+//TEXT
+<enT0186>Which means I should have memories about this place too.
+<ptT0186>Which means I should have memories about this place too.
+
+//TEXT 【Yuki】
+<enT0187>"But you don't remember this place at all."
+<ptT0187>"But you don't remember this place at all."
+
+//TEXT 【Tomosane】
+<enT0188>"Yeah, not even a little."
+<ptT0188>"Yeah, not even a little."
+
+//TEXT 【Yuki】
+<enT0189>"I see... So you don't remember it... That makes sense, I guess."
+<ptT0189>"I see... So you don't remember it... That makes sense, I guess."
+
+//TEXT 【Tomosane】
+<enT0190>"What makes sense?"
+<ptT0190>"What makes sense?"
+
+//TEXT 【Yuki】
+<enT0191>"Who knows? All right, more importantly, I have a question for you."
+<ptT0191>"Who knows? All right, more importantly, I have a question for you."
+
+//TEXT 【Tomosane】
+<enT0192>"A question?"
+<ptT0192>"A question?"
+
+//TEXT 【Yuki】
+<enT0193>"I guess it's just something I want to confirm. Something I need to confirm."
+<ptT0193>"I guess it's just something I want to confirm. Something I need to confirm."
+
+//TEXT 【Tomosane】
+<enT0194>"Confirm what?"
+<ptT0194>"Confirm what?"
+
+//TEXT 【Yuki】
+<enT0195>"Yeah, um... No matter whether this is your dream or mine, this situation wouldn't come about unless someone wanted it to."
+<ptT0195>"Yeah, um... No matter whether this is your dream or mine, this situation wouldn't come about unless someone wanted it to."
+
+//TEXT 【Tomosane】
+<enT0196>"Someone wanted this to happen?"
+<ptT0196>"Someone wanted this to happen?"
+
+//TEXT 【Yuki】
+<enT0197>"Yeah, which in this case means you or me. One of us wanted to have a lucid dream. Normal dreams aren't like that, but you can't have a lucid dream by accident."
+<ptT0197>"Yeah, which in this case means you or me. One of us wanted to have a lucid dream. Normal dreams aren't like that, but you can't have a lucid dream by accident."
+
+//TEXT 【Tomosane】
+<enT0198>"Well, if you say so..."
+<ptT0198>"Well, if you say so..."
+
+//TEXT 【Yuki】
+<enT0199>"Answer this next question honestly."
+<ptT0199>"Answer this next question honestly."
+
+//TEXT 【Tomosane】
+<enT0200>"What question?"
+<ptT0200>"What question?"
+
+//TEXT 【Yuki】
+<enT0201>"It's really important, all right?"
+<ptT0201>"It's really important, all right?"
+
+//TEXT 【Tomosane】
+<enT0202>"Yeah... Sure."
+<ptT0202>"Yeah... Sure."
+
+//TEXT 【Yuki】
+<enT0203>"Ahem... First off.
+<ptT0203>"Ahem... First off.
+
+//TEXT
+<enT0204> It's very hard to have a lucid dream, but it's very easy to wake up."
+<ptT0204> It's very hard to have a lucid dream, but it's very easy to wake up."
+
+//TEXT 【Yuki】
+<enT0205>"But you can either keep dreaming, or you can wake up. Which means you can go back to reality."
+<ptT0205>"But you can either keep dreaming, or you can wake up. Which means you can go back to reality."
+
+//TEXT 【Tomosane】
+<enT0206>"Reality?"
+<ptT0206>"Reality?"
+
+//TEXT 【Yuki】
+<enT0207>"That's right. If you wake up now, the Tomosane personality will return to the real world."
+<ptT0207>"That's right. If you wake up now, the Tomosane personality will return to the real world."
+
+//TEXT 【Yuki】
+<enT0208>"If you do that, you can go talk to the real Hasaki-chan, or even Master at Hakushuukyou."
+<ptT0208>"If you do that, you can go talk to the real Hasaki-chan, or even Master at Hakushuukyou."
+
+//TEXT 【Tomosane】
+<enT0209>"It sounds like you just said something really important."
+<ptT0209>"It sounds like you just said something really important."
+
+//TEXT 【Yuki】
+<enT0210>"That's right, I did. It's important that you understand that."
+<ptT0210>"That's right, I did. It's important that you understand that."
+
+//TEXT 【Tomosane】
+<enT0211>"Then let me ask... What if I don't wake up from this dream?"
+<ptT0211>"Then let me ask... What if I don't wake up from this dream?"
+
+//TEXT 【Yuki】
+<enT0212>"The next time you wake up will probably... no, it will definitely be your last battle with Mamiya Takuji."
+<ptT0212>"The next time you wake up will probably... no, it will definitely be your last battle with Mamiya Takuji."
+
+//TEXT 【Tomosane】
+<enT0213>"My last battle with Mamiya?"
+<ptT0213>"My last battle with Mamiya?"
+
+//TEXT 【Yuki】
+<enT0214>"To put it simply, the deciding battle between Mamiya Takuji and you, Yuuki Tomosane."
+<ptT0214>"To put it simply, the deciding battle between Mamiya Takuji and you, Yuuki Tomosane."
+
+//TEXT 【Yuki】
+<enT0215>"And no matter who wins, that will be the last time 'Yuuki Tomosane' wakes up."
+<ptT0215>"And no matter who wins, that will be the last time 'Yuuki Tomosane' wakes up."
+
+//TEXT 【Tomosane】
+<enT0216>"The last time that I... that 'Yuuki Tomosane' wakes up?"
+<ptT0216>"The last time that I... that 'Yuuki Tomosane' wakes up?"
+
+//TEXT 【Yuki】
+<enT0217>"If you wake up now... If you can wake up, then there's still time for you to do what you need to in the real world."
+<ptT0217>"If you wake up now... If you can wake up, then there's still time for you to do what you need to in the real world."
+
+//TEXT 【Yuki】
+<enT0218>"You were right earlier. Today is the 15th, and you've been out for about a day."
+<ptT0218>"You were right earlier. Today is the 15th, and you've been out for about a day."
+
+//TEXT 【Yuki】
+<enT0219>"If you wake up now, there's still a bit of time left."
+<ptT0219>"If you wake up now, there's still a bit of time left."
+
+//TEXT 【Tomosane】
+<enT0220>"And if I don't?"
+<ptT0220>"And if I don't?"
+
+//TEXT 【Yuki】
+<enT0221>"You won't have another chance."
+<ptT0221>"You won't have another chance."
+
+//TEXT 【Tomosane】
+<enT0222>"The final battle, huh..."
+<ptT0222>"The final battle, huh..."
+
+//TEXT 【Yuki】
+<enT0223>"Yep. I don't know why, but it seems like he has a clear goal in mind now."
+<ptT0223>"Yep. I don't know why, but it seems like he has a clear goal in mind now."
+
+//TEXT 【Tomosane】
+<enT0224>"Yeah, it looks that way. When we fought, he said something really weird."
+<ptT0224>"Yeah, it looks that way. When we fought, he said something really weird."
+
+//TEXT 【Yuki】
+<enT0225>"Yeah, that's why you've become an entirely unnecessary person in Mamiya Takuji's eyes. And as time passes, his self-certainty will only grow stronger."
+<ptT0225>"Yeah, that's why you've become an entirely unnecessary person in Mamiya Takuji's eyes. And as time passes, his self-certainty will only grow stronger."
+
+//TEXT 【Yuki】
+<enT0226>"This lucid dream right now is your last chance. If this dream ends, you probably won't be able to wake up before the last battle."
+<ptT0226>"This lucid dream right now is your last chance. If this dream ends, you probably won't be able to wake up before the last battle."
+
+//TEXT 【Tomosane】
+<enT0227>"How do you know I'll wake up at the final battle next?"
+<ptT0227>"How do you know I'll wake up at the final battle next?"
+
+//TEXT 【Yuki】
+<enT0228>"Well, part of it is just my intuition, but he didn't finish you off last time, right?"
+<ptT0228>"Well, part of it is just my intuition, but he didn't finish you off last time, right?"
+
+//TEXT 【Tomosane】
+<enT0229>"Yeah, that's right."
+<ptT0229>"Yeah, that's right."
+
+//TEXT 【Yuki】
+<enT0230>"If he didn't finish you off, that means you two will have to fight again... That's all."
+<ptT0230>"If he didn't finish you off, that means you two will have to fight again... That's all."
+
+//TEXT 【Yuki】
+<enT0231>"So I guess I can't be certain that there will be a battle."
+<ptT0231>"So I guess I can't be certain that there will be a battle."
+
+//TEXT 【Yuki】
+<enT0232>"But whether you choose to wake up or stay in this lucid dream, this could very well be the last of the time you have left."
+<ptT0232>"But whether you choose to wake up or stay in this lucid dream, this could very well be the last of the time you have left."
+
+//TEXT 【Tomosane】
+<enT0233>"So this is the end..."
+<ptT0233>"So this is the end..."
+
+//TEXT 【Yuki】
+<enT0234>"You should know it too, right? July 20th, 2012."
+<ptT0234>"You should know it too, right? July 20th, 2012."
+
+//TEXT 【Tomosane】
+<enT0235>"The prophecy..."
+<ptT0235>"The prophecy..."
+
+//TEXT 【Yuki】
+<enT0236>"Several decades ago, before Mamiya Takuji was even born, a religious leader prophesied that the world would end on this day."
+<ptT0236>"Several decades ago, before Mamiya Takuji was even born, a religious leader prophesied that the world would end on this day."
+
+//TEXT 【Tomosane】
+<enT0237>"The White Lotus Association..."
+<ptT0237>"The White Lotus Association..."
+
+//TEXT 【Yuki】
+<enT0238>"You know about it?"
+<ptT0238>"You know about it?"
+
+//TEXT 【Tomosane】
+<enT0239>"No, not at all. That word just entered my brain when I made contact with Mamiya Takuji. It was a memory that he had."
+<ptT0239>"No, not at all. That word just entered my brain when I made contact with Mamiya Takuji. It was a memory that he had."
+
+//TEXT 【Yuki】
+<enT0240>"Anyway, Mamiya Takuji believes that the world will be destroyed on July 20th, 2012."
+<ptT0240>"Anyway, Mamiya Takuji believes that the world will be destroyed on July 20th, 2012."
+
+//TEXT 【Yuki】
+<enT0241>"And on the border of that day... on the 19th, he thinks he has to return it all to the sky."
+<ptT0241>"And on the border of that day... on the 19th, he thinks he has to return it all to the sky."
+
+//TEXT 【Tomosane】
+<enT0242>"What does returning something to the sky mean?"
+<ptT0242>"What does returning something to the sky mean?"
+
+//TEXT 【Yuki】
+<enT0243>"You know what it means, Tomosane."
+<ptT0243>"You know what it means, Tomosane."
+
+//TEXT 【Tomosane】
+<enT0244>"Wha-?!"
+<ptT0244>"Wha-?!"
+
+//TEXT
+<enT0245>What was that just now?
+<ptT0245>What was that just now?
+
+//TEXT 【Yuki】
+<enT0246>"Returning something to the sky means exactly that. Returning it to the sky. Well, if those people could fly like birds, maybe they'd make it to the sky."
+<ptT0246>"Returning something to the sky means exactly that. Returning it to the sky. Well, if those people could fly like birds, maybe they'd make it to the sky."
+
+//TEXT 【Tomosane】
+<enT0247>"They fall...
+<ptT0247>"They fall...
+
+//TEXT 【Yuki】
+<enT0248>"And die."
+<ptT0248>"And die."
+
+//TEXT 【Tomosane】
+<enT0249>"You said returning 'everything,' but what does that really mean?"
+<ptT0249>"You said returning 'everything,' but what does that really mean?"
+
+//TEXT 【Yuki】
+<enT0250>"According to the prophecy, it's a great number of people, but 'a great number' of people is entirely subjective. Either way, I'm sure that he wants to return as many people to the sky as he can."
+<ptT0250>"According to the prophecy, it's a great number of people, but 'a great number' of people is entirely subjective. Either way, I'm sure that he wants to return as many people to the sky as he can."
+
+//TEXT 【Tomosane】
+<enT0251>"Hasaki isn't supposed to be one of those people, is she?"
+<ptT0251>"Hasaki isn't supposed to be one of those people, is she?"
+
+//TEXT 【Yuki】
+<enT0252>"Who knows?"
+<ptT0252>"Who knows?"
+
+//TEXT 【Tomosane】
+<enT0253>"What do you mean? Mamiya Takuji created you to protect Hasaki."
+<ptT0253>"What do you mean? Mamiya Takuji created you to protect Hasaki."
+
+//TEXT 【Yuki】
+<enT0254>"But hasn't he already broken those laws?"
+<ptT0254>"But hasn't he already broken those laws?"
+
+//TEXT 【Tomosane】
+<enT0255>"Ah!"
+<ptT0255>"Ah!"
+
+//TEXT 【Yuki】
+<enT0256>"Those same laws say that you have to defeat Mamiya Takuji and strike him the final blow."
+<ptT0256>"Those same laws say that you have to defeat Mamiya Takuji and strike him the final blow."
+
+//TEXT 【Tomosane】
+<enT0257>"Then what about Hasaki? Hasaki is the closest person to him, so if he wants to return all of humanity to the sky, then would he start with..."
+<ptT0257>"Then what about Hasaki? Hasaki is the closest person to him, so if he wants to return all of humanity to the sky, then would he start with..."
+
+//TEXT 【Yuki】
+<enT0258>"Are you worried about Hasaki-chan?"
+<ptT0258>"Are you worried about Hasaki-chan?"
+
+//TEXT 【Tomosane】
+<enT0259>"Of course I am! Aren't you?!"
+<ptT0259>"Of course I am! Aren't you?!"
+
+//TEXT 【Yuki】
+<enT0260>"I'm not the one who has to decide. I'm asking about your intention. Do you want to protect Hasaki-chan?"
+<ptT0260>"I'm not the one who has to decide. I'm asking about your intention. Do you want to protect Hasaki-chan?"
+
+//TEXT 【Tomosane】
+<enT0261>"Of course I do. If something happened to Hasaki..."
+<ptT0261>"Of course I do. If something happened to Hasaki..."
+
+//TEXT 【Yuki】
+<enT0262>"Good. So go protect Hasaki-chan."
+<ptT0262>"Good. So go protect Hasaki-chan."
+
+//TEXT 【Tomosane】
+<enT0263>"You want me... to protect her?"
+<ptT0263>"You want me... to protect her?"
+
+//TEXT 【Yuki】
+<enT0264>"That's right. To be honest, I don't think it's impossible that Mamiya Takuji might try to kill her."
+<ptT0264>"That's right. To be honest, I don't think it's impossible that Mamiya Takuji might try to kill her."
+
+//TEXT 【Yuki】
+<enT0265>"Or it might be more logical to assume that he will."
+<ptT0265>"Or it might be more logical to assume that he will."
+
+//TEXT 【Tomosane】
+<enT0266>"What?! Why didn't you say that earlier?!"
+<ptT0266>"What?! Why didn't you say that earlier?!"
+
+//TEXT 【Yuki】
+<enT0267>"But think it through. He doesn't think that returning to the sky means killing someone, he thinks it's the way to a better world."
+<ptT0267>"But think it through. He doesn't think that returning to the sky means killing someone, he thinks it's the way to a better world."
+
+//TEXT 【Yuki】
+<enT0268>"Cults spring up all the time, right? There was a famous cult in the 90s that thought it wasn't bad to kill people because killing people was just 'Phowa.'"
+<ptT0268>"Cults spring up all the time, right? There was a famous cult in the 90s that thought it wasn't bad to kill people because killing people was just 'Phowa.'"
+
+//TEXT 【Tomosane】
+<enT0269>"So what's going to happen to Hasaki?"
+<ptT0269>"So what's going to happen to Hasaki?"
+
+//TEXT 【Yuki】
+<enT0270>"Well, it's already ended, so maybe he's satisfied as is, but..."
+<ptT0270>"Well, it's already ended, so maybe he's satisfied as is, but..."
+
+//TEXT 【Tomosane】
+<enT0271>"What do you mean? What's ended?"
+<ptT0271>"What do you mean? What's ended?"
+
+//TEXT 【Yuki】
+<enT0272>"Oh, don't mind me. I'm just talking to myself. Regardless, protecting Hasaki is your job now, Tomosane."
+<ptT0272>"Oh, don't mind me. I'm just talking to myself. Regardless, protecting Hasaki is your job now, Tomosane."
+
+//TEXT 【Tomosane】
+<enT0273>"Yuki, are you..."
+<ptT0273>"Yuki, are you..."
+
+//TEXT 【Yuki】
+<enT0274>"I'm not coddling you anymore! You can't rely on me forever."
+<ptT0274>"I'm not coddling you anymore! You can't rely on me forever."
+
+//TEXT 【Tomosane】
+<enT0275>"Coddling?"
+<ptT0275>"Coddling?"
+
+//TEXT 【Yuki】
+<enT0276>"That's right. If you want to protect Haskai-chan, then you'll have to be the one to protect her."
+<ptT0276>"That's right. If you want to protect Haskai-chan, then you'll have to be the one to protect her."
+
+//TEXT 【Yuki】
+<enT0277>"I mean, don't you get it? Those rules about the Destroyer and the Harmonizer, all that just got flushed down the toilet."
+<ptT0277>"I mean, don't you get it? Those rules about the Destroyer and the Harmonizer, all that just got flushed down the toilet."
+
+//TEXT 【Tomosane】
+<enT0278>"Ah!"
+<ptT0278>"Ah!"
+
+//TEXT 【Yuki】
+<enT0279>"If you want to protect her, the best thing you can do is go back to the real world."
+<ptT0279>"If you want to protect her, the best thing you can do is go back to the real world."
+
+//TEXT 【Tomosane】
+<enT0280>"You want me to go back?"
+<ptT0280>"You want me to go back?"
+
+//TEXT 【Yuki】
+<enT0281>"Yeah, for instance, you could get Hasaki-chan to a safe place, where Mamiya Takuji can't reach her."
+<ptT0281>"Yeah, for instance, you could get Hasaki-chan to a safe place, where Mamiya Takuji can't reach her."
+
+//TEXT 【Yuki】
+<enT0282>"Well, you don't have to go too far. Wouldn't she be safe if you asked Master at Hakushuukyou to protect her?"
+<ptT0282>"Well, you don't have to go too far. Wouldn't she be safe if you asked Master at Hakushuukyou to protect her?"
+
+//TEXT 【Tomosane】
+<enT0283>"Master... could protect her."
+<ptT0283>"Master... could protect her."
+
+//TEXT 【Yuki】
+<enT0284>"Yeah, if that's what you want to do, then you should go back right now. You'll get to see Hasaki-chan again, too. If you're intent on protecting her, then that's the best way."
+<ptT0284>"Yeah, if that's what you want to do, then you should go back right now. You'll get to see Hasaki-chan again, too. If you're intent on protecting her, then that's the best way."
+
+//TEXT 【Tomosane】
+<enT0285>"But that's only one choice... is what you're saying."
+<ptT0285>"But that's only one choice... is what you're saying."
+
+//TEXT 【Yuki】
+<enT0286>"Yep."
+<ptT0286>"Yep."
+
+//TEXT 【Tomosane】
+<enT0287>"Earlier you said that we're here because at least one of us wanted to be here, right? Here in the world of a lucid dream?"
+<ptT0287>"Earlier you said that we're here because at least one of us wanted to be here, right? Here in the world of a lucid dream?"
+
+//TEXT 【Yuki】
+<enT0288>"That's right."
+<ptT0288>"That's right."
+
+//TEXT
+<enT0289>This world appeared because either Yuki or I wished for it.
+<ptT0289>This world appeared because either Yuki or I wished for it.
+
+//TEXT
+<enT0290>I was struck by the impulse to just ask Yuki... "Were you the one who wished for it?"
+<ptT0290>I was struck by the impulse to just ask Yuki... "Were you the one who wished for it?"
+
+//TEXT
+<enT0291>But I couldn't.
+<ptT0291>But I couldn't.
+
+//TEXT
+<enT0292>That would just be relying on Yuki again.
+<ptT0292>That would just be relying on Yuki again.
+
+//TEXT
+<enT0293>That's right... The one who wanted this world to exist...
+<ptT0293>That's right... The one who wanted this world to exist...
+
+//TEXT 【Tomosane】
+<enT0294>"I am here... because I wanted it."
+<ptT0294>"I am here... because I wanted it."
+
+//TEXT 【Yuki】
+<enT0295>"That's a good answer."
+<ptT0295>"That's a good answer."
+
+//TEXT
+<enT0296>Then why did I want this dream?
+<ptT0296>Then why did I want this dream?
+
+//TEXT
+<enT0297>A lucid dream, a kind of world I could control...
+<ptT0297>A lucid dream, a kind of world I could control...
+
+//TEXT
+<enT0298>What I wanted...
+<ptT0298>What I wanted...
+
+//TEXT
+<enT0299>To return from this place, to the real world. To spend the rest of the time I have left with Hasaki.
+<ptT0299>To return from this place, to the real world. To spend the rest of the time I have left with Hasaki.
+
+//TEXT
+<enT0300>To protect Hasaki. To accept the same fate as Mamiya Takuji.
+<ptT0300>To protect Hasaki. To accept the same fate as Mamiya Takuji.
+
+//TEXT
+<enT0301>To return to the sky... In other words, to die.
+<ptT0301>To return to the sky... In other words, to die.
+
+//TEXT
+<enT0302>The other choice...
+<ptT0302>The other choice...
+
+//TEXT 【Tomosane】
+<enT0303>"Yuki, you said we could manipulate this dream. What did you mean?"
+<ptT0303>"Yuki, you said we could manipulate this dream. What did you mean?"
+
+//TEXT 【Yuki】
+<enT0304>"Hehehe. Didn't I just tell you about the lucid dream's structure, and how to have one?"
+<ptT0304>"Hehehe. Didn't I just tell you about the lucid dream's structure, and how to have one?"
+
+//TEXT 【Tomosane】
+<enT0305>"No, that's not what I mean. I'm not asking how to induce one, but how to control it."
+<ptT0305>"No, that's not what I mean. I'm not asking how to induce one, but how to control it."
+
+//TEXT 【Tomosane】
+<enT0306>"Something like this... Have you heard the story about when the swordsman, Itou Ittousai, learned his famous technique, the Annihilating Blade?"
+<ptT0306>"Something like this... Have you heard the story about when the swordsman, Itou Ittousai, learned his famous technique, the Annihilating Blade?"
+
+//TEXT 【Tomosane】
+<enT0307>"Ittousai unwittingly spent the night with a woman who bore him a grudge."
+<ptT0307>"Ittousai unwittingly spent the night with a woman who bore him a grudge."
+
+//TEXT 【Tomosane】
+<enT0308>"Once he feel asleep, she hid a blade under his pillow, and then beckoned dozens of assassins to come into his room."
+<ptT0308>"Once he feel asleep, she hid a blade under his pillow, and then beckoned dozens of assassins to come into his room."
+
+//TEXT 【Tomosane】
+<enT0309>"Ittousai was a hair's width away from death, but even in his sleep, he evaded his opponent's blades, and before he even awoke he had mastered the new technique."
+<ptT0309>"Ittousai was a hair's width away from death, but even in his sleep, he evaded his opponent's blades, and before he even awoke he had mastered the new technique."
+
+//TEXT 【Yuki】
+<enT0310>"But that story is bullshit."
+<ptT0310>"But that story is bullshit."
+
+//TEXT 【Tomosane】
+<enT0311>"But Ittousai already possessed a secret technique called the Dream Blade. It was said to allow him to unconsciously cut his enemies down."
+<ptT0311>"But Ittousai already possessed a secret technique called the Dream Blade. It was said to allow him to unconsciously cut his enemies down."
+
+//TEXT 【Yuki】
+<enT0312>"A lucid dream. Waking only one part of the brain during unconsciousness, and controlling your dream. When we invoke the mental state of the great swordsman of the past, we enter a lucid dream. Is that what you mean?"
+<ptT0312>"A lucid dream. Waking only one part of the brain during unconsciousness, and controlling your dream. When we invoke the mental state of the great swordsman of the past, we enter a lucid dream. Is that what you mean?"
+
+//TEXT 【Tomosane】
+<enT0313>"Yeah. It's just my intuition, though."
+<ptT0313>"Yeah. It's just my intuition, though."
+
+//TEXT 【Yuki】
+<enT0314>"Ahahaha, that's a good answer, Tomosane."
+<ptT0314>"Ahahaha, that's a good answer, Tomosane."
+
+//TEXT 【Yuki】
+<enT0315>"I see. So you want to find a mental state that eludes you outside your dreams... You think there might be an answer here in the lucid dream?"
+<ptT0315>"I see. So you want to find a mental state that eludes you outside your dreams... You think there might be an answer here in the lucid dream?"
+
+//TEXT 【Tomosane】
+<enT0316>"Yeah, didn't you say that Mamiya Takuji could sense my movements even when he wasn't conscious?"
+<ptT0316>"Yeah, didn't you say that Mamiya Takuji could sense my movements even when he wasn't conscious?"
+
+//TEXT 【Yuki】
+<enT0317>"Even when he's out like a light, he still knows what's going on in the world, just as if he was awake."
+<ptT0317>"Even when he's out like a light, he still knows what's going on in the world, just as if he was awake."
+
+//TEXT 【Tomosane】
+<enT0318>"I see..."
+<ptT0318>"I see..."
+
+//TEXT 【Yuki】
+<enT0319>"Heh, hehehe..."
+<ptT0319>"Heh, hehehe..."
+
+//TEXT 【Tomosane】
+<enT0320>"Wh-What's so funny?"
+<ptT0320>"Wh-What's so funny?"
+
+//TEXT 【Yuki】
+<enT0321>"Oh, come on. Use your common sense. There's no way my lucid dream could ever be the same as a famous swordsman's. Itou Ittousai was said to have never lost a duel in his life, and that was during the violence of the Sengoku Period."
+<ptT0321>"Oh, come on. Use your common sense. There's no way my lucid dream could ever be the same as a famous swordsman's. Itou Ittousai was said to have never lost a duel in his life, and that was during the violence of the Sengoku Period."
+
+//TEXT 【Tomosane】
+<enT0322>"That's true, but..."
+<ptT0322>"That's true, but..."
+
+//TEXT 【Yuki】
+<enT0323>"Besides, the best I can do with my powers is watch the other two people in the same body."
+<ptT0323>"Besides, the best I can do with my powers is watch the other two people in the same body."
+
+//TEXT 【Tomosane】
+<enT0324>"But still, that's hard... I don't understand it at all."
+<ptT0324>"But still, that's hard... I don't understand it at all."
+
+//TEXT 【Tomosane】
+<enT0325>"And the person I'm fighting is not a master, an expert, or a virtuoso."
+<ptT0325>"And the person I'm fighting is not a master, an expert, or a virtuoso."
+
+//TEXT 【Tomosane】
+<enT0326>"The one I'm fighting is Mamiya Takuji. As you put it, one of those other people in the same body."
+<ptT0326>"The one I'm fighting is Mamiya Takuji. As you put it, one of those other people in the same body."
+
+//TEXT 【Tomosane】
+<enT0327>"If this mindstate will help me beat him, there's value in acquiring it even if it's useless against anyone else."
+<ptT0327>"If this mindstate will help me beat him, there's value in acquiring it even if it's useless against anyone else."
+
+//TEXT 【Yuki】
+<enT0328>"Hehehe... Just so you know, in all dreams, including lucid dreams, your perception of time gets messed up. What feels like an hour to you in a dream might be a few minutes in reality."
+<ptT0328>"Hehehe... Just so you know, in all dreams, including lucid dreams, your perception of time gets messed up. What feels like an hour to you in a dream might be a few minutes in reality."
+
+//TEXT 【Yuki】
+<enT0329>"It's not the same as the master swordsman's technique, but you can clearly affect the amount of time the other personalities are conscious."
+<ptT0329>"It's not the same as the master swordsman's technique, but you can clearly affect the amount of time the other personalities are conscious."
+
+//TEXT 【Tomosane】
+<enT0330>"Which means?"
+<ptT0330>"Which means?"
+
+//TEXT 【Yuki】
+<enT0331>"If you can acquire the right mindstate, you might be able to defeat Mamiya Takuji."
+<ptT0331>"If you can acquire the right mindstate, you might be able to defeat Mamiya Takuji."
+
+//TEXT 【Tomosane】
+<enT0332>"Could I win?"
+<ptT0332>"Could I win?"
+
+//TEXT 【Yuki】
+<enT0333>"Only if you really understand it, but it's not a simple thing to learn."
+<ptT0333>"Only if you really understand it, but it's not a simple thing to learn."
+
+//TEXT 【Tomosane】
+<enT0334>"I know that it's not simple."
+<ptT0334>"I know that it's not simple."
+
+//TEXT 【Yuki】
+<enT0335>"I see... You haven't changed a bit, have you?"
+<ptT0335>"I see... You haven't changed a bit, have you?"
+
+//TEXT 【Tomosane】
+<enT0336>"I haven't changed?"
+<ptT0336>"I haven't changed?"
+
+//TEXT 【Yuki】
+<enT0337>"Oh, I'm just talking to myself. All right, this is Yuki-nee's final lesson."
+<ptT0337>"Oh, I'm just talking to myself. All right, this is Yuki-nee's final lesson."
+
+//TEXT 【Yuki】
+<enT0338>"So that you can overcome everything... So that, at the end of it all, you will win."
+<ptT0338>"So that you can overcome everything... So that, at the end of it all, you will win."
+
+//TEXT 【Yuki】
+<enT0339>"We'll have a match."
+<ptT0339>"We'll have a match."
+
+//TEXT 【Yuki】
+<enT0340>"What even I could do for the sake of those final moments."
+<ptT0340>"What even I could do for the sake of those final moments."
+
+//TEXT
+<enT0341>Did Yuki just say something?
+<ptT0341>Did Yuki just say something?
+
+//TEXT 【Tomosane】
+<enT0342>"Huh?!"
+<ptT0342>"Huh?!"
+
+//TEXT 【Yuki】
+<enT0343>"What's wrong? Why so surprised?"
+<ptT0343>"What's wrong? Why so surprised?"
+
+//TEXT
+<enT0344>Wh-What was that? I didn't see her hit me at all.
+<ptT0344>Wh-What was that? I didn't see her hit me at all.
+
+//TEXT 【Yuki】
+<enT0345>"What, was it that surprising?"
+<ptT0345>"What, was it that surprising?"
+
+//TEXT 【Tomosane】
+<enT0346>"I'm more than just surprised. That attack just now..."
+<ptT0346>"I'm more than just surprised. That attack just now..."
+
+//TEXT 【Yuki】
+<enT0347>"What, you couldn't see it coming?"
+<ptT0347>"What, you couldn't see it coming?"
+
+//TEXT 【Tomosane】
+<enT0348>"Yeah, it didn't feel normal at all."
+<ptT0348>"Yeah, it didn't feel normal at all."
+
+//TEXT 【Yuki】
+<enT0349>"What are you talking about? Of course it didn't. This is a dream."
+<ptT0349>"What are you talking about? Of course it didn't. This is a dream."
+
+//TEXT 【Yuki】
+<enT0350>"In order for two people in the same body to read each other's moves, they would have to react after the electrical impulses were sent to the muscles in the body, right?"
+<ptT0350>"In order for two people in the same body to read each other's moves, they would have to react after the electrical impulses were sent to the muscles in the body, right?"
+
+//TEXT 【Tomosane】
+<enT0351>"Yeah..."
+<ptT0351>"Yeah..."
+
+//TEXT 【Yuki】
+<enT0352>"But there's no real need for us to send those signals to the real body, so there would be no time lag to react to."
+<ptT0352>"But there's no real need for us to send those signals to the real body, so there would be no time lag to react to."
+
+//TEXT 【Tomosane】
+<enT0353>"In other words, I can't avoid your attacks because there's no delay before you hit me."
+<ptT0353>"In other words, I can't avoid your attacks because there's no delay before you hit me."
+
+//TEXT 【Yuki】
+<enT0354>"Hehehe... You think? Try attacking me."
+<ptT0354>"Hehehe... You think? Try attacking me."
+
+//TEXT 【Tomosane】
+<enT0355>"..."
+<ptT0355>"..."
+
+//TEXT 【Tomosane】
+<enT0356>"Wha-?!"
+<ptT0356>"Wha-?!"
+
+//TEXT 【Tomosane】
+<enT0357>"Agh..."
+<ptT0357>"Agh..."
+
+//TEXT 【Yuki】
+<enT0358>"Weird, huh? I shouldn't be able to read your moves, since there's no delay. In other words, that should've hit."
+<ptT0358>"Weird, huh? I shouldn't be able to read your moves, since there's no delay. In other words, that should've hit."
+
+//TEXT 【Tomosane】
+<enT0359>"...Ah!"
+<ptT0359>"...Ah!"
+
+//TEXT 【Yuki】
+<enT0360>"And yet, it didn't hit. Plus, you can't even dodge my attacks."
+<ptT0360>"And yet, it didn't hit. Plus, you can't even dodge my attacks."
+
+//TEXT 【Tomosane】
+<enT0361>"Ow!"
+<ptT0361>"Ow!"
+
+//TEXT 【Yuki】
+<enT0362>"Hehehe... Weird, huh? You can't hit me at all, and you can't defend yourself."
+<ptT0362>"Hehehe... Weird, huh? You can't hit me at all, and you can't defend yourself."
+
+//TEXT
+<enT0363>What's going on? She's not just reacting to my movements. It's like she's predicting them all beforehand."
+<ptT0363>What's going on? She's not just reacting to my movements. It's like she's predicting them all beforehand."
+
+//TEXT 【Yuki】
+<enT0364>"All right. You'll have to remember it by the pain in your body. The real training starts now."
+<ptT0364>"All right. You'll have to remember it by the pain in your body. The real training starts now."
+
+//TEXT 【Tomosane】
+<enT0365>"Grr..."
+<ptT0365>"Grr..."
+
+//TEXT 【Tomosane】
+<enT0366>"Haaa... Haa..."
+<ptT0366>"Haaa... Haa..."
+
+//TEXT 【Yuki】
+<enT0367>"You're tired already? How can you get tired in a dream?"
+<ptT0367>"You're tired already? How can you get tired in a dream?"
+
+//TEXT 【Tomosane】
+<enT0368>"Shut up..."
+<ptT0368>"Shut up..."
+
+//TEXT
+<enT0369>Damn it... Yuki's right.
+<ptT0369>Damn it... Yuki's right.
+
+//TEXT
+<enT0370>Why am I breathing hard? This is just a dream.
+<ptT0370>Why am I breathing hard? This is just a dream.
+
+//TEXT 【Yuki】
+<enT0371>"Come on, you can do better than that. I'm disappointed."
+<ptT0371>"Come on, you can do better than that. I'm disappointed."
+
+//TEXT
+<enT0372>Now that I think of it...
+<ptT0372>Now that I think of it...
+
+//TEXT
+<enT0373>Why is Yuki so strong?
+<ptT0373>Why is Yuki so strong?
+
+//TEXT
+<enT0374>She should be as strong as I am.
+<ptT0374>She should be as strong as I am.
+
+//TEXT
+<enT0375>Maybe it's because this is a dream?
+<ptT0375>Maybe it's because this is a dream?
+
+//TEXT
+<enT0376>No, in that case...
+<ptT0376>No, in that case...
+
+//TEXT 【Yuki】
+<enT0377>"What are you spacing out for? That's no good."
+<ptT0377>"What are you spacing out for? That's no good."
+
+//TEXT 【Yuki】
+<enT0378>"Now you're just getting sloppy. You're letting me hit you with both hands."
+<ptT0378>"Now you're just getting sloppy. You're letting me hit you with both hands."
+
+//TEXT 【Tomosane】
+<enT0379>"Damn it!"
+<ptT0379>"Damn it!"
+
+//TEXT
+<enT0380>My attacks couldn't hit her. She avoided them all without difficulty.
+<ptT0380>My attacks couldn't hit her. She avoided them all without difficulty.
+
+//TEXT
+<enT0381>Why?
+<ptT0381>Why?
+
+//TEXT
+<enT0382>Since this is a battle in a dream world, where our bodies don't really exist, there's no delay between our brain and our muscles.
+<ptT0382>Since this is a battle in a dream world, where our bodies don't really exist, there's no delay between our brain and our muscles.
+
+//TEXT
+<enT0383>Because we don't have physical bodies here.
+<ptT0383>Because we don't have physical bodies here.
+
+//TEXT 【Tomosane】
+<enT0384>"Ah!"
+<ptT0384>"Ah!"
+
+//TEXT
+<enT0385>How can I feel pain in a dream?
+<ptT0385>How can I feel pain in a dream?
+
+//TEXT
+<enT0386>I read in a book that you can hear, feel, taste, and smell in a dream.
+<ptT0386>I read in a book that you can hear, feel, taste, and smell in a dream.
+
+//TEXT
+<enT0387>But it's supposed to be impossible to feel pain in a dream.
+<ptT0387>But it's supposed to be impossible to feel pain in a dream.
+
+//TEXT
+<enT0388>So why am I feeling pain?
+<ptT0388>So why am I feeling pain?
+
+//TEXT
+<enT0389>What is... pain?
+<ptT0389>What is... pain?
+
+//TEXT 【Tomosane】
+<enT0390>"Agh..."
+<ptT0390>"Agh..."
+
+//TEXT
+<enT0391>I collapsed, falling to the ground.
+<ptT0391>I collapsed, falling to the ground.
+
+//TEXT 【Tomosane】
+<enT0392>"Haa, haa, haa..."
+<ptT0392>"Haa, haa, haa..."
+
+//TEXT
+<enT0393>Even in the dream, it hurt to breathe. My entire body hurt.
+<ptT0393>Even in the dream, it hurt to breathe. My entire body hurt.
+
+//TEXT
+<enT0394>Why?
+<ptT0394>Why?
+
+//TEXT 【Yuki】
+<enT0395>"I didn't think you were that dim, Tomosane."
+<ptT0395>"I didn't think you were that dim, Tomosane."
+
+//TEXT 【Yuki】
+<enT0396>"At this rate, you're gonna run out of time."
+<ptT0396>"At this rate, you're gonna run out of time."
+
+//TEXT
+<enT0397>Time...
+<ptT0397>Time...
+
+//TEXT
+<enT0398>I'm going to run out of time?
+<ptT0398>I'm going to run out of time?
+
+//TEXT
+<enT0399>If I lose consciousness here, I might never wake up again.
+<ptT0399>If I lose consciousness here, I might never wake up again.
+
+//TEXT
+<enT0400>If this lucid dream ends, there will be nothing left for me except the end.
+<ptT0400>If this lucid dream ends, there will be nothing left for me except the end.
+
+//TEXT
+<enT0401>I won't be able to protect Hasaki...
+<ptT0401>I won't be able to protect Hasaki...
+
+//TEXT 【Tomosane】
+<enT0402>"Ugh... Aaaahh!"
+<ptT0402>"Ugh... Aaaahh!"
+
+//TEXT 【Tomosane】
+<enT0403>"Agh!"
+<ptT0403>"Agh!"
+
+//TEXT 【Yuki】
+<enT0404>"Being reckless won't help you now. If this was the real world, I could beat you just by breaking your body, right?"
+<ptT0404>"Being reckless won't help you now. If this was the real world, I could beat you just by breaking your body, right?"
+
+//TEXT 【Yuki】
+<enT0405>"But in a battle between minds, what good does that do?"
+<ptT0405>"But in a battle between minds, what good does that do?"
+
+//TEXT 【Tomosane】
+<enT0406>"A battle between minds..."
+<ptT0406>"A battle between minds..."
+
+//TEXT
+<enT0407>A battle happening between two minds.
+<ptT0407>A battle happening between two minds.
+
+//TEXT
+<enT0408>That's right. It hurt so bad, but it wasn't the real world.
+<ptT0408>That's right. It hurt so bad, but it wasn't the real world.
+
+//TEXT
+<enT0409>The world existed only in our minds.
+<ptT0409>The world existed only in our minds.
+
+//TEXT
+<enT0410>The pain I was feeling was only created by my mind.
+<ptT0410>The pain I was feeling was only created by my mind.
+
+//TEXT
+<enT0411>Only my mind.
+<ptT0411>Only my mind.
+
+//TEXT 【Yuki】
+<enT0412>"Now that you've abused your body and gotten yourself all beaten up, do you understand? Or is this all going to end before you figure it out?"
+<ptT0412>"Now that you've abused your body and gotten yourself all beaten up, do you understand? Or is this all going to end before you figure it out?"
+
+//TEXT
+<enT0413>Was there something I was supposed to understand from abusing my body?
+<ptT0413>Was there something I was supposed to understand from abusing my body?
+
+//TEXT
+<enT0414>No... The truth is, I wasn't abusing my body at all.
+<ptT0414>No... The truth is, I wasn't abusing my body at all.
+
+//TEXT
+<enT0415>Then why did my body hurt so much?
+<ptT0415>Then why did my body hurt so much?
+
+//TEXT 【Tomosane】
+<enT0416>"So much?"
+<ptT0416>"So much?"
+
+//TEXT
+<enT0417>It still hurt to breathe.
+<ptT0417>It still hurt to breathe.
+
+//TEXT
+<enT0418>Why did it hurt?
+<ptT0418>Why did it hurt?
+
+//TEXT 【Tomosane】
+<enT0419>"It hurts... to breathe?"
+<ptT0419>"It hurts... to breathe?"
+
+//TEXT 【Yuki】
+<enT0420>"..."
+<ptT0420>"..."
+
+//TEXT 【Tomosane】
+<enT0421>"..."
+<ptT0421>"..."
+
+//TEXT
+<enT0422>Mysteriously, Yuki smiled.
+<ptT0422>Mysteriously, Yuki smiled.
+
+//TEXT
+<enT0423>Why?
+<ptT0423>Why?
+
+//TEXT
+<enT0424>...
+<ptT0424>...
+
+//TEXT
+<enT0425>Was that the answer?
+<ptT0425>Was that the answer?
+
+//TEXT
+<enT0426>The pain of breathing... Is that the answer?
+<ptT0426>The pain of breathing... Is that the answer?
+
+//TEXT 【Tomosane】
+<enT0427>"The reason it hurts to breathe in my dream is because..."
+<ptT0427>"The reason it hurts to breathe in my dream is because..."
+
+//TEXT
+<enT0428>Because in this state of half-wakening, the mind mistakes the sleeping body for a waking one.
+<ptT0428>Because in this state of half-wakening, the mind mistakes the sleeping body for a waking one.
+
+//TEXT
+<enT0429>In other words, it's the same as sleep paralysis.
+<ptT0429>In other words, it's the same as sleep paralysis.
+
+//TEXT 【Tomosane】
+<enT0430>"Sleep paralysis."
+<ptT0430>"Sleep paralysis."
+
+//TEXT 【Yuki】
+<enT0431>"Only subjective time exists in a dream. If you believe that my attacks are unbelievably fast, then they will be."
+<ptT0431>"Only subjective time exists in a dream. If you believe that my attacks are unbelievably fast, then they will be."
+
+//TEXT
+<enT0432>I felt that Yuki's attacks were fast.
+<ptT0432>I felt that Yuki's attacks were fast.
+
+//TEXT
+<enT0433>Not just fast... unavoidable.
+<ptT0433>Not just fast... unavoidable.
+
+//TEXT
+<enT0434>Like my body was submerged in lead.
+<ptT0434>Like my body was submerged in lead.
+
+//TEXT 【Tomosane】
+<enT0435>"It's like my body's made of lead."
+<ptT0435>"It's like my body's made of lead."
+
+//TEXT 【Yuki】
+<enT0436>"This mental world only has subjective time. Think about what it means that we're in a lucid dream."
+<ptT0436>"This mental world only has subjective time. Think about what it means that we're in a lucid dream."
+
+//TEXT
+<enT0437>Yuki's attacks were terrifyingly fast.
+<ptT0437>Yuki's attacks were terrifyingly fast.
+
+//TEXT
+<enT0438>They were ridiculously fast, but somehow, I had started to see them with my eyes.
+<ptT0438>They were ridiculously fast, but somehow, I had started to see them with my eyes.
+
+//TEXT
+<enT0439>But...
+<ptT0439>But...
+
+//TEXT
+<enT0440>But I couldn't dodge it. Yuki's fist struck me in the chest.
+<ptT0440>But I couldn't dodge it. Yuki's fist struck me in the chest.
+
+//TEXT
+<enT0441>Dull pain flowed through my breast.
+<ptT0441>Dull pain flowed through my breast.
+
+//TEXT 【Tomosane】
+<enT0442>"Gah..."
+<ptT0442>"Gah..."
+
+//TEXT
+<enT0443>The shock from the blow sent me sprawling backward several steps.
+<ptT0443>The shock from the blow sent me sprawling backward several steps.
+
+//TEXT 【Tomosane】
+<enT0444>"Next!"
+<ptT0444>"Next!"
+
+//TEXT
+<enT0445>It was a straight punch. The hardest strike to dodge, because the distance is the shortest.
+<ptT0445>It was a straight punch. The hardest strike to dodge, because the distance is the shortest.
+
+//TEXT
+<enT0446>But this time I could follow its trajectory with my eyes.
+<ptT0446>But this time I could follow its trajectory with my eyes.
+
+//TEXT
+<enT0447>Then I realized for the first time...
+<ptT0447>Then I realized for the first time...
+
+//TEXT
+<enT0448>The sound of her fist cutting through air was stretched out, and everything I saw appeared to be in slow motion.
+<ptT0448>The sound of her fist cutting through air was stretched out, and everything I saw appeared to be in slow motion.
+
+//TEXT
+<enT0449>Yuki's attacks weren't fast. I was just very slow.
+<ptT0449>Yuki's attacks weren't fast. I was just very slow.
+
+//TEXT
+<enT0450>I took another punch, unable to dodge it.
+<ptT0450>I took another punch, unable to dodge it.
+
+//TEXT
+<enT0451>Pain ran through my body.
+<ptT0451>Pain ran through my body.
+
+//TEXT
+<enT0452>But I noticed that the pain also seemed to spread more slowly.
+<ptT0452>But I noticed that the pain also seemed to spread more slowly.
+
+//TEXT
+<enT0453>Everything was slower.
+<ptT0453>Everything was slower.
+
+//TEXT
+<enT0454>That's right. Yuki wasn't particularly fast to begin with. What I hadn't realized before was how slow I was.
+<ptT0454>That's right. Yuki wasn't particularly fast to begin with. What I hadn't realized before was how slow I was.
+
+//TEXT 【Tomosane】
+<enT0455>"Ah!"
+<ptT0455>"Ah!"
+
+//TEXT
+<enT0456>After the attack, time sped up to normal speed again.
+<ptT0456>After the attack, time sped up to normal speed again.
+
+//TEXT
+<enT0457>In the moment when Yuki attacked... no, when either of us attacked, time slowed down to a crawl, like we were underwater.
+<ptT0457>In the moment when Yuki attacked... no, when either of us attacked, time slowed down to a crawl, like we were underwater.
+
+//TEXT
+<enT0458>It was just like...
+<ptT0458>It was just like...
+
+//TEXT 【Tomosane】
+<enT0459>"A dream..."
+<ptT0459>"A dream..."
+
+//TEXT 【Yuki】
+<enT0460>"That's right. This is a dream, after all."
+<ptT0460>"That's right. This is a dream, after all."
+
+//TEXT
+<enT0461>This is a dream?
+<ptT0461>This is a dream?
+
+//TEXT
+<enT0462>I felt slow because it's a dream.
+<ptT0462>I felt slow because it's a dream.
+
+//TEXT
+<enT0463>My opponent was moving at normal speed, but my own body would hardly move.
+<ptT0463>My opponent was moving at normal speed, but my own body would hardly move.
+
+//TEXT
+<enT0464>Something very common.
+<ptT0464>Something very common.
+
+//TEXT
+<enT0465>And I assumed the reverse of that common occurence.
+<ptT0465>And I assumed the reverse of that common occurence.
+
+//TEXT
+<enT0466>I didn't think I was slow.
+<ptT0466>I didn't think I was slow.
+
+//TEXT
+<enT0467>I thought Yuki was just very fast.
+<ptT0467>I thought Yuki was just very fast.
+
+//TEXT
+<enT0468>But that's not the truth.
+<ptT0468>But that's not the truth.
+
+//TEXT
+<enT0469>This happens all the time in dreams.
+<ptT0469>This happens all the time in dreams.
+
+//TEXT 【Yuki】
+<enT0470>"That's right. It happens all the time in dreams. So what are you going to do about it?"
+<ptT0470>"That's right. It happens all the time in dreams. So what are you going to do about it?"
+
+//TEXT
+<enT0471>Yuki attacked again.
+<ptT0471>Yuki attacked again.
+
+//TEXT
+<enT0472>The sound of her attack was slowly transmitted to me as her fist moved forward.
+<ptT0472>The sound of her attack was slowly transmitted to me as her fist moved forward.
+
+//TEXT
+<enT0473>Yuki wasn't fast. I was slow.
+<ptT0473>Yuki wasn't fast. I was slow.
+
+//TEXT
+<enT0474>Even knowing that, there was nothing I could do to react.
+<ptT0474>Even knowing that, there was nothing I could do to react.
+
+//TEXT
+<enT0475>I misunderstood the truth, but the result was the same either way.
+<ptT0475>I misunderstood the truth, but the result was the same either way.
+
+//TEXT
+<enT0476>Yuki's attacks hit, and mine missed.
+<ptT0476>Yuki's attacks hit, and mine missed.
+
+//TEXT
+<enT0477>No matter how hard I tried to push my body, it wouldn't move fast enough.
+<ptT0477>No matter how hard I tried to push my body, it wouldn't move fast enough.
+
+//TEXT
+<enT0478>Quite the opposite. The more I thought about it, the slower my body got.
+<ptT0478>Quite the opposite. The more I thought about it, the slower my body got.
+
+//TEXT
+<enT0479>The next one struck me in the face.
+<ptT0479>The next one struck me in the face.
+
+//TEXT
+<enT0480>Then a thought occurred to me.
+<ptT0480>Then a thought occurred to me.
+
+//TEXT
+<enT0481>Does getting punched really hurt?
+<ptT0481>Does getting punched really hurt?
+
+//TEXT
+<enT0482>I expected the dull pain to erupt in my cheek.
+<ptT0482>I expected the dull pain to erupt in my cheek.
+
+//TEXT
+<enT0483>And when I thought that...
+<ptT0483>And when I thought that...
+
+//TEXT
+<enT0484>The pain stopped and disappeared.
+<ptT0484>The pain stopped and disappeared.
+
+//TEXT 【Yuki】
+<enT0485>"You want to master the lucid dream, right?"
+<ptT0485>"You want to master the lucid dream, right?"
+
+//TEXT
+<enT0486>Master it?
+<ptT0486>Master it?
+
+//TEXT
+<enT0487>I was trying to learn about lucid dreams from Yuki.
+<ptT0487>I was trying to learn about lucid dreams from Yuki.
+
+//TEXT
+<enT0488>I didn't come here to learn how to fight.
+<ptT0488>I didn't come here to learn how to fight.
+
+//TEXT
+<enT0489>My skills hadn't atrophied to the point where I needed lessons from Yuki.
+<ptT0489>My skills hadn't atrophied to the point where I needed lessons from Yuki.
+
+//TEXT
+<enT0490>And of course, my martial prowess couldn't be inferior to Mamiya Takuji's either.
+<ptT0490>And of course, my martial prowess couldn't be inferior to Mamiya Takuji's either.
+
+//TEXT 【Tomosane】
+<enT0491>"A lucid dream... I see. So that's what it is."
+<ptT0491>"A lucid dream... I see. So that's what it is."
+
+//TEXT
+<enT0492>I found a simple answer.
+<ptT0492>I found a simple answer.
+
+//TEXT
+<enT0493>The most natural answer.
+<ptT0493>The most natural answer.
+
+//TEXT 【Tomosane】
+<enT0494>"This isn't a lucid dream."
+<ptT0494>"This isn't a lucid dream."
+
+//TEXT 【Tomosane】
+<enT0495>"This is just... a dream."
+<ptT0495>"This is just... a dream."
+
+//TEXT 【Tomosane】
+<enT0496>"No, since I'm partially awake, maybe it's cloer to sleep paralysis."
+<ptT0496>"No, since I'm partially awake, maybe it's cloer to sleep paralysis."
+
+//TEXT 【Tomosane】
+<enT0497>"Which means..."
+<ptT0497>"Which means..."
+
+//TEXT
+<enT0498>Yuki moved to attack me again.
+<ptT0498>Yuki moved to attack me again.
+
+//TEXT
+<enT0499>I didn't dodge the attack.
+<ptT0499>I didn't dodge the attack.
+
+//TEXT
+<enT0500>I didn't run.
+<ptT0500>I didn't run.
+
+//TEXT
+<enT0501>I moved straight foward to meet her fist.
+<ptT0501>I moved straight foward to meet her fist.
+
+//TEXT
+<enT0502>A lucid dream isn't just a dream that you recognize as a dream.
+<ptT0502>A lucid dream isn't just a dream that you recognize as a dream.
+
+//TEXT
+<enT0503>It's a dream that you recognize for what it is, so that you can control it.
+<ptT0503>It's a dream that you recognize for what it is, so that you can control it.
+
+//TEXT
+<enT0504>Which I means I can alter the dream as I wish.
+<ptT0504>Which I means I can alter the dream as I wish.
+
+//TEXT
+<enT0505>It's said that there was a tribe in southeast Asia that had trained themselves in the art of lucid dreaming since ancient times.
+<ptT0505>It's said that there was a tribe in southeast Asia that had trained themselves in the art of lucid dreaming since ancient times.
+
+//TEXT
+<enT0506>That technique involved recognizing a dream for what it was.
+<ptT0506>That technique involved recognizing a dream for what it was.
+
+//TEXT
+<enT0507>For instance, the tribe members would talk about dreams with each other when they were awake.
+<ptT0507>For instance, the tribe members would talk about dreams with each other when they were awake.
+
+//TEXT
+<enT0508>By talking about them, the dreams became encoded in language, assuming a form that could be more easily grasped and understood.
+<ptT0508>By talking about them, the dreams became encoded in language, assuming a form that could be more easily grasped and understood.
+
+//TEXT
+<enT0509>And then, there was one thing they had to do when they realized it was a dream.
+<ptT0509>And then, there was one thing they had to do when they realized it was a dream.
+
+//TEXT
+<enT0510>That one thing was simply not running away.
+<ptT0510>That one thing was simply not running away.
+
+//TEXT
+<enT0511>Most lucid dreams are born of nightmares.
+<ptT0511>Most lucid dreams are born of nightmares.
+
+//TEXT
+<enT0512>A nightmare happens when a person creates an embodiment of their anxiety in a dream.
+<ptT0512>A nightmare happens when a person creates an embodiment of their anxiety in a dream.
+
+//TEXT
+<enT0513>And then they fear the nightmare.
+<ptT0513>And then they fear the nightmare.
+
+//TEXT
+<enT0514>No, in truth it is that embodiment of terror within the nightmare which they fear.
+<ptT0514>No, in truth it is that embodiment of terror within the nightmare which they fear.
+
+//TEXT
+<enT0515>There's no need to fear something in a dream.
+<ptT0515>There's no need to fear something in a dream.
+
+//TEXT
+<enT0516>But no one is free from fear.
+<ptT0516>But no one is free from fear.
+
+//TEXT
+<enT0517>Because they can't recognize that the dream is just a dream.
+<ptT0517>Because they can't recognize that the dream is just a dream.
+
+//TEXT
+<enT0518>Recognizing the dream for what it is.
+<ptT0518>Recognizing the dream for what it is.
+
+//TEXT
+<enT0519>That alone isn't enough to create a lucid dream.
+<ptT0519>That alone isn't enough to create a lucid dream.
+
+//TEXT
+<enT0520>A lucid dream is the inability to run from the embodiment of fear dwelling in the bottom of your heart.
+<ptT0520>A lucid dream is the inability to run from the embodiment of fear dwelling in the bottom of your heart.
+
+//TEXT
+<enT0521>The important part is to conquer that fear.
+<ptT0521>The important part is to conquer that fear.
+
+//TEXT
+<enT0522>If you can beat back the fear...
+<ptT0522>If you can beat back the fear...
+
+//TEXT
+<enT0523>If in your dreams you feel no fear...
+<ptT0523>If in your dreams you feel no fear...
+
+//TEXT 【Yuki】
+<enT0524>"Oh, shoot..."
+<ptT0524>"Oh, shoot..."
+
+//TEXT
+<enT0525>Yuki's attack didn't even graze me, cutting through the empty air.
+<ptT0525>Yuki's attack didn't even graze me, cutting through the empty air.
+
+//TEXT
+<enT0526>I moved to hit her while she was open.
+<ptT0526>I moved to hit her while she was open.
+
+//TEXT
+<enT0527>I clenched my fist.
+<ptT0527>I clenched my fist.
+
+//TEXT
+<enT0528>No hesitation.
+<ptT0528>No hesitation.
+
+//TEXT
+<enT0529>"I might not hit."
+<ptT0529>"I might not hit."
+
+//TEXT
+<enT0530>"I might be powerless."
+<ptT0530>"I might be powerless."
+
+//TEXT
+<enT0531>"I might not win."
+<ptT0531>"I might not win."
+
+//TEXT
+<enT0532>Eliminate all doubt.
+<ptT0532>Eliminate all doubt.
+
+//TEXT
+<enT0533>All I could think in that moment...
+<ptT0533>All I could think in that moment...
+
+//TEXT 【Tomosane】
+<enT0534>"My fist will find its mark."
+<ptT0534>"My fist will find its mark."
+
+//TEXT 【Yuki】
+<enT0535>"Whoa!"
+<ptT0535>"Whoa!"
+
+//TEXT
+<enT0536>My fist slammed into Yuki's cheekbone.
+<ptT0536>My fist slammed into Yuki's cheekbone.
+
+//TEXT
+<enT0537>There was no pain in my fist.
+<ptT0537>There was no pain in my fist.
+
+//TEXT
+<enT0538>Yuki was blown away, just like that.
+<ptT0538>Yuki was blown away, just like that.
+
+//TEXT 【Tomosane】
+<enT0539>"Yuki!"
+<ptT0539>"Yuki!"
+
+//TEXT 【Yuki】
+<enT0540>"Oww! Hey now,
+<ptT0540>"Oww! Hey now,
+
+//TEXT
+<enT0541> take it easy."
+<ptT0541> take it easy."
+
+//TEXT 【Tomosane】
+<enT0542>"S-Sorry."
+<ptT0542>"S-Sorry."
+
+//TEXT 【Yuki】
+<enT0543>"Jeez."
+<ptT0543>"Jeez."
+
+//TEXT
+<enT0544>Then she rubbed her cheek, and her split lip healed back to normal.
+<ptT0544>Then she rubbed her cheek, and her split lip healed back to normal.
+
+//TEXT 【Yuki】
+<enT0545>"And that's that."
+<ptT0545>"And that's that."
+
+//TEXT 【Tomosane】
+<enT0546>"I see. So I was trying to have a lucid dream until now."
+<ptT0546>"I see. So I was trying to have a lucid dream until now."
+
+//TEXT 【Yuki】
+<enT0547>"That's right."
+<ptT0547>"That's right."
+
+//TEXT 【Tomosane】
+<enT0548>"Then... what about the dream up until now?"
+<ptT0548>"Then... what about the dream up until now?"
+
+//TEXT 【Yuki】
+<enT0549>"It's your dream, of course. But it's my dream too."
+<ptT0549>"It's your dream, of course. But it's my dream too."
+
+//TEXT 【Yuki】
+<enT0550>"We're just doing the same thing we did when we first met, only we're in the subconscious, in a dream, instead of fully conscious."
+<ptT0550>"We're just doing the same thing we did when we first met, only we're in the subconscious, in a dream, instead of fully conscious."
+
+//TEXT 【Tomosane】
+<enT0551>"Only in a dream?"
+<ptT0551>"Only in a dream?"
+
+//TEXT 【Yuki】
+<enT0552>"That's right. Whenever we meet in the real world, that's not actually the real world. It's the exact same as this world."
+<ptT0552>"That's right. Whenever we meet in the real world, that's not actually the real world. It's the exact same as this world."
+
+//TEXT 【Yuki】
+<enT0553>"It's a world contained within our minds."
+<ptT0553>"It's a world contained within our minds."
+
+//TEXT 【Yuki】
+<enT0554>"When our entire brain is working all at once like that, for some reason we can't actually tell that we're fighting someone in our head, not a real person."
+<ptT0554>"When our entire brain is working all at once like that, for some reason we can't actually tell that we're fighting someone in our head, not a real person."
+
+//TEXT 【Yuki】
+<enT0555>"But the truth is, it's the same thing as this."
+<ptT0555>"But the truth is, it's the same thing as this."
+
+//TEXT 【Yuki】
+<enT0556>"In our world, the person who wants it more gets the initiative."
+<ptT0556>"In our world, the person who wants it more gets the initiative."
+
+//TEXT 【Yuki】
+<enT0557>"You seem to be under the impression that Mamiya Takuji is the game master of this world and the two of us are just pawns on the chessboard, but you're wrong."
+<ptT0557>"You seem to be under the impression that Mamiya Takuji is the game master of this world and the two of us are just pawns on the chessboard, but you're wrong."
+
+//TEXT 【Yuki】
+<enT0558>"The fact is, there is no single game master who controls this world."
+<ptT0558>"The fact is, there is no single game master who controls this world."
+
+//TEXT 【Yuki】
+<enT0559>"Reality bends to serve the person who believes harder."
+<ptT0559>"Reality bends to serve the person who believes harder."
+
+//TEXT 【Yuki】
+<enT0560>"That's why you wanted it to be a lucid dream."
+<ptT0560>"That's why you wanted it to be a lucid dream."
+
+//TEXT 【Yuki】
+<enT0561>"So that you could pull Mamiya Takuji off his throne as the game master."
+<ptT0561>"So that you could pull Mamiya Takuji off his throne as the game master."
+
+//TEXT 【Tomosane】
+<enT0562>"Wait... If you can control lucid dreams, then why can't you stop Mamiya Takuji yourself?"
+<ptT0562>"Wait... If you can control lucid dreams, then why can't you stop Mamiya Takuji yourself?"
+
+//TEXT 【Yuki】
+<enT0563>"You should've understood that from what just happened. A lucid dream is just believing in yourself and overcoming the fear within."
+<ptT0563>"You should've understood that from what just happened. A lucid dream is just believing in yourself and overcoming the fear within."
+
+//TEXT 【Yuki】
+<enT0564>"I can control dreams and subconscious worlds, but I can't control the real world."
+<ptT0564>"I can control dreams and subconscious worlds, but I can't control the real world."
+
+//TEXT 【Tomosane】
+<enT0565>"Is it possible to control the real world like that?"
+<ptT0565>"Is it possible to control the real world like that?"
+
+//TEXT 【Yuki】
+<enT0566>"Right now, Mamiya Takuji absolutely believes that he can change the world by his will. He thinks he's the avatar of God on Earth."
+<ptT0566>"Right now, Mamiya Takuji absolutely believes that he can change the world by his will. He thinks he's the avatar of God on Earth."
+
+//TEXT 【Tomosane】
+<enT0567>"The avatar of God?"
+<ptT0567>"The avatar of God?"
+
+//TEXT 【Yuki】
+<enT0568>"Yes. At some point he began to believe that he could control not only his own mind, but the entire world with his will."
+<ptT0568>"Yes. At some point he began to believe that he could control not only his own mind, but the entire world with his will."
+
+//TEXT 【Yuki】
+<enT0569>"There's no way my will could overcome someone like that, right?"
+<ptT0569>"There's no way my will could overcome someone like that, right?"
+
+//TEXT 【Tomosane】
+<enT0570>"Maybe, but..."
+<ptT0570>"Maybe, but..."
+
+//TEXT 【Yuki】
+<enT0571>"But what? If you think you can't beat him, you might as well give up now. Let me just say it now: if you're already hesitating, you won't win."
+<ptT0571>"But what? If you think you can't beat him, you might as well give up now. Let me just say it now: if you're already hesitating, you won't win."
+
+//TEXT 【Tomosane】
+<enT0572>"Won't win..."
+<ptT0572>"Won't win..."
+
+//TEXT 【Yuki】
+<enT0573>"Yeah..."
+<ptT0573>"Yeah..."
+
+//TEXT 【Tomosane】
+<enT0574>"..."
+<ptT0574>"..."
+
+//TEXT 【Tomosane】
+<enT0575>"I remember you said this."
+<ptT0575>"I remember you said this."
+
+//TEXT 【Yuki】
+<enT0576>"What?"
+<ptT0576>"What?"
+
+//TEXT 【Tomosane】
+<enT0577>"You said he was growing stronger, so this would be the end."
+<ptT0577>"You said he was growing stronger, so this would be the end."
+
+//TEXT 【Yuki】
+<enT0578>"Yeah, that's right."
+<ptT0578>"Yeah, that's right."
+
+//TEXT 【Tomosane】
+<enT0579>"That's not true."
+<ptT0579>"That's not true."
+
+//TEXT 【Yuki】
+<enT0580>"Huh?"
+<ptT0580>"Huh?"
+
+//TEXT 【Tomosane】
+<enT0581>"I'm going to go find Hasaki before my battle with Mamiya."
+<ptT0581>"I'm going to go find Hasaki before my battle with Mamiya."
+
+//TEXT 【Yuki】
+<enT0582>"Wait, that's impossible. There's no time..."
+<ptT0582>"Wait, that's impossible. There's no time..."
+
+//TEXT
+<enT0583>I understood what Yuki was saying.
+<ptT0583>I understood what Yuki was saying.
+
+//TEXT
+<enT0584>This lucid dream will disappear.
+<ptT0584>This lucid dream will disappear.
+
+//TEXT
+<enT0585>Yuki's lucid dream will end here.
+<ptT0585>Yuki's lucid dream will end here.
+
+//TEXT
+<enT0586>As Yuki floated in unconsciousness, she must've even thought that she would never be able to rise to consciousness again.
+<ptT0586>As Yuki floated in unconsciousness, she must've even thought that she would never be able to rise to consciousness again.
+
+//TEXT
+<enT0587>That's why she said this would be the end.
+<ptT0587>That's why she said this would be the end.
+
+//TEXT
+<enT0588>I understand that.
+<ptT0588>I understand that.
+
+//TEXT
+<enT0589>I understand...
+<ptT0589>I understand...
+
+//TEXT 【Tomosane】
+<enT0590>"...The time when you float to the surface."
+<ptT0590>"...The time when you float to the surface."
+
+//TEXT
+<enT0591>I felt the presentiment.
+<ptT0591>I felt the presentiment.
+
+//TEXT
+<enT0592>No, I felt the certainty.
+<ptT0592>No, I felt the certainty.
+
+//TEXT
+<enT0593>The future I believe in is undoubtedly the future that will come to pass.
+<ptT0593>The future I believe in is undoubtedly the future that will come to pass.
+
+//TEXT
+<enT0594>If he's the son of God, sent to save the world...
+<ptT0594>If he's the son of God, sent to save the world...
+
+//TEXT
+<enT0595>If he truly is the savior...
+<ptT0595>If he truly is the savior...
+
+//TEXT
+<enT0596>Then I will destroy his claim to divinity.
+<ptT0596>Then I will destroy his claim to divinity.
+
+//TEXT
+<enT0597>I will become the hero.
+<ptT0597>I will become the hero.
+
+///================================================================================
+
+//OTHER
+<enZ0001>4_0715.bss
+<ptZ0001>4_0715.bss
+
+//OTHER
+<enZ0002>July 15th
+<ptZ0002>July 15th
+
+//OTHER
+<enZ0003>Jabberwocky
+<ptZ0003>Jabberwocky
+
+//OTHER
+<enZ0004>daytm0715
+<ptZ0004>daytm0715
+
+//OTHER
+<enZ0005>bgm102
+<ptZ0005>bgm102
+
+//OTHER
+<enZ0006>yuki_003941
+<ptZ0006>yuki_003941
+
+//OTHER
+<enZ0007>yuki_003942
+<ptZ0007>yuki_003942
+
+//OTHER
+<enZ0008>yuki_003943
+<ptZ0008>yuki_003943
+
+//OTHER
+<enZ0009>yuki_003944
+<ptZ0009>yuki_003944
+
+//OTHER
+<enZ0010>yuki_003945
+<ptZ0010>yuki_003945
+
+//OTHER
+<enZ0011>yuki_003946
+<ptZ0011>yuki_003946
+
+//OTHER
+<enZ0012>yuki_003947
+<ptZ0012>yuki_003947
+
+//OTHER
+<enZ0013>yuki_003948
+<ptZ0013>yuki_003948
+
+//OTHER
+<enZ0014>yuki_003949
+<ptZ0014>yuki_003949
+
+//OTHER
+<enZ0015>se057
+<ptZ0015>se057
+
+//OTHER
+<enZ0016>se232
+<ptZ0016>se232
+
+//OTHER
+<enZ0017>yuki_003950
+<ptZ0017>yuki_003950
+
+//OTHER
+<enZ0018>yuki_003951
+<ptZ0018>yuki_003951
+
+//OTHER
+<enZ0019>yuki_003952
+<ptZ0019>yuki_003952
+
+//OTHER
+<enZ0020>yuki_003953
+<ptZ0020>yuki_003953
+
+//OTHER
+<enZ0021>yuki_003954
+<ptZ0021>yuki_003954
+
+//OTHER
+<enZ0022>yuki_003955
+<ptZ0022>yuki_003955
+
+//OTHER
+<enZ0023>yuki_003956
+<ptZ0023>yuki_003956
+
+//OTHER
+<enZ0024>map020
+<ptZ0024>map020
+
+//OTHER
+<enZ0025>ev0007
+<ptZ0025>ev0007
+
+//OTHER
+<enZ0026>yuki_003957
+<ptZ0026>yuki_003957
+
+//OTHER
+<enZ0027>yuki_003958
+<ptZ0027>yuki_003958
+
+//OTHER
+<enZ0028>yuki_003959
+<ptZ0028>yuki_003959
+
+//OTHER
+<enZ0029>yuki_003960
+<ptZ0029>yuki_003960
+
+//OTHER
+<enZ0030>yuki_003961
+<ptZ0030>yuki_003961
+
+//OTHER
+<enZ0031>yuki_003962
+<ptZ0031>yuki_003962
+
+//OTHER
+<enZ0032>yuki_003963
+<ptZ0032>yuki_003963
+
+//OTHER
+<enZ0033>yuki_003964
+<ptZ0033>yuki_003964
+
+//OTHER
+<enZ0034>yuki_003965
+<ptZ0034>yuki_003965
+
+//OTHER
+<enZ0035>yuki_003966
+<ptZ0035>yuki_003966
+
+//OTHER
+<enZ0036>yuki_003967
+<ptZ0036>yuki_003967
+
+//OTHER
+<enZ0037>yuki_003968
+<ptZ0037>yuki_003968
+
+//OTHER
+<enZ0038>map009
+<ptZ0038>map009
+
+//OTHER
+<enZ0039>bg1031c
+<ptZ0039>bg1031c
+
+//OTHER
+<enZ0040>bgm112
+<ptZ0040>bgm112
+
+//OTHER
+<enZ0041>yk0000_l
+<ptZ0041>yk0000_l
+
+//OTHER
+<enZ0042>yuki_003969
+<ptZ0042>yuki_003969
+
+//OTHER
+<enZ0043>yk0001_l
+<ptZ0043>yk0001_l
+
+//OTHER
+<enZ0044>yuki_003970
+<ptZ0044>yuki_003970
+
+//OTHER
+<enZ0045>yk0002a_l
+<ptZ0045>yk0002a_l
+
+//OTHER
+<enZ0046>yuki_003971
+<ptZ0046>yuki_003971
+
+//OTHER
+<enZ0047>yk0003_l
+<ptZ0047>yk0003_l
+
+//OTHER
+<enZ0048>yuki_003972
+<ptZ0048>yuki_003972
+
+//OTHER
+<enZ0049>yuki_003973
+<ptZ0049>yuki_003973
+
+//OTHER
+<enZ0050>yuki_003974
+<ptZ0050>yuki_003974
+
+//OTHER
+<enZ0051>yk0000a_l
+<ptZ0051>yk0000a_l
+
+//OTHER
+<enZ0052>yuki_003975
+<ptZ0052>yuki_003975
+
+//OTHER
+<enZ0053>yuki_003976
+<ptZ0053>yuki_003976
+
+//OTHER
+<enZ0054>yk0003a_l
+<ptZ0054>yk0003a_l
+
+//OTHER
+<enZ0055>yuki_003977
+<ptZ0055>yuki_003977
+
+//OTHER
+<enZ0056>yuki_003978
+<ptZ0056>yuki_003978
+
+//OTHER
+<enZ0057>yuki_003979
+<ptZ0057>yuki_003979
+
+//OTHER
+<enZ0058>yuki_003980
+<ptZ0058>yuki_003980
+
+//OTHER
+<enZ0059>yuki_003981
+<ptZ0059>yuki_003981
+
+//OTHER
+<enZ0060>yuki_003982
+<ptZ0060>yuki_003982
+
+//OTHER
+<enZ0061>yk0005a_l
+<ptZ0061>yk0005a_l
+
+//OTHER
+<enZ0062>yuki_003983
+<ptZ0062>yuki_003983
+
+//OTHER
+<enZ0063>yuki_003984
+<ptZ0063>yuki_003984
+
+//OTHER
+<enZ0064>yuki_003985
+<ptZ0064>yuki_003985
+
+//OTHER
+<enZ0065>yuki_003986
+<ptZ0065>yuki_003986
+
+//OTHER
+<enZ0066>yuki_003987
+<ptZ0066>yuki_003987
+
+//OTHER
+<enZ0067>yuki_003988
+<ptZ0067>yuki_003988
+
+//OTHER
+<enZ0068>yuki_003989
+<ptZ0068>yuki_003989
+
+//OTHER
+<enZ0069>yuki_003990
+<ptZ0069>yuki_003990
+
+//OTHER
+<enZ0070>yuki_003991
+<ptZ0070>yuki_003991
+
+//OTHER
+<enZ0071>yuki_003992
+<ptZ0071>yuki_003992
+
+//OTHER
+<enZ0072>yuki_003993
+<ptZ0072>yuki_003993
+
+//OTHER
+<enZ0073>yuki_003994
+<ptZ0073>yuki_003994
+
+//OTHER
+<enZ0074>yuki_003995
+<ptZ0074>yuki_003995
+
+//OTHER
+<enZ0075>yuki_003996
+<ptZ0075>yuki_003996
+
+//OTHER
+<enZ0076>yuki_003997
+<ptZ0076>yuki_003997
+
+//OTHER
+<enZ0077>yk0002_l
+<ptZ0077>yk0002_l
+
+//OTHER
+<enZ0078>yuki_003998
+<ptZ0078>yuki_003998
+
+//OTHER
+<enZ0079>yuki_003999
+<ptZ0079>yuki_003999
+
+//OTHER
+<enZ0080>yuki_004000
+<ptZ0080>yuki_004000
+
+//OTHER
+<enZ0081>yuki_004001
+<ptZ0081>yuki_004001
+
+//OTHER
+<enZ0082>yk0004a_l
+<ptZ0082>yk0004a_l
+
+//OTHER
+<enZ0083>yuki_004002
+<ptZ0083>yuki_004002
+
+//OTHER
+<enZ0084>yuki_004003
+<ptZ0084>yuki_004003
+
+//OTHER
+<enZ0085>yuki_004004
+<ptZ0085>yuki_004004
+
+//OTHER
+<enZ0086>yuki_004005
+<ptZ0086>yuki_004005
+
+//OTHER
+<enZ0087>yuki_004006
+<ptZ0087>yuki_004006
+
+//OTHER
+<enZ0088>yuki_004007
+<ptZ0088>yuki_004007
+
+//OTHER
+<enZ0089>yuki_004008
+<ptZ0089>yuki_004008
+
+//OTHER
+<enZ0090>yuki_004009
+<ptZ0090>yuki_004009
+
+//OTHER
+<enZ0091>yk0001a_l
+<ptZ0091>yk0001a_l
+
+//OTHER
+<enZ0092>yuki_004010
+<ptZ0092>yuki_004010
+
+//OTHER
+<enZ0093>yuki_004011
+<ptZ0093>yuki_004011
+
+//OTHER
+<enZ0094>yuki_004012
+<ptZ0094>yuki_004012
+
+//OTHER
+<enZ0095>yuki_004013
+<ptZ0095>yuki_004013
+
+//OTHER
+<enZ0096>yuki_004014
+<ptZ0096>yuki_004014
+
+//OTHER
+<enZ0097>yuki_004015
+<ptZ0097>yuki_004015
+
+//OTHER
+<enZ0098>yuki_004016
+<ptZ0098>yuki_004016
+
+//OTHER
+<enZ0099>yuki_004017
+<ptZ0099>yuki_004017
+
+//OTHER
+<enZ0100>yuki_004018
+<ptZ0100>yuki_004018
+
+//OTHER
+<enZ0101>yuki_004019
+<ptZ0101>yuki_004019
+
+//OTHER
+<enZ0102>yuki_004020
+<ptZ0102>yuki_004020
+
+//OTHER
+<enZ0103>yuki_004021
+<ptZ0103>yuki_004021
+
+//OTHER
+<enZ0104>yuki_004022
+<ptZ0104>yuki_004022
+
+//OTHER
+<enZ0105>yuki_004023
+<ptZ0105>yuki_004023
+
+//OTHER
+<enZ0106>yuki_004024
+<ptZ0106>yuki_004024
+
+//OTHER
+<enZ0107>yuki_004025
+<ptZ0107>yuki_004025
+
+//OTHER
+<enZ0108>yuki_004026
+<ptZ0108>yuki_004026
+
+//OTHER
+<enZ0109>yuki_004027
+<ptZ0109>yuki_004027
+
+//OTHER
+<enZ0110>yuki_004028
+<ptZ0110>yuki_004028
+
+//OTHER
+<enZ0111>yuki_004029
+<ptZ0111>yuki_004029
+
+//OTHER
+<enZ0112>yuki_004030
+<ptZ0112>yuki_004030
+
+//OTHER
+<enZ0113>yuki_004031
+<ptZ0113>yuki_004031
+
+//OTHER
+<enZ0114>yuki_004032
+<ptZ0114>yuki_004032
+
+//OTHER
+<enZ0115>yuki_004033
+<ptZ0115>yuki_004033
+
+//OTHER
+<enZ0116>yuki_004034
+<ptZ0116>yuki_004034
+
+//OTHER
+<enZ0117>yuki_004035
+<ptZ0117>yuki_004035
+
+//OTHER
+<enZ0118>yk0006_l
+<ptZ0118>yk0006_l
+
+//OTHER
+<enZ0119>yuki_004036
+<ptZ0119>yuki_004036
+
+//OTHER
+<enZ0120>yuki_004037
+<ptZ0120>yuki_004037
+
+//OTHER
+<enZ0121>yuki_004038
+<ptZ0121>yuki_004038
+
+//OTHER
+<enZ0122>yuki_004038a
+<ptZ0122>yuki_004038a
+
+//OTHER
+<enZ0123>yuki_004039
+<ptZ0123>yuki_004039
+
+//OTHER
+<enZ0124>yuki_004040
+<ptZ0124>yuki_004040
+
+//OTHER
+<enZ0125>yuki_004041
+<ptZ0125>yuki_004041
+
+//OTHER
+<enZ0126>yk0010_l
+<ptZ0126>yk0010_l
+
+//OTHER
+<enZ0127>yuki_004042
+<ptZ0127>yuki_004042
+
+//OTHER
+<enZ0128>yuki_004043
+<ptZ0128>yuki_004043
+
+//OTHER
+<enZ0129>yuki_004044
+<ptZ0129>yuki_004044
+
+//OTHER
+<enZ0130>yuki_004045
+<ptZ0130>yuki_004045
+
+//OTHER
+<enZ0131>yuki_004046
+<ptZ0131>yuki_004046
+
+//OTHER
+<enZ0132>yuki_004047
+<ptZ0132>yuki_004047
+
+//OTHER
+<enZ0133>yk0006a_l
+<ptZ0133>yk0006a_l
+
+//OTHER
+<enZ0134>yuki_004048
+<ptZ0134>yuki_004048
+
+//OTHER
+<enZ0135>yuki_004049
+<ptZ0135>yuki_004049
+
+//OTHER
+<enZ0136>yuki_004050
+<ptZ0136>yuki_004050
+
+//OTHER
+<enZ0137>yuki_004051
+<ptZ0137>yuki_004051
+
+//OTHER
+<enZ0138>yuki_004052
+<ptZ0138>yuki_004052
+
+//OTHER
+<enZ0139>yuki_004053
+<ptZ0139>yuki_004053
+
+//OTHER
+<enZ0140>yuki_004054
+<ptZ0140>yuki_004054
+
+//OTHER
+<enZ0141>yuki_004055
+<ptZ0141>yuki_004055
+
+//OTHER
+<enZ0142>map023
+<ptZ0142>map023
+
+//OTHER
+<enZ0143>ev6006f_dummy
+<ptZ0143>ev6006f_dummy
+
+//OTHER
+<enZ0144>ev6006d_dummy
+<ptZ0144>ev6006d_dummy
+
+//OTHER
+<enZ0145>yuki_004056
+<ptZ0145>yuki_004056
+
+//OTHER
+<enZ0146>yuki_004057
+<ptZ0146>yuki_004057
+
+//OTHER
+<enZ0147>yuki_004058
+<ptZ0147>yuki_004058
+
+//OTHER
+<enZ0148>yuki_004059
+<ptZ0148>yuki_004059
+
+//OTHER
+<enZ0149>yuki_004060
+<ptZ0149>yuki_004060
+
+//OTHER
+<enZ0150>yuki_004061
+<ptZ0150>yuki_004061
+
+//OTHER
+<enZ0151>yuki_004062
+<ptZ0151>yuki_004062
+
+//OTHER
+<enZ0152>yuki_004063
+<ptZ0152>yuki_004063
+
+//OTHER
+<enZ0153>yuki_004064
+<ptZ0153>yuki_004064
+
+//OTHER
+<enZ0154>yk0004_l
+<ptZ0154>yk0004_l
+
+//OTHER
+<enZ0155>yuki_004065
+<ptZ0155>yuki_004065
+
+//OTHER
+<enZ0156>yuki_004066
+<ptZ0156>yuki_004066
+
+//OTHER
+<enZ0157>yuki_004067
+<ptZ0157>yuki_004067
+
+//OTHER
+<enZ0158>yuki_004068
+<ptZ0158>yuki_004068
+
+//OTHER
+<enZ0159>yuki_004069
+<ptZ0159>yuki_004069
+
+//OTHER
+<enZ0160>yuki_004070
+<ptZ0160>yuki_004070
+
+//OTHER
+<enZ0161>yuki_004071
+<ptZ0161>yuki_004071
+
+//OTHER
+<enZ0162>yuki_004072
+<ptZ0162>yuki_004072
+
+//OTHER
+<enZ0163>yuki_004073
+<ptZ0163>yuki_004073
+
+//OTHER
+<enZ0164>yuki_004074
+<ptZ0164>yuki_004074
+
+//OTHER
+<enZ0165>yuki_004075
+<ptZ0165>yuki_004075
+
+//OTHER
+<enZ0166>yuki_004076
+<ptZ0166>yuki_004076
+
+//OTHER
+<enZ0167>yuki_004077
+<ptZ0167>yuki_004077
+
+//OTHER
+<enZ0168>yuki_004078
+<ptZ0168>yuki_004078
+
+//OTHER
+<enZ0169>yuki_004079
+<ptZ0169>yuki_004079
+
+//OTHER
+<enZ0170>yuki_004080
+<ptZ0170>yuki_004080
+
+//OTHER
+<enZ0171>yk0050a_l
+<ptZ0171>yk0050a_l
+
+//OTHER
+<enZ0172>yuki_004081
+<ptZ0172>yuki_004081
+
+//OTHER
+<enZ0173>yuki_004082
+<ptZ0173>yuki_004082
+
+//OTHER
+<enZ0174>yuki_004083
+<ptZ0174>yuki_004083
+
+//OTHER
+<enZ0175>yuki_004084
+<ptZ0175>yuki_004084
+
+//OTHER
+<enZ0176>yuki_004085
+<ptZ0176>yuki_004085
+
+//OTHER
+<enZ0177>yuki_004086
+<ptZ0177>yuki_004086
+
+//OTHER
+<enZ0178>yuki_004087
+<ptZ0178>yuki_004087
+
+//OTHER
+<enZ0179>yuki_004088
+<ptZ0179>yuki_004088
+
+//OTHER
+<enZ0180>yuki_004089
+<ptZ0180>yuki_004089
+
+//OTHER
+<enZ0181>yuki_004090
+<ptZ0181>yuki_004090
+
+//OTHER
+<enZ0182>yuki_004091
+<ptZ0182>yuki_004091
+
+//OTHER
+<enZ0183>yuki_004092
+<ptZ0183>yuki_004092
+
+//OTHER
+<enZ0184>yuki_004093
+<ptZ0184>yuki_004093
+
+//OTHER
+<enZ0185>yuki_004094
+<ptZ0185>yuki_004094
+
+//OTHER
+<enZ0186>yuki_004095
+<ptZ0186>yuki_004095
+
+//OTHER
+<enZ0187>yuki_004096
+<ptZ0187>yuki_004096
+
+//OTHER
+<enZ0188>yk1004_l
+<ptZ0188>yk1004_l
+
+//OTHER
+<enZ0189>yuki_004097
+<ptZ0189>yuki_004097
+
+//OTHER
+<enZ0190>yuki_004098
+<ptZ0190>yuki_004098
+
+//OTHER
+<enZ0191>bgm024
+<ptZ0191>bgm024
+
+//OTHER
+<enZ0192>yk1005_l
+<ptZ0192>yk1005_l
+
+//OTHER
+<enZ0193>map024
+<ptZ0193>map024
+
+//OTHER
+<enZ0194>se071
+<ptZ0194>se071
+
+//OTHER
+<enZ0195>sp0200a
+<ptZ0195>sp0200a
+
+//OTHER
+<enZ0196>se004
+<ptZ0196>se004
+
+//OTHER
+<enZ0197>yk1000_l
+<ptZ0197>yk1000_l
+
+//OTHER
+<enZ0198>yuki_004099
+<ptZ0198>yuki_004099
+
+//OTHER
+<enZ0199>yk1001_l
+<ptZ0199>yk1001_l
+
+//OTHER
+<enZ0200>yuki_004100
+<ptZ0200>yuki_004100
+
+//OTHER
+<enZ0201>yuki_004101
+<ptZ0201>yuki_004101
+
+//OTHER
+<enZ0202>yk1002_l
+<ptZ0202>yk1002_l
+
+//OTHER
+<enZ0203>yuki_004102
+<ptZ0203>yuki_004102
+
+//OTHER
+<enZ0204>yuki_004103
+<ptZ0204>yuki_004103
+
+//OTHER
+<enZ0205>yuki_004104
+<ptZ0205>yuki_004104
+
+//OTHER
+<enZ0206>yuki_004105
+<ptZ0206>yuki_004105
+
+//OTHER
+<enZ0207>se318
+<ptZ0207>se318
+
+//OTHER
+<enZ0208>sp0200c
+<ptZ0208>sp0200c
+
+//OTHER
+<enZ0209>se311
+<ptZ0209>se311
+
+//OTHER
+<enZ0210>sp0200e
+<ptZ0210>sp0200e
+
+//OTHER
+<enZ0211>sp0200f
+<ptZ0211>sp0200f
+
+//OTHER
+<enZ0212>sp0200g
+<ptZ0212>sp0200g
+
+//OTHER
+<enZ0213>yk1001
+<ptZ0213>yk1001
+
+//OTHER
+<enZ0214>yuki_004106
+<ptZ0214>yuki_004106
+
+//OTHER
+<enZ0215>yuki_004107
+<ptZ0215>yuki_004107
+
+//OTHER
+<enZ0216>se015
+<ptZ0216>se015
+
+//OTHER
+<enZ0217>yuki_004108
+<ptZ0217>yuki_004108
+
+//OTHER
+<enZ0218>yuki_004109
+<ptZ0218>yuki_004109
+
+//OTHER
+<enZ0219>map027
+<ptZ0219>map027
+
+//OTHER
+<enZ0220>yk1004
+<ptZ0220>yk1004
+
+//OTHER
+<enZ0221>yuki_004110
+<ptZ0221>yuki_004110
+
+//OTHER
+<enZ0222>yk1006
+<ptZ0222>yk1006
+
+//OTHER
+<enZ0223>yuki_004111
+<ptZ0223>yuki_004111
+
+//OTHER
+<enZ0224>yk1000
+<ptZ0224>yk1000
+
+//OTHER
+<enZ0225>yuki_004112
+<ptZ0225>yuki_004112
+
+//OTHER
+<enZ0226>sp0200j
+<ptZ0226>sp0200j
+
+//OTHER
+<enZ0227>yk1006_l
+<ptZ0227>yk1006_l
+
+//OTHER
+<enZ0228>yuki_004113
+<ptZ0228>yuki_004113
+
+//OTHER
+<enZ0229>sp0200b
+<ptZ0229>sp0200b
+
+//OTHER
+<enZ0230>map0303
+<ptZ0230>map0303
+
+//OTHER
+<enZ0231>yuki_004114
+<ptZ0231>yuki_004114
+
+//OTHER
+<enZ0232>yuki_004115
+<ptZ0232>yuki_004115
+
+//OTHER
+<enZ0233>map0300
+<ptZ0233>map0300
+
+//OTHER
+<enZ0234>sp0200i
+<ptZ0234>sp0200i
+
+//OTHER
+<enZ0235>se511
+<ptZ0235>se511
+
+//OTHER
+<enZ0236>yuki_004116
+<ptZ0236>yuki_004116
+
+//OTHER
+<enZ0237>yuki_004117
+<ptZ0237>yuki_004117
+
+//OTHER
+<enZ0238>yk1005
+<ptZ0238>yk1005
+
+//OTHER
+<enZ0239>yuki_004118
+<ptZ0239>yuki_004118
+
+//OTHER
+<enZ0240>yuki_004119
+<ptZ0240>yuki_004119
+
+//OTHER
+<enZ0241>yk1002
+<ptZ0241>yk1002
+
+//OTHER
+<enZ0242>yuki_004120
+<ptZ0242>yuki_004120
+
+//OTHER
+<enZ0243>yuki_004121
+<ptZ0243>yuki_004121
+
+//OTHER
+<enZ0244>se367
+<ptZ0244>se367
+
+//OTHER
+<enZ0245>sp0200o
+<ptZ0245>sp0200o
+
+//OTHER
+<enZ0246>se016
+<ptZ0246>se016
+
+//OTHER
+<enZ0247>map0304
+<ptZ0247>map0304
+
+//OTHER
+<enZ0248>Black
+<ptZ0248>Black
+
+//OTHER
+<enZ0249>yuki_004122
+<ptZ0249>yuki_004122
+
+//OTHER
+<enZ0250>yuki_004123
+<ptZ0250>yuki_004123
+
+//OTHER
+<enZ0251>se368
+<ptZ0251>se368
+
+//OTHER
+<enZ0252>yuki_004124
+<ptZ0252>yuki_004124
+
+//OTHER
+<enZ0253>yuki_004125
+<ptZ0253>yuki_004125
+
+//OTHER
+<enZ0254>map002
+<ptZ0254>map002
+
+//OTHER
+<enZ0255>yk1009_l
+<ptZ0255>yk1009_l
+
+//OTHER
+<enZ0256>yk1008_l
+<ptZ0256>yk1008_l
+
+//OTHER
+<enZ0257>se002
+<ptZ0257>se002
+
+//OTHER
+<enZ0258>yuki_004126
+<ptZ0258>yuki_004126
+
+//OTHER
+<enZ0259>se019
+<ptZ0259>se019
+
+//OTHER
+<enZ0260>map017
+<ptZ0260>map017
+
+//OTHER
+<enZ0261>yuki_004127
+<ptZ0261>yuki_004127
+
+//OTHER
+<enZ0262>yk0007a_l
+<ptZ0262>yk0007a_l
+
+//OTHER
+<enZ0263>yuki_004128
+<ptZ0263>yuki_004128
+
+//OTHER
+<enZ0264>yuki_004129
+<ptZ0264>yuki_004129
+
+//OTHER
+<enZ0265>yuki_004130
+<ptZ0265>yuki_004130
+
+//OTHER
+<enZ0266>yuki_004131
+<ptZ0266>yuki_004131
+
+//OTHER
+<enZ0267>yuki_004132
+<ptZ0267>yuki_004132
+
+//OTHER
+<enZ0268>yuki_004133
+<ptZ0268>yuki_004133
+
+//OTHER
+<enZ0269>yuki_004134
+<ptZ0269>yuki_004134
+
+//OTHER
+<enZ0270>yuki_004135
+<ptZ0270>yuki_004135
+
+//OTHER
+<enZ0271>yuki_004136
+<ptZ0271>yuki_004136
+
+//OTHER
+<enZ0272>yuki_004137
+<ptZ0272>yuki_004137
+
+//OTHER
+<enZ0273>yuki_004138
+<ptZ0273>yuki_004138
+
+//OTHER
+<enZ0274>yuki_004139
+<ptZ0274>yuki_004139
+
+//OTHER
+<enZ0275>yuki_004140
+<ptZ0275>yuki_004140
+
+//OTHER
+<enZ0276>yuki_004141
+<ptZ0276>yuki_004141
+
+//OTHER
+<enZ0277>yuki_004142
+<ptZ0277>yuki_004142
+
+//OTHER
+<enZ0278>yuki_004143
+<ptZ0278>yuki_004143
+
+//OTHER
+<enZ0279>yuki_004144
+<ptZ0279>yuki_004144
+
+//OTHER
+<enZ0280>yuki_004145
+<ptZ0280>yuki_004145
+
+//OTHER
+<enZ0281>yuki_004146
+<ptZ0281>yuki_004146
+
+//OTHER
+<enZ0282>yuki_004147
+<ptZ0282>yuki_004147
+
+//OTHER
+<enZ0283>yuki_004148
+<ptZ0283>yuki_004148
+
+//OTHER
+<enZ0284>yuki_004149
+<ptZ0284>yuki_004149
+
+//OTHER
+<enZ0285>yk0008a_l
+<ptZ0285>yk0008a_l
+
+//OTHER
+<enZ0286>yuki_004150
+<ptZ0286>yuki_004150
+
+//OTHER
+<enZ0287>yuki_004151
+<ptZ0287>yuki_004151
+
+//OTHER
+<enZ0288>yuki_004152
+<ptZ0288>yuki_004152
+
+//OTHER
+<enZ0289>yuki_004153
+<ptZ0289>yuki_004153
+
+//OTHER
+<enZ0290>se216
+<ptZ0290>se216
+
+//OTHER
+<enZ0291>map200
+<ptZ0291>map200
+
+//OTHER
+<enZ0292>4_0717
+<ptZ0292>4_0717
+

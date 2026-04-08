@@ -1,0 +1,852 @@
+//NAME
+<enN0001>Megu
+<ptN0001>Megu
+
+//NAME
+<enN0002>Zakuro
+<ptN0002>Zakuro
+
+//NAME
+<enN0003>Satoko
+<ptN0003>Satoko
+
+//NAME
+<enN0004>Kimika
+<ptN0004>Kimika
+
+///================================================================================
+
+//TEXT 【Megu】
+<enT0001>"Ah, Takashima."
+<ptT0001>"Ah, Takashima."
+
+//TEXT 【Zakuro】
+<enT0002>"Eh? What?"
+<ptT0002>"Eh? What?"
+
+//TEXT 【Megu】
+<enT0003>"We were talking about going to karaoke after school today."
+<ptT0003>"We were talking about going to karaoke after school today."
+
+//TEXT 【Zakuro】
+<enT0004>"Oh... Sure..."
+<ptT0004>"Oh... Sure..."
+
+//TEXT 【Megu】
+<enT0005>"I wonder if they have that new song I was listening to the other day."
+<ptT0005>"I wonder if they have that new song I was listening to the other day."
+
+//TEXT 【Zakuro】
+<enT0006>"Yeah... Though the CD just came out, so I doubt they have it yet."
+<ptT0006>"Yeah... Though the CD just came out, so I doubt they have it yet."
+
+//TEXT 【Megu】
+<enT0007>"Oh, that's right, what about those concert tickets I was asking you about before?"
+<ptT0007>"Oh, that's right, what about those concert tickets I was asking you about before?"
+
+//TEXT 【Zakuro】
+<enT0008>"Oh, yeah... Here they are."
+<ptT0008>"Oh, yeah... Here they are."
+
+//TEXT 【Megu】
+<enT0009>"Wow, thanks."
+<ptT0009>"Wow, thanks."
+
+//TEXT 【Zakuro】
+<enT0010>"No... It's nothing."
+<ptT0010>"No... It's nothing."
+
+//TEXT 【Satoko】
+<enT0011>"Megu, how did your cell phone novel turn out?"
+<ptT0011>"Megu, how did your cell phone novel turn out?"
+
+//TEXT 【Megu】
+<enT0012>"I gave up. I'm no good at writing. That's probably why my grades in Japanese are so bad, too."
+<ptT0012>"I gave up. I'm no good at writing. That's probably why my grades in Japanese are so bad, too."
+
+//TEXT 【Zakuro】
+<enT0013>"Writing something like that must be hard."
+<ptT0013>"Writing something like that must be hard."
+
+//TEXT 【Satoko】
+<enT0014>"Do we really have to write it? Couldn't we express ourselves some other way?"
+<ptT0014>"Do we really have to write it? Couldn't we express ourselves some other way?"
+
+//TEXT 【Megu】
+<enT0015>"Yeah, that would be great!"
+<ptT0015>"Yeah, that would be great!"
+
+//TEXT 【Satoko】
+<enT0016>"I guess it would."
+<ptT0016>"I guess it would."
+
+//TEXT
+<enT0017>The life of a worm...
+<ptT0017>The life of a worm...
+
+//TEXT
+<enT0018>That lifestyle suddenly came to a close.
+<ptT0018>That lifestyle suddenly came to a close.
+
+//TEXT
+<enT0019>On that day, after the accident, my life as a worm ended.
+<ptT0019>On that day, after the accident, my life as a worm ended.
+
+//TEXT
+<enT0020>Now everyone talks to me like normal, and we go out to karaoke or get fast food together sometimes.
+<ptT0020>Now everyone talks to me like normal, and we go out to karaoke or get fast food together sometimes.
+
+//TEXT
+<enT0021>They don't mind if I hang out with them.
+<ptT0021>They don't mind if I hang out with them.
+
+//TEXT
+<enT0022>But... maybe that's even scarier than the way it was before.
+<ptT0022>But... maybe that's even scarier than the way it was before.
+
+//TEXT
+<enT0023>I always have to watch their expressions closely.
+<ptT0023>I always have to watch their expressions closely.
+
+//TEXT
+<enT0024>I always try to be cheerful around them.
+<ptT0024>I always try to be cheerful around them.
+
+//TEXT 【Satoko】
+<enT0025>"Oh, you got a new phone, Megu."
+<ptT0025>"Oh, you got a new phone, Megu."
+
+//TEXT 【Megu】
+<enT0026>"Yeah, isn't it cute?"
+<ptT0026>"Yeah, isn't it cute?"
+
+//TEXT 【Satoko】
+<enT0027>"It has a really nice screen."
+<ptT0027>"It has a really nice screen."
+
+//TEXT 【Kimika】
+<enT0028>"Didn't you just get a new one?"
+<ptT0028>"Didn't you just get a new one?"
+
+//TEXT 【Megu】
+<enT0029>"What, you got a problem?"
+<ptT0029>"What, you got a problem?"
+
+//TEXT 【Kimika】
+<enT0030>"Not really... It's cute."
+<ptT0030>"Not really... It's cute."
+
+//TEXT 【Megu】
+<enT0031>"Isn't it? Look, Tachibana, I'll take a picture of you."
+<ptT0031>"Isn't it? Look, Tachibana, I'll take a picture of you."
+
+//TEXT 【Kimika】
+<enT0032>"A picture?"
+<ptT0032>"A picture?"
+
+//TEXT 【Megu】
+<enT0033>"Smile for the camera."
+<ptT0033>"Smile for the camera."
+
+//TEXT 【Kimika】
+<enT0034>"Sure..."
+<ptT0034>"Sure..."
+
+//TEXT 【Megu】
+<enT0035>"I said smile!"
+<ptT0035>"I said smile!"
+
+//TEXT 【Kimika】
+<enT0036>"Smile, smile... L-Like this?"
+<ptT0036>"Smile, smile... L-Like this?"
+
+//TEXT 【Megu】
+<enT0037>"That's great. You look really cute."
+<ptT0037>"That's great. You look really cute."
+
+//TEXT 【Satoko】
+<enT0038>"That's right. Smile for the camera, Kimika."
+<ptT0038>"That's right. Smile for the camera, Kimika."
+
+//TEXT 【Kimika】
+<enT0039>"Ah..."
+<ptT0039>"Ah..."
+
+//TEXT
+<enT0040>Akasaka-san was taking pictures, and behind her, Kitami-san was recording us with a video camera.
+<ptT0040>Akasaka-san was taking pictures, and behind her, Kitami-san was recording us with a video camera.
+
+//TEXT 【Zakuro】
+<enT0041>"..."
+<ptT0041>"..."
+
+//TEXT
+<enT0042>What are they doing?
+<ptT0042>What are they doing?
+
+//TEXT
+<enT0043>But... I couldn't ask.
+<ptT0043>But... I couldn't ask.
+
+//TEXT
+<enT0044>There's no way I could ask "What's that?"...
+<ptT0044>There's no way I could ask "What's that?"...
+
+//TEXT
+<enT0045>If I asked, they would probably...
+<ptT0045>If I asked, they would probably...
+
+//TEXT 【Satoko】
+<enT0046>"Oh, that's great, Kimika-chan."
+<ptT0046>"Oh, that's great, Kimika-chan."
+
+//TEXT 【Kimika】
+<enT0047>"U-Um..."
+<ptT0047>"U-Um..."
+
+//TEXT 【Megu】
+<enT0048>"What?"
+<ptT0048>"What?"
+
+//TEXT 【Kimika】
+<enT0049>"Why do you have a video camera?"
+<ptT0049>"Why do you have a video camera?"
+
+//TEXT 【Megu】
+<enT0050>"Who cares about that?"
+<ptT0050>"Who cares about that?"
+
+//TEXT 【Kimika】
+<enT0051>"U-Um..."
+<ptT0051>"U-Um..."
+
+//TEXT 【Satoko】
+<enT0052>"Don't worry about it. Just smile."
+<ptT0052>"Don't worry about it. Just smile."
+
+//TEXT 【Kimika】
+<enT0053>"..."
+<ptT0053>"..."
+
+//TEXT
+<enT0054>Kimika looked toward me for an instant.
+<ptT0054>Kimika looked toward me for an instant.
+
+//TEXT 【Satoko】
+<enT0055>"Now then... Why don't you lift up your skirt?"
+<ptT0055>"Now then... Why don't you lift up your skirt?"
+
+//TEXT 【Kimika】
+<enT0056>"M-My skirt?"
+<ptT0056>"M-My skirt?"
+
+//TEXT 【Megu】
+<enT0057>"Kimika-chan, what kind of panties are you wearing?"
+<ptT0057>"Kimika-chan, what kind of panties are you wearing?"
+
+//TEXT 【Kimika】
+<enT0058>"Eh? Uh, normal ones..."
+<ptT0058>"Eh? Uh, normal ones..."
+
+//TEXT 【Satoko】
+<enT0059>"What's normal?"
+<ptT0059>"What's normal?"
+
+//TEXT 【Kimika】
+<enT0060>"Ah, uh..."
+<ptT0060>"Ah, uh..."
+
+//TEXT 【Satoko】
+<enT0061>"Come on, why don't you lift up your skirt for a second?"
+<ptT0061>"Come on, why don't you lift up your skirt for a second?"
+
+//TEXT 【Kimika】
+<enT0062>"Eh? Um, r-right here?"
+<ptT0062>"Eh? Um, r-right here?"
+
+//TEXT 【Megu】
+<enT0063>"Don't worry, don't worry. We're in the back. No one's looking this way."
+<ptT0063>"Don't worry, don't worry. We're in the back. No one's looking this way."
+
+//TEXT 【Zakuro】
+<enT0064>"..."
+<ptT0064>"..."
+
+//TEXT
+<enT0065>Even if we are in the back... The restaurant is full of people...
+<ptT0065>Even if we are in the back... The restaurant is full of people...
+
+//TEXT
+<enT0066>What are they trying to do?
+<ptT0066>What are they trying to do?
+
+//TEXT
+<enT0067>It's the same feeling as when they used to bully me.
+<ptT0067>It's the same feeling as when they used to bully me.
+
+//TEXT
+<enT0068>This is...
+<ptT0068>This is...
+
+//TEXT 【Kimika】
+<enT0069>"U-Um, what is this..."
+<ptT0069>"U-Um, what is this..."
+
+//TEXT 【Megu】
+<enT0070>"Hey, Tachibana!"
+<ptT0070>"Hey, Tachibana!"
+
+//TEXT 【Kimika】
+<enT0071>"Eh?"
+<ptT0071>"Eh?"
+
+//TEXT 【Megu】
+<enT0072>"How about..."
+<ptT0072>"How about..."
+
+//TEXT
+<enT0073>Akasaka-san's mouth moved right next to Kimika's ear.
+<ptT0073>Akasaka-san's mouth moved right next to Kimika's ear.
+
+//TEXT
+<enT0074>Then she whispered something to her.
+<ptT0074>Then she whispered something to her.
+
+//TEXT 【Satoko】
+<enT0075>"Takashima, why don't you get a hamburger or something?"
+<ptT0075>"Takashima, why don't you get a hamburger or something?"
+
+//TEXT 【Zakuro】
+<enT0076>"Oh, okay..."
+<ptT0076>"Oh, okay..."
+
+//TEXT 【Kimika】
+<enT0077>"You won't record my face, right?"
+<ptT0077>"You won't record my face, right?"
+
+//TEXT 【Megu】
+<enT0078>"Of course."
+<ptT0078>"Of course."
+
+//TEXT 【Kimika】
+<enT0079>"..."
+<ptT0079>"..."
+
+//TEXT 【Megu】
+<enT0080>"I'm telling you, you're overthinking it. Right, Satoko?"
+<ptT0080>"I'm telling you, you're overthinking it. Right, Satoko?"
+
+//TEXT 【Satoko】
+<enT0081>"Eh, what?"
+<ptT0081>"Eh, what?"
+
+//TEXT
+<enT0082>Akasaka-san pointed the camera toward Kitami-san next.
+<ptT0082>Akasaka-san pointed the camera toward Kitami-san next.
+
+//TEXT 【Megu】
+<enT0083>"Satoko, you look great."
+<ptT0083>"Satoko, you look great."
+
+//TEXT 【Satoko】
+<enT0084>"Yay!"
+<ptT0084>"Yay!"
+
+//TEXT 【Megu】
+<enT0085>"Give them a little fan service."
+<ptT0085>"Give them a little fan service."
+
+//TEXT 【Satoko】
+<enT0086>"Just a little. Oopsie!"
+<ptT0086>"Just a little. Oopsie!"
+
+//TEXT 【Megu】
+<enT0087>"Oh, you have nice legs."
+<ptT0087>"Oh, you have nice legs."
+
+//TEXT 【Satoko】
+<enT0088>"Now let me see the camera for a second."
+<ptT0088>"Now let me see the camera for a second."
+
+//TEXT 【Megu】
+<enT0089>"Oh?"
+<ptT0089>"Oh?"
+
+//TEXT 【Megu】
+<enT0090>"Ooooh?"
+<ptT0090>"Ooooh?"
+
+//TEXT
+<enT0091>Kitami-san took the camera from Akasaka-san and jammed it up her skirt.
+<ptT0091>Kitami-san took the camera from Akasaka-san and jammed it up her skirt.
+
+//TEXT 【Megu】
+<enT0092>"Ow, ow, ow, knock it off, ahahahaha."
+<ptT0092>"Ow, ow, ow, knock it off, ahahahaha."
+
+//TEXT 【Satoko】
+<enT0093>"And those were Megu's panties."
+<ptT0093>"And those were Megu's panties."
+
+//TEXT 【Megu】
+<enT0094>"Ahahahaha... It was probably too dark to see anything on camera."
+<ptT0094>"Ahahahaha... It was probably too dark to see anything on camera."
+
+//TEXT 【Megu】
+<enT0095>"Jeez, give it back already!"
+<ptT0095>"Jeez, give it back already!"
+
+//TEXT 【Satoko】
+<enT0096>"Oh, fine..."
+<ptT0096>"Oh, fine..."
+
+//TEXT 【Megu】
+<enT0097>"Satoko, lift up your skirt a bit."
+<ptT0097>"Satoko, lift up your skirt a bit."
+
+//TEXT 【Satoko】
+<enT0098>"Eeh, like this?"
+<ptT0098>"Eeh, like this?"
+
+//TEXT 【Megu】
+<enT0099>"Oh, that's great."
+<ptT0099>"Oh, that's great."
+
+//TEXT 【Megu】
+<enT0100>"Come on, give us a little more."
+<ptT0100>"Come on, give us a little more."
+
+//TEXT 【Satoko】
+<enT0101>"No waaay."
+<ptT0101>"No waaay."
+
+//TEXT
+<enT0102>What are they doing?
+<ptT0102>What are they doing?
+
+//TEXT
+<enT0103>This is strange.
+<ptT0103>This is strange.
+
+//TEXT
+<enT0104>This is almost like...
+<ptT0104>This is almost like...
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0708-1.bss
+<ptZ0001>3_0708-1.bss
+
+//OTHER
+<enZ0002>July 8th
+<ptZ0002>July 8th
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>dayzk0708
+<ptZ0004>dayzk0708
+
+//OTHER
+<enZ0005>se022
+<ptZ0005>se022
+
+//OTHER
+<enZ0006>map023
+<ptZ0006>map023
+
+//OTHER
+<enZ0007>bg1014a
+<ptZ0007>bg1014a
+
+//OTHER
+<enZ0008>mg0002
+<ptZ0008>mg0002
+
+//OTHER
+<enZ0009>bgm020
+<ptZ0009>bgm020
+
+//OTHER
+<enZ0010>megu_000187
+<ptZ0010>megu_000187
+
+//OTHER
+<enZ0011>zaku_002135
+<ptZ0011>zaku_002135
+
+//OTHER
+<enZ0012>mg0001
+<ptZ0012>mg0001
+
+//OTHER
+<enZ0013>megu_000188
+<ptZ0013>megu_000188
+
+//OTHER
+<enZ0014>zaku_002136
+<ptZ0014>zaku_002136
+
+//OTHER
+<enZ0015>mg0010
+<ptZ0015>mg0010
+
+//OTHER
+<enZ0016>megu_000189
+<ptZ0016>megu_000189
+
+//OTHER
+<enZ0017>zaku_002137
+<ptZ0017>zaku_002137
+
+//OTHER
+<enZ0018>megu_000190
+<ptZ0018>megu_000190
+
+//OTHER
+<enZ0019>zaku_002138
+<ptZ0019>zaku_002138
+
+//OTHER
+<enZ0020>mg0003
+<ptZ0020>mg0003
+
+//OTHER
+<enZ0021>megu_000191
+<ptZ0021>megu_000191
+
+//OTHER
+<enZ0022>zaku_002139
+<ptZ0022>zaku_002139
+
+//OTHER
+<enZ0023>map029
+<ptZ0023>map029
+
+//OTHER
+<enZ0024>Black
+<ptZ0024>Black
+
+//OTHER
+<enZ0025>bg1014e
+<ptZ0025>bg1014e
+
+//OTHER
+<enZ0026>mg0000
+<ptZ0026>mg0000
+
+//OTHER
+<enZ0027>st0000
+<ptZ0027>st0000
+
+//OTHER
+<enZ0028>sato_000120
+<ptZ0028>sato_000120
+
+//OTHER
+<enZ0029>megu_000192
+<ptZ0029>megu_000192
+
+//OTHER
+<enZ0030>zaku_002140
+<ptZ0030>zaku_002140
+
+//OTHER
+<enZ0031>st0001
+<ptZ0031>st0001
+
+//OTHER
+<enZ0032>sato_000121
+<ptZ0032>sato_000121
+
+//OTHER
+<enZ0033>megu_000193
+<ptZ0033>megu_000193
+
+//OTHER
+<enZ0034>st0010
+<ptZ0034>st0010
+
+//OTHER
+<enZ0035>sato_000122
+<ptZ0035>sato_000122
+
+//OTHER
+<enZ0036>map024
+<ptZ0036>map024
+
+//OTHER
+<enZ0037>ev5104i
+<ptZ0037>ev5104i
+
+//OTHER
+<enZ0038>sato_000123
+<ptZ0038>sato_000123
+
+//OTHER
+<enZ0039>megu_000194
+<ptZ0039>megu_000194
+
+//OTHER
+<enZ0040>sato_000124
+<ptZ0040>sato_000124
+
+//OTHER
+<enZ0041>kimi_001280
+<ptZ0041>kimi_001280
+
+//OTHER
+<enZ0042>megu_000195
+<ptZ0042>megu_000195
+
+//OTHER
+<enZ0043>kimi_001281
+<ptZ0043>kimi_001281
+
+//OTHER
+<enZ0044>megu_000196
+<ptZ0044>megu_000196
+
+//OTHER
+<enZ0045>kimi_001282
+<ptZ0045>kimi_001282
+
+//OTHER
+<enZ0046>megu_000197
+<ptZ0046>megu_000197
+
+//OTHER
+<enZ0047>kimi_001283
+<ptZ0047>kimi_001283
+
+//OTHER
+<enZ0048>megu_000198
+<ptZ0048>megu_000198
+
+//OTHER
+<enZ0049>kimi_001284
+<ptZ0049>kimi_001284
+
+//OTHER
+<enZ0050>se030
+<ptZ0050>se030
+
+//OTHER
+<enZ0051>megu_000199
+<ptZ0051>megu_000199
+
+//OTHER
+<enZ0052>sato_000125
+<ptZ0052>sato_000125
+
+//OTHER
+<enZ0053>kimi_001285
+<ptZ0053>kimi_001285
+
+//OTHER
+<enZ0054>zaku_002141
+<ptZ0054>zaku_002141
+
+//OTHER
+<enZ0055>bgm109
+<ptZ0055>bgm109
+
+//OTHER
+<enZ0056>sato_000126
+<ptZ0056>sato_000126
+
+//OTHER
+<enZ0057>kimi_001286
+<ptZ0057>kimi_001286
+
+//OTHER
+<enZ0058>megu_000200
+<ptZ0058>megu_000200
+
+//OTHER
+<enZ0059>kimi_001287
+<ptZ0059>kimi_001287
+
+//OTHER
+<enZ0060>megu_000201
+<ptZ0060>megu_000201
+
+//OTHER
+<enZ0061>kimi_001288
+<ptZ0061>kimi_001288
+
+//OTHER
+<enZ0062>sato_000127
+<ptZ0062>sato_000127
+
+//OTHER
+<enZ0063>kimi_001289
+<ptZ0063>kimi_001289
+
+//OTHER
+<enZ0064>sato_000128
+<ptZ0064>sato_000128
+
+//OTHER
+<enZ0065>kimi_001290
+<ptZ0065>kimi_001290
+
+//OTHER
+<enZ0066>megu_000202
+<ptZ0066>megu_000202
+
+//OTHER
+<enZ0067>kimi_001291
+<ptZ0067>kimi_001291
+
+//OTHER
+<enZ0068>sato_000129
+<ptZ0068>sato_000129
+
+//OTHER
+<enZ0069>kimi_001292
+<ptZ0069>kimi_001292
+
+//OTHER
+<enZ0070>sato_000130
+<ptZ0070>sato_000130
+
+//OTHER
+<enZ0071>kimi_001293
+<ptZ0071>kimi_001293
+
+//OTHER
+<enZ0072>megu_000203
+<ptZ0072>megu_000203
+
+//OTHER
+<enZ0073>zaku_002142
+<ptZ0073>zaku_002142
+
+//OTHER
+<enZ0074>kimi_001294
+<ptZ0074>kimi_001294
+
+//OTHER
+<enZ0075>megu_000204
+<ptZ0075>megu_000204
+
+//OTHER
+<enZ0076>kimi_001295
+<ptZ0076>kimi_001295
+
+//OTHER
+<enZ0077>megu_000205
+<ptZ0077>megu_000205
+
+//OTHER
+<enZ0078>sato_000131
+<ptZ0078>sato_000131
+
+//OTHER
+<enZ0079>zaku_002143
+<ptZ0079>zaku_002143
+
+//OTHER
+<enZ0080>kimi_001296
+<ptZ0080>kimi_001296
+
+//OTHER
+<enZ0081>megu_000206
+<ptZ0081>megu_000206
+
+//OTHER
+<enZ0082>kimi_001297
+<ptZ0082>kimi_001297
+
+//OTHER
+<enZ0083>megu_000207
+<ptZ0083>megu_000207
+
+//OTHER
+<enZ0084>sato_000132
+<ptZ0084>sato_000132
+
+//OTHER
+<enZ0085>megu_000208
+<ptZ0085>megu_000208
+
+//OTHER
+<enZ0086>sato_000133
+<ptZ0086>sato_000133
+
+//OTHER
+<enZ0087>megu_000209
+<ptZ0087>megu_000209
+
+//OTHER
+<enZ0088>sato_000134
+<ptZ0088>sato_000134
+
+//OTHER
+<enZ0089>megu_000210
+<ptZ0089>megu_000210
+
+//OTHER
+<enZ0090>sato_000135
+<ptZ0090>sato_000135
+
+//OTHER
+<enZ0091>megu_000211
+<ptZ0091>megu_000211
+
+//OTHER
+<enZ0092>megu_000212
+<ptZ0092>megu_000212
+
+//OTHER
+<enZ0093>megu_000213
+<ptZ0093>megu_000213
+
+//OTHER
+<enZ0094>sato_000136
+<ptZ0094>sato_000136
+
+//OTHER
+<enZ0095>megu_000214
+<ptZ0095>megu_000214
+
+//OTHER
+<enZ0096>megu_000215
+<ptZ0096>megu_000215
+
+//OTHER
+<enZ0097>sato_000137
+<ptZ0097>sato_000137
+
+//OTHER
+<enZ0098>megu_000216
+<ptZ0098>megu_000216
+
+//OTHER
+<enZ0099>sato_000138
+<ptZ0099>sato_000138
+
+//OTHER
+<enZ0100>megu_000217
+<ptZ0100>megu_000217
+
+//OTHER
+<enZ0101>megu_000218
+<ptZ0101>megu_000218
+
+//OTHER
+<enZ0102>sato_000139
+<ptZ0102>sato_000139
+
+//OTHER
+<enZ0103>3_0708-2
+<ptZ0103>3_0708-2
+
+//OTHER
+<enZ0104>3_0708-2_trans
+<ptZ0104>3_0708-2_trans
+

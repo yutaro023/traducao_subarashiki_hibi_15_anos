@@ -1,0 +1,2092 @@
+//NAME
+<enN0001>Hasaki
+<ptN0001>Hasaki
+
+//NAME
+<enN0002>Kimura
+<ptN0002>Kimura
+
+//NAME
+<enN0003>Master
+<ptN0003>Master
+
+///================================================================================
+
+//TEXT
+<enT0001>How long has it been since Tomo Nii-san disappeared?
+<ptT0001>How long has it been since Tomo Nii-san disappeared?
+
+//TEXT
+<enT0002>The last time I saw him was the day before yesterday.
+<ptT0002>The last time I saw him was the day before yesterday.
+
+//TEXT
+<enT0003>I should've been more selfish back then.
+<ptT0003>I should've been more selfish back then.
+
+//TEXT
+<enT0004>Every time he leaves, I never know if I'll ever see him again.
+<ptT0004>Every time he leaves, I never know if I'll ever see him again.
+
+//TEXT 【Hasaki】
+<enT0005>"Haa..."
+<ptT0005>"Haa..."
+
+//TEXT
+<enT0006>I came to Kita High again.
+<ptT0006>I came to Kita High again.
+
+//TEXT
+<enT0007>I was hoping to meet Tomo Nii-san again.
+<ptT0007>I was hoping to meet Tomo Nii-san again.
+
+//TEXT
+<enT0008>But the Nii-san I saw at school was Takuji Nii-san, and then later there was a Yuki-san that I didn't know.
+<ptT0008>But the Nii-san I saw at school was Takuji Nii-san, and then later there was a Yuki-san that I didn't know.
+
+//TEXT
+<enT0009>They all look the same, but they're different people.
+<ptT0009>They all look the same, but they're different people.
+
+//TEXT
+<enT0010>I've heard that humans are creatures of habit.
+<ptT0010>I've heard that humans are creatures of habit.
+
+//TEXT
+<enT0011>Whether it's good or bad, if it happens every day, it just becomes normal.
+<ptT0011>Whether it's good or bad, if it happens every day, it just becomes normal.
+
+//TEXT
+<enT0012>Maybe that's why, even if I didn't have any reason...
+<ptT0012>Maybe that's why, even if I didn't have any reason...
+
+//TEXT
+<enT0013>I had a feeling that someday he would go back to normal.
+<ptT0013>I had a feeling that someday he would go back to normal.
+
+//TEXT 【Hasaki】
+<enT0014>"Ahahaha... There's no guarantee of that."
+<ptT0014>"Ahahaha... There's no guarantee of that."
+
+//TEXT
+<enT0015>Sometimes I even thought he could stay with me forever.
+<ptT0015>Sometimes I even thought he could stay with me forever.
+
+//TEXT 【Hasaki】
+<enT0016>"I'm not a student here, so he told me not to come to school too much."
+<ptT0016>"I'm not a student here, so he told me not to come to school too much."
+
+//TEXT 【Hasaki】
+<enT0017>"Well, here goes..."
+<ptT0017>"Well, here goes..."
+
+//TEXT
+<enT0018>If I do something Tomo Nii-san told me not to, maybe I'll be able to see him...
+<ptT0018>If I do something Tomo Nii-san told me not to, maybe I'll be able to see him...
+
+//TEXT
+<enT0019>Maybe it's silly of me to think that.
+<ptT0019>Maybe it's silly of me to think that.
+
+//TEXT
+<enT0020>Yuki-san bought lunch at the store, so I didn't have anything to deliver.
+<ptT0020>Yuki-san bought lunch at the store, so I didn't have anything to deliver.
+
+//TEXT 【Hasaki】
+<enT0021>"I don't have any real reason to be here... What am I doing?"
+<ptT0021>"I don't have any real reason to be here... What am I doing?"
+
+//TEXT
+<enT0022>I hugged my rabbit.
+<ptT0022>I hugged my rabbit.
+
+//TEXT
+<enT0023>Its head slumped to the side when I squeezed it.
+<ptT0023>Its head slumped to the side when I squeezed it.
+
+//TEXT
+<enT0024>This doll was larger than I was when I got it from Nii-san, but now it's so small.
+<ptT0024>This doll was larger than I was when I got it from Nii-san, but now it's so small.
+
+//TEXT
+<enT0025>So... sometimes I feel like I'm still as small as I was when I got it.
+<ptT0025>So... sometimes I feel like I'm still as small as I was when I got it.
+
+//TEXT
+<enT0026>I feel like I'm just one of the rabbit's dreams. Like the life I'm living now is just a dream I had when I was a child.
+<ptT0026>I feel like I'm just one of the rabbit's dreams. Like the life I'm living now is just a dream I had when I was a child.
+
+//TEXT
+<enT0027>Even I know that's just one of my delusions, though.
+<ptT0027>Even I know that's just one of my delusions, though.
+
+//TEXT
+<enT0028>But knowledge and emotion don't always agree.
+<ptT0028>But knowledge and emotion don't always agree.
+
+//TEXT
+<enT0029>With its inclined head, the rabbit looked like it was asking me a question.
+<ptT0029>With its inclined head, the rabbit looked like it was asking me a question.
+
+//TEXT
+<enT0030>But I couldn't hear its voice.
+<ptT0030>But I couldn't hear its voice.
+
+//TEXT
+<enT0031>Even though it always listened to me.
+<ptT0031>Even though it always listened to me.
+
+//TEXT 【Hasaki】
+<enT0032>"Huh?!"
+<ptT0032>"Huh?!"
+
+//TEXT
+<enT0033>What? Is someone there?
+<ptT0033>What? Is someone there?
+
+//TEXT
+<enT0034>It was just a quiet sound.
+<ptT0034>It was just a quiet sound.
+
+//TEXT
+<enT0035>It was almost inaudible. It was more like a disturbance in the air.
+<ptT0035>It was almost inaudible. It was more like a disturbance in the air.
+
+//TEXT 【Hasaki】
+<enT0036>"Ah!"
+<ptT0036>"Ah!"
+
+//TEXT 【Kimura】
+<enT0037>"Huh?"
+<ptT0037>"Huh?"
+
+//TEXT 【Hasaki】
+<enT0038>"Who... are you?"
+<ptT0038>"Who... are you?"
+
+//TEXT 【Kimura】
+<enT0039>"Oh, uh... Well, uh..."
+<ptT0039>"Oh, uh... Well, uh..."
+
+//TEXT 【Hasaki】
+<enT0040>"That's a big camera."
+<ptT0040>"That's a big camera."
+
+//TEXT 【Kimura】
+<enT0041>"Oh, uh... I'm a landscape photographer..."
+<ptT0041>"Oh, uh... I'm a landscape photographer..."
+
+//TEXT 【Hasaki】
+<enT0042>"Oh, is that so?"
+<ptT0042>"Oh, is that so?"
+
+//TEXT 【Kimura】
+<enT0043>"Um... Well then..."
+<ptT0043>"Um... Well then..."
+
+//TEXT 【Hasaki】
+<enT0044>"Ha!"
+<ptT0044>"Ha!"
+
+//TEXT 【Kimura】
+<enT0045>"Huh?"
+<ptT0045>"Huh?"
+
+//TEXT 【Kimura】
+<enT0046>"Aaaahh!"
+<ptT0046>"Aaaahh!"
+
+//TEXT 【Hasaki】
+<enT0047>"You were taking pictures, weren't you?"
+<ptT0047>"You were taking pictures, weren't you?"
+
+//TEXT 【Kimura】
+<enT0048>"Ow, ow! You're a martial artist too?! What kind of siblings are you?!"
+<ptT0048>"Ow, ow! You're a martial artist too?! What kind of siblings are you?!"
+
+//TEXT 【Hasaki】
+<enT0049>"Me too? What does that mean?"
+<ptT0049>"Me too? What does that mean?"
+
+//TEXT 【Kimura】
+<enT0050>"Ow, ow! You're gonna break it!"
+<ptT0050>"Ow, ow! You're gonna break it!"
+
+//TEXT 【Hasaki】
+<enT0051>"Were you... taking pictures of Tomo Nii-san?"
+<ptT0051>"Were you... taking pictures of Tomo Nii-san?"
+
+//TEXT 【Kimura】
+<enT0052>"Tomo Nii-san?"
+<ptT0052>"Tomo Nii-san?"
+
+//TEXT 【Hasaki】
+<enT0053>"Oh, uh... I mean Takuji Nii-san."
+<ptT0053>"Oh, uh... I mean Takuji Nii-san."
+
+//TEXT 【Kimura】
+<enT0054>"A-Ahaha... Why would you think I was taking pictures of your brother?
+<ptT0054>"A-Ahaha... Why would you think I was taking pictures of your brother?
+
+//TEXT
+<enT0055> Aaaah, ow, ow!"
+<ptT0055> Aaaah, ow, ow!"
+
+//TEXT 【Hasaki】
+<enT0056>"You know, I heard you mention siblings. I'm not gonna let you go now."
+<ptT0056>"You know, I heard you mention siblings. I'm not gonna let you go now."
+
+//TEXT 【Kimura】
+<enT0057>"E-Eek... Sorry, uh... could you loosen your grip a little?"
+<ptT0057>"E-Eek... Sorry, uh... could you loosen your grip a little?"
+
+//TEXT 【Hasaki】
+<enT0058>"No. You're following Nii-san around, aren't you? Maybe I should break one of your arms just to be safe?"
+<ptT0058>"No. You're following Nii-san around, aren't you? Maybe I should break one of your arms just to be safe?"
+
+//TEXT 【Kimura】
+<enT0059>"Wait, you're scaring me!"
+<ptT0059>"Wait, you're scaring me!"
+
+//TEXT 【Hasaki】
+<enT0060>"Why are you following Nii-san?"
+<ptT0060>"Why are you following Nii-san?"
+
+//TEXT 【Kimura】
+<enT0061>"Uh, well, I'm a landscape photographer, so...
+<ptT0061>"Uh, well, I'm a landscape photographer, so...
+
+//TEXT
+<enT0062> Gyaawawa, ow, oww!"
+<ptT0062> Gyaawawa, ow, oww!"
+
+//TEXT 【Hasaki】
+<enT0063>"If I push a few more centimeters, I'm sure you know what'll happen to your arm."
+<ptT0063>"If I push a few more centimeters, I'm sure you know what'll happen to your arm."
+
+//TEXT 【Kimura】
+<enT0064>"Y-You're a lot scarier than you look. You really are Takuji-kun's sister."
+<ptT0064>"Y-You're a lot scarier than you look. You really are Takuji-kun's sister."
+
+//TEXT 【Hasaki】
+<enT0065>"You can stop wasting your breath. Tell me why you're following Nii-san."
+<ptT0065>"You can stop wasting your breath. Tell me why you're following Nii-san."
+
+//TEXT 【Kimura】
+<enT0066>"U-Um! At first I was investigating the drug problem in today's youth."
+<ptT0066>"U-Um! At first I was investigating the drug problem in today's youth."
+
+//TEXT 【Hasaki】
+<enT0067>"Drug problem?"
+<ptT0067>"Drug problem?"
+
+//TEXT 【Kimura】
+<enT0068>"Yeah, lots of college students grow pot nowadays. My client wanted me to gather material about that."
+<ptT0068>"Yeah, lots of college students grow pot nowadays. My client wanted me to gather material about that."
+
+//TEXT 【Hasaki】
+<enT0069>"What does that have to do with my brother?"
+<ptT0069>"What does that have to do with my brother?"
+
+//TEXT 【Kimura】
+<enT0070>"Well... he's famous around here. His name came up a lot when I was investigating around here."
+<ptT0070>"Well... he's famous around here. His name came up a lot when I was investigating around here."
+
+//TEXT 【Hasaki】
+<enT0071>"Why would his name come up?"
+<ptT0071>"Why would his name come up?"
+
+//TEXT 【Kimura】
+<enT0072>"He extorts people and takes their drugs. All the drug dealers around here have noticed him."
+<ptT0072>"He extorts people and takes their drugs. All the drug dealers around here have noticed him."
+
+//TEXT 【Kimura】
+<enT0073>Even the yakuza have their hands in drugs, you know? And they're being targeted by some random guy off the street."
+<ptT0073>Even the yakuza have their hands in drugs, you know? And they're being targeted by some random guy off the street."
+
+//TEXT 【Hasaki】
+<enT0074>"What did he do?"
+<ptT0074>"What did he do?"
+
+//TEXT 【Kimura】
+<enT0075>"Like I said, he takes drugs away from people."
+<ptT0075>"Like I said, he takes drugs away from people."
+
+//TEXT 【Hasaki】
+<enT0076>"Huh? So he's doing drugs?"
+<ptT0076>"Huh? So he's doing drugs?"
+
+//TEXT 【Kimura】
+<enT0077>"Ahaha... At first, that's what I thought too. I was sure he was a junkie that needed to feed his habit."
+<ptT0077>"Ahaha... At first, that's what I thought too. I was sure he was a junkie that needed to feed his habit."
+
+//TEXT 【Kimura】
+<enT0078>"But after a while I noticed... it was way more than any one person could ever use. I thought maybe he was selling it."
+<ptT0078>"But after a while I noticed... it was way more than any one person could ever use. I thought maybe he was selling it."
+
+//TEXT 【Kimura】
+<enT0079>"So I tailed him for a while. It would've made a great article if I had found him stealing drugs from other people and reselling them."
+<ptT0079>"So I tailed him for a while. It would've made a great article if I had found him stealing drugs from other people and reselling them."
+
+//TEXT 【Hasaki】
+<enT0080>"So... was he?"
+<ptT0080>"So... was he?"
+
+//TEXT 【Kimura】
+<enT0081>"I was way off the mark. He wasn't selling it at all. He threw them all away."
+<ptT0081>"I was way off the mark. He wasn't selling it at all. He threw them all away."
+
+//TEXT 【Hasaki】
+<enT0082>"Oh..."
+<ptT0082>"Oh..."
+
+//TEXT 【Kimura】
+<enT0083>"Yeah... Why does he do that? It's so dangerous, and there's no real reason for him to do it."
+<ptT0083>"Yeah... Why does he do that? It's so dangerous, and there's no real reason for him to do it."
+
+//TEXT 【Hasaki】
+<enT0084>"..."
+<ptT0084>"..."
+
+//TEXT 【Kimura】
+<enT0085>"So I investigated, and I found out about Mamiya Takuji's past."
+<ptT0085>"So I investigated, and I found out about Mamiya Takuji's past."
+
+//TEXT 【Kimura】
+<enT0086>"And I found a lot of interesting stuff. The White Lotus Association... Your mother was involved with them, right?"
+<ptT0086>"And I found a lot of interesting stuff. The White Lotus Association... Your mother was involved with them, right?"
+
+//TEXT 【Hasaki】
+<enT0087>"So you investigated all that too."
+<ptT0087>"So you investigated all that too."
+
+//TEXT 【Kimura】
+<enT0088>"Yeah. I was reading old news articles about the White Lotus Association, and it said your mother was involved with the cult founder."
+<ptT0088>"Yeah. I was reading old news articles about the White Lotus Association, and it said your mother was involved with the cult founder."
+
+//TEXT 【Hasaki】
+<enT0089>"You're missing the most important part."
+<ptT0089>"You're missing the most important part."
+
+//TEXT 【Kimura】
+<enT0090>"W-Wait! Why do you two both act the same way?! I'm a pacifist! Stop!"
+<ptT0090>"W-Wait! Why do you two both act the same way?! I'm a pacifist! Stop!"
+
+//TEXT 【Hasaki】
+<enT0091>"We're siblings. We have to protect each other... So I have to eliminate problems before they come up."
+<ptT0091>"We're siblings. We have to protect each other... So I have to eliminate problems before they come up."
+
+//TEXT 【Kimura】
+<enT0092>"No, no, wait. I don't think it's that simple."
+<ptT0092>"No, no, wait. I don't think it's that simple."
+
+//TEXT 【Hasaki】
+<enT0093>"What do you mean?"
+<ptT0093>"What do you mean?"
+
+//TEXT 【Kimura】
+<enT0094>"Well, the way you're saying it, it sounds like everyone in the world is either trying to help or hurt you."
+<ptT0094>"Well, the way you're saying it, it sounds like everyone in the world is either trying to help or hurt you."
+
+//TEXT 【Hasaki】
+<enT0095>"I wouldn't say that."
+<ptT0095>"I wouldn't say that."
+
+//TEXT 【Kimura】
+<enT0096>"So let's just calm down. I know this camera makes me look suspicious, but does that mean I'm trying to hurt you? Does that make me an enemy?"
+<ptT0096>"So let's just calm down. I know this camera makes me look suspicious, but does that mean I'm trying to hurt you? Does that make me an enemy?"
+
+//TEXT 【Hasaki】
+<enT0097>"I definitely can't think of you as an ally."
+<ptT0097>"I definitely can't think of you as an ally."
+
+//TEXT 【Kimura】
+<enT0098>"Gyaaa... I-I told you, you can't just divide the world into enemies and allies."
+<ptT0098>"Gyaaa... I-I told you, you can't just divide the world into enemies and allies."
+
+//TEXT 【Hasaki】
+<enT0099>"What are you trying to say?"
+<ptT0099>"What are you trying to say?"
+
+//TEXT 【Kimura】
+<enT0100>"There are lots of strange things happening in this school, and you're brother is at the center of it."
+<ptT0100>"There are lots of strange things happening in this school, and you're brother is at the center of it."
+
+//TEXT 【Hasaki】
+<enT0101>"What? In the school?"
+<ptT0101>"What? In the school?"
+
+//TEXT 【Kimura】
+<enT0102>"Yeah, that's right. You didn't know? In the past few days, two students from this school have died."
+<ptT0102>"Yeah, that's right. You didn't know? In the past few days, two students from this school have died."
+
+//TEXT 【Hasaki】
+<enT0103>"Two students... have died?"
+<ptT0103>"Two students... have died?"
+
+//TEXT 【Kimura】
+<enT0104>"Yeah. In that short time period, there have been two deaths."
+<ptT0104>"Yeah. In that short time period, there have been two deaths."
+
+//TEXT 【Kimura】
+<enT0105>"The first was Shiroyama Tsubasa. He was a third-year student. I saw him buying and selling drugs a few times during my investigation. He liked going out at night and hanging out at clubs, too."
+<ptT0105>"The first was Shiroyama Tsubasa. He was a third-year student. I saw him buying and selling drugs a few times during my investigation. He liked going out at night and hanging out at clubs, too."
+
+//TEXT 【Hasaki】
+<enT0106>"What happened to him?"
+<ptT0106>"What happened to him?"
+
+//TEXT 【Kimura】
+<enT0107>"He died. It was five days ago, I think. He probably had an accident while he was on drugs. He fell from the school roof."
+<ptT0107>"He died. It was five days ago, I think. He probably had an accident while he was on drugs. He fell from the school roof."
+
+//TEXT 【Hasaki】
+<enT0108>"Who was the other?"
+<ptT0108>"Who was the other?"
+
+//TEXT 【Kimura】
+<enT0109>"Takashima Zakuro."
+<ptT0109>"Takashima Zakuro."
+
+//TEXT 【Hasaki】
+<enT0110>"Huh? T-Takashima Zakuro..."
+<ptT0110>"Huh? T-Takashima Zakuro..."
+
+//TEXT 【Kimura】
+<enT0111>"Yeah, she was a girl your brother knew. They were seen together several times in the days before she died."
+<ptT0111>"Yeah, she was a girl your brother knew. They were seen together several times in the days before she died."
+
+//TEXT 【Hasaki】
+<enT0112>"How did she die? An accident?"
+<ptT0112>"How did she die? An accident?"
+
+//TEXT 【Kimura】
+<enT0113>"No. Didn't you see it on the news?"
+<ptT0113>"No. Didn't you see it on the news?"
+
+//TEXT 【Hasaki】
+<enT0114>"I don't watch TV much."
+<ptT0114>"I don't watch TV much."
+
+//TEXT 【Kimura】
+<enT0115>"It was pretty sensational, so it got a lot of air time. Takashima and two girls from other schools jumped off an apartment building near Suginomiya station."
+<ptT0115>"It was pretty sensational, so it got a lot of air time. Takashima and two girls from other schools jumped off an apartment building near Suginomiya station."
+
+//TEXT 【Hasaki】
+<enT0116>"Two girls from another school? Does that mean it was a suicide?"
+<ptT0116>"Two girls from another school? Does that mean it was a suicide?"
+
+//TEXT 【Kimura】
+<enT0117>"Who knows? There hasn't been an official announcement yet, but it definitely looks like a suicide. They're saying on TV that they probably met online and formed a suicide pact."
+<ptT0117>"Who knows? There hasn't been an official announcement yet, but it definitely looks like a suicide. They're saying on TV that they probably met online and formed a suicide pact."
+
+//TEXT 【Hasaki】
+<enT0118>"They met online?"
+<ptT0118>"They met online?"
+
+//TEXT 【Kimura】
+<enT0119>"Oh, well, they weren't friends before they committed suicide. It's just an inference."
+<ptT0119>"Oh, well, they weren't friends before they committed suicide. It's just an inference."
+
+//TEXT 【Kimura】
+<enT0120>"But I couldn't find any posts they made on any sites about suicide."
+<ptT0120>"But I couldn't find any posts they made on any sites about suicide."
+
+//TEXT 【Kimura】
+<enT0121>"I don't think it was a suicide pact..."
+<ptT0121>"I don't think it was a suicide pact..."
+
+//TEXT 【Hasaki】
+<enT0122>"Then what do you think it was?"
+<ptT0122>"Then what do you think it was?"
+
+//TEXT 【Kimura】
+<enT0123>"I'm not the only one. Some people online have noticed the same thing. Their deaths weren't just a bunch of people meeting up and committing suicide."
+<ptT0123>"I'm not the only one. Some people online have noticed the same thing. Their deaths weren't just a bunch of people meeting up and committing suicide."
+
+//TEXT 【Hasaki】
+<enT0124>"Some people online?"
+<ptT0124>"Some people online?"
+
+//TEXT 【Kimura】
+<enT0125>"Yeah. We don't have any proof, but there are a lot of people sleuthing around."
+<ptT0125>"Yeah. We don't have any proof, but there are a lot of people sleuthing around."
+
+//TEXT 【Hasaki】
+<enT0126>"Sleuthing?"
+<ptT0126>"Sleuthing?"
+
+//TEXT 【Kimura】
+<enT0127>"Yeah, people on the Internet have a lot of free time, and there are a bunch of people trying to figure out what happened."
+<ptT0127>"Yeah, people on the Internet have a lot of free time, and there are a bunch of people trying to figure out what happened."
+
+//TEXT 【Kimura】
+<enT0128>"But they're at a dead end. There's one thing they can't investigate."
+<ptT0128>"But they're at a dead end. There's one thing they can't investigate."
+
+//TEXT 【Hasaki】
+<enT0129>"What's that?"
+<ptT0129>"What's that?"
+
+//TEXT 【Kimura】
+<enT0130>"There's a lot of speculation surrounding this one site..."
+<ptT0130>"There's a lot of speculation surrounding this one site..."
+
+//TEXT 【Kimura】
+<enT0131>"The school's underground message board."
+<ptT0131>"The school's underground message board."
+
+//TEXT 【Hasaki】
+<enT0132>"Underground message board?"
+<ptT0132>"Underground message board?"
+
+//TEXT 【Kimura】
+<enT0133>"Yeah... Well, technically it just means a message board that's not recognized by the school."
+<ptT0133>"Yeah... Well, technically it just means a message board that's not recognized by the school."
+
+//TEXT 【Kimura】
+<enT0134>"Everyone's talking about it, but only people with an account can see the message board."
+<ptT0134>"Everyone's talking about it, but only people with an account can see the message board."
+
+//TEXT 【Hasaki】
+<enT0135>"Um, I don't know much about the Internet, so I'm not sure what you mean."
+<ptT0135>"Um, I don't know much about the Internet, so I'm not sure what you mean."
+
+//TEXT 【Kimura】
+<enT0136>"You have to get approved by the administrator just to see the message board, and the administrator is pretty strict about who can make an account."
+<ptT0136>"You have to get approved by the administrator just to see the message board, and the administrator is pretty strict about who can make an account."
+
+//TEXT 【Kimura】
+<enT0137>"It's hard for an outsider to see the site at all, and anyone who looks suspicious can get banned in a second."
+<ptT0137>"It's hard for an outsider to see the site at all, and anyone who looks suspicious can get banned in a second."
+
+//TEXT 【Kimura】
+<enT0138>"Sometimes people get in, and they copy-paste threads onto other forums, or post screenshots."
+<ptT0138>"Sometimes people get in, and they copy-paste threads onto other forums, or post screenshots."
+
+//TEXT 【Hasaki】
+<enT0139>"U-Um, I don't know what those words mean..."
+<ptT0139>"U-Um, I don't know what those words mean..."
+
+//TEXT 【Kimura】
+<enT0140>"Oh, sorry, that's just net slang. Anyway, a lot of people on the Internet are paying attention. This could turn into a major incident."
+<ptT0140>"Oh, sorry, that's just net slang. Anyway, a lot of people on the Internet are paying attention. This could turn into a major incident."
+
+//TEXT 【Hasaki】
+<enT0141>"A major incident?"
+<ptT0141>"A major incident?"
+
+//TEXT 【Kimura】
+<enT0142>"Yeah, Kita High's Shiroyama Tsubasa... and then Takashima Zakuro, Tsukigawa Usami from Ebisugawa High, and Mizuo Ayumi from Seinogawa Girls' all died, and some people think this might just be the beginning."
+<ptT0142>"Yeah, Kita High's Shiroyama Tsubasa... and then Takashima Zakuro, Tsukigawa Usami from Ebisugawa High, and Mizuo Ayumi from Seinogawa Girls' all died, and some people think this might just be the beginning."
+
+//TEXT 【Hasaki】
+<enT0143>"The beginning? You mean..."
+<ptT0143>"The beginning? You mean..."
+
+//TEXT 【Kimura】
+<enT0144>"And your brother is at the center of it all."
+<ptT0144>"And your brother is at the center of it all."
+
+//TEXT 【Hasaki】
+<enT0145>"..."
+<ptT0145>"..."
+
+//TEXT 【Kimura】
+<enT0146>"Do you know about the prophecy that's supposed to be fulfilled this year?"
+<ptT0146>"Do you know about the prophecy that's supposed to be fulfilled this year?"
+
+//TEXT 【Hasaki】
+<enT0147>"..."
+<ptT0147>"..."
+
+//TEXT 【Hasaki】
+<enT0148>"The world's final day will come... and everything will return to the sky..."
+<ptT0148>"The world's final day will come... and everything will return to the sky..."
+
+//TEXT 【Kimura】
+<enT0149>"Apparently, the date carved in Mayan ruins corresponded to the year 2012. Though that's supposed to be in December."
+<ptT0149>"Apparently, the date carved in Mayan ruins corresponded to the year 2012. Though that's supposed to be in December."
+
+//TEXT 【Kimura】
+<enT0150>"But several people predicted the world would end on July 20th."
+<ptT0150>"But several people predicted the world would end on July 20th."
+
+//TEXT 【Kimura】
+<enT0151>"One of those people was the founder of the White Lotus Association."
+<ptT0151>"One of those people was the founder of the White Lotus Association."
+
+//TEXT 【Hasaki】
+<enT0152>"But the founder retracted his statement. He said he had caused a miracle and avoided the disaster."
+<ptT0152>"But the founder retracted his statement. He said he had caused a miracle and avoided the disaster."
+
+//TEXT 【Kimura】
+<enT0153>"Hehehe... You know all about this, huh? The founder of the White Lotus Association has retracted his statement, but that was seven years ago."
+<ptT0153>"Hehehe... You know all about this, huh? The founder of the White Lotus Association has retracted his statement, but that was seven years ago."
+
+//TEXT 【Kimura】
+<enT0154>"There are still people who believe in the prophecy."
+<ptT0154>"There are still people who believe in the prophecy."
+
+//TEXT 【Hasaki】
+<enT0155>"...What are you trying to say?"
+<ptT0155>"...What are you trying to say?"
+
+//TEXT 【Kimura】
+<enT0156>"Your mother... Or should I say, your former mother? I heard she got divorced. Her maiden name was Sanami, I believe."
+<ptT0156>"Your mother... Or should I say, your former mother? I heard she got divorced. Her maiden name was Sanami, I believe."
+
+//TEXT 【Hasaki】
+<enT0157>"She didn't get divorced! Our father died! Her name is still Mamiya Kotomi!"
+<ptT0157>"She didn't get divorced! Our father died! Her name is still Mamiya Kotomi!"
+
+//TEXT 【Kimura】
+<enT0158>"Oh, is it now?"
+<ptT0158>"Oh, is it now?"
+
+//TEXT 【Kimura】
+<enT0159>"But... your mother still believes. There's another site on the Internet that's been getting a lot of attention."
+<ptT0159>"But... your mother still believes. There's another site on the Internet that's been getting a lot of attention."
+
+//TEXT 【Hasaki】
+<enT0160>"The website my mother made, right?"
+<ptT0160>"The website my mother made, right?"
+
+//TEXT 【Kimura】
+<enT0161>"Yes, the predictions of the Web Bot Project. It still says that the world will end on July 20th, 2012."
+<ptT0161>"Yes, the predictions of the Web Bot Project. It still says that the world will end on July 20th, 2012."
+
+//TEXT 【Kimura】
+<enT0162>"The White Lotus Association denies the prophecy, but she still believes the world is going to end."
+<ptT0162>"The White Lotus Association denies the prophecy, but she still believes the world is going to end."
+
+//TEXT 【Hasaki】
+<enT0163>"Haa... You sure did do a good job finding all that out."
+<ptT0163>"Haa... You sure did do a good job finding all that out."
+
+//TEXT 【Kimura】
+<enT0164>"Ow, ow!"
+<ptT0164>"Ow, ow!"
+
+//TEXT 【Kimura】
+<enT0165>"W-Wait. Even if you beat me up, someone else will find out the truth soon."
+<ptT0165>"W-Wait. Even if you beat me up, someone else will find out the truth soon."
+
+//TEXT 【Kimura】
+<enT0166>"It's not just people online. There are other journalists asking around."
+<ptT0166>"It's not just people online. There are other journalists asking around."
+
+//TEXT 【Kimura】
+<enT0167>"If anything else happens, the police will probably start investigating too."
+<ptT0167>"If anything else happens, the police will probably start investigating too."
+
+//TEXT 【Kimura】
+<enT0168>"The mistress of the White Lotus Association's founder is running the Web Bot Project!"
+<ptT0168>"The mistress of the White Lotus Association's founder is running the Web Bot Project!"
+
+//TEXT 【Kimura】
+<enT0169>"And her son, Mamiya Takuji, is likely at the center of the latest incidents."
+<ptT0169>"And her son, Mamiya Takuji, is likely at the center of the latest incidents."
+
+//TEXT 【Kimura】
+<enT0170>"Gah..."
+<ptT0170>"Gah..."
+
+//TEXT 【Hasaki】
+<enT0171>"Huh?"
+<ptT0171>"Huh?"
+
+//TEXT 【Master】
+<enT0172>"Jeez, the mass media sure is garbage..."
+<ptT0172>"Jeez, the mass media sure is garbage..."
+
+//TEXT 【Hasaki】
+<enT0173>"Master..."
+<ptT0173>"Master..."
+
+//TEXT 【Master】
+<enT0174>"Don't worry, I didn't kill him. I just put him to sleep. Let's bring him back to the shop, instead of talking here."
+<ptT0174>"Don't worry, I didn't kill him. I just put him to sleep. Let's bring him back to the shop, instead of talking here."
+
+//TEXT 【Hasaki】
+<enT0175>"S-Sure..."
+<ptT0175>"S-Sure..."
+
+//TEXT
+<enT0176>Master picked up the self-proclaimed journalist and carried him on his back.
+<ptT0176>Master picked up the self-proclaimed journalist and carried him on his back.
+
+//TEXT 【Master】
+<enT0177>"So... who is this?"
+<ptT0177>"So... who is this?"
+
+//TEXT 【Hasaki】
+<enT0178>"He's a journalist, apparently."
+<ptT0178>"He's a journalist, apparently."
+
+//TEXT 【Master】
+<enT0179>"A journalist, huh? Well, what should we do with him?"
+<ptT0179>"A journalist, huh? Well, what should we do with him?"
+
+//TEXT 【Hasaki】
+<enT0180>"You're always sexually harassing Tomo Nii-san, so why don't you fulfill your urges with this guy?"
+<ptT0180>"You're always sexually harassing Tomo Nii-san, so why don't you fulfill your urges with this guy?"
+
+//TEXT 【Kimura】
+<enT0181>"Huh? Huh?! Wait, what do you mean by that?"
+<ptT0181>"Huh? Huh?! Wait, what do you mean by that?"
+
+//TEXT 【Hasaki】
+<enT0182>"Exactly what I said."
+<ptT0182>"Exactly what I said."
+
+//TEXT
+<enT0183>Master woke him up once we got to the store. It's amazing how he's always perfectly in control of the situation.
+<ptT0183>Master woke him up once we got to the store. It's amazing how he's always perfectly in control of the situation.
+
+//TEXT 【Master】
+<enT0184>"Hmm... He's not really my type, but...
+<ptT0184>"Hmm... He's not really my type, but...
+
+//TEXT
+<enT0185> I do like virgin boys..."
+<ptT0185> I do like virgin boys..."
+
+//TEXT 【Kimura】
+<enT0186>"No, wait, I'm not a virgin... Though I've only done it with prostitutes."
+<ptT0186>"No, wait, I'm not a virgin... Though I've only done it with prostitutes."
+
+//TEXT 【Master】
+<enT0187>"Ahahaha... What are you talking about?"
+<ptT0187>"Ahahaha... What are you talking about?"
+
+//TEXT 【Kimura】
+<enT0188>"Ahaha, y-yeah, that's ridiculous."
+<ptT0188>"Ahaha, y-yeah, that's ridiculous."
+
+//TEXT 【Master】
+<enT0189>"I was talking about your anal virginity. I love showing little straight boys how to walk on the wild side."
+<ptT0189>"I was talking about your anal virginity. I love showing little straight boys how to walk on the wild side."
+
+//TEXT 【Kimura】
+<enT0190>"Whoa, w-wait! They stuck their fingers in my ass, so I'm not a virgin there either!"
+<ptT0190>"Whoa, w-wait! They stuck their fingers in my ass, so I'm not a virgin there either!"
+
+//TEXT 【Master】
+<enT0191>"Ahahaha, a girl's fingers can't take away your virginity. You have to get a real man to stick something nice and juicy up there."
+<ptT0191>"Ahahaha, a girl's fingers can't take away your virginity. You have to get a real man to stick something nice and juicy up there."
+
+//TEXT 【Kimura】
+<enT0192>"E-Eeeek!"
+<ptT0192>"E-Eeeek!"
+
+//TEXT 【Hasaki】
+<enT0193>"U-Um... Th-That's really nasty."
+<ptT0193>"U-Um... Th-That's really nasty."
+
+//TEXT 【Master】
+<enT0194>"Oh, sorry about that...
+<ptT0194>"Oh, sorry about that...
+
+//TEXT
+<enT0195> So you're a jouranlist, Kimura-san?"
+<ptT0195> So you're a jouranlist, Kimura-san?"
+
+//TEXT 【Kimura】
+<enT0196>"Huh? H-How do you know my name?"
+<ptT0196>"Huh? H-How do you know my name?"
+
+//TEXT 【Master】
+<enT0197>"Not just that. I know your address and your phone number too. I searched all your stuff."
+<ptT0197>"Not just that. I know your address and your phone number too. I searched all your stuff."
+
+//TEXT 【Kimura】
+<enT0198>"N-No way..."
+<ptT0198>"N-No way..."
+
+//TEXT 【Master】
+<enT0199>"Not like I really care, but why the heck are you toting around this huge camera? You must stand out with this thing."
+<ptT0199>"Not like I really care, but why the heck are you toting around this huge camera? You must stand out with this thing."
+
+//TEXT 【Kimura】
+<enT0200>"Ah, don't touch that. I just got it fixed!"
+<ptT0200>"Ah, don't touch that. I just got it fixed!"
+
+//TEXT 【Master】
+<enT0201>"Hmm... So, back to our conversation earlier."
+<ptT0201>"Hmm... So, back to our conversation earlier."
+
+//TEXT 【Kimura】
+<enT0202>"What do you mean?"
+<ptT0202>"What do you mean?"
+
+//TEXT 【Master】
+<enT0203>"You said there were lots of people talking about the incidents at Kita High."
+<ptT0203>"You said there were lots of people talking about the incidents at Kita High."
+
+//TEXT 【Kimura】
+<enT0204>"Well yeah, a lot of crazy stuff went down."
+<ptT0204>"Well yeah, a lot of crazy stuff went down."
+
+//TEXT 【Master】
+<enT0205>"Crazy stuff, huh..."
+<ptT0205>"Crazy stuff, huh..."
+
+//TEXT 【Hasaki】
+<enT0206>"He said two people that Nii-san knew have died."
+<ptT0206>"He said two people that Nii-san knew have died."
+
+//TEXT 【Hasaki】
+<enT0207>"And... Mom's site..."
+<ptT0207>"And... Mom's site..."
+
+//TEXT 【Master】
+<enT0208>"I thought that site hadn't been updated in ages?"
+<ptT0208>"I thought that site hadn't been updated in ages?"
+
+//TEXT 【Hasaki】
+<enT0209>"Yeah, she's just been sitting in front of the computer every day since then. I don't think the site has been updated."
+<ptT0209>"Yeah, she's just been sitting in front of the computer every day since then. I don't think the site has been updated."
+
+//TEXT 【Kimura】
+<enT0210>"How long has it been? There are lots of rumors going around that the site hasn't been updated for a while."
+<ptT0210>"How long has it been? There are lots of rumors going around that the site hasn't been updated for a while."
+
+//TEXT 【Master】
+<enT0211>"Why are there rumors about that?"
+<ptT0211>"Why are there rumors about that?"
+
+//TEXT 【Kimura】
+<enT0212>"Well, the site looks like it's operating automatically, and apparently the predictions actually come true..."
+<ptT0212>"Well, the site looks like it's operating automatically, and apparently the predictions actually come true..."
+
+//TEXT 【Master】
+<enT0213>"Really?"
+<ptT0213>"Really?"
+
+//TEXT 【Hasaki】
+<enT0214>"No... I wonder... I think it uses a program..."
+<ptT0214>"No... I wonder... I think it uses a program..."
+
+//TEXT 【Kimura】
+<enT0215>"What? So it uses a program to predict the future?"
+<ptT0215>"What? So it uses a program to predict the future?"
+
+//TEXT 【Hasaki】
+<enT0216>"I wouldn't really say it predicts the future..."
+<ptT0216>"I wouldn't really say it predicts the future..."
+
+//TEXT 【Kimura】
+<enT0217>"Does that mean a program is writing those predictions?"
+<ptT0217>"Does that mean a program is writing those predictions?"
+
+//TEXT 【Hasaki】
+<enT0218>"Well... According to Yuki-san, it takes trending keywords on the Internet and uses those to write the predictions."
+<ptT0218>"Well... According to Yuki-san, it takes trending keywords on the Internet and uses those to write the predictions."
+
+//TEXT 【Kimura】
+<enT0219>"Huh? What do you mean?"
+<ptT0219>"Huh? What do you mean?"
+
+//TEXT 【Hasaki】
+<enT0220>"It's writing predictions for things that already happened."
+<ptT0220>"It's writing predictions for things that already happened."
+
+//TEXT 【Kimura】
+<enT0221>"What good is that?!"
+<ptT0221>"What good is that?!"
+
+//TEXT 【Hasaki】
+<enT0222>"It's in beta right now. All it can do right now is take popular keywords and post them as predictions."
+<ptT0222>"It's in beta right now. All it can do right now is take popular keywords and post them as predictions."
+
+//TEXT 【Kimura】
+<enT0223>"How can you call that a prediction?"
+<ptT0223>"How can you call that a prediction?"
+
+//TEXT 【Hasaki】
+<enT0224>"Um... From what I've heard, the time required to post the predictions will grow shorter and shorter, and ultimately it will be able to post the predictions before anyone else on the Internet mentions it."
+<ptT0224>"Um... From what I've heard, the time required to post the predictions will grow shorter and shorter, and ultimately it will be able to post the predictions before anyone else on the Internet mentions it."
+
+//TEXT 【Kimura】
+<enT0225>"That's ridiculous."
+<ptT0225>"That's ridiculous."
+
+//TEXT 【Hasaki】
+<enT0226>"Really? At first it took several days to post a prediction, but now it can post them within seconds."
+<ptT0226>"Really? At first it took several days to post a prediction, but now it can post them within seconds."
+
+//TEXT 【Hasaki】
+<enT0227>"That's why she said it would overtake the future soon."
+<ptT0227>"That's why she said it would overtake the future soon."
+
+//TEXT 【Kimura】
+<enT0228>"It won't, though..."
+<ptT0228>"It won't, though..."
+
+//TEXT 【Master】
+<enT0229>"Don't you think it's pretty impressive, though?"
+<ptT0229>"Don't you think it's pretty impressive, though?"
+
+//TEXT 【Hasaki】
+<enT0230>"Yeah, Yuki-san spent a lot of time on it when she was bored. Apparently, it's really close to overtaking the future."
+<ptT0230>"Yeah, Yuki-san spent a lot of time on it when she was bored. Apparently, it's really close to overtaking the future."
+
+//TEXT 【Kimura】
+<enT0231>"I told you, that's not the problem here..."
+<ptT0231>"I told you, that's not the problem here..."
+
+//TEXT 【Kimura】
+<enT0232>"I started researching the Web Bot Project on the Internet, and it's supposed to be way more than just that."
+<ptT0232>"I started researching the Web Bot Project on the Internet, and it's supposed to be way more than just that."
+
+//TEXT 【Hasaki】
+<enT0233>"Yeah, Yuki-san said something like that."
+<ptT0233>"Yeah, Yuki-san said something like that."
+
+//TEXT 【Hasaki】
+<enT0234>"She said occult stuff like the Web Bot Project was impossible."
+<ptT0234>"She said occult stuff like the Web Bot Project was impossible."
+
+//TEXT 【Hasaki】
+<enT0235>"She said it wasn't a problem of just improving the system, but that the theory itself is flawed... That's why she said it was just a superstition."
+<ptT0235>"She said it wasn't a problem of just improving the system, but that the theory itself is flawed... That's why she said it was just a superstition."
+
+//TEXT 【Master】
+<enT0236>"Haa... That sure sounds like Yuki, all right..."
+<ptT0236>"Haa... That sure sounds like Yuki, all right..."
+
+//TEXT 【Master】
+<enT0237>"She says it's impossible, but she was still too curious to pass up a chance to play around with it."
+<ptT0237>"She says it's impossible, but she was still too curious to pass up a chance to play around with it."
+
+//TEXT 【Master】
+<enT0238>"So that means Yuki is part of the problem here..."
+<ptT0238>"So that means Yuki is part of the problem here..."
+
+//TEXT 【Hasaki】
+<enT0239>"Ahaha... I guess so. Maybe we should delete the page."
+<ptT0239>"Ahaha... I guess so. Maybe we should delete the page."
+
+//TEXT 【Kimura】
+<enT0240>"No, I don't think you should. If you do, the only thing left behind will be the rumors about its predictions coming true."
+<ptT0240>"No, I don't think you should. If you do, the only thing left behind will be the rumors about its predictions coming true."
+
+//TEXT 【Kimura】
+<enT0241>"If it's just making predictions after the fact, people will figure it out eventually."
+<ptT0241>"If it's just making predictions after the fact, people will figure it out eventually."
+
+//TEXT 【Master】
+<enT0242>"I guess so... If we delete it, we won't have any proof that it's fake."
+<ptT0242>"I guess so... If we delete it, we won't have any proof that it's fake."
+
+//TEXT 【Kimura】
+<enT0243>"On the Internet, it just takes one piece of decisive evidence to prove something true or false, but..."
+<ptT0243>"On the Internet, it just takes one piece of decisive evidence to prove something true or false, but..."
+
+//TEXT 【Master】
+<enT0244>"If there's no way to prove it either way, people will speculate about it for years."
+<ptT0244>"If there's no way to prove it either way, people will speculate about it for years."
+
+//TEXT 【Kimura】
+<enT0245>"Of course, most people on the Internet are just curious. It's not like they actually believe in prophecies, but still..."
+<ptT0245>"Of course, most people on the Internet are just curious. It's not like they actually believe in prophecies, but still..."
+
+//TEXT 【Kimura】
+<enT0246>"The Web Bot Project website hasn't changed at all in the past few days."
+<ptT0246>"The Web Bot Project website hasn't changed at all in the past few days."
+
+//TEXT 【Kimura】
+<enT0247>"Rather, the rumors on the Internet right now are all about the Web Bot Project's past predictions. If the system's predictions are what people are talking about on the Internet, then..."
+<ptT0247>"Rather, the rumors on the Internet right now are all about the Web Bot Project's past predictions. If the system's predictions are what people are talking about on the Internet, then..."
+
+//TEXT 【Master】
+<enT0248>"There's no need to make a new prediction."
+<ptT0248>"There's no need to make a new prediction."
+
+//TEXT 【Kimura】
+<enT0249>"Though that'll change once something new crops up."
+<ptT0249>"Though that'll change once something new crops up."
+
+//TEXT 【Hasaki】
+<enT0250>"Putting that aside, what do you mean by occult? I don't really know anything about that stuff..."
+<ptT0250>"Putting that aside, what do you mean by occult? I don't really know anything about that stuff..."
+
+//TEXT 【Master】
+<enT0251>"Well, that's..."
+<ptT0251>"Well, that's..."
+
+//TEXT 【Hasaki】
+<enT0252>"Huh? N-No way... B-But..."
+<ptT0252>"Huh? N-No way... B-But..."
+
+//TEXT 【Kimura】
+<enT0253>"What? You must've made some crap up, old man... The occult isn't the kind of thing that would make a girl blush!"
+<ptT0253>"What? You must've made some crap up, old man... The occult isn't the kind of thing that would make a girl blush!"
+
+//TEXT 【Master】
+<enT0254>"Jeez, how can you tell? Maybe I should fix that dumb mouth of yours for good..."
+<ptT0254>"Jeez, how can you tell? Maybe I should fix that dumb mouth of yours for good..."
+
+//TEXT 【Kimura】
+<enT0255>"Oh, no, don't mind me. Ahahaha."
+<ptT0255>"Oh, no, don't mind me. Ahahaha."
+
+//TEXT 【Hasaki】
+<enT0256>"Either way, Yuki-san said that the system can't make a prediction right now."
+<ptT0256>"Either way, Yuki-san said that the system can't make a prediction right now."
+
+//TEXT 【Kimura】
+<enT0257>"But still, I'm really amazed that no one's figured it out... Though I have to say, I'm kinda skeptical that it could make those predictions in just a few seconds."
+<ptT0257>"But still, I'm really amazed that no one's figured it out... Though I have to say, I'm kinda skeptical that it could make those predictions in just a few seconds."
+
+//TEXT 【Master】
+<enT0258>"So what kind of rumors have there been about Kita High lately?"
+<ptT0258>"So what kind of rumors have there been about Kita High lately?"
+
+//TEXT 【Kimura】
+<enT0259>"The Web Bot Project has designated July 20th of this year as the date of a tragedy. It said those girls committed suicide in order to escape the disaster."
+<ptT0259>"The Web Bot Project has designated July 20th of this year as the date of a tragedy. It said those girls committed suicide in order to escape the disaster."
+
+//TEXT 【Hasaki】
+<enT0260>"They committed suicide in order to escape?"
+<ptT0260>"They committed suicide in order to escape?"
+
+//TEXT 【Master】
+<enT0261>"If they were so afraid of dying, why would they commit suicide?"
+<ptT0261>"If they were so afraid of dying, why would they commit suicide?"
+
+//TEXT 【Kimura】
+<enT0262>"Don't ask me. I just heard that those girls claimed the world would end on July 20th just before they committed suicide."
+<ptT0262>"Don't ask me. I just heard that those girls claimed the world would end on July 20th just before they committed suicide."
+
+//TEXT 【Hasaki】
+<enT0263>"Oh... So she..."
+<ptT0263>"Oh... So she..."
+
+//TEXT 【Master】
+<enT0264>"Did you know the girl who committed suicide, Hasaki-chan?"
+<ptT0264>"Did you know the girl who committed suicide, Hasaki-chan?"
+
+//TEXT 【Hasaki】
+<enT0265>"Oh, no. I wouldn't say that. I just met her once when I was with Tomo Nii-san and Yuki-san..."
+<ptT0265>"Oh, no. I wouldn't say that. I just met her once when I was with Tomo Nii-san and Yuki-san..."
+
+//TEXT 【Kimura】
+<enT0266>"You keep mentioning him, but who is Tomo Nii-san?"
+<ptT0266>"You keep mentioning him, but who is Tomo Nii-san?"
+
+//TEXT 【Master】
+<enT0267>"Shut up, would you? You're not in a position to be asking questions."
+<ptT0267>"Shut up, would you? You're not in a position to be asking questions."
+
+//TEXT 【Kimura】
+<enT0268>"I thought Takuji-kun was your only brother..."
+<ptT0268>"I thought Takuji-kun was your only brother..."
+
+//TEXT 【Hasaki】
+<enT0269>"Takuji Nii-san isn't my only brother..."
+<ptT0269>"Takuji Nii-san isn't my only brother..."
+
+//TEXT 【Kimura】
+<enT0270>"What do you mean?"
+<ptT0270>"What do you mean?"
+
+//TEXT 【Master】
+<enT0271>"I told you to shut up..."
+<ptT0271>"I told you to shut up..."
+
+//TEXT 【Kimura】
+<enT0272>"Agh!"
+<ptT0272>"Agh!"
+
+//TEXT 【Hasaki】
+<enT0273>"So are they talking about my brother on the Internet too?"
+<ptT0273>"So are they talking about my brother on the Internet too?"
+
+//TEXT 【Kimura】
+<enT0274>"Hmm... Well, no one's mentioned him by name, but there are definitely rumors that something big is gonna happen at Kita High."
+<ptT0274>"Hmm... Well, no one's mentioned him by name, but there are definitely rumors that something big is gonna happen at Kita High."
+
+//TEXT 【Kimura】
+<enT0275>"They say the ringleader is a male student from Kita High, but no outsiders have access to the underground message board, which is the epicenter of all the rumors."
+<ptT0275>"They say the ringleader is a male student from Kita High, but no outsiders have access to the underground message board, which is the epicenter of all the rumors."
+
+//TEXT 【Hasaki】
+<enT0276>"So that's... Takuji Nii-san..."
+<ptT0276>"So that's... Takuji Nii-san..."
+
+//TEXT 【Master】
+<enT0277>"..."
+<ptT0277>"..."
+
+//TEXT 【Master】
+<enT0278>"How much do they know about him?"
+<ptT0278>"How much do they know about him?"
+
+//TEXT 【Kimura】
+<enT0279>"I'm not sure, but I realized it, so other people with good intuition might've noticed him too."
+<ptT0279>"I'm not sure, but I realized it, so other people with good intuition might've noticed him too."
+
+//TEXT 【Master】
+<enT0280>"Is it true that people on the Internet can track down your address if they know your real name?"
+<ptT0280>"Is it true that people on the Internet can track down your address if they know your real name?"
+
+//TEXT 【Kimura】
+<enT0281>"I guess so? I couldn't say for sure, but it's certainly possible that they could find his address and phone number."
+<ptT0281>"I guess so? I couldn't say for sure, but it's certainly possible that they could find his address and phone number."
+
+//TEXT 【Master】
+<enT0282>"Do you think we're fine for now?"
+<ptT0282>"Do you think we're fine for now?"
+
+//TEXT 【Kimura】
+<enT0283>"Right now... Well, people are just trying to gather information without causing a fuss... But depending on what they find out, you might start getting unsolicited calls."
+<ptT0283>"Right now... Well, people are just trying to gather information without causing a fuss... But depending on what they find out, you might start getting unsolicited calls."
+
+//TEXT 【Hasaki】
+<enT0284>"Calls? You mean from people we don't know?"
+<ptT0284>"Calls? You mean from people we don't know?"
+
+//TEXT 【Kimura】
+<enT0285>"Yeah, they do that on the Internet sometimes. They call businesses or famous people and post the conversations online.
+<ptT0285>"Yeah, they do that on the Internet sometimes. They call businesses or famous people and post the conversations online.
+
+//TEXT 【Hasaki】
+<enT0286>"What for?"
+<ptT0286>"What for?"
+
+//TEXT 【Kimura】
+<enT0287>"Well, I guess some of them do it to get information, but most people just do it as a form of harassment."
+<ptT0287>"Well, I guess some of them do it to get information, but most people just do it as a form of harassment."
+
+//TEXT 【Master】
+<enT0288>"You mean like when someone calls and immediately hangs up?"
+<ptT0288>"You mean like when someone calls and immediately hangs up?"
+
+//TEXT 【Kimura】
+<enT0289>"Well, it's a bit different from that old prank. Usually, they record the call so they can post it online."
+<ptT0289>"Well, it's a bit different from that old prank. Usually, they record the call so they can post it online."
+
+//TEXT 【Master】
+<enT0290>"Huh... They must have a lot of free time."
+<ptT0290>"Huh... They must have a lot of free time."
+
+//TEXT 【Kimura】
+<enT0291>"Most people do it to kill time, after all."
+<ptT0291>"Most people do it to kill time, after all."
+
+//TEXT 【Master】
+<enT0292>"They harass people just to kill time? There are an awful lot of terrible people in this country nowadays."
+<ptT0292>"They harass people just to kill time? There are an awful lot of terrible people in this country nowadays."
+
+//TEXT 【Kimura】
+<enT0293>"Well, there are laws against public indignation and the sort..."
+<ptT0293>"Well, there are laws against public indignation and the sort..."
+
+//TEXT 【Hasaki】
+<enT0294>"But we don't have a phone at our house. All we have is an Internet connection."
+<ptT0294>"But we don't have a phone at our house. All we have is an Internet connection."
+
+//TEXT 【Kimura】
+<enT0295>"I think it's more common to call someone's school or work than their home."
+<ptT0295>"I think it's more common to call someone's school or work than their home."
+
+//TEXT 【Master】
+<enT0296>"So they could do it any time, couldn't they? They already know that he goes to Kita High, don't they?"
+<ptT0296>"So they could do it any time, couldn't they? They already know that he goes to Kita High, don't they?"
+
+//TEXT 【Kimura】
+<enT0297>"Like I said, people just seem to be investigating right now."
+<ptT0297>"Like I said, people just seem to be investigating right now."
+
+//TEXT 【Master】
+<enT0298>"So it's just a matter of time until they find out where the Mamiya house is..."
+<ptT0298>"So it's just a matter of time until they find out where the Mamiya house is..."
+
+//TEXT 【Kimura】
+<enT0299>"Probably."
+<ptT0299>"Probably."
+
+//TEXT 【Master】
+<enT0300>"I see...
+<ptT0300>"I see...
+
+//TEXT
+<enT0301> Okay, Hasaki-chan."
+<ptT0301> Okay, Hasaki-chan."
+
+//TEXT 【Hasaki】
+<enT0302>"Yes?"
+<ptT0302>"Yes?"
+
+//TEXT 【Master】
+<enT0303>"From now on, you're staying here."
+<ptT0303>"From now on, you're staying here."
+
+//TEXT 【Hasaki】
+<enT0304>"Huh? B-But..."
+<ptT0304>"Huh? B-But..."
+
+//TEXT 【Master】
+<enT0305>"Write down everything you need."
+<ptT0305>"Write down everything you need."
+
+//TEXT 【Kimura】
+<enT0306>"That might be a good idea. It might get a little noisy over at your house."
+<ptT0306>"That might be a good idea. It might get a little noisy over at your house."
+
+//TEXT 【Master】
+<enT0307>"Yeah, so make this Kimura guy run and get whatever you need from the house."
+<ptT0307>"Yeah, so make this Kimura guy run and get whatever you need from the house."
+
+//TEXT 【Kimura】
+<enT0308>"Me?"
+<ptT0308>"Me?"
+
+//TEXT 【Master】
+<enT0309>"That's right. I guess you don't have to... if you don't care about your camera."
+<ptT0309>"That's right. I guess you don't have to... if you don't care about your camera."
+
+//TEXT 【Kimura】
+<enT0310>"That's my beautiful fighting Nikon D3 Camera!"
+<ptT0310>"That's my beautiful fighting Nikon D3 Camera!"
+
+//TEXT 【Master】
+<enT0311>"Oh, this camera can fight? Maybe I should use it as a weapon next time I get a chance."
+<ptT0311>"Oh, this camera can fight? Maybe I should use it as a weapon next time I get a chance."
+
+//TEXT 【Kimura】
+<enT0312>"Wait, that's my heart and soul!"
+<ptT0312>"Wait, that's my heart and soul!"
+
+//TEXT 【Master】
+<enT0313>"Then I'll tear your heart out. You know, they used to call my fist the 10cm Bomb..."
+<ptT0313>"Then I'll tear your heart out. You know, they used to call my fist the 10cm Bomb..."
+
+//TEXT 【Kimura】
+<enT0314>"What?! Are you some kind of mercenary boxer?"
+<ptT0314>"What?! Are you some kind of mercenary boxer?"
+
+//TEXT 【Hasaki】
+<enT0315>"Maybe I was Youhei?"
+<ptT0315>"Maybe I was Youhei?"
+
+//TEXT 【Kimura】
+<enT0316>"Uh, wait, no one but old men are going to get that joke. Really, that wasn't funny at all."
+<ptT0316>"Uh, wait, no one but old men are going to get that joke. Really, that wasn't funny at all."
+
+//TEXT 【Master】
+<enT0317>"I'm not an old man! I'm an old woman!"
+<ptT0317>"I'm not an old man! I'm an old woman!"
+
+//TEXT 【Kimura】
+<enT0318>"Gughah!"
+<ptT0318>"Gughah!"
+
+//TEXT 【Hasaki】
+<enT0319>"Th-That's what you're mad about?"
+<ptT0319>"Th-That's what you're mad about?"
+
+//TEXT 【Master】
+<enT0320>"And that last part was a parody of Dr. Narihara."
+<ptT0320>"And that last part was a parody of Dr. Narihara."
+
+//TEXT 【Kimura】
+<enT0321>"Y-You're crazy... Jeez..."
+<ptT0321>"Y-You're crazy... Jeez..."
+
+//TEXT 【Kimura】
+<enT0322>"Eek! I-I'm here..."
+<ptT0322>"Eek! I-I'm here..."
+
+//TEXT 【Master】
+<enT0323>"What took so long?"
+<ptT0323>"What took so long?"
+
+//TEXT 【Kimura】
+<enT0324>"There was too much stuff. Are you moving in or what?"
+<ptT0324>"There was too much stuff. Are you moving in or what?"
+
+//TEXT 【Master】
+<enT0325>"Of course there's a lot. She's a girl, so she has to have her necessities."
+<ptT0325>"Of course there's a lot. She's a girl, so she has to have her necessities."
+
+//TEXT 【Kimura】
+<enT0326>"But why does she need the entire dresser?!"
+<ptT0326>"But why does she need the entire dresser?!"
+
+//TEXT 【Master】
+<enT0327>"That's a dumb question! We can't let you touch her underwear, now can we?!"
+<ptT0327>"That's a dumb question! We can't let you touch her underwear, now can we?!"
+
+//TEXT 【Kimura】
+<enT0328>"Haa... So that's why."
+<ptT0328>"Haa... So that's why."
+
+//TEXT 【Master】
+<enT0329>"Of course!"
+<ptT0329>"Of course!"
+
+//TEXT 【Hasaki】
+<enT0330>"Ahaha... Sorry..."
+<ptT0330>"Ahaha... Sorry..."
+
+//TEXT 【Master】
+<enT0331>"The room upstairs is free."
+<ptT0331>"The room upstairs is free."
+
+//TEXT 【Hasaki】
+<enT0332>"No, it's not. There's only your room up there."
+<ptT0332>"No, it's not. There's only your room up there."
+
+//TEXT 【Master】
+<enT0333>"I told you, you can have that room."
+<ptT0333>"I told you, you can have that room."
+
+//TEXT 【Hasaki】
+<enT0334>"What about you?"
+<ptT0334>"What about you?"
+
+//TEXT 【Master】
+<enT0335>"I'll go sleep with my boyfriend."
+<ptT0335>"I'll go sleep with my boyfriend."
+
+//TEXT 【Kimura】
+<enT0336>"Ahaha... It's kinda nasty hearing you say that."
+<ptT0336>"Ahaha... It's kinda nasty hearing you say that."
+
+//TEXT 【Kimura】
+<enT0337>"Gughah!"
+<ptT0337>"Gughah!"
+
+//TEXT 【Hasaki】
+<enT0338>"Um, Master... If you don't mind, I'd like to sleep in the store."
+<ptT0338>"Um, Master... If you don't mind, I'd like to sleep in the store."
+
+//TEXT 【Master】
+<enT0339>"No way. I can't let a girl sleep in a place like this."
+<ptT0339>"No way. I can't let a girl sleep in a place like this."
+
+//TEXT 【Hasaki】
+<enT0340>"Really? I could sleep on the sofa in the back."
+<ptT0340>"Really? I could sleep on the sofa in the back."
+
+//TEXT 【Master】
+<enT0341>"What are you talking about? You'll be sore and tired when you wake up."
+<ptT0341>"What are you talking about? You'll be sore and tired when you wake up."
+
+//TEXT 【Hasaki】
+<enT0342>"No, I won't. It's plenty big enough for me, so I won't notice at all, and besides..."
+<ptT0342>"No, I won't. It's plenty big enough for me, so I won't notice at all, and besides..."
+
+//TEXT 【Master】
+<enT0343>"What?"
+<ptT0343>"What?"
+
+//TEXT 【Hasaki】
+<enT0344>"If Tomo Nii-san or the old Yuki-san comes in, I want to be the first one to meet them."
+<ptT0344>"If Tomo Nii-san or the old Yuki-san comes in, I want to be the first one to meet them."
+
+//TEXT 【Master】
+<enT0345>"Hasaki-chan..."
+<ptT0345>"Hasaki-chan..."
+
+//TEXT 【Hasaki】
+<enT0346>"Really, I would rather stay at home, but to be honest, it's really hard to watch Yuki-san when she treats me like that."
+<ptT0346>"Really, I would rather stay at home, but to be honest, it's really hard to watch Yuki-san when she treats me like that."
+
+//TEXT 【Hasaki】
+<enT0347>"So I really have to thank you for letting me stay here."
+<ptT0347>"So I really have to thank you for letting me stay here."
+
+//TEXT 【Master】
+<enT0348>"What? You could've asked any time."
+<ptT0348>"What? You could've asked any time."
+
+//TEXT 【Hasaki】
+<enT0349>"Sorry... but I didn't want to be selfish."
+<ptT0349>"Sorry... but I didn't want to be selfish."
+
+//TEXT 【Master】
+<enT0350>"Silly girl."
+<ptT0350>"Silly girl."
+
+//TEXT 【Hasaki】
+<enT0351>"Ah..."
+<ptT0351>"Ah..."
+
+//TEXT
+<enT0352>Master gently embraced me.
+<ptT0352>Master gently embraced me.
+
+//TEXT 【Master】
+<enT0353>"You're the girl she gave her life to protect, so you're my daughter..."
+<ptT0353>"You're the girl she gave her life to protect, so you're my daughter..."
+
+//TEXT 【Master】
+<enT0354>"And Tomosane is my son. Even now, she's protecting you both. I'm sure of that."
+<ptT0354>"And Tomosane is my son. Even now, she's protecting you both. I'm sure of that."
+
+//TEXT 【Master】
+<enT0355>"The doctor might disagree... Maybe most people would disagree..."
+<ptT0355>"The doctor might disagree... Maybe most people would disagree..."
+
+//TEXT 【Master】
+<enT0356>"But... I believe. She protected you before, and now she's protecting Tomosane."
+<ptT0356>"But... I believe. She protected you before, and now she's protecting Tomosane."
+
+//TEXT 【Master】
+<enT0357>"From all the curses... From all the ghosts..."
+<ptT0357>"From all the curses... From all the ghosts..."
+
+//TEXT 【Hasaki】
+<enT0358>"Yes."
+<ptT0358>"Yes."
+
+//TEXT
+<enT0359>I hugged Master back.
+<ptT0359>I hugged Master back.
+
+//TEXT
+<enT0360>Our father died, and our mother ended up like that... Ever since, it's been Master Minakami who's been looking out for me and my brother.
+<ptT0360>Our father died, and our mother ended up like that... Ever since, it's been Master Minakami who's been looking out for me and my brother.
+
+//TEXT
+<enT0361>Maybe he's been spoiling me.
+<ptT0361>Maybe he's been spoiling me.
+
+//TEXT
+<enT0362>I cried into Master's chest.
+<ptT0362>I cried into Master's chest.
+
+//TEXT
+<enT0363>I don't know why. I just needed to cry.
+<ptT0363>I don't know why. I just needed to cry.
+
+///================================================================================
+
+//OTHER
+<enZ0001>5_0715.bss
+<ptZ0001>5_0715.bss
+
+//OTHER
+<enZ0002>July 15th
+<ptZ0002>July 15th
+
+//OTHER
+<enZ0003>Which Dreamed It
+<ptZ0003>Which Dreamed It
+
+//OTHER
+<enZ0004>map023
+<ptZ0004>map023
+
+//OTHER
+<enZ0005>dayhs0715
+<ptZ0005>dayhs0715
+
+//OTHER
+<enZ0006>bgm017
+<ptZ0006>bgm017
+
+//OTHER
+<enZ0007>hasa_000745
+<ptZ0007>hasa_000745
+
+//OTHER
+<enZ0008>bg1009a
+<ptZ0008>bg1009a
+
+//OTHER
+<enZ0009>hasa_000746
+<ptZ0009>hasa_000746
+
+//OTHER
+<enZ0010>hasa_000747
+<ptZ0010>hasa_000747
+
+//OTHER
+<enZ0011>hasa_000748
+<ptZ0011>hasa_000748
+
+//OTHER
+<enZ0012>hasa_000749
+<ptZ0012>hasa_000749
+
+//OTHER
+<enZ0013>hasa_000750
+<ptZ0013>hasa_000750
+
+//OTHER
+<enZ0014>hasa_000751
+<ptZ0014>hasa_000751
+
+//OTHER
+<enZ0015>se019
+<ptZ0015>se019
+
+//OTHER
+<enZ0016>map001
+<ptZ0016>map001
+
+//OTHER
+<enZ0017>bg1007a
+<ptZ0017>bg1007a
+
+//OTHER
+<enZ0018>bgm109
+<ptZ0018>bgm109
+
+//OTHER
+<enZ0019>kmr0009a
+<ptZ0019>kmr0009a
+
+//OTHER
+<enZ0020>hasa_000752
+<ptZ0020>hasa_000752
+
+//OTHER
+<enZ0021>kmr0031a
+<ptZ0021>kmr0031a
+
+//OTHER
+<enZ0022>hasa_000753
+<ptZ0022>hasa_000753
+
+//OTHER
+<enZ0023>hasa_000754
+<ptZ0023>hasa_000754
+
+//OTHER
+<enZ0024>kmr0000a
+<ptZ0024>kmr0000a
+
+//OTHER
+<enZ0025>hasa_000755
+<ptZ0025>hasa_000755
+
+//OTHER
+<enZ0026>se352
+<ptZ0026>se352
+
+//OTHER
+<enZ0027>hasa_000756
+<ptZ0027>hasa_000756
+
+//OTHER
+<enZ0028>kmr0007a
+<ptZ0028>kmr0007a
+
+//OTHER
+<enZ0029>hasa_000757
+<ptZ0029>hasa_000757
+
+//OTHER
+<enZ0030>hasa_000758
+<ptZ0030>hasa_000758
+
+//OTHER
+<enZ0031>hasa_000759
+<ptZ0031>hasa_000759
+
+//OTHER
+<enZ0032>hasa_000760
+<ptZ0032>hasa_000760
+
+//OTHER
+<enZ0033>hasa_000761
+<ptZ0033>hasa_000761
+
+//OTHER
+<enZ0034>hasa_000762
+<ptZ0034>hasa_000762
+
+//OTHER
+<enZ0035>hasa_000763
+<ptZ0035>hasa_000763
+
+//OTHER
+<enZ0036>hasa_000764
+<ptZ0036>hasa_000764
+
+//OTHER
+<enZ0037>hasa_000765
+<ptZ0037>hasa_000765
+
+//OTHER
+<enZ0038>hasa_000766
+<ptZ0038>hasa_000766
+
+//OTHER
+<enZ0039>kmr0033a
+<ptZ0039>kmr0033a
+
+//OTHER
+<enZ0040>hasa_000767
+<ptZ0040>hasa_000767
+
+//OTHER
+<enZ0041>hasa_000768
+<ptZ0041>hasa_000768
+
+//OTHER
+<enZ0042>hasa_000769
+<ptZ0042>hasa_000769
+
+//OTHER
+<enZ0043>hasa_000770
+<ptZ0043>hasa_000770
+
+//OTHER
+<enZ0044>kmr0030a
+<ptZ0044>kmr0030a
+
+//OTHER
+<enZ0045>hasa_000771
+<ptZ0045>hasa_000771
+
+//OTHER
+<enZ0046>hasa_000772
+<ptZ0046>hasa_000772
+
+//OTHER
+<enZ0047>hasa_000773
+<ptZ0047>hasa_000773
+
+//OTHER
+<enZ0048>hasa_000774
+<ptZ0048>hasa_000774
+
+//OTHER
+<enZ0049>hasa_000775
+<ptZ0049>hasa_000775
+
+//OTHER
+<enZ0050>hasa_000776
+<ptZ0050>hasa_000776
+
+//OTHER
+<enZ0051>hasa_000777
+<ptZ0051>hasa_000777
+
+//OTHER
+<enZ0052>hasa_000778
+<ptZ0052>hasa_000778
+
+//OTHER
+<enZ0053>hasa_000779
+<ptZ0053>hasa_000779
+
+//OTHER
+<enZ0054>hasa_000780
+<ptZ0054>hasa_000780
+
+//OTHER
+<enZ0055>hasa_000781
+<ptZ0055>hasa_000781
+
+//OTHER
+<enZ0056>hasa_000782
+<ptZ0056>hasa_000782
+
+//OTHER
+<enZ0057>hasa_000783
+<ptZ0057>hasa_000783
+
+//OTHER
+<enZ0058>hasa_000784
+<ptZ0058>hasa_000784
+
+//OTHER
+<enZ0059>hasa_000785
+<ptZ0059>hasa_000785
+
+//OTHER
+<enZ0060>hasa_000786
+<ptZ0060>hasa_000786
+
+//OTHER
+<enZ0061>hasa_000787
+<ptZ0061>hasa_000787
+
+//OTHER
+<enZ0062>hasa_000788
+<ptZ0062>hasa_000788
+
+//OTHER
+<enZ0063>hasa_000789
+<ptZ0063>hasa_000789
+
+//OTHER
+<enZ0064>hasa_000790
+<ptZ0064>hasa_000790
+
+//OTHER
+<enZ0065>hasa_000791
+<ptZ0065>hasa_000791
+
+//OTHER
+<enZ0066>hasa_000792
+<ptZ0066>hasa_000792
+
+//OTHER
+<enZ0067>hasa_000793
+<ptZ0067>hasa_000793
+
+//OTHER
+<enZ0068>hasa_000794
+<ptZ0068>hasa_000794
+
+//OTHER
+<enZ0069>hasa_000795
+<ptZ0069>hasa_000795
+
+//OTHER
+<enZ0070>hasa_000796
+<ptZ0070>hasa_000796
+
+//OTHER
+<enZ0071>hasa_000797
+<ptZ0071>hasa_000797
+
+//OTHER
+<enZ0072>hasa_000798
+<ptZ0072>hasa_000798
+
+//OTHER
+<enZ0073>hasa_000799
+<ptZ0073>hasa_000799
+
+//OTHER
+<enZ0074>hasa_000800
+<ptZ0074>hasa_000800
+
+//OTHER
+<enZ0075>hasa_000801
+<ptZ0075>hasa_000801
+
+//OTHER
+<enZ0076>hasa_000802
+<ptZ0076>hasa_000802
+
+//OTHER
+<enZ0077>hasa_000803
+<ptZ0077>hasa_000803
+
+//OTHER
+<enZ0078>hasa_000804
+<ptZ0078>hasa_000804
+
+//OTHER
+<enZ0079>hasa_000805
+<ptZ0079>hasa_000805
+
+//OTHER
+<enZ0080>se610
+<ptZ0080>se610
+
+//OTHER
+<enZ0081>hasa_000806
+<ptZ0081>hasa_000806
+
+//OTHER
+<enZ0082>bgm009
+<ptZ0082>bgm009
+
+//OTHER
+<enZ0083>ms0060
+<ptZ0083>ms0060
+
+//OTHER
+<enZ0084>hasa_000807
+<ptZ0084>hasa_000807
+
+//OTHER
+<enZ0085>ms0000
+<ptZ0085>ms0000
+
+//OTHER
+<enZ0086>hasa_000808
+<ptZ0086>hasa_000808
+
+//OTHER
+<enZ0087>map002
+<ptZ0087>map002
+
+//OTHER
+<enZ0088>bg1030a
+<ptZ0088>bg1030a
+
+//OTHER
+<enZ0089>hasa_000809
+<ptZ0089>hasa_000809
+
+//OTHER
+<enZ0090>ms0010
+<ptZ0090>ms0010
+
+//OTHER
+<enZ0091>hasa_000810
+<ptZ0091>hasa_000810
+
+//OTHER
+<enZ0092>hasa_000811
+<ptZ0092>hasa_000811
+
+//OTHER
+<enZ0093>ms0006
+<ptZ0093>ms0006
+
+//OTHER
+<enZ0094>ms0001
+<ptZ0094>ms0001
+
+//OTHER
+<enZ0095>ms0003
+<ptZ0095>ms0003
+
+//OTHER
+<enZ0096>hasa_000812
+<ptZ0096>hasa_000812
+
+//OTHER
+<enZ0097>kmr0032a
+<ptZ0097>kmr0032a
+
+//OTHER
+<enZ0098>hasa_000813
+<ptZ0098>hasa_000813
+
+//OTHER
+<enZ0099>hasa_000814
+<ptZ0099>hasa_000814
+
+//OTHER
+<enZ0100>ms0009
+<ptZ0100>ms0009
+
+//OTHER
+<enZ0101>hasa_000815
+<ptZ0101>hasa_000815
+
+//OTHER
+<enZ0102>ms0033
+<ptZ0102>ms0033
+
+//OTHER
+<enZ0103>hasa_000816
+<ptZ0103>hasa_000816
+
+//OTHER
+<enZ0104>hasa_000817
+<ptZ0104>hasa_000817
+
+//OTHER
+<enZ0105>hasa_000818
+<ptZ0105>hasa_000818
+
+//OTHER
+<enZ0106>hasa_000819
+<ptZ0106>hasa_000819
+
+//OTHER
+<enZ0107>hasa_000820
+<ptZ0107>hasa_000820
+
+//OTHER
+<enZ0108>hasa_000821
+<ptZ0108>hasa_000821
+
+//OTHER
+<enZ0109>hasa_000822
+<ptZ0109>hasa_000822
+
+//OTHER
+<enZ0110>hasa_000823
+<ptZ0110>hasa_000823
+
+//OTHER
+<enZ0111>hasa_000824
+<ptZ0111>hasa_000824
+
+//OTHER
+<enZ0112>hasa_000825
+<ptZ0112>hasa_000825
+
+//OTHER
+<enZ0113>hasa_000826
+<ptZ0113>hasa_000826
+
+//OTHER
+<enZ0114>hasa_000827
+<ptZ0114>hasa_000827
+
+//OTHER
+<enZ0115>hasa_000828
+<ptZ0115>hasa_000828
+
+//OTHER
+<enZ0116>hasa_000829
+<ptZ0116>hasa_000829
+
+//OTHER
+<enZ0117>ms0001_l
+<ptZ0117>ms0001_l
+
+//OTHER
+<enZ0118>map029
+<ptZ0118>map029
+
+//OTHER
+<enZ0119>hasa_000830
+<ptZ0119>hasa_000830
+
+//OTHER
+<enZ0120>bgm018
+<ptZ0120>bgm018
+
+//OTHER
+<enZ0121>hasa_000831
+<ptZ0121>hasa_000831
+
+//OTHER
+<enZ0122>bgm007
+<ptZ0122>bgm007
+
+//OTHER
+<enZ0123>hasa_000832
+<ptZ0123>hasa_000832
+
+//OTHER
+<enZ0124>hasa_000833
+<ptZ0124>hasa_000833
+
+//OTHER
+<enZ0125>hasa_000834
+<ptZ0125>hasa_000834
+
+//OTHER
+<enZ0126>hasa_000835
+<ptZ0126>hasa_000835
+
+//OTHER
+<enZ0127>se508
+<ptZ0127>se508
+
+//OTHER
+<enZ0128>hasa_000836
+<ptZ0128>hasa_000836
+
+//OTHER
+<enZ0129>hasa_000837
+<ptZ0129>hasa_000837
+
+//OTHER
+<enZ0130>hasa_000838
+<ptZ0130>hasa_000838
+
+//OTHER
+<enZ0131>hasa_000839
+<ptZ0131>hasa_000839
+
+//OTHER
+<enZ0132>hasa_000840
+<ptZ0132>hasa_000840
+
+//OTHER
+<enZ0133>hasa_000841
+<ptZ0133>hasa_000841
+
+//OTHER
+<enZ0134>hasa_000842
+<ptZ0134>hasa_000842
+
+//OTHER
+<enZ0135>hasa_000843
+<ptZ0135>hasa_000843
+
+//OTHER
+<enZ0136>ms0005
+<ptZ0136>ms0005
+
+//OTHER
+<enZ0137>se004
+<ptZ0137>se004
+
+//OTHER
+<enZ0138>hasa_000844
+<ptZ0138>hasa_000844
+
+//OTHER
+<enZ0139>bgm020
+<ptZ0139>bgm020
+
+//OTHER
+<enZ0140>hasa_000845
+<ptZ0140>hasa_000845
+
+//OTHER
+<enZ0141>hasa_000846
+<ptZ0141>hasa_000846
+
+//OTHER
+<enZ0142>hasa_000847
+<ptZ0142>hasa_000847
+
+//OTHER
+<enZ0143>hasa_000848
+<ptZ0143>hasa_000848
+
+//OTHER
+<enZ0144>hasa_000849
+<ptZ0144>hasa_000849
+
+//OTHER
+<enZ0145>hasa_000850
+<ptZ0145>hasa_000850
+
+//OTHER
+<enZ0146>hasa_000851
+<ptZ0146>hasa_000851
+
+//OTHER
+<enZ0147>bgm114
+<ptZ0147>bgm114
+
+//OTHER
+<enZ0148>hasa_000852
+<ptZ0148>hasa_000852
+
+//OTHER
+<enZ0149>hasa_000853
+<ptZ0149>hasa_000853
+
+//OTHER
+<enZ0150>hasa_000854
+<ptZ0150>hasa_000854
+
+//OTHER
+<enZ0151>ms0006_l
+<ptZ0151>ms0006_l
+
+//OTHER
+<enZ0152>hasa_000855
+<ptZ0152>hasa_000855
+
+//OTHER
+<enZ0153>ms0000_l
+<ptZ0153>ms0000_l
+
+//OTHER
+<enZ0154>ms0033_l
+<ptZ0154>ms0033_l
+
+//OTHER
+<enZ0155>hasa_000856
+<ptZ0155>hasa_000856
+
+//OTHER
+<enZ0156>5_0716
+<ptZ0156>5_0716
+

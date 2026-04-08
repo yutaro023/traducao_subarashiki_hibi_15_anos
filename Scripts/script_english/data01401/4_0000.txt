@@ -1,0 +1,1736 @@
+//NAME
+<enN0001>Master
+<ptN0001>Master
+
+//NAME
+<enN0002>Tomosane
+<ptN0002>Tomosane
+
+//NAME
+<enN0003>Hasaki
+<ptN0003>Hasaki
+
+//NAME
+<enN0004>Customer A
+<ptN0004>Customer A
+
+//NAME
+<enN0005>Customer B
+<ptN0005>Customer B
+
+///================================================================================
+
+//TEXT
+<enT0001>Twas brillig, \n  and the slithy toves did gyre and gimble in the wabe;
+<ptT0001>Twas brillig, \n  and the slithy toves did gyre and gimble in the wabe;
+
+//TEXT BACKLOG
+<enT0002>\n
+<ptT0002>\n
+
+//TEXT
+<enT0003>All mimsy were the borogoves,
+<ptT0003>All mimsy were the borogoves,
+
+//TEXT
+<enT0004>And the mome raths outgrabe.
+<ptT0004>And the mome raths outgrabe.
+
+//TEXT
+<enT0005>"Beware the Jabberwock, my son!
+<ptT0005>"Beware the Jabberwock, my son!
+
+//TEXT BACKLOG
+<enT0006>\n
+<ptT0006>\n
+
+//TEXT
+<enT0007>The jaws that bite,
+<ptT0007>The jaws that bite,
+
+//TEXT
+<enT0008>the claws that catch!
+<ptT0008>the claws that catch!
+
+//TEXT BACKLOG
+<enT0009>\n
+<ptT0009>\n
+
+//TEXT
+<enT0010>Beware the Jubjub bird, 
+<ptT0010>Beware the Jubjub bird, 
+
+//TEXT
+<enT0011>and shun
+<ptT0011>and shun
+
+//TEXT BACKLOG
+<enT0012>\n
+<ptT0012>\n
+
+//TEXT
+<enT0013>The frumious Bandersnatch!"
+<ptT0013>The frumious Bandersnatch!"
+
+//TEXT
+<enT0014>He took his vorpal sword in hand: \nLong time the manxome foe he sought
+<ptT0014>He took his vorpal sword in hand: \nLong time the manxome foe he sought
+
+//TEXT
+<enT0015>So rested he by the Tumtum tree,
+<ptT0015>So rested he by the Tumtum tree,
+
+//TEXT
+<enT0016>And stood awhile in thought.
+<ptT0016>And stood awhile in thought.
+
+//TEXT
+<enT0017>And as in uffish thought he stood,
+<ptT0017>And as in uffish thought he stood,
+
+//TEXT
+<enT0018>The Jabberwock, with eyes of flame,
+<ptT0018>The Jabberwock, with eyes of flame,
+
+//TEXT
+<enT0019>Came whiffling through the tulgey wood,
+<ptT0019>Came whiffling through the tulgey wood,
+
+//TEXT
+<enT0020>And burbled as it came!
+<ptT0020>And burbled as it came!
+
+//TEXT
+<enT0021>One, two!
+<ptT0021>One, two!
+
+//TEXT
+<enT0022>One, two!
+<ptT0022>One, two!
+
+//TEXT
+<enT0023>And through and through, the vorpal blade went snicker-snack!
+<ptT0023>And through and through, the vorpal blade went snicker-snack!
+
+//TEXT BACKLOG
+<enT0024>\n
+<ptT0024>\n
+
+//TEXT
+<enT0025>He left it dead,
+<ptT0025>He left it dead,
+
+//TEXT
+<enT0026>and with its head
+<ptT0026>and with its head
+
+//TEXT BACKLOG
+<enT0027>\n
+<ptT0027>\n
+
+//TEXT
+<enT0028>He went galumphing back
+<ptT0028>He went galumphing back
+
+//TEXT
+<enT0029>"And hast thou slain the Jabberwock?
+<ptT0029>"And hast thou slain the Jabberwock?
+
+//TEXT BACKLOG
+<enT0030>\n
+<ptT0030>\n
+
+//TEXT
+<enT0031>Come to my arms, my beamish boy!
+<ptT0031>Come to my arms, my beamish boy!
+
+//TEXT BACKLOG
+<enT0032>\n
+<ptT0032>\n
+
+//TEXT
+<enT0033>O frabjous day!
+<ptT0033>O frabjous day!
+
+//TEXT
+<enT0034>Callooh!
+<ptT0034>Callooh!
+
+//TEXT
+<enT0035>Callay!"
+<ptT0035>Callay!"
+
+//TEXT BACKLOG
+<enT0036>\n
+<ptT0036>\n
+
+//TEXT
+<enT0037>He chortled in his joy.
+<ptT0037>He chortled in his joy.
+
+//TEXT
+<enT0038>All mimsy were the borogoves,
+<ptT0038>All mimsy were the borogoves,
+
+//TEXT BACKLOG
+<enT0039>\n
+<ptT0039>\n
+
+//TEXT
+<enT0040>And the mome raths outgrabe.
+<ptT0040>And the mome raths outgrabe.
+
+//TEXT BACKLOG
+<enT0041>\n
+<ptT0041>\n
+
+//TEXT
+<enT0042>Twas brillig,
+<ptT0042>Twas brillig,
+
+//TEXT
+<enT0043>and the slithy toves
+<ptT0043>and the slithy toves
+
+//TEXT BACKLOG
+<enT0044>\n
+<ptT0044>\n
+
+//TEXT
+<enT0045>Did gyre and gimble in the wabe;
+<ptT0045>Did gyre and gimble in the wabe;
+
+//TEXT
+<enT0046>All mimsy were the borogoves,
+<ptT0046>All mimsy were the borogoves,
+
+//TEXT BACKLOG
+<enT0047>\n
+<ptT0047>\n
+
+//TEXT
+<enT0048>And the mome raths outgrabe.
+<ptT0048>And the mome raths outgrabe.
+
+//TEXT
+<enT0049>"Jabberwocky"
+<ptT0049>"Jabberwocky"
+
+//TEXT
+<enT0050> by Lewis Carroll
+<ptT0050> by Lewis Carroll
+
+//TEXT
+<enT0051>
+<ptT0051>
+
+//TEXT
+<enT0052>The mysterious monster called the Jabberwock...
+<ptT0052>The mysterious monster called the Jabberwock...
+
+//TEXT
+<enT0053>It is a nameless man who defeats that monster.
+<ptT0053>It is a nameless man who defeats that monster.
+
+//TEXT
+<enT0054>Why did that nameless man feel compelled to slay the Jabberwock?
+<ptT0054>Why did that nameless man feel compelled to slay the Jabberwock?
+
+//TEXT
+<enT0055>It was a poem written by Lewis Carroll in nonsense verse. The greatest nonsense poem is told as a parody of an epic.
+<ptT0055>It was a poem written by Lewis Carroll in nonsense verse. The greatest nonsense poem is told as a parody of an epic.
+
+//TEXT
+<enT0056>A mysterious monster.
+<ptT0056>A mysterious monster.
+
+//TEXT
+<enT0057>A nameless hero.
+<ptT0057>A nameless hero.
+
+//TEXT
+<enT0058>Many words that never existed before.
+<ptT0058>Many words that never existed before.
+
+//TEXT
+<enT0059>A parody of an epic.
+<ptT0059>A parody of an epic.
+
+//TEXT
+<enT0060>It's just like my own existence...
+<ptT0060>It's just like my own existence...
+
+//TEXT
+<enT0061>I walked through the city as the sun began to set.
+<ptT0061>I walked through the city as the sun began to set.
+
+//TEXT
+<enT0062>A city bathed in evening sunlight.
+<ptT0062>A city bathed in evening sunlight.
+
+//TEXT
+<enT0063>The sky took on shades of orange and yellow, and buildings were dyed a dark purple.
+<ptT0063>The sky took on shades of orange and yellow, and buildings were dyed a dark purple.
+
+//TEXT
+<enT0064>The time when the world sinks into darkness... When the lights come on.
+<ptT0064>The time when the world sinks into darkness... When the lights come on.
+
+//TEXT
+<enT0065>The lights in people's lives come on.
+<ptT0065>The lights in people's lives come on.
+
+//TEXT 【Master】
+<enT0066>"Oh, you're early today... Um, you seem like Tomosane, right?"
+<ptT0066>"Oh, you're early today... Um, you seem like Tomosane, right?"
+
+//TEXT 【Tomosane】
+<enT0067>"Yes, I'm Tomosane. Also, it doesn't really matter, but I'm not early at all. It's already after 6:30."
+<ptT0067>"Yes, I'm Tomosane. Also, it doesn't really matter, but I'm not early at all. It's already after 6:30."
+
+//TEXT 【Master】
+<enT0068>"Oh, you really are Tomo-chan."
+<ptT0068>"Oh, you really are Tomo-chan."
+
+//TEXT 【Tomosane】
+<enT0069>"Would you stop that? Call me Tomosane, or Yuuki..."
+<ptT0069>"Would you stop that? Call me Tomosane, or Yuuki..."
+
+//TEXT 【Master】
+<enT0070>"It's getting close to seven. The days really have gotten long. It's still light outside."
+<ptT0070>"It's getting close to seven. The days really have gotten long. It's still light outside."
+
+//TEXT
+<enT0071>Haa... Ignoring me, huh? I even came to see him...
+<ptT0071>Haa... Ignoring me, huh? I even came to see him...
+
+//TEXT 【Tomosane】
+<enT0072>"It's the second of July, after all. The days will just keep getting shorter from now on."
+<ptT0072>"It's the second of July, after all. The days will just keep getting shorter from now on."
+
+//TEXT 【Master】
+<enT0073>"Really?"
+<ptT0073>"Really?"
+
+//TEXT 【Tomosane】
+<enT0074>"Days are longest at the end of June. Once you get into July, the days start getting shorter. The summer solstice is in June, you know..."
+<ptT0074>"Days are longest at the end of June. Once you get into July, the days start getting shorter. The summer solstice is in June, you know..."
+
+//TEXT 【Master】
+<enT0075>"You're right. Still, don't the days feel longer in July and August?"
+<ptT0075>"You're right. Still, don't the days feel longer in July and August?"
+
+//TEXT 【Tomosane】
+<enT0076>"But the days are almost an entire hour shorter in August compared to the summer solstice..."
+<ptT0076>"But the days are almost an entire hour shorter in August compared to the summer solstice..."
+
+//TEXT 【Master】
+<enT0077>"Seriously? It's that much of a difference? Why's that? It feels like the days have to be shorter in June."
+<ptT0077>"Seriously? It's that much of a difference? Why's that? It feels like the days have to be shorter in June."
+
+//TEXT 【Tomosane】
+<enT0078>"Well, I don't know the details, but I think it feels like it gets darker earlier in June because the clouds are thicker."
+<ptT0078>"Well, I don't know the details, but I think it feels like it gets darker earlier in June because the clouds are thicker."
+
+//TEXT 【Master】
+<enT0079>"The clouds? Oh, so the weather makes it feel like the days are shorter."
+<ptT0079>"The clouds? Oh, so the weather makes it feel like the days are shorter."
+
+//TEXT 【Tomosane】
+<enT0080>"Probably. During June, this city has clouds covering the sky even in the best of weather, so it never really gets all that bright."
+<ptT0080>"Probably. During June, this city has clouds covering the sky even in the best of weather, so it never really gets all that bright."
+
+//TEXT
+<enT0081>The June sky is always dark.
+<ptT0081>The June sky is always dark.
+
+//TEXT
+<enT0082>A person would know that well if they had nothing to do besides look at the sky all day.
+<ptT0082>A person would know that well if they had nothing to do besides look at the sky all day.
+
+//TEXT
+<enT0083>You could even start to think there's no such thing as a blue sky in June.
+<ptT0083>You could even start to think there's no such thing as a blue sky in June.
+
+//TEXT
+<enT0084>Actually, there's a saying about May skies being the finest of all, and that was in the old calendar. It would actually be June in the modern calendar.
+<ptT0084>Actually, there's a saying about May skies being the finest of all, and that was in the old calendar. It would actually be June in the modern calendar.
+
+//TEXT
+<enT0085>And the cliched May showers are the same.
+<ptT0085>And the cliched May showers are the same.
+
+//TEXT
+<enT0086>The phrase "May sky" isn't just referring to good weather.
+<ptT0086>The phrase "May sky" isn't just referring to good weather.
+
+//TEXT
+<enT0087>The phrase actually refers to the rarity of a blue sky in the rainy season of June.
+<ptT0087>The phrase actually refers to the rarity of a blue sky in the rainy season of June.
+
+//TEXT
+<enT0088>That's how precious a clear sky in June is.
+<ptT0088>That's how precious a clear sky in June is.
+
+//TEXT
+<enT0089>Now that I think of it, I knew a dumb girl who liked the June sky...
+<ptT0089>Now that I think of it, I knew a dumb girl who liked the June sky...
+
+//TEXT
+<enT0090>The same place as always.
+<ptT0090>The same place as always.
+
+//TEXT
+<enT0091>That idiot is always here.
+<ptT0091>That idiot is always here.
+
+//TEXT
+<enT0092>She said it was because this place is closest to the sky.
+<ptT0092>She said it was because this place is closest to the sky.
+
+//TEXT
+<enT0093>It's kind of ridiculous to say the roof of an apartment store is the closest place to the sky...
+<ptT0093>It's kind of ridiculous to say the roof of an apartment store is the closest place to the sky...
+
+//TEXT
+<enT0094>After all, even the apartment building on the other side of the street is bigger.
+<ptT0094>After all, even the apartment building on the other side of the street is bigger.
+
+//TEXT 【Tomosane】
+<enT0095>"It's raining, you know... Why are you up here on the roof?"
+<ptT0095>"It's raining, you know... Why are you up here on the roof?"
+
+//TEXT
+<enT0096>"Huh? The rain's nice. I like it."
+<ptT0096>"Huh? The rain's nice. I like it."
+
+//TEXT 【Tomosane】
+<enT0097>"That's not an excuse. You're gonna catch a cold up here."
+<ptT0097>"That's not an excuse. You're gonna catch a cold up here."
+
+//TEXT
+<enT0098>"Do you hate the rain?"
+<ptT0098>"Do you hate the rain?"
+
+//TEXT 【Tomosane】
+<enT0099>"Yeah, I'm in shock right now, since I just heard someone say they actually liked it. I can't believe anyone would actually want to look at such a dreary sky."
+<ptT0099>"Yeah, I'm in shock right now, since I just heard someone say they actually liked it. I can't believe anyone would actually want to look at such a dreary sky."
+
+//TEXT
+<enT0100>"A dreary sky, huh? I guess you could call it that."
+<ptT0100>"A dreary sky, huh? I guess you could call it that."
+
+//TEXT 【Tomosane】
+<enT0101>"The June sky is always dreary."
+<ptT0101>"The June sky is always dreary."
+
+//TEXT
+<enT0102>"Oh, really... I actually like the May sky, though."
+<ptT0102>"Oh, really... I actually like the May sky, though."
+
+//TEXT 【Tomosane】
+<enT0103>"May, huh... I guess it's sorta poetic if you use the old calendar, but that doesn't change the fact that it's dreary."
+<ptT0103>"May, huh... I guess it's sorta poetic if you use the old calendar, but that doesn't change the fact that it's dreary."
+
+//TEXT
+<enT0104>"But, you know... the June sky hides that which hangs overhead."
+<ptT0104>"But, you know... the June sky hides that which hangs overhead."
+
+//TEXT 【Tomosane】
+<enT0105>"Hangs overhead? What are you talking about? These dreary clouds are all that's hanging overhead."
+<ptT0105>"Hangs overhead? What are you talking about? These dreary clouds are all that's hanging overhead."
+
+//TEXT
+<enT0106>"It's a matter of perspective. To me, it's the ridiculously huge blue sky extending into infinity that seems dreary."
+<ptT0106>"It's a matter of perspective. To me, it's the ridiculously huge blue sky extending into infinity that seems dreary."
+
+//TEXT 【Tomosane】
+<enT0107>"A ridiculously huge sky, huh... You're like a poet, but with childish delusions."
+<ptT0107>"A ridiculously huge sky, huh... You're like a poet, but with childish delusions."
+
+//TEXT
+<enT0108>"You sound stupid when you throw around the phrase 'childish delusions' all the time like that, Tomosane."
+<ptT0108>"You sound stupid when you throw around the phrase 'childish delusions' all the time like that, Tomosane."
+
+//TEXT 【Tomosane】
+<enT0109>"Wha―"
+<ptT0109>"Wha―"
+
+//TEXT 【Tomosane】
+<enT0110>"Y-You're the one who's always saying it to me!"
+<ptT0110>"Y-You're the one who's always saying it to me!"
+
+//TEXT
+<enT0111>"Hahahaha, that's not important. Try picturing this. Just imagine how much easier life would be if we could hide away that endless sky lurking above our heads."
+<ptT0111>"Hahahaha, that's not important. Try picturing this. Just imagine how much easier life would be if we could hide away that endless sky lurking above our heads."
+
+//TEXT 【Tomosane】
+<enT0112>"...I don't see it. The cloudy sky is a lot drearier."
+<ptT0112>"...I don't see it. The cloudy sky is a lot drearier."
+
+//TEXT 【Tomosane】
+<enT0113>"Why don't you try picturing this instead? Hasaki could have just washed some clothes and can't put them out to dry."
+<ptT0113>"Why don't you try picturing this instead? Hasaki could have just washed some clothes and can't put them out to dry."
+
+//TEXT
+<enT0114>"June! Dirty clothes smell like Summer Comiket!"
+<ptT0114>"June! Dirty clothes smell like Summer Comiket!"
+
+//TEXT 【Tomosane】
+<enT0115>"Huh?"
+<ptT0115>"Huh?"
+
+//TEXT
+<enT0116>"Sometimes the air conditioner smells like it too... I wonder if they're holding an itty bitty comiket in my air conditioner."
+<ptT0116>"Sometimes the air conditioner smells like it too... I wonder if they're holding an itty bitty comiket in my air conditioner."
+
+//TEXT 【Tomosane】
+<enT0117>"What's that comiket thing you're talking about?"
+<ptT0117>"What's that comiket thing you're talking about?"
+
+//TEXT
+<enT0118>"You haven't heard of it? It's when all the funny looking people with funny hobbies and funny glasses get together to talk to each other in their nasally voices and laugh it up, kinda like Sabbat."
+<ptT0118>"You haven't heard of it? It's when all the funny looking people with funny hobbies and funny glasses get together to talk to each other in their nasally voices and laugh it up, kinda like Sabbat."
+
+//TEXT 【Tomosane】
+<enT0119>"I don't know about any of that, and what's Sabbat? Well, it must be some kind of manga festival, right?"
+<ptT0119>"I don't know about any of that, and what's Sabbat? Well, it must be some kind of manga festival, right?"
+
+//TEXT
+<enT0120>"Yeah. Apparently he goes to those kind of events a lot. It's a real pain when he suddenly passes the baton to me out there."
+<ptT0120>"Yeah. Apparently he goes to those kind of events a lot. It's a real pain when he suddenly passes the baton to me out there."
+
+//TEXT 【Tomosane】
+<enT0121>"Hmm... That's never happened to me."
+<ptT0121>"Hmm... That's never happened to me."
+
+//TEXT
+<enT0122>"You're lucky for that. It's hell. It's cold in the winter, hot in the summer, and it always stinks."
+<ptT0122>"You're lucky for that. It's hell. It's cold in the winter, hot in the summer, and it always stinks."
+
+//TEXT 【Tomosane】
+<enT0123>"Oh, that must've sucked."
+<ptT0123>"Oh, that must've sucked."
+
+//TEXT
+<enT0124>"You could at least try to sound interested. Who knows, it could end up happening to you next time."
+<ptT0124>"You could at least try to sound interested. Who knows, it could end up happening to you next time."
+
+//TEXT 【Tomosane】
+<enT0125>"I don't know what I would do to all those people if that happened. I'm sure it would never happen to me... I made sure of that."
+<ptT0125>"I don't know what I would do to all those people if that happened. I'm sure it would never happen to me... I made sure of that."
+
+//TEXT
+<enT0126>"Oh wow... So you don't think it's a problem when it happens to me?"
+<ptT0126>"Oh wow... So you don't think it's a problem when it happens to me?"
+
+//TEXT 【Tomosane】
+<enT0127>"Who knows... Not my problem anyway."
+<ptT0127>"Who knows... Not my problem anyway."
+
+//TEXT
+<enT0128>This conversation really got off track... Well, that's what always happens when I talk to her.
+<ptT0128>This conversation really got off track... Well, that's what always happens when I talk to her.
+
+//TEXT
+<enT0129>I unlocked the piano and put my hands on the keys.
+<ptT0129>I unlocked the piano and put my hands on the keys.
+
+//TEXT
+<enT0130>The sound of the keys... Did it get tuned? It was done really well.
+<ptT0130>The sound of the keys... Did it get tuned? It was done really well.
+
+//TEXT 【Tomosane】
+<enT0131>"..."
+<ptT0131>"..."
+
+//TEXT 【Master】
+<enT0132>"How's the piano? It got tuned this afternoon."
+<ptT0132>"How's the piano? It got tuned this afternoon."
+
+//TEXT 【Tomosane】
+<enT0133>"Dunno."
+<ptT0133>"Dunno."
+
+//TEXT 【Master】
+<enT0134>"You should... You're the one who said it sounded nasty because it was out of tune."
+<ptT0134>"You should... You're the one who said it sounded nasty because it was out of tune."
+
+//TEXT 【Tomosane】
+<enT0135>"Then it's fine... It doesn't sound nasty right now."
+<ptT0135>"Then it's fine... It doesn't sound nasty right now."
+
+//TEXT 【Master】
+<enT0136>"What's that..."
+<ptT0136>"What's that..."
+
+//TEXT 【Tomosane】
+<enT0137>"It was probably Yuki who said that, not me."
+<ptT0137>"It was probably Yuki who said that, not me."
+
+//TEXT 【Master】
+<enT0138>"Oh, really?"
+<ptT0138>"Oh, really?"
+
+//TEXT 【Tomosane】
+<enT0139>"I don't remember that. Plus, Yuki's normally the one who worries about small stuff like the piano's tuning."
+<ptT0139>"I don't remember that. Plus, Yuki's normally the one who worries about small stuff like the piano's tuning."
+
+//TEXT 【Master】
+<enT0140>"Oh... I kind of had a feeling that's what it was. She's always been picky about that kind of stuff."
+<ptT0140>"Oh... I kind of had a feeling that's what it was. She's always been picky about that kind of stuff."
+
+//TEXT 【Tomosane】
+<enT0141>"She won't shut up about the piano... Also, Master, did Hasaki come by?"
+<ptT0141>"She won't shut up about the piano... Also, Master, did Hasaki come by?"
+
+//TEXT 【Master】
+<enT0142>"Hmm? She said she would come again tonight, after she went to her mother's place."
+<ptT0142>"Hmm? She said she would come again tonight, after she went to her mother's place."
+
+//TEXT 【Tomosane】
+<enT0143>"Her mother? Again? That idiot..."
+<ptT0143>"Her mother? Again? That idiot..."
+
+//TEXT 【Tomosane】
+<enT0144>"Well, whatever... So she's going to come back tonight. I'll make sure to leave before she comes."
+<ptT0144>"Well, whatever... So she's going to come back tonight. I'll make sure to leave before she comes."
+
+//TEXT 【Master】
+<enT0145>"No you won't. This is your job. Do it right."
+<ptT0145>"No you won't. This is your job. Do it right."
+
+//TEXT 【Hasaki】
+<enT0146>"Hello."
+<ptT0146>"Hello."
+
+//TEXT 【Tomosane】
+<enT0147>"..."
+<ptT0147>"..."
+
+//TEXT 【Master】
+<enT0148>"Oh? Welcome back."
+<ptT0148>"Oh? Welcome back."
+
+//TEXT 【Tomosane】
+<enT0149>"..."
+<ptT0149>"..."
+
+//TEXT 【Master】
+<enT0150>"What? I didn't lie. It's already night out, you know?"
+<ptT0150>"What? I didn't lie. It's already night out, you know?"
+
+//TEXT
+<enT0151>The time was 6:58... The sun hadn't even set. Could you really call this night?
+<ptT0151>The time was 6:58... The sun hadn't even set. Could you really call this night?
+
+//TEXT
+<enT0152>Though complaining to Master wouldn't really help much at this point.
+<ptT0152>Though complaining to Master wouldn't really help much at this point.
+
+//TEXT
+<enT0153>More importantly, Hasaki was in front of me.
+<ptT0153>More importantly, Hasaki was in front of me.
+
+//TEXT 【Hasaki】
+<enT0154>"You were about to leave..."
+<ptT0154>"You were about to leave..."
+
+//TEXT 【Tomosane】
+<enT0155>"...Yeah, I was."
+<ptT0155>"...Yeah, I was."
+
+//TEXT 【Hasaki】
+<enT0156>"Why would you do that?"
+<ptT0156>"Why would you do that?"
+
+//TEXT 【Tomosane】
+<enT0157>"Because I knew you were coming."
+<ptT0157>"Because I knew you were coming."
+
+//TEXT 【Hasaki】
+<enT0158>"Hmph!"
+<ptT0158>"Hmph!"
+
+//TEXT
+<enT0159>It was pretty easy to understand her personality... She disappeared into the kitchen with a sullen look.
+<ptT0159>It was pretty easy to understand her personality... She disappeared into the kitchen with a sullen look.
+
+//TEXT
+<enT0160>Mamiya Hasaki...
+<ptT0160>Mamiya Hasaki...
+
+//TEXT
+<enT0161>Mamiya Takuji's little sister...
+<ptT0161>Mamiya Takuji's little sister...
+
+//TEXT
+<enT0162>And of course, since I share the same body with Mamiya Takuji, she's my little sister too. Physically, at least.
+<ptT0162>And of course, since I share the same body with Mamiya Takuji, she's my little sister too. Physically, at least.
+
+//TEXT
+<enT0163>But only physically...
+<ptT0163>But only physically...
+
+//TEXT
+<enT0164>I've never even shared the Mamiya name, so she's nothing more than a stranger to me.
+<ptT0164>I've never even shared the Mamiya name, so she's nothing more than a stranger to me.
+
+//TEXT
+<enT0165>So I, Yuuki Tomosane, don't like to get involved with her more than I have to.
+<ptT0165>So I, Yuuki Tomosane, don't like to get involved with her more than I have to.
+
+//TEXT 【Master】
+<enT0166>"Don't make Hasaki-chan too mad."
+<ptT0166>"Don't make Hasaki-chan too mad."
+
+//TEXT 【Tomosane】
+<enT0167>"How so?"
+<ptT0167>"How so?"
+
+//TEXT 【Master】
+<enT0168>"Don't you feel bad for her?"
+<ptT0168>"Don't you feel bad for her?"
+
+//TEXT 【Tomosane】
+<enT0169>"I should feel bad for her?"
+<ptT0169>"I should feel bad for her?"
+
+//TEXT 【Master】
+<enT0170>"That's right."
+<ptT0170>"That's right."
+
+//TEXT 【Tomosane】
+<enT0171>"Then you could be nice to her so I don't have to."
+<ptT0171>"Then you could be nice to her so I don't have to."
+
+//TEXT 【Master】
+<enT0172>"You're still spouting that crap?"
+<ptT0172>"You're still spouting that crap?"
+
+//TEXT 【Master】
+<enT0173>"You know, if you make her too mad..."
+<ptT0173>"You know, if you make her too mad..."
+
+//TEXT 【Hasaki】
+<enT0174>"Ah..."
+<ptT0174>"Ah..."
+
+//TEXT 【Master】
+<enT0175>"Look... She can't focus when she's like that. She can't even do her job when she's like that..."
+<ptT0175>"Look... She can't focus when she's like that. She can't even do her job when she's like that..."
+
+//TEXT 【Hasaki】
+<enT0176>"U-Um, Master, I'm sorry... I broke a plate."
+<ptT0176>"U-Um, Master, I'm sorry... I broke a plate."
+
+//TEXT 【Master】
+<enT0177>"I heard it. Make sure you don't cut yourself."
+<ptT0177>"I heard it. Make sure you don't cut yourself."
+
+//TEXT 【Tomosane】
+<enT0178>"...I'll leave Hasaki to you. I'm leaving."
+<ptT0178>"...I'll leave Hasaki to you. I'm leaving."
+
+//TEXT 【Master】
+<enT0179>"Huh? You have a job to do."
+<ptT0179>"Huh? You have a job to do."
+
+//TEXT 【Tomosane】
+<enT0180>"I'm going home."
+<ptT0180>"I'm going home."
+
+//TEXT 【Master】
+<enT0181>"You're really leaving now?"
+<ptT0181>"You're really leaving now?"
+
+//TEXT 【Tomosane】
+<enT0182>"Sorry... I got a headache all of a sudden. I probably have the flu."
+<ptT0182>"Sorry... I got a headache all of a sudden. I probably have the flu."
+
+//TEXT 【Tomosane】
+<enT0183>"I don't want to give it to you guys, and this store does sell food after all."
+<ptT0183>"I don't want to give it to you guys, and this store does sell food after all."
+
+//TEXT 【Master】
+<enT0184>"Hehehehe..."
+<ptT0184>"Hehehehe..."
+
+//TEXT 【Tomosane】
+<enT0185>"Ngh!"
+<ptT0185>"Ngh!"
+
+//TEXT
+<enT0186>He got behind me in an instant.
+<ptT0186>He got behind me in an instant.
+
+//TEXT
+<enT0187>Faster than I could believe...
+<ptT0187>Faster than I could believe...
+
+//TEXT 【Master】
+<enT0188>"Oh, you don't have a fever at all?"
+<ptT0188>"Oh, you don't have a fever at all?"
+
+//TEXT 【Tomosane】
+<enT0189>"I-I'm sure I'll wake up with a really awful fever tomorrow morning..."
+<ptT0189>"I-I'm sure I'll wake up with a really awful fever tomorrow morning..."
+
+//TEXT 【Master】
+<enT0190>"Then you should be okay till tomorrow morning, don't you think?"
+<ptT0190>"Then you should be okay till tomorrow morning, don't you think?"
+
+//TEXT 【Tomosane】
+<enT0191>"N-No, uh..."
+<ptT0191>"N-No, uh..."
+
+//TEXT 【Master】
+<enT0192>"Besides... You have to work to pay me for that plate."
+<ptT0192>"Besides... You have to work to pay me for that plate."
+
+//TEXT 【Tomosane】
+<enT0193>"B-But Hasaki broke that!"
+<ptT0193>"B-But Hasaki broke that!"
+
+//TEXT 【Master】
+<enT0194>"She broke it because you upset her."
+<ptT0194>"She broke it because you upset her."
+
+//TEXT 【Tomosane】
+<enT0195>"U-Um, if you squeeze any harder, I―"
+<ptT0195>"U-Um, if you squeeze any harder, I―"
+
+//TEXT 【Master】
+<enT0196>"Oh, do you think you'd be more compliant if I made you faint?"
+<ptT0196>"Oh, do you think you'd be more compliant if I made you faint?"
+
+//TEXT 【Tomosane】
+<enT0197>"Wait, a-ah, Master, ngh!"
+<ptT0197>"Wait, a-ah, Master, ngh!"
+
+//TEXT
+<enT0198>This fag's skills are beyond those of any normal martial artist... He was an instructor at the jujitsu dojo that Mamiya's grandfather used to run.
+<ptT0198>This fag's skills are beyond those of any normal martial artist... He was an instructor at the jujitsu dojo that Mamiya's grandfather used to run.
+
+//TEXT
+<enT0199>He's a fag, so he's not really the kind of person I like to hang around with, but there's no denying his strength.
+<ptT0199>He's a fag, so he's not really the kind of person I like to hang around with, but there's no denying his strength.
+
+//TEXT 【Tomosane】
+<enT0200>"Haa... Haa, haa..."
+<ptT0200>"Haa... Haa, haa..."
+
+//TEXT 【Master】
+<enT0201>"Don't underestimate me. If I tell you to work, then you have to work."
+<ptT0201>"Don't underestimate me. If I tell you to work, then you have to work."
+
+//TEXT
+<enT0202>He really is good.
+<ptT0202>He really is good.
+
+//TEXT
+<enT0203>He's completely different from all the other people around here.
+<ptT0203>He's completely different from all the other people around here.
+
+//TEXT
+<enT0204>He had me the second he got hold of my arms...
+<ptT0204>He had me the second he got hold of my arms...
+
+//TEXT 【Tomosane】
+<enT0205>"Heh..."
+<ptT0205>"Heh..."
+
+//TEXT 【Master】
+<enT0206>"What are you laughing about? Go get changed."
+<ptT0206>"What are you laughing about? Go get changed."
+
+//TEXT 【Hasaki】
+<enT0207>"Nii-san."
+<ptT0207>"Nii-san."
+
+//TEXT 【Tomosane】
+<enT0208>"I'm not your Nii-san... I'm Yuuki right now. Yuuki Tomosane."
+<ptT0208>"I'm not your Nii-san... I'm Yuuki right now. Yuuki Tomosane."
+
+//TEXT 【Hasaki】
+<enT0209>"So Tomosane Nii-san..."
+<ptT0209>"So Tomosane Nii-san..."
+
+//TEXT 【Tomosane】
+<enT0210>"You know... My last name is different than yours, so you shouldn't be calling me that."
+<ptT0210>"You know... My last name is different than yours, so you shouldn't be calling me that."
+
+//TEXT 【Master】
+<enT0211>"What are you talking about? You can call someone Onii-chan even if you're not related to them."
+<ptT0211>"What are you talking about? You can call someone Onii-chan even if you're not related to them."
+
+//TEXT 【Master】
+<enT0212>"And besides, the two of you are related by blood, Tomo-chan."
+<ptT0212>"And besides, the two of you are related by blood, Tomo-chan."
+
+//TEXT 【Tomosane】
+<enT0213>"That's not it... And please don't call me Tomo-chan."
+<ptT0213>"That's not it... And please don't call me Tomo-chan."
+
+//TEXT 【Master】
+<enT0214>"Shut up. Why are you worried about junk like that?"
+<ptT0214>"Shut up. Why are you worried about junk like that?"
+
+//TEXT 【Tomosane】
+<enT0215>"It's not junk... That's really unpleasant."
+<ptT0215>"It's not junk... That's really unpleasant."
+
+//TEXT 【Master】
+<enT0216>"Is that why you've got nothing but junk down here?"
+<ptT0216>"Is that why you've got nothing but junk down here?"
+
+//TEXT 【Tomosane】
+<enT0217>"Wha-?!"
+<ptT0217>"Wha-?!"
+
+//TEXT 【Master】
+<enT0218>"Look, just a tiny piece of junk."
+<ptT0218>"Look, just a tiny piece of junk."
+
+//TEXT 【Tomosane】
+<enT0219>"S-Stop... Y-You're going to break it... Stop!"
+<ptT0219>"S-Stop... Y-You're going to break it... Stop!"
+
+//TEXT 【Master】
+<enT0220>"Ahahaha, it's you're fault you're so vulnerable. You should learn the value of an hour of training every day of your life."
+<ptT0220>"Ahahaha, it's you're fault you're so vulnerable. You should learn the value of an hour of training every day of your life."
+
+//TEXT 【Tomosane】
+<enT0221>"I'm not a martial artist."
+<ptT0221>"I'm not a martial artist."
+
+//TEXT 【Master】
+<enT0222>"Oh, really? I guess you're just a punk who thinks it's all right to beat up amateurs."
+<ptT0222>"Oh, really? I guess you're just a punk who thinks it's all right to beat up amateurs."
+
+//TEXT 【Tomosane】
+<enT0223>"Th-That's not..."
+<ptT0223>"Th-That's not..."
+
+//TEXT 【Master】
+<enT0224>"You act tough, but you're still a child, especially down here. Right, Hasaki-chan?"
+<ptT0224>"You act tough, but you're still a child, especially down here. Right, Hasaki-chan?"
+
+//TEXT
+<enT0225>Hasaki just...
+<ptT0225>Hasaki just...
+
+//TEXT
+<enT0226> shook her head, like she was saying...
+<ptT0226> shook her head, like she was saying...
+
+//TEXT
+<enT0227> 'Don't ask me, don't ask me.'
+<ptT0227> 'Don't ask me, don't ask me.'
+
+//TEXT
+<enT0228>She had no idea what to say when Master suddenly asked her a question like that.
+<ptT0228>She had no idea what to say when Master suddenly asked her a question like that.
+
+//TEXT
+<enT0229>I played one of my favorite songs.
+<ptT0229>I played one of my favorite songs.
+
+//TEXT
+<enT0230>...Le poisson reveur.
+<ptT0230>...Le poisson reveur.
+
+//TEXT
+<enT0231>A composition by the French composer Erik Satie.
+<ptT0231>A composition by the French composer Erik Satie.
+
+//TEXT
+<enT0232>Though I just copied it by ear, so it's a little different from the original.
+<ptT0232>Though I just copied it by ear, so it's a little different from the original.
+
+//TEXT
+<enT0233>The antithesis of tonal music...
+<ptT0233>The antithesis of tonal music...
+
+//TEXT
+<enT0234>It ignores traditional harmonic progression. The score includes copious examples of unusual counterpoint and chord progression.
+<ptT0234>It ignores traditional harmonic progression. The score includes copious examples of unusual counterpoint and chord progression.
+
+//TEXT
+<enT0235>This strange music is called furniture music.
+<ptT0235>This strange music is called furniture music.
+
+//TEXT
+<enT0236>In actually playing Satie's music on the piano... there are parts where I can understand what he intended the music to sound like, and other parts where I can't understand at all.
+<ptT0236>In actually playing Satie's music on the piano... there are parts where I can understand what he intended the music to sound like, and other parts where I can't understand at all.
+
+//TEXT
+<enT0237>Music is a mysterious phenomenon.
+<ptT0237>Music is a mysterious phenomenon.
+
+//TEXT
+<enT0238>The music my hands are playing was originally a melody in someone's head a long time ago in a distant land.
+<ptT0238>The music my hands are playing was originally a melody in someone's head a long time ago in a distant land.
+
+//TEXT
+<enT0239>Whether the composer would admit it or not, that melody was made up through an amalgamation of his thoughts, his emotions, and his life.
+<ptT0239>Whether the composer would admit it or not, that melody was made up through an amalgamation of his thoughts, his emotions, and his life.
+
+//TEXT
+<enT0240>And now I'm reproducing one tiny part of that... No doubt, an incomplete fragment.
+<ptT0240>And now I'm reproducing one tiny part of that... No doubt, an incomplete fragment.
+
+//TEXT
+<enT0241>Was the original melody in his head the same as the melody in my ears now?
+<ptT0241>Was the original melody in his head the same as the melody in my ears now?
+
+//TEXT
+<enT0242>How well does the sound of my own playing overlap with the melody Satie first conceived?
+<ptT0242>How well does the sound of my own playing overlap with the melody Satie first conceived?
+
+//TEXT
+<enT0243>A colorful sound.
+<ptT0243>A colorful sound.
+
+//TEXT
+<enT0244>The melody paints a scene.
+<ptT0244>The melody paints a scene.
+
+//TEXT
+<enT0245>Could this melody blend into the background music of his life?
+<ptT0245>Could this melody blend into the background music of his life?
+
+//TEXT
+<enT0246>These aimless thoughts ran through my head as my fingers struck the keys.
+<ptT0246>These aimless thoughts ran through my head as my fingers struck the keys.
+
+//TEXT 【Tomosane】
+<enT0247>"..."
+<ptT0247>"..."
+
+//TEXT
+<enT0248>That's a bad habit... When I get lost in my own head, I can't see the customers.
+<ptT0248>That's a bad habit... When I get lost in my own head, I can't see the customers.
+
+//TEXT
+<enT0249>I'm playing for the customers... I'm being paid to do this.
+<ptT0249>I'm playing for the customers... I'm being paid to do this.
+
+//TEXT
+<enT0250>I have to focus on the music.
+<ptT0250>I have to focus on the music.
+
+//TEXT
+<enT0251>But still...
+<ptT0251>But still...
+
+//TEXT 【Customer A】
+<enT0252>"Kyaa, Tomosane-kun, you're so cool."
+<ptT0252>"Kyaa, Tomosane-kun, you're so cool."
+
+//TEXT 【Customer B】
+<enT0253>"Wow! You're so sexy!"
+<ptT0253>"Wow! You're so sexy!"
+
+//TEXT
+<enT0254>The old men flirted with me in shrill voices... They weren't listening to the music at all.
+<ptT0254>The old men flirted with me in shrill voices... They weren't listening to the music at all.
+
+//TEXT
+<enT0255>They were just making noise.
+<ptT0255>They were just making noise.
+
+//TEXT
+<enT0256>No... That's what Satie intended this music to be anyway, I suppose.
+<ptT0256>No... That's what Satie intended this music to be anyway, I suppose.
+
+//TEXT
+<enT0257>There's a composition by Satie that's actually titled Furniture Music, after Satie's style of composition.
+<ptT0257>There's a composition by Satie that's actually titled Furniture Music, after Satie's style of composition.
+
+//TEXT
+<enT0258>Apparently the program for the concert where it was first played told people that they needn't listen to the music playing during the interlude.
+<ptT0258>Apparently the program for the concert where it was first played told people that they needn't listen to the music playing during the interlude.
+
+//TEXT
+<enT0259>But of course, when the audience heard the player begin to perform during the interlude, they sat quietly and listened.
+<ptT0259>But of course, when the audience heard the player begin to perform during the interlude, they sat quietly and listened.
+
+//TEXT
+<enT0260>Satie told them, 'Please continue talking!'
+<ptT0260>Satie told them, 'Please continue talking!'
+
+//TEXT
+<enT0261>So maybe... this is exactly how Satie wanted his music to be performed?
+<ptT0261>So maybe... this is exactly how Satie wanted his music to be performed?
+
+//TEXT 【Customer B】
+<enT0262>"Tomo-kun, you're so cute!"
+<ptT0262>"Tomo-kun, you're so cute!"
+
+//TEXT 【Customer A】
+<enT0263>"Especially between your legs!"
+<ptT0263>"Especially between your legs!"
+
+//TEXT 【Customer B】
+<enT0264>"I wonder if he really is cute down there."
+<ptT0264>"I wonder if he really is cute down there."
+
+//TEXT 【Customer A】
+<enT0265>"Of course he is!"
+<ptT0265>"Of course he is!"
+
+//TEXT 【Customer A】
+<enT0266>"Let me suck on your cute little guy!"
+<ptT0266>"Let me suck on your cute little guy!"
+
+//TEXT 【Tomosane】
+<enT0267>"Huh?!"
+<ptT0267>"Huh?!"
+
+//TEXT
+<enT0268>There's no way Satie wanted this.
+<ptT0268>There's no way Satie wanted this.
+
+//TEXT 【Customer A】
+<enT0269>"Ahh! That hurt."
+<ptT0269>"Ahh! That hurt."
+
+//TEXT 【Customer B】
+<enT0270>"Kyaa! Hit me too! Hit me too, Tomo-kun!"
+<ptT0270>"Kyaa! Hit me too! Hit me too, Tomo-kun!"
+
+//TEXT 【Tomosane】
+<enT0271>"D-Don't crowd me, you fags! How am I supposed to play?!"
+<ptT0271>"D-Don't crowd me, you fags! How am I supposed to play?!"
+
+//TEXT 【Master】
+<enT0272>"Come on, don't touch the dancer, don't touch the dancer. And you, don't hit the customers."
+<ptT0272>"Come on, don't touch the dancer, don't touch the dancer. And you, don't hit the customers."
+
+//TEXT 【Tomosane】
+<enT0273>"I'm not a dancer!"
+<ptT0273>"I'm not a dancer!"
+
+//TEXT 【Tomosane】
+<enT0274>"Haa..."
+<ptT0274>"Haa..."
+
+//TEXT 【Master】
+<enT0275>"Good work. Your next performance is in two hours... Be ready at ten."
+<ptT0275>"Good work. Your next performance is in two hours... Be ready at ten."
+
+//TEXT 【Tomosane】
+<enT0276>"I don't mind playing the piano, but can you get rid of those fags for me? They're really creepy."
+<ptT0276>"I don't mind playing the piano, but can you get rid of those fags for me? They're really creepy."
+
+//TEXT 【Master】
+<enT0277>"Oh now, you can't say that about our best customers."
+<ptT0277>"Oh now, you can't say that about our best customers."
+
+//TEXT 【Tomosane】
+<enT0278>"I don't care if they're customers, they're nasty. All those fags are nasty."
+<ptT0278>"I don't care if they're customers, they're nasty. All those fags are nasty."
+
+//TEXT 【Master】
+<enT0279>"It almost sounds like you're talking about me too when you say that. I'm one of those fags that doesn't care if the person I do it with isn't gay, you know."
+<ptT0279>"It almost sounds like you're talking about me too when you say that. I'm one of those fags that doesn't care if the person I do it with isn't gay, you know."
+
+//TEXT 【Tomosane】
+<enT0280>"...Wh-What do you mean by that?"
+<ptT0280>"...Wh-What do you mean by that?"
+
+//TEXT 【Master】
+<enT0281>"Maybe I should help you out with that cute little guy between your legs..."
+<ptT0281>"Maybe I should help you out with that cute little guy between your legs..."
+
+//TEXT 【Tomosane】
+<enT0282>"..."
+<ptT0282>"..."
+
+//TEXT 【Master】
+<enT0283>"Oh, you've got goosebumps all over. You're so innocent."
+<ptT0283>"Oh, you've got goosebumps all over. You're so innocent."
+
+//TEXT 【Tomosane】
+<enT0284>"It has nothing to do with innocence... It's creepy as hell when a monster like you says that."
+<ptT0284>"It has nothing to do with innocence... It's creepy as hell when a monster like you says that."
+
+//TEXT 【Master】
+<enT0285>"Oh, really? You're at such a difficult age. Just talking about your little Johnny gets you all embarrassed."
+<ptT0285>"Oh, really? You're at such a difficult age. Just talking about your little Johnny gets you all embarrassed."
+
+//TEXT 【Tomosane】
+<enT0286>"No... My age has nothing to do with it."
+<ptT0286>"No... My age has nothing to do with it."
+
+//TEXT 【Master】
+<enT0287>"Then what is it?"
+<ptT0287>"Then what is it?"
+
+//TEXT 【Tomosane】
+<enT0288>"Because you're a nasty old man."
+<ptT0288>"Because you're a nasty old man."
+
+//TEXT 【Master】
+<enT0289>"I'm not an old man! That's mean, Tomo-chan!"
+<ptT0289>"I'm not an old man! That's mean, Tomo-chan!"
+
+//TEXT 【Tomosane】
+<enT0290>"...Like I care."
+<ptT0290>"...Like I care."
+
+//TEXT 【Tomosane】
+<enT0291>"Look... You're gonna make her break another plate."
+<ptT0291>"Look... You're gonna make her break another plate."
+
+//TEXT 【Master】
+<enT0292>"Oh? I'm sorry... You're a bit young to be hearing about all that, Hasaki-chan. You know, all that talk about two men licking each other's cute little guys."
+<ptT0292>"Oh? I'm sorry... You're a bit young to be hearing about all that, Hasaki-chan. You know, all that talk about two men licking each other's cute little guys."
+
+//TEXT 【Hasaki】
+<enT0293>"C-Cute little guys?!"
+<ptT0293>"C-Cute little guys?!"
+
+//TEXT 【Master】
+<enT0294>"Yeah, right here. Let me show you."
+<ptT0294>"Yeah, right here. Let me show you."
+
+//TEXT 【Tomosane】
+<enT0295>"Knock it off!"
+<ptT0295>"Knock it off!"
+
+//TEXT 【Hasaki】
+<enT0296>"Th-That's all right! I-I'm not upset at all! Please, continue with your conversation!"
+<ptT0296>"Th-That's all right! I-I'm not upset at all! Please, continue with your conversation!"
+
+//TEXT 【Tomosane】
+<enT0297>"Oh, and... there's no such thing as too young to be hearing about fags blowing each other. That's wrong, no matter how old you are."
+<ptT0297>"Oh, and... there's no such thing as too young to be hearing about fags blowing each other. That's wrong, no matter how old you are."
+
+//TEXT 【Master】
+<enT0298>"Oh, really? But it's not all that uncommon at all... you know?"
+<ptT0298>"Oh, really? But it's not all that uncommon at all... you know?"
+
+//TEXT 【Tomosane】
+<enT0299>"S-Stop! Whoa, stop, get your hands off my fly!"
+<ptT0299>"S-Stop! Whoa, stop, get your hands off my fly!"
+
+//TEXT 【Master】
+<enT0300>"Hehehe... You know I love popping little straight boys' cherries."
+<ptT0300>"Hehehe... You know I love popping little straight boys' cherries."
+
+//TEXT 【Hasaki】
+<enT0301>"N-No, no, no!"
+<ptT0301>"N-No, no, no!"
+
+//TEXT 【Hasaki】
+<enT0302>"You can't do that, you can't do that! Not to Tomo Nii-san!"
+<ptT0302>"You can't do that, you can't do that! Not to Tomo Nii-san!"
+
+//TEXT
+<enT0303>Hasaki was almost in tears as she stepped in to stop him.
+<ptT0303>Hasaki was almost in tears as she stepped in to stop him.
+
+//TEXT
+<enT0304>Which is fine, but...
+<ptT0304>Which is fine, but...
+
+//TEXT 【Hasaki】
+<enT0305>"No! Go find someone else to do that with!"
+<ptT0305>"No! Go find someone else to do that with!"
+
+//TEXT 【Master】
+<enT0306>"Huh? I've done that so much I'm about tired of it."
+<ptT0306>"Huh? I've done that so much I'm about tired of it."
+
+//TEXT 【Hasaki】
+<enT0307>"Not my problem. Who cares? Go suck your own for all I care!"
+<ptT0307>"Not my problem. Who cares? Go suck your own for all I care!"
+
+//TEXT 【Master】
+<enT0308>"But my body isn't soft like his is."
+<ptT0308>"But my body isn't soft like his is."
+
+//TEXT 【Hasaki】
+<enT0309>"Who cares?! Anyway, Tomo Nii-san is off limits! You can't lick him or suck him or anything!"
+<ptT0309>"Who cares?! Anyway, Tomo Nii-san is off limits! You can't lick him or suck him or anything!"
+
+//TEXT
+<enT0310>Hasaki was on the verge of tears and rambling about terrible things... Is she all right?
+<ptT0310>Hasaki was on the verge of tears and rambling about terrible things... Is she all right?
+
+//TEXT 【Master】
+<enT0311>"But, you know, he has to find someone to give him a good blowjob eventually."
+<ptT0311>"But, you know, he has to find someone to give him a good blowjob eventually."
+
+//TEXT 【Hasaki】
+<enT0312>"Y-You don't need to worry about that! I'm sure we can solve that problem here in the family!"
+<ptT0312>"Y-You don't need to worry about that! I'm sure we can solve that problem here in the family!"
+
+//TEXT
+<enT0313>No, Hasaki... I'm pretty sure you're not supposed to solve that problem in the family.
+<ptT0313>No, Hasaki... I'm pretty sure you're not supposed to solve that problem in the family.
+
+//TEXT 【Tomosane】
+<enT0314>"More importantly, Master... It's not like I actually have to find someone to do that."
+<ptT0314>"More importantly, Master... It's not like I actually have to find someone to do that."
+
+//TEXT 【Hasaki】
+<enT0315>"Ah, ah, auuhh..."
+<ptT0315>"Ah, ah, auuhh..."
+
+//TEXT
+<enT0316>Hasaki finally realized what she had been rambling about the entire time. Her face went bright red, and then turned terribly pale.
+<ptT0316>Hasaki finally realized what she had been rambling about the entire time. Her face went bright red, and then turned terribly pale.
+
+//TEXT 【Master】
+<enT0317>"Hasaki-chan, you're like a stop light..."
+<ptT0317>"Hasaki-chan, you're like a stop light..."
+
+//TEXT 【Tomosane】
+<enT0318>"That's your fault, you know..."
+<ptT0318>"That's your fault, you know..."
+
+//TEXT
+<enT0319>This is the crap I put up with every day.
+<ptT0319>This is the crap I put up with every day.
+
+//TEXT
+<enT0320>I'm utterly stunned at how stupid it is.
+<ptT0320>I'm utterly stunned at how stupid it is.
+
+//TEXT
+<enT0321>It's not all that bad, though.
+<ptT0321>It's not all that bad, though.
+
+//TEXT
+<enT0322>I shouldn't be experiencing these days, but... they're not all bad.
+<ptT0322>I shouldn't be experiencing these days, but... they're not all bad.
+
+//TEXT
+<enT0323>But I mustn't forget.
+<ptT0323>But I mustn't forget.
+
+//TEXT
+<enT0324>My life here could crumble and disappear at any moment.
+<ptT0324>My life here could crumble and disappear at any moment.
+
+//TEXT
+<enT0325>My whole lifestyle is precarious... It's built upon a foundation that could collapse without warning.
+<ptT0325>My whole lifestyle is precarious... It's built upon a foundation that could collapse without warning.
+
+//TEXT
+<enT0326>I might appear normal to an outsider, but my life is completely different from that of other people.
+<ptT0326>I might appear normal to an outsider, but my life is completely different from that of other people.
+
+//TEXT
+<enT0327>Someday... No, soon... I'll disappear.
+<ptT0327>Someday... No, soon... I'll disappear.
+
+//TEXT
+<enT0328>That's just how it is.
+<ptT0328>That's just how it is.
+
+//TEXT
+<enT0329>So I have to be prepared for the moment when I'm cut out of the picture, when I won't be able to experience these days ever again.
+<ptT0329>So I have to be prepared for the moment when I'm cut out of the picture, when I won't be able to experience these days ever again.
+
+//TEXT
+<enT0330>Because I can't stay here long... I have to be ready for my own disappearance, no matter when it comes.
+<ptT0330>Because I can't stay here long... I have to be ready for my own disappearance, no matter when it comes.
+
+//TEXT
+<enT0331>"You mustn't covet your possessions, for you may never know what could happen in the future."
+<ptT0331>"You mustn't covet your possessions, for you may never know what could happen in the future."
+
+//TEXT
+<enT0332>Those were the words of a genius who conducted the Leningrad Philharmonic behind the Iron Curtain.
+<ptT0332>Those were the words of a genius who conducted the Leningrad Philharmonic behind the Iron Curtain.
+
+//TEXT
+<enT0333>Despite his fame, he lived a very simple life, filled with nothing more than nature, music, and art.
+<ptT0333>Despite his fame, he lived a very simple life, filled with nothing more than nature, music, and art.
+
+//TEXT
+<enT0334>You musn't covet your possessions...
+<ptT0334>You musn't covet your possessions...
+
+//TEXT
+<enT0335>That applies not just to physical possessions, but also those of the heart.
+<ptT0335>That applies not just to physical possessions, but also those of the heart.
+
+//TEXT
+<enT0336>I mustn't have too much in this world.
+<ptT0336>I mustn't have too much in this world.
+
+///================================================================================
+
+//OTHER
+<enZ0001>4_0000.bss
+<ptZ0001>4_0000.bss
+
+//OTHER
+<enZ0002>
+<ptZ0002>
+
+//OTHER
+<enZ0003>Jabberwocky
+<ptZ0003>Jabberwocky
+
+//OTHER
+<enZ0004>bgm112
+<ptZ0004>bgm112
+
+//OTHER
+<enZ0005>black
+<ptZ0005>black
+
+//OTHER
+<enZ0006>bgm003
+<ptZ0006>bgm003
+
+//OTHER
+<enZ0007>sp0011b
+<ptZ0007>sp0011b
+
+//OTHER
+<enZ0008>se553
+<ptZ0008>se553
+
+//OTHER
+<enZ0009>map009
+<ptZ0009>map009
+
+//OTHER
+<enZ0010>bg1030a
+<ptZ0010>bg1030a
+
+//OTHER
+<enZ0011>ms0000
+<ptZ0011>ms0000
+
+//OTHER
+<enZ0012>ms0001
+<ptZ0012>ms0001
+
+//OTHER
+<enZ0013>ms0006
+<ptZ0013>ms0006
+
+//OTHER
+<enZ0014>ms0009
+<ptZ0014>ms0009
+
+//OTHER
+<enZ0015>ms0060
+<ptZ0015>ms0060
+
+//OTHER
+<enZ0016>se901
+<ptZ0016>se901
+
+//OTHER
+<enZ0017>sp0008i
+<ptZ0017>sp0008i
+
+//OTHER
+<enZ0018>bgm017
+<ptZ0018>bgm017
+
+//OTHER
+<enZ0019>yuki_003023
+<ptZ0019>yuki_003023
+
+//OTHER
+<enZ0020>yuki_003024
+<ptZ0020>yuki_003024
+
+//OTHER
+<enZ0021>yuki_003025
+<ptZ0021>yuki_003025
+
+//OTHER
+<enZ0022>yuki_003026
+<ptZ0022>yuki_003026
+
+//OTHER
+<enZ0023>yuki_003027
+<ptZ0023>yuki_003027
+
+//OTHER
+<enZ0024>yuki_003028
+<ptZ0024>yuki_003028
+
+//OTHER
+<enZ0025>yuki_003029
+<ptZ0025>yuki_003029
+
+//OTHER
+<enZ0026>yuki_003030
+<ptZ0026>yuki_003030
+
+//OTHER
+<enZ0027>se040
+<ptZ0027>se040
+
+//OTHER
+<enZ0028>yuki_003031
+<ptZ0028>yuki_003031
+
+//OTHER
+<enZ0029>yuki_003032
+<ptZ0029>yuki_003032
+
+//OTHER
+<enZ0030>yuki_003033
+<ptZ0030>yuki_003033
+
+//OTHER
+<enZ0031>yuki_003034
+<ptZ0031>yuki_003034
+
+//OTHER
+<enZ0032>yuki_003035
+<ptZ0032>yuki_003035
+
+//OTHER
+<enZ0033>yuki_003036
+<ptZ0033>yuki_003036
+
+//OTHER
+<enZ0034>yuki_003037
+<ptZ0034>yuki_003037
+
+//OTHER
+<enZ0035>map021
+<ptZ0035>map021
+
+//OTHER
+<enZ0036>se231
+<ptZ0036>se231
+
+//OTHER
+<enZ0037>ms0033
+<ptZ0037>ms0033
+
+//OTHER
+<enZ0038>ms0010
+<ptZ0038>ms0010
+
+//OTHER
+<enZ0039>hs1000a
+<ptZ0039>hs1000a
+
+//OTHER
+<enZ0040>hasa_000125
+<ptZ0040>hasa_000125
+
+//OTHER
+<enZ0041>hs1008a
+<ptZ0041>hs1008a
+
+//OTHER
+<enZ0042>hs1004a
+<ptZ0042>hs1004a
+
+//OTHER
+<enZ0043>hasa_000126
+<ptZ0043>hasa_000126
+
+//OTHER
+<enZ0044>hs1051a
+<ptZ0044>hs1051a
+
+//OTHER
+<enZ0045>hasa_000127
+<ptZ0045>hasa_000127
+
+//OTHER
+<enZ0046>hs1004
+<ptZ0046>hs1004
+
+//OTHER
+<enZ0047>hasa_000128
+<ptZ0047>hasa_000128
+
+//OTHER
+<enZ0048>se616
+<ptZ0048>se616
+
+//OTHER
+<enZ0049>hasa_000129
+<ptZ0049>hasa_000129
+
+//OTHER
+<enZ0050>hs0006a
+<ptZ0050>hs0006a
+
+//OTHER
+<enZ0051>hasa_000130
+<ptZ0051>hasa_000130
+
+//OTHER
+<enZ0052>se634
+<ptZ0052>se634
+
+//OTHER
+<enZ0053>ms0001_l
+<ptZ0053>ms0001_l
+
+//OTHER
+<enZ0054>bgm001
+<ptZ0054>bgm001
+
+//OTHER
+<enZ0055>se313
+<ptZ0055>se313
+
+//OTHER
+<enZ0056>map004
+<ptZ0056>map004
+
+//OTHER
+<enZ0057>hs1000
+<ptZ0057>hs1000
+
+//OTHER
+<enZ0058>hasa_000131
+<ptZ0058>hasa_000131
+
+//OTHER
+<enZ0059>hasa_000132
+<ptZ0059>hasa_000132
+
+//OTHER
+<enZ0060>hs1010a
+<ptZ0060>hs1010a
+
+//OTHER
+<enZ0061>hs1109a
+<ptZ0061>hs1109a
+
+//OTHER
+<enZ0062>se318
+<ptZ0062>se318
+
+//OTHER
+<enZ0063>ms0003
+<ptZ0063>ms0003
+
+//OTHER
+<enZ0064>hs1006a
+<ptZ0064>hs1006a
+
+//OTHER
+<enZ0065>hs1106
+<ptZ0065>hs1106
+
+//OTHER
+<enZ0066>hs1106a
+<ptZ0066>hs1106a
+
+//OTHER
+<enZ0067>bgm022
+<ptZ0067>bgm022
+
+//OTHER
+<enZ0068>map011
+<ptZ0068>map011
+
+//OTHER
+<enZ0069>ev0002c
+<ptZ0069>ev0002c
+
+//OTHER
+<enZ0070>se004
+<ptZ0070>se004
+
+//OTHER
+<enZ0071>map029
+<ptZ0071>map029
+
+//OTHER
+<enZ0072>ms0007
+<ptZ0072>ms0007
+
+//OTHER
+<enZ0073>hs0108
+<ptZ0073>hs0108
+
+//OTHER
+<enZ0074>hs0109
+<ptZ0074>hs0109
+
+//OTHER
+<enZ0075>hasa_000133
+<ptZ0075>hasa_000133
+
+//OTHER
+<enZ0076>hs0190a
+<ptZ0076>hs0190a
+
+//OTHER
+<enZ0077>hasa_000134
+<ptZ0077>hasa_000134
+
+//OTHER
+<enZ0078>ms0010_l
+<ptZ0078>ms0010_l
+
+//OTHER
+<enZ0079>se070
+<ptZ0079>se070
+
+//OTHER
+<enZ0080>hs0109a
+<ptZ0080>hs0109a
+
+//OTHER
+<enZ0081>hs0013a
+<ptZ0081>hs0013a
+
+//OTHER
+<enZ0082>hasa_000135
+<ptZ0082>hasa_000135
+
+//OTHER
+<enZ0083>hasa_000136
+<ptZ0083>hasa_000136
+
+//OTHER
+<enZ0084>hs0014a
+<ptZ0084>hs0014a
+
+//OTHER
+<enZ0085>hasa_000137
+<ptZ0085>hasa_000137
+
+//OTHER
+<enZ0086>hasa_000138
+<ptZ0086>hasa_000138
+
+//OTHER
+<enZ0087>hasa_000139
+<ptZ0087>hasa_000139
+
+//OTHER
+<enZ0088>hasa_000140
+<ptZ0088>hasa_000140
+
+//OTHER
+<enZ0089>hasa_000141
+<ptZ0089>hasa_000141
+
+//OTHER
+<enZ0090>hs0090a
+<ptZ0090>hs0090a
+
+//OTHER
+<enZ0091>map019
+<ptZ0091>map019
+
+//OTHER
+<enZ0092>4_0703
+<ptZ0092>4_0703
+

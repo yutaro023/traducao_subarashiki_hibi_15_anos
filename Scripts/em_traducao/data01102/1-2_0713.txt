@@ -12,11 +12,11 @@
 
 //NAME
 <enN0004>Female Student
-<ptN0004>Female Student
+<ptN0004>Estudante Feminina
 
 //NAME
 <enN0005>Male Student
-<ptN0005>Male Student
+<ptN0005>Estudante Masculino
 
 //NAME
 <enN0006>Miu
@@ -58,19 +58,19 @@
 
 //TEXT
 <enT0003>Who...
-<ptT0003>Who...
+<ptT0003>De quem...
 
 //TEXT
 <enT0004>This voice...
-<ptT0004>This voice...
+<ptT0004>É essa voz...
 
 //TEXT
 <enT0005>This is...
-<ptT0005>This is...
+<ptT0005>Isso é...
 
 //TEXT
 <enT0006>Oh, right...    is...
-<ptT0006>Oh, right...    is...
+<ptT0006>Ah, certo...    é a...
 
 //TEXT 【Yuki】
 <enT0007>"..."
@@ -90,7 +90,7 @@
 
 //TEXT 【Tsukasa】
 <enT0011>"Yuki, you have to get up."
-<ptT0011>"Yuki, you have to get up."
+<ptT0011>"Yuki, você tem que levantar."
 
 //TEXT 【Yuki】
 <enT0012>"..."
@@ -98,7 +98,7 @@
 
 //TEXT 【Tsukasa】
 <enT0013>"If you keep sleeping, we're going to be late."
-<ptT0013>"If you keep sleeping, we're going to be late."
+<ptT0013>"Se você continuar dormindo, nós vamos chegar atrasadas."
 
 //TEXT 【Yuki】
 <enT0014>"..."
@@ -106,7 +106,7 @@
 
 //TEXT 【Tsukasa】
 <enT0015>"It's morning! Get up, Yuki!"
-<ptT0015>"It's morning! Get up, Yuki!"
+<ptT0015>"Já é de manhã! Levanta, Yuki!"
 
 //TEXT 【Yuki】
 <enT0016>"..."
@@ -114,7 +114,7 @@
 
 //TEXT 【Tsukasa】
 <enT0017>"Get up already."
-<ptT0017>"Get up already."
+<ptT0017>"Levanta logo."
 
 //TEXT 【Yuki】
 <enT0018>"Hmmm..."
@@ -122,7 +122,7 @@
 
 //TEXT 【Tsukasa】
 <enT0019>"No, you can't sleep in. You'll be late again."
-<ptT0019>"No, you can't sleep in. You'll be late again."
+<ptT0019>"Não, você não ficar dormindo até tarde. Você vai se atrasar de novo."
 
 //TEXT 【Yuki】
 <enT0020>"Zzz..."
@@ -130,11 +130,11 @@
 
 //TEXT 【Tsukasa】
 <enT0021>"She's snoring again. I guess I have no choice."
-<ptT0021>"She's snoring again. I guess I have no choice."
+<ptT0021>"Ela está roncando de novo. Acho que não tenho escolha."
 
 //TEXT 【Kagami】
 <enT0022>"Move over."
-<ptT0022>"Move over."
+<ptT0022>"Dá espaço."
 
 //TEXT 【Tsukasa】
 <enT0023>"Whaa?"
@@ -154,43 +154,43 @@
 
 //TEXT 【Kagami】
 <enT0027>"How about you get up?"
-<ptT0027>"How about you get up?"
+<ptT0027>"Que tal você se levantar?"
 
 //TEXT 【Yuki】
 <enT0028>"Agh! Ow! You're going to break my spine! My spine!"
-<ptT0028>"Agh! Ow! You're going to break my spine! My spine!"
+<ptT0028>"Agh! Ow!Você vai quebrar minha coluna! Minha coluna!"
 
 //TEXT 【Tsukasa】
 <enT0029>"Yuki, if you don't get up, you're going to get hurt."
-<ptT0029>"Yuki, if you don't get up, you're going to get hurt."
+<ptT0029>"Yuki, se você não se levantar, você vai se machucar."
 
 //TEXT 【Yuki】
 <enT0030>"Aaaah! If you think she's going to hurt me, why don't you stop her?!"
-<ptT0030>"Aaaah! If you think she's going to hurt me, why don't you stop her?!"
+<ptT0030>"Aaaah! Se você acha que ela vai me machucar, por que não a impede?!"
 
 //TEXT 【Kagami】
 <enT0031>"That's no good. If I stop, you'll go back to sleep. You haven't changed one bit."
-<ptT0031>"That's no good. If I stop, you'll go back to sleep. You haven't changed one bit."
+<ptT0031>"Isso não é bom. Se eu parar, você vai voltar a dormir. Você não mudou nem um pouco."
 
 //TEXT 【Yuki】
 <enT0032>"I won't! I promise I won't go back to sleep! So please! Don't sit on me!"
-<ptT0032>"I won't! I promise I won't go back to sleep! So please! Don't sit on me!"
+<ptT0032>"Eu não vou! Eu prometo que não vou voltar a dormir! Então, por favor! Sai cima de mim!"
 
 //TEXT 【Kagami】
 <enT0033>"No way! I can't trust you to get up just because you say you will."
-<ptT0033>"No way! I can't trust you to get up just because you say you will."
+<ptT0033>"Sem chance! Eu não posso confiar que você vai se levantar só porque você diz que vai."
 
 //TEXT 【Yuki】
 <enT0034>"Are you stupid?!"
-<ptT0034>"Are you stupid?!"
+<ptT0034>"Você é estúpida?!"
 
 //TEXT 【Kagami】
 <enT0035>"What did you say?! Didn't I come all the way here just to wake you up?! You're going to piss me off!"
-<ptT0035>"What did you say?! Didn't I come all the way here just to wake you up?! You're going to piss me off!"
+<ptT0035>"O que você disse?! Eu não vim até aqui só para te acordar?! Você vai me irritar!"
 
 //TEXT 【Yuki】
 <enT0036>"Aaah, n-no. Ah, stop. My spine's going to snap, aaaah."
-<ptT0036>"Aaah, n-no. Ah, stop. My spine's going to snap, aaaah."
+<ptT0036>"Aaah, n-não. Ah, pare. Minha coluna vai quebrar, aaaah."
 
 //TEXT 【Tsukasa】
 <enT0037>"Um, Onee-chan."
@@ -198,51 +198,51 @@
 
 //TEXT 【Kagami】
 <enT0038>"Be quiet, Tsukasa! I won't move until she gets up!"
-<ptT0038>"Be quiet, Tsukasa! I won't move until she gets up!"
+<ptT0038>"Fique quieta, Tsukasa! Eu não vou me mover até que ela se levante!"
 
 //TEXT 【Tsukasa】
 <enT0039>"Um, Onee-chan, I don't think she can get up until you get off of her."
-<ptT0039>"Um, Onee-chan, I don't think she can get up until you get off of her."
+<ptT0039>"Um, Onee-chan, Eu não acho que ela consiga se levantar com você em cima dela."
 
 //TEXT 【Kagami】
 <enT0040>"Oh, I see. That's a pretty good theory you have there."
-<ptT0040>"Oh, I see. That's a pretty good theory you have there."
+<ptT0040>"Oh, Eu vejo. Essa é uma teoria muito boa que você tem aí."
 
 //TEXT 【Yuki】
 <enT0041>"It's not a theory! It's a fact, no matter how you look at it!"
-<ptT0041>"It's not a theory! It's a fact, no matter how you look at it!"
+<ptT0041>"Não é uma teoria! É um fato, não importa como você olhe para isso!"
 
 //TEXT 【Kagami】
 <enT0042>"Shut up. I-I'm not that heavy..."
-<ptT0042>"Shut up. I-I'm not that heavy..."
+<ptT0042>"Cala a boca. Eu-eu não sou tão pesada..."
 
 //TEXT 【Yuki】
 <enT0043>"You totally are!"
-<ptT0043>"You totally are!"
+<ptT0043>"Você É pesada!"
 
 //TEXT 【Kagami】
 <enT0044>"I am not!"
-<ptT0044>"I am not!"
+<ptT0044>"Eu não sou!"
 
 //TEXT 【Tsukasa】
 <enT0045>"Ahaha. Come on, get off her, Onee-chan."
-<ptT0045>"Ahaha. Come on, get off her, Onee-chan."
+<ptT0045>"Ahaha. Vamos, saia de cima dela, Onee-chan."
 
 //TEXT 【Yuki】
 <enT0046>"I thought I was going to die."
-<ptT0046>"I thought I was going to die."
+<ptT0046>"Eu pensei que ia morrer."
 
 //TEXT 【Tsukasa】
 <enT0047>"Ahaha, I'm sorry. It hurt, didn't it?"
-<ptT0047>"Ahaha, I'm sorry. It hurt, didn't it?"
+<ptT0047>"Ahaha, sinto muito. Machucou, não foi?"
 
 //TEXT 【Kagami】
 <enT0048>"She's fine. She's just exaggerating."
-<ptT0048>"She's fine. She's just exaggerating."
+<ptT0048>"Ela está bem. Isso é só exagero."
 
 //TEXT 【Yuki】
 <enT0049>"Heavyweight class."
-<ptT0049>"Heavyweight class."
+<ptT0049>"Classe de peso pesado."
 
 //TEXT
 <enT0050>
@@ -250,91 +250,91 @@
 
 //TEXT 【Yuki】
 <enT0051>"You didn't need to hit me!"
-<ptT0051>"You didn't need to hit me!"
+<ptT0051>"Você não precisava me bater!"
 
 //TEXT 【Kagami】
 <enT0052>"I-It's because you said something rude."
-<ptT0052>"I-It's because you said something rude."
+<ptT0052>"F-Foi porque você disse algo rude."
 
 //TEXT 【Tsukasa】
 <enT0053>"But you'd probably make up some reason to go back to sleep, so we had to do that to get you up."
-<ptT0053>"But you'd probably make up some reason to go back to sleep, so we had to do that to get you up."
+<ptT0053>"Mas você provavelmente inventaria algum motivo para voltar a dormir, então tivemos que fazer isso para te acordar."
 
 //TEXT 【Yuki】
 <enT0054>"Had to, huh? As if! I'd die if I were woken up like that every day!"
-<ptT0054>"Had to, huh? As if! I'd die if I were woken up like that every day!"
+<ptT0054>"Tinha que ser, né? Fala sério! Eu morreria se me acordassem assim todo santo dia!"
 
 //TEXT 【Tsukasa】
 <enT0055>"Ahaha... But you won't die if you just wake up the first time."
-<ptT0055>"Ahaha... But you won't die if you just wake up the first time."
+<ptT0055>"Ahaha... Mas você não vai morrer se acordar de primeira, sabia."
 
 //TEXT 【Yuki】
 <enT0056>"So you're saying that I'll die if I don't get up?"
-<ptT0056>"So you're saying that I'll die if I don't get up?"
+<ptT0056>"Ah, então você tá dizendo que eu morro se não levantar?"
 
 //TEXT 【Tsukasa】
 <enT0057>"I guess so."
-<ptT0057>"I guess so."
+<ptT0057>"Acho que sim."
 
 //TEXT 【Yuki】
 <enT0058>"Jeez... Instead of the Wakatsuki sisters we should just call you the Stupid Brigade."
-<ptT0058>"Jeez... Instead of the Wakatsuki sisters we should just call you the Stupid Brigade."
+<ptT0058>"Pelo amor... Em vez de irmãs Wakatsuki, o nome de vocês deveriam ser Brigada dos Idiotas."
 
 //TEXT 【Tsukasa】
 <enT0059>"Ahaha. We're not much of a brigade with just the two of us."
-<ptT0059>"Ahaha. We're not much of a brigade with just the two of us."
+<ptT0059>"Ahaha. Não tem como ser uma brigada só com nós duas."
 
 //TEXT 【Kagami】
 <enT0060>"Hmph. I hope you fail and can't graduate."
-<ptT0060>"Hmph. I hope you fail and can't graduate."
+<ptT0060>"Hmph. Espero que você falhe e não consiga se formar."
 
 //TEXT 【Tsukasa】
 <enT0061>"You say that, but you're the one that's the most worried about her."
-<ptT0061>"You say that, but you're the one that's the most worried about her."
+<ptT0061>"Você diz isso, mas é você quem está mais preocupado com ela."
 
 //TEXT 【Kagami】
 <enT0062>"Th-That's―"
-<ptT0062>"Th-That's―"
+<ptT0062>"Isso é―"
 
 //TEXT 【Tsukasa】
 <enT0063>"Oh, just look at the time. Hurry up or we're going to be late."
-<ptT0063>"Oh, just look at the time. Hurry up or we're going to be late."
+<ptT0063>"Ah, olha a hora. Anda logo nos vamos chegar atrasadas."
 
 //TEXT 【Yuki】
 <enT0064>"Yeah, got it. Anyway, I have morning wood, so I'm going to have to ask you two to step outside."
-<ptT0064>"Yeah, got it. Anyway, I have morning wood, so I'm going to have to ask you two to step outside."
+<ptT0064>"Sim, já entendi. De qualquer forma, eu tenho ereção matinal, então vou ter que pedir para vocês dois saírem."
 
 //TEXT 【Kagami】
 <enT0065>"Wh-What? Y-Yuki, you're a girl."
-<ptT0065>"Wh-What? Y-Yuki, you're a girl."
+<ptT0065>"O quê? Y-Yuki, você é uma garota."
 
 //TEXT 【Yuki】
 <enT0066>"Even women have dicks in their hearts."
-<ptT0066>"Even women have dicks in their hearts."
+<ptT0066>"Até mesmo mulheres têm um pau em seus corações."
 
 //TEXT 【Tsukasa】
 <enT0067>"Then you should be fine, since we can't see that one."
-<ptT0067>"Then you should be fine, since we can't see that one."
+<ptT0067>"Então deve ficar tudo bem, já que não conseguimos ver."
 
 //TEXT 【Kagami】
 <enT0068>"Besides, if it's in your heart, you should be able to control it better."
-<ptT0068>"Besides, if it's in your heart, you should be able to control it better."
+<ptT0068>"E ainda assim, se está no seu coração, você deveria conseguir controlar ele melhor."
 
 //TEXT 【Tsukasa】
 <enT0069>"Anyway, we'll believe you for now. We'll wait outside, but you'd better be getting changed."
-<ptT0069>"Anyway, we'll believe you for now. We'll wait outside, but you'd better be getting changed."
+<ptT0069>"De qualquer forma, vamos acreditar em você por enquanto. Vamos esperar lá fora, mas é melhor você se trocar."
 
 //TEXT 【Yuki】
 <enT0070>"Ahh... Kagami has no common sense, sitting on me like that."
-<ptT0070>"Ahh... Kagami has no common sense, sitting on me like that."
+<ptT0070>"Ahh... Kagami não tem senso comum, sentada em cima de mim assim."
 
 //TEXT 【Yuki】
 <enT0071>"She was so much nicer in the past. When did she become such a mean old lady?"
-<ptT0071>"She was so much nicer in the past. When did she become such a mean old lady?"
+<ptT0071>"Ela era tão legal no passado. Quando foi que ela virou essa velha rabugenta?"
 
 //TEXT 【Kagami】
 <enT0072>"Who's an old lady?!"
-<ptT0072>"Who's an old lady?!"
+<ptT0072>"Quem é velha rabugenta?!"
 
 //TEXT
 <enT0073>
@@ -342,31 +342,31 @@
 
 //TEXT 【Yuki】
 <enT0074>"Oh? You can hear me."
-<ptT0074>"Oh? You can hear me."
+<ptT0074>"Oh? Você consegue me ouvir."
 
 //TEXT 【Kagami】
 <enT0075>"Of course I can!"
-<ptT0075>"Of course I can!"
+<ptT0075>"É claro que eu consigo!"
 
 //TEXT 【Yuki】
 <enT0076>"Which means you have your ear pressed up against the door, Kagami-san?"
-<ptT0076>"Which means you have your ear pressed up against the door, Kagami-san?"
+<ptT0076>"Que significa que você está pressionando seu ouvido contra a porta, Kagami-san?"
 
 //TEXT 【Kagami】
 <enT0077>"B-But you would just go back to sleep if we let you!"
-<ptT0077>"B-But you would just go back to sleep if we let you!"
+<ptT0077>"M-Mas você voltaria a dormir se nos deixássemos!"
 
 //TEXT 【Kagami】
 <enT0078>"Once, when we were in grade school, we believed you when you said you were gonna get up and you kept us waiting until noon."
-<ptT0078>"Once, when we were in grade school, we believed you when you said you were gonna get up and you kept us waiting until noon."
+<ptT0078>"Um vez, quando ainda estavamos no fundamental, nós acreditamos em você quando disse que ia acordar e você nos fez esperar até o meio-dia."
 
 //TEXT 【Yuki】
 <enT0079>"I think there's a problem with you in that case, for waiting that long."
-<ptT0079>"I think there's a problem with you in that case, for waiting that long."
+<ptT0079>"Eu acho que o problema foi você nesse caso, por ter esperado tanto."
 
 //TEXT 【Kagami】
 <enT0080>"Y-You were the one that said 'trust me,' so I did!"
-<ptT0080>"Y-You were the one that said 'trust me,' so I did!"
+<ptT0080>"V-Você disse 'confie em mim,' então eu confiei!"
 
 //TEXT
 <enT0081>
@@ -374,19 +374,19 @@
 
 //TEXT 【Yuki】
 <enT0082>"But still, I doubt anyone else would wait more than four hours."
-<ptT0082>"But still, I doubt anyone else would wait more than four hours."
+<ptT0082>"Mas ainda assim, duvido que alguém esperasse mais de quatro horas."
 
 //TEXT 【Tsukasa】
 <enT0083>"Ehehe. Onee-chan fell asleep while she was waiting."
-<ptT0083>"Ehehe. Onee-chan fell asleep while she was waiting."
+<ptT0083>"Ehehe. Onee-chan caiu no sono enquanto esperava."
 
 //TEXT 【Yuki】
 <enT0084>"Then it ended happily for both of us, didn't it?"
-<ptT0084>"Then it ended happily for both of us, didn't it?"
+<ptT0084>"Então final feliz para nós duas, não foi?"
 
 //TEXT 【Kagami】
 <enT0085>"Of course it didn't!"
-<ptT0085>"Of course it didn't!"
+<ptT0085>"Claro que não!"
 
 //TEXT
 <enT0086>
@@ -394,63 +394,63 @@
 
 //TEXT 【Kagami】
 <enT0087>"I-It's because you act like that that I decided I wasn't going to be nice to you."
-<ptT0087>"I-It's because you act like that that I decided I wasn't going to be nice to you."
+<ptT0087>"F-Foi porque você age assim que eu decidi que não seria legal com você."
 
 //TEXT 【Yuki】
 <enT0088>"Now then... Shower, shower."
-<ptT0088>"Now then... Shower, shower."
+<ptT0088>"Agora então... banho, banho."
 
 //TEXT 【Kagami】
 <enT0089>"I told you we don't have time for that!"
-<ptT0089>"I told you we don't have time for that!"
+<ptT0089>"Eu te disse que não temos tempo para isso!"
 
 //TEXT 【Yuki】
 <enT0090>"What? It doesn't matter whether we have time or not, there's no use going to school without showering."
-<ptT0090>"What? It doesn't matter whether we have time or not, there's no use going to school without showering."
+<ptT0090>"O que? Não importa se temos tempo ou não, do que adianta ir para a escola sem tomar banho."
 
 //TEXT 【Kagami】
 <enT0091>"It matters a lot! If we're late, then there's no point to us coming to wake you up."
-<ptT0091>"It matters a lot! If we're late, then there's no point to us coming to wake you up."
+<ptT0091>"Isso importa muito! Se chegarmos atrasados, não adianta virmos te acordar."
 
 //TEXT 【Yuki】
 <enT0092>"That's not true. There's value in participation, even if you don't win."
-<ptT0092>"That's not true. There's value in participation, even if you don't win."
+<ptT0092>"Isso não é verdade. Participar já vale a pena, mesmo que você não ganhe."
 
 //TEXT 【Kagami】
 <enT0093>"So what exactly is the value of participating in this?"
-<ptT0093>"So what exactly is the value of participating in this?"
+<ptT0093>"Então qual é exatamente o valor de participar disso?"
 
 //TEXT 【Yuki】
 <enT0094>"They say that with a healthy body comes a healthy mind."
-<ptT0094>"They say that with a healthy body comes a healthy mind."
+<ptT0094>"Dizem que um corpo saudável traz uma mente saudável."
 
 //TEXT 【Kagami】
 <enT0095>"Are you stupid? Waking you up has nothing to do with our health!"
-<ptT0095>"Are you stupid? Waking you up has nothing to do with our health!"
+<ptT0095>"Você é estúpida? Acordar você não tem nada a ver com a nossa saúde!"
 
 //TEXT 【Yuki】
 <enT0096>"The important thing is that you believe it does."
-<ptT0096>"The important thing is that you believe it does."
+<ptT0096>"O importante é você acreditar que sim."
 
 //TEXT 【Kagami】
 <enT0097>"Shut up! We're going."
-<ptT0097>"Shut up! We're going."
+<ptT0097>"Cale-se! Nós estamos indo."
 
 //TEXT
 <enT0098>Kagami pulled my hand forcefully.
-<ptT0098>Kagami pulled my hand forcefully.
+<ptT0098>Kagami puxou minha mão com força.
 
 //TEXT 【Yuki】
 <enT0099>"Whoa... At least let me put on some underwear."
-<ptT0099>"Whoa... At least let me put on some underwear."
+<ptT0099>"Whoa... Pelo menos deixa eu colocar uma roupa íntima."
 
 //TEXT 【Kagami】
 <enT0100>"What?! Y-Yuki, you're not wearing any?!"
-<ptT0100>"What?! Y-Yuki, you're not wearing any?!"
+<ptT0100>"O que?! Y-Yuki, você não está usando nenhuma?!"
 
 //TEXT 【Yuki】
 <enT0101>"Like I said, I was about to get in the shower."
-<ptT0101>"Like I said, I was about to get in the shower."
+<ptT0101>"Como eu disse, eu estava prestes a entrar no banho."
 
 //TEXT 【Kagami】
 <enT0102>"Haa..."
@@ -458,95 +458,95 @@
 
 //TEXT
 <enT0103>Kagami sighed.
-<ptT0103>Kagami sighed.
+<ptT0103>Kagami suspirou.
 
 //TEXT 【Kagami】
 <enT0104>"All right. Go take a shower if you want."
-<ptT0104>"All right. Go take a shower if you want."
+<ptT0104>"Tudo bem. Se você quiser, pode ir tomar um banho."
 
 //TEXT 【Yuki】
 <enT0105>"Kagami, you're so understanding. It's like you've returned to your younger self."
-<ptT0105>"Kagami, you're so understanding. It's like you've returned to your younger self."
+<ptT0105>"Kagami, você é tão compreensiva. É como se você tivesse voltado ao seu eu mais jovem."
 
 //TEXT 【Kagami】
 <enT0106>"Tsukasa, let's go. Leave this idiot behind."
-<ptT0106>"Tsukasa, let's go. Leave this idiot behind."
+<ptT0106>"Tsukasa, vamos. Deixe esse idiota para trás."
 
 //TEXT 【Yuki】
 <enT0107>"Aww, that's mean!"
-<ptT0107>"Aww, that's mean!"
+<ptT0107>"Aww, que maldade!"
 
 //TEXT 【Kagami】
 <enT0108>"Then hurry up and get in the shower already!"
-<ptT0108>"Then hurry up and get in the shower already!"
+<ptT0108>"Então se apresse e entre no chuveiro já!"
 
 //TEXT 【Yuki】
 <enT0109>"Haa, haa... What did I even shower for if I'm just going to get sweaty again?"
-<ptT0109>"Haa, haa... What did I even shower for if I'm just going to get sweaty again?"
+<ptT0109>"Haa, haa... Por que eu tomei banho se vou ficar toda suada de novo?"
 
 //TEXT 【Tsukasa】
 <enT0110>"Haa, haa... Yuki, could you run a little slower? Onee-chan doesn't look well."
-<ptT0110>"Haa, haa... Yuki, could you run a little slower? Onee-chan doesn't look well."
+<ptT0110>"Haa, haa... Yuki, você poderia correr um pouco mais devagar? Onee-chan não parece bem."
 
 //TEXT 【Kagami】
 <enT0111>"Ha, ha, I-I'm fine..."
-<ptT0111>"Ha, ha, I-I'm fine..."
+<ptT0111>"Ha, ha, Eu-eu estou bem..."
 
 //TEXT 【Yuki】
 <enT0112>"You heard her."
-<ptT0112>"You heard her."
+<ptT0112>"Você ouviu ela."
 
 //TEXT 【Tsukasa】
 <enT0113>"She's just acting tough... Haa, haa."
-<ptT0113>"She's just acting tough... Haa, haa."
+<ptT0113>"Ela só está fingindo ser durona... Haa, haa."
 
 //TEXT 【Yuki】
 <enT0114>"I see. She's just acting tough, but she's still keeping up. I wouldn't have expected any less from Kagami. I'm actually trying pretty hard right now."
-<ptT0114>"I see. She's just acting tough, but she's still keeping up. I wouldn't have expected any less from Kagami. I'm actually trying pretty hard right now."
+<ptT0114>"Ah é. Ela está se fingindo durona, mas ela ainda está acompanhando. Eu não esperava menos da Kagami. Na verdade, estou me esforçando bastante agora."
 
 //TEXT 【Tsukasa】
 <enT0115>"Haa, haa. W-Were you trying to leave us behind?"
-<ptT0115>"Haa, haa. W-Were you trying to leave us behind?"
+<ptT0115>"Haa, haa. V-Você estava tentando nos deixar para trás?"
 
 //TEXT 【Yuki】
 <enT0116>"Hahaha, not at all. I just thought that if Kagami collapsed, we could stop at a nice cafe or something to nurse her back to health."
-<ptT0116>"Hahaha, not at all. I just thought that if Kagami collapsed, we could stop at a nice cafe or something to nurse her back to health."
+<ptT0116>"Hahaha, nem pensar. Eu só pensei que, se Kagami desmaiasse, poderíamos parar em um bom café ou algo assim para cuidar dela."
 
 //TEXT 【Kagami】
 <enT0117>"If we stop now, all this running will have been for nothing!"
-<ptT0117>"If we stop now, all this running will have been for nothing!"
+<ptT0117>"Se nós pararmos agora, todo esse corrida será em vão!"
 
 //TEXT 【Yuki】
 <enT0118>"That's fine, isn't it?"
-<ptT0118>"That's fine, isn't it?"
+<ptT0118>"Isso é bom, não é?"
 
 //TEXT 【Kagami】
 <enT0119>"No, it isn't!"
-<ptT0119>"No, it isn't!"
+<ptT0119>"Não, não é!"
 
 //TEXT 【Tsukasa】
 <enT0120>"Haa... Do you dislike school that much?"
-<ptT0120>"Haa... Do you dislike school that much?"
+<ptT0120>"Haa... Você odeia a escola tanto assim?"
 
 //TEXT 【Yuki】
 <enT0121>"I hate it! I guess."
-<ptT0121>"I hate it! I guess."
+<ptT0121>"Eu odeio! Eu acho."
 
 //TEXT 【Kagami】
 <enT0122>"Your grades used to be so good, too."
-<ptT0122>"Your grades used to be so good, too."
+<ptT0122>"Suas notas também costumavam ser tão boas."
 
 //TEXT 【Yuki】
 <enT0123>"Now I'm flourishing in the lower half of the class."
-<ptT0123>"Now I'm flourishing in the lower half of the class."
+<ptT0123>"Acho que estou indo muito bem na parte de baixo da turma."
 
 //TEXT 【Kagami】
 <enT0124>"How can you be flourishing all the way down there?"
-<ptT0124>"How can you be flourishing all the way down there?"
+<ptT0124>"Como você consegue estar tão bem lá embaixo?"
 
 //TEXT 【Yuki】
 <enT0125>"Well, at least I feel like I'm flourishing."
-<ptT0125>"Well, at least I feel like I'm flourishing."
+<ptT0125>"Bem, pelo menos sinto que estou indo bem."
 
 //TEXT 【Tsukasa】
 <enT0126>"Ahaha,
@@ -554,99 +554,99 @@
 
 //TEXT
 <enT0127> but you know, it kind of bothers me, too."
-<ptT0127> but you know, it kind of bothers me, too."
+<ptT0127> mas sabe, isso também me incomoda."
 
 //TEXT 【Yuki】
 <enT0128>"Oh? What's this all of a sudden?"
-<ptT0128>"Oh? What's this all of a sudden?"
+<ptT0128>"Oh? O que é isso de repente?"
 
 //TEXT 【Tsukasa】
 <enT0129>"It's like you quit while you were ahead, you know?"
-<ptT0129>"It's like you quit while you were ahead, you know?"
+<ptT0129>"É como se você desistisse enquanto estava na frente, sabe?"
 
 //TEXT 【Yuki】
 <enT0130>"Quit while who was ahead? Huh?"
-<ptT0130>"Quit while who was ahead? Huh?"
+<ptT0130>"Desistido enquanto estava na frente? Huh?"
 
 //TEXT 【Tsukasa】
 <enT0131>"You were so smart when you were a kid. You always made us look bad in comparison. And now, you don't even try. That's why it seems like you quit while you were ahead."
-<ptT0131>"You were so smart when you were a kid. You always made us look bad in comparison. And now, you don't even try. That's why it seems like you quit while you were ahead."
+<ptT0131>"Você era tão inteligente quando era criança. Sempre nos fazia parecer mal em comparação. E agora, você nem sequer tenta. É por isso que parece que você desistiu quando estava no auge."
 
 //TEXT 【Yuki】
 <enT0132>"Yeah, but now I'm the stupid one, so we're even."
-<ptT0132>"Yeah, but now I'm the stupid one, so we're even."
+<ptT0132>"Sim, mas agora eu sou a estúpida, então estamos empatados."
 
 //TEXT 【Tsukasa】
 <enT0133>"Not really. Our grades aren't nearly as good as yours were, and you'll probably start studying again when entrance exams come around."
-<ptT0133>"Not really. Our grades aren't nearly as good as yours were, and you'll probably start studying again when entrance exams come around."
+<ptT0133>"Na verdade. Nossas notas não são tão boas quanto as suas, e você provavelmente começará a estudar novamente quando chegar o vestibular."
 
 //TEXT 【Kagami】
 <enT0134>"Haa, haa, you're right. She managed to get into the same school as us, after all."
-<ptT0134>"Haa, haa, you're right. She managed to get into the same school as us, after all."
+<ptT0134>"Haa, haa, você tem razão. Ela conseguiu entrar na mesma escola que nós, afinal."
 
 //TEXT 【Yuki】
 <enT0135>"That was just a coincidence. I can hardly even keep up in class now. I'll probably fail the entrance exams."
-<ptT0135>"That was just a coincidence. I can hardly even keep up in class now. I'll probably fail the entrance exams."
+<ptT0135>"Isso foi apenas uma coincidência. Mal consigo acompanhar as aulas agora. Provavelmente vou ser reprovada no vestibular."
 
 //TEXT 【Kagami】
 <enT0136>"Haa, haa. I remember telling you that entrance exams aren't that easy, but they were no trouble for you."
-<ptT0136>"Haa, haa. I remember telling you that entrance exams aren't that easy, but they were no trouble for you."
+<ptT0136>""Haa, haa. Lembro-me de ter dito que os vestibulares não são tão fáceis, mas não foram problema para você."
 
 //TEXT 【Yuki】
 <enT0137>"That was a coincidence. The rest of the world isn't that easy."
-<ptT0137>"That was a coincidence. The rest of the world isn't that easy."
+<ptT0137>"Isso foi uma coincidência. O resto do mundo não é tão fácil."
 
 //TEXT 【Kagami】
 <enT0138>"I hate how you say that, haa, haa."
-<ptT0138>"I hate how you say that, haa, haa."
+<ptT0138>"Eu odeio como você diz isso, haa, haa."
 
 //TEXT 【Kagami】
 <enT0139>"So this summer I'm going to study like crazy, so that you can't catch up."
-<ptT0139>"So this summer I'm going to study like crazy, so that you can't catch up."
+<ptT0139>"Então neste verão vou estudar como uma louca, para que você não consiga me alcançar."
 
 //TEXT 【Kagami】
 <enT0140>"I'll make you the dumb one this time. You won't catch up."
-<ptT0140>"I'll make you the dumb one this time. You won't catch up."
+<ptT0140>"Vou fazer de você o idiota desta vez. Você não vai me alcançar."
 
 //TEXT 【Yuki】
 <enT0141>"You overestimate me, Kagami."
-<ptT0141>"You overestimate me, Kagami."
+<ptT0141>"Você me superestima, Kagami."
 
 //TEXT 【Tsukasa】
 <enT0142>"Now that you mention it, shouldn't you be happy if Yuki skips school?"
-<ptT0142>"Now that you mention it, shouldn't you be happy if Yuki skips school?"
+<ptT0142>"Agora que você mencionou, você não deveria ficar feliz se Yuki faltar à escola?"
 
 //TEXT 【Yuki】
 <enT0143>"Not like it really matters. I'll just cut all the classes I don't like anyway."
-<ptT0143>"Not like it really matters. I'll just cut all the classes I don't like anyway."
+<ptT0143>"Não que isso realmente importe. Vou matar todas as aulas que não gosto de qualquer maneira."
 
 //TEXT 【Tsukasa】
 <enT0144>"There's such a thing as too much free spirit."
-<ptT0144>"There's such a thing as too much free spirit."
+<ptT0144>"Existe algo chamado “espírito livre em excesso”"
 
 //TEXT 【Yuki】
 <enT0145>"Freedom is amazing!"
-<ptT0145>"Freedom is amazing!"
+<ptT0145>"Liberdade é incrível!"
 
 //TEXT 【Kagami】
 <enT0146>"Wh-Who cares? Can we stop talking until we're done running?"
-<ptT0146>"Wh-Who cares? Can we stop talking until we're done running?"
+<ptT0146>"Q-Quem se importa? Podemos parar de conversar até terminarmos de correr?"
 
 //TEXT 【Yuki】
 <enT0147>"Oh? Are you tired?"
-<ptT0147>"Oh? Are you tired?"
+<ptT0147>"Oh? Você está cansada?"
 
 //TEXT 【Kagami】
 <enT0148>"N-Not at all!"
-<ptT0148>"N-Not at all!"
+<ptT0148>"N-Nem um pouco!"
 
 //TEXT 【Tsukasa】
 <enT0149>"Haa, haa, we're here... We were almost late."
-<ptT0149>"Haa, haa, we're here... We were almost late."
+<ptT0149>"Haa, haa, estamos aqui... estávamos quase atrasados."
 
 //TEXT 【Kagami】
 <enT0150>"Haa, haa, haa... Dangerous. That was dangerous."
-<ptT0150>"Haa, haa, haa... Dangerous. That was dangerous."
+<ptT0150>"Haa, haa, haa... Perigoso. Isso foi perigoso."
 
 //TEXT 【Yuki】
 <enT0151>"Haa, haa..."
@@ -654,47 +654,47 @@
 
 //TEXT 【Kagami】
 <enT0152>"Yuki, you're slow."
-<ptT0152>"Yuki, you're slow."
+<ptT0152>"Yuki, você é lenta."
 
 //TEXT 【Yuki】
 <enT0153>"Haa... Haa... Why am I carrying your bags?"
-<ptT0153>"Haa... Haa... Why am I carrying your bags?"
+<ptT0153>"Haa... Haa... Por que eu estou carregando suas bolsas?"
 
 //TEXT 【Kagami】
 <enT0154>"Because you lost at rock-paper-scissors."
-<ptT0154>"Because you lost at rock-paper-scissors."
+<ptT0154>"Porque você perdeu no pedra-papel-tesoura."
 
 //TEXT 【Tsukasa】
 <enT0155>"You were the one that said the loser had to carry all the others' bags."
-<ptT0155>"You were the one that said the loser had to carry all the others' bags."
+<ptT0155>"Foi você quem disse que o perdedor tinha que carregar as malas de todos os outros."
 
 //TEXT 【Yuki】
 <enT0156>"I thought I would make a new rule since Kagami was complaining. I figured it would give the loser a chance to get back in the race."
-<ptT0156>"I thought I would make a new rule since Kagami was complaining. I figured it would give the loser a chance to get back in the race."
+<ptT0156>"Pensei que faria uma nova regra desde que Kagami estivesse reclamando. Achei que isso daria ao perdedor uma chance de se recuperar na corrida."
 
 //TEXT 【Kagami】
 <enT0157>"Who are you calling a loser?"
-<ptT0157>"Who are you calling a loser?"
+<ptT0157>"Quem você está chamando de perdedor?"
 
 //TEXT 【Tsukasa】
 <enT0158>"But what if Onee-chan had lost?"
-<ptT0158>"But what if Onee-chan had lost?"
+<ptT0158>"Mas e se Onee-chan tivesse perdido?"
 
 //TEXT 【Yuki】
 <enT0159>"Well, then she would've been late and we would've been just fine."
-<ptT0159>"Well, then she would've been late and we would've been just fine."
+<ptT0159>"Bem, então ela teria se atrasado e nós estaríamos bem."
 
 //TEXT 【Tsukasa】
 <enT0160>"But even if we weren't late, wouldn't we be in trouble too if we didn't have our bags?"
-<ptT0160>"But even if we weren't late, wouldn't we be in trouble too if we didn't have our bags?"
+<ptT0160>"Mas mesmo que não estivéssemos atrasados, não estaríamos em apuros também se não tivéssemos nossas malas?"
 
 //TEXT 【Yuki】
 <enT0161>"Then we could all be late."
-<ptT0161>"Then we could all be late."
+<ptT0161>"Então todos nós poderíamos nos atrasar."
 
 //TEXT 【Kagami】
 <enT0162>"Then what was the point?!"
-<ptT0162>"Then what was the point?!"
+<ptT0162>"Então qual era o objetivo?!"
 
 //TEXT
 <enT0163>Ding, dong, ding, dong.
@@ -702,15 +702,15 @@
 
 //TEXT 【Kagami】
 <enT0164>"Huh?"
-<ptT0164>"Huh?"
+<ptT0164>"Hã?"
 
 //TEXT 【Tsukasa】
 <enT0165>"What's wrong, Onee-chan?"
-<ptT0165>"What's wrong, Onee-chan?"
+<ptT0165>"O que está errado, Onee-chan?"
 
 //TEXT 【Kagami】
 <enT0166>"Oh, nothing."
-<ptT0166>"Oh, nothing."
+<ptT0166>"Oh, nada."
 
 //TEXT 【Tsukasa】
 <enT0167>"Hmm?"
@@ -722,43 +722,43 @@
 
 //TEXT
 <enT0169>Kagami was talking so animatedly before, but the second she reached the school gate, she stopped short.
-<ptT0169>Kagami was talking so animatedly before, but the second she reached the school gate, she stopped short.
+<ptT0169>Kagami estava tão animada antes, mas no segundo em que chegou ao portão da escola, ela parou.
 
 //TEXT
 <enT0170>For some reason, she was glaring at the school building.
-<ptT0170>For some reason, she was glaring at the school building.
+<ptT0170>Por alguma razão, ela estava olhando para o prédio da escola.
 
 //TEXT
 <enT0171>I wondered what was up.
-<ptT0171>I wondered what was up.
+<ptT0171>Eu me perguntei o que estava acontecendo.
 
 //TEXT
 <enT0172>Even if it was nothing, her face scared me. She looked really scary, the way she was glaring at the building.
-<ptT0172>Even if it was nothing, her face scared me. She looked really scary, the way she was glaring at the building.
+<ptT0172>Mesmo que não fosse nada, o rosto dela me assustou. Ela parecia realmente assustadora, do jeito que ela estava olhando para o prédio.
 
 //TEXT 【Yuki】
 <enT0173>"What's wrong, Kagami? Why are you staring at the school?"
-<ptT0173>"What's wrong, Kagami? Why are you staring at the school?"
+<ptT0173>"O que há de errado, Kagami? Por que você está encarando a escola?"
 
 //TEXT 【Kagami】
 <enT0174>"Huh? Why would I be doing that?"
-<ptT0174>"Huh? Why would I be doing that?"
+<ptT0174>"Hã? Por que eu estaria fazendo isso?"
 
 //TEXT 【Yuki】
 <enT0175>"You were. For a moment, your eyes looked really incredible. It looked like you were ready to pick a fight."
-<ptT0175>"You were. For a moment, your eyes looked really incredible. It looked like you were ready to pick a fight."
+<ptT0175>"Você estava. Por um momento, seus olhos pareciam realmente incríveis. Parecia que você estava pronto para começar uma briga."
 
 //TEXT 【Tsukasa】
 <enT0176>"Sh-She probably wasn't doing anything that weird. Probably."
-<ptT0176>"Sh-She probably wasn't doing anything that weird. Probably."
+<ptT0176>"E-Ela provavelmente não estava fazendo nada tão estranho assim. Provavelmente."
 
 //TEXT 【Yuki】
 <enT0177>"Well then, is something bothering you?"
-<ptT0177>"Well then, is something bothering you?"
+<ptT0177>"Bem então, algo está incomodando você?"
 
 //TEXT 【Kagami】
 <enT0178>"Oh, it's, uh, it's nothing."
-<ptT0178>"Oh, it's, uh, it's nothing."
+<ptT0178>"Oh,é, ah, não é nada."
 
 //TEXT 【Tsukasa】
 <enT0179>"..."
@@ -770,35 +770,35 @@
 
 //TEXT
 <enT0181>And then, suddenly Tsukasa started looking at the building in the same way.
-<ptT0181>And then, suddenly Tsukasa started looking at the building in the same way.
+<ptT0181>E então, de repente, Tsukasa começou a olhar para o prédio da mesma maneira.
 
 //TEXT
 <enT0182>The two of them glared at the building.
-<ptT0182>The two of them glared at the building.
+<ptT0182>As duas olharam para o prédio.
 
 //TEXT
 <enT0183>I might be stating the obvious here, but this was unusual for them.
-<ptT0183>I might be stating the obvious here, but this was unusual for them.
+<ptT0183>Posso estar afirmando o óbvio aqui, mas isso era incomum para elas.
 
 //TEXT
 <enT0184>Why were they staring at the school we'd been going to for years?
-<ptT0184>Why were they staring at the school we'd been going to for years?
+<ptT0184>Por que eles estavam olhando dessa forma para a escola que frequentávamos há anos?
 
 //TEXT
 <enT0185>I didn't understand.
-<ptT0185>I didn't understand.
+<ptT0185>Eu não entendi.
 
 //TEXT 【Yuki】
 <enT0186>"What is it? The twins are acting really creepy. What's wrong, Tsukasa?"
-<ptT0186>"What is it? The twins are acting really creepy. What's wrong, Tsukasa?"
+<ptT0186>"O que é? As gêmeas estão agindo de uma forma muito assustadora. O que está errado, Tsukasa?"
 
 //TEXT 【Tsukasa】
 <enT0187>"Oh, it's nothing.
-<ptT0187>"Oh, it's nothing.
+<ptT0187>"Oh, é, ah, não é nada."
 
 //TEXT 【Yuki】
 <enT0188>"That's not what your face is saying."
-<ptT0188>"That's not what your face is saying."
+<ptT0188>"Isso não é o que seu rosto está dizendo."
 
 //TEXT 【Kagami】
 <enT0189>"Tsukasa."
@@ -806,55 +806,55 @@
 
 //TEXT 【Tsukasa】
 <enT0190>"Yeah, Onee-chan. What's this? It feels really strange."
-<ptT0190>"Yeah, Onee-chan. What's this? It feels really strange."
+<ptT0190>"Sim, Onee-chan. O que é isso? Tem algo muito estranho..."
 
 //TEXT 【Kagami】
 <enT0191>"Yeah..."
-<ptT0191>"Yeah..."
+<ptT0191>"Sim..."
 
 //TEXT 【Yuki】
 <enT0192>"Strange?"
-<ptT0192>"Strange?"
+<ptT0192>"Estranho?"
 
 //TEXT
 <enT0193>I looked up at the school building again.
-<ptT0193>I looked up at the school building again.
+<ptT0193>Eu olhei para o prédio da escola novamente.
 
 //TEXT
 <enT0194>The building seemed like it was ten or twenty years old.
-<ptT0194>The building seemed like it was ten or twenty years old.
+<ptT0194>O prédio parecia ter dez ou vinte anos.
 
 //TEXT
 <enT0195>The design wasn't really out of the ordinary.
-<ptT0195>The design wasn't really out of the ordinary.
+<ptT0195>O design não era realmente fora do comum.
 
 //TEXT
 <enT0196>And nothing had changed from yesterday.
-<ptT0196>And nothing had changed from yesterday.
+<ptT0196>E nada mudou desde ontem.
 
 //TEXT
 <enT0197>I would've understood their reaction if it had been transformed into a futuristic Building C that only looked like our school building but could actually transform into a robot.
-<ptT0197>I would've understood their reaction if it had been transformed into a futuristic Building C that only looked like our school building but could actually transform into a robot.
+<ptT0197>Eu teria entendido a reação deles se tivesse sido transformado em um Edifício C futurista que apenas se parecesse com o prédio da nossa escola, mas pudesse realmente se transformar em um robô.
 
 //TEXT
 <enT0198>But I really didn't see anything wrong.
-<ptT0198>But I really didn't see anything wrong.
+<ptT0198>Mas eu realmente não vi nada de errado.
 
 //TEXT 【Yuki】
 <enT0199>"It doesn't feel like anything's changed."
-<ptT0199>"It doesn't feel like anything's changed."
+<ptT0199>"Não parece que nada mudou."
 
 //TEXT 【Tsukasa】
 <enT0200>"Yeah, you're right, but..."
-<ptT0200>"Yeah, you're right, but..."
+<ptT0200>"Sim, você está certo, mas..."
 
 //TEXT 【Kagami】
 <enT0201>"Oh. Let's go. The bell's about to ring."
-<ptT0201>"Oh. Let's go. The bell's about to ring."
+<ptT0201>"Oh. Vamos. O sino está prestes a tocar."
 
 //TEXT 【Tsukasa】
 <enT0202>"Oh, you're right."
-<ptT0202>"Oh, you're right."
+<ptT0202>"Oh, você tem razão."
 
 //TEXT 【Yuki】
 <enT0203>"..."
@@ -862,147 +862,147 @@
 
 //TEXT
 <enT0204>The same scenery. Nothing had changed at all.
-<ptT0204>The same scenery. Nothing had changed at all.
+<ptT0204>Tele mesmo cenário. Nada mudou em tudo.
 
 //TEXT
 <enT0205>But something about the rays of the summer sun and the deep blue sky felt a little off.
-<ptT0205>But something about the rays of the summer sun and the deep blue sky felt a little off.
+<ptT0205>Mas algo sobre os raios do sol de verão e o céu azul profundo parecia um pouco estranho.
 
 //TEXT
 <enT0206>That was all.
-<ptT0206>That was all.
+<ptT0206>Isso foi tudo.
 
 //TEXT 【Tsukasa】
 <enT0207>"I wonder what happened. The school seems really noisy."
-<ptT0207>"I wonder what happened. The school seems really noisy."
+<ptT0207>"Eu me pergunto o que aconteceu. A escola parece muito barulhenta."
 
 //TEXT 【Kagami】
 <enT0208>"Yeah. Maybe something happened."
-<ptT0208>"Yeah. Maybe something happened."
+<ptT0208>"Sim. Talvez algo tenha acontecido."
 
 //TEXT 【Yuki】
 <enT0209>"Jeez, what are you waiting for? You're going to be late."
-<ptT0209>"Jeez, what are you waiting for? You're going to be late."
+<ptT0209>"Jeez, o que você está esperando? Você vai se atrasar."
 
 //TEXT 【Kagami】
 <enT0210>"Oh, sorry."
-<ptT0210>"Oh, sorry."
+<ptT0210>"Ah, desculpe."
 
 //TEXT 【Tsukasa】
 <enT0211>"W-Wait a sec."
-<ptT0211>"W-Wait a sec."
+<ptT0211>"E-Espere um pouco."
 
 //TEXT
 <enT0212>Chatter, chatter...
-<ptT0212>Chatter, chatter...
+<ptT0212>Sussurros, sussurros...
 
 //TEXT
 <enT0213>Chatter, chatter, chatter...
-<ptT0213>Chatter, chatter, chatter...
+<ptT0213>Sussurros, sussurros, sussurros...
 
 //TEXT
 <enT0214>Chatter, chatter... Chatter, chatter.
-<ptT0214>Chatter, chatter... Chatter, chatter.
+<ptT0214>Sussurros, sussurros... Sussurros, sussurros.
 
 //TEXT
 <enT0215>Chatter, chatter... Chatter, chatter.
-<ptT0215>Chatter, chatter... Chatter, chatter.
+<ptT0215>Sussurros, sussurros... Sussurros, sussurros.
 
 //TEXT
 <enT0216>Chatter, chatter, chatter, chatter, chatter.
-<ptT0216>Chatter, chatter, chatter, chatter, chatter.
+<ptT0216>Sussurros, sussurros, sussurros, sussurros, sussurros.
 
 //TEXT
 <enT0217>Chatter.
-<ptT0217>Chatter.
+<ptT0217>Sussurros.
 
 //TEXT
 <enT0218>I opened the classroom door.
-<ptT0218>I opened the classroom door.
+<ptT0218>Eu abri a porta da sala de aula.
 
 //TEXT
 <enT0219>The same classroom as always.\n
-<ptT0219>The same classroom as always.\n
+<ptT0219>A mesma sala de aula como sempre.\n
 
 //TEXT
 <enT0220>The same faces as always.
-<ptT0220>The same faces as always.
+<ptT0220>As mesmas faces de sempre.
 
 //TEXT
 <enT0221>But still, something was different.
-<ptT0221>But still, something was different.
+<ptT0221>Mas ainda assim, algo estava diferente.
 
 //TEXT
 <enT0222>The classroom was loud and chaotic.
-<ptT0222>The classroom was loud and chaotic.
+<ptT0222>A sala de aula estava barulhenta e caótica.
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0223>"Seems like it really was the girl from class 3."
-<ptT0223>"Seems like it really was the girl from class 3."
+<ptT0223>"Parece que realmente foi a garota da classe 3."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0224>"I heard she was with some people from another school."
-<ptT0224>"I heard she was with some people from another school."
+<ptT0224>"Eu ouvi que ela estava com algumas pessoas de outra escola."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0225>"Really? It actually happened?"
-<ptT0225>"Really? It actually happened?"
+<ptT0225>"Sério? Isso realmente aconteceu?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0226>"That's super scary."
-<ptT0226>"That's super scary."
+<ptT0226>"Isso é super assustador."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0227>"Who's that?"
-<ptT0227>"Who's that?"
+<ptT0227>"Quem é essa?"
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0228>"You don't know? She really stood out."
-<ptT0228>"You don't know? She really stood out."
+<ptT0228>"Você não conhece? Ela realmente chamava atenção."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0229>"She had really long, black hair."
-<ptT0229>"She had really long, black hair."
+<ptT0229>"Ela tinha cabelo preto muito longo."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0230>"Black?"
-<ptT0230>"Black?"
+<ptT0230>"Preto?"
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0231>"She seemed like a total bimbo."
-<ptT0231>"She seemed like a total bimbo."
+<ptT0231>"Ela parecia uma idiota total."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0232>"She was in the classes we had along with class 3. She had a long bob cut."
-<ptT0232>"She was in the classes we had along with class 3. She had a long bob cut."
+<ptT0232>"Ela estava nas aulas que tínhamos junto com a turma 3. Ela tinha um corte bob longo."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0233>"The one with huge boobs who acted like she was in The Grudge, or some horror movie like that."
-<ptT0233>"The one with huge boobs who acted like she was in The Grudge, or some horror movie like that."
+<ptT0233>"Aquela com peitos enormes que agia como se estivesse em 'O Grito', ou algum filme de terror como esse."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0234>"Yeah, yeah, the crazy Grudge girl. She had huge boobs."
-<ptT0234>"Yeah, yeah, the crazy Grudge girl. She had huge boobs."
+<ptT0234>"Sim, sim, a garota maluca do Grito. Ela tinha peitos enormes."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0235>"She was always alone."
-<ptT0235>"She was always alone."
+<ptT0235>"Ela estava sempre sozinha."
 
-//TEXT 【Male Student】
+//TEXT 【Estudante Masculino】
 <enT0236>"Ah, yeah, I remember her."
-<ptT0236>"Ah, yeah, I remember her."
+<ptT0236>"Ah, sim, eu me lembro dela."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0237>"But still, this is right after Shiroyama-kun from class 3. That's kind of scary."
-<ptT0237>"But still, this is right after Shiroyama-kun from class 3. That's kind of scary."
+<ptT0237>"Mas ainda assim, foi logo depois do Shiroyama-kun da classe 3. Isso é meio assustador."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0238>"But wasn't that an accident?"
-<ptT0238>"But wasn't that an accident?"
+<ptT0238>"Mas não foi um acidente?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0239>"Still, it happened just a little while ago. That's scary. So many bad things happening in such a short time is kind of..."
-<ptT0239>"Still, it happened just a little while ago. That's scary. So many bad things happening in such a short time is kind of..."
+<ptT0239>"Ainda assim, aconteceu há pouco tempo. Isso é assustador. Ter tantas coisas ruins acontecendo em tão pouco tempo é meio..."
 
 //TEXT 【Tsukasa】
 <enT0240>"..."
@@ -1014,59 +1014,59 @@
 
 //TEXT 【Kagami】
 <enT0242>"Yeah..."
-<ptT0242>"Yeah..."
+<ptT0242>"Sim..."
 
 //TEXT 【Miu】
 <enT0243>"Ah, g-good morning. So, uh..."
-<ptT0243>"Ah, g-good morning. So, uh..."
+<ptT0243>"Ah, bom dia. Então, ah..."
 
 //TEXT 【Yuki】
 <enT0244>"Oh, you're..."
-<ptT0244>"Oh, you're..."
+<ptT0244>"Ah, você é..."
 
 //TEXT 【Miu】
 <enT0245>"Haa... Why can't you remember my name? I'm Iwata Miu."
-<ptT0245>"Haa... Why can't you remember my name? I'm Iwata Miu."
+<ptT0245>"Haa... Por que você não consegue lembrar meu nome? Eu sou Iwata Miu."
 
 //TEXT 【Yuki】
 <enT0246>"Oh, that's right."
-<ptT0246>"Oh, that's right."
+<ptT0246>"Ah, isso mesmo."
 
 //TEXT
 <enT0247>Or at least it sounded right.
-<ptT0247>Or at least it sounded right.
+<ptT0247>Ou pelo menos parecia certo.
 
 //TEXT 【Miu】
 <enT0248>"Oh, you brought the cute pair along today."
-<ptT0248>"Oh, you brought the cute pair along today."
+<ptT0248>"Oh, você trouxe o par fofo hoje."
 
 //TEXT 【Yuki】
 <enT0249>"The cute pair?"
-<ptT0249>"The cute pair?"
+<ptT0249>"O par fofo?"
 
 //TEXT
 <enT0250>She gazed at Kagami and Tsukasa.
-<ptT0250>She gazed at Kagami and Tsukasa.
+<ptT0250>Ela olhou para Kagami e Tsukasa.
 
 //TEXT
 <enT0251>Why did she call them that? I thought Miu was friends with Kagami and Tsukasa.
-<ptT0251>Why did she call them that? I thought Miu was friends with Kagami and Tsukasa.
+<ptT0251>Por que ela os chamou assim? Achei que Miu era amiga de Kagami e Tsukasa.
 
 //TEXT 【Yuki】
 <enT0252>"But anyway, what happened?"
-<ptT0252>"But anyway, what happened?"
+<ptT0252>"Mas de qualquer forma, o que aconteceu?"
 
 //TEXT 【Miu】
 <enT0253>"W-Well, uh... It's kind of..."
-<ptT0253>"W-Well, uh... It's kind of..."
+<ptT0253>"B-Bem, uh... É mais ou menos..."
 
 //TEXT 【Yuki】
 <enT0254>"Kind of what?"
-<ptT0254>"Kind of what?"
+<ptT0254>"Mais ou menos o que?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0255>"Hey, there was this Takashima girl in the next class, right?"
-<ptT0255>"Hey, there was this Takashima girl in the next class, right?"
+<ptT0255>"Ei, tinha uma garota Takashima na sala do lado, certo?"
 
 //TEXT 【Kagami】
 <enT0256>"Takashima-san?"
@@ -1074,75 +1074,75 @@
 
 //TEXT 【Tsukasa】
 <enT0257>"Wasn't that the Takashima-san that Yuki said she was talking to yesterday?"
-<ptT0257>"Wasn't that the Takashima-san that Yuki said she was talking to yesterday?"
+<ptT0257>"Não era aquela Takashima-san que Yuki disse que estava falando com ontem?"
 
 //TEXT 【Yuki】
 <enT0258>"What about her?"
-<ptT0258>"What about her?"
+<ptT0258>"O que tem ela?"
 
 //TEXT
 <enT0259>Takashima from the next class over.\n
-<ptT0259>Takashima from the next class over.\n
+<ptT0259>Takashima da sala ao lado.\n
 
 //TEXT
 <enT0260>And the girls I met yesterday in Suginomiya.
-<ptT0260>And the girls I met yesterday in Suginomiya.
+<ptT0260>E as garotas que conheci ontem em Suginomiya.
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0261>"Takashima committed suicide."
-<ptT0261>"Takashima committed suicide."
+<ptT0261>"Takashima cometeu suicídio."
 
 //TEXT 【Yuki】
 <enT0262>"Huh?"
-<ptT0262>"Huh?"
+<ptT0262>"Hã?"
 
 //TEXT 【Tsukasa】
 <enT0263>"N-No way."
-<ptT0263>"N-No way."
+<ptT0263>"N-Não pode ser."
 
 //TEXT 【Kagami】
 <enT0264>"Suicide?"
-<ptT0264>"Suicide?"
+<ptT0264>"Suicídio?"
 
 //TEXT
 <enT0265>Takashima-san committed suicide?
-<ptT0265>Takashima-san committed suicide?
+<ptT0265>Takashima-san cometeu suicídio?
 
 //TEXT 【Yuki】
 <enT0266>"Um, by Takashima-san, you mean Takashima Zakuro-san from the class next door, right?"
-<ptT0266>"Um, by Takashima-san, you mean Takashima Zakuro-san from the class next door, right?"
+<ptT0266>"Um, por Takashima-san, você quer dizer Takashima Zakuro-san da turma ao lado, certo?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0267>"Yeah, yeah, the gloomy girl with black hair and a bob cut."
-<ptT0267>"Yeah, yeah, the gloomy girl with black hair and a bob cut."
+<ptT0267>"Sim, sim, a garota sombria com cabelo preto e corte bob."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0268>"Yesterday evening, she jumped off a roof near the train station."
-<ptT0268>"Yesterday evening, she jumped off a roof near the train station."
+<ptT0268>"Ontem à noite, ela pulou de um telhado perto da estação de trem."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0269>"She jumped off a twelve-story apartment complex. Apparently, it was really nasty."
-<ptT0269>"She jumped off a twelve-story apartment complex. Apparently, it was really nasty."
+<ptT0269>"Ela pulou de um complexo de apartamentos de doze andares, aparentemente, foi realmente desagradável."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0270>"She jumped with two students from another school."
-<ptT0270>"She jumped with two students from another school."
+<ptT0270>"Ela pulou com dois alunos de outra escola."
 
 //TEXT
 <enT0271>Yesterday evening, just a few hours after I saw her.
-<ptT0271>Yesterday evening, just a few hours after I saw her.
+<ptT0271>Ontem à noite, poucas horas depois de vê-la.
 
 //TEXT
 <enT0272>And the two students from another school were probably...
-<ptT0272>And the two students from another school were probably...
+<ptT0272>E os dois alunos de outra escola provavelmente eram...
 
 //TEXT
 <enT0273>Those two girls that were there with her.
-<ptT0273>Those two girls that were there with her.
+<ptT0273>Aquelas duas garotas que estavam lá com ela.
 
 //TEXT
 <enT0274>Which means...\n
-<ptT0274>Which means...\n
+<ptT0274>O que significa...\n
 
 //TEXT
 <enT0275>They met up there so that they could go kill themselves.
@@ -1380,7 +1380,7 @@
 <enT0333>Though it definitely is shocking that she talked to me so casually right before she committed suicide.
 <ptT0333>Though it definitely is shocking that she talked to me so casually right before she committed suicide.
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0334>"Minakami-san, you talked to her a lot since you're such a nice girl, right?"
 <ptT0334>"Minakami-san, you talked to her a lot since you're such a nice girl, right?"
 
@@ -1408,15 +1408,15 @@
 <enT0340>Things like that are always relative.
 <ptT0340>Things like that are always relative.
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0341>"I didn't really know her that well."
 <ptT0341>"I didn't really know her that well."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0342>"But it's still shocking, isn't it?"
 <ptT0342>"But it's still shocking, isn't it?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0343>"And it's right after what happened to Shiroyama-kun. This is what they call a series of events, isn't it? After all, Takashima-san..."
 <ptT0343>"And it's right after what happened to Shiroyama-kun. This is what they call a series of events, isn't it? After all, Takashima-san..."
 
@@ -1424,7 +1424,7 @@
 <enT0344>"B-But that's just a rumor, isn't it?"
 <ptT0344>"B-But that's just a rumor, isn't it?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0345>"A rumor? Not at all. Everyone's talking about it. She's famous, you know? She's all over the message boards."
 <ptT0345>"A rumor? Not at all. Everyone's talking about it. She's famous, you know? She's all over the message boards."
 
@@ -1432,7 +1432,7 @@
 <enT0346>"You shouldn't talk about someone's death so lightly. And what do you mean about the message boards?"
 <ptT0346>"You shouldn't talk about someone's death so lightly. And what do you mean about the message boards?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0347>"I was there."
 <ptT0347>"I was there."
 
@@ -1444,19 +1444,19 @@
 <enT0349>"Jeez. What she's trying to say is that you shouldn't be so damn happy about someone's death. Why does that make you happy?"
 <ptT0349>"Jeez. What she's trying to say is that you shouldn't be so damn happy about someone's death. Why does that make you happy?"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0350>"I-It's not that we're happy."
 <ptT0350>"I-It's not that we're happy."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0351>"That's mean, Minakami-san. It's not like I'm happy about it."
 <ptT0351>"That's mean, Minakami-san. It's not like I'm happy about it."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0352>"But still, a person from the next class over committed suicide. I'm just shocked. Why would you..."
 <ptT0352>"But still, a person from the next class over committed suicide. I'm just shocked. Why would you..."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0353>"Why would you say something like that?"
 <ptT0353>"Why would you say something like that?"
 
@@ -1472,7 +1472,7 @@
 <enT0356>"It looked to me like you were laughing."
 <ptT0356>"It looked to me like you were laughing."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0357>"That's... That's... an awful thing to say..."
 <ptT0357>"That's... That's... an awful thing to say..."
 
@@ -1516,11 +1516,11 @@
 <enT0367>"I said too much. I'm sorry. My emotions got the better of me."
 <ptT0367>"I said too much. I'm sorry. My emotions got the better of me."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0368>"Ah, sure..."
 <ptT0368>"Ah, sure..."
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0369>"I'm sorry, too. You were friends with Takashima-san, weren't you?"
 <ptT0369>"I'm sorry, too. You were friends with Takashima-san, weren't you?"
 
@@ -3952,7 +3952,7 @@
 <enT0976>"Whoa! Don't swing your sword at me!"
 <ptT0976>"Whoa! Don't swing your sword at me!"
 
-//TEXT 【Female Student】
+//TEXT 【Estudante Feminina】
 <enT0977>"Hey!"
 <ptT0977>"Hey!"
 

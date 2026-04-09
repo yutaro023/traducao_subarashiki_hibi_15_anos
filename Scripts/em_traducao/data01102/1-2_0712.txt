@@ -127,11 +127,11 @@
 <enT0027>He doesn't live the same day-to-day life that I understand. He lives the day-to-day life on the other side of the hill.
 <ptT0027>Ele não vive o mesmo cotidiano que eu conheço. Ele vive o cotidiano do outro lado da colina.
 
-//TEXT 【Old Man】
+//TEXT 【Homem Velho】
 <enT0028>"Hahahaha..."
 <ptT0028>"Hahahaha..."
 
-//TEXT 【Old Man】
+//TEXT 【Homem Velho】
 <enT0029>"I look old now, but back in the day, everyone was jealous of my disco moves."
 <ptT0029>"Posso estar velho agora, mas antigamente eu fazia sucesso na pista de dança."
 
@@ -139,7 +139,7 @@
 <enT0030>Oh, really?
 <ptT0030>Oh, sério?
 
-//TEXT 【Old Man】
+//TEXT 【Homem Velho】
 <enT0031>"How about it? Wanna dance?"
 <ptT0031>"Que tal? Quer dançar?"
 
@@ -147,7 +147,7 @@
 <enT0032>"I'd rather not."
 <ptT0032>"Acho melhor não, obrigada."
 
-//TEXT 【Old Man】
+//TEXT 【Homem Velho】
 <enT0033>"Huh?"
 <ptT0033>"Huh?"
 
@@ -169,31 +169,31 @@
 
 //TEXT
 <enT0038>Today, I was going to Tower Records (a CD store) in Suginomiya to buy a new release by one of my favorite bands.
-<ptT0038>Today, I was going to Tower Records (a CD store) in Suginomiya to buy a new release by one of my favorite bands.
+<ptT0038>Hoje eu estava indo para a Tower Records (uma loja de CDs) em Suginomiya para comprar um novo lançamento de uma das minhas bandas favoritas.q
 
 //TEXT
 <enT0039>As you can tell from my clothes, I'm totally... not actually a Visual Kei rocker.
-<ptT0039>As you can tell from my clothes, I'm totally... not actually a Visual Kei rocker.
+<ptT0039>Como dá pra ver pelas minhas roupas, eu sou totalmente um... não, pera. Eu não sou uma roqueira de Visual Kei..
 
 //TEXT
 <enT0040>I came to buy a new album by a famous English band.
-<ptT0040>I came to buy a new album by a famous English band.
+<ptT0040>Vim comprar um novo álbum de uma famosa banda inglesa.
 
 //TEXT
 <enT0041>This band isn't really goth, or goth-loli, or anything dark like that.
-<ptT0041>This band isn't really goth, or goth-loli, or anything dark like that.
+<ptT0041>Essa banda não é exatamente gótica, nem estilo goth-loli, nem nada sombrio assim.
 
 //TEXT
 <enT0042>Actually, I think there was something called gothic rock in England, but it's not all that dark either.
-<ptT0042>Actually, I think there was something called gothic rock in England, but it's not all that dark either.
+<ptT0042>Na verdade, acho que havia algo chamado rock gótico na Inglaterra, mas também não é tão sombrio.
 
 //TEXT
 <enT0043>It's a bit hasty to assume the word gothic implies "dark."
-<ptT0043>It's a bit hasty to assume the word gothic implies "dark."
+<ptT0043>É um pouco precipitado assumir que a palavra gótico implica "sombrio."
 
 //TEXT
 <enT0044>My clothes are dark and black, but the blood running through my veins is white.
-<ptT0044>My clothes are dark and black, but the blood running through my veins is white.
+<ptT0044>Minhas roupas são escuras e pretas, mas o sangue que corre em minhas veias é branco.
 
 //TEXT
 <enT0045>Ah.
@@ -201,19 +201,19 @@
 
 //TEXT
 <enT0046>I'm not sure where that was heading.
-<ptT0046>I'm not sure where that was heading.
+<ptT0046>Nem sei onde eu queria chegar com isso.
 
 //TEXT
 <enT0047>Well, who cares about that?
-<ptT0047>Well, who cares about that?
+<ptT0047>Bem, quem se importa com isso?
 
 //TEXT
 <enT0048>I bought the English rock CD. Yay.
-<ptT0048>I bought the English rock CD. Yay.
+<ptT0048>Comprei o CD de rock inglês. Yay.
 
 //TEXT
 <enT0049>They hadn't released anything in three years.
-<ptT0049>They hadn't released anything in three years.
+<ptT0049>Eles não lançavam nada há três anos.
 
 //TEXT 【Yuki】
 <enT0050>"Oooh..."
@@ -221,15 +221,15 @@
 
 //TEXT
 <enT0051>Ah, crap. I can't believe I let out a squeal like that in public.
-<ptT0051>Ah, crap. I can't believe I let out a squeal like that in public.
+<ptT0051>Ah, merda. Não acredito que soltei um grito desses em público.
 
 //TEXT
 <enT0052>Oh, no...
-<ptT0052>Oh, no...
+<ptT0052>Ah, não...
 
 //TEXT
 <enT0053>"Y-You're..."
-<ptT0053>"Y-You're..."
+<ptT0053>"Você é..."
 
 //TEXT 【Yuki】
 <enT0054>"Oh?"
@@ -237,131 +237,131 @@
 
 //TEXT
 <enT0055>I couldn't believe the way she was looking at me.
-<ptT0055>I couldn't believe the way she was looking at me.
+<ptT0055>Eu não conseguia acreditar no jeito que ela estava olhando para mim.
 
 //TEXT
 <enT0056>Just because I made some noise and struck a pose didn't mean that she needed to stare at me.
-<ptT0056>Just because I made some noise and struck a pose didn't mean that she needed to stare at me.
+<ptT0056>Só porque eu fiz algum barulho e fiz uma pose não significava que ela precisava olhar para mim assim.
 
 //TEXT 【Yuki】
 <enT0057>"Hmm? Oh, you're..."
-<ptT0057>"Hmm? Oh, you're..."
+<ptT0057>"Hmm? Ah, você é..."
 
 //TEXT
 <enT0058>From the class next door... Takashima Zakuro-san, I think?
-<ptT0058>From the class next door... Takashima Zakuro-san, I think?
+<ptT0058>Da turma ao lado... Takashima Zakuro-san, eu acho?
 
 //TEXT 【Yuki】
 <enT0059>"Takashima... Zakuro-san, was it?"
-<ptT0059>"Takashima... Zakuro-san, was it?"
+<ptT0059>"Takashima... Zakuro-san, não é?"
 
 //TEXT 【Zakuro】
 <enT0060>"Yes. Hello."
-<ptT0060>"Yes. Hello."
+<ptT0060>"Sim. Olá."
 
 //TEXT 【Yuki】
 <enT0061>"Ah, hello."
-<ptT0061>"Ah, hello."
+<ptT0061>"Ah, oi."
 
 //TEXT 【Zakuro】
 <enT0062>"Why are you here today?"
-<ptT0062>"Why are you here today?"
+<ptT0062>"Por que você está aqui hoje?"
 
 //TEXT 【Yuki】
 <enT0063>"Oh, uh, there's no particular reason. I was buying something, and now I guess I'm just walking around."
-<ptT0063>"Oh, uh, there's no particular reason. I was buying something, and now I guess I'm just walking around."
+<ptT0063>"Oh, uh, não há uma razão particular. Eu estava comprando uma coisa, e agora eu acho que estou apenas dando uma volta."
 
 //TEXT 【Yuki】
 <enT0064>"I mean, for someone living near the train station, Suginomiya is the most convenient place to go shopping, right? I suppose you could go all the way out to Shinjuku if you wanted, though."
-<ptT0064>"I mean, for someone living near the train station, Suginomiya is the most convenient place to go shopping, right? I suppose you could go all the way out to Shinjuku if you wanted, though."
+<ptT0064>"Quer dizer, para alguém que mora perto da estação de trem, Suginomiya é o lugar mais conveniente para fazer compras, não é? Acho que você poderia ir até Shinjuku se quisesse, tambem."
 
 //TEXT 【Zakuro】
 <enT0065>"I see. I'm glad."
-<ptT0065>"I see. I'm glad."
+<ptT0065>"Entendo. Fico feliz."
 
 //TEXT 【Yuki】
 <enT0066>"Glad?"
-<ptT0066>"Glad?"
+<ptT0066>"Feliz?"
 
 //TEXT 【Zakuro】
 <enT0067>"Yes. I'm glad I got to meet you."
-<ptT0067>"Yes. I'm glad I got to meet you."
+<ptT0067>"Sim. Fico feliz por ter te encontrado."
 
 //TEXT 【Yuki】
 <enT0068>"Okay. I-If you say so."
-<ptT0068>"Okay. I-If you say so."
+<ptT0068>"OK. S-Se é o que você diz."
 
 //TEXT 【Zakuro】
 <enT0069>"Yes. This might be divine providence."
-<ptT0069>"Yes. This might be divine providence."
+<ptT0069>"Sim. Isso deve ser providência divina."
 
 //TEXT 【Yuki】
 <enT0070>"Divine providence?"
-<ptT0070>"Divine providence?"
+<ptT0070>"Provência divina?"
 
 //TEXT
 <enT0071>What providence?
-<ptT0071>What providence?
+<ptT0071>Que providência?
 
 //TEXT 【Yuki】
 <enT0072>"Um, we've never really talked much, so..."
-<ptT0072>"Um, we've never really talked much, so..."
+<ptT0072>"Hum, nós nunca conversamos muito, então..."
 
 //TEXT 【Zakuro】
 <enT0073>"Huh?"
-<ptT0073>"Huh?"
+<ptT0073>"Hã?"
 
 //TEXT 【Yuki】
 <enT0074>"Huh? Have we?"
-<ptT0074>"Huh? Have we?"
+<ptT0074>"Hã? Estou errada?"
 
 //TEXT 【Zakuro】
 <enT0075>"Ah, no. You're right. You're probably right, but I knew you very well."
-<ptT0075>"Ah, no. You're right. You're probably right, but I knew you very well."
+<ptT0075>"Ah, não. Você tem razão. Você provavelmente está certa, mas eu te conhecia muito bem."
 
 //TEXT 【Yuki】
 <enT0076>"O-Oh, really?"
-<ptT0076>"O-Oh, really?"
+<ptT0076>"A-Ah, é mesmo?"
 
 //TEXT
 <enT0077>Why? Did I do something unnecessary and make another enemy?
-<ptT0077>Why? Did I do something unnecessary and make another enemy?
+<ptT0077>Por que? Eu fiz algo desnecessário e criei outro inimigo?
 
 //TEXT 【Yuki】
 <enT0078>"Did I do something to tick you off?"
-<ptT0078>"Did I do something to tick you off?"
+<ptT0078>"Eu fiz algo para te irritar?"
 
 //TEXT 【Zakuro】
 <enT0079>"Why do you ask?"
-<ptT0079>"Why do you ask?"
+<ptT0079>"Por que você pergunta?"
 
 //TEXT 【Yuki】
 <enT0080>"Well, if someone I don't remember all that well says they remember me, it means they're holding some kind of grudge, right?"
-<ptT0080>"Well, if someone I don't remember all that well says they remember me, it means they're holding some kind of grudge, right?"
+<ptT0080>"Bem, se alguém de quem não me lembro muito bem diz que se lembra de mim, significa que essa pessoa guarda algum tipo de rancor, certo?"
 
 //TEXT 【Zakuro】
 <enT0081>"A grudge against you? Heheh. I'm not holding any grudge."
-<ptT0081>"A grudge against you? Heheh. I'm not holding any grudge."
+<ptT0081>"Um rancor contra você? Hehe. Eu não guardo nenhum rancor."
 
 //TEXT 【Yuki】
 <enT0082>"I see. Well, that's good to hear."
-<ptT0082>"I see. Well, that's good to hear."
+<ptT0082>"Eu não tenho uma má impressão de você."
 
 //TEXT 【Zakuro】
 <enT0083>"I don't have a bad impression of you."
-<ptT0083>"I don't have a bad impression of you."
+<ptT0083>"Eu não tenho uma má impressão de você."
 
 //TEXT 【Yuki】
 <enT0084>"That's... good to hear."
-<ptT0084>"That's... good to hear."
+<ptT0084>"Isso é... bom ouvir."
 
 //TEXT 【Zakuro】
 <enT0085>"Not a bad impression at all."
-<ptT0085>"Not a bad impression at all."
+<ptT0085>"De jeito algum é uma má impressão."
 
 //TEXT 【Yuki】
 <enT0086>"At all?"
-<ptT0086>"At all?"
+<ptT0086>"De jeito algum?"
 
 //TEXT 【Zakuro】
 <enT0087>"..."
@@ -369,15 +369,15 @@
 
 //TEXT 【Zakuro】
 <enT0088>"Ah. I hope we can have cordial relations."
-<ptT0088>"Ah. I hope we can have cordial relations."
+<ptT0088>"Ah. Espero que possamos ter relações cordiais."
 
 //TEXT 【Yuki】
 <enT0089>"Huh?"
-<ptT0089>"Huh?"
+<ptT0089>"Hã?"
 
 //TEXT 【Yuki】
 <enT0090>"Huh?"
-<ptT0090>"Huh?"
+<ptT0090>"Hã?"
 
 //TEXT 【Yuki】
 <enT0091>"Mmmgh?!"
@@ -393,79 +393,79 @@
 
 //TEXT
 <enT0094>Wh-What?
-<ptT0094>Wh-What?
+<ptT0094>O-O que?
 
 //TEXT
 <enT0095>What just happened?
-<ptT0095>What just happened?
+<ptT0095>O que acabou de acontecer?
 
 //TEXT 【Yuki】
 <enT0096>"Wha―..."
-<ptT0096>"Wha―..."
+<ptT0096>"Que―..."
 
 //TEXT 【Zakuro】
 <enT0097>"I'll give you some of my power."
-<ptT0097>"I'll give you some of my power."
+<ptT0097>"Eu vou te dar um pouco do meu poder."
 
 //TEXT 【Yuki】
 <enT0098>"Power? Wh-What do you mean?"
-<ptT0098>"Power? Wh-What do you mean?"
+<ptT0098>"Poder? O que você quer dizer?"
 
 //TEXT
 <enT0099>B-Besides that, I was just kissed...
-<ptT0099>B-Besides that, I was just kissed...
+<ptT0099>A-Além disso, acabei de ser beijada...
 
 //TEXT
 <enT0100>By some girl from another class who I hardly even knew.
-<ptT0100>By some girl from another class who I hardly even knew.
+<ptT0100>Por uma garota de outra turma que eu mal conhecia.
 
 //TEXT 【Zakuro】
 <enT0101>"Soon, something amazing will happen."
-<ptT0101>"Soon, something amazing will happen."
+<ptT0101>"Em breve, algo incrível acontecerá."
 
 //TEXT 【Yuki】
 <enT0102>"S-Something amazing?"
-<ptT0102>"S-Something amazing?"
+<ptT0102>"A-Algo incrível?"
 
 //TEXT
 <enT0103>Wait a second.
-<ptT0103>Wait a second.
+<ptT0103>Espera ai.
 
 //TEXT
 <enT0104>She wasn't satisfied with a kiss? She wants to do "something amazing" to me?
-<ptT0104>She wasn't satisfied with a kiss? She wants to do "something amazing" to me?
+<ptT0104>Ela não ficou satisfeita com um beijo? Ela quer fazer "algo incrível" comigo?
 
 //TEXT
 <enT0105>By "something amazing", she means...
-<ptT0105>By "something amazing", she means...
+<ptT0105>Pelo que ela disse, "algo incrível" significa...
 
 //TEXT 【Yuki】
 <enT0106>"You mean, like, tribadism?"
-<ptT0106>"You mean, like, tribadism?"
+<ptT0106>"Você quer dizer, tipo, tribadismo?"
 
 //TEXT 【Zakuro】
 <enT0107>"Tribadism?"
-<ptT0107>"Tribadism?"
+<ptT0107>"Tribadismo?"
 
 //TEXT 【Yuki】
 <enT0108>"Ahahaha, nothing. By the way, what is that 'something amazing' you were talking about?"
-<ptT0108>"Ahahaha, nothing. By the way, what is that 'something amazing' you were talking about?"
+<ptT0108>"Ahahaha, nada. A propósito, o que é esse 'algo incrível' de que você estava falando?"
 
 //TEXT 【Zakuro】
 <enT0109>"Well, it's..."
-<ptT0109>"Well, it's..."
+<ptT0109>"Bem, isso é..."
 
 //TEXT 【Zakuro】
 <enT0110>"The sky is really, really full."
-<ptT0110>"The sky is really, really full."
+<ptT0110>"O céu está muito, muito cheio."
 
 //TEXT 【Yuki】
 <enT0111>"Full of what?"
-<ptT0111>"Full of what?"
+<ptT0111>"Cheio do que?"
 
 //TEXT 【Zakuro】
 <enT0112>"Anxious words."
-<ptT0112>"Anxious words."
+<ptT0112>"Palavras ansiosas."
 
 //TEXT 【Yuki】
 <enT0113>"..."
@@ -473,51 +473,51 @@
 
 //TEXT 【Zakuro】
 <enT0114>"The sky is full of anxious words."
-<ptT0114>"The sky is full of anxious words."
+<ptT0114>"TO céu está cheio de palavras ansiosas."
 
 //TEXT 【Yuki】
 <enT0115>"Um, not full of anxiety, but full of anxious words?"
-<ptT0115>"Um, not full of anxiety, but full of anxious words?"
+<ptT0115>"Hum, não cheio de ansiedade, mas cheio de palavras ansiosas?"
 
 //TEXT
 <enT0116>That would've kind of made sense if she'd said "The sky is full of anxiety," but what did she mean by "anxious words"?
-<ptT0116>That would've kind of made sense if she'd said "The sky is full of anxiety," but what did she mean by "anxious words"?
+<ptT0116>Isso faria sentido se ela dissesse "O céu está cheio de ansiedade", mas o que ela quis dizer com "palavras ansiosas"?
 
 //TEXT 【Yuki】
 <enT0117>"That's kind of a cool expression."
-<ptT0117>"That's kind of a cool expression."
+<ptT0117>"Essa é uma boa metáfora."
 
 //TEXT 【Zakuro】
 <enT0118>"Heheh. It's not a metaphor."
-<ptT0118>"Heheh. It's not a metaphor."
+<ptT0118>"Heheh. Não é uma metáfora."
 
 //TEXT
 <enT0119>So she really meant it...
-<ptT0119>So she really meant it...
+<ptT0119>Então ela realmente quis dizer isso...
 
 //TEXT
 <enT0120> Well, let's ignore that for now.
-<ptT0120> Well, let's ignore that for now.
+<ptT0120> Bem, vamos ignorar isso por enquanto.
 
 //TEXT 【Yuki】
 <enT0121>"So, what about it?"
-<ptT0121>"So, what about it?"
+<ptT0121>"Então, e daí?"
 
 //TEXT 【Zakuro】
 <enT0122>"The process of absorption has begun."
-<ptT0122>"The process of absorption has begun."
+<ptT0122>"O processo de absorção começou."
 
 //TEXT
 <enT0123>I didn't really get what she meant. Who was she talking about?
-<ptT0123>I didn't really get what she meant. Who was she talking about?
+<ptT0123>Eu realmente não entendi o que ela quis dizer. De quem ela estava falando?
 
 //TEXT 【Yuki】
 <enT0124>"Who's doing the absorbing?"
-<ptT0124>"Who's doing the absorbing?"
+<ptT0124>"De quem é o processo de absorção?"
 
 //TEXT 【Zakuro】
 <enT0125>"The world is."
-<ptT0125>"The world is."
+<ptT0125>"Do mundo."
 
 //TEXT
 <enT0126>...
@@ -525,15 +525,15 @@
 
 //TEXT
 <enT0127>I took a step back and thought to myself.
-<ptT0127>I took a step back and thought to myself.
+<ptT0127>Dei um passo para trás e pensei comigo mesma.
 
 //TEXT
 <enT0128>Her clothes.
-<ptT0128>Her clothes.
+<ptT0128>As roupas dela.
 
 //TEXT
 <enT0129>I know that style...
-<ptT0129>I know that style...
+<ptT0129>Eu conheço esse estilo...
 
 //TEXT
 <enT0130>Um...
@@ -541,7 +541,7 @@
 
 //TEXT 【Yuki】
 <enT0131>"Wanjuku Style!"
-<ptT0131>"Wanjuku Style!"
+<ptT0131>"Estilo Wanjuku!"
 
 //TEXT 【Zakuro】
 <enT0132>"Hm?"
@@ -549,43 +549,43 @@
 
 //TEXT
 <enT0133>No, I really didn't know either.
-<ptT0133>No, I really didn't know either.
+<ptT0133>Não, eu realmente não fazia ideia também.
 
 //TEXT
 <enT0134>Let's think about the real essence of this style.
-<ptT0134>Let's think about the real essence of this style.
+<ptT0134>Vamos pensar na real essência desse estilo.
 
 //TEXT
 <enT0135>I know it.
-<ptT0135>I know it.
+<ptT0135>Eu sei isso.
 
 //TEXT
 <enT0136>This style is a metaphor for the darkness.
-<ptT0136>This style is a metaphor for the darkness.
+<ptT0136>Este estilo é uma metáfora para a escuridão.
 
 //TEXT 【Yuki】
 <enT0137>"It's V Kei!"
-<ptT0137>"It's V Kei!"
+<ptT0137>"É V Kei!"
 
 //TEXT 【Zakuro】
 <enT0138>"Wh-What is?"
-<ptT0138>"Wh-What is?"
+<ptT0138>"O que é isso?"
 
 //TEXT 【Yuki】
 <enT0139>"It's Visual Kei!"
-<ptT0139>"It's Visual Kei!"
+<ptT0139>"É Visual Kei!"
 
 //TEXT 【Zakuro】
 <enT0140>"Yes, I know that, but..."
-<ptT0140>"Yes, I know that, but..."
+<ptT0140>"Sim, eu sei disso, mas..."
 
 //TEXT 【Yuki】
 <enT0141>"Ah, well, I was just wondering if you liked it."
-<ptT0141>"Ah, well, I was just wondering if you liked it."
+<ptT0141>"Ah, bem, eu estava apenas me perguntando se você gostou."
 
 //TEXT
 <enT0142>I was going to say she was cosplaying Makki Shoujo or Jakigan, but I figured she would get mad if I said that.
-<ptT0142>I was going to say she was cosplaying Makki Shoujo or Jakigan, but I figured she would get mad if I said that.
+<ptT0142>Eu ia dizer que ela estava fazendo cosplay de Makki Shoujo ou Jakigan, mas imaginei que ela ficaria brava se eu dissesse isso.
 
 //TEXT 【Zakuro】
 <enT0143>"..."
@@ -593,27 +593,27 @@
 
 //TEXT 【Zakuro】
 <enT0144>"Anxious words, and the world that has absorbed them."
-<ptT0144>"Anxious words, and the world that has absorbed them."
+<ptT0144>"Palavras ansiosas, e o mundo que as absorveu."
 
 //TEXT 【Zakuro】
 <enT0145>"Do you know what those are?"
-<ptT0145>"Do you know what those are?"
+<ptT0145>"Você sabe o que isso significa?"
 
 //TEXT 【Yuki】
 <enT0146>"Uh, not really."
-<ptT0146>"Uh, not really."
+<ptT0146>"Uh, na verdade não."
 
 //TEXT 【Zakuro】
 <enT0147>"The heart of the person who will soon die."
-<ptT0147>"The heart of the person who will soon die."
+<ptT0147>"O coração da pessoa que morrerá em breve."
 
 //TEXT 【Zakuro】
 <enT0148>"Therefore, the world..."
-<ptT0148>"Therefore, the world..."
+<ptT0148>"Portanto, o mundo..."
 
 //TEXT 【Zakuro】
 <enT0149>"Will end."
-<ptT0149>"Will end."
+<ptT0149>"Irá acabar."
 
 //TEXT 【Yuki】
 <enT0150>"..."
@@ -621,19 +621,19 @@
 
 //TEXT 【Yuki】
 <enT0151>"What?"
-<ptT0151>"What?"
+<ptT0151>"O que?"
 
 //TEXT
 <enT0152>I took a second to organize my thoughts.
-<ptT0152>I took a second to organize my thoughts.
+<ptT0152>Levei um segundo para organizar meus pensamentos.
 
 //TEXT
 <enT0153>"Something Amazing" ≠ Tribadism.\n
-<ptT0153>"Something Amazing" ≠ Tribadism.\n
+<ptT0153>"Algo incrível" ≠ Tribadismo.\n
 
 //TEXT
 <enT0154>"Something Amazing" = The end of the the world.
-<ptT0154>"Something Amazing" = The end of the the world.
+<ptT0154>"Algo incrível" = O fim do mundo.
 
 //TEXT
 <enT0155>
@@ -641,19 +641,19 @@
 
 //TEXT
 <enT0156>I understood.\n
-<ptT0156>I understood.\n
+<ptT0156>Eu entendi.\n
 
 //TEXT
 <enT0157>I understood instantly.
-<ptT0157>I understood instantly.
+<ptT0157>Eu entendi instantaneamente.
 
 //TEXT 【Yuki】
 <enT0158>"Huh?"
-<ptT0158>"Huh?"
+<ptT0158>"Hã?"
 
 //TEXT 【Zakuro】
 <enT0159>"You probably can't believe it, right? But I'll protect you."
-<ptT0159>"You probably can't believe it, right? But I'll protect you."
+<ptT0159>"Você provavelmente não consegue acreditar nisso, não é? Mas eu vou te proteger."
 
 //TEXT
 <enT0160>"Zakuro-chan!"
@@ -661,87 +661,86 @@
 
 //TEXT
 <enT0161>"Who is this?"
-<ptT0161>"Who is this?"
+<ptT0161>"Quem é esse?"
 
 //TEXT
 <enT0162>Takashima-san said something weird, and then two strange girls appeared behind her.
-<ptT0162>Takashima-san said something weird, and then two strange girls appeared behind her.
+<ptT0162>Takashima disse algo estranho e então duas garotas estranhas apareceram atrás dela.
 
 //TEXT
 <enT0163>It was scary how they were glaring at me.
-<ptT0163>It was scary how they were glaring at me.
-
+<ptT0163>Foi assustador como eles estavam olhando para mim.
 //TEXT
 <enT0164>It looked like they were mad about something.
-<ptT0164>It looked like they were mad about something.
+<ptT0164>Parecia que eles estavam bravos com alguma coisa.
 
 //TEXT
 <enT0165>But what?
-<ptT0165>But what?
+<ptT0165>Mas o que?
 
 //TEXT
 <enT0166>"What are you doing with an outsider?"
-<ptT0166>"What are you doing with an outsider?"
+<ptT0166>"O que você está fazendo com um estranho?"
 
 //TEXT 【Zakuro】
 <enT0167>"Sorry, but... this person should be fine."
-<ptT0167>"Sorry, but... this person should be fine."
+<ptT0167>"Desculpe, mas... essa pessoa deve estar bem."
 
 //TEXT
 <enT0168>Fine? Fine for what?
-<ptT0168>Fine? Fine for what?
+<ptT0168>Bem? Bem por que?
 
 //TEXT
 <enT0169>"I really don't approve..."
-<ptT0169>"I really don't approve..."
+<ptT0169>"Eu realmente não aprovo..."
 
 //TEXT 【Zakuro】
 <enT0170>"Yeah, I understand."
-<ptT0170>"Yeah, I understand."
+<ptT0170>"Sim, eu entendo."
 
 //TEXT
 <enT0171>"Please be more careful, Zakuro-chan."
-<ptT0171>"Please be more careful, Zakuro-chan."
+<ptT0171>"Por favor, tenha mais cuidado, Zakuro-chan."
 
 //TEXT 【Zakuro】
 <enT0172>"Okay..."
-<ptT0172>"Okay..."
+<ptT0172>"Certo..."
 
 //TEXT
 <enT0173>More importantly...
-<ptT0173>More importantly...
+<ptT0173>Mais importante...
 
 //TEXT
 <enT0174>Who are these people?
-<ptT0174>Who are these people?
+<ptT0174>Quem são essas pessoas?
 
 //TEXT
 <enT0175>Her... sex partners?
-<ptT0175>Her... sex partners?
+<ptT0175>Seus... parceiros sexuais?
 
 //TEXT
 <enT0176>And that's why she suddenly kissed me?
-<ptT0176>And that's why she suddenly kissed me?
+<ptT0176>E é por isso que ela de repente me beijou?
 
 //TEXT
 <enT0177>Then the reason why she knew me so well even though I didn't know her was because she was after my body?
-<ptT0177>Then the reason why she knew me so well even though I didn't know her was because she was after my body?
+<ptT0177>Então a razão pela qual ela me conhecia tão bem, embora eu não a conhecesse, era porque ela estava atrás do meu corpo?
 
 //TEXT
 <enT0178>And then, and then, her sex partners were mad because she made a pass at an "outsider" (a heterosexual)?
-<ptT0178>And then, and then, her sex partners were mad because she made a pass at an "outsider" (a heterosexual)?
+<ptT0178>E então, seus parceiros sexuais ficaram furiosos porque ela tentou um "estranho" (um heterossexual)?
 
 //TEXT
 <enT0179>That means...
-<ptT0179>That means...
+<ptT0179>Isso significa...
 
 //TEXT
 <enT0180>My chastity is in danger.
-<ptT0180>My chastity is in danger.
+<ptT0180>Minha castidade está em perigo.
 
 //TEXT 【Yuki】
 <enT0181>"Ahahaha, well then, I'd better be off..."
-<ptT0181>"Ahahaha, well then, I'd better be off..."
+<ptT0181>"Ahahaha, bem, então é melhor eu ir embora..."
 
 //TEXT
 <enT0182>
@@ -749,11 +748,11 @@
 
 //TEXT 【Zakuro】
 <enT0183>"Hey!"
-<ptT0183>"Hey!"
+<ptT0183>"Ei!"
 
 //TEXT 【Yuki】
 <enT0184>"Yes?!"
-<ptT0184>"Yes?!"
+<ptT0184>"Sim?!"
 
 //TEXT
 <enT0185>
@@ -761,7 +760,7 @@
 
 //TEXT 【Zakuro】
 <enT0186>"I'll protect the world, so..."
-<ptT0186>"I'll protect the world, so..."
+<ptT0186>"Eu vou proteger o mundo, então..."
 
 //TEXT 【Yuki】
 <enT0187>"..."
@@ -769,11 +768,11 @@
 
 //TEXT 【Yuki】
 <enT0188>"Okay?"
-<ptT0188>"Okay?"
+<ptT0188>"Certo?"
 
 //TEXT 【Zakuro】
 <enT0189>"I won't fail. I can do it."
-<ptT0189>"I won't fail. I can do it."
+<ptT0189>"Eu não vou falhar. Eu posso fazer isso."
 
 //TEXT
 <enT0190>"Zakuro!"
@@ -781,7 +780,7 @@
 
 //TEXT 【Zakuro】
 <enT0191>"Coming..."
-<ptT0191>"Coming..."
+<ptT0191>"Estou indo..."
 
 //TEXT
 <enT0192>...
@@ -789,15 +788,15 @@
 
 //TEXT
 <enT0193>What? What did she just say?
-<ptT0193>What? What did she just say?
+<ptT0193>O que? O que ela acabou de dizer?
 
 //TEXT
 <enT0194>I organized my thoughts.
-<ptT0194>I organized my thoughts.
+<ptT0194>Eu organizo meus pensamentos.
 
 //TEXT
 <enT0195>So that meant...
-<ptT0195>So that meant...
+<ptT0195>Isso pode ser...
 
 //TEXT
 <enT0196>1.
@@ -805,7 +804,7 @@
 
 //TEXT
 <enT0197> Takashima-san is a lesbian.\n&
-<ptT0197> Takashima-san is a lesbian.\n&
+<ptT0197> Takashima-san é lésbica.\n&
 
 //TEXT
 <enT0198>2.
@@ -813,7 +812,7 @@
 
 //TEXT
 <enT0199> Those other girls are her sex friends.\n&
-<ptT0199> Those other girls are her sex friends.\n&
+<ptT0199> Essas outras garotas são suas amigas sexuais.\n&
 
 //TEXT
 <enT0200>3.
@@ -821,19 +820,19 @@
 
 //TEXT
 <enT0201> That's why they're fighting to protect world peace.
-<ptT0201> That's why they're fighting to protect world peace.
+<ptT0201> É por isso que eles estão lutando para proteger a paz mundial.
 
 //TEXT
 <enT0202>I guess?
-<ptT0202>I guess?
+<ptT0202>Eu acho?
 
 //TEXT
 <enT0203>Is that... correct?
-<ptT0203>Is that... correct?
+<ptT0203>Isso é... correto?
 
 //TEXT 【Yuki】
 <enT0204>"I suppose because they're a minority group, they have a lot of interest in world peace and stuff like that."
-<ptT0204>"I suppose because they're a minority group, they have a lot of interest in world peace and stuff like that."
+<ptT0204>"Suponho que por serem um grupo minoritário, eles têm muito interesse na paz mundial e coisas assim."
 
 //TEXT
 <enT0205>......
@@ -841,11 +840,11 @@
 
 //TEXT
 <enT0206>Right?
-<ptT0206>Right?
+<ptT0206>Certo?
 
 //TEXT
 <enT0207>We'll go with that. I didn't really want to get involved with them.
-<ptT0207>We'll go with that. I didn't really want to get involved with them.
+<ptT0207>Vamos apostar nisso. Eu realmente não quero me envolver com elas.
 
 //TEXT
 <enT0208>"Yuki!"
@@ -857,75 +856,75 @@
 
 //TEXT 【Yuki】
 <enT0210>"Ah, one of the Wakatsuki sisters... The younger one... Tsukasa?"
-<ptT0210>"Ah, one of the Wakatsuki sisters... The younger one... Tsukasa?"
+<ptT0210>"Ah, uma das irmãs Wakatsuki... é a mais nova... Tsukasa?"
 
 //TEXT 【Tsukasa】
 <enT0211>"Yuki, what are you here for? Your job?"
-<ptT0211>"Yuki, what are you here for? Your job?"
+<ptT0211>"Yuki, por que você está aqui? Trabalhando?"
 
 //TEXT 【Yuki】
 <enT0212>"No, I'm not."
-<ptT0212>"No, I'm not."
+<ptT0212>"Não, eu não estou."
 
 //TEXT
 <enT0213>"What do you mean? Yuki, you have work today, don't you?"
-<ptT0213>"What do you mean? Yuki, you have work today, don't you?"
+<ptT0213>"O que você quer dizer? Yuki, você tem trabalho hoje, não é?"
 
 //TEXT 【Yuki】
 <enT0214>"Oh, uh, you're..."
-<ptT0214>"Oh, uh, you're..."
+<ptT0214>"Oh, uh, e você é."
 
 //TEXT 【Yuki】
 <enT0215>"Who are you?"
-<ptT0215>"Who are you?"
+<ptT0215>"Quem é você?"
 
 //TEXT 【Kagami】
 <enT0216>"What the hell?! There's no way you could remember Tsukasa and not remember me!"
-<ptT0216>"What the hell?! There's no way you could remember Tsukasa and not remember me!"
+<ptT0216>"Que diabos?! Não tem como você lembrar de Tsukasa e não lembrar de mim!"
 
 //TEXT 【Yuki】
 <enT0217>"Where there's a will, there's a way. Besides, what's with that attitude, as if it's ridiculous that anyone would ever forget a celeb like you?"
-<ptT0217>"Where there's a will, there's a way. Besides, what's with that attitude, as if it's ridiculous that anyone would ever forget a celeb like you?"
+<ptT0217>"Onde há vontade, há um caminho. Além disso, o que há com essa atitude, como se fosse ridículo que alguém esquecesse uma celebridade como você?"
 
 //TEXT 【Kagami】
 <enT0218>"You grew up with us! There's no way you could remember the younger twin and then forget about the older one!"
-<ptT0218>"You grew up with us! There's no way you could remember the younger twin and then forget about the older one!"
+<ptT0218>"Você cresceu conosco! Não há como você se lembrar da gêmea mais nova e depois esquecer a mais velha!"
 
 //TEXT 【Tsukasa】
 <enT0219>"Yeah. We've always been together since kindergarten."
-<ptT0219>"Yeah. We've always been together since kindergarten."
+<ptT0219>"Sim. Nós sempre estivemos juntas desde o jardim de infância."
 
 //TEXT 【Yuki】
 <enT0220>"Really? Has it been that long already?"
-<ptT0220>"Really? Has it been that long already?"
+<ptT0220>"De verdade? Já faz tanto tempo?"
 
 //TEXT 【Tsukasa】
 <enT0221>"So, Yuki, what about your job?"
-<ptT0221>"So, Yuki, what about your job?"
+<ptT0221>"Então, Yuki, e quanto ao seu trabalho?"
 
 //TEXT 【Yuki】
 <enT0222>"Unfortunately, I'm taking time off for personal reasons."
-<ptT0222>"Unfortunately, I'm taking time off for personal reasons."
+<ptT0222>"Infelizmente, estou tomando um dia de folga por motivos pessoais."
 
 //TEXT 【Tsukasa】
 <enT0223>"You shouldn't take a day off work for personal reasons..."
-<ptT0223>"You shouldn't take a day off work for personal reasons..."
+<ptT0223>"Você não deveria tirar um dia de folga do trabalho por motivos pessoais..."
 
 //TEXT 【Kagami】
 <enT0224>"Whatever. Let it go, Tsukasa. At this rate, we're going to catch the stupid from her."
-<ptT0224>"Whatever. Let it go, Tsukasa. At this rate, we're going to catch the stupid from her."
+<ptT0224>"De qualquer forma. Deixe pra lá, Tsukasa. Nesse ritmo, vamos acabar pegando a estupidez dela."
 
 //TEXT 【Tsukasa】
 <enT0225>"Ahahaha. That's not possible."
-<ptT0225>"Ahahaha. That's not possible."
+<ptT0225>"Ahahaha. Isso não é possível."
 
 //TEXT 【Yuki】
 <enT0226>"No, it just might be."
-<ptT0226>"No, it just might be."
+<ptT0226>"Na verdade, até que pode ser isso."
 
 //TEXT 【Yuki】
 <enT0227>"You caught Tsukasa's stu―"
-<ptT0227>"You caught Tsukasa's stu―"
+<ptT0227>"Você pegou a estu― de Tsukasa"
 
 //TEXT 【Yuki】
 <enT0228>"Oww."
@@ -933,7 +932,7 @@
 
 //TEXT 【Kagami】
 <enT0229>"I'll hit you if you say anything bad about Tsukasa."
-<ptT0229>"I'll hit you if you say anything bad about Tsukasa."
+<ptT0229>"Eu vou te bater se você falar algo ruim sobre Tsukasa."
 
 //TEXT 【Tsukasa】
 <enT0230>"Onee-chan."
@@ -941,31 +940,31 @@
 
 //TEXT 【Yuki】
 <enT0231>"You should give me that warning before you hit me..."
-<ptT0231>"You should give me that warning before you hit me..."
+<ptT0231>"Você poderia ter avisado antes de me bater..."
 
 //TEXT 【Yuki】
 <enT0232>"So, what are the Wakatsuki sisters doing?"
-<ptT0232>"So, what are the Wakatsuki sisters doing?"
+<ptT0232>"Então, o que as irmãs Wakatsuki estão fazendo?"
 
 //TEXT 【Kagami】
 <enT0233>"We're going home after our club activities, unlike you."
-<ptT0233>"We're going home after our club activities, unlike you."
+<ptT0233>"Vamos para casa depois das nossas atividades de clube, ao contrário de você."
 
 //TEXT 【Yuki】
 <enT0234>"What do you mean, unlike me? We're both human, aren't we?"
-<ptT0234>"What do you mean, unlike me? We're both human, aren't we?"
+<ptT0234>"O que você quer dizer, ao contrário de mim? Nós somos ambos humanos, não somos?"
 
 //TEXT 【Kagami】
 <enT0235>"I don't think anyone would take you for a human."
-<ptT0235>"I don't think anyone would take you for a human."
+<ptT0235>"Eu não acho que alguém iria te considerar um humano."
 
 //TEXT 【Yuki】
 <enT0236>"Do I look more like a goddess?"
-<ptT0236>"Do I look more like a goddess?"
+<ptT0236>"Eu pareço mais como uma deusa?"
 
 //TEXT 【Kagami】
 <enT0237>"Hmph... Tsukasa, let's go."
-<ptT0237>"Hmph... Tsukasa, let's go."
+<ptT0237>"Hmph... Tsukasa, vamos embora."
 
 //TEXT 【Tsukasa】
 <enT0238>"Ah..."
@@ -973,27 +972,27 @@
 
 //TEXT 【Yuki】
 <enT0239>"Kagami's as grumpy as ever."
-<ptT0239>"Kagami's as grumpy as ever."
+<ptT0239>"Kagami está mais mal-humorada do que nunca."
 
 //TEXT 【Tsukasa】
 <enT0240>"So you did remember her name."
-<ptT0240>"So you did remember her name."
+<ptT0240>"Então você lembra o nome dela."
 
 //TEXT 【Yuki】
 <enT0241>"Well, I am a tsundere."
-<ptT0241>"Well, I am a tsundere."
+<ptT0241>"Bem, eu sou um tsundere."
 
 //TEXT 【Tsukasa】
 <enT0242>"Yuki, you know... Being a tsundere isn't an excuse for bullying someone like that."
-<ptT0242>"Yuki, you know... Being a tsundere isn't an excuse for bullying someone like that."
+<ptT0242>"Yuki, você sabe... Ser um tsundere não é desculpa para intimidar alguém assim."
 
 //TEXT 【Yuki】
 <enT0243>"I see."
-<ptT0243>"I see."
+<ptT0243>"Entendo."
 
 //TEXT 【Tsukasa】
 <enT0244>"You've always been Onee-chan's role model."
-<ptT0244>"You've always been Onee-chan's role model."
+<ptT0244>"Você sempre foi o modelo da Onee-chan."
 
 //TEXT 【Yuki】
 <enT0245>"..."
@@ -1001,7 +1000,7 @@
 
 //TEXT 【Tsukasa】
 <enT0246>"So it wouldn't hurt you to be nice to her once in a while."
-<ptT0246>"So it wouldn't hurt you to be nice to her once in a while."
+<ptT0246>"Então não faria mal você ser gentil com ela de vez em quando."
 
 //TEXT 【Yuki】
 <enT0247>"Hmm."
@@ -1009,23 +1008,23 @@
 
 //TEXT 【Yuki】
 <enT0248>"Maybe I'll think about it if you promise to be nice to me."
-<ptT0248>"Maybe I'll think about it if you promise to be nice to me."
+<ptT0248>"Talvez eu pense sobre isso se você prometer ser legal comigo."
 
 //TEXT 【Tsukasa】
 <enT0249>"Wait, Y-Yuki..."
-<ptT0249>"Wait, Y-Yuki..."
+<ptT0249>"Espera, Y-Yuki..."
 
 //TEXT 【Yuki】
 <enT0250>"Look, your boobs are so soft, too."
-<ptT0250>"Look, your boobs are so soft, too."
+<ptT0250>"Olha, seus seios também são tão macios."
 
 //TEXT 【Tsukasa】
 <enT0251>"Y-You can't do that... Ah, ahn!"
-<ptT0251>"Y-You can't do that... Ah, ahn!"
+<ptT0251>"V-Você não pode fazer isso... Ah, ahn!"
 
 //TEXT 【Tsukasa】
 <enT0252>"Stop, you can't touch me down there. Y-You can't call that a joke!"
-<ptT0252>"Stop, you can't touch me down there. Y-You can't call that a joke!"
+<ptT0252>"Pare, você não pode me tocar aí. V-Você não pode chamar isso de piada!"
 
 //TEXT 【Yuki】
 <enT0253>"Ow..."
@@ -1033,7 +1032,7 @@
 
 //TEXT 【Kagami】
 <enT0254>"J-Just how stupid are you?"
-<ptT0254>"J-Just how stupid are you?"
+<ptT0254>"Q-Quão estúpido você é?"
 
 //TEXT 【Yuki】
 <enT0255>"Hahahaha... Oops."
@@ -1041,195 +1040,194 @@
 
 //TEXT 【Yuki】
 <enT0256>"I just thought you might come back if I messed with Tsukasa."
-<ptT0256>"I just thought you might come back if I messed with Tsukasa."
+<ptT0256>"Eu só pensei que você poderia voltar se eu mexesse com Tsukasa."
 
 //TEXT 【Kagami】
 <enT0257>"Wh-What do you mean?!"
-<ptT0257>"Wh-What do you mean?!"
+<ptT0257>"O que você quer dizer?!"
 
 //TEXT 【Yuki】
 <enT0258>"Don't ask me."
-<ptT0258>"Don't ask me."
+<ptT0258>"Não me pergunte."
 
 //TEXT 【Kagami】
 <enT0259>"Y-You're teasing me again!"
-<ptT0259>"Y-You're teasing me again!"
+<ptT0259>"V-você está me provocando de novo!"
 
 //TEXT 【Yuki】
 <enT0260>"Maybe I am, maybe I'm not!"
-<ptT0260>"Maybe I am, maybe I'm not!"
+<ptT0260>"Talvez eu esteja, talvez eu não esteja!"
 
 //TEXT 【Tsukasa】
 <enT0261>"You just wanted to walk home together with us, right?"
-<ptT0261>"You just wanted to walk home together with us, right?"
+<ptT0261>"Você só queria voltar para casa junto com a gente, certo?"
 
 //TEXT 【Yuki】
 <enT0262>"Huh?"
-<ptT0262>"Huh?"
+<ptT0262>"Hã?"
 
 //TEXT 【Tsukasa】
 <enT0263>"That's it, isn't it?"
-<ptT0263>"That's it, isn't it?"
+<ptT0263>"É isso, não é?"
 
 //TEXT 【Yuki】
 <enT0264>"Y-Yeah."
-<ptT0264>"Y-Yeah."
+<ptT0264>"S-Sim."
 
 //TEXT 【Kagami】
 <enT0265>"Together?"
-<ptT0265>"Together?"
+<ptT0265>"Junto?"
 
 //TEXT 【Tsukasa】
 <enT0266>"That's right. Our houses are right next to each other, after all. We used to walk to school together all the time."
-<ptT0266>"That's right. Our houses are right next to each other, after all. We used to walk to school together all the time."
+<ptT0266>"Isso mesmo. Afinal, nossas casas ficam uma ao lado da outra. Costumávamos caminhar juntos para a escola o tempo todo."
 
 //TEXT 【Kagami】
 <enT0267>"Yeah, we used to..."
-<ptT0267>"Yeah, we used to..."
+<ptT0267>"Sim, costumávamos..."
 
 //TEXT 【Tsukasa】
 <enT0268>"Yeah, but we could do it again if we wanted."
-<ptT0268>"Yeah, but we could do it again if we wanted."
+<ptT0268>"Sim, mas poderíamos fazer isso de novo se quiséssemos."
 
 //TEXT 【Kagami】
 <enT0269>"Well, all right. We haven't really seen Yuki all that much lately."
-<ptT0269>"Well, all right. We haven't really seen Yuki all that much lately."
+<ptT0269>"Bem, tudo bem. Nós realmente não temos visto muito Yuki ultimamente."
 
 //TEXT 【Tsukasa】
 <enT0270>"Yeah, let's walk home together."
-<ptT0270>"Yeah, let's walk home together."
+<ptT0270>"Sim, vamos caminhar para casa juntos."
 
 //TEXT 【Yuki】
 <enT0271>"S-Sure."
-<ptT0271>"S-Sure."
+<ptT0271>"C-Claro."
 
 //TEXT
 <enT0272>Walk home? I wasn't planning on heading back yet...
-<ptT0272>Walk home? I wasn't planning on heading back yet...
+<ptT0272>Caminhar para casa? Eu não estava planejando voltar ainda...
 
 //TEXT 【Tsukasa】
 <enT0273>"All right, let's go!"
-<ptT0273>"All right, let's go!"
+<ptT0273>"Tudo bem, vamos!"
 
 //TEXT
 <enT0274>I went back the way I'd just come, rocking back and forth with the movement of the train.
-<ptT0274>I went back the way I'd just come, rocking back and forth with the movement of the train.
+<ptT0274>Voltei pelo caminho que viera, balançando para frente e para trás com o movimento do trem.
 
 //TEXT
 <enT0275>I suppose it's my fault for getting up so late, though...
-<ptT0275>I suppose it's my fault for getting up so late, though...
+<ptT0275>Suponho que seja minha culpa por ter acordado tão tarde...
 
 //TEXT
 <enT0276>Well, it's not a big deal.
-<ptT0276>Well, it's not a big deal.
+<ptT0276>Bem, não é grande coisa.
 
 //TEXT
 <enT0277>My only real goal was to go buy the CD. I didn't have anything else to do in particular, so there was no reason I couldn't go home.
-<ptT0277>My only real goal was to go buy the CD. I didn't have anything else to do in particular, so there was no reason I couldn't go home.
+<ptT0277>Meu único objetivo real era comprar o CD. Eu não tinha mais nada para fazer em particular, então não havia razão para não poder ir para casa.
 
 //TEXT
 <enT0278>No reason at all.
-<ptT0278>No reason at all.
+<ptT0278>Nenhuma razão.
 
 //TEXT
 <enT0279>That said, my days off are short. Too short.
-<ptT0279>That said, my days off are short. Too short.
+<ptT0279>Dito isto, meus dias de folga são curtos. Muito curto.
 
 //TEXT
 <enT0280>And every other day is ridiculously long.
-<ptT0280>And every other day is ridiculously long.
+<ptT0280>E todos os outros dias são ridiculamente longos.
 
 //TEXT
 <enT0281>My days off pass by in the blink of an eye.
-<ptT0281>My days off pass by in the blink of an eye.
+<ptT0281>O sol estava baixo no céu.
 
 //TEXT
 <enT0282>The sun hung low in the sky.
-<ptT0282>The sun hung low in the sky.
+<ptT0282>O céu não muda de cor com base no dia, mas muda com base na hora.
 
 //TEXT
 <enT0283>The sky doesn't change colors based on the day, but it does change based on the time.
-<ptT0283>The sky doesn't change colors based on the day, but it does change based on the time.
+<ptT0283>O céu mudou lentamente de azul para amarelo e eventualmente tingiu os edifícios de roxo.
 
 //TEXT
 <enT0284>The sky slowly changed from blue to yellow and then eventually dyed the buildings purple.
-<ptT0284>The sky slowly changed from blue to yellow and then eventually dyed the buildings purple.
+<ptT0284>O céu mudou lentamente de azul para amarelo e eventualmente tingiu os edifícios de roxo.
 
 //TEXT
 <enT0285>What a beautiful sunset.
-<ptT0285>What a beautiful sunset.
+<ptT0285>Que pôr do sol lindo.
 
 //TEXT
 <enT0286>Just looking out at the unchanging scenery made my body feel utterly exhausted.
-<ptT0286>Just looking out at the unchanging scenery made my body feel utterly exhausted.
+<ptT0286>Só de olhar para o cenário imutável fez meu corpo se sentir completamente exausto.
 
 //TEXT
 <enT0287>So the sunset was a little invigorating.
-<ptT0287>So the sunset was a little invigorating.
+<ptT0287>Então o pôr do sol foi um pouco revigorante.
 
 //TEXT
 <enT0288>But maybe that's just because the sunlight was going directly into my eyes, banishing my fatigue.
-<ptT0288>But maybe that's just because the sunlight was going directly into my eyes, banishing my fatigue.
-
+<ptT0288>Mas talvez seja só porque a luz do sol estava entrando diretamente em meus olhos, banindo meu cansaço.
 //TEXT
 <enT0289>The sunset was pretty, but it wasn't kind on the eyes.
-<ptT0289>The sunset was pretty, but it wasn't kind on the eyes.
+<ptT0289>O pôr do sol era lindo, mas não era agradável aos olhos.
 
 //TEXT
 <enT0290>I looked out the window as the scenery, which was beautiful and yet harsh on the eyes, flowed from right to left. Right to left.
-<ptT0290>I looked out the window as the scenery, which was beautiful and yet harsh on the eyes, flowed from right to left. Right to left.
+<ptT0290>Olhei pela janela enquanto a paisagem, que era linda e ainda assim agressiva aos olhos, fluía da direita para a esquerda. Da direita para a esquerda.
 
 //TEXT
 <enT0291>It flowed and flowed.
-<ptT0291>It flowed and flowed.
+<ptT0291>Fluiu e fluiu.
 
 //TEXT
 <enT0292>And as the scenery flowed, the shades of purple amongst it continued to darken.
-<ptT0292>And as the scenery flowed, the shades of purple amongst it continued to darken.
+<ptT0292>E à medida que o cenário fluía, os tons de roxo continuavam a escurecer.
 
 //TEXT 【Tsukasa】
 <enT0293>"Hey, Yuki, weren't you talking to someone earlier?"
-<ptT0293>"Hey, Yuki, weren't you talking to someone earlier?"
+<ptT0293>"Ei, Yuki, você não estava conversando com alguém antes?"
 
 //TEXT 【Yuki】
 <enT0294>"Oh, yeah. I guess so."
-<ptT0294>"Oh, yeah. I guess so."
+<ptT0294>"Oh sim. eu acho que sim."
 
 //TEXT 【Yuki】
 <enT0295>"It was Takashima-san from the next class over. She suddenly came and started talking to me."
-<ptT0295>"It was Takashima-san from the next class over. She suddenly came and started talking to me."
+<ptT0295>"Era Takashima-san da aula seguinte. De repente ela veio e começou a falar comigo."
 
 //TEXT 【Kagami】
 <enT0296>"Takashima-san? I didn't know you two were acquaintances."
-<ptT0296>"Takashima-san? I didn't know you two were acquaintances."
+<ptT0296>"Takashima-san? Eu não sabia que vocês dois eram conhecidos."
 
 //TEXT 【Yuki】
 <enT0297>"Ahahaha. We really aren't. I'm not as sociable as you two."
-<ptT0297>"Ahahaha. We really aren't. I'm not as sociable as you two."
+<ptT0297>"Ahahaha. Nós realmente não estamos. Eu não sou tão sociável quanto vocês dois."
 
 //TEXT 【Kagami】
 <enT0298>"No way. You're way better than either of us, at least when it comes to pushing people's buttons."
-<ptT0298>"No way. You're way better than either of us, at least when it comes to pushing people's buttons."
+<ptT0298>"Sem chance. Você é muito melhor do que qualquer um de nós, pelo menos quando se trata de apertar os botões das pessoas."
 
 //TEXT
 <enT0299>Oh, wow. She's still mad.
-<ptT0299>Oh, wow. She's still mad.
+<ptT0299>Nossa! Ela ainda está brava.
 
 //TEXT 【Tsukasa】
 <enT0300>"But it'd be nice if you could get along with Takashima-san."
-<ptT0300>"But it'd be nice if you could get along with Takashima-san."
+<ptT0300>"Mas seria bom se você pudesse se dar bem com Takashima-san."
 
 //TEXT 【Yuki】
 <enT0301>"What do you mean?"
-<ptT0301>"What do you mean?"
+<ptT0301>"O que você quer dizer?"
 
 //TEXT 【Tsukasa】
 <enT0302>"It's kind of..."
-<ptT0302>"It's kind of..."
+<ptT0302>"Meio que..."
 
 //TEXT 【Kagami】
 <enT0303>"That Zakuro girl seems to be getting bullied."
-<ptT0303>"That Zakuro girl seems to be getting bullied."
+<ptT0303>"Aquela garota Zakuro parece estar sofrendo bullying."
 
 //TEXT 【Yuki】
 <enT0304>"Oh..."
@@ -1237,79 +1235,79 @@
 
 //TEXT 【Tsukasa】
 <enT0305>"I heard it stopped for a while, but it seems like it's starting to happen again."
-<ptT0305>"I heard it stopped for a while, but it seems like it's starting to happen again."
+<ptT0305>"Ouvi dizer que parou por um tempo, mas parece que está começando a acontecer novamente."
 
 //TEXT 【Tsukasa】
 <enT0306>"I just thought you were the type of person who'd be nice to someone like that."
-<ptT0306>"I just thought you were the type of person who'd be nice to someone like that."
+<ptT0306>"Eu apenas pensei que você fosse o tipo de pessoa que seria legal com alguém assim."
 
 //TEXT 【Yuki】
 <enT0307>"I see. Of course, I won't go out of my way to avoid her, but it's not like I'm going to hunt her down and make friends either."
-<ptT0307>"I see. Of course, I won't go out of my way to avoid her, but it's not like I'm going to hunt her down and make friends either."
+<ptT0307>"Eu vejo. Claro, não vou me esforçar para evitá-la, mas também não vou caçá-la e fazer amigos."
 
 //TEXT 【Tsukasa】
 <enT0308>"Do you find it a bit hard to talk to her, too?"
-<ptT0308>"Do you find it a bit hard to talk to her, too?"
+<ptT0308>"Você também acha um pouco difícil falar com ela?"
 
 //TEXT 【Yuki】
 <enT0309>"I find it a bit hard to talk to everyone. I hate people. I always have, really."
-<ptT0309>"I find it a bit hard to talk to everyone. I hate people. I always have, really."
+<ptT0309>"Acho um pouco difícil conversar com todo mundo. Eu odeio pessoas. Eu sempre tive, realmente."
 
 //TEXT 【Tsukasa】
 <enT0310>"But you're talking to us right now."
-<ptT0310>"But you're talking to us right now."
+<ptT0310>"Mas você está falando conosco agora."
 
 //TEXT 【Yuki】
 <enT0311>"That's because we've always been together, since we were kids."
-<ptT0311>"That's because we've always been together, since we were kids."
+<ptT0311>"Isso porque sempre estivemos juntos, desde crianças."
 
 //TEXT 【Tsukasa】
 <enT0312>"Yeah. You were like our big brother."
-<ptT0312>"Yeah. You were like our big brother."
+<ptT0312>"Sim. Você era como nosso irmão mais velho."
 
 //TEXT 【Yuki】
 <enT0313>"That breaks my heart every time I hear it."
-<ptT0313>"That breaks my heart every time I hear it."
+<ptT0313>"Isso parte meu coração toda vez que ouço isso."
 
 //TEXT 【Tsukasa】
 <enT0314>"But your hair was so short back then, and you wore pants, and you never lost to anyone in a fight."
-<ptT0314>"But your hair was so short back then, and you wore pants, and you never lost to anyone in a fight."
+<ptT0314>"Mas seu cabelo era tão curto naquela época, você usava calças e nunca perdeu para ninguém em uma briga."
 
 //TEXT 【Yuki】
 <enT0315>"That's just because they were comfortable to wear."
-<ptT0315>"That's just because they were comfortable to wear."
+<ptT0315>"Isso porque eles eram confortáveis ​​de usar."
 
 //TEXT 【Kagami】
 <enT0316>"And you always talked like a boy too."
-<ptT0316>"And you always talked like a boy too."
+<ptT0316>"E você sempre falou como um menino também."
 
 //TEXT 【Yuki】
 <enT0317>"That's... How should I put it, uh..."
-<ptT0317>"That's... How should I put it, uh..."
+<ptT0317>"Isso é... Como devo dizer, uh..."
 
 //TEXT 【Kagami】
 <enT0318>"And what kind of girl practices martial arts? Until the day you suddenly started wearing a skirt, we always thought you were a boy."
-<ptT0318>"And what kind of girl practices martial arts? Until the day you suddenly started wearing a skirt, we always thought you were a boy."
+<ptT0318>"E que tipo de garota pratica artes marciais? Até o dia em que você de repente começou a usar saia, sempre pensamos que você era um menino."
 
 //TEXT 【Tsukasa】
 <enT0319>"Yeah, I wasn't really sure how to react when I found out the dashing prince that always rescued us was actually a princess."
-<ptT0319>"Yeah, I wasn't really sure how to react when I found out the dashing prince that always rescued us was actually a princess."
+<ptT0319>"Sim, eu não tinha certeza de como reagir quando descobri que o príncipe arrojado que sempre nos resgatou era na verdade uma princesa."
 
 //TEXT 【Yuki】
 <enT0320>"You say that like it was obvious. I never even realized you thought I was a boy."
-<ptT0320>"You say that like it was obvious. I never even realized you thought I was a boy."
+<ptT0320>"Você diz isso como se fosse óbvio. Eu nem percebi que você pensava que eu era um menino."
 
 //TEXT 【Kagami】
 <enT0321>"Even if you didn't know it, you were a prince to us. Not just in fights, either. You're really good at sports, and you're smart too."
-<ptT0321>"Even if you didn't know it, you were a prince to us. Not just in fights, either. You're really good at sports, and you're smart too."
+<ptT0321>"Mesmo que você não soubesse, você era um príncipe para nós. Não apenas nas lutas. Você é muito bom em esportes e também é inteligente."
 
 //TEXT 【Kagami】
 <enT0322>"Just looking at you now makes me want to ask for a refund on my feelings."
-<ptT0322>"Just looking at you now makes me want to ask for a refund on my feelings."
+<ptT0322>"Só de olhar para você agora me dá vontade de pedir o reembolso dos meus sentimentos."
 
 //TEXT 【Yuki】
 <enT0323>"Your feelings? What do you mean?"
-<ptT0323>"Your feelings? What do you mean?"
+<ptT0323>"Seus sentimentos? O que você quer dizer?"
 
 //TEXT 【Kagami】
 <enT0324>"Uahh!"
@@ -1317,19 +1315,19 @@
 
 //TEXT 【Kagami】
 <enT0325>"N-Nothing! Um... I'm just saying, I thought you were a boy at the time, so I acted differently around you!"
-<ptT0325>"N-Nothing! Um... I'm just saying, I thought you were a boy at the time, so I acted differently around you!"
+<ptT0325>"N-Nada! Hum... Só estou dizendo que pensei que você fosse um menino na época, então agi de maneira diferente perto de você!"
 
 //TEXT 【Yuki】
 <enT0326>"I don't remember anything like that."
-<ptT0326>"I don't remember anything like that."
+<ptT0326>"não me lembro de nada parecido."
 
 //TEXT 【Kagami】
 <enT0327>"Wh-Who cares about what you think? I did my best! Wh-Why can't you at least notice something like that?"
-<ptT0327>"Wh-Who cares about what you think? I did my best! Wh-Why can't you at least notice something like that?"
+<ptT0327>"Quem se importa com o que você pensa? Eu fiz o meu melhor! Por que você não consegue pelo menos notar algo assim?"
 
 //TEXT 【Yuki】
 <enT0328>"O-Okay..."
-<ptT0328>"O-Okay..."
+<ptT0328>"C-Certo..."
 
 //TEXT
 <enT0329>Takashima Zakuro.
@@ -1337,27 +1335,27 @@
 
 //TEXT
 <enT0330>I didn't know her very well, but she always seemed like a really lonely person.
-<ptT0330>I didn't know her very well, but she always seemed like a really lonely person.
+<ptT0330>Eu não a conhecia muito bem, mas ela sempre me pareceu uma pessoa muito solitária.
 
 //TEXT
 <enT0331>I definitely remembered her being ignored by people in the past.
-<ptT0331>I definitely remembered her being ignored by people in the past.
+<ptT0331>Eu definitivamente me lembrei dela sendo ignorada pelas pessoas no passado.
 
 //TEXT
 <enT0332>Maybe you could call that bullying.
-<ptT0332>Maybe you could call that bullying.
+<ptT0332>Talvez você possa chamar isso de bullying.
 
 //TEXT
 <enT0333>All this...
-<ptT0333>All this...
+<ptT0333>Tudo isso...
 
 //TEXT
 <enT0334>All this thinking was...
-<ptT0334>All this thinking was...
+<ptT0334>Todo esse pensamento...
 
 //TEXT
 <enT0335>Making me tired...
-<ptT0335>Making me tired...
+<ptT0335>Me deixando cansada...
 
 //TEXT
 <enT0336>...
@@ -1365,131 +1363,131 @@
 
 //TEXT 【Kagami】
 <enT0337>"Hey, Yuki, we're getting off."
-<ptT0337>"Hey, Yuki, we're getting off."
+<ptT0337>"Ei, Yuki, estamos saindo."
 
 //TEXT 【Tsukasa】
 <enT0338>"Hey."
-<ptT0338>"Hey."
+<ptT0338>"Ei."
 
 //TEXT 【Yuki】
 <enT0339>"Huh?"
-<ptT0339>"Huh?"
+<ptT0339>"Hã?"
 
 //TEXT 【Kagami】
 <enT0340>"She's still snoozing. Come on!"
-<ptT0340>"She's still snoozing. Come on!"
+<ptT0340>"Ela ainda está dormindo. Vamos!"
 
 //TEXT 【Yuki】
 <enT0341>"Yeah, sure..."
-<ptT0341>"Yeah, sure..."
+<ptT0341>"Sim, claro..."
 
 //TEXT 【Kagami】
 <enT0342>"Haa... We almost missed our stop."
-<ptT0342>"Haa... We almost missed our stop."
+<ptT0342>"Haa... Quase perdemos nossa parada."
 
 //TEXT 【Yuki】
 <enT0343>"Oh, I didn't even realize that I was so sleepy."
-<ptT0343>"Oh, I didn't even realize that I was so sleepy."
+<ptT0343>"Ah, eu nem percebi que estava com tanto sono."
 
 //TEXT 【Kagami】
 <enT0344>"I don't know how you can sleep like that, hanging over the railing."
-<ptT0344>"I don't know how you can sleep like that, hanging over the railing."
+<ptT0344>"Não sei como você consegue dormir assim, pendurado na grade."
 
 //TEXT 【Yuki】
 <enT0345>"Sleeping is my specialty!"
-<ptT0345>"Sleeping is my specialty!"
+<ptT0345>"Dormir é minha especialidade!"
 
 //TEXT 【Kagami】
 <enT0346>"Haa... Why are you so proud of that?"
-<ptT0346>"Haa... Why are you so proud of that?"
+<ptT0346>"Haa... Por que você está tão orgulhoso disso?"
 
 //TEXT 【Yuki】
 <enT0347>"I've been really tired lately. I fall asleep all the time. Just like that, my brain shuts off. It's like time is flying by."
-<ptT0347>"I've been really tired lately. I fall asleep all the time. Just like that, my brain shuts off. It's like time is flying by."
+<ptT0347>"Tenho estado muito cansado ultimamente. Adormeço o tempo todo. Só assim, meu cérebro desliga. É como se o tempo estivesse voando."
 
 //TEXT 【Kagami】
 <enT0348>"They say time is money, but I've never met anyone who values their money less than you."
-<ptT0348>"They say time is money, but I've never met anyone who values their money less than you."
+<ptT0348>"Dizem que tempo é dinheiro, mas nunca conheci ninguém que valorizasse menos o dinheiro do que você."
 
 //TEXT 【Yuki】
 <enT0349>"The sun already set before I knew it."
-<ptT0349>"The sun already set before I knew it."
+<ptT0349>"O sol já se pôs antes que eu percebesse."
 
 //TEXT 【Tsukasa】
 <enT0350>"Ahahahaha. Anyway, it's going to be summer pretty soon."
-<ptT0350>"Ahahahaha. Anyway, it's going to be summer pretty soon."
+<ptT0350>"Ahahahaha. De qualquer forma, em breve será verão."
 
 //TEXT 【Yuki】
 <enT0351>"I see. Finals are over, so we get a vacation soon."
-<ptT0351>"I see. Finals are over, so we get a vacation soon."
+<ptT0351>"Eu vejo. As finais acabaram, então teremos férias em breve."
 
 //TEXT 【Tsukasa】
 <enT0352>"Do you have any plans for the summer?"
-<ptT0352>"Do you have any plans for the summer?"
+<ptT0352>"Você tem planos para o verão?"
 
 //TEXT 【Kagami】
 <enT0353>"Nothing but sleeping, I'm sure."
-<ptT0353>"Nothing but sleeping, I'm sure."
+<ptT0353>"Nada além de dormir, tenho certeza."
 
 //TEXT 【Yuki】
 <enT0354>"That's not true. I have lots of things to do over the summer."
-<ptT0354>"That's not true. I have lots of things to do over the summer."
+<ptT0354>"Isso não é verdade. Tenho muitas coisas para fazer durante o verão."
 
 //TEXT 【Kagami】
 <enT0355>"Like what?"
-<ptT0355>"Like what?"
+<ptT0355>"Como o que?"
 
 //TEXT 【Yuki】
 <enT0356>"Waking up, eating breakfast, brushing my teeth, washing my face, drinking tea, and so on. There's plenty of stuff to do in the summer!"
-<ptT0356>"Waking up, eating breakfast, brushing my teeth, washing my face, drinking tea, and so on. There's plenty of stuff to do in the summer!"
+<ptT0356>"Acordar, tomar café da manhã, escovar os dentes, lavar o rosto, tomar chá e assim por diante. Há muitas coisas para fazer no verão!"
 
 //TEXT 【Kagami】
 <enT0357>"I mean after that. What are you going to do after you get up, eat, brush your teeth, and wash your face?"
-<ptT0357>"I mean after that. What are you going to do after you get up, eat, brush your teeth, and wash your face?"
+<ptT0357>"Quero dizer, depois disso. O que você vai fazer depois de se levantar, comer, escovar os dentes e lavar o rosto?
 
 //TEXT 【Yuki】
 <enT0358>"I wonder... Maybe I'll go back to sleep."
-<ptT0358>"I wonder... Maybe I'll go back to sleep."
+<ptT0358>"Eu me pergunto... Talvez eu volte a dormir."
 
 //TEXT 【Kagami】
 <enT0359>"Haa... So I was right all along."
-<ptT0359>"Haa... So I was right all along."
+<ptT0359>"Haa... Então eu estava certo o tempo todo."
 
 //TEXT 【Yuki】
 <enT0360>"What about you?"
-<ptT0360>"What about you?"
+<ptT0360>"E você?"
 
 //TEXT 【Kagami】
 <enT0361>"I'm taking classes over the summer, so I won't be able to spend as much time with my club."
-<ptT0361>"I'm taking classes over the summer, so I won't be able to spend as much time with my club."
+<ptT0361>"Estou tendo aulas durante o verão, então não poderei passar tanto tempo com meu clube."
 
 //TEXT 【Yuki】
 <enT0362>"Why am I not surprised..."
-<ptT0362>"Why am I not surprised..."
+<ptT0362>"Por que não estou surpreso..."
 
 //TEXT 【Kagami】
 <enT0363>"How about you? Are you planning on studying?"
-<ptT0363>"How about you? Are you planning on studying?"
+<ptT0363>"E você? Você está planejando estudar?"
 
 //TEXT 【Yuki】
 <enT0364>"Not even a little."
-<ptT0364>"Not even a little."
+<ptT0364>"Nem um pouco."
 
 //TEXT 【Kagami】
 <enT0365>"And we used to call you a genius."
-<ptT0365>"And we used to call you a genius."
+<ptT0365>"E costumávamos chamar você de gênio."
 
 //TEXT 【Yuki】
 <enT0366>"They say geniuses are just normal people after age twenty."
-<ptT0366>"They say geniuses are just normal people after age twenty."
+<ptT0366>"Dizem que os gênios são apenas pessoas normais depois dos vinte anos."
 
 //TEXT 【Kagami】
 <enT0367>"Then what's your excuse?"
-<ptT0367>"Then what's your excuse?"
+<ptT0367>"Então qual é a sua desculpa?"
 
 //TEXT 【Yuki】
 <enT0368>"I'm doing my best."
-<ptT0368>"I'm doing my best."
+<ptT0368>"Estou fazendo o meu melhor."
 
 //TEXT 【Tsukasa】
 <enT0369>"Heheh."
@@ -1497,19 +1495,19 @@
 
 //TEXT 【Kagami】
 <enT0370>"What's so funny?"
-<ptT0370>"What's so funny?"
+<ptT0370>"O que há de tão engraçado?"
 
 //TEXT 【Tsukasa】
 <enT0371>"Nothing. I was thinking that it's been a while since we've been together like this."
-<ptT0371>"Nothing. I was thinking that it's been a while since we've been together like this."
+<ptT0371>"Nada. Eu estava pensando que já faz um tempo que não estamos juntos assim."
 
 //TEXT 【Yuki】
 <enT0372>"Has it?"
-<ptT0372>"Has it?"
+<ptT0372>"Tem?"
 
 //TEXT 【Tsukasa】
 <enT0373>"Yeah. Back then we thought you were a boy."
-<ptT0373>"Yeah. Back then we thought you were a boy."
+<ptT0373>"Sim. Naquela época pensávamos que você era um menino."
 
 //TEXT
 <enT0374>
@@ -1517,35 +1515,35 @@
 
 //TEXT 【Kagami】
 <enT0375>"Enough of that!"
-<ptT0375>"Enough of that!"
+<ptT0375>"Chega disso!"
 
 //TEXT 【Yuki】
 <enT0376>"My hair was short, and I wore pants, and of course I was flat as a board."
-<ptT0376>"My hair was short, and I wore pants, and of course I was flat as a board."
+<ptT0376>"Meu cabelo era curto, eu usava calças e, claro, era liso como uma tábua."
 
 //TEXT 【Kagami】
 <enT0377>"Of course. There's no way a grade schooler would have huge boobs."
-<ptT0377>"Of course. There's no way a grade schooler would have huge boobs."
+<ptT0377>"Claro. Não há como um aluno do ensino fundamental ter peitos enormes."
 
 //TEXT 【Tsukasa】
 <enT0378>"Back then, you were really strong. You protected me and Onee-chan."
-<ptT0378>"Back then, you were really strong. You protected me and Onee-chan."
+<ptT0378>"Naquela época, você era muito forte. Você protegeu a mim e à Onee-chan."
 
 //TEXT 【Yuki】
 <enT0379>"Violence was my only redeeming feature."
-<ptT0379>"Violence was my only redeeming feature."
+<ptT0379>"A violência era minha única característica redentora."
 
 //TEXT 【Kagami】
 <enT0380>"And your grades. You were the best student in the class. Actually, probably the best in the entire ward."
-<ptT0380>"And your grades. You were the best student in the class. Actually, probably the best in the entire ward."
+<ptT0380>"E suas notas. Você foi o melhor aluno da turma. Na verdade, provavelmente o melhor de toda a ala."
 
 //TEXT 【Yuki】
 <enT0381>"Like I said, plenty of people are smart when they're young."
-<ptT0381>"Like I said, plenty of people are smart when they're young."
+<ptT0381>"Como eu disse, muitas pessoas são inteligentes quando são jovens."
 
 //TEXT 【Kagami】
 <enT0382>"It's just that you started skipping."
-<ptT0382>"It's just that you started skipping."
+<ptT0382>"É que você começou a pular."
 
 //TEXT 【Tsukasa】
 <enT0383>"Onee-chan..."
@@ -1553,31 +1551,31 @@
 
 //TEXT 【Kagami】
 <enT0384>"No matter what reason there was..."
-<ptT0384>"No matter what reason there was..."
+<ptT0384>"Não importa que razão houvesse..."
 
 //TEXT 【Yuki】
 <enT0385>"You're right."
-<ptT0385>"You're right."
+<ptT0385>"Você tem razão."
 
 //TEXT 【Yuki】
 <enT0386>"But who cares? That's something for me to worry about. It's not like you ought to be upset just because I got stupid."
-<ptT0386>"But who cares? That's something for me to worry about. It's not like you ought to be upset just because I got stupid."
+<ptT0386>"Mas quem se importa? Isso é algo com que devo me preocupar. Não é como se você devesse ficar chateado só porque fui estúpido."
 
 //TEXT 【Kagami】
 <enT0387>"Of course not. I-I... Of course I don't care... Not at all."
-<ptT0387>"Of course not. I-I... Of course I don't care... Not at all."
+<ptT0387>"Claro que não. E-eu... Claro que não me importo... De jeito nenhum."
 
 //TEXT 【Kagami】
 <enT0388>"I-It's just unpleasant watching you waste away your life."
-<ptT0388>"I-It's just unpleasant watching you waste away your life."
+<ptT0388>"E-É simplesmente desagradável ver você desperdiçar sua vida."
 
 //TEXT 【Yuki】
 <enT0389>"Ouch, that's brutal. There are tons of different kinds of people in this world. You can't let them all get on your nerves."
-<ptT0389>"Ouch, that's brutal. There are tons of different kinds of people in this world. You can't let them all get on your nerves."
+<ptT0389>"Ai, isso é brutal. Existem muitos tipos diferentes de pessoas neste mundo. Você não pode deixar todos eles te irritarem."
 
 //TEXT 【Kagami】
 <enT0390>"I'm not talking about all the people in the world. I'm saying it's unpleasant watching you."
-<ptT0390>"I'm not talking about all the people in the world. I'm saying it's unpleasant watching you."
+<ptT0390>"Não estou falando de todas as pessoas do mundo. Estou dizendo que é desagradável ver você."
 
 //TEXT 【Tsukasa】
 <enT0391>"Onee-chan..."
@@ -1585,139 +1583,139 @@
 
 //TEXT 【Tsukasa】
 <enT0392>"Oh... I, I got it!"
-<ptT0392>"Oh... I, I got it!"
+<ptT0392>"Oh... eu, eu entendi!"
 
 //TEXT 【Tsukasa】
 <enT0393>"Tomorrow, let's all walk to school together."
-<ptT0393>"Tomorrow, let's all walk to school together."
+<ptT0393>"Amanhã, vamos todos caminhar juntos para a escola."
 
 //TEXT 【Yuki】
 <enT0394>"Wh―What do you mean, 'I got it'?"
-<ptT0394>"Wh―What do you mean, 'I got it'?"
+<ptT0394>"O que você quer dizer com 'entendi'?"
 
 //TEXT 【Tsukasa】
 <enT0395>"Hmm? It's because we haven't been together like this in a long time."
-<ptT0395>"Hmm? It's because we haven't been together like this in a long time."
+<ptT0395>"Hum? É porque não estamos juntos assim há muito tempo."
 
 //TEXT 【Yuki】
 <enT0396>"And why exactly does that mean we have to walk to school together?"
-<ptT0396>"And why exactly does that mean we have to walk to school together?"
+<ptT0396>"E por que exatamente isso significa que temos que caminhar juntos para a escola?"
 
 //TEXT 【Tsukasa】
 <enT0397>"Plus, you've been skipping a lot lately, Yuki."
-<ptT0397>"Plus, you've been skipping a lot lately, Yuki."
+<ptT0397>"Além disso, você tem pulado muito ultimamente, Yuki."
 
 //TEXT 【Yuki】
 <enT0398>"That's not what I'm asking. And I'm not skipping."
-<ptT0398>"That's not what I'm asking. And I'm not skipping."
+<ptT0398>"Não é isso que estou perguntando. E eu não estou pulando."
 
 //TEXT 【Tsukasa】
 <enT0399>"You are."
-<ptT0399>"You are."
+<ptT0399>"Você é."
 
 //TEXT 【Yuki】
 <enT0400>"Well, you see, I've just calculated how many days I can take off or be late without flunking."
-<ptT0400>"Well, you see, I've just calculated how many days I can take off or be late without flunking."
+<ptT0400>"Bem, veja bem, acabei de calcular quantos dias posso tirar folga ou me atrasar sem ser reprovado."
 
 //TEXT 【Tsukasa】
 <enT0401>"Three tardies is one absence, right?"
-<ptT0401>"Three tardies is one absence, right?"
+<ptT0401>"Três atrasos são uma ausência, certo?"
 
 //TEXT 【Yuki】
 <enT0402>"Right. And if you skip more than one in four classes, you won't get credit regardless of your exam grade."
-<ptT0402>"Right. And if you skip more than one in four classes, you won't get credit regardless of your exam grade."
+<ptT0402>"Certo. E se você pular mais de um em quatro aulas, você não vai conseguir crédito independentemente da sua nota no exame."
 
 //TEXT 【Tsukasa】
 <enT0403>"I see."
-<ptT0403>"I see."
+<ptT0403>"Entendi."
 
 //TEXT 【Yuki】
 <enT0404>"But if you don't skip more than a fourth of your classes, it has no effect on your grade whatsoever."
-<ptT0404>"But if you don't skip more than a fourth of your classes, it has no effect on your grade whatsoever."
+<ptT0404>"Mas se você não faltar a mais de um quarto das aulas, isso não afetará sua nota de forma alguma."
 
 //TEXT 【Tsukasa】
 <enT0405>"Oh, I see."
-<ptT0405>"Oh, I see."
+<ptT0405>"Oh, eu entendi."
 
 //TEXT 【Kagami】
 <enT0406>"Hey, you shouldn't be impressed by that."
-<ptT0406>"Hey, you shouldn't be impressed by that."
+<ptT0406>"Ei, você não deveria ficar impressionado com isso."
 
 //TEXT 【Tsukasa】
 <enT0407>"A-Ahahaha. It's just that she's right, you know?"
-<ptT0407>"A-Ahahaha. It's just that she's right, you know?"
+<ptT0407>"A-Ahahaha. É que ela está certa, você sabe?"
 
 //TEXT 【Kagami】
 <enT0408>"The people who know about that rule are more likely to fail, though."
-<ptT0408>"The people who know about that rule are more likely to fail, though."
+<ptT0408>"As pessoas que conhecem essa regra têm maior probabilidade de falhar, embora."
 
 //TEXT 【Yuki】
 <enT0409>"Not at all."
-<ptT0409>"Not at all."
+<ptT0409>"De jeito nenhum."
 
 //TEXT 【Kagami】
 <enT0410>"Shut up. Anyway, don't even think about skipping tomorrow."
-<ptT0410>"Shut up. Anyway, don't even think about skipping tomorrow."
+<ptT0410>"Silencie. De qualquer forma, nem pense em pular a aula amanhã."
 
 //TEXT 【Tsukasa】
 <enT0411>"See ya, Yuki."
-<ptT0411>"See ya, Yuki."
+<ptT0411>"Até mais, Yuki."
 
 //TEXT 【Yuki】
 <enT0412>"Sure."
-<ptT0412>"Sure."
+<ptT0412>"Claro."
 
 //TEXT 【Tsukasa】
 <enT0413>"Let's walk together tomorrow, okay?"
-<ptT0413>"Let's walk together tomorrow, okay?"
+<ptT0413>"Vamos caminhar juntos amanhã, ok?"
 
 //TEXT 【Yuki】
 <enT0414>"I'll probably be sleeping, though."
-<ptT0414>"I'll probably be sleeping, though."
+<ptT0414>"Eu provavelmente estarei dormindo, no entanto."
 
 //TEXT 【Tsukasa】
 <enT0415>"We'll come wake you up."
-<ptT0415>"We'll come wake you up."
+<ptT0415>"Nós vamos te acordar."
 
 //TEXT 【Kagami】
 <enT0416>"That's right. Prepare yourself."
-<ptT0416>"That's right. Prepare yourself."
+<ptT0416>"Isso mesmo. Prepare-se."
 
 //TEXT 【Yuki】
 <enT0417>"Just a question. Why would I need to prepare myself for being woken up?"
-<ptT0417>"Just a question. Why would I need to prepare myself for being woken up?"
+<ptT0417>"Apenas uma pergunta. Por que eu precisaria me preparar para ser acordado?"
 
 //TEXT 【Kagami】
 <enT0418>"You'll see. Heheheh."
-<ptT0418>"You'll see. Heheheh."
+<ptT0418>"Você verá. Heheheh."
 
 //TEXT 【Yuki】
 <enT0419>"Ahahaha... Stay away from me."
-<ptT0419>"Ahahaha... Stay away from me."
+<ptT0419>"Ahahaha... Fique longe de mim."
 
 //TEXT 【Tsukasa】
 <enT0420>"That's a joke. Right, Onee-chan?"
-<ptT0420>"That's a joke. Right, Onee-chan?"
+<ptT0420>"Isso é uma piada. Certo, Onee-chan?"
 
 //TEXT 【Kagami】
 <enT0421>"I dunno. Maybe it is a joke, heheh."
-<ptT0421>"I dunno. Maybe it is a joke, heheh."
+<ptT0421>"Eu não sei. Talvez seja uma piada, heheh."
 
 //TEXT 【Yuki】
 <enT0422>"What are you implying?"
-<ptT0422>"What are you implying?"
+<ptT0422>"O que você está insinuando?"
 
 //TEXT 【Yuki】
 <enT0423>"Here we go, for today..."
-<ptT0423>"Here we go, for today..."
+<ptT0423>"Aqui vamos nós, por hoje..."
 
 //TEXT
 <enT0424>I took out the CD I bought.
-<ptT0424>I took out the CD I bought.
+<ptT0424>Peguei o CD que comprei.
 
 //TEXT
 <enT0425>I bought a rock CD today.
-<ptT0425>I bought a rock CD today.
+<ptT0425>Eu comprei um CD de rock hoje.
 
 //TEXT
 <enT0426>Rock.
@@ -1725,23 +1723,23 @@
 
 //TEXT
 <enT0427>But this is an album by that band that led the British pop movement years and years ago.
-<ptT0427>But this is an album by that band that led the British pop movement years and years ago.
+<ptT0427>Mas este é um álbum daquela banda que liderou o movimento pop britânico anos e anos atrás.
 
 //TEXT
 <enT0428>So it's not rock... but pop music?
-<ptT0428>So it's not rock... but pop music?
+<ptT0428>Então não é rock... mas música pop?
 
 //TEXT
 <enT0429>What's the difference between rock and pop?
-<ptT0429>What's the difference between rock and pop?
+<ptT0429>Qual é a diferença entre rock e pop?
 
 //TEXT
 <enT0430>With my mind full of questions, I put the CD into the player.
-<ptT0430>With my mind full of questions, I put the CD into the player.
+<ptT0430>Com a mente cheia de perguntas, coloquei o CD no player.
 
 //TEXT
 <enT0431>And closed it.
-<ptT0431>And closed it.
+<ptT0431>E fechou.
 
 //TEXT 【Yuki】
 <enT0432>"..."
@@ -1749,19 +1747,19 @@
 
 //TEXT 【Yuki】
 <enT0433>"Huh?"
-<ptT0433>"Huh?"
+<ptT0433>"Hã?"
 
 //TEXT 【Yuki】
 <enT0434>"What's up with this CD?"
-<ptT0434>"What's up with this CD?"
+<ptT0434>"O que há com este CD?"
 
 //TEXT
 <enT0435>The music that came from the CD player wasn't rock or Brit pop. It was...
-<ptT0435>The music that came from the CD player wasn't rock or Brit pop. It was...
+<ptT0435>A música que vinha do CD player não era rock ou pop britânico. Era...
 
 //TEXT 【Yuki】
 <enT0436>"It's anime music."
-<ptT0436>"It's anime music."
+<ptT0436>"É música de anime."
 
 //TEXT 【Yuki】
 <enT0437>"Oh?"
@@ -1769,15 +1767,15 @@
 
 //TEXT
 <enT0438>I checked the CD.
-<ptT0438>I checked the CD.
+<ptT0438>Eu verifiquei o CD.
 
 //TEXT
 <enT0439>Written there was...
-<ptT0439>Written there was...
+<ptT0439>Escrito havia...
 
 //TEXT
 <enT0440>Is that name... a voice actress?
-<ptT0440>Is that name... a voice actress?
+<ptT0440>Esse nome é... uma dubladora?
 
 //TEXT 【Yuki】
 <enT0441>"Oh?"
@@ -1785,39 +1783,39 @@
 
 //TEXT
 <enT0442>Why did I buy this?
-<ptT0442>Why did I buy this?
+<ptT0442>Por que eu comprei isso?
 
 //TEXT 【Yuki】
 <enT0443>"The first album from the popular actress..."
-<ptT0443>"The first album from the popular actress..."
+<ptT0443>"O primeiro álbum da popular atriz..."
 
 //TEXT
 <enT0444>They switched my bag with someone else's!
-<ptT0444>They switched my bag with someone else's!
+<ptT0444>Eles trocaram minha bolsa pela de outra pessoa!
 
 //TEXT
 <enT0445>Or maybe I accidentally grabbed someone else's bag on the train!
-<ptT0445>Or maybe I accidentally grabbed someone else's bag on the train!
+<ptT0445>Ou talvez eu acidentalmente peguei a bolsa de outra pessoa no trem!
 
 //TEXT 【Yuki】
 <enT0446>"Or maybe..."
-<ptT0446>"Or maybe..."
+<ptT0446>"Ou talvez..."
 
 //TEXT 【Yuki】
 <enT0447>"Is this one of Kagami's pranks? I won't forgive her!"
-<ptT0447>"Is this one of Kagami's pranks? I won't forgive her!"
+<ptT0447>"Esta é uma das pegadinhas de Kagami? Eu não vou perdoá-la!"
 
 //TEXT
 <enT0448>I ran to the phone and yelled at Kagami, but she ripped my ear off in return.
-<ptT0448>I ran to the phone and yelled at Kagami, but she ripped my ear off in return.
+<ptT0448>Corri para o telefone e gritei com Kagami, mas ela arrancou minha orelha em troca.
 
 //TEXT
 <enT0449>It sounded like she wasn't involved.
-<ptT0449>It sounded like she wasn't involved.
+<ptT0449>Parecia que ela não estava envolvida.
 
 //TEXT
 <enT0450>My rock CD...
-<ptT0450>My rock CD...
+<ptT0450>Meu CD de rock...
 
 ///================================================================================
 

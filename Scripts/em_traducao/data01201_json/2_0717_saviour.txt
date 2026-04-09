@@ -14,107 +14,107 @@
 
 //TEXT
 <enT0001>Singing at the end of the world.
-<ptT0001>Singing at the end of the world.
+<ptT0001>Cantando no fim do mundo.
 
 //TEXT
 <enT0002>She sings.
-<ptT0002>She sings.
+<ptT0002>Ela Canta.
 
 //TEXT
 <enT0003>Proud of the wings she sprouts... an angel sings.
-<ptT0003>Proud of the wings she sprouts... an angel sings.
+<ptT0003>Orgulhosa das asas que brotam —— um anjo canta.
 
 //TEXT
 <enT0004>Are our brains wider than the sky?
-<ptT0004>Are our brains wider than the sky?
+<ptT0004>O cérebro ―— é mais amplo que o céu ——
 
 //TEXT
 <enT0005>Look... Put them side by side...
-<ptT0005>Look... Put them side by side...
+<ptT0005>Pois, colocai-os lado a lado ——
 
 //TEXT
 <enT0006>Put the brain beside it and the sky it will include...
-<ptT0006>Put the brain beside it and the sky it will include...
+<ptT0006>Coloque o cérebro ao lado —— e o céu ele conterá ——
 
 //TEXT
 <enT0007>The sky... the world... and you beside... it will include, include.
-<ptT0007>The sky... the world... and you beside... it will include, include.
+<ptT0007>O céu... o mundo... e você —— também conterá ——
 
 //TEXT
 <enT0008>Our brains will include...
-<ptT0008>Our brains will include...
+<ptT0008>Nossos cérebros conterão ——
 
 //TEXT
 <enT0009>Are our brains deeper than the sea?
-<ptT0009>Are our brains deeper than the sea?
+<ptT0009>Será que nossos cérebros são mais profundos que o mar?
 
 //TEXT
 <enT0010>Look... Hold them, blue to blue...
-<ptT0010>Look... Hold them, blue to blue...
+<ptT0010>Veja —— mantenha-os —— azul com azul ——
 
 //TEXT
 <enT0011>The sea our brains will absorb...
-<ptT0011>The sea our brains will absorb...
+<ptT0011>O mar que nossos cérebros absorverão ——
 
 //TEXT
 <enT0012>As sponges, buckets do...
-<ptT0012>As sponges, buckets do...
+<ptT0012>Assim como as esponjas —— fazem com a água ——
 
 //TEXT
 <enT0013>Are our brains heavier than God?
-<ptT0013>Are our brains heavier than God?
+<ptT0013>O cérebro —— é apenas o peso de Deus ——
 
 //TEXT
 <enT0014>Lift them, pound for pound.
-<ptT0014>Lift them, pound for pound.
+<ptT0014>Pois, ao pesá-los —— grama a grama ——
 
 //TEXT
 <enT0015>Our brains and God... Measure them, pound for pound.
-<ptT0015>Our brains and God... Measure them, pound for pound.
+<ptT0015>Nossos Cérebros e Deus —— Comparai-os ——
 
 //TEXT
 <enT0016>They're the exact same weight.
-<ptT0016>They're the exact same weight.
+<ptT0016>Pesam o mesmo ——
 
 //TEXT
 <enT0017>Our brains are just the weight of God.
-<ptT0017>Our brains are just the weight of God.
+<ptT0017>O cérebro tem o peso de Deus ——
 
 //TEXT
 <enT0018>If they do differ
-<ptT0018>If they do differ
+<ptT0018>Só diferem —— se diferirem ——
 
 //TEXT
 <enT0019>it is as syllable
-<ptT0019>it is as syllable
+<ptT0019>Como a sílaba
 
 //TEXT
 <enT0020>from sound.
-<ptT0020>from sound.
+<ptT0020>do som ——
 
 //TEXT
 <enT0021>As melody
-<ptT0021>As melody
+<ptT0021>Como a melodia
 
 //TEXT
 <enT0022>from song.
-<ptT0022>from song.
+<ptT0022>da canção ——
 
 //TEXT
 <enT0023>I must protect...
-<ptT0023>I must protect...
+<ptT0023>Eu preciso proteger ——
 
 //TEXT
 <enT0024>The angel that sings.
-<ptT0024>The angel that sings.
+<ptT0024>O anjo que canta.
 
 //TEXT
 <enT0025>She sprouts wings... and sings joyfully.
-<ptT0025>She sprouts wings... and sings joyfully.
+<ptT0025>Ela cria asas —— e canta alegremente ——
 
 //TEXT
 <enT0026>At the end of the world...
-<ptT0026>At the end of the world...
+<ptT0026>no fim do mundo ——
 
 //TEXT
 <enT0027>"    sama."
@@ -122,7 +122,7 @@
 
 //TEXT
 <enT0028>"Ple   wa   up."
-<ptT0028>"Ple   wa   up."
+<ptT0028>"A   cor   de."
 
 //TEXT 【Takuji】
 <enT0029>"Mm..."
@@ -130,7 +130,7 @@
 
 //TEXT
 <enT0030>"Please wa   up."
-<ptT0030>"Please wa   up."
+<ptT0030>"Acorda p-por favor."
 
 //TEXT 【Takuji】
 <enT0031>"Mmmm..."
@@ -138,71 +138,71 @@
 
 //TEXT
 <enT0032>"Please wake up."
-<ptT0032>"Please wake up."
+<ptT0032>"Acorde."
 
 //TEXT 【Takuji】
 <enT0033>"...Where am I?"
-<ptT0033>"...Where am I?"
+<ptT0033>"...Onde estou?"
 
 //TEXT
 <enT0034>My memory was a little fuzzy...
-<ptT0034>My memory was a little fuzzy...
+<ptT0034>Minhas memórias estavam um pouco confusas...
 
 //TEXT
 <enT0035>I always feel like this when I wake up... It's not something I'm worried about.
-<ptT0035>I always feel like this when I wake up... It's not something I'm worried about.
+<ptT0035>Sempro me sinto assim quando acordo... Não é algo que me preocupe.
 
 //TEXT 【Kimika】
 <enT0036>"This is the ark... Isn't that obvious?"
-<ptT0036>"This is the ark... Isn't that obvious?"
+<ptT0036>"Estamos na arca... Isso não é óbvio?"
 
 //TEXT 【Takuji】
 <enT0037>"The ark?"
-<ptT0037>"The ark?"
+<ptT0037>"Na arca?"
 
 //TEXT
 <enT0038>Ark? Ark... The school building's foundation is the ark?
-<ptT0038>Ark? Ark... The school building's foundation is the ark?
+<ptT0038>Arca? Arca... A fundação do prédio da escola é a arca?
 
 //TEXT 【Takuji】
 <enT0039>"The ark, huh..."
-<ptT0039>"The ark, huh..."
+<ptT0039>"A arca, hein..."
 
 //TEXT
 <enT0040>More importantly...
-<ptT0040>More importantly...
+<ptT0040>Mais importante ainda...
 
 //TEXT 【Takuji】
 <enT0041>"More importantly..."
-<ptT0041>"More importantly..."
+<ptT0041>"Mais importante ainda..."
 
 //TEXT
 <enT0042>What time is it right now?
-<ptT0042>What time is it right now?
+<ptT0042>Que horas são?
 
 //TEXT 【Takuji】
 <enT0043>"What time is it right now?"
-<ptT0043>"What time is it right now?"
+<ptT0043>"Que horas são?"
 
 //TEXT 【Kimika】
 <enT0044>"Um, it's just after 6:00 p.m. on the 17th..."
-<ptT0044>"Um, it's just after 6:00 p.m. on the 17th..."
+<ptT0044>"Hum, são um pouco mais de 18h do dia 17..."
 
 //TEXT
 <enT0045>Six o'clock, huh... I slept too long.
-<ptT0045>Six o'clock, huh... I slept too long.
+<ptT0045>Seis horas, hein... Dormi demais.
 
 //TEXT
 <enT0046>Even though I slept so long, I still feel tired.
-<ptT0046>Even though I slept so long, I still feel tired.
+<ptT0046>Mesmo dormindo bastante, ainda me sinto cansado.
 
 //TEXT
 <enT0047>Well, I always feel like that.
-<ptT0047>Well, I always feel like that.
+<ptT0047>Bem, eu sempre me sinto assim.
 
 //TEXT 【Takuji】
 <enT0048>"And last night?"
-<ptT0048>"And last night?"
+<ptT0048>""E ontem à noite ?"
 
 //TEXT 【Kimika】
 <enT0049>"Huh?"
@@ -210,423 +210,423 @@
 
 //TEXT 【Takuji】
 <enT0050>"What about last night?"
-<ptT0050>"What about last night?"
+<ptT0050>"E a noite passada?"
 
 //TEXT 【Kimika】
 <enT0051>"Eh? What do you mean?"
-<ptT0051>"Eh? What do you mean?"
+<ptT0051>"Hã? O que você quis dizer?"
 
 //TEXT 【Takuji】
 <enT0052>"Oh, uh... After I disappeared..."
-<ptT0052>"Oh, uh... After I disappeared..."
+<ptT0052>"Ah, é... Depois que eu desapareci.."
 
 //TEXT 【Kimika】
 <enT0053>"Oh, last night? Well, after you went for a walk, they kept going at it like that."
-<ptT0053>"Oh, last night? Well, after you went for a walk, they kept going at it like that."
+<ptT0053>"Ah, ontem à noite? Bem, depois que você saiu para uma caminhada, eles continuaram daquele jeito."
 
 //TEXT 【Takuji】
 <enT0054>"Like that..."
-<ptT0054>"Like that..."
+<ptT0054>"Daquele jeito..."
 
 //TEXT 【Takuji】
 <enT0055>"What are they doing?"
-<ptT0055>"What are they doing?"
+<ptT0055>"O que eles estão fazendo?"
 
 //TEXT 【Kimika】
 <enT0056>"Hehehe... They've been going at it for ages."
-<ptT0056>"Hehehe... They've been going at it for ages."
+<ptT0056>"Hehehe... Eles estão nessa há séculos."
 
 //TEXT 【Takuji】
 <enT0057>"Why?"
-<ptT0057>"Why?"
+<ptT0057>"Por que?"
 
 //TEXT 【Kimika】
 <enT0058>"What are you talking about? You were the one who ordered them to have sex with Nishimura-kun."
-<ptT0058>"What are you talking about? You were the one who ordered them to have sex with Nishimura-kun."
+<ptT0058>"Do que você está falando? Foi você quem ordenou que eles fizessem sexo com o Nishimura-kun."
 
 //TEXT 【Takuji】
 <enT0059>"Did I? But Nishimura isn't over there."
-<ptT0059>"Did I? But Nishimura isn't over there."
+<ptT0059>"Eu mandei? Mas Nishimura não está lá?"
 
 //TEXT 【Kimika】
 <enT0060>"That's right. Uh, the reason he's not there is..."
-<ptT0060>"That's right. Uh, the reason he's not there is..."
+<ptT0060>"Isso mesmo. O motivo de ele não está lá é..."
 
 //TEXT 【Takuji】
 <enT0061>"I don't really care why. What happened to him?"
-<ptT0061>"I don't really care why. What happened to him?"
+<ptT0061>"Não me interessa o motivo. O que aconteceu com ele?"
 
 //TEXT 【Kimika】
 <enT0062>"He said he was tired and laid down."
-<ptT0062>"He said he was tired and laid down."
+<ptT0062>"Ele disse que estava cansado e se deitou."
 
 //TEXT 【Takuji】
 <enT0063>"Then?"
-<ptT0063>"Then?"
+<ptT0063>"E então?"
 
 //TEXT 【Kimika】
 <enT0064>"He's been laying there like that."
-<ptT0064>"He's been laying there like that."
+<ptT0064>"Ele tem estado deitado ali desse jeito."
 
 //TEXT 【Takuji】
 <enT0065>"Like that?"
-<ptT0065>"Like that?"
+<ptT0065>"Que jeito?"
 
 //TEXT 【Kimika】
 <enT0066>"He's been laying over there like that, not moving at all."
-<ptT0066>"He's been laying over there like that, not moving at all."
+<ptT0066>"Ele tem estado deitado ali, sem se mexer."
 
 //TEXT 【Takuji】
 <enT0067>"He's not moving?"
-<ptT0067>"He's not moving?"
+<ptT0067>"Ele não está se movendo?"
 
 //TEXT 【Kimika】
 <enT0068>"I thought he was just sleeping, but he's not moving at all. He doesn't react to anything."
-<ptT0068>"I thought he was just sleeping, but he's not moving at all. He doesn't react to anything."
+<ptT0068>"Pensei que ele estava apenas dormindo, mas ele não se mexe de maneira nehuma. Ele não reage a nada."
 
 //TEXT 【Takuji】
 <enT0069>"No reaction, huh..."
-<ptT0069>"No reaction, huh..."
+<ptT0069>"Sem reação, hein..."
 
 //TEXT 【Kimika】
 <enT0070>"Shouldn't you heal him, my savior?"
-<ptT0070>"Shouldn't you heal him, my savior?"
+<ptT0070>"Não deveria curar ele, meu salvador?"
 
 //TEXT 【Takuji】
 <enT0071>"There's no need."
-<ptT0071>"There's no need."
+<ptT0071>"Não há necessidade disso."
 
 //TEXT 【Kimika】
 <enT0072>"Really?"
-<ptT0072>"Really?"
+<ptT0072>"Sério?"
 
 //TEXT 【Takuji】
 <enT0073>"He wanted to have sex so bad. After his wish came true, he didn't need to move anymore. There's no need to heal him."
-<ptT0073>"He wanted to have sex so bad. After his wish came true, he didn't need to move anymore. There's no need to heal him."
+<ptT0073>"Ele queria muito fazer sexo. Depois que seu desejo foi concedido, ele não precisou se mover mais. Não há necessidade de curá-lo."
 
 //TEXT 【Kimika】
 <enT0074>"Oh, that's right. I remember you saying something like that, my savior."
-<ptT0074>"Oh, that's right. I remember you saying something like that, my savior."
+<ptT0074>"Entendo. Então tudo se resume a como ele se sente."
 
 //TEXT 【Kimika】
 <enT0075>"I see. So it's all about how he feels."
-<ptT0075>"I see. So it's all about how he feels."
+<ptT0075>"Entendo. Então tudo se resume a como ele se sente."
 
 //TEXT 【Takuji】
 <enT0076>"Well, I guess so. He stopped moving once his wish was granted. That's all."
-<ptT0076>"Well, I guess so. He stopped moving once his wish was granted. That's all."
+<ptT0076>"Bem, acho que sim. Ele parou de se mover assim que seu desejo foi atendido. É isso."
 
 //TEXT 【Kimika】
 <enT0077>"So it's just a question of his willpower now... Hmm, that makes sense."
-<ptT0077>"So it's just a question of his willpower now... Hmm, that makes sense."
+<ptT0077>"Agora é só questão de sua força de vontade... Hum, faz sentido."
 
 //TEXT 【Kimika】
 <enT0078>"Well, even if he was alive, he would just keep having sex. This way is better."
-<ptT0078>"Well, even if he was alive, he would just keep having sex. This way is better."
+<ptT0078>"Bem, mesmo que ele estivesse vivo, ele só continuaria fazendo sexo. Assim é melhor."
 
 //TEXT 【Takuji】
 <enT0079>"Yeah, it is."
-<ptT0079>"Yeah, it is."
+<ptT0079>"Sim, é."
 
 //TEXT 【Takuji】
 <enT0080>"Still, they haven't even slept. They're not getting bored of it at all."
-<ptT0080>"Still, they haven't even slept. They're not getting bored of it at all."
+<ptT0080>"Mesmo assim, eles não estão se cansando nem um pouco."
 
 //TEXT 【Kimika】
 <enT0081>"They're not getting tired at all thanks to the savior's elixir. It's all-purpose, huh... Look, it even makes your pupils dilate."
-<ptT0081>"They're not getting tired at all thanks to the savior's elixir. It's all-purpose, huh... Look, it even makes your pupils dilate."
+<ptT0081>"Eles não estão cansados graças ao elixir do salvador. Há propósito... Olha só até as pupillas se dilatam."
 
 //TEXT 【Kimika】
 <enT0082>"Look, look, my savior, look. It makes your pupils dilate, so you can see everything. Even in the darkness you can see perfectly fine."
-<ptT0082>"Look, look, my savior, look. It makes your pupils dilate, so you can see everything. Even in the darkness you can see perfectly fine."
+<ptT0082>"Olha, olha, meu salvador, olha. Isso faz suas pupilas dilatarem, para que você possa ver tudo. Mesmo na escuridão, você consegue enxergar perfeitamente bem."
 
 //TEXT 【Takuji】
 <enT0083>"Of course, that's an all-purpose potion."
-<ptT0083>"Of course, that's an all-purpose potion."
+<ptT0083>"Claro, Essa é uma poção para todos os fins."
 
 //TEXT 【Takuji】
 <enT0084>"Now that you mention it, did I give the elixir to anyone other than Nishimura? I kind of remember sprinkling it on them, but..."
-<ptT0084>"Now that you mention it, did I give the elixir to anyone other than Nishimura? I kind of remember sprinkling it on them, but..."
+<ptT0084>"Agora que você mencionou isso, eu dei o elixir para alguém além de Nishimura? Eu meio que me lembro de ter borrifado neles, mas..."
 
 //TEXT 【Kimika】
 <enT0085>"Don't worry about the details. You're the savior!"
-<ptT0085>"Don't worry about the details. You're the savior!"
+<ptT0085>"Não se preocupe com os detalhes. Você é o salvador!"
 
 //TEXT 【Takuji】
 <enT0086>"It's not just a detail..."
-<ptT0086>"It's not just a detail..."
+<ptT0086>"Não é apenas um detalhe..."
 
 //TEXT 【Kimika】
 <enT0087>"But look... thanks to the drugs, they're all happy."
-<ptT0087>"But look... thanks to the drugs, they're all happy."
+<ptT0087>"Mas veja... graças ao elixir, todos estão felizes."
 
 //TEXT 【Takuji】
 <enT0088>"Well, yeah... They're all having fun in that orgy."
-<ptT0088>"Well, yeah... They're all having fun in that orgy."
+<ptT0088>"Bem, sim... todos estão se divertindo naquela orgia."
 
 //TEXT 【Kimika】
 <enT0089>"Hehehehe... It's like, just look at those sluts."
-<ptT0089>"Hehehehe... It's like, just look at those sluts."
+<ptT0089>"Hehehehe... É tipo, olha só essas putas."
 
 //TEXT 【Takuji】
 <enT0090>"What?"
-<ptT0090>"What?"
+<ptT0090>"O que?"
 
 //TEXT 【Kimika】
 <enT0091>"Oh, nothing. I'm just talking to myself. Yeah. I'm just talking to myself."
-<ptT0091>"Oh, nothing. I'm just talking to myself. Yeah. I'm just talking to myself."
+<ptT0091>"Ah, nada. Só to falando comigo mesmo. Ah isso aí. Só to falando comigo mesmo."
 
 //TEXT 【Takuji】
 <enT0092>"Oh, okay..."
-<ptT0092>"Oh, okay..."
+<ptT0092>"Ah, certo..."
 
 //TEXT 【Takuji】
 <enT0093>"My head really hurts..."
-<ptT0093>"My head really hurts..."
+<ptT0093>"A Minha cabeça dói muito..."
 
 //TEXT 【Kimika】
 <enT0094>"It must be because you were in a good mood last night. Maybe you hit your head?"
-<ptT0094>"It must be because you were in a good mood last night. Maybe you hit your head?"
+<ptT0094>"Deve ser porque você estava de bom humor ontem à noite. Talvez tenha batido a cabeça?"
 
 //TEXT 【Takuji】
 <enT0095>"Hit my head? What do you mean?"
-<ptT0095>"Hit my head? What do you mean?"
+<ptT0095>"Bati a cabeça? O que você quer dizer?"
 
 //TEXT 【Kimika】
 <enT0096>"You were dancing... You were yelling, 'It's God's song!'"
-<ptT0096>"You were dancing... You were yelling, 'It's God's song!'"
+<ptT0096>"Você estava dançando... Você estava gritando, 'É a música de Deus!'"
 
 //TEXT 【Takuji】
 <enT0097>"God's song..."
-<ptT0097>"God's song..."
+<ptT0097>"Música de Deus..."
 
 //TEXT
 <enT0098>God... song... roof...
-<ptT0098>God... song... roof...
+<ptT0098>Deus... música... telhado...
 
 //TEXT
 <enT0099>What is it...
-<ptT0099>What is it...
+<ptT0099>O que é...
 
 //TEXT
 <enT0100>I feel like that was something incredibly important... God, song, and... and... what?
-<ptT0100>I feel like that was something incredibly important... God, song, and... and... what?
+<ptT0100>Sinto que aquilo foi algo incrivelmente importante... Deus, mísica, e... e... o que?
 
 //TEXT 【Kimika】
 <enT0101>"What's wrong?"
-<ptT0101>"What's wrong?"
+<ptT0101>"tem algo errado?"
 
 //TEXT 【Takuji】
 <enT0102>"No, it's nothing... Nothing at all."
-<ptT0102>"No, it's nothing... Nothing at all."
+<ptT0102>"Não, não é nada... Absolutamente nada."
 
 //TEXT
 <enT0103>No... It's not like it's rare for me to forget something.
-<ptT0103>No... It's not like it's rare for me to forget something.
+<ptT0103>Não... Não é como se fosse raro eu esquecer alguma coisa.
 
 //TEXT
 <enT0104>So I must not need to remember it. I can just forget it.
-<ptT0104>So I must not need to remember it. I can just forget it.
+<ptT0104>Então não preciso me lembrar disso. Posso simplesmente esquecer.
 
 //TEXT 【Takuji】
 <enT0105>"So why did I hit my head exactly?"
-<ptT0105>"So why did I hit my head exactly?"
+<ptT0105>"E então por que exatamente eu bati a cabeça?"
 
 //TEXT 【Kimika】
 <enT0106>"You were dancing really happily and just fell down at one point."
-<ptT0106>"You were dancing really happily and just fell down at one point."
+<ptT0106>"Você estava dançando muito feliz e, de repente, caiu."
 
 //TEXT 【Takuji】
 <enT0107>"Seriously?"
-<ptT0107>"Seriously?"
+<ptT0107>"É sério?"
 
 //TEXT 【Kimika】
 <enT0108>"Yes, seriously."
-<ptT0108>"Yes, seriously."
+<ptT0108>"Sim, falando sério."
 
 //TEXT 【Takuji】
 <enT0109>"I see... After that, I went to sleep?"
-<ptT0109>"I see... After that, I went to sleep?"
+<ptT0109>"Entendo... Depois disso, fui dormir?"
 
 //TEXT 【Kimika】
 <enT0110>"No, you got up several times. You were doing lots of stuff."
-<ptT0110>"No, you got up several times. You were doing lots of stuff."
+<ptT0110>"Não, você levantou várias vezes. Você estava fazendo muita coisa."
 
 //TEXT 【Takuji】
 <enT0111>"Lots?"
-<ptT0111>"Lots?"
+<ptT0111>"Muitas coisas?"
 
 //TEXT 【Kimika】
 <enT0112>"Yes, you were only sleeping intermittently... Did you get any rest like that?"
-<ptT0112>"Yes, you were only sleeping intermittently... Did you get any rest like that?"
+<ptT0112>"Sim, você estava só dormia e acordava... Você conseguiu descansar assim?"
 
 //TEXT 【Takuji】
 <enT0113>"If you were watching me, did you get any sleep?"
-<ptT0113>"If you were watching me, did you get any sleep?"
+<ptT0113>"Enquanto estava me observando dormir, você também não conseguiu descansar?"
 
 //TEXT 【Kimika】
 <enT0114>"No, not at all. I've been drinking Cat's Eye too."
-<ptT0114>"No, not at all. I've been drinking Cat's Eye too."
+<ptT0114>"Não, de jeito nenhum. Eu tenho bebido Cat's Eye."
 
 //TEXT 【Takuji】
 <enT0115>"It's not Cat's Eye... That's holy water."
-<ptT0115>"It's not Cat's Eye... That's holy water."
+<ptT0115>"Não é Cat's Eye... É água benta."
 
 //TEXT 【Kimika】
 <enT0116>"Yes, it's Holy Cat Water, right?"
-<ptT0116>"Yes, it's Holy Cat Water, right?"
+<ptT0116>"Sim, é agua sagrada para gatos, certo?"
 
 //TEXT
 <enT0117>Is she even listening to me?
-<ptT0117>Is she even listening to me?
+<ptT0117>Será que essa mulher tá me ouvindo?
 
 //TEXT 【Takuji】
 <enT0118>"Haa... Are you still high?"
-<ptT0118>"Haa... Are you still high?"
+<ptT0118>"Haa... ainda drogado né?"
 
 //TEXT 【Kimika】
 <enT0119>"Kind of... I'm not sleepy at all."
-<ptT0119>"Kind of... I'm not sleepy at all."
+<ptT0119>"Mais ou menos... Não tenho sono."
 
 //TEXT
 <enT0120>Damn it... Is that why she's so rude? Well, I guess scolding her for it won't really help.
-<ptT0120>Damn it... Is that why she's so rude? Well, I guess scolding her for it won't really help.
+<ptT0120>Puxa... É por isso que ela é tão mal-educada? Bom, acho que repreendê-la por isso não vai adiantar.
 
 //TEXT 【Takuji】
 <enT0121>"And then? When I was awake, what I was doing for the most part?"
-<ptT0121>"And then? When I was awake, what I was doing for the most part?"
+<ptT0121>"E depois? Quando estava acoradado, O que eu fiz na maior parte do tempo?"
 
 //TEXT 【Kimika】
 <enT0122>"For the most part? For the most part, you went for a walk around the school and stuff. I'm actually pretty surprised you didn't get caught... You're on the wanted list here at school."
-<ptT0122>"For the most part? For the most part, you went for a walk around the school and stuff. I'm actually pretty surprised you didn't get caught... You're on the wanted list here at school."
+<ptT0122>"Na maior parte do tempo? Nesse tempo, você deu uma voltas pela escola. Na real, tô surpreso que não tenha sido pego... Você está na lista de procurados da escola."
 
 //TEXT 【Takuji】
 <enT0123>"Didn't get caught, huh? I am the savior, you know..."
-<ptT0123>"Didn't get caught, huh? I am the savior, you know..."
+<ptT0123>"Não fui pego, né? Eu sou o salvador, sabia?..."
 
 //TEXT 【Kimika】
 <enT0124>"Yeah, you could just Savior Dash out of there, right?"
-<ptT0124>"Yeah, you could just Savior Dash out of there, right?"
+<ptT0124>"É, dava pra usar só  o Savior Dash pra sair dali, né?"
 
 //TEXT 【Takuji】
 <enT0125>"Your premise is incorrect. The savior has no reason to run away or hide."
-<ptT0125>"Your premise is incorrect. The savior has no reason to run away or hide."
+<ptT0125>"Sua premissa está errada. O salvador não tem motivo para fugir ou se esconder."
 
 //TEXT 【Kimika】
 <enT0126>"Because the Savior Dash is too fast?"
-<ptT0126>"Because the Savior Dash is too fast?"
+<ptT0126>"Porque o Savior Dash é muito rápida?"
 
 //TEXT 【Takuji】
 <enT0127>"No! Because I'm a holy existence!"
-<ptT0127>"No! Because I'm a holy existence!"
+<ptT0127>"Não! Porque sou uma existência sagrada!"
 
 //TEXT 【Kimika】
 <enT0128>"I see... You're one of those people."
-<ptT0128>"I see... You're one of those people."
+<ptT0128>"Entendi... Você é uma dessas pessoas."
 
 //TEXT 【Takuji】
 <enT0129>"It has nothing to do with people! I am the savior, you idiot!"
-<ptT0129>"It has nothing to do with people! I am the savior, you idiot!"
+<ptT0129>"Não tem nada haver com pessoas! Eu sou o salvador, sua idiota!"
 
 //TEXT 【Kimika】
 <enT0130>"Oh... You're not a human, right?"
-<ptT0130>"Oh... You're not a human, right?"
+<ptT0130>"Oh... Então o salvador não é humano, né?"
 
 //TEXT 【Takuji】
 <enT0131>"Yeah, the savior isn't human."
-<ptT0131>"Yeah, the savior isn't human."
+<ptT0131>"Isso aí, o salvador não é humano."
 
 //TEXT 【Kimika】
 <enT0132>"I see... You're not a human... and..."
-<ptT0132>"I see... You're not a human... and..."
+<ptT0132>"Entendi... Você não é humano... e..."
 
 //TEXT 【Takuji】
 <enT0133>"Y-You... Would you knock it off?"
-<ptT0133>"Y-You... Would you knock it off?"
+<ptT0133>"Kimika... dá pra parar com isso?"
 
 //TEXT 【Kimika】
 <enT0134>"Oh, right. When you went for a walk, you took Ms. Kiyokawa along."
-<ptT0134>"Oh, right. When you went for a walk, you took Ms. Kiyokawa along."
+<ptT0134>"Ah, sim. Quando você foi passear, levou junto a professora Kiyokawa."
 
 //TEXT 【Takuji】
 <enT0135>"Eh? Kiyokawa? Why did I take her along?"
-<ptT0135>"Eh? Kiyokawa? Why did I take her along?"
+<ptT0135>"Hã? Kiyokawa? Por que eu a trouxe comigo?"
 
 //TEXT 【Kimika】
 <enT0136>"You were like, 'I'll show you the demon!' and then you grabbed her by the hair and dragged her out..."
-<ptT0136>"You were like, 'I'll show you the demon!' and then you grabbed her by the hair and dragged her out..."
+<ptT0136>"O salvador disse algo como: 'Vou te mostrar o demônio!', e então agarrou pelos cabelos e arrastou para fora..."
 
 //TEXT 【Takuji】
 <enT0137>"No... I'm not that cruel, am I?"
-<ptT0137>"No... I'm not that cruel, am I?"
+<ptT0137>"Não...  não sou tão cruel, sou?"
 
 //TEXT 【Kimika】
 <enT0138>"Oh, can you understand me? Did I exaggerate it?"
-<ptT0138>"Oh, can you understand me? Did I exaggerate it?"
+<ptT0138>"Ah, conseguiu me entender? Exagerei muito?"
 
 //TEXT 【Takuji】
 <enT0139>"It's not about understanding... My personality isn't like that. The savior would never do something so barbaric."
-<ptT0139>"It's not about understanding... My personality isn't like that. The savior would never do something so barbaric."
+<ptT0139>"Não se trata de entendimento... Minha personalidade não é assim. O salvador não faz algo tão bárbaro."
 
 //TEXT 【Takuji】
 <enT0140>"The only people who talk with their fists are people who don't have anything to say with their mouths."
-<ptT0140>"The only people who talk with their fists are people who don't have anything to say with their mouths."
+<ptT0140>"As únicas pessoas que falam com os punhos são aquelas que não têm nada a dizer com a boca."
 
 //TEXT 【Kimika】
 <enT0141>"Talk with their dicks?"
-<ptT0141>"Talk with their dicks?"
+<ptT0141>"Conversar com os paus deles?"
 
 //TEXT 【Takuji】
 <enT0142>"Jeez... That's not right at all. Talk with their fists, their fists! You only have the talking part right."
-<ptT0142>"Jeez... That's not right at all. Talk with their fists, their fists! You only have the talking part right."
+<ptT0142>"Aff... não é nada disso. Falam com os punhos, os punhos! Você só acertou a parte do 'falar'."
 
 //TEXT 【Kimika】
 <enT0143>"I know that much. Talking with their fists. That's violence. Gepard!"
-<ptT0143>"I know that much. Talking with their fists. That's violence. Gepard!"
+<ptT0143>"Eu sei disso. Falar com os punhos. Isso é violência. Gepard!"
 
 //TEXT 【Takuji】
 <enT0144>"Then don't make stupid jokes like that."
-<ptT0144>"Then don't make stupid jokes like that."
+<ptT0144>"Não faça piadas idiotas assim."
 
 //TEXT 【Kimika】
 <enT0145>"They're not boring. I just wanted to see what would happen if I said something crude like that."
-<ptT0145>"They're not boring. I just wanted to see what would happen if I said something crude like that."
+<ptT0145>"Eles não são chatos. Só queria ver o que aconteceria se eu dissesse algo grosseiro assim."
 
 //TEXT 【Takuji】
 <enT0146>"Why... would you want to say something like that?"
-<ptT0146>"Why... would you want to say something like that?"
+<ptT0146>"Por que... você diria uma coisa dessas?"
 
 //TEXT 【Kimika】
 <enT0147>"Hahaha, I might not look it, but I've always been totally straightedge."
-<ptT0147>"Hahaha, I might not look it, but I've always been totally straightedge."
+<ptT0147>"Hahaha, pode não parecer, mas sempre fui sempre certinho."
 
 //TEXT 【Takuji】
 <enT0148>"Have you?"
-<ptT0148>"Have you?"
+<ptT0148>"Já foi?"
 
 //TEXT 【Kimika】
 <enT0149>"But I've always been kind of depressed..."
-<ptT0149>"But I've always been kind of depressed..."
+<ptT0149>"Mas eu sempre fui meio deprimido..."
 
 //TEXT 【Takuji】
 <enT0150>"Really?"
-<ptT0150>"Really?"
+<ptT0150>"Realmente?"
 
 //TEXT 【Kimika】
 <enT0151>"Yeah, so sometimes I was bullied. Or rather, I've been bullied every day since I came to this school."
-<ptT0151>"Yeah, so sometimes I was bullied. Or rather, I've been bullied every day since I came to this school."
+<ptT0151>"Sim, às vezes eu sofria bullying. Ou melhor, sofro bullying todos os dias desde que entrei na escola."
 
 //TEXT 【Takuji】
 <enT0152>"Now that you mention it, I think I heard about that."
-<ptT0152>"Now that you mention it, I think I heard about that."
+<ptT0152>"Agora que mencionou, acho que já ouvi falar."
 
 //TEXT
 <enT0153>And then she betrayed Takashima Zakuro...
-<ptT0153>And then she betrayed Takashima Zakuro...
+<ptT0153>e então traiu Takashima Zakuro...
 
 //TEXT
 <enT0154>So that she could escape her own bullying.
-<ptT0154>So that she could escape her own bullying.
+<ptT0154>Pra que pudesse escapar do bullying que sofria.
 
 //TEXT 【Kimika】
 <enT0155>"..."
@@ -634,35 +634,35 @@
 
 //TEXT 【Kimika】
 <enT0156>"That's right... Everything that just went through your mind is completely correct."
-<ptT0156>"That's right... Everything that just went through your mind is completely correct."
+<ptT0156>"Isso mesmo... Tudo o que acabou de passar na sua cabeça está certo."
 
 //TEXT 【Takuji】
 <enT0157>"What are you..."
-<ptT0157>"What are you..."
+<ptT0157>"O que você está..."
 
 //TEXT 【Kimika】
 <enT0158>"Oh, no, I don't have the power to read people's minds like you and those other people..."
-<ptT0158>"Oh, no, I don't have the power to read people's minds like you and those other people..."
+<ptT0158>"Ah, não, eu não tenho o poder de ler mentes como você e aquelas pessoas..."
 
 //TEXT 【Kimika】
 <enT0159>"But... well, it's natural that you would be thinking about that, I guess."
-<ptT0159>"But... well, it's natural that you would be thinking about that, I guess."
+<ptT0159>"Mas... bem, é natural que esteja pensando nisso, Eu acho."
 
 //TEXT 【Kimika】
 <enT0160>"Because... I'm a backstabber..."
-<ptT0160>"Because... I'm a backstabber..."
+<ptT0160>"Porque... Eu sou uma traidora..."
 
 //TEXT 【Kimika】
 <enT0161>"So..."
-<ptT0161>"So..."
+<ptT0161>"Então..."
 
 //TEXT 【Takuji】
 <enT0162>"So?"
-<ptT0162>"So?"
+<ptT0162>"Então?"
 
 //TEXT 【Kimika】
 <enT0163>"I'm truly grateful to you, my savior!"
-<ptT0163>"I'm truly grateful to you, my savior!"
+<ptT0163>"Sou eternamente grato a ti, meu salvador!"
 
 //TEXT 【Takuji】
 <enT0164>"Huh?"
@@ -670,375 +670,375 @@
 
 //TEXT 【Kimika】
 <enT0165>"I'm sorry I ever doubted you!"
-<ptT0165>"I'm sorry I ever doubted you!"
+<ptT0165>"Sinto muito por ter duvidado de você!"
 
 //TEXT 【Takuji】
 <enT0166>"Wh-What are you talking about?"
-<ptT0166>"Wh-What are you talking about?"
+<ptT0166>"O q-que você está falando?"
 
 //TEXT 【Kimika】
 <enT0167>"Oh, nothing. You're just that wonderful, my savior."
-<ptT0167>"Oh, nothing. You're just that wonderful, my savior."
+<ptT0167>"Ah, nada. Você é tão incrível, meu salvador!"
 
 //TEXT 【Takuji】
 <enT0168>"Oh... Really?"
-<ptT0168>"Oh... Really?"
+<ptT0168>"Oh... Sério?"
 
 //TEXT
 <enT0169>Is that... really what she was thinking?
-<ptT0169>Is that... really what she was thinking?
+<ptT0169>Era... mesmo isso que ela estava pensando?
 
 //TEXT
 <enT0170>I don't understand her at all.
-<ptT0170>I don't understand her at all.
+<ptT0170>Não consigo entender ela de jeito nenhum.
 
 //TEXT 【Takuji】
 <enT0171>"So where's Kiyokawa?"
-<ptT0171>"So where's Kiyokawa?"
+<ptT0171>"Onde está a Kiyokawa"
 
 //TEXT 【Kimika】
 <enT0172>"Ms. Kiyokawa is over there, scared out of her wits, saying, 'The demon has the same face as the savior. I'm going to die!'"
-<ptT0172>"Ms. Kiyokawa is over there, scared out of her wits, saying, 'The demon has the same face as the savior. I'm going to die!'"
+<ptT0172>"A professora Kiyokawa tá lá, morrendo de medo, dizendo, 'O demônio tem a mesma cara do salvador. Vou morrer!'"
 
 //TEXT 【Takuji】
 <enT0173>"Over there?"
-<ptT0173>"Over there?"
+<ptT0173>"Lá?"
 
 //TEXT
 <enT0174>There was someone curled up and quivering in the corner.
-<ptT0174>There was someone curled up and quivering in the corner.
+<ptT0174>Havia alguém encolhido e tremendo no canto.
 
 //TEXT
 <enT0175>Is that Kiyokawa?
-<ptT0175>Is that Kiyokawa?
+<ptT0175>É Kiyokawa?
 
 //TEXT
 <enT0176>Why is she so frightened?
-<ptT0176>Why is she so frightened?
+<ptT0176>Por que ela está tão assustada?
 
 //TEXT 【Kimika】
 <enT0177>"And she said the demon took her cell phone, too..."
-<ptT0177>"And she said the demon took her cell phone, too..."
+<ptT0177>"E ela disse que o demônio também pegou o celular dela"
 
 //TEXT 【Takuji】
 <enT0178>"The demon did?"
-<ptT0178>"The demon did?"
+<ptT0178>"O demônio fez isso?"
 
 //TEXT 【Kimika】
 <enT0179>"Yes. What did you show her, my savior? What's the demon?"
-<ptT0179>"Yes. What did you show her, my savior? What's the demon?"
+<ptT0179>"Sim. O que mostrou a ela, meu salvador? Qual é o demônio?"
 
 //TEXT 【Takuji】
 <enT0180>"Who knows... I guess I showed her something, but I don't really remember."
-<ptT0180>"Who knows... I guess I showed her something, but I don't really remember."
+<ptT0180>"Quem sabe... Acho que mostrei alguma coisa para ela, mas não me lembro direito."
 
 //TEXT 【Kimika】
 <enT0181>"You're good at scaring people."
-<ptT0181>"You're good at scaring people."
+<ptT0181>"você é bom em assustar pessoas."
 
 //TEXT 【Takuji】
 <enT0182>"What do you mean? I don't scare people, I just perform miracles... People are just scared of them."
-<ptT0182>"What do you mean? I don't scare people, I just perform miracles... People are just scared of them."
+<ptT0182>"Como assim? Não assusto as pessoas, eu faço só milagres... As pessoas que têm medos deles."
 
 //TEXT 【Kimika】
 <enT0183>"Well, that's the result. The result."
-<ptT0183>"Well, that's the result. The result."
+<ptT0183>"Bem, esse é o resultado. O resultado."
 
 //TEXT 【Kimika】
 <enT0184>"This is what they call charisma, huh?"
-<ptT0184>"This is what they call charisma, huh?"
+<ptT0184>"Isso é o que eles chamam de carisma, né?"
 
 //TEXT 【Kimika】
 <enT0185>"Of course the savior would have that!"
-<ptT0185>"Of course the savior would have that!"
+<ptT0185>"É claro que o salvador tem que ter isso!"
 
 //TEXT 【Takuji】
 <enT0186>"You should be scared of me, too..."
-<ptT0186>"You should be scared of me, too..."
+<ptT0186>"Você também deveria ter medo de mim..."
 
 //TEXT 【Kimika】
 <enT0187>"I am... You're super scary, my savior!"
-<ptT0187>"I am... You're super scary, my savior!"
+<ptT0187>"Eu estou... Você é super assustador, meu salvador!"
 
 //TEXT 【Takuji】
 <enT0188>"Are you making fun of me? Seems like you're having fun to me."
-<ptT0188>"Are you making fun of me? Seems like you're having fun to me."
+<ptT0188>"Você está zombando de mim? Parece que está mais se divertindo."
 
 //TEXT 【Kimika】
 <enT0189>"No, no way, not at all. You're just misunderstanding."
-<ptT0189>"No, no way, not at all. You're just misunderstanding."
+<ptT0189>"Não, de jeito nenhum. Você está apenas entendendo errado."
 
 //TEXT 【Kimika】
 <enT0190>"But..."
-<ptT0190>"But..."
+<ptT0190>"Mas..."
 
 //TEXT 【Kimika】
 <enT0191>"But now that you mention it, you really are scary, my savior."
-<ptT0191>"But now that you mention it, you really are scary, my savior."
+<ptT0191>"Mas agora que você mencionou, você realmente me assusta, meu salvador."
 
 //TEXT 【Kimika】
 <enT0192>"Fear is when the heart moves. You're good at moving people's hearts... Mine is moving too."
-<ptT0192>"Fear is when the heart moves. You're good at moving people's hearts... Mine is moving too."
+<ptT0192>"O medo surge quando o coração se move. Você é bom em comover os corações das pessoas... O meu também está se comovendo."
 
 //TEXT 【Takuji】
 <enT0193>"What are you talking about?"
-<ptT0193>"What are you talking about?"
+<ptT0193>"O que quer dizer?"
 
 //TEXT 【Kimika】
 <enT0194>"Who knows, what am I talking about? Maybe I'm delusional?"
-<ptT0194>"Who knows, what am I talking about? Maybe I'm delusional?"
+<ptT0194>"Quem sabe. Do que estou falando? Talvez seja só uma ilusão?"
 
 //TEXT 【Kimika】
 <enT0195>"Now then, I'll take care of them. You're tired, right, my savior?"
-<ptT0195>"Now then, I'll take care of them. You're tired, right, my savior?"
+<ptT0195>"Então, eu cuidarei deles. Você está cansado, não é, meu salvador?"
 
 //TEXT 【Takuji】
 <enT0196>"Well, yes, but... but..."
-<ptT0196>"Well, yes, but... but..."
+<ptT0196>"Bem, sim, mas... mas..."
 
 //TEXT 【Kimika】
 <enT0197>"I'm your servant... Please make use of me."
-<ptT0197>"I'm your servant... Please make use of me."
+<ptT0197>"Eu sou sua serva... Por favor, me use."
 
 //TEXT 【Takuji】
 <enT0198>"Sure..."
-<ptT0198>"Sure..."
+<ptT0198>"Claro..."
 
 //TEXT 【Kimika】
 <enT0199>"Do you think I would ever betray you or get in the way of your plans, my savior?"
-<ptT0199>"Do you think I would ever betray you or get in the way of your plans, my savior?"
+<ptT0199>"Você acha que eu algum dia o trairia ou atrapalharia seus planos, meu salvador?"
 
 //TEXT 【Takuji】
 <enT0200>"I don't, but..."
-<ptT0200>"I don't, but..."
+<ptT0200>"Não, mas..."
 
 //TEXT 【Kimika】
 <enT0201>"That's right. You would kill someone in the very instant they betrayed you."
-<ptT0201>"That's right. You would kill someone in the very instant they betrayed you."
+<ptT0201>"Isso mesmo. Você mataria alguém no exato instante em que fosse traido."
 
 //TEXT 【Kimika】
 <enT0202>"If you don't trust me, please kill me."
-<ptT0202>"If you don't trust me, please kill me."
+<ptT0202>"Se você não confia em mim, por-favor, me mate."
 
 //TEXT 【Takuji】
 <enT0203>"No, I don't think you're going to betray me, but..."
-<ptT0203>"No, I don't think you're going to betray me, but..."
+<ptT0203>"Não, não acho que você me trairia, mas..."
 
 //TEXT 【Kimika】
 <enT0204>"Hehehehe... You don't know the whole story."
-<ptT0204>"Hehehehe... You don't know the whole story."
+<ptT0204>"Hehehehe... Você não sabe a história completa."
 
 //TEXT 【Kimika】
 <enT0205>"I mean, the first time we met, I tried to kill you."
-<ptT0205>"I mean, the first time we met, I tried to kill you."
+<ptT0205>"Quer dizer, na primeira vez que nos conhecemos, eu tentei matar você."
 
 //TEXT 【Takuji】
 <enT0206>"I thought you looked suspicious, but is that really what you were going to do?"
-<ptT0206>"I thought you looked suspicious, but is that really what you were going to do?"
+<ptT0206>"Achei que parecia suspeito, mas era isso mesmo  que você ia fazer?"
 
 //TEXT
 <enT0207>So she really was hiding a knife in her right hand... My intuition was right.
-<ptT0207>So she really was hiding a knife in her right hand... My intuition was right.
+<ptT0207>Então ela realmente estava escondendo uma faca na mão direita... Minha intuição estava certa.
 
 //TEXT
 <enT0208>I let my guard down soon after, but that was dangerous.
-<ptT0208>I let my guard down soon after, but that was dangerous.
+<ptT0208>Abaixei a guarda logo depois, mas isso foi perigoso.
 
 //TEXT 【Kimika】
 <enT0209>"Hehehe... I'm a yandere... I'm crazy, depressed, and autistic."
-<ptT0209>"Hehehe... I'm a yandere... I'm crazy, depressed, and autistic."
+<ptT0209>"Hehehe... eu sou uma yandere... louca, depressiva e austista."
 
 //TEXT 【Kimika】
 <enT0210>"There's a reason why they started bullying me before Zakuro."
-<ptT0210>"There's a reason why they started bullying me before Zakuro."
+<ptT0210>"Tem um motivo para terem começado a me intimidar antes de Zakuro."
 
 //TEXT 【Takuji】
 <enT0211>"Haa... Why would you want to kill someone who saved you from a curse? Are you stupid?"
-<ptT0211>"Haa... Why would you want to kill someone who saved you from a curse? Are you stupid?"
+<ptT0211>"Haa... Por que quer matar alguém que te salvou de um maldição? Você é retardada?"
 
 //TEXT 【Kimika】
 <enT0212>"Ahahaha... Like I said, I was mistaken. I was really mistaken."
-<ptT0212>"Ahahaha... Like I said, I was mistaken. I was really mistaken."
+<ptT0212>"Ahahaha... Como eu disse, tava enganado. Estava completamente enganado."
 
 //TEXT 【Kimika】
 <enT0213>"I was totally mistaken. You're my ally!"
-<ptT0213>"I was totally mistaken. You're my ally!"
+<ptT0213>"Estava completamente enganada. Você é meu aliado!"
 
 //TEXT 【Takuji】
 <enT0214>"I'm not your ally... I'm the savior of humanity."
-<ptT0214>"I'm not your ally... I'm the savior of humanity."
+<ptT0214>"Não sou seu aliado... Sou o salvador da humanidade."
 
 //TEXT 【Kimika】
 <enT0215>"Yes! I'll never forget it!"
-<ptT0215>"Yes! I'll never forget it!"
+<ptT0215>"Sim! Nunca vou me esquecer disso!"
 
 //TEXT 【Kimika】
 <enT0216>"So take care of your body until the final day, my savior."
-<ptT0216>"So take care of your body until the final day, my savior."
+<ptT0216>"Então cuide do seu corpo até o útimo dia, meu salvador."
 
 //TEXT 【Takuji】
 <enT0217>"Yeah... That's right..."
-<ptT0217>"Yeah... That's right..."
+<ptT0217>"Sim... É claro..."
 
 //TEXT 【Takuji】
 <enT0218>"Um, three times a day."
-<ptT0218>"Um, three times a day."
+<ptT0218>"Hum, três vezes ao dia."
 
 //TEXT 【Kimika】
 <enT0219>"Fill the ark with vaporized elixir! Endure your hunger with elixir!"
-<ptT0219>"Fill the ark with vaporized elixir! Endure your hunger with elixir!"
+<ptT0219>"Encham a arca com o elixir vaporizado! Saciem sua fome com o elixir!"
 
 //TEXT 【Takuji】
 <enT0220>"No, that's not what I said. Clean your bodies by sprinkling elixir on each other. Lick a little bit of elixir to stave off your hunger..."
-<ptT0220>"No, that's not what I said. Clean your bodies by sprinkling elixir on each other. Lick a little bit of elixir to stave off your hunger..."
+<ptT0220>"Não, não foi isso que eu disse. Limpem seus corpos borrifando o elixir um no outro. Lambam um pouquinho do elixir para matar a fome..."
 
 //TEXT 【Kimika】
 <enT0221>"Aye, aye, sir!"
-<ptT0221>"Aye, aye, sir!"
+<ptT0221>"Sim, Senhor!"
 
 //TEXT
 <enT0222>After that...
-<ptT0222>After that...
+<ptT0222>Depois disso...
 
 //TEXT
 <enT0223>It's about that time.
-<ptT0223>It's about that time.
+<ptT0223>Está quase na hora.
 
 //TEXT 【Takuji】
 <enT0224>"I'll go meditate for a while."
-<ptT0224>"I'll go meditate for a while."
+<ptT0224>"Vou meditar um pouco."
 
 //TEXT
 <enT0225>I returned to my place, alone.
-<ptT0225>I returned to my place, alone.
+<ptT0225>Voltei ao meu lugar, sozinho.
 
 //TEXT
 <enT0226>To my room...
-<ptT0226>To my room...
+<ptT0226>Para o meu quarto...
 
 //TEXT
 <enT0227>I stood before the poster I had Tachibana buy.
-<ptT0227>I stood before the poster I had Tachibana buy.
+<ptT0227>Estava de pé diante do pôster que havia pedido para Tachibana comprar.
 
 //TEXT
 <enT0228>The icon of the Mahou Shoujo Riruru.
-<ptT0228>The icon of the Mahou Shoujo Riruru.
+<ptT0228>O ícone de Mahou Shoujo Riruru.
 
 //TEXT
 <enT0229>Last night, with this... I met Riruru-chan... and then...
-<ptT0229>Last night, with this... I met Riruru-chan... and then...
+<ptT0229>Ontem à noite, com isso... conheci Riruru-chan... e ainda...
 
 //TEXT
 <enT0230>I encountered the Father Himself.
-<ptT0230>I encountered the Father Himself.
+<ptT0230>Encontrei o próprio Pai.
 
 //TEXT
 <enT0231>I guess I did, but...
-<ptT0231>I guess I did, but...
+<ptT0231>Acho que sim, mas...
 
 //TEXT
 <enT0232>Honestly, I don't remember it.
-<ptT0232>Honestly, I don't remember it.
+<ptT0232>Honestamente, não me lembro.
 
 //TEXT
 <enT0233>For some reason... A song... I feel like he sang a song.
-<ptT0233>For some reason... A song... I feel like he sang a song.
+<ptT0233>Por algum motivo... Uma canção... Tenho a impressão de que Deus cantou uma canção.
 
 //TEXT
 <enT0234>God is melody.
-<ptT0234>God is melody.
+<ptT0234>Deus é melódia.
 
 //TEXT
 <enT0235>The world is words.
-<ptT0235>The world is words.
+<ptT0235>O mundo é feito de palavras.
 
 //TEXT
 <enT0236>Actually, I feel like I've heard that song a long time ago...
-<ptT0236>Actually, I feel like I've heard that song a long time ago...
+<ptT0236>Na verdade, tenho a impressão de que já ouvi essa música há muito tempo...
 
 //TEXT
 <enT0237>I kind of remember it.
-<ptT0237>I kind of remember it.
+<ptT0237>Meio que me lembro disso.
 
 //TEXT
 <enT0238>Whose song was that?
-<ptT0238>Whose song was that?
+<ptT0238>De quem era essa música?
 
 //TEXT
 <enT0239>Why do I remember that song?
-<ptT0239>Why do I remember that song?
+<ptT0239>Por que me lembro dessa música?
 
 //TEXT 【Takuji】
 <enT0240>"The brain and the sky are the same... The brain and the sea are the same..."
-<ptT0240>"The brain and the sky are the same... The brain and the sea are the same..."
+<ptT0240>"O cerébro e o céu são iguais... O cerébro e o mar são iguais..."
 
 //TEXT 【Takuji】
 <enT0241>"The brain is just the weight of God..."
-<ptT0241>"The brain is just the weight of God..."
+<ptT0241>"O cerébro é o peso de Deus..."
 
 //TEXT
 <enT0242>That kind of song.
-<ptT0242>That kind of song.
+<ptT0242>Esse tipo de canção.
 
 //TEXT
 <enT0243>Why do I remember that song so vividly?
-<ptT0243>Why do I remember that song so vividly?
+<ptT0243>Por que me lembro dessa canção com tanta clareza?
 
 //TEXT
 <enT0244>When did I hear that song? Whose song was it?
-<ptT0244>When did I hear that song? Whose song was it?
+<ptT0244>Quando ouvi essa música? De quem era essa música?
 
 //TEXT 【Takuji】
 <enT0245>"The Savior Brain... isn't yet complete, I guess."
-<ptT0245>"The Savior Brain... isn't yet complete, I guess."
+<ptT0245>"O cerébro do salvador... ainda não está completo, eu acho."
 
 //TEXT 【Takuji】
 <enT0246>"Haa... Well, I guess not."
-<ptT0246>"Haa... Well, I guess not."
+<ptT0246>"Haa... Bem, acho que não."
 
 //TEXT
 <enT0247>I sighed before the icon of the Mahou Shoujo Riruru.
-<ptT0247>I sighed before the icon of the Mahou Shoujo Riruru.
+<ptT0247>Suspirei diante do ícone da Mahou Shoujo Riruru.
 
 //TEXT
 <enT0248>I didn't remember God's song, but there were plenty of things I did remember.
-<ptT0248>I didn't remember God's song, but there were plenty of things I did remember.
+<ptT0248>Não me lembrava da música de Deus, mas havia muitas outras coisas que eu lembrava.
 
 //TEXT
 <enT0249>Shiroyama's corpse was still walking around...
-<ptT0249>Shiroyama's corpse was still walking around...
+<ptT0249>O cadáver de shiroyama ainda andava por aí...
 
 //TEXT
 <enT0250>Even Takashima-san's corpse was still wandering the school...
-<ptT0250>Even Takashima-san's corpse was still wandering the school...
+<ptT0250>Até o cadáver de Takashima-san ainda vagava pela escola...
 
 //TEXT
 <enT0251>And her soul was residing in her desk, and that desk was wandering around the school looking for her body...
-<ptT0251>And her soul was residing in her desk, and that desk was wandering around the school looking for her body...
+<ptT0251>E a sua alma residia em sua mesa, e aquela mesa vagava pela escola à procura do corpo dela...
 
 //TEXT
 <enT0252>And finally...
-<ptT0252>And finally...
+<ptT0252>E finalmente...
 
 //TEXT 【Takuji】
 <enT0253>"Haa... Riruru-chan... You're awful..."
-<ptT0253>"Haa... Riruru-chan... You're awful..."
+<ptT0253>"Haa... Riruru-chan... Você é terrível..."
 
 //TEXT 【Takuji】
 <enT0254>"What you did yesterday was beyond awful."
-<ptT0254>"What you did yesterday was beyond awful."
+<ptT0254>"O que você fez ontem foi mais do que horrível."
 
 //TEXT 【Takuji】
 <enT0255>"I can't believe you possessed Takashima-san's body... Even I would be scared by something like that."
-<ptT0255>"I can't believe you possessed Takashima-san's body... Even I would be scared by something like that."
+<ptT0255>"Não acredito que você possui o corpo da Takashima-san... Até eu ficaria assustado com uma coisa dessas."
 
 //TEXT 【Takuji】
 <enT0256>"That was terrible... Her death was quite a while ago, so her body was totally rotten, and it smelled awful, just awful."
-<ptT0256>"That was terrible... Her death was quite a while ago, so her body was totally rotten, and it smelled awful, just awful."
+<ptT0256>"Isso é terrível... Ela morreu há bastante tempo, seu corpo estava totalmente apodrecido, e tinha um cheiro horrível, simplesmente terrível."
 
 //TEXT 【Takuji】
 <enT0257>"Well, I guess... that it's thanks to her body that Riruru-chan and I were able to come into physical contact, so... Oh well."
-<ptT0257>"Well, I guess... that it's thanks to her body that Riruru-chan and I were able to come into physical contact, so... Oh well."
+<ptT0257>"Bem, acho que... é graças ao seu corpo que Riruru-chan e eu conseguimos nos comunicar fisicamente, então... Ah, bem."
 
 //TEXT 【Takuji】
 <enT0258>"..."
@@ -1046,7 +1046,7 @@
 
 //TEXT 【Takuji】
 <enT0259>"What about today? Will there be someone there again?"
-<ptT0259>"What about today? Will there be someone there again?"
+<ptT0259>"E hoje? Será que vai ter alguém lá de novo?"
 
 //TEXT 【Takuji】
 <enT0260>"..."
@@ -1054,47 +1054,47 @@
 
 //TEXT 【Takuji】
 <enT0261>"Maybe I should go to the roof again... Someone might be there again today."
-<ptT0261>"Maybe I should go to the roof again... Someone might be there again today."
+<ptT0261>"Talvez eu devesse ir ao telhado de novo... Pode ser que alguém esteja lá hoje."
 
 //TEXT
 <enT0262>This time I went directly up to the roof from within the building.
-<ptT0262>This time I went directly up to the roof from within the building.
+<ptT0262>Dessa vez, subi diretamente para o telhado a partir do interior do prédio.
 
 //TEXT
 <enT0263>There's a ladder that connects the foundation to the roof of the new building.
-<ptT0263>There's a ladder that connects the foundation to the roof of the new building.
+<ptT0263>Existe uma escada que liga a fundação ao telhado do novo edifício.
 
 //TEXT
 <enT0264>The new building. In other words, Building C...
-<ptT0264>The new building. In other words, Building C...
+<ptT0264>O novo edifício. Em outras palavras, o prédio C...
 
 //TEXT
 <enT0265>The wind was cold... just like yesterday.
-<ptT0265>The wind was cold... just like yesterday.
+<ptT0265>O vento estava frio... exatamente como ontem.
 
 //TEXT
 <enT0266>This place is closer to the sky than Building A.
-<ptT0266>This place is closer to the sky than Building A.
+<ptT0266>Esse lugar está mais próximo do céu que o prédio A.
 
 //TEXT
 <enT0267>It's the highest place on campus.
-<ptT0267>It's the highest place on campus.
+<ptT0267>É o ponto mais alto do campus.
 
 //TEXT
 <enT0268>There was no one there...
-<ptT0268>There was no one there...
+<ptT0268>Não havia ninguém lá...
 
 //TEXT
 <enT0269>Today I really... don't feel anything.
-<ptT0269>Today I really... don't feel anything.
+<ptT0269>Hoje realmente... não sinto nada.
 
 //TEXT
 <enT0270>Is there really... nothing?
-<ptT0270>Is there really... nothing?
+<ptT0270>Será que realmente... não existe nada?
 
 //TEXT
 <enT0271>I already met with God yesterday, so...
-<ptT0271>I already met with God yesterday, so...
+<ptT0271>Eu já me encontrei com Deus ontem, então...
 
 //TEXT 【Takuji】
 <enT0272>"Huh?!"
@@ -1102,19 +1102,19 @@
 
 //TEXT 【Takuji】
 <enT0273>"Wh-Who is it?"
-<ptT0273>"Wh-Who is it?"
+<ptT0273>"Q-Quem é?"
 
 //TEXT
 <enT0274>Why is there someone here?
-<ptT0274>Why is there someone here?
+<ptT0274>Por que tem alguém aqui?
 
 //TEXT
 <enT0275>Building C is supposed to be completely closed off...
-<ptT0275>Building C is supposed to be completely closed off...
+<ptT0275>O prédio C deveria estar completamente isolado...
 
 //TEXT
 <enT0276>No one should be able to come here...
-<ptT0276>No one should be able to come here...
+<ptT0276>Ninguém deveria poder vir aqui...
 
 //TEXT
 <enT0277>Did someone follow me?

@@ -1,44 +1,9 @@
-///================================================================================
-
-//TEXT
-<enT0001>An endless up and down exercise.
-<ptT0001>An endless up and down exercise.
-
-//TEXT
-<enT0002>Infinite ejaculation.
-<ptT0002>Infinite ejaculation.
-
-//TEXT
-<enT0003>My home is saintly and my base is filthy.
-<ptT0003>My home is saintly and my base is filthy.
-
-//TEXT
-<enT0004>I go back and forth time and time again.
-<ptT0004>I go back and forth time and time again.
-
-//TEXT
-<enT0005>Around and around.
-<ptT0005>Around and around.
-
-//TEXT
-<enT0006>Around and around.
-<ptT0006>Around and around.
-
-//TEXT
-<enT0007>Around and around.
-<ptT0007>Around and around.
-
-//TEXT
-<enT0008>test end.
-<ptT0008>test end.
-
-///================================================================================
-
-//OTHER
-<enZ0001>Test.bss
-<ptZ0001>Test.bss
-
-//OTHER
-<enZ0002>guruguru
-<ptZ0002>guruguru
-
+<0>guruguru
+<1>An endless up and down exercise.
+<2>Infinite ejaculation.
+<3>My home is saintly and my base is filthy.
+<4>I go back and forth time and time again.
+<5>Around and around.
+<6>Around and around.
+<7>Around and around.
+<8>test end.

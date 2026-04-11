@@ -1,812 +1,285 @@
-///NAME
-<enN0001>Yuki
-<ptN0001>Yuki
-
-//NAME
-<enN0002>Takuji
-<ptN0002>Takuji
-
-///================================================================================
-
-//TEXT BACKLOG
-<enT0001>Oh! We have our pockets full.
-<ptT0001>Oh! Nossos bolsos estﾐo cheios.
-
-//TEXT BACKLOG
-<enT0002>Our lady-loves,―phantasms of our brains,
-<ptT0002>Nossas amadas, — fantasmas de nossas mentes,
-
-//TEXT BACKLOG
-<enT0003>―Dream-fancies blown into soap-bubbles!
-<ptT0003>— Fantasias de sonhos sopradas como bolhas de sabﾐo!
-
-//TEXT BACKLOG
-<enT0004>Come! Take it,
-<ptT0004>Venha! Pegue,
-
-//TEXT BACKLOG
-<enT0005>and change 
-<ptT0005>e transforme 
-
-//TEXT BACKLOG
-<enT0006>feigned love-words into true.
-<ptT0006>falsas palavras de amor em verdadeiras.
-
-//TEXT BACKLOG
-<enT0007>I breathed my sighs and moans haphazard-wise;
-<ptT0007>Suspirei e gemi ao acaso;
-
-//TEXT BACKLOG
-<enT0008>Call all these wandering love-birds home to nest.
-<ptT0008>Chame todos esses pｬssaros do amor errantes de volta ao ninho.
-
-//TEXT BACKLOG
-<enT0009>Come! Take it.
-<ptT0009>Venha! Pegue.
-
-//TEXT BACKLOG
-<enT0010>You'll see that I was in these lettered lines,
-<ptT0010>Vocﾂ verｬ que eu estava nestas linhas letradas,
-
-//TEXT BACKLOG
-<enT0011>―Eloquent all the more, the less sincere!
-<ptT0011>— Tﾐo mais eloquente quanto menos sincero!
-
-//TEXT BACKLOG
-<enT0012>―Take it, and make an end!
-<ptT0012>— Pegue, e dﾂ um fim a isso!
-
-//TEXT BACKLOG
-<enT0013>Edmond Rostand
-<ptT0013>Edmond Rostand
-
-//TEXT BACKLOG
-<enT0014>"Cyrano de Bergerac"
-<ptT0014>"Cyrano de Bergerac"
-
-//TEXT BACKLOG
-<enT0015>
-<ptT0015>
-
-//TEXT
-<enT0016>A Friday afternoon.
-<ptT0016>Uma tarde de sexta-feira.
-
-//TEXT
-<enT0017>They're the final hours of the week, and because of that, the busiest.
-<ptT0017>Sﾐo as ｶltimas horas da semana e, por causa disso, as mais caｺticas.
-
-//TEXT
-<enT0018>I was on a rooftop that overlooked a station crowded with people.
-<ptT0018>Eu estava num terraﾔo com vista para uma estaﾔﾐo lotada de pessoas.
-
-//TEXT
-<enT0019>Seeing all those people caught within the city's turmoil made the location seem so serene.
-<ptT0019>Ver toda essa gente presa no tumulto da cidade fazia este lugar parecer tﾐo sereno.
-
-//TEXT
-<enT0020>Anyone loafing around in such a spot at this time of day...
-<ptT0020>Qualquer um vadiando por aqui a essa hora do dia...
-
-//TEXT
-<enT0021>Was either cutting class, a NEET, or me.
-<ptT0021>Ou estava matando aula, era um NEET, ou era eu.
-
-//TEXT
-<enT0022>"Haa..."
-<ptT0022>"Haa..."
-
-//TEXT
-<enT0023>"All a woman needs in life are
-<ptT0023>"Tudo que uma mulher precisa na vida sﾐo
-
-//TEXT
-<enT0024> cigarettes,
-<ptT0024> cigarros,
-
-//TEXT
-<enT0025> a roof,
-<ptT0025> um teto,
-
-//TEXT
-<enT0026> and
-<ptT0026> e
-
-//TEXT
-<enT0027> a frilly dress, right?"
-<ptT0027> um vestido cheio de babados, nｸ?"
-
-//TEXT
-<enT0028>This brand of cigarettes isn't very popular, but I prefer the kind no one else smokes.
-<ptT0028>Essa marca de cigarros nﾐo ｸ lｬ muito popular, mas eu prefiro os tipos que ninguｸm mais fuma.
-
-//TEXT
-<enT0029>A Friday sky.
-<ptT0029>Um cｸu de sexta-feira.
-
-//TEXT
-<enT0030>The sky didn't care that it was the weekend. It hadn't changed one bit.
-<ptT0030>O cｸu nﾐo se importava que fosse fim de semana. Nﾐo havia mudado nem um pouco.
-
-//TEXT
-<enT0031>Though I suppose that's to be expected. It would be a problem if the sky changed every week.
-<ptT0031>Acho que isso ｸ de se esperar. Seria um problema se o cｸu mudasse toda semana.
-
-//TEXT
-<enT0032>A crisis suddenly hitting us after every weekend! Hah. What kind of anime or manga would that be from?
-<ptT0032>Uma crise nos atingindo de repente depois de todo fim de semana! Hah. De que tipo de anime ou mangｬ seria isso?
-
-//TEXT
-<enT0033>A very ordinary weekend.
-<ptT0033>Um fim de semana muito comum.
-
-//TEXT
-<enT0034>Underneath this sky.
-<ptT0034>Sob este cｸu.
-
-//TEXT
-<enT0035>It was, in a way, inevitable that we'd meet.
-<ptT0035>Foi, de certa forma, inevitｬvel que a gente se encontrasse.
-
-//TEXT
-<enT0036>It was, in a way, inevitable that we'd pass each other by.
-<ptT0036>Foi, de certa forma, inevitｬvel que passｬssemos um pelo outro.
-
-//TEXT
-<enT0037>He and I met here.
-<ptT0037>Ele e eu nos encontramos aqui.
-
-//TEXT
-<enT0038>And we passed each other by.
-<ptT0038>E passamos um pelo outro.
-
-//TEXT
-<enT0039>Even at the very beginning, and even in the future, he and I would never walk the same path.
-<ptT0039>Mesmo no comeﾔo de tudo, e mesmo no futuro, ele e eu nunca andarｮamos pelo mesmo caminho.
-
-//TEXT
-<enT0040>It was inevitable that we wouldn't.
-<ptT0040>Era inevitｬvel que nﾐo andｬssemos.
-
-//TEXT
-<enT0041>Underneath a Friday sky.
-<ptT0041>Sob um cｸu de sexta-feira.
-
-//TEXT
-<enT0042>The weekend wouldn't be the end of the world.
-<ptT0042>O fim de semana nﾐo seria o fim do mundo.
-
-//TEXT
-<enT0043>It would be a very ordinary weekend.
-<ptT0043>Seria um fim de semana muito comum.
-
-//TEXT
-<enT0044>He was there.
-<ptT0044>Ele estava lｬ.
-
-//TEXT
-<enT0045>When I turned around, I saw an unfamiliar face.
-<ptT0045>Quando me virei, vi um rosto desconhecido.
-
-//TEXT
-<enT0046>No. Upon closer inspection, it was a face I recognized.
-<ptT0046>Nﾐo. Observando mais de perto, era um rosto que eu reconhecia.
-
-//TEXT
-<enT0047>We were both in the same class at school. He sat three seats diagonally ahead of me. His name was...
-<ptT0047>Nｺs somos da mesma sala na escola. Ele senta trﾂs carteiras na diagonal à minha frente. O nome dele era...
-
-//TEXT 【Yuki】
-<enT0048>"Mamiya Takuji."
-<ptT0048>"Mamiya Takuji."
-
-//TEXT 【Takuji】
-<enT0049>"Why are you here?"
-<ptT0049>"Por que vocﾂ estｬ aqui?"
-
-//TEXT 【Yuki】
-<enT0050>"..."
-<ptT0050>"..."
-
-//TEXT 【Yuki】
-<enT0051>"What's it matter to you?"
-<ptT0051>"O que isso importa pra vocﾂ?"
-
-//TEXT 【Takuji】
-<enT0052>"Oh, no. I didn't mean it like that."
-<ptT0052>"A-Ah, nﾐo. Eu nﾐo quis dizer nesse sentido."
-
-//TEXT 【Yuki】
-<enT0053>"Where I go is none of your business."
-<ptT0053>"Aonde eu vou nﾐo ｸ da sua conta."
-
-//TEXT 【Takuji】
-<enT0054>"W-Well, that's true, but..."
-<ptT0054>"B-Bom, isso ｸ verdade, mas..."
-
-//TEXT 【Yuki】
-<enT0055>"..."
-<ptT0055>"..."
-
-//TEXT 【Yuki】
-<enT0056>"I have to say I'm surprised."
-<ptT0056>"Tenho que admitir, estou surpresa."
-
-//TEXT 【Takuji】
-<enT0057>"Huh? Why's that?"
-<ptT0057>"Hﾐ? P-Por quﾂ?"
-
-//TEXT 【Yuki】
-<enT0058>"I never would have imagined that you could work up the courage to talk to a girl you didn't know."
-<ptT0058>"Nunca imaginaria que vocﾂ conseguiria reunir coragem para falar com uma garota desconhecida."
-
-//TEXT 【Takuji】
-<enT0059>"W-Well, that's..."
-<ptT0059>"B-Bem, isso..."
-
-//TEXT 【Yuki】
-<enT0060>"Sorry, I take that back."
-<ptT0060>"Foi mal, retiro o que eu disse."
-
-//TEXT 【Takuji】
-<enT0061>"Huh?"
-<ptT0061>"Hﾐ?"
-
-//TEXT 【Yuki】
-<enT0062>"I never would have imagined that you could work up the courage to talk to anyone you didn't know, regardless of their gender."
-<ptT0062>"Nunca imaginaria que vocﾂ conseguiria reunir coragem para falar com qualquer desconhecido, independente do gﾂnero."
-
-//TEXT 【Takuji】
-<enT0063>"Th-That's not..."
-<ptT0063>"I-Isso nﾐo ｸ..."
-
-//TEXT 【Yuki】
-<enT0064>"Not what?"
-<ptT0064>"Nﾐo ｸ o quﾂ?"
-
-//TEXT 【Takuji】
-<enT0065>"Not completely untrue."
-<ptT0065>"Nﾐo ｸ completamente mentira."
-
-//TEXT 【Yuki】
-<enT0066>"Nevertheless, you did manage to talk to me."
-<ptT0066>"Ainda assim, vocﾂ conseguiu falar comigo."
-
-//TEXT 【Takuji】
-<enT0067>"W-Well..."
-<ptT0067>"B-Bom..."
-
-//TEXT 【Yuki】
-<enT0068>"Well?"
-<ptT0068>"Bom?"
-
-//TEXT 【Takuji】
-<enT0069>"..."
-<ptT0069>"..."
-
-//TEXT 【Yuki】
-<enT0070>"The silent treatment, huh? Oh, that's right. Mamiya-kun."
-<ptT0070>"Tratamento de silﾂncio, ｸ? Ah, ｸ verdade. Mamiya-kun."
-
-//TEXT 【Takuji】
-<enT0071>"Y-Yes?"
-<ptT0071>"S-Sim?"
-
-//TEXT 【Yuki】
-<enT0072>"Do you smoke 'Never Knows Best' or anything like that?"
-<ptT0072>"Vocﾂ fuma 'Never Knows Best' ou algo do tipo?"
-
-//TEXT 【Takuji】
-<enT0073>"Ah, no. Tobacco is kind of..."
-<ptT0073>"A-Ah, nﾐo. Tabaco ｸ meio..."
-
-//TEXT 【Yuki】
-<enT0074>"Oh. You don't smoke."
-<ptT0074>"Ah. Vocﾂ nﾐo fuma."
-
-//TEXT 【Takuji】
-<enT0075>"Yeah."
-<ptT0075>"S-Sim."
-
-//TEXT 【Yuki】
-<enT0076>"But I get it. I know why you talked to me."
-<ptT0076>"Mas eu entendo. Eu sei por que vocﾂ falou comigo."
-
-//TEXT 【Takuji】
-<enT0077>"Huh?"
-<ptT0077>"Hﾐ?"
-
-//TEXT 【Yuki】
-<enT0078>"You know, I wonder how long I've been here."
-<ptT0078>"Sabe, me pergunto hｬ quanto tempo estou aqui."
-
-//TEXT 【Yuki】
-<enT0079>"How long I've been me."
-<ptT0079>"Hｬ quanto tempo sou eu mesma."
-
-//TEXT 【Takuji】
-<enT0080>"U-Um..."
-<ptT0080>"H-Hum..."
-
-//TEXT 【Yuki】
-<enT0081>"Just kidding."
-<ptT0081>"Tﾄ brincando."
-
-//TEXT 【Takuji】
-<enT0082>"R-Right..."
-<ptT0082>"C-Certo..."
-
-//TEXT 【Takuji】
-<enT0083>"..."
-<ptT0083>"..."
-
-//TEXT 【Takuji】
-<enT0084>"Minakami-san, how long have you been here?"
-<ptT0084>"Minakami-san, hｬ quanto tempo vocﾂ estｬ aqui?"
-
-//TEXT 【Yuki】
-<enT0085>"How about you? How long have you been there?"
-<ptT0085>"E vocﾂ? Hｬ quanto tempo estｬ aｮ?"
-
-//TEXT 【Takuji】
-<enT0086>"I-I've been here a long time."
-<ptT0086>"E-Eu estou aqui hｬ muito tempo."
-
-//TEXT 【Yuki】
-<enT0087>"Oh. I've been here for quite a while too, but I never noticed you."
-<ptT0087>"Sｸrio. Eu estou aqui hｬ um bom tempo tambｸm, mas nunca te notei."
-
-//TEXT 【Takuji】
-<enT0088>"I-I don't really stand out very much."
-<ptT0088>"E-Eu realmente nﾐo me destaco muito."
-
-//TEXT 【Yuki】
-<enT0089>"You're right about that. You don't leave much of an impression."
-<ptT0089>"Isso ｸ verdade. Vocﾂ nﾐo deixa impressﾐo nenhuma."
-
-//TEXT 【Takuji】
-<enT0090>"What were you looking at from up here?"
-<ptT0090>"O que vocﾂ estava olhando daqui de cima?"
-
-//TEXT 【Yuki】
-<enT0091>"Nothing, really. I was looking at the sky."
-<ptT0091>"Nada, na verdade. Eu estava olhando para o cｸu."
-
-//TEXT 【Takuji】
-<enT0092>"I see."
-<ptT0092>"E-Entendi."
-
-//TEXT 【Yuki】
-<enT0093>"You know, if God..."
-<ptT0093>"Sabe, se Deus..."
-
-//TEXT 【Takuji】
-<enT0094>"Huh?"
-<ptT0094>"Hﾐ?"
-
-//TEXT 【Yuki】
-<enT0095>"Ah, sorry. It's nothing."
-<ptT0095>"Ah, foi mal. Nﾐo ｸ nada."
-
-//TEXT 【Takuji】
-<enT0096>"God?"
-<ptT0096>"Deus?"
-
-//TEXT 【Yuki】
-<enT0097>"Well... Don't worry about it."
-<ptT0097>"Bem... Nﾐo esquenta com isso."
-
-//TEXT
-<enT0098>Why did I suddenly utter the word "God"?
-<ptT0098>Por que eu de repente soltei a palavra "Deus"?
-
-//TEXT
-<enT0099>It's not like a god exists in this world.
-<ptT0099>Nﾐo ｸ como se existisse um deus neste mundo.
-
-//TEXT
-<enT0100>I wonder why.
-<ptT0100>Me pergunto o porquﾂ.
-
-//TEXT
-<enT0101>When I looked up at the blue sky, that word just came out.
-<ptT0101>Quando olhei para aquele cｸu azul, a palavra simplesmente saiu.
-
-//TEXT
-<enT0102>God, huh?
-<ptT0102>Deus, hein?
-
-//TEXT
-<enT0103>That's something unrelated to me, of course.
-<ptT0103>Isso ｸ algo que nﾐo tem nada a ver comigo, claro.
-
-//TEXT 【Yuki】
-<enT0104>"Ah..."
-<ptT0104>"Ah..."
-
-//TEXT 【Yuki】
-<enT0105>"What the hell? He left."
-<ptT0105>"Que merda? Ele foi embora."
-
-//TEXT 【Yuki】
-<enT0106>"He really doesn't stand out, though."
-<ptT0106>"Ele realmente nﾐo chama nenhuma atenﾔﾐo, no entanto."
-
-//TEXT
-<enT0107>Before I knew it, Mamiya Takuji had already vanished.
-<ptT0107>Antes que eu percebesse, Mamiya Takuji jｬ havia desaparecido.
-
-//TEXT
-<enT0108>Which left me all alone, looking out from under this sky.
-<ptT0108>O que me deixou completamente sozinha, observando sob este cｸu.
-
-//TEXT
-<enT0109>Looking at this world...
-<ptT0109>Olhando para este mundo...
-
-///================================================================================
-
-//OTHER
-<enZ0001>1-1_0710_Dream.bss
-<ptZ0001>1-1_0710_Dream.bss
-
-//OTHER
-<enZ0002>Prologue
-<ptZ0002>Prologue
-
-//OTHER
-<enZ0003>
-<ptZ0003>
-
-//OTHER
-<enZ0004>bgm003
-<ptZ0004>bgm003
-
-//OTHER
-<enZ0005>map023
-<ptZ0005>map023
-
-//OTHER
-<enZ0006>sp0002a
-<ptZ0006>sp0002a
-
-//OTHER
-<enZ0007>map005
-<ptZ0007>map005
-
-//OTHER
-<enZ0008>sp0002b
-<ptZ0008>sp0002b
-
-//OTHER
-<enZ0009>sp0002c
-<ptZ0009>sp0002c
-
-//OTHER
-<enZ0010>sp0002d
-<ptZ0010>sp0002d
-
-//OTHER
-<enZ0011>sp0002e
-<ptZ0011>sp0002e
-
-//OTHER
-<enZ0012>sp0002f
-<ptZ0012>sp0002f
-
-//OTHER
-<enZ0013>sp0002g
-<ptZ0013>sp0002g
-
-//OTHER
-<enZ0014>sp0002h
-<ptZ0014>sp0002h
-
-//OTHER
-<enZ0015>sp0002h2
-<ptZ0015>sp0002h2
-
-//OTHER
-<enZ0016>sp0002i
-<ptZ0016>sp0002i
-
-//OTHER
-<enZ0017>sp0002j
-<ptZ0017>sp0002j
-
-//OTHER
-<enZ0018>sp0002j2
-<ptZ0018>sp0002j2
-
-//OTHER
-<enZ0019>sp0002k
-<ptZ0019>sp0002k
-
-//OTHER
-<enZ0020>sp0002l
-<ptZ0020>sp0002l
-
-//OTHER
-<enZ0021>black
-<ptZ0021>black
-
-//OTHER
-<enZ0022>se503
-<ptZ0022>se503
-
-//OTHER
-<enZ0023>ev0001_l
-<ptZ0023>ev0001_l
-
-//OTHER
-<enZ0024>se200
-<ptZ0024>se200
-
-//OTHER
-<enZ0025>yuki_000001
-<ptZ0025>yuki_000001
-
-//OTHER
-<enZ0026>yuki_000002_a
-<ptZ0026>yuki_000002_a
-
-//OTHER
-<enZ0027>yuki_000002_b
-<ptZ0027>yuki_000002_b
-
-//OTHER
-<enZ0028>yuki_000002_c
-<ptZ0028>yuki_000002_c
-
-//OTHER
-<enZ0029>yuki_000002_d
-<ptZ0029>yuki_000002_d
-
-//OTHER
-<enZ0030>bgm017
-<ptZ0030>bgm017
-
-//OTHER
-<enZ0031>ev0001
-<ptZ0031>ev0001
-
-//OTHER
-<enZ0032>ev6001a
-<ptZ0032>ev6001a
-
-//OTHER
-<enZ0033>yuki_000003
-<ptZ0033>yuki_000003
-
-//OTHER
-<enZ0034>taku_000001
-<ptZ0034>taku_000001
-
-//OTHER
-<enZ0035>yuki_000004
-<ptZ0035>yuki_000004
-
-//OTHER
-<enZ0036>yuki_000005
-<ptZ0036>yuki_000005
-
-//OTHER
-<enZ0037>taku_000002
-<ptZ0037>taku_000002
-
-//OTHER
-<enZ0038>yuki_000006
-<ptZ0038>yuki_000006
-
-//OTHER
-<enZ0039>taku_000003
-<ptZ0039>taku_000003
-
-//OTHER
-<enZ0040>yuki_000007
-<ptZ0040>yuki_000007
-
-//OTHER
-<enZ0041>yuki_000008
-<ptZ0041>yuki_000008
-
-//OTHER
-<enZ0042>taku_000004
-<ptZ0042>taku_000004
-
-//OTHER
-<enZ0043>yuki_000009
-<ptZ0043>yuki_000009
-
-//OTHER
-<enZ0044>taku_000005
-<ptZ0044>taku_000005
-
-//OTHER
-<enZ0045>yuki_000010
-<ptZ0045>yuki_000010
-
-//OTHER
-<enZ0046>taku_000006
-<ptZ0046>taku_000006
-
-//OTHER
-<enZ0047>yuki_000011
-<ptZ0047>yuki_000011
-
-//OTHER
-<enZ0048>taku_000007
-<ptZ0048>taku_000007
-
-//OTHER
-<enZ0049>yuki_000012
-<ptZ0049>yuki_000012
-
-//OTHER
-<enZ0050>taku_000008
-<ptZ0050>taku_000008
-
-//OTHER
-<enZ0051>yuki_000013
-<ptZ0051>yuki_000013
-
-//OTHER
-<enZ0052>taku_000009
-<ptZ0052>taku_000009
-
-//OTHER
-<enZ0053>yuki_000014
-<ptZ0053>yuki_000014
-
-//OTHER
-<enZ0054>taku_000010
-<ptZ0054>taku_000010
-
-//OTHER
-<enZ0055>yuki_000015
-<ptZ0055>yuki_000015
-
-//OTHER
-<enZ0056>taku_000011
-<ptZ0056>taku_000011
-
-//OTHER
-<enZ0057>yuki_000016
-<ptZ0057>yuki_000016
-
-//OTHER
-<enZ0058>taku_000012
-<ptZ0058>taku_000012
-
-//OTHER
-<enZ0059>yuki_000017
-<ptZ0059>yuki_000017
-
-//OTHER
-<enZ0060>taku_000013
-<ptZ0060>taku_000013
-
-//OTHER
-<enZ0061>yuki_000018
-<ptZ0061>yuki_000018
-
-//OTHER
-<enZ0062>taku_000014
-<ptZ0062>taku_000014
-
-//OTHER
-<enZ0063>yuki_000019
-<ptZ0063>yuki_000019
-
-//OTHER
-<enZ0064>yuki_000020
-<ptZ0064>yuki_000020
-
-//OTHER
-<enZ0065>taku_000015
-<ptZ0065>taku_000015
-
-//OTHER
-<enZ0066>yuki_000021
-<ptZ0066>yuki_000021
-
-//OTHER
-<enZ0067>taku_000016
-<ptZ0067>taku_000016
-
-//OTHER
-<enZ0068>taku_000017
-<ptZ0068>taku_000017
-
-//OTHER
-<enZ0069>taku_000018
-<ptZ0069>taku_000018
-
-//OTHER
-<enZ0070>yuki_000022
-<ptZ0070>yuki_000022
-
-//OTHER
-<enZ0071>taku_000019
-<ptZ0071>taku_000019
-
-//OTHER
-<enZ0072>yuki_000023
-<ptZ0072>yuki_000023
-
-//OTHER
-<enZ0073>taku_000020
-<ptZ0073>taku_000020
-
-//OTHER
-<enZ0074>yuki_000024
-<ptZ0074>yuki_000024
-
-//OTHER
-<enZ0075>taku_000021
-<ptZ0075>taku_000021
-
-//OTHER
-<enZ0076>yuki_000025
-<ptZ0076>yuki_000025
-
-//OTHER
-<enZ0077>taku_000022
-<ptZ0077>taku_000022
-
-//OTHER
-<enZ0078>yuki_000026
-<ptZ0078>yuki_000026
-
-//OTHER
-<enZ0079>taku_000023
-<ptZ0079>taku_000023
-
-//OTHER
-<enZ0080>yuki_000027
-<ptZ0080>yuki_000027
-
-//OTHER
-<enZ0081>taku_000024
-<ptZ0081>taku_000024
-
-//OTHER
-<enZ0082>yuki_000028
-<ptZ0082>yuki_000028
-
-//OTHER
-<enZ0083>sp0008a
-<ptZ0083>sp0008a
-
-//OTHER
-<enZ0084>ev6001b
-<ptZ0084>ev6001b
-
-//OTHER
-<enZ0085>yuki_000029
-<ptZ0085>yuki_000029
-
-//OTHER
-<enZ0086>yuki_000030
-<ptZ0086>yuki_000030
-
-//OTHER
-<enZ0087>yuki_000031
-<ptZ0087>yuki_000031
-
-//OTHER
-<enZ0088>map034
-<ptZ0088>map034
-
-//OTHER
-<enZ0089>white
-<ptZ0089>white
-
-//OTHER
-<enZ0090>sp0001a
-<ptZ0090>sp0001a
-
-//OTHER
-<enZ0091>1-1_0712_Dream
-<ptZ0091>1-1_0712_Dream
-
+<0>Prologue
+<1>
+<2>bgm003
+<3>map023
+<4>sp0002a
+<5>map005
+<6>sp0002b
+<7>map005
+<8>sp0002c
+<9>map005
+<10>sp0002d
+<11>map023
+<12>sp0002a
+<13>map005
+<14>sp0002e
+<15>map005
+<16>sp0002f
+<17>map005
+<18>sp0002g
+<19>map023
+<20>sp0002a
+<21>map005
+<22>sp0002h
+<23>map005
+<24>sp0002h2
+<25>map023
+<26>sp0002a
+<27>map005
+<28>sp0002i
+<29>map023
+<30>sp0002a
+<31>map005
+<32>sp0002j
+<33>map005
+<34>sp0002j2
+<35>map023
+<36>sp0002a
+<37>map005
+<38>sp0002k
+<39>map005
+<40>sp0002a
+<41>map005
+<42>sp0002l
+<43>map023
+<44>Oh! We have our pockets full.
+<45>Our lady-loves,―phantasms of our brains,
+<46>―Dream-fancies blown into soap-bubbles!
+<47>Come! Take it,
+<48>and change 
+<49>feigned love-words into true.
+<50>I breathed my sighs and moans haphazard-wise;
+<51>Call all these wandering love-birds home to nest.
+<52>Come! Take it.
+<53>You'll see that I was in these lettered lines,
+<54>―Eloquent all the more, the less sincere!
+<55>―Take it, and make an end!
+<56>Edmond Rostand
+<57>"Cyrano de Bergerac"
+<58>
+<59>black
+<60>se503
+<61>A Friday afternoon.
+<62>ev0001_l
+<63>They're the final hours of the week, and because of that, the busiest.
+<64>I was on a rooftop that overlooked a station crowded with people.
+<65>Seeing all those people caught within the city's turmoil made the location seem so serene.
+<66>Anyone loafing around in such a spot at this time of day...
+<67>Was either cutting class, a NEET, or me.
+<68>se200
+<69>yuki_000001
+<70>"Haa..."
+<71>yuki_000002_a
+<72>"All a woman needs in life are
+<73>ev0001_l
+<74>yuki_000002_b
+<75> cigarettes,
+<76>ev0001_l
+<77>yuki_000002_c
+<78> a roof,
+<79>yuki_000002_d
+<80> and
+<81>ev0001_l
+<82> a frilly dress, right?"
+<83>ev0001_l
+<84>This brand of cigarettes isn't very popular, but I prefer the kind no one else smokes.
+<85>bgm017
+<86>ev0001
+<87>A Friday sky.
+<88>The sky didn't care that it was the weekend. It hadn't changed one bit.
+<89>Though I suppose that's to be expected. It would be a problem if the sky changed every week.
+<90>A crisis suddenly hitting us after every weekend! Hah. What kind of anime or manga would that be from?
+<91>A very ordinary weekend.
+<92>Underneath this sky.
+<93>It was, in a way, inevitable that we'd meet.
+<94>It was, in a way, inevitable that we'd pass each other by.
+<95>He and I met here.
+<96>And we passed each other by.
+<97>Even at the very beginning, and even in the future, he and I would never walk the same path.
+<98>It was inevitable that we wouldn't.
+<99>Underneath a Friday sky.
+<100>The weekend wouldn't be the end of the world.
+<101>It would be a very ordinary weekend.
+<102>He was there.
+<103>map005
+<104>ev6001a
+<105>When I turned around, I saw an unfamiliar face.
+<106>No. Upon closer inspection, it was a face I recognized.
+<107>We were both in the same class at school. He sat three seats diagonally ahead of me. His name was...
+<108>yuki_000003
+<109>Yuki
+<110>"Mamiya Takuji."
+<111>taku_000001
+<112>Takuji
+<113>"Why are you here?"
+<114>yuki_000004
+<115>Yuki
+<116>"..."
+<117>yuki_000005
+<118>Yuki
+<119>"What's it matter to you?"
+<120>taku_000002
+<121>Takuji
+<122>"Oh, no. I didn't mean it like that."
+<123>yuki_000006
+<124>Yuki
+<125>"Where I go is none of your business."
+<126>taku_000003
+<127>Takuji
+<128>"W-Well, that's true, but..."
+<129>yuki_000007
+<130>Yuki
+<131>"..."
+<132>yuki_000008
+<133>Yuki
+<134>"I have to say I'm surprised."
+<135>taku_000004
+<136>Takuji
+<137>"Huh? Why's that?"
+<138>yuki_000009
+<139>Yuki
+<140>"I never would have imagined that you could work up the courage to talk to a girl you didn't know."
+<141>taku_000005
+<142>Takuji
+<143>"W-Well, that's..."
+<144>yuki_000010
+<145>Yuki
+<146>"Sorry, I take that back."
+<147>taku_000006
+<148>Takuji
+<149>"Huh?"
+<150>yuki_000011
+<151>Yuki
+<152>"I never would have imagined that you could work up the courage to talk to anyone you didn't know, regardless of their gender."
+<153>taku_000007
+<154>Takuji
+<155>"Th-That's not..."
+<156>yuki_000012
+<157>Yuki
+<158>"Not what?"
+<159>taku_000008
+<160>Takuji
+<161>"Not completely untrue."
+<162>yuki_000013
+<163>Yuki
+<164>"Nevertheless, you did manage to talk to me."
+<165>taku_000009
+<166>Takuji
+<167>"W-Well..."
+<168>yuki_000014
+<169>Yuki
+<170>"Well?"
+<171>taku_000010
+<172>Takuji
+<173>"..."
+<174>yuki_000015
+<175>Yuki
+<176>"The silent treatment, huh? Oh, that's right. Mamiya-kun."
+<177>taku_000011
+<178>Takuji
+<179>"Y-Yes?"
+<180>yuki_000016
+<181>Yuki
+<182>"Do you smoke 'Never Knows Best' or anything like that?"
+<183>taku_000012
+<184>Takuji
+<185>"Ah, no. Tobacco is kind of..."
+<186>yuki_000017
+<187>Yuki
+<188>"Oh. You don't smoke."
+<189>taku_000013
+<190>Takuji
+<191>"Yeah."
+<192>yuki_000018
+<193>Yuki
+<194>"But I get it. I know why you talked to me."
+<195>taku_000014
+<196>Takuji
+<197>"Huh?"
+<198>yuki_000019
+<199>Yuki
+<200>"You know, I wonder how long I've been here."
+<201>yuki_000020
+<202>Yuki
+<203>"How long I've been me."
+<204>taku_000015
+<205>Takuji
+<206>"U-Um..."
+<207>yuki_000021
+<208>Yuki
+<209>"Just kidding."
+<210>taku_000016
+<211>Takuji
+<212>"R-Right..."
+<213>taku_000017
+<214>Takuji
+<215>"..."
+<216>taku_000018
+<217>Takuji
+<218>"Minakami-san, how long have you been here?"
+<219>yuki_000022
+<220>Yuki
+<221>"How about you? How long have you been there?"
+<222>taku_000019
+<223>Takuji
+<224>"I-I've been here a long time."
+<225>yuki_000023
+<226>Yuki
+<227>"Oh. I've been here for quite a while too, but I never noticed you."
+<228>taku_000020
+<229>Takuji
+<230>"I-I don't really stand out very much."
+<231>yuki_000024
+<232>Yuki
+<233>"You're right about that. You don't leave much of an impression."
+<234>taku_000021
+<235>Takuji
+<236>"What were you looking at from up here?"
+<237>yuki_000025
+<238>Yuki
+<239>"Nothing, really. I was looking at the sky."
+<240>taku_000022
+<241>Takuji
+<242>"I see."
+<243>yuki_000026
+<244>Yuki
+<245>"You know, if God..."
+<246>taku_000023
+<247>Takuji
+<248>"Huh?"
+<249>yuki_000027
+<250>Yuki
+<251>"Ah, sorry. It's nothing."
+<252>taku_000024
+<253>Takuji
+<254>"God?"
+<255>yuki_000028
+<256>Yuki
+<257>"Well... Don't worry about it."
+<258>Why did I suddenly utter the word "God"?
+<259>It's not like a god exists in this world.
+<260>I wonder why.
+<261>sp0008a
+<262>When I looked up at the blue sky, that word just came out.
+<263>God, huh?
+<264>That's something unrelated to me, of course.
+<265>ev6001b
+<266>yuki_000029
+<267>Yuki
+<268>"Ah..."
+<269>yuki_000030
+<270>Yuki
+<271>"What the hell? He left."
+<272>yuki_000031
+<273>Yuki
+<274>"He really doesn't stand out, though."
+<275>Before I knew it, Mamiya Takuji had already vanished.
+<276>ev0001
+<277>Which left me all alone, looking out from under this sky.
+<278>Looking at this world...
+<279>map034
+<280>white
+<281>map023
+<282>sp0001a
+<283>map023
+<284>1-1_0712_Dream

@@ -1,5544 +1,2105 @@
-//NAME
-<enN0001>Takuji
-<ptN0001>Takuji
-
-//NAME
-<enN0002>Kimika
-<ptN0002>Kimika
-
-//NAME
-<enN0003>Asumi
-<ptN0003>Asumi
-
-///================================================================================
-
-//TEXT
-<enT0001>"     ior."
-<ptT0001>"     ior."
-
-//TEXT
-<enT0002>"Ple   wa   up."
-<ptT0002>"Ple   wa   up."
-
-//TEXT 【Takuji】
-<enT0003>"Mm..."
-<ptT0003>"Mm..."
-
-//TEXT
-<enT0004>"Please wa   up."
-<ptT0004>"Please wa   up."
-
-//TEXT 【Takuji】
-<enT0005>"Mm..."
-<ptT0005>"Mm..."
-
-//TEXT
-<enT0006>"Please wake up."
-<ptT0006>"Please wake up."
-
-//TEXT 【Takuji】
-<enT0007>"...Where am I?"
-<ptT0007>"...Where am I?"
-
-//TEXT
-<enT0008>My memory is a little fuzzy...
-<ptT0008>My memory is a little fuzzy...
-
-//TEXT
-<enT0009>I always feel like this when I wake up... It's not something I'm all that worried about.
-<ptT0009>I always feel like this when I wake up... It's not something I'm all that worried about.
-
-//TEXT 【Kimika】
-<enT0010>"The ark."
-<ptT0010>"The ark."
-
-//TEXT 【Takuji】
-<enT0011>"The ark?"
-<ptT0011>"The ark?"
-
-//TEXT
-<enT0012>Ark? Ark... The school building's foundation is the ark?
-<ptT0012>Ark? Ark... The school building's foundation is the ark?
-
-//TEXT 【Takuji】
-<enT0013>"The ark, huh..."
-<ptT0013>"The ark, huh..."
-
-//TEXT
-<enT0014>More importantly...
-<ptT0014>More importantly...
-
-//TEXT 【Takuji】
-<enT0015>"More importantly..."
-<ptT0015>"More importantly..."
-
-//TEXT
-<enT0016>What time is it right now?
-<ptT0016>What time is it right now?
-
-//TEXT 【Takuji】
-<enT0017>"What time is it right now?"
-<ptT0017>"What time is it right now?"
-
-//TEXT 【Kimika】
-<enT0018>"Um, it's just after 2:00 p.m. on the 17th..."
-<ptT0018>"Um, it's just after 2:00 p.m. on the 17th..."
-
-//TEXT
-<enT0019>Two o'clock, huh... I slept too long.
-<ptT0019>Two o'clock, huh... I slept too long.
-
-//TEXT
-<enT0020>Even though I slept so long, I still feel tired.
-<ptT0020>Even though I slept so long, I still feel tired.
-
-//TEXT
-<enT0021>Well, I always feel like that.
-<ptT0021>Well, I always feel like that.
-
-//TEXT 【Takuji】
-<enT0022>"And last night?"
-<ptT0022>"And last night?"
-
-//TEXT 【Kimika】
-<enT0023>"Huh?"
-<ptT0023>"Huh?"
-
-//TEXT 【Takuji】
-<enT0024>"What about last night?"
-<ptT0024>"What about last night?"
-
-//TEXT 【Kimika】
-<enT0025>"What about last night, you said? You're not being very clear... who you're talking about."
-<ptT0025>"What about last night, you said? You're not being very clear... who you're talking about."
-
-//TEXT 【Takuji】
-<enT0026>"Oh, uh... I'm talking about me. Also, how was everyone else after I disappeared?"
-<ptT0026>"Oh, uh... I'm talking about me. Also, how was everyone else after I disappeared?"
-
-//TEXT 【Kimika】
-<enT0027>"So you want a status report? Well, after you went for a walk, they kept going at it like that."
-<ptT0027>"So you want a status report? Well, after you went for a walk, they kept going at it like that."
-
-//TEXT 【Takuji】
-<enT0028>"Like that..."
-<ptT0028>"Like that..."
-
-//TEXT 【Takuji】
-<enT0029>"What are they doing?"
-<ptT0029>"What are they doing?"
-
-//TEXT 【Kimika】
-<enT0030>"You told them to let Nishimura-kun fuck them. They've been doing that for ages."
-<ptT0030>"You told them to let Nishimura-kun fuck them. They've been doing that for ages."
-
-//TEXT 【Takuji】
-<enT0031>"Nishimura isn't there..."
-<ptT0031>"Nishimura isn't there..."
-
-//TEXT 【Kimika】
-<enT0032>"Oh, that's right. my savior."
-<ptT0032>"Oh, that's right. my savior."
-
-//TEXT 【Kimika】
-<enT0033>"Um, over there..."
-<ptT0033>"Um, over there..."
-
-//TEXT
-<enT0034>Tachibana pointed to the corner.
-<ptT0034>Tachibana pointed to the corner.
-
-//TEXT 【Kimika】
-<enT0035>"He kind of stopped moving after he had sex."
-<ptT0035>"He kind of stopped moving after he had sex."
-
-//TEXT 【Takuji】
-<enT0036>"Oh, I see."
-<ptT0036>"Oh, I see."
-
-//TEXT 【Kimika】
-<enT0037>"I think he just tired himself out and went too sleep, but he's so tired his heart isn't even beating anymore."
-<ptT0037>"I think he just tired himself out and went too sleep, but he's so tired his heart isn't even beating anymore."
-
-//TEXT 【Takuji】
-<enT0038>"So tired his heart isn't beating... Doesn't that mean he's just dead?"
-<ptT0038>"So tired his heart isn't beating... Doesn't that mean he's just dead?"
-
-//TEXT 【Kimika】
-<enT0039>"What should we do? Can you revive him with your powers?"
-<ptT0039>"What should we do? Can you revive him with your powers?"
-
-//TEXT 【Takuji】
-<enT0040>"There's no need."
-<ptT0040>"There's no need."
-
-//TEXT 【Kimika】
-<enT0041>"Really?"
-<ptT0041>"Really?"
-
-//TEXT 【Takuji】
-<enT0042>"He wanted to have sex so bad. After his wish came true, he didn't need to move anymore."
-<ptT0042>"He wanted to have sex so bad. After his wish came true, he didn't need to move anymore."
-
-//TEXT 【Kimika】
-<enT0043>"Oh, that's right. I remember you saying something like that, my savior."
-<ptT0043>"Oh, that's right. I remember you saying something like that, my savior."
-
-//TEXT 【Takuji】
-<enT0044>"I used his desire to have sex to heal his wounds. If he doesn't have the will to live anymore, of course he'll stop moving."
-<ptT0044>"I used his desire to have sex to heal his wounds. If he doesn't have the will to live anymore, of course he'll stop moving."
-
-//TEXT 【Takuji】
-<enT0045>"It's just a question of his willpower now."
-<ptT0045>"It's just a question of his willpower now."
-
-//TEXT 【Kimika】
-<enT0046>"Oh, that makes sense... He can't move because he doesn't have any willpower! That makes sense, though I get the feeling he's not the only one without any willpower."
-<ptT0046>"Oh, that makes sense... He can't move because he doesn't have any willpower! That makes sense, though I get the feeling he's not the only one without any willpower."
-
-//TEXT 【Takuji】
-<enT0047>"Yeah, of course."
-<ptT0047>"Yeah, of course."
-
-//TEXT 【Takuji】
-<enT0048>"Still, they haven't even slept. They're not getting bored of it at all."
-<ptT0048>"Still, they haven't even slept. They're not getting bored of it at all."
-
-//TEXT 【Kimika】
-<enT0049>"Yeah, they're not tired at all thanks to the savior's elixir."
-<ptT0049>"Yeah, they're not tired at all thanks to the savior's elixir."
-
-//TEXT 【Takuji】
-<enT0050>"Oh, that... That's an all-purpose potion."
-<ptT0050>"Oh, that... That's an all-purpose potion."
-
-//TEXT 【Takuji】
-<enT0051>"Then what about me?"
-<ptT0051>"Then what about me?"
-
-//TEXT 【Kimika】
-<enT0052>"Oh my... You don't remember?"
-<ptT0052>"Oh my... You don't remember?"
-
-//TEXT 【Takuji】
-<enT0053>"Yeah... This happens sometimes. Part of it is because of the Black Surge's attacks, but..."
-<ptT0053>"Yeah... This happens sometimes. Part of it is because of the Black Surge's attacks, but..."
-
-//TEXT 【Kimika】
-<enT0054>"Th-That's awful... You were so gentle last night..."
-<ptT0054>"Th-That's awful... You were so gentle last night..."
-
-//TEXT 【Takuji】
-<enT0055>"Eh? Do you mean I... with you?"
-<ptT0055>"Eh? Do you mean I... with you?"
-
-//TEXT 【Kimika】
-<enT0056>"Yes. You were so gentle when we danced together."
-<ptT0056>"Yes. You were so gentle when we danced together."
-
-//TEXT 【Takuji】
-<enT0057>"Huh?"
-<ptT0057>"Huh?"
-
-//TEXT 【Kimika】
-<enT0058>"You were like, 'Watch me dance, hey, hey!' and then you started dancing like crazy."
-<ptT0058>"You were like, 'Watch me dance, hey, hey!' and then you started dancing like crazy."
-
-//TEXT 【Takuji】
-<enT0059>"Dancing like crazy?"
-<ptT0059>"Dancing like crazy?"
-
-//TEXT 【Kimika】
-<enT0060>"Last night after you returned, you were in an incredibly good mood, my savior."
-<ptT0060>"Last night after you returned, you were in an incredibly good mood, my savior."
-
-//TEXT 【Takuji】
-<enT0061>"A good mood?"
-<ptT0061>"A good mood?"
-
-//TEXT 【Kimika】
-<enT0062>"Yes, and you sang us a song too."
-<ptT0062>"Yes, and you sang us a song too."
-
-//TEXT 【Takuji】
-<enT0063>"A song..."
-<ptT0063>"A song..."
-
-//TEXT
-<enT0064>Song... Rooftop...
-<ptT0064>Song... Rooftop...
-
-//TEXT
-<enT0065>I can vaguely remember it... I met with God. He was kind of like a scribble of an old man, though...
-<ptT0065>I can vaguely remember it... I met with God. He was kind of like a scribble of an old man, though...
-
-//TEXT
-<enT0066>And he sang...
-<ptT0066>And he sang...
-
-//TEXT
-<enT0067>God's song?
-<ptT0067>God's song?
-
-//TEXT
-<enT0068>I wonder...
-<ptT0068>I wonder...
-
-//TEXT
-<enT0069>I can't really remember it very well.
-<ptT0069>I can't really remember it very well.
-
-//TEXT 【Takuji】
-<enT0070>"A song, huh? Well, whatever... It really is noisy in here, though."
-<ptT0070>"A song, huh? Well, whatever... It really is noisy in here, though."
-
-//TEXT 【Kimika】
-<enT0071>"Noisy?"
-<ptT0071>"Noisy?"
-
-//TEXT 【Takuji】
-<enT0072>"It's them. Their orgy is noisy... They've been fucking this whole time?"
-<ptT0072>"It's them. Their orgy is noisy... They've been fucking this whole time?"
-
-//TEXT 【Kimika】
-<enT0073>"Yes. It's kind of funny how long they've been going... All of them are getting in on it."
-<ptT0073>"Yes. It's kind of funny how long they've been going... All of them are getting in on it."
-
-//TEXT 【Kimika】
-<enT0074>"Well, I did hear that drug made sex feel better... and it makes people lose track of time, too."
-<ptT0074>"Well, I did hear that drug made sex feel better... and it makes people lose track of time, too."
-
-//TEXT 【Takuji】
-<enT0075>"I see. So that's what it was..."
-<ptT0075>"I see. So that's what it was..."
-
-//TEXT 【Kimika】
-<enT0076>"Yes."
-<ptT0076>"Yes."
-
-//TEXT 【Takuji】
-<enT0077>"Hmm... Well, it doesn't really matter."
-<ptT0077>"Hmm... Well, it doesn't really matter."
-
-//TEXT
-<enT0078>I have a headache.
-<ptT0078>I have a headache.
-
-//TEXT
-<enT0079>It must be the holy water's fault.
-<ptT0079>It must be the holy water's fault.
-
-//TEXT
-<enT0080>That holy water was originally a drug you would dip paper in and use. It's incredibly potent even with a small amount.
-<ptT0080>That holy water was originally a drug you would dip paper in and use. It's incredibly potent even with a small amount.
-
-//TEXT
-<enT0081>I scattered the untreated drug over the crowd, so of course they'd get headaches.
-<ptT0081>I scattered the untreated drug over the crowd, so of course they'd get headaches.
-
-//TEXT
-<enT0082>But I purified mine with the Holy Surge first, so why am I getting a headache?
-<ptT0082>But I purified mine with the Holy Surge first, so why am I getting a headache?
-
-//TEXT
-<enT0083>Actually, I have a bump...
-<ptT0083>Actually, I have a bump...
-
-//TEXT
-<enT0084>Maybe I just hit my head?
-<ptT0084>Maybe I just hit my head?
-
-//TEXT
-<enT0085>I don't remember last night at all.
-<ptT0085>I don't remember last night at all.
-
-//TEXT 【Takuji】
-<enT0086>"Now that I think of it... where's Kiyokawa?"
-<ptT0086>"Now that I think of it... where's Kiyokawa?"
-
-//TEXT 【Kimika】
-<enT0087>"Kiyokawa? Oh, you mean the toilet?"
-<ptT0087>"Kiyokawa? Oh, you mean the toilet?"
-
-//TEXT 【Takuji】
-<enT0088>"Y-You're... pretty awful..."
-<ptT0088>"Y-You're... pretty awful..."
-
-//TEXT 【Kimika】
-<enT0089>"What are you talking about, my savior? You're the one who gave her that name."
-<ptT0089>"What are you talking about, my savior? You're the one who gave her that name."
-
-//TEXT 【Takuji】
-<enT0090>"Well, I guess I did... So, where is she?"
-<ptT0090>"Well, I guess I did... So, where is she?"
-
-//TEXT 【Kimika】
-<enT0091>"Um, first you brought her along this morning so that you could make her see the demons..."
-<ptT0091>"Um, first you brought her along this morning so that you could make her see the demons..."
-
-//TEXT 【Takuji】
-<enT0092>"I did? Where to?"
-<ptT0092>"I did? Where to?"
-
-//TEXT 【Kimika】
-<enT0093>"Who knows... I'm not sure, but it was probably somewhere on school grounds. I'm surprised you two were able to walk around on the school grounds even though the school is taped off right now."
-<ptT0093>"Who knows... I'm not sure, but it was probably somewhere on school grounds. I'm surprised you two were able to walk around on the school grounds even though the school is taped off right now."
-
-//TEXT 【Takuji】
-<enT0094>"Yeah, I am the savior after all... And what about after that?"
-<ptT0094>"Yeah, I am the savior after all... And what about after that?"
-
-//TEXT 【Kimika】
-<enT0095>"The two of you came back safely."
-<ptT0095>"The two of you came back safely."
-
-//TEXT 【Takuji】
-<enT0096>"And then?"
-<ptT0096>"And then?"
-
-//TEXT 【Kimika】
-<enT0097>"Since she got back, Ms. Kiyokawa has been over there, scared out of her wits, saying, 'The demon has the same face as the \nsavior!'"
-<ptT0097>"Since she got back, Ms. Kiyokawa has been over there, scared out of her wits, saying, 'The demon has the same face as the \nsavior!'"
-
-//TEXT 【Takuji】
-<enT0098>"Over there?"
-<ptT0098>"Over there?"
-
-//TEXT
-<enT0099>There was someone curled up and quivering in the corner.
-<ptT0099>There was someone curled up and quivering in the corner.
-
-//TEXT
-<enT0100>Is that... Kiyokawa?
-<ptT0100>Is that... Kiyokawa?
-
-//TEXT
-<enT0101>Why is she so frightened?
-<ptT0101>Why is she so frightened?
-
-//TEXT 【Kimika】
-<enT0102>"What did you show her?"
-<ptT0102>"What did you show her?"
-
-//TEXT 【Takuji】
-<enT0103>"Who knows... I guess I showed her something, but I don't really remember. And more importantly, Tachibana."
-<ptT0103>"Who knows... I guess I showed her something, but I don't really remember. And more importantly, Tachibana."
-
-//TEXT 【Takuji】
-<enT0104>"What time is it right now?"
-<ptT0104>"What time is it right now?"
-
-//TEXT 【Kimika】
-<enT0105>"Um, right now... it's 5:00 on the dot."
-<ptT0105>"Um, right now... it's 5:00 on the dot."
-
-//TEXT 【Takuji】
-<enT0106>"It's already five, huh? Time passes so quickly."
-<ptT0106>"It's already five, huh? Time passes so quickly."
-
-//TEXT 【Kimika】
-<enT0107>"Really? Oh, right, my savior."
-<ptT0107>"Really? Oh, right, my savior."
-
-//TEXT 【Takuji】
-<enT0108>"What is it?"
-<ptT0108>"What is it?"
-
-//TEXT 【Kimika】
-<enT0109>"I have something to report."
-<ptT0109>"I have something to report."
-
-//TEXT 【Takuji】
-<enT0110>"Report?"
-<ptT0110>"Report?"
-
-//TEXT 【Kimika】
-<enT0111>"Yes, him!"
-<ptT0111>"Yes, him!"
-
-//TEXT 【Kimika】
-<enT0112>"After Nishimura-kun had sex, he just kind of stopped moving."
-<ptT0112>"After Nishimura-kun had sex, he just kind of stopped moving."
-
-//TEXT 【Takuji】
-<enT0113>"Yeah, I guess he did."
-<ptT0113>"Yeah, I guess he did."
-
-//TEXT 【Kimika】
-<enT0114>"I thought he just tired himself out and went to sleep, but his body is ridiculously stiff. He's gonna ache all over after sleeping in that position."
-<ptT0114>"I thought he just tired himself out and went to sleep, but his body is ridiculously stiff. He's gonna ache all over after sleeping in that position."
-
-//TEXT 【Kimika】
-<enT0115>"Can you revive him with your magic, my savior?"
-<ptT0115>"Can you revive him with your magic, my savior?"
-
-//TEXT 【Takuji】
-<enT0116>"There's no need."
-<ptT0116>"There's no need."
-
-//TEXT 【Kimika】
-<enT0117>"Really?"
-<ptT0117>"Really?"
-
-//TEXT 【Takuji】
-<enT0118>"I used his desire to have sex to heal his wounds. If he doesn't have the will to live anymore, of course he'll stop moving."
-<ptT0118>"I used his desire to have sex to heal his wounds. If he doesn't have the will to live anymore, of course he'll stop moving."
-
-//TEXT 【Takuji】
-<enT0119>"It's just a question of his willpower now."
-<ptT0119>"It's just a question of his willpower now."
-
-//TEXT 【Kimika】
-<enT0120>"I've heard people say that before. In the end, it's just a matter of a person's motivation. That goes for a lot of things. Yeah, that makes sense."
-<ptT0120>"I've heard people say that before. In the end, it's just a matter of a person's motivation. That goes for a lot of things. Yeah, that makes sense."
-
-//TEXT 【Takuji】
-<enT0121>"It really is noisy in here though. They haven't even slept. They're not getting bored of it at all."
-<ptT0121>"It really is noisy in here though. They haven't even slept. They're not getting bored of it at all."
-
-//TEXT 【Kimika】
-<enT0122>"Yeah, they're not tired at all thanks to the savior's elixir. I feel great, too"
-<ptT0122>"Yeah, they're not tired at all thanks to the savior's elixir. I feel great, too"
-
-//TEXT 【Takuji】
-<enT0123>"Yeah, that's an all-purpose potion."
-<ptT0123>"Yeah, that's an all-purpose potion."
-
-//TEXT 【Takuji】
-<enT0124>"And... what time is it right now?"
-<ptT0124>"And... what time is it right now?"
-
-//TEXT 【Kimika】
-<enT0125>"Um, right now... it's 7:00 on the dot."
-<ptT0125>"Um, right now... it's 7:00 on the dot."
-
-//TEXT 【Takuji】
-<enT0126>"Already seven o'clock, huh? That was fast."
-<ptT0126>"Already seven o'clock, huh? That was fast."
-
-//TEXT 【Kimika】
-<enT0127>"Time flies like an arrow."
-<ptT0127>"Time flies like an arrow."
-
-//TEXT 【Takuji】
-<enT0128>"I guess so... The passing off time is strange."
-<ptT0128>"I guess so... The passing off time is strange."
-
-//TEXT 【Takuji】
-<enT0129>"Time... Time... Oh, that's right, Tachibana."
-<ptT0129>"Time... Time... Oh, that's right, Tachibana."
-
-//TEXT 【Kimika】
-<enT0130>"Yes?"
-<ptT0130>"Yes?"
-
-//TEXT 【Takuji】
-<enT0131>"Right now... what time is it?"
-<ptT0131>"Right now... what time is it?"
-
-//TEXT 【Kimika】
-<enT0132>"Um, right now... it's 8:00 on the dot."
-<ptT0132>"Um, right now... it's 8:00 on the dot."
-
-//TEXT 【Takuji】
-<enT0133>"It's already dinner time, huh? I'm not really hungry, though."
-<ptT0133>"It's already dinner time, huh? I'm not really hungry, though."
-
-//TEXT 【Kimika】
-<enT0134>"You can thank the all-purpose potion for that. We should call it a Senzu Bean instead of elixir!"
-<ptT0134>"You can thank the all-purpose potion for that. We should call it a Senzu Bean instead of elixir!"
-
-//TEXT 【Takuji】
-<enT0135>"No, don't change the name..."
-<ptT0135>"No, don't change the name..."
-
-//TEXT 【Kimika】
-<enT0136>"And I was wondering... Do you really have dinner at eight o'clock at night?"
-<ptT0136>"And I was wondering... Do you really have dinner at eight o'clock at night?"
-
-//TEXT 【Takuji】
-<enT0137>"We always have dinner at eight o'clock at my house... Is it different at your place?"
-<ptT0137>"We always have dinner at eight o'clock at my house... Is it different at your place?"
-
-//TEXT 【Kimika】
-<enT0138>"We usually have dinner at six o'clock. Dinner is late at the savior's house, huh?"
-<ptT0138>"We usually have dinner at six o'clock. Dinner is late at the savior's house, huh?"
-
-//TEXT 【Takuji】
-<enT0139>"It's not late. You just have dinner too early..."
-<ptT0139>"It's not late. You just have dinner too early..."
-
-//TEXT 【Kimika】
-<enT0140>"You think so?"
-<ptT0140>"You think so?"
-
-//TEXT 【Takuji】
-<enT0141>"I mean, during the summer, the sun hasn't even set at six o'clock."
-<ptT0141>"I mean, during the summer, the sun hasn't even set at six o'clock."
-
-//TEXT 【Kimika】
-<enT0142>"Yes, that's true."
-<ptT0142>"Yes, that's true."
-
-//TEXT 【Takuji】
-<enT0143>"Can you really call that dinner?"
-<ptT0143>"Can you really call that dinner?"
-
-//TEXT 【Kimika】
-<enT0144>"Isn't it dinner if we eat it during the evening...?"
-<ptT0144>"Isn't it dinner if we eat it during the evening...?"
-
-//TEXT 【Takuji】
-<enT0145>"Then do you eat dinner at five o'clock on the winter solstice?"
-<ptT0145>"Then do you eat dinner at five o'clock on the winter solstice?"
-
-//TEXT 【Kimika】
-<enT0146>"It really did feel like that."
-<ptT0146>"It really did feel like that."
-
-//TEXT 【Takuji】
-<enT0147>"It felt like it, huh?"
-<ptT0147>"It felt like it, huh?"
-
-//TEXT 【Kimika】
-<enT0148>"Yes, it felt like it."
-<ptT0148>"Yes, it felt like it."
-
-//TEXT 【Takuji】
-<enT0149>"What about everyone else?"
-<ptT0149>"What about everyone else?"
-
-//TEXT 【Takuji】
-<enT0150>"Um..."
-<ptT0150>"Um..."
-
-//TEXT
-<enT0151>They're no good... They're totally worthless.
-<ptT0151>They're no good... They're totally worthless.
-
-//TEXT
-<enT0152>Other than them... Uh...
-<ptT0152>Other than them... Uh...
-
-//TEXT 【Takuji】
-<enT0153>"What about Kiyokawa?"
-<ptT0153>"What about Kiyokawa?"
-
-//TEXT 【Kimika】
-<enT0154>"She's over there quivering. She's been saying 'I'm scared, I'm scared' for hours."
-<ptT0154>"She's over there quivering. She's been saying 'I'm scared, I'm scared' for hours."
-
-//TEXT 【Takuji】
-<enT0155>"Over there?"
-<ptT0155>"Over there?"
-
-//TEXT
-<enT0156>There was someone curled up and quivering in the corner.
-<ptT0156>There was someone curled up and quivering in the corner.
-
-//TEXT
-<enT0157>Is that... Kiyokawa?
-<ptT0157>Is that... Kiyokawa?
-
-//TEXT 【Takuji】
-<enT0158>"Why is she so frightened?"
-<ptT0158>"Why is she so frightened?"
-
-//TEXT 【Kimika】
-<enT0159>"She's kind of got you and the demon mixed up, so she's like, 'It's scaaarryyy, aaaah!'"
-<ptT0159>"She's kind of got you and the demon mixed up, so she's like, 'It's scaaarryyy, aaaah!'"
-
-//TEXT 【Takuji】
-<enT0160>"Are you even trying to explain it?"
-<ptT0160>"Are you even trying to explain it?"
-
-//TEXT 【Kimika】
-<enT0161>"I'm doing my best right now."
-<ptT0161>"I'm doing my best right now."
-
-//TEXT 【Takuji】
-<enT0162>"Actually, now that I think of it, I don't see Nishimura in the orgy."
-<ptT0162>"Actually, now that I think of it, I don't see Nishimura in the orgy."
-
-//TEXT 【Kimika】
-<enT0163>"Oh, that's right. I have a request, my savior."
-<ptT0163>"Oh, that's right. I have a request, my savior."
-
-//TEXT 【Takuji】
-<enT0164>"A request?"
-<ptT0164>"A request?"
-
-//TEXT 【Kimika】
-<enT0165>"Yes!"
-<ptT0165>"Yes!"
-
-//TEXT 【Kimika】
-<enT0166>"Look over there."
-<ptT0166>"Look over there."
-
-//TEXT 【Takuji】
-<enT0167>"At that?"
-<ptT0167>"At that?"
-
-//TEXT 【Kimika】
-<enT0168>"He stinks!"
-<ptT0168>"He stinks!"
-
-//TEXT 【Takuji】
-<enT0169>"What happened to him?"
-<ptT0169>"What happened to him?"
-
-//TEXT 【Kimika】
-<enT0170>"After he had sex, he was like, 'I'm so tiiireed,' then he laid down, his pupils dilated, he got all stiff, and he went and started rotting."
-<ptT0170>"After he had sex, he was like, 'I'm so tiiireed,' then he laid down, his pupils dilated, he got all stiff, and he went and started rotting."
-
-//TEXT 【Kimika】
-<enT0171>"He stinks, so... could you please resurrect him? If you leave raw food out in the summer, it doesn't take long for it to spoil!"
-<ptT0171>"He stinks, so... could you please resurrect him? If you leave raw food out in the summer, it doesn't take long for it to spoil!"
-
-//TEXT 【Takuji】
-<enT0172>"I can't."
-<ptT0172>"I can't."
-
-//TEXT 【Kimika】
-<enT0173>"You can't?"
-<ptT0173>"You can't?"
-
-//TEXT 【Takuji】
-<enT0174>"I used his desire to have sex to heal his wounds. I can't bring someone back to life after their wish has been granted."
-<ptT0174>"I used his desire to have sex to heal his wounds. I can't bring someone back to life after their wish has been granted."
-
-//TEXT 【Takuji】
-<enT0175>"More importantly, they really are noisy... They haven't even slept. They're not getting bored of it at all. How long have they been doing that?"
-<ptT0175>"More importantly, they really are noisy... They haven't even slept. They're not getting bored of it at all. How long have they been doing that?"
-
-//TEXT 【Kimika】
-<enT0176>"Who knows... I'm not sure, but it's fun watching them. The girls' voices are getting so hoarse that they sound like old women!"
-<ptT0176>"Who knows... I'm not sure, but it's fun watching them. The girls' voices are getting so hoarse that they sound like old women!"
-
-//TEXT 【Takuji】
-<enT0177>"You're not sure. It's been since yesterday, hasn't it? What time is it right now?"
-<ptT0177>"You're not sure. It's been since yesterday, hasn't it? What time is it right now?"
-
-//TEXT 【Kimika】
-<enT0178>"Um, right now... it's 8:01."
-<ptT0178>"Um, right now... it's 8:01."
-
-//TEXT 【Takuji】
-<enT0179>"Oh, really... It's already that late."
-<ptT0179>"Oh, really... It's already that late."
-
-//TEXT 【Kimika】
-<enT0180>"More importantly, look over there."
-<ptT0180>"More importantly, look over there."
-
-//TEXT 【Takuji】
-<enT0181>"At that?"
-<ptT0181>"At that?"
-
-//TEXT 【Kimika】
-<enT0182>"It's Nishimura-kun."
-<ptT0182>"It's Nishimura-kun."
-
-//TEXT 【Takuji】
-<enT0183>"Why's he so big?"
-<ptT0183>"Why's he so big?"
-
-//TEXT 【Kimika】
-<enT0184>"Big? Has he gotten bigger?"
-<ptT0184>"Big? Has he gotten bigger?"
-
-//TEXT 【Takuji】
-<enT0185>"What happened to him? He's the size of a cow, isn't he?"
-<ptT0185>"What happened to him? He's the size of a cow, isn't he?"
-
-//TEXT 【Kimika】
-<enT0186>"A cow? I don't know how a big a cow is..."
-<ptT0186>"A cow? I don't know how a big a cow is..."
-
-//TEXT 【Takuji】
-<enT0187>"You've never seen a cow?"
-<ptT0187>"You've never seen a cow?"
-
-//TEXT 【Kimika】
-<enT0188>"No. Where would I see one?"
-<ptT0188>"No. Where would I see one?"
-
-//TEXT 【Takuji】
-<enT0189>"On a ranch, probably."
-<ptT0189>"On a ranch, probably."
-
-//TEXT 【Kimika】
-<enT0190>"On the roof?!"
-<ptT0190>"On the roof?!"
-
-//TEXT 【Takuji】
-<enT0191>"Yeah, on a ranch... They have lots of cows."
-<ptT0191>"Yeah, on a ranch... They have lots of cows."
-
-//TEXT 【Kimika】
-<enT0192>"Oh really... There are lots of cows on the roof. That sounds like fun."
-<ptT0192>"Oh really... There are lots of cows on the roof. That sounds like fun."
-
-//TEXT 【Takuji】
-<enT0193>"Does it?"
-<ptT0193>"Does it?"
-
-//TEXT 【Kimika】
-<enT0194>"Aren't there lots of cows under the blue sky?"
-<ptT0194>"Aren't there lots of cows under the blue sky?"
-
-//TEXT 【Takuji】
-<enT0195>"Yeah, there are lots of cows under the blue sky... on a field of green grass..."
-<ptT0195>"Yeah, there are lots of cows under the blue sky... on a field of green grass..."
-
-//TEXT 【Kimika】
-<enT0196>"Green? A green monk?"
-<ptT0196>"Green? A green monk?"
-
-//TEXT 【Takuji】
-<enT0197>"Besides, why is Nishimura as big as a cow?"
-<ptT0197>"Besides, why is Nishimura as big as a cow?"
-
-//TEXT 【Kimika】
-<enT0198>Oh right, Nishimura-kun stopped moving a while ago, but his pupils dilated, he started rotting, and now his body is swelling. It's really annoying."
-<ptT0198>Oh right, Nishimura-kun stopped moving a while ago, but his pupils dilated, he started rotting, and now his body is swelling. It's really annoying."
-
-//TEXT 【Takuji】
-<enT0199>"It would be hard for him to move now that he's gotten as big as a cow..."
-<ptT0199>"It would be hard for him to move now that he's gotten as big as a cow..."
-
-//TEXT 【Kimika】
-<enT0200>"So then cows don't move very much either?"
-<ptT0200>"So then cows don't move very much either?"
-
-//TEXT 【Takuji】
-<enT0201>"Yeah... I've seen a whole bunch of birds resting on a cow's back. Sometimes even big birds will perch on a cow's back."
-<ptT0201>"Yeah... I've seen a whole bunch of birds resting on a cow's back. Sometimes even big birds will perch on a cow's back."
-
-//TEXT 【Kimika】
-<enT0202>"Big birds?"
-<ptT0202>"Big birds?"
-
-//TEXT 【Takuji】
-<enT0203>"Yeah, just like that... Something like that..."
-<ptT0203>"Yeah, just like that... Something like that..."
-
-//TEXT 【Kimika】
-<enT0204>"Something like that?"
-<ptT0204>"Something like that?"
-
-//TEXT
-<enT0205>A huge bird perched on Nishimura's body.
-<ptT0205>A huge bird perched on Nishimura's body.
-
-//TEXT
-<enT0206>A white bird.
-<ptT0206>A white bird.
-
-//TEXT
-<enT0207>Is that a heron?
-<ptT0207>Is that a heron?
-
-//TEXT 【Takuji】
-<enT0208>"Birds perch on them, kind of like that."
-<ptT0208>"Birds perch on them, kind of like that."
-
-//TEXT 【Kimika】
-<enT0209>"No, that's not a bird!"
-<ptT0209>"No, that's not a bird!"
-
-//TEXT 【Takuji】
-<enT0210>"It's a bird... That's a heron."
-<ptT0210>"It's a bird... That's a heron."
-
-//TEXT 【Kimika】
-<enT0211>"It's an angel. An angel is trying to take Nishimura-kun away."
-<ptT0211>"It's an angel. An angel is trying to take Nishimura-kun away."
-
-//TEXT 【Takuji】
-<enT0212>"No... Haven't you ever seen a heron?"
-<ptT0212>"No... Haven't you ever seen a heron?"
-
-//TEXT 【Kimika】
-<enT0213>"No, I haven't, but are you saying that's a heron?"
-<ptT0213>"No, I haven't, but are you saying that's a heron?"
-
-//TEXT 【Takuji】
-<enT0214>"Yeah... Sometimes herons will perch on the backs of cows and rest their wings. Now that Nishimura has swelled up like that, he's a perfect perch for a heron."
-<ptT0214>"Yeah... Sometimes herons will perch on the backs of cows and rest their wings. Now that Nishimura has swelled up like that, he's a perfect perch for a heron."
-
-//TEXT 【Kimika】
-<enT0215>"Oh, really... So that's a heron..."
-<ptT0215>"Oh, really... So that's a heron..."
-
-//TEXT 【Kimika】
-<enT0216>"Then why are there so many pictures of herons in churches? There are lots of pictures of those."
-<ptT0216>"Then why are there so many pictures of herons in churches? There are lots of pictures of those."
-
-//TEXT 【Takuji】
-<enT0217>"Pictures of herons in churches?"
-<ptT0217>"Pictures of herons in churches?"
-
-//TEXT
-<enT0218>What's up with her... Is she mixing up heron and herald?
-<ptT0218>What's up with her... Is she mixing up heron and herald?
-
-//TEXT
-<enT0219>A comment on Christianity?
-<ptT0219>A comment on Christianity?
-
-//TEXT 【Takuji】
-<enT0220>"That's quite an intellectual way of putting it."
-<ptT0220>"That's quite an intellectual way of putting it."
-
-//TEXT 【Kimika】
-<enT0221>"In ten lectures?"
-<ptT0221>"In ten lectures?"
-
-//TEXT 【Kimika】
-<enT0222>"Ah, the angel flew away."
-<ptT0222>"Ah, the angel flew away."
-
-//TEXT 【Takuji】
-<enT0223>"Hey, Tachibana."
-<ptT0223>"Hey, Tachibana."
-
-//TEXT 【Kimika】
-<enT0224>"Yes?"
-<ptT0224>"Yes?"
-
-//TEXT 【Takuji】
-<enT0225>"Where's Kiyokawa?"
-<ptT0225>"Where's Kiyokawa?"
-
-//TEXT 【Kimika】
-<enT0226>"She's curled up over there. She's curled up like a mouse. Someone might step on her and kill her!"
-<ptT0226>"She's curled up over there. She's curled up like a mouse. Someone might step on her and kill her!"
-
-//TEXT 【Kimika】
-<enT0227>"My savior, please go help tiny Ms. Kiyokawa!"
-<ptT0227>"My savior, please go help tiny Ms. Kiyokawa!"
-
-//TEXT 【Takuji】
-<enT0228>"No, it's just a matter of perspective... Think of it another way. Isn't it better if she's small like a mouse?"
-<ptT0228>"No, it's just a matter of perspective... Think of it another way. Isn't it better if she's small like a mouse?"
-
-//TEXT 【Kimika】
-<enT0229>"Is it better?"
-<ptT0229>"Is it better?"
-
-//TEXT 【Takuji】
-<enT0230>"Yeah, if her body was small like a mouse, she could crawl into all kinds of little spaces, couldn't she?"
-<ptT0230>"Yeah, if her body was small like a mouse, she could crawl into all kinds of little spaces, couldn't she?"
-
-//TEXT 【Kimika】
-<enT0231>"Yeah, she could."
-<ptT0231>"Yeah, she could."
-
-//TEXT 【Takuji】
-<enT0232>"In other words, she could crawl into all of humanity's bodies through their mouths."
-<ptT0232>"In other words, she could crawl into all of humanity's bodies through their mouths."
-
-//TEXT 【Kimika】
-<enT0233>"Ah, she could!"
-<ptT0233>"Ah, she could!"
-
-//TEXT 【Takuji】
-<enT0234>"That's it. We should put tiny Kiyokawa in all their mouths!"
-<ptT0234>"That's it. We should put tiny Kiyokawa in all their mouths!"
-
-//TEXT 【Kimika】
-<enT0235>"We'll put her in all their mouths!"
-<ptT0235>"We'll put her in all their mouths!"
-
-//TEXT 【Takuji】
-<enT0236>"Yes! And once she's invaded all of humanity through their mouths, she could install antennas on all of them!"
-<ptT0236>"Yes! And once she's invaded all of humanity through their mouths, she could install antennas on all of them!"
-
-//TEXT 【Kimika】
-<enT0237>"She could install antennas!"
-<ptT0237>"She could install antennas!"
-
-//TEXT 【Takuji】
-<enT0238>"Yeah, and then I could transmit my holy gospel directly to all of humanity!"
-<ptT0238>"Yeah, and then I could transmit my holy gospel directly to all of humanity!"
-
-//TEXT 【Kimika】
-<enT0239>"We could transmit your gospel!"
-<ptT0239>"We could transmit your gospel!"
-
-//TEXT 【Takuji】
-<enT0240>"If we did that, I could return far more people to the sky... We could do it!"
-<ptT0240>"If we did that, I could return far more people to the sky... We could do it!"
-
-//TEXT 【Kimika】
-<enT0241>"We could drown more people to the sky. We could drown it!"
-<ptT0241>"We could drown more people to the sky. We could drown it!"
-
-//TEXT 【Takuji】
-<enT0242>"Yes!"
-<ptT0242>"Yes!"
-
-//TEXT 【Kimika】
-<enT0243>"They'll drown!"
-<ptT0243>"They'll drown!"
-
-//TEXT 【Takuji】
-<enT0244>"Yes, all of humanity will get lost in my speech... and drown in it."
-<ptT0244>"Yes, all of humanity will get lost in my speech... and drown in it."
-
-//TEXT 【Kimika】
-<enT0245>"All good knowledge will get lost in your speech, and then remember in it."
-<ptT0245>"All good knowledge will get lost in your speech, and then remember in it."
-
-//TEXT 【Takuji】
-<enT0246>"Yes!"
-<ptT0246>"Yes!"
-
-//TEXT 【Kimika】
-<enT0247>"I remembered it!"
-<ptT0247>"I remembered it!"
-
-//TEXT 【Takuji】
-<enT0248>"Did you?"
-<ptT0248>"Did you?"
-
-//TEXT 【Kimika】
-<enT0249>"I did!"
-<ptT0249>"I did!"
-
-//TEXT 【Takuji】
-<enT0250>"Well good!"
-<ptT0250>"Well good!"
-
-//TEXT 【Kimika】
-<enT0251>"I was good! Praise me!"
-<ptT0251>"I was good! Praise me!"
-
-//TEXT 【Takuji】
-<enT0252>"I can't do that. No one would praise you for something like that."
-<ptT0252>"I can't do that. No one would praise you for something like that."
-
-//TEXT 【Kimika】
-<enT0253>"You won't?"
-<ptT0253>"You won't?"
-
-//TEXT 【Kimika】
-<enT0254>"Hahaha... I guess it's no use."
-<ptT0254>"Hahaha... I guess it's no use."
-
-//TEXT 【Takuji】
-<enT0255>"W-Wait, if it means that much to you, then maybe just a little."
-<ptT0255>"W-Wait, if it means that much to you, then maybe just a little."
-
-//TEXT 【Kimika】
-<enT0256>"Maybe just a little?"
-<ptT0256>"Maybe just a little?"
-
-//TEXT 【Takuji】
-<enT0257>"I could praise you... I guess?"
-<ptT0257>"I could praise you... I guess?"
-
-//TEXT 【Kimika】
-<enT0258>"Yes! That would make me so happy!"
-<ptT0258>"Yes! That would make me so happy!"
-
-//TEXT 【Takuji】
-<enT0259>"I see... I'll give it a shot."
-<ptT0259>"I see... I'll give it a shot."
-
-//TEXT 【Kimika】
-<enT0260>"Go ahead!"
-<ptT0260>"Go ahead!"
-
-//TEXT 【Takuji】
-<enT0261>"Tachibana, good job!"
-<ptT0261>"Tachibana, good job!"
-
-//TEXT 【Kimika】
-<enT0262>"Um, i-if you don't mind..."
-<ptT0262>"Um, i-if you don't mind..."
-
-//TEXT 【Kimika】
-<enT0263>"Um, I just thought... it would make me even happier if you called me Kimika instead of Tachibana."
-<ptT0263>"Um, I just thought... it would make me even happier if you called me Kimika instead of Tachibana."
-
-//TEXT 【Takuji】
-<enT0264>"All right... So Kimika is better than Tachibana?"
-<ptT0264>"All right... So Kimika is better than Tachibana?"
-
-//TEXT 【Kimika】
-<enT0265>"Yes! You're better than me!"
-<ptT0265>"Yes! You're better than me!"
-
-//TEXT 【Takuji】
-<enT0266>"Okay, Kimika... good job!"
-<ptT0266>"Okay, Kimika... good job!"
-
-//TEXT 【Kimika】
-<enT0267>"Yay! I did it! The savior said I did a good job!"
-<ptT0267>"Yay! I did it! The savior said I did a good job!"
-
-//TEXT 【Takuji】
-<enT0268>"Did that make you happy?"
-<ptT0268>"Did that make you happy?"
-
-//TEXT 【Kimika】
-<enT0269>"Eureka?"
-<ptT0269>"Eureka?"
-
-//TEXT 【Kimika】
-<enT0270>"Um, that's..."
-<ptT0270>"Um, that's..."
-
-//TEXT 【Takuji】
-<enT0271>"What is it, all of a sudden?"
-<ptT0271>"What is it, all of a sudden?"
-
-//TEXT 【Takuji】
-<enT0272>"Eureka meant 'I found it' in the present perfect tense... Or are you talking about the anime?"
-<ptT0272>"Eureka meant 'I found it' in the present perfect tense... Or are you talking about the anime?"
-
-//TEXT 【Kimika】
-<enT0273>"Yes! That's it! I found it!"
-<ptT0273>"Yes! That's it! I found it!"
-
-//TEXT 【Takuji】
-<enT0274>"Found what?"
-<ptT0274>"Found what?"
-
-//TEXT 【Kimika】
-<enT0275>"I found the savior!"
-<ptT0275>"I found the savior!"
-
-//TEXT 【Takuji】
-<enT0276>"The savior? You mean me?"
-<ptT0276>"The savior? You mean me?"
-
-//TEXT 【Kimika】
-<enT0277>"Yes. I found Mamiya Takuji, the savior! I found something incredibly valuable!"
-<ptT0277>"Yes. I found Mamiya Takuji, the savior! I found something incredibly valuable!"
-
-//TEXT 【Takuji】
-<enT0278>"Oh... That's good."
-<ptT0278>"Oh... That's good."
-
-//TEXT 【Kimika】
-<enT0279>"Yay! I'm so glad I found you!"
-<ptT0279>"Yay! I'm so glad I found you!"
-
-//TEXT 【Kimika】
-<enT0280>"Um, do you mind if I hug you, so I have something to remember this moment by?"
-<ptT0280>"Um, do you mind if I hug you, so I have something to remember this moment by?"
-
-//TEXT 【Takuji】
-<enT0281>"No way... I don't offer that service."
-<ptT0281>"No way... I don't offer that service."
-
-//TEXT 【Kimika】
-<enT0282>"O-Oh, all right... I should have known the savior wouldn't be offering hugs."
-<ptT0282>"O-Oh, all right... I should have known the savior wouldn't be offering hugs."
-
-//TEXT 【Takuji】
-<enT0283>"Do you... want to hug me?"
-<ptT0283>"Do you... want to hug me?"
-
-//TEXT 【Kimika】
-<enT0284>"Yes! I want a hug!"
-<ptT0284>"Yes! I want a hug!"
-
-//TEXT 【Takuji】
-<enT0285>"Why don't you just go fuck one of the guys over there?"
-<ptT0285>"Why don't you just go fuck one of the guys over there?"
-
-//TEXT 【Kimika】
-<enT0286>"I'll punch you, my savior!"
-<ptT0286>"I'll punch you, my savior!"
-
-//TEXT 【Takuji】
-<enT0287>"Don't punch me... You're my servant..."
-<ptT0287>"Don't punch me... You're my servant..."
-
-//TEXT 【Kimika】
-<enT0288>"But you're being mean! That's not what I mean! I'm not talking about sex! I'm too pure and vaginal for that!"
-<ptT0288>"But you're being mean! That's not what I mean! I'm not talking about sex! I'm too pure and vaginal for that!"
-
-//TEXT 【Takuji】
-<enT0289>"Not pure and vaginal... You mean pure and virginal... You sure know some old, obscure jokes."
-<ptT0289>"Not pure and vaginal... You mean pure and virginal... You sure know some old, obscure jokes."
-
-//TEXT 【Takuji】
-<enT0290>"Well, if you're not talking about sex, then why don't you go hug that pillar over there?"
-<ptT0290>"Well, if you're not talking about sex, then why don't you go hug that pillar over there?"
-
-//TEXT 【Kimika】
-<enT0291>"That's not what I mean! That's totally wrong! You're not even close! I want to hug you, my savior!"
-<ptT0291>"That's not what I mean! That's totally wrong! You're not even close! I want to hug you, my savior!"
-
-//TEXT 【Takuji】
-<enT0292>"Is it that different?"
-<ptT0292>"Is it that different?"
-
-//TEXT 【Takuji】
-<enT0293>"If it has nothing to do with sex... I thought it was like when you can't sleep without a pillow to hold onto or something."
-<ptT0293>"If it has nothing to do with sex... I thought it was like when you can't sleep without a pillow to hold onto or something."
-
-//TEXT 【Kimika】
-<enT0294>"Oh, I know what you mean. I can't get to sleep if I don't have something to hold onto."
-<ptT0294>"Oh, I know what you mean. I can't get to sleep if I don't have something to hold onto."
-
-//TEXT 【Takuji】
-<enT0295>"Oh, really..."
-<ptT0295>"Oh, really..."
-
-//TEXT 【Kimika】
-<enT0296>"So I haven't slept at all today. Actually, I don't even feel tired."
-<ptT0296>"So I haven't slept at all today. Actually, I don't even feel tired."
-
-//TEXT 【Kimika】
-<enT0297>"I watched you sleeping all day today!"
-<ptT0297>"I watched you sleeping all day today!"
-
-//TEXT 【Kimika】
-<enT0298>"Unfortunately, you woke up every ten minutes, so I didn't get to see your sleeping face very much."
-<ptT0298>"Unfortunately, you woke up every ten minutes, so I didn't get to see your sleeping face very much."
-
-//TEXT 【Takuji】
-<enT0299>"Don't watch me sleep."
-<ptT0299>"Don't watch me sleep."
-
-//TEXT 【Kimika】
-<enT0300>"I would watch you even if it meant I would fall into the depths of hell! I'm not afraid of dying at all, and I'm sure I'll go to hell when I die!"
-<ptT0300>"I would watch you even if it meant I would fall into the depths of hell! I'm not afraid of dying at all, and I'm sure I'll go to hell when I die!"
-
-//TEXT 【Kimika】
-<enT0301>"But if you say I absolutely can't... I guess I'll stop if you really hate it."
-<ptT0301>"But if you say I absolutely can't... I guess I'll stop if you really hate it."
-
-//TEXT 【Takuji】
-<enT0302>"No... You're not going to go to hell for watching me sleep, and I didn't say you absolutely couldn't."
-<ptT0302>"No... You're not going to go to hell for watching me sleep, and I didn't say you absolutely couldn't."
-
-//TEXT 【Kimika】
-<enT0303>"Then you don't mind, right?"
-<ptT0303>"Then you don't mind, right?"
-
-//TEXT 【Takuji】
-<enT0304>"Well, I don't really like it, but..."
-<ptT0304>"Well, I don't really like it, but..."
-
-//TEXT 【Kimika】
-<enT0305>"If you won't let me hug you, at least let me do that!"
-<ptT0305>"If you won't let me hug you, at least let me do that!"
-
-//TEXT 【Takuji】
-<enT0306>"What are you talking about? I don't understand."
-<ptT0306>"What are you talking about? I don't understand."
-
-//TEXT 【Kimika】
-<enT0307>"You don't understand!"
-<ptT0307>"You don't understand!"
-
-//TEXT 【Takuji】
-<enT0308>"More importantly, about Kiyokawa..."
-<ptT0308>"More importantly, about Kiyokawa..."
-
-//TEXT 【Kimika】
-<enT0309>"You're going to drown Ms. Kiyokawa, right?"
-<ptT0309>"You're going to drown Ms. Kiyokawa, right?"
-
-//TEXT 【Takuji】
-<enT0310>"Who said that? Are you stupid?"
-<ptT0310>"Who said that? Are you stupid?"
-
-//TEXT 【Kimika】
-<enT0311>"I-I'm sorry! I was mistaken! Huh? What were you going to do to Ms. Kiyokawa?"
-<ptT0311>"I-I'm sorry! I was mistaken! Huh? What were you going to do to Ms. Kiyokawa?"
-
-//TEXT 【Takuji】
-<enT0312>"So... where's Kiyokawa?"
-<ptT0312>"So... where's Kiyokawa?"
-
-//TEXT 【Kimika】
-<enT0313>"Oh, Ms. Kiyokawa shrunk herself over there."
-<ptT0313>"Oh, Ms. Kiyokawa shrunk herself over there."
-
-//TEXT 【Takuji】
-<enT0314>"So she succeeded at shrinking herself?"
-<ptT0314>"So she succeeded at shrinking herself?"
-
-//TEXT 【Kimika】
-<enT0315>"Yes, we succeeded at shrinking her!"
-<ptT0315>"Yes, we succeeded at shrinking her!"
-
-//TEXT 【Takuji】
-<enT0316>"All according to plan..."
-<ptT0316>"All according to plan..."
-
-//TEXT 【Kimika】
-<enT0317>"Yes, I recorded your plan!"
-<ptT0317>"Yes, I recorded your plan!"
-
-//TEXT 【Takuji】
-<enT0318>"Hehehe... I'll have the miniaturized Kiyokawa crawl into all of humanity's mouths... and then I'll transmit my words straight to them."
-<ptT0318>"Hehehe... I'll have the miniaturized Kiyokawa crawl into all of humanity's mouths... and then I'll transmit my words straight to them."
-
-//TEXT 【Kimika】
-<enT0319>"Yes! And then I'll transmit my words Stalin to them!"
-<ptT0319>"Yes! And then I'll transmit my words Stalin to them!"
-
-//TEXT 【Takuji】
-<enT0320>"Hehehe... Go call for Kiyokawa."
-<ptT0320>"Hehehe... Go call for Kiyokawa."
-
-//TEXT 【Kimika】
-<enT0321>"Understood!"
-<ptT0321>"Understood!"
-
-//TEXT 【Takuji】
-<enT0322>"What's this?"
-<ptT0322>"What's this?"
-
-//TEXT 【Kimika】
-<enT0323>"What's wrong?"
-<ptT0323>"What's wrong?"
-
-//TEXT 【Takuji】
-<enT0324>"L-Look at her, you idiot!"
-<ptT0324>"L-Look at her, you idiot!"
-
-//TEXT 【Kimika】
-<enT0325>"Eh?
-<ptT0325>"Eh?
-
-//TEXT
-<enT0326> Whoa, she's huge!"
-<ptT0326> Whoa, she's huge!"
-
-//TEXT 【Asumi】
-<enT0327>"Eh?"
-<ptT0327>"Eh?"
-
-//TEXT 【Takuji】
-<enT0328>"She's over two meters tall..."
-<ptT0328>"She's over two meters tall..."
-
-//TEXT 【Kimika】
-<enT0329>"She's over two layers through... Over two layers, right..."
-<ptT0329>"She's over two layers through... Over two layers, right..."
-
-//TEXT 【Kimika】
-<enT0330>"It's hard with two layers, though...
-<ptT0330>"It's hard with two layers, though...
-
-//TEXT
-<enT0331> Maybe she's already three layers?"
-<ptT0331> Maybe she's already three layers?"
-
-//TEXT 【Takuji】
-<enT0332>"Hey, Kimika."
-<ptT0332>"Hey, Kimika."
-
-//TEXT 【Kimika】
-<enT0333>"Y-Yes?"
-<ptT0333>"Y-Yes?"
-
-//TEXT 【Takuji】
-<enT0334>"What are you mumbling about?"
-<ptT0334>"What are you mumbling about?"
-
-//TEXT 【Kimika】
-<enT0335>"I-I'm sorry, I was mumble!"
-<ptT0335>"I-I'm sorry, I was mumble!"
-
-//TEXT 【Takuji】
-<enT0336>"No... No one is mumble..."
-<ptT0336>"No... No one is mumble..."
-
-//TEXT 【Kimika】
-<enT0337>"Buddha?"
-<ptT0337>"Buddha?"
-
-//TEXT 【Takuji】
-<enT0338>"No one's talking about that!"
-<ptT0338>"No one's talking about that!"
-
-//TEXT 【Kimika】
-<enT0339>"S-Sorry, no one was talking behind your back!
-<ptT0339>"S-Sorry, no one was talking behind your back!
-
-//TEXT
-<enT0340> I was just talking about Buddha!"
-<ptT0340> I was just talking about Buddha!"
-
-//TEXT 【Takuji】
-<enT0341>"I thought you said we succeeded in shrinking her."
-<ptT0341>"I thought you said we succeeded in shrinking her."
-
-//TEXT 【Kimika】
-<enT0342>"I-I'm sorry... That's what my sources told me."
-<ptT0342>"I-I'm sorry... That's what my sources told me."
-
-//TEXT 【Kimika】
-<enT0343>"It seems our intelligence network has been disrupted by the war."
-<ptT0343>"It seems our intelligence network has been disrupted by the war."
-
-//TEXT 【Kimika】
-<enT0344>"It was hard to break through the second layer. We were under fire the whole way, and the hills were crawling with enemies..."
-<ptT0344>"It was hard to break through the second layer. We were under fire the whole way, and the hills were crawling with enemies..."
-
-//TEXT 【Takuji】
-<enT0345>"Wh-What are you talking about?"
-<ptT0345>"Wh-What are you talking about?"
-
-//TEXT 【Kimika】
-<enT0346>"Eh? Um, I was giving you a status report."
-<ptT0346>"Eh? Um, I was giving you a status report."
-
-//TEXT 【Takuji】
-<enT0347>"Like I said, she should be shorter than this, shouldn't she?"
-<ptT0347>"Like I said, she should be shorter than this, shouldn't she?"
-
-//TEXT 【Kimika】
-<enT0348>"A short sword?"
-<ptT0348>"A short sword?"
-
-//TEXT 【Kimika】
-<enT0349>"Is that what it was?! A short sword! That's it!"
-<ptT0349>"Is that what it was?! A short sword! That's it!"
-
-//TEXT 【Kimika】
-<enT0350>"Understood! Leave it to me! Leave it all to me!
-<ptT0350>"Understood! Leave it to me! Leave it all to me!
-
-//TEXT
-<enT0351> It's a short sword! That means we have to carve it in!"
-<ptT0351> It's a short sword! That means we have to carve it in!"
-
-//TEXT 【Kimika】
-<enT0352>"I'll go find it! I'll find it as soon as possible!"
-<ptT0352>"I'll go find it! I'll find it as soon as possible!"
-
-//TEXT 【Asumi】
-<enT0353>"U-Um..."
-<ptT0353>"U-Um..."
-
-//TEXT 【Takuji】
-<enT0354>"A short sword? Carve it?"
-<ptT0354>"A short sword? Carve it?"
-
-//TEXT 【Asumi】
-<enT0355>"Um, my savior... Wh-What's she..."
-<ptT0355>"Um, my savior... Wh-What's she..."
-
-//TEXT 【Kimika】
-<enT0356>"My savior! I couldn't find a short sword, but I found a box cutter! We can carve her with this!"
-<ptT0356>"My savior! I couldn't find a short sword, but I found a box cutter! We can carve her with this!"
-
-//TEXT 【Asumi】
-<enT0357>"Eh? Did she say carve?"
-<ptT0357>"Eh? Did she say carve?"
-
-//TEXT 【Kimika】
-<enT0358>"Just like this!"
-<ptT0358>"Just like this!"
-
-//TEXT 【Asumi】
-<enT0359>"Ow!"
-<ptT0359>"Ow!"
-
-//TEXT 【Kimika】
-<enT0360>"Ah, you can't do that!
-<ptT0360>"Ah, you can't do that!
-
-//TEXT
-<enT0361> I can't make you smaller if you run away!"
-<ptT0361> I can't make you smaller if you run away!"
-
-//TEXT 【Asumi】
-<enT0362>"N-Nooo! Wh-What are you doing?!"
-<ptT0362>"N-Nooo! Wh-What are you doing?!"
-
-//TEXT 【Kimika】
-<enT0363>"Ah, stop! Don't run away!"
-<ptT0363>"Ah, stop! Don't run away!"
-
-//TEXT 【Asumi】
-<enT0364>"Tachibana-san, stop it!"
-<ptT0364>"Tachibana-san, stop it!"
-
-//TEXT 【Kimika】
-<enT0365>"No! I have to make you smaller with this short sword so that you can climb into their food! Ei!"
-<ptT0365>"No! I have to make you smaller with this short sword so that you can climb into their food! Ei!"
-
-//TEXT 【Asumi】
-<enT0366>"N-Nooo!"
-<ptT0366>"N-Nooo!"
-
-//TEXT 【Kimika】
-<enT0367>"You have to climb into the mouths of all the people in the world and help the savior! Please stop moving!"
-<ptT0367>"You have to climb into the mouths of all the people in the world and help the savior! Please stop moving!"
-
-//TEXT 【Asumi】
-<enT0368>"Aah!"
-<ptT0368>"Aah!"
-
-//TEXT 【Kimika】
-<enT0369>"You have more than three layers! You're already at three layers! If you go past three layers, you can't go back!"
-<ptT0369>"You have more than three layers! You're already at three layers! If you go past three layers, you can't go back!"
-
-//TEXT 【Asumi】
-<enT0370>"Agh!"
-<ptT0370>"Agh!"
-
-//TEXT
-<enT0371>What's she doing...
-<ptT0371>What's she doing...
-
-//TEXT
-<enT0372>I know she's just trying to help, but she's not accomplishing anything.
-<ptT0372>I know she's just trying to help, but she's not accomplishing anything.
-
-//TEXT
-<enT0373>And how is she going to carve something with a box cutter like that?
-<ptT0373>And how is she going to carve something with a box cutter like that?
-
-//TEXT
-<enT0374>Every time Kimika slashed at Kiyokawa, Kiyokawa got another grazing wound on her body.
-<ptT0374>Every time Kimika slashed at Kiyokawa, Kiyokawa got another grazing wound on her body.
-
-//TEXT
-<enT0375>The two of them played tag for hours inside the huge ark.
-<ptT0375>The two of them played tag for hours inside the huge ark.
-
-//TEXT
-<enT0376>Kiyokawa was pretty desperate... and Kimika was gasping for air.
-<ptT0376>Kiyokawa was pretty desperate... and Kimika was gasping for air.
-
-//TEXT 【Takuji】
-<enT0377>"Wasn't she in the Track and Field Club?"
-<ptT0377>"Wasn't she in the Track and Field Club?"
-
-//TEXT 【Takuji】
-<enT0378>"Why's she slower than Kiyokawa?"
-<ptT0378>"Why's she slower than Kiyokawa?"
-
-//TEXT
-<enT0379>After they ran five laps around the ark, Kimika came back to me.
-<ptT0379>After they ran five laps around the ark, Kimika came back to me.
-
-//TEXT 【Kimika】
-<enT0380>"Ha, ha, ha... She has too many layers. I can't damage her with normal attacks."
-<ptT0380>"Ha, ha, ha... She has too many layers. I can't damage her with normal attacks."
-
-//TEXT 【Takuji】
-<enT0381>"Do you consider stabbing someone with a box cutter to be a normal attack? That was awfully dangerous to begin with."
-<ptT0381>"Do you consider stabbing someone with a box cutter to be a normal attack? That was awfully dangerous to begin with."
-
-//TEXT 【Kimika】
-<enT0382>"Yes... I couldn't damage her, even with that!
-<ptT0382>"Yes... I couldn't damage her, even with that!
-
-//TEXT
-<enT0383> If only I had my Estrema Ratio!"
-<ptT0383> If only I had my Estrema Ratio!"
-
-//TEXT 【Takuji】
-<enT0384>"You'd actually kill her if you were waving a real knife around... And I think the real problem is that you're too slow."
-<ptT0384>"You'd actually kill her if you were waving a real knife around... And I think the real problem is that you're too slow."
-
-//TEXT 【Kimika】
-<enT0385>"Um, I joined the Track and Field Club because I was so slow. I thought I had gotten pretty fast..."
-<ptT0385>"Um, I joined the Track and Field Club because I was so slow. I thought I had gotten pretty fast..."
-
-//TEXT 【Takuji】
-<enT0386>"That's delusional."
-<ptT0386>"That's delusional."
-
-//TEXT 【Kimika】
-<enT0387>"D-Delusional? Nooo!"
-<ptT0387>"D-Delusional? Nooo!"
-
-//TEXT 【Takuji】
-<enT0388>"From what I just saw... you're ridiculously slow."
-<ptT0388>"From what I just saw... you're ridiculously slow."
-
-//TEXT 【Kimika】
-<enT0389>"I-I was trying to run like a gazelle."
-<ptT0389>"I-I was trying to run like a gazelle."
-
-//TEXT 【Takuji】
-<enT0390>"You looked more like a giraffe to me."
-<ptT0390>"You looked more like a giraffe to me."
-
-//TEXT 【Kimika】
-<enT0391>"Don't say that..."
-<ptT0391>"Don't say that..."
-
-//TEXT 【Takuji】
-<enT0392>"More importantly, Kimika."
-<ptT0392>"More importantly, Kimika."
-
-//TEXT 【Kimika】
-<enT0393>"Yes?"
-<ptT0393>"Yes?"
-
-//TEXT 【Takuji】
-<enT0394>"What time is it right now?"
-<ptT0394>"What time is it right now?"
-
-//TEXT 【Kimika】
-<enT0395>"Yes, um... It's 8:02 right now.
-<ptT0395>"Yes, um... It's 8:02 right now.
-
-//TEXT
-<enT0396> Time sure does fly, doesn't it?"
-<ptT0396> Time sure does fly, doesn't it?"
-
-//TEXT 【Takuji】
-<enT0397>"It sure does..."
-<ptT0397>"It sure does..."
-
-//TEXT 【Takuji】
-<enT0398>"Now then... I should give my sermon. It's the perfect time for it, now that the sun has set."
-<ptT0398>"Now then... I should give my sermon. It's the perfect time for it, now that the sun has set."
-
-//TEXT 【Kimika】
-<enT0399>"All right. I'll gather the people."
-<ptT0399>"All right. I'll gather the people."
-
-//TEXT 【Takuji】
-<enT0400>"You don't have to gather them. Only the people who want to listen have to."
-<ptT0400>"You don't have to gather them. Only the people who want to listen have to."
-
-//TEXT 【Takuji】
-<enT0401>"More importantly..."
-<ptT0401>"More importantly..."
-
-//TEXT
-<enT0402>I looked for a place to sit.
-<ptT0402>I looked for a place to sit.
-
-//TEXT
-<enT0403>Then Kimika...
-<ptT0403>Then Kimika...
-
-//TEXT 【Kimika】
-<enT0404>"A chair?"
-<ptT0404>"A chair?"
-
-//TEXT 【Takuji】
-<enT0405>"Y-Yeah, I need a chair."
-<ptT0405>"Y-Yeah, I need a chair."
-
-//TEXT 【Kimika】
-<enT0406>"Yesterday, you said you were gonna make Ms. Kiyokawa into your chair."
-<ptT0406>"Yesterday, you said you were gonna make Ms. Kiyokawa into your chair."
-
-//TEXT 【Takuji】
-<enT0407>"Yeah... I did, but what of it?"
-<ptT0407>"Yeah... I did, but what of it?"
-
-//TEXT 【Kimika】
-<enT0408>"Why didn't you?"
-<ptT0408>"Why didn't you?"
-
-//TEXT 【Takuji】
-<enT0409>"It's just like I said... She's too filthy for me to sit on. She's a filthy slut."
-<ptT0409>"It's just like I said... She's too filthy for me to sit on. She's a filthy slut."
-
-//TEXT 【Kimika】
-<enT0410>"A slut...
-<ptT0410>"A slut...
-
-//TEXT
-<enT0411> You're talking about sex, right?"
-<ptT0411> You're talking about sex, right?"
-
-//TEXT 【Takuji】
-<enT0412>"Yeah, I am... I can't sit on someone who would do something like that..."
-<ptT0412>"Yeah, I am... I can't sit on someone who would do something like that..."
-
-//TEXT 【Takuji】
-<enT0413>"What's so fun about doing that all day long..."
-<ptT0413>"What's so fun about doing that all day long..."
-
-//TEXT 【Takuji】
-<enT0414>"Though I don't really feel like punishing every single one of them."
-<ptT0414>"Though I don't really feel like punishing every single one of them."
-
-//TEXT 【Kimika】
-<enT0415>"I'm a virgin!"
-<ptT0415>"I'm a virgin!"
-
-//TEXT 【Takuji】
-<enT0416>"H-Huh?"
-<ptT0416>"H-Huh?"
-
-//TEXT 【Kimika】
-<enT0417>"I haven't even kissed anyone before!"
-<ptT0417>"I haven't even kissed anyone before!"
-
-//TEXT 【Kimika】
-<enT0418>"I've never held hands with a man! I've hated men all my life!"
-<ptT0418>"I've never held hands with a man! I've hated men all my life!"
-
-//TEXT 【Takuji】
-<enT0419>"Huh... A-And?"
-<ptT0419>"Huh... A-And?"
-
-//TEXT 【Kimika】
-<enT0420>"Um, could I be your seat?"
-<ptT0420>"Um, could I be your seat?"
-
-//TEXT 【Takuji】
-<enT0421>"Huh?"
-<ptT0421>"Huh?"
-
-//TEXT 【Kimika】
-<enT0422>"Um, would you allow me to be your seat, my savior?"
-<ptT0422>"Um, would you allow me to be your seat, my savior?"
-
-//TEXT 【Takuji】
-<enT0423>"You? My seat?"
-<ptT0423>"You? My seat?"
-
-//TEXT 【Kimika】
-<enT0424>"Yes! I'll do my best!"
-<ptT0424>"Yes! I'll do my best!"
-
-//TEXT 【Takuji】
-<enT0425>"No, it has nothing to do with that. Being my seat is a kind of punishment..."
-<ptT0425>"No, it has nothing to do with that. Being my seat is a kind of punishment..."
-
-//TEXT 【Kimika】
-<enT0426>"Not at all! How would it be a punishment to support the savior's entire body weight?"
-<ptT0426>"Not at all! How would it be a punishment to support the savior's entire body weight?"
-
-//TEXT 【Takuji】
-<enT0427>"No, it would be. Use your common sense."
-<ptT0427>"No, it would be. Use your common sense."
-
-//TEXT 【Kimika】
-<enT0428>"Please consider it!"
-<ptT0428>"Please consider it!"
-
-//TEXT 【Takuji】
-<enT0429>"C-Consider it, huh... I wonder..."
-<ptT0429>"C-Consider it, huh... I wonder..."
-
-//TEXT
-<enT0430>Why does she want to do that? She really is a strange one.
-<ptT0430>Why does she want to do that? She really is a strange one.
-
-//TEXT
-<enT0431>Well, all right... It's just until the sermon is over.
-<ptT0431>Well, all right... It's just until the sermon is over.
-
-//TEXT 【Takuji】
-<enT0432>"Hmm. I don't really understand you, but all right then, Kimika. Be my chair."
-<ptT0432>"Hmm. I don't really understand you, but all right then, Kimika. Be my chair."
-
-//TEXT 【Kimika】
-<enT0433>"Understood!"
-<ptT0433>"Understood!"
-
-//TEXT
-<enT0434>Hmm...
-<ptT0434>Hmm...
-
-//TEXT
-<enT0435>This is odd...
-<ptT0435>This is odd...
-
-//TEXT
-<enT0436>The human chair is supposed to be tragic... or it could be used to punish someone for their sins... or something like that...
-<ptT0436>The human chair is supposed to be tragic... or it could be used to punish someone for their sins... or something like that...
-
-//TEXT
-<enT0437>When she gleefully chooses to become a chair... it doesn't seem that bad at all.
-<ptT0437>When she gleefully chooses to become a chair... it doesn't seem that bad at all.
-
-//TEXT 【Takuji】
-<enT0438>"Kimika, do you know about the big four?"
-<ptT0438>"Kimika, do you know about the big four?"
-
-//TEXT 【Kimika】
-<enT0439>"Yes! There are are a few different big fours!
-<ptT0439>"Yes! There are are a few different big fours!
-
-//TEXT
-<enT0440> The big four of comedy! The big four idols! The big four games that..."
-<ptT0440> The big four of comedy! The big four idols! The big four games that..."
-
-//TEXT 【Kimika】
-<enT0441>"Ah!"
-<ptT0441>"Ah!"
-
-//TEXT 【Takuji】
-<enT0442>"Do you want to incur the wrath of the gods?"
-<ptT0442>"Do you want to incur the wrath of the gods?"
-
-//TEXT 【Kimika】
-<enT0443>"I-I'm sorry!"
-<ptT0443>"I-I'm sorry!"
-
-//TEXT 【Takuji】
-<enT0444>"I'm talking about the Four Heavenly Kings who watch over the cardinal directions. Most of their statues depict them crushing devils underfoot, right?"
-<ptT0444>"I'm talking about the Four Heavenly Kings who watch over the cardinal directions. Most of their statues depict them crushing devils underfoot, right?"
-
-//TEXT 【Kimika】
-<enT0445>"I-I don't really understand, but if you say so, it must be true!"
-<ptT0445>"I-I don't really understand, but if you say so, it must be true!"
-
-//TEXT 【Takuji】
-<enT0446>"No, that's not what I mean... The devil is being painfully crushed underfoot. Do you know why?"
-<ptT0446>"No, that's not what I mean... The devil is being painfully crushed underfoot. Do you know why?"
-
-//TEXT 【Kimika】
-<enT0447>"Because... it hurts?"
-<ptT0447>"Because... it hurts?"
-
-//TEXT 【Takuji】
-<enT0448>"Well for the devil, I suppose so, but what does the statue mean?"
-<ptT0448>"Well for the devil, I suppose so, but what does the statue mean?"
-
-//TEXT 【Kimika】
-<enT0449>"The statue's meaning? Um, it's a representation of pain?"
-<ptT0449>"The statue's meaning? Um, it's a representation of pain?"
-
-//TEXT 【Takuji】
-<enT0450>"That's the same thing... That's not it."
-<ptT0450>"That's the same thing... That's not it."
-
-//TEXT 【Kimika】
-<enT0451>"Th-Then... maybe it represents the suffering in human life?"
-<ptT0451>"Th-Then... maybe it represents the suffering in human life?"
-
-//TEXT 【Takuji】
-<enT0452>"It's not modern art, you know. Why would a Buddhist statue represent something abstract like that?"
-<ptT0452>"It's not modern art, you know. Why would a Buddhist statue represent something abstract like that?"
-
-//TEXT 【Takuji】
-<enT0453>"The Four Kings look especially conspicuous because they're crushing a devil underfoot."
-<ptT0453>"The Four Kings look especially conspicuous because they're crushing a devil underfoot."
-
-//TEXT 【Kimika】
-<enT0454>"The Four Kings look especially promiscuous... because they're cracking a demon underfoot... Got it."
-<ptT0454>"The Four Kings look especially promiscuous... because they're cracking a demon underfoot... Got it."
-
-//TEXT 【Takuji】
-<enT0455>"You're pretty quick. That's why you shouldn't look so happy while you're doing it."
-<ptT0455>"You're pretty quick. That's why you shouldn't look so happy while you're doing it."
-
-//TEXT 【Kimika】
-<enT0456>"That's why I shouldn't look so sappy while I'm doing it. Got it."
-<ptT0456>"That's why I shouldn't look so sappy while I'm doing it. Got it."
-
-//TEXT 【Takuji】
-<enT0457>"Just be careful about that."
-<ptT0457>"Just be careful about that."
-
-//TEXT 【Kimika】
-<enT0458>"Understood!"
-<ptT0458>"Understood!"
-
-//TEXT
-<enT0459>Does she really understand?
-<ptT0459>Does she really understand?
-
-//TEXT 【Kimika】
-<enT0460>"All ready!"
-<ptT0460>"All ready!"
-
-//TEXT 【Kimika】
-<enT0461>"I'm perfectly ready!"
-<ptT0461>"I'm perfectly ready!"
-
-//TEXT 【Takuji】
-<enT0462>"Like I said, Kimika, you're..."
-<ptT0462>"Like I said, Kimika, you're..."
-
-//TEXT 【Kimika】
-<enT0463>"Yes, I can feel the devil within me."
-<ptT0463>"Yes, I can feel the devil within me."
-
-//TEXT 【Takuji】
-<enT0464>"That wouldn't be a good thing."
-<ptT0464>"That wouldn't be a good thing."
-
-//TEXT
-<enT0465>Oh well... She's been acting strange all day.
-<ptT0465>Oh well... She's been acting strange all day.
-
-//TEXT
-<enT0466>Her eyes...
-<ptT0466>Her eyes...
-
-//TEXT
-<enT0467>She looked like a dog...
-<ptT0467>She looked like a dog...
-
-//TEXT
-<enT0468>It felt like I was sitting on a dog.
-<ptT0468>It felt like I was sitting on a dog.
-
-//TEXT
-<enT0469>I was the one that felt guilty here.
-<ptT0469>I was the one that felt guilty here.
-
-//TEXT 【Kimika】
-<enT0470>"My savior!"
-<ptT0470>"My savior!"
-
-//TEXT
-<enT0471>Her eyes sparkled, like she was telling me, 'Don't worry! I'm ready for it!'
-<ptT0471>Her eyes sparkled, like she was telling me, 'Don't worry! I'm ready for it!'
-
-//TEXT
-<enT0472>Jeez... I don't even care anymore.
-<ptT0472>Jeez... I don't even care anymore.
-
-//TEXT 【Takuji】
-<enT0473>"..."
-<ptT0473>"..."
-
-//TEXT
-<enT0474>The number of people... increased again, apparently. Where are they coming from?
-<ptT0474>The number of people... increased again, apparently. Where are they coming from?
-
-//TEXT 【Takuji】
-<enT0475>"Now then..."
-<ptT0475>"Now then..."
-
-//TEXT 【Kimika】
-<enT0476>"All right!"
-<ptT0476>"All right!"
-
-//TEXT 【Takuji】
-<enT0477>"A chair shouldn't respond to every little thing I say."
-<ptT0477>"A chair shouldn't respond to every little thing I say."
-
-//TEXT 【Kimika】
-<enT0478>"Ah, excuse me."
-<ptT0478>"Ah, excuse me."
-
-//TEXT 【Kimika】
-<enT0479>"Ah..."
-<ptT0479>"Ah..."
-
-//TEXT
-<enT0480>My chair made a contented face.
-<ptT0480>My chair made a contented face.
-
-//TEXT
-<enT0481>Like her life was now complete.
-<ptT0481>Like her life was now complete.
-
-//TEXT
-<enT0482>I guess she really just wanted to be of use to me.
-<ptT0482>I guess she really just wanted to be of use to me.
-
-//TEXT
-<enT0483>Well, whatever.
-<ptT0483>Well, whatever.
-
-//TEXT 【Takuji】
-<enT0484>"Everyone, listen to my words!"
-<ptT0484>"Everyone, listen to my words!"
-
-//TEXT 【Takuji】
-<enT0485>"All of you! Look at the tiny existence huddled in the corner!"
-<ptT0485>"All of you! Look at the tiny existence huddled in the corner!"
-
-//TEXT 【Takuji】
-<enT0486>"The tiny, quivering person huddled in the corner!"
-<ptT0486>"The tiny, quivering person huddled in the corner!"
-
-//TEXT 【Takuji】
-<enT0487>"That is the form of one of the so-called pastors that until yesterday haughtily brainwashed us with education!"
-<ptT0487>"That is the form of one of the so-called pastors that until yesterday haughtily brainwashed us with education!"
-
-//TEXT 【Takuji】
-<enT0488>"As the end of the world approaches, she is even more perturbed, even more fearful than any of you!"
-<ptT0488>"As the end of the world approaches, she is even more perturbed, even more fearful than any of you!"
-
-//TEXT 【Takuji】
-<enT0489>"And how does she appear to you? Is that the form of a pastor leading the people?"
-<ptT0489>"And how does she appear to you? Is that the form of a pastor leading the people?"
-
-//TEXT 【Takuji】
-<enT0490>"That's right! That is the true form of the people in the profession of pastors!"
-<ptT0490>"That's right! That is the true form of the people in the profession of pastors!"
-
-//TEXT 【Kimika】
-<enT0491>"Ah..."
-<ptT0491>"Ah..."
-
-//TEXT
-<enT0492>A grunt escaped Kimika's mouth.
-<ptT0492>A grunt escaped Kimika's mouth.
-
-//TEXT
-<enT0493>Her face was red, as if she was enduring something.
-<ptT0493>Her face was red, as if she was enduring something.
-
-//TEXT
-<enT0494>Well, of course... She was on all fours on this concrete floor, with someone sitting on her. It might not have been a problem at first, but as time passed...
-<ptT0494>Well, of course... She was on all fours on this concrete floor, with someone sitting on her. It might not have been a problem at first, but as time passed...
-
-//TEXT 【Kimika】
-<enT0495>"..."
-<ptT0495>"..."
-
-//TEXT
-<enT0496>Kimika's eyes met mine.
-<ptT0496>Kimika's eyes met mine.
-
-//TEXT
-<enT0497>She gave me a big smile.
-<ptT0497>She gave me a big smile.
-
-//TEXT
-<enT0498>Even though her face was bright red, and her eyes full of tears...
-<ptT0498>Even though her face was bright red, and her eyes full of tears...
-
-//TEXT
-<enT0499>Is that really the face someone would make if there was no problem? I wonder how she feels right now.
-<ptT0499>Is that really the face someone would make if there was no problem? I wonder how she feels right now.
-
-//TEXT
-<enT0500>Well, it's supposed to feel bad when I'm using someone as a chair, at least.
-<ptT0500>Well, it's supposed to feel bad when I'm using someone as a chair, at least.
-
-//TEXT 【Takuji】
-<enT0501>"This revelation is proof of how many lies are running rampant in the world!"
-<ptT0501>"This revelation is proof of how many lies are running rampant in the world!"
-
-//TEXT 【Takuji】
-<enT0502>"Those people who can do no more than curl up and quiver in fear are the ones who have supposedly been teaching you the truth of the world!"
-<ptT0502>"Those people who can do no more than curl up and quiver in fear are the ones who have supposedly been teaching you the truth of the world!"
-
-//TEXT 【Takuji】
-<enT0503>"That's why I made her into a toilet..."
-<ptT0503>"That's why I made her into a toilet..."
-
-//TEXT 【Takuji】
-<enT0504>"From now on, everyone here must both urinate and defecate on that thing... Understood?"
-<ptT0504>"From now on, everyone here must both urinate and defecate on that thing... Understood?"
-
-//TEXT 【Takuji】
-<enT0505>"Now, what is the truth that they've hidden from us?"
-<ptT0505>"Now, what is the truth that they've hidden from us?"
-
-//TEXT 【Takuji】
-<enT0506>"This story is an example... It's just a parable."
-<ptT0506>"This story is an example... It's just a parable."
-
-//TEXT 【Takuji】
-<enT0507>"A parable from ancient times..."
-<ptT0507>"A parable from ancient times..."
-
-//TEXT 【Takuji】
-<enT0508>"In ancient times, the Norse God Loki ate the heart of the female jotunn Angrbooa... causing her to give birth to three children."
-<ptT0508>"In ancient times, the Norse God Loki ate the heart of the female jotunn Angrbooa... causing her to give birth to three children."
-
-//TEXT 【Takuji】
-<enT0509>"All of them were disgusting beasts, unfit for man's eyes... One of them was the great wolf Fenrir..."
-<ptT0509>"All of them were disgusting beasts, unfit for man's eyes... One of them was the great wolf Fenrir..."
-
-//TEXT 【Takuji】
-<enT0510>"At first, Fenrir seemed to be nothing more than a normal wolf, so the Gods decided to raise it as a pet."
-<ptT0510>"At first, Fenrir seemed to be nothing more than a normal wolf, so the Gods decided to raise it as a pet."
-
-//TEXT 【Takuji】
-<enT0511>"Yet as time passed, Fenrir grew and grew. Soon he became mighty enough to devour even the Gods who had raised him..."
-<ptT0511>"Yet as time passed, Fenrir grew and grew. Soon he became mighty enough to devour even the Gods who had raised him..."
-
-//TEXT 【Takuji】
-<enT0512>"The Gods were afraid of Fenrir and bound him with a chain known as Leyding."
-<ptT0512>"The Gods were afraid of Fenrir and bound him with a chain known as Leyding."
-
-//TEXT 【Takuji】
-<enT0513>"Yet the monstrous wolf tore through the chain as if it were nothing..."
-<ptT0513>"Yet the monstrous wolf tore through the chain as if it were nothing..."
-
-//TEXT 【Takuji】
-<enT0514>"The Gods bound Fenrir with an even more powerful chain... the most powerful chain in all of the Niu Heimar, Dromi."
-<ptT0514>"The Gods bound Fenrir with an even more powerful chain... the most powerful chain in all of the Niu Heimar, Dromi."
-
-//TEXT 【Takuji】
-<enT0515>"But even Dromi would prove no match for Fenrir, who grew only greater and greater."
-<ptT0515>"But even Dromi would prove no match for Fenrir, who grew only greater and greater."
-
-//TEXT 【Takuji】
-<enT0516>"The Gods were awestruck, terrified by Fenrir's seemingly endless power."
-<ptT0516>"The Gods were awestruck, terrified by Fenrir's seemingly endless power."
-
-//TEXT 【Takuji】
-<enT0517>"In their terror, the Gods had the dwarves construct Gleipnir, a chain that would be impossible to break."
-<ptT0517>"In their terror, the Gods had the dwarves construct Gleipnir, a chain that would be impossible to break."
-
-//TEXT 【Takuji】
-<enT0518>"Gleipnir, meaning 'that which devours,' was no mere chain... It was an impossible seal constructed by combining six impossible concepts."
-<ptT0518>"Gleipnir, meaning 'that which devours,' was no mere chain... It was an impossible seal constructed by combining six impossible concepts."
-
-//TEXT 【Takuji】
-<enT0519>"And thus these six concepts were lost from the world..."
-<ptT0519>"And thus these six concepts were lost from the world..."
-
-//TEXT 【Takuji】
-<enT0520>"I ask you, what is Fenrir?"
-<ptT0520>"I ask you, what is Fenrir?"
-
-//TEXT 【Takuji】
-<enT0521>"I ask you, what is Fenrir? He who began life as nothing but a tiny wolf and grew to monstrous sizes..."
-<ptT0521>"I ask you, what is Fenrir? He who began life as nothing but a tiny wolf and grew to monstrous sizes..."
-
-//TEXT 【Takuji】
-<enT0522>"I ask you, what do you call a being who shrugs off even the binding of the Gods, growing ever larger?"
-<ptT0522>"I ask you, what do you call a being who shrugs off even the binding of the Gods, growing ever larger?"
-
-//TEXT 【Takuji】
-<enT0523>"What do you call a being that can only be bound by that which devours all?"
-<ptT0523>"What do you call a being that can only be bound by that which devours all?"
-
-//TEXT 【Takuji】
-<enT0524>"This is avarice!"
-<ptT0524>"This is avarice!"
-
-//TEXT 【Takuji】
-<enT0525>"Fenrir is the true form of avarice!"
-<ptT0525>"Fenrir is the true form of avarice!"
-
-//TEXT 【Takuji】
-<enT0526>"And the only thing that can restrain avarice is Gleipnir, that which devours even greed..."
-<ptT0526>"And the only thing that can restrain avarice is Gleipnir, that which devours even greed..."
-
-//TEXT 【Takuji】
-<enT0527>"Gleipnir devoured avarice as it grew. Fenrir could not grow quickly enough to escape its grasp... And so, pieces of both Fenrir and Gleipnir scattered throughout the world..."
-<ptT0527>"Gleipnir devoured avarice as it grew. Fenrir could not grow quickly enough to escape its grasp... And so, pieces of both Fenrir and Gleipnir scattered throughout the world..."
-
-//TEXT 【Takuji】
-<enT0528>"And so Gleipnir, 'that which devours all,' showed itself to people in the form of currency..."
-<ptT0528>"And so Gleipnir, 'that which devours all,' showed itself to people in the form of currency..."
-
-//TEXT 【Takuji】
-<enT0529>"Gleipnir, which was never metal to begin with, transformed into gold, silver, and jewels!"
-<ptT0529>"Gleipnir, which was never metal to begin with, transformed into gold, silver, and jewels!"
-
-//TEXT 【Takuji】
-<enT0530>"The true form of Gleipnir, 'that which devours all,' is currency! Fenrir, the being bound by it, is nothing more than humanity's never ending greed!"
-<ptT0530>"The true form of Gleipnir, 'that which devours all,' is currency! Fenrir, the being bound by it, is nothing more than humanity's never ending greed!"
-
-//TEXT 【Takuji】
-<enT0531>"Fenrir is only possible to bind if first devoured by currency!"
-<ptT0531>"Fenrir is only possible to bind if first devoured by currency!"
-
-//TEXT 【Takuji】
-<enT0532>"And so we see that humanity's loathsome greed cannot be bound by fetters of steel or iron, but only by that which devours all!"
-<ptT0532>"And so we see that humanity's loathsome greed cannot be bound by fetters of steel or iron, but only by that which devours all!"
-
-//TEXT 【Takuji】
-<enT0533>"Now then, let us discuss that which was born next."
-<ptT0533>"Now then, let us discuss that which was born next."
-
-//TEXT 【Takuji】
-<enT0534>"The next being to emerge from Angrbooa's womb was the goddess Hel..."
-<ptT0534>"The next being to emerge from Angrbooa's womb was the goddess Hel..."
-
-//TEXT 【Takuji】
-<enT0535>"As you can imagine from her name, she symbolizes hell."
-<ptT0535>"As you can imagine from her name, she symbolizes hell."
-
-//TEXT 【Takuji】
-<enT0536>"But Hel's true form is not hell as we know it."
-<ptT0536>"But Hel's true form is not hell as we know it."
-
-//TEXT 【Takuji】
-<enT0537>"Her true form is she who brandishes death... What does it mean to brandish death?"
-<ptT0537>"Her true form is she who brandishes death... What does it mean to brandish death?"
-
-//TEXT 【Takuji】
-<enT0538>"In other words, Hel alone could manipulate life and death."
-<ptT0538>"In other words, Hel alone could manipulate life and death."
-
-//TEXT 【Takuji】
-<enT0539>"It is said that one of the Aesir, Hermoor, visited upon Hel, begging her to resurrect the fallen god Baldr..."
-<ptT0539>"It is said that one of the Aesir, Hermoor, visited upon Hel, begging her to resurrect the fallen god Baldr..."
-
-//TEXT 【Takuji】
-<enT0540>"In response, she spoke thusly..."
-<ptT0540>"In response, she spoke thusly..."
-
-//TEXT 【Takuji】
-<enT0541>"'It would upset the balance of the world to revive the dead so readily... I cannot revive Baldr...'"
-<ptT0541>"'It would upset the balance of the world to revive the dead so readily... I cannot revive Baldr...'"
-
-//TEXT 【Takuji】
-<enT0542>"In other words, not even the Gods can escape death."
-<ptT0542>"In other words, not even the Gods can escape death."
-
-//TEXT 【Takuji】
-<enT0543>"And Hel herself refused to overturn this principle, even for a god."
-<ptT0543>"And Hel herself refused to overturn this principle, even for a god."
-
-//TEXT 【Takuji】
-<enT0544>"Why is this?"
-<ptT0544>"Why is this?"
-
-//TEXT 【Takuji】
-<enT0545>"It is because death is absolute!"
-<ptT0545>"It is because death is absolute!"
-
-//TEXT 【Takuji】
-<enT0546>"Death cannot be anything less than absolute, even from the perspective of the one who manages it."
-<ptT0546>"Death cannot be anything less than absolute, even from the perspective of the one who manages it."
-
-//TEXT 【Takuji】
-<enT0547>"What then, is Hel?"
-<ptT0547>"What then, is Hel?"
-
-//TEXT 【Takuji】
-<enT0548>"Hel is not death itself."
-<ptT0548>"Hel is not death itself."
-
-//TEXT 【Takuji】
-<enT0549>"Death is nothing more but that which Hel brandishes, that which Hel directs."
-<ptT0549>"Death is nothing more but that which Hel brandishes, that which Hel directs."
-
-//TEXT 【Takuji】
-<enT0550>"What then, is Hel?"
-<ptT0550>"What then, is Hel?"
-
-//TEXT 【Takuji】
-<enT0551>"Hel is the most basic of anxieties!"
-<ptT0551>"Hel is the most basic of anxieties!"
-
-//TEXT 【Takuji】
-<enT0552>"Hel is the fear of life's impermanence!"
-<ptT0552>"Hel is the fear of life's impermanence!"
-
-//TEXT 【Takuji】
-<enT0553>"Hel is not death. She is life itself, the boundary between life and death!"
-<ptT0553>"Hel is not death. She is life itself, the boundary between life and death!"
-
-//TEXT 【Takuji】
-<enT0554>"To brandish death means to manage that most basic of all anxieties!"
-<ptT0554>"To brandish death means to manage that most basic of all anxieties!"
-
-//TEXT 【Takuji】
-<enT0555>"Hel is our fear of death!"
-<ptT0555>"Hel is our fear of death!"
-
-//TEXT 【Takuji】
-<enT0556>"Why did Hermoor attempt to resurrect Baldr?"
-<ptT0556>"Why did Hermoor attempt to resurrect Baldr?"
-
-//TEXT 【Takuji】
-<enT0557>"Because of a basic fear of death itself."
-<ptT0557>"Because of a basic fear of death itself."
-
-//TEXT 【Takuji】
-<enT0558>"If death itself were not something to be feared, there would be no meaning in resurrecting Baldr."
-<ptT0558>"If death itself were not something to be feared, there would be no meaning in resurrecting Baldr."
-
-//TEXT 【Takuji】
-<enT0559>"Much like a tiger has no need to fly or a mouse has no need to breathe underwater... much like humans cannot control death itself..."
-<ptT0559>"Much like a tiger has no need to fly or a mouse has no need to breathe underwater... much like humans cannot control death itself..."
-
-//TEXT 【Takuji】
-<enT0560>"There is no reason to treat death as a taboo!"
-<ptT0560>"There is no reason to treat death as a taboo!"
-
-//TEXT 【Takuji】
-<enT0561>"We must learn to accept death!"
-<ptT0561>"We must learn to accept death!"
-
-//TEXT 【Takuji】
-<enT0562>"Hel is fear... Hel is anxiety."
-<ptT0562>"Hel is fear... Hel is anxiety."
-
-//TEXT 【Takuji】
-<enT0563>"An absolute fear, never ending... A fear directed at a vague future that grows only larger and larger... This is what we call anxiety."
-<ptT0563>"An absolute fear, never ending... A fear directed at a vague future that grows only larger and larger... This is what we call anxiety."
-
-//TEXT 【Takuji】
-<enT0564>"That is to say, anxiety is fear directed at a future that has yet to come."
-<ptT0564>"That is to say, anxiety is fear directed at a future that has yet to come."
-
-//TEXT 【Takuji】
-<enT0565>"Anxiety is the postponement of fear."
-<ptT0565>"Anxiety is the postponement of fear."
-
-//TEXT 【Takuji】
-<enT0566>"It can be compared to avarice... In other words, Hel and Fenrir are very similar."
-<ptT0566>"It can be compared to avarice... In other words, Hel and Fenrir are very similar."
-
-//TEXT 【Takuji】
-<enT0567>"Avarice and anxiety resemble one another."
-<ptT0567>"Avarice and anxiety resemble one another."
-
-//TEXT 【Takuji】
-<enT0568>"Avarice and fear resemble one another."
-<ptT0568>"Avarice and fear resemble one another."
-
-//TEXT 【Takuji】
-<enT0569>"Humanity's endless greed is in the end nothing more than an endless anxiety."
-<ptT0569>"Humanity's endless greed is in the end nothing more than an endless anxiety."
-
-//TEXT 【Takuji】
-<enT0570>"Currency allows humanity to postpone their avarice... By fulfilling their immediate greed, they postpone its compensation indefinitely."
-<ptT0570>"Currency allows humanity to postpone their avarice... By fulfilling their immediate greed, they postpone its compensation indefinitely."
-
-//TEXT 【Takuji】
-<enT0571>"Currency is Gleipnir endlessly postponing an immediate greed... Thus, currency will never come to an end."
-<ptT0571>"Currency is Gleipnir endlessly postponing an immediate greed... Thus, currency will never come to an end."
-
-//TEXT 【Takuji】
-<enT0572>"It's the same as an endless fear... the same as anxiety!"
-<ptT0572>"It's the same as an endless fear... the same as anxiety!"
-
-//TEXT 【Takuji】
-<enT0573>"Hel's true form is anxiety, an endless chain of fear... an endlessly postponed fear, death!"
-<ptT0573>"Hel's true form is anxiety, an endless chain of fear... an endlessly postponed fear, death!"
-
-//TEXT 【Takuji】
-<enT0574>"There is but one difference between Hel and Fenrir."
-<ptT0574>"There is but one difference between Hel and Fenrir."
-
-//TEXT 【Takuji】
-<enT0575>"Fenrir is bound by the chain of Gleipnir, but Hel continues to gaze at us from atop the deck of the Naglfar... Yes, she continues to gaze at us!"
-<ptT0575>"Fenrir is bound by the chain of Gleipnir, but Hel continues to gaze at us from atop the deck of the Naglfar... Yes, she continues to gaze at us!"
-
-//TEXT 【Takuji】
-<enT0576>"Our fear of death is being left to roam free!"
-<ptT0576>"Our fear of death is being left to roam free!"
-
-//TEXT 【Takuji】
-<enT0577>"Now, just one remains..."
-<ptT0577>"Now, just one remains..."
-
-//TEXT 【Takuji】
-<enT0578>"I will now discuss the Ouroboros, that which is endless..."
-<ptT0578>"I will now discuss the Ouroboros, that which is endless..."
-
-//TEXT 【Takuji】
-<enT0579>"The last child to emerge from Angrbooa's womb was the great snake, Jormungandr."
-<ptT0579>"The last child to emerge from Angrbooa's womb was the great snake, Jormungandr."
-
-//TEXT 【Takuji】
-<enT0580>"Jormungandr's form struck great fear into the hearts of the Gods from the instant it was born."
-<ptT0580>"Jormungandr's form struck great fear into the hearts of the Gods from the instant it was born."
-
-//TEXT 【Takuji】
-<enT0581>"They cast it into the ocean, hoping to be rid of it..."
-<ptT0581>"They cast it into the ocean, hoping to be rid of it..."
-
-//TEXT 【Takuji】
-<enT0582>"But Jormungandr would only grow larger... eventually growing to reach the end of the universe itself."
-<ptT0582>"But Jormungandr would only grow larger... eventually growing to reach the end of the universe itself."
-
-//TEXT 【Takuji】
-<enT0583>"And here, something strange happened. Jormungandr's tail, which had reached the end of the universe, wrapped around to the other side, appearing right in front of Jormungandr's eyes."
-<ptT0583>"And here, something strange happened. Jormungandr's tail, which had reached the end of the universe, wrapped around to the other side, appearing right in front of Jormungandr's eyes."
-
-//TEXT 【Takuji】
-<enT0584>"And so Jormungandr bit its own tail."
-<ptT0584>"And so Jormungandr bit its own tail."
-
-//TEXT 【Takuji】
-<enT0585>"At the moment, the largest thing in existence became infinity. The universe itself was sealed inside the circle of infinity."
-<ptT0585>"At the moment, the largest thing in existence became infinity. The universe itself was sealed inside the circle of infinity."
-
-//TEXT 【Takuji】
-<enT0586>"The Gods, especially Thor, attempted many times to defeat Jormungandr... but their efforts were in vain. Any attempt to defeat Jormungandr could never end in anything but mutual destruction."
-<ptT0586>"The Gods, especially Thor, attempted many times to defeat Jormungandr... but their efforts were in vain. Any attempt to defeat Jormungandr could never end in anything but mutual destruction."
-
-//TEXT 【Takuji】
-<enT0587>"The Twilight of the Gods."
-<ptT0587>"The Twilight of the Gods."
-
-//TEXT 【Takuji】
-<enT0588>"Ancient mythology refers to it as such..."
-<ptT0588>"Ancient mythology refers to it as such..."
-
-//TEXT 【Takuji】
-<enT0589>"One day Jormungandr shall awaken, and this will be the end of the world."
-<ptT0589>"One day Jormungandr shall awaken, and this will be the end of the world."
-
-//TEXT 【Takuji】
-<enT0590>"Everything will be razed and everything will sink... Everything will come to an end."
-<ptT0590>"Everything will be razed and everything will sink... Everything will come to an end."
-
-//TEXT 【Takuji】
-<enT0591>"Jormungandr and Thor will destroy one another... The rest of the Gods will die as well..."
-<ptT0591>"Jormungandr and Thor will destroy one another... The rest of the Gods will die as well..."
-
-//TEXT 【Takuji】
-<enT0592>"And finally, a new world will be born."
-<ptT0592>"And finally, a new world will be born."
-
-//TEXT 【Takuji】
-<enT0593>"The forest of Hoddmimis alone will survive... and there, two humans who survived the blaze, Lif and Lifthrasir, will forge a new world."
-<ptT0593>"The forest of Hoddmimis alone will survive... and there, two humans who survived the blaze, Lif and Lifthrasir, will forge a new world."
-
-//TEXT 【Takuji】
-<enT0594>"This is nothing but a myth..."
-<ptT0594>"This is nothing but a myth..."
-
-//TEXT 【Takuji】
-<enT0595>"It cannot be anything more, for..."
-<ptT0595>"It cannot be anything more, for..."
-
-//TEXT 【Takuji】
-<enT0596>"Jormungandr symbolizes circulation... eternal recurrence... continuity... eternity... circular motion... death and resurrection... destruction and creation... the base of the universe... the infinite... immortality... perfection... omniscience and omnipotence..."
-<ptT0596>"Jormungandr symbolizes circulation... eternal recurrence... continuity... eternity... circular motion... death and resurrection... destruction and creation... the base of the universe... the infinite... immortality... perfection... omniscience and omnipotence..."
-
-//TEXT 【Takuji】
-<enT0597>"Killing this being would be nothing more than rewinding."
-<ptT0597>"Killing this being would be nothing more than rewinding."
-
-//TEXT 【Takuji】
-<enT0598>"In other words, Jormungandr and Thor's mutual destruction is not an ending, but a beginning..."
-<ptT0598>"In other words, Jormungandr and Thor's mutual destruction is not an ending, but a beginning..."
-
-//TEXT 【Takuji】
-<enT0599>"That beginning is the moment when Jormungandr bit its own tail..."
-<ptT0599>"That beginning is the moment when Jormungandr bit its own tail..."
-
-//TEXT 【Takuji】
-<enT0600>"That is infinity..."
-<ptT0600>"That is infinity..."
-
-//TEXT 【Takuji】
-<enT0601>"And the end of the Universe... where Jormungandr's tail and head meet..."
-<ptT0601>"And the end of the Universe... where Jormungandr's tail and head meet..."
-
-//TEXT 【Takuji】
-<enT0602>"That is the farthest sky... That is where we must return!"
-<ptT0602>"That is the farthest sky... That is where we must return!"
-
-//TEXT 【Takuji】
-<enT0603>"Only those who exist there will be granted the chance to live in the new world... to be revived..."
-<ptT0603>"Only those who exist there will be granted the chance to live in the new world... to be revived..."
-
-//TEXT 【Takuji】
-<enT0604>"The farthest sky... That is the sky where everything shall end... That is the End Sky!"
-<ptT0604>"The farthest sky... That is the sky where everything shall end... That is the End Sky!"
-
-//TEXT 【Kimika】
-<enT0605>"Ah!"
-<ptT0605>"Ah!"
-
-//TEXT 【Takuji】
-<enT0606>"Huh?"
-<ptT0606>"Huh?"
-
-//TEXT 【Takuji】
-<enT0607>"Wha―"
-<ptT0607>"Wha―"
-
-//TEXT 【Kimika】
-<enT0608>"Ggh!"
-<ptT0608>"Ggh!"
-
-//TEXT 【Kimika】
-<enT0609>"Ha!"
-<ptT0609>"Ha!"
-
-//TEXT
-<enT0610>Willpower... I guess you could call it that.
-<ptT0610>Willpower... I guess you could call it that.
-
-//TEXT
-<enT0611>She raised me back up again with her skinny arms and legs.
-<ptT0611>She raised me back up again with her skinny arms and legs.
-
-//TEXT 【Takuji】
-<enT0612>"Kimika, you..."
-<ptT0612>"Kimika, you..."
-
-//TEXT 【Kimika】
-<enT0613>"Ahgh..."
-<ptT0613>"Ahgh..."
-
-//TEXT
-<enT0614>She shook her head back and forth in denial.
-<ptT0614>She shook her head back and forth in denial.
-
-//TEXT
-<enT0615>What's she denying... The fact that she fell? Or is she saying she can't keep going?
-<ptT0615>What's she denying... The fact that she fell? Or is she saying she can't keep going?
-
-//TEXT
-<enT0616>Her skinny arms were already shaking violently, and her face wasn't just red, it was like a bright red firework.
-<ptT0616>Her skinny arms were already shaking violently, and her face wasn't just red, it was like a bright red firework.
-
-//TEXT
-<enT0617>I still had a lot to talk about, but...
-<ptT0617>I still had a lot to talk about, but...
-
-//TEXT 【Takuji】
-<enT0618>"That's all..."
-<ptT0618>"That's all..."
-
-//TEXT 【Kimika】
-<enT0619>"Ah."
-<ptT0619>"Ah."
-
-//TEXT 【Takuji】
-<enT0620>"..."
-<ptT0620>"..."
-
-//TEXT 【Kimika】
-<enT0621>"Oooh～"
-<ptT0621>"Oooh～"
-
-//TEXT
-<enT0622>Did she... faint?
-<ptT0622>Did she... faint?
-
-//TEXT
-<enT0623>What's she doing?
-<ptT0623>What's she doing?
-
-//TEXT 【Takuji】
-<enT0624>"Haa... Everyone, three times daily you should all sprinkle elixir on each other... and lick a little bit of elixir on your finger instead of eating. Then you won't feel hungry or thirsty."
-<ptT0624>"Haa... Everyone, three times daily you should all sprinkle elixir on each other... and lick a little bit of elixir on your finger instead of eating. Then you won't feel hungry or thirsty."
-
-//TEXT 【Takuji】
-<enT0625>"This is kind of..."
-<ptT0625>"This is kind of..."
-
-//TEXT
-<enT0626>Kimika fainted right there. Well, it must have been really hard for her, but...
-<ptT0626>Kimika fainted right there. Well, it must have been really hard for her, but...
-
-//TEXT
-<enT0627>Still, why is she trying so hard?
-<ptT0627>Still, why is she trying so hard?
-
-//TEXT
-<enT0628>I understand why they rest of them have gathered here... I understand all too well...
-<ptT0628>I understand why they rest of them have gathered here... I understand all too well...
-
-//TEXT
-<enT0629>But I feel like she's here for a different reason.
-<ptT0629>But I feel like she's here for a different reason.
-
-//TEXT
-<enT0630>The strange unease I felt when we first met... At first, I didn't understand why I felt uneasy.
-<ptT0630>The strange unease I felt when we first met... At first, I didn't understand why I felt uneasy.
-
-//TEXT
-<enT0631>It was completely different from the unease I felt around Minakami, Yuuki, the Wakatsuki sisters, or Otonashi. She wasn't an alien, metaphysical existence like them... She was much simpler.
-<ptT0631>It was completely different from the unease I felt around Minakami, Yuuki, the Wakatsuki sisters, or Otonashi. She wasn't an alien, metaphysical existence like them... She was much simpler.
-
-//TEXT
-<enT0632>She bullied Takashima... and then she came to me because she was afraid of the curse.
-<ptT0632>She bullied Takashima... and then she came to me because she was afraid of the curse.
-
-//TEXT
-<enT0633>She came because she didn't want to die... just like Akasaka Megu, Kitami Satoko, and the rest of them did.
-<ptT0633>She came because she didn't want to die... just like Akasaka Megu, Kitami Satoko, and the rest of them did.
-
-//TEXT
-<enT0634>But her eyes...
-<ptT0634>But her eyes...
-
-//TEXT
-<enT0635>Her eyes when we first met... and her voice when she was watching Senagawa...
-<ptT0635>Her eyes when we first met... and her voice when she was watching Senagawa...
-
-//TEXT
-<enT0636>She led Senagawa to her death without a moment's hesitation.
-<ptT0636>She led Senagawa to her death without a moment's hesitation.
-
-//TEXT
-<enT0637>Now that I think about it, did I really fool her with that farce?
-<ptT0637>Now that I think about it, did I really fool her with that farce?
-
-//TEXT
-<enT0638>I've put on a show to make the others believe in my predictions...
-<ptT0638>I've put on a show to make the others believe in my predictions...
-
-//TEXT
-<enT0639>But it honestly feels like I showed her my entire hand at the beginning.
-<ptT0639>But it honestly feels like I showed her my entire hand at the beginning.
-
-//TEXT
-<enT0640>She's the only one who could've figured out that I didn't kill Senagawa with the curse, but led her directly to death instead.
-<ptT0640>She's the only one who could've figured out that I didn't kill Senagawa with the curse, but led her directly to death instead.
-
-//TEXT
-<enT0641>And yet...
-<ptT0641>And yet...
-
-//TEXT
-<enT0642>Why is she the most faithful and devoted of them all? Why did she trying to help me like this?
-<ptT0642>Why is she the most faithful and devoted of them all? Why did she trying to help me like this?
-
-//TEXT 【Kimika】
-<enT0643>"I would watch you even if it meant I would fall into the depths of hell! I'm not afraid of dying at all, and I'm sure I'll go to hell when I die!"
-<ptT0643>"I would watch you even if it meant I would fall into the depths of hell! I'm not afraid of dying at all, and I'm sure I'll go to hell when I die!"
-
-//TEXT 【Kimika】
-<enT0644>"But if you say I absolutely can't... I guess I'll stop if you really hate it."
-<ptT0644>"But if you say I absolutely can't... I guess I'll stop if you really hate it."
-
-//TEXT
-<enT0645>Those words were strange... even if she was on drugs...
-<ptT0645>Those words were strange... even if she was on drugs...
-
-//TEXT
-<enT0646>Someone who just came to be saved wouldn't say that.
-<ptT0646>Someone who just came to be saved wouldn't say that.
-
-//TEXT
-<enT0647>Perhaps those were her true feelings, and she only said them because of the drugs?
-<ptT0647>Perhaps those were her true feelings, and she only said them because of the drugs?
-
-//TEXT
-<enT0648>Just what is she thinking?
-<ptT0648>Just what is she thinking?
-
-//TEXT 【Kimika】
-<enT0649>"Mmm..."
-<ptT0649>"Mmm..."
-
-//TEXT 【Kimika】
-<enT0650>"Ah?!"
-<ptT0650>"Ah?!"
-
-//TEXT 【Kimika】
-<enT0651>"Wh-Where am I?"
-<ptT0651>"Wh-Where am I?"
-
-//TEXT 【Takuji】
-<enT0652>"This is my room..."
-<ptT0652>"This is my room..."
-
-//TEXT 【Kimika】
-<enT0653>"Eh? Oh! How did I get here?"
-<ptT0653>"Eh? Oh! How did I get here?"
-
-//TEXT 【Takuji】
-<enT0654>"I carried you."
-<ptT0654>"I carried you."
-
-//TEXT 【Kimika】
-<enT0655>"Eh? Do you mean... you carried me like a princess?"
-<ptT0655>"Eh? Do you mean... you carried me like a princess?"
-
-//TEXT 【Takuji】
-<enT0656>"Yeah..."
-<ptT0656>"Yeah..."
-
-//TEXT 【Kimika】
-<enT0657>"...Daaamn iiiitt!"
-<ptT0657>"...Daaamn iiiitt!"
-
-//TEXT 【Takuji】
-<enT0658>"Wh-What is it?"
-<ptT0658>"Wh-What is it?"
-
-//TEXT 【Kimika】
-<enT0659>"Please don't do that kind of service for me when I'm unconscious!"
-<ptT0659>"Please don't do that kind of service for me when I'm unconscious!"
-
-//TEXT 【Takuji】
-<enT0660>"It wasn't supposed to be any kind of service..."
-<ptT0660>"It wasn't supposed to be any kind of service..."
-
-//TEXT 【Kimika】
-<enT0661>"Ah, I wish I could go back in time... I missed out."
-<ptT0661>"Ah, I wish I could go back in time... I missed out."
-
-//TEXT 【Takuji】
-<enT0662>"Missed out, huh..."
-<ptT0662>"Missed out, huh..."
-
-//TEXT 【Kimika】
-<enT0663>"Yes, big time..."
-<ptT0663>"Yes, big time..."
-
-//TEXT 【Takuji】
-<enT0664>"I don't know what you want from me..."
-<ptT0664>"I don't know what you want from me..."
-
-//TEXT 【Takuji】
-<enT0665>"Now then, it's about time."
-<ptT0665>"Now then, it's about time."
-
-//TEXT 【Kimika】
-<enT0666>"Where are you going?"
-<ptT0666>"Where are you going?"
-
-//TEXT 【Takuji】
-<enT0667>"The roof."
-<ptT0667>"The roof."
-
-//TEXT 【Kimika】
-<enT0668>"Eh? You're going outside again?"
-<ptT0668>"Eh? You're going outside again?"
-
-//TEXT 【Takuji】
-<enT0669>"Yeah, I can go directly up to the Building C rooftop from here..."
-<ptT0669>"Yeah, I can go directly up to the Building C rooftop from here..."
-
-//TEXT 【Kimika】
-<enT0670>"Oh, that's how you disappear sometimes. I thought it was one of your special powers."
-<ptT0670>"Oh, that's how you disappear sometimes. I thought it was one of your special powers."
-
-//TEXT 【Takuji】
-<enT0671>"No, it's just a ladder... It's really long."
-<ptT0671>"No, it's just a ladder... It's really long."
-
-//TEXT 【Kimika】
-<enT0672>"U-Um, my savior..."
-<ptT0672>"U-Um, my savior..."
-
-//TEXT 【Takuji】
-<enT0673>"What?"
-<ptT0673>"What?"
-
-//TEXT 【Kimika】
-<enT0674>"It looked like you were having a lot of fun last night."
-<ptT0674>"It looked like you were having a lot of fun last night."
-
-//TEXT 【Takuji】
-<enT0675>"Yeah, I guess I heard God's song. I don't really remember it, though..."
-<ptT0675>"Yeah, I guess I heard God's song. I don't really remember it, though..."
-
-//TEXT 【Kimika】
-<enT0676>"I want to go too!"
-<ptT0676>"I want to go too!"
-
-//TEXT 【Takuji】
-<enT0677>"No, that's ridiculous."
-<ptT0677>"No, that's ridiculous."
-
-//TEXT 【Kimika】
-<enT0678>"I can't?"
-<ptT0678>"I can't?"
-
-//TEXT 【Takuji】
-<enT0679>"I'm not saying you can't, but it's pretty dangerous out there. The day before yesterday, there were billions of white and black angels fighting. It wasn't a problem for me, since I'm the savior, but for you..."
-<ptT0679>"I'm not saying you can't, but it's pretty dangerous out there. The day before yesterday, there were billions of white and black angels fighting. It wasn't a problem for me, since I'm the savior, but for you..."
-
-//TEXT 【Kimika】
-<enT0680>"That's fine. I don't mind if it's dangerous."
-<ptT0680>"That's fine. I don't mind if it's dangerous."
-
-//TEXT 【Kimika】
-<enT0681>"I don't care if I die right now, so it doesn't matter how dangerous it is."
-<ptT0681>"I don't care if I die right now, so it doesn't matter how dangerous it is."
-
-//TEXT 【Kimika】
-<enT0682>"But, if possible... If possible, I'd like to see the same landscape that you saw. Would you share the scenery from your viewpoint with me just once?"
-<ptT0682>"But, if possible... If possible, I'd like to see the same landscape that you saw. Would you share the scenery from your viewpoint with me just once?"
-
-//TEXT 【Takuji】
-<enT0683>"Wh-Why are you so serious all of a sudden?"
-<ptT0683>"Wh-Why are you so serious all of a sudden?"
-
-//TEXT 【Kimika】
-<enT0684>"Hahaha, I'm sorry. I always mess around, so... I'm not good with this kind of stuff."
-<ptT0684>"Hahaha, I'm sorry. I always mess around, so... I'm not good with this kind of stuff."
-
-//TEXT 【Takuji】
-<enT0685>"..."
-<ptT0685>"..."
-
-//TEXT 【Takuji】
-<enT0686>"All right, fine. But I'm not responsible if something happens to you."
-<ptT0686>"All right, fine. But I'm not responsible if something happens to you."
-
-//TEXT 【Kimika】
-<enT0687>"S-Seriously?"
-<ptT0687>"S-Seriously?"
-
-//TEXT 【Takuji】
-<enT0688>"The roof is close to the sky, so both the white and black surges can fly there freely... If you get caught by the Black Surge, you might get your brain fried."
-<ptT0688>"The roof is close to the sky, so both the white and black surges can fly there freely... If you get caught by the Black Surge, you might get your brain fried."
-
-//TEXT 【Kimika】
-<enT0689>"Just what I wanted... I'd be happy to die like that. I still want to see it... The scenery from the roof..."
-<ptT0689>"Just what I wanted... I'd be happy to die like that. I still want to see it... The scenery from the roof..."
-
-//TEXT 【Takuji】
-<enT0690>"Hehehe... All right..."
-<ptT0690>"Hehehe... All right..."
-
-//TEXT
-<enT0691>This must disqualify me as the savior...
-<ptT0691>This must disqualify me as the savior...
-
-//TEXT
-<enT0692>But I wonder... Maybe this is part of the pre-established harmony too...
-<ptT0692>But I wonder... Maybe this is part of the pre-established harmony too...
-
-//TEXT
-<enT0693>...
-<ptT0693>...
-
-//TEXT
-<enT0694>Or not... Not everything goes as God expects it to.
-<ptT0694>Or not... Not everything goes as God expects it to.
-
-//TEXT
-<enT0695>Oh well, there's no point in dwelling on it.
-<ptT0695>Oh well, there's no point in dwelling on it.
-
-//TEXT
-<enT0696>I don't mind taking her along... That's what I thought...
-<ptT0696>I don't mind taking her along... That's what I thought...
-
-//TEXT
-<enT0697>I decided to take her along.
-<ptT0697>I decided to take her along.
-
-//TEXT
-<enT0698>The signal of the day's change...
-<ptT0698>The signal of the day's change...
-
-//TEXT
-<enT0699>The world's final night approached.
-<ptT0699>The world's final night approached.
-
-///================================================================================
-
-//OTHER
-<enZ0001>2_0717_kimi.bss
-<ptZ0001>2_0717_kimi.bss
-
-//OTHER
-<enZ0002>July 17th
-<ptZ0002>July 17th
-
-//OTHER
-<enZ0003>It's my own Invention
-<ptZ0003>It's my own Invention
-
-//OTHER
-<enZ0004>daytk0717
-<ptZ0004>daytk0717
-
-//OTHER
-<enZ0005>kimi_000278
-<ptZ0005>kimi_000278
-
-//OTHER
-<enZ0006>kimi_000279
-<ptZ0006>kimi_000279
-
-//OTHER
-<enZ0007>taku_003331
-<ptZ0007>taku_003331
-
-//OTHER
-<enZ0008>kimi_000280
-<ptZ0008>kimi_000280
-
-//OTHER
-<enZ0009>taku_003332
-<ptZ0009>taku_003332
-
-//OTHER
-<enZ0010>kimi_000281
-<ptZ0010>kimi_000281
-
-//OTHER
-<enZ0011>map020
-<ptZ0011>map020
-
-//OTHER
-<enZ0012>ev5002a
-<ptZ0012>ev5002a
-
-//OTHER
-<enZ0013>bgm008
-<ptZ0013>bgm008
-
-//OTHER
-<enZ0014>taku_003333
-<ptZ0014>taku_003333
-
-//OTHER
-<enZ0015>kimi_000282
-<ptZ0015>kimi_000282
-
-//OTHER
-<enZ0016>taku_003334
-<ptZ0016>taku_003334
-
-//OTHER
-<enZ0017>taku_003335
-<ptZ0017>taku_003335
-
-//OTHER
-<enZ0018>taku_003336
-<ptZ0018>taku_003336
-
-//OTHER
-<enZ0019>taku_003337
-<ptZ0019>taku_003337
-
-//OTHER
-<enZ0020>ev5002b
-<ptZ0020>ev5002b
-
-//OTHER
-<enZ0021>kimi_000283
-<ptZ0021>kimi_000283
-
-//OTHER
-<enZ0022>taku_003338
-<ptZ0022>taku_003338
-
-//OTHER
-<enZ0023>ev5002c
-<ptZ0023>ev5002c
-
-//OTHER
-<enZ0024>kimi_000284
-<ptZ0024>kimi_000284
-
-//OTHER
-<enZ0025>taku_003339
-<ptZ0025>taku_003339
-
-//OTHER
-<enZ0026>kimi_000285_2
-<ptZ0026>kimi_000285_2
-
-//OTHER
-<enZ0027>taku_003340
-<ptZ0027>taku_003340
-
-//OTHER
-<enZ0028>kimi_000286
-<ptZ0028>kimi_000286
-
-//OTHER
-<enZ0029>taku_003341
-<ptZ0029>taku_003341
-
-//OTHER
-<enZ0030>se_megusato
-<ptZ0030>se_megusato
-
-//OTHER
-<enZ0031>map001
-<ptZ0031>map001
-
-//OTHER
-<enZ0032>ev8106b
-<ptZ0032>ev8106b
-
-//OTHER
-<enZ0033>taku_003342
-<ptZ0033>taku_003342
-
-//OTHER
-<enZ0034>kimi_000287
-<ptZ0034>kimi_000287
-
-//OTHER
-<enZ0035>taku_003343
-<ptZ0035>taku_003343
-
-//OTHER
-<enZ0036>kimi_000288
-<ptZ0036>kimi_000288
-
-//OTHER
-<enZ0037>map002
-<ptZ0037>map002
-
-//OTHER
-<enZ0038>ev5002j
-<ptZ0038>ev5002j
-
-//OTHER
-<enZ0039>kimi_000289
-<ptZ0039>kimi_000289
-
-//OTHER
-<enZ0040>map009
-<ptZ0040>map009
-
-//OTHER
-<enZ0041>ev8012a
-<ptZ0041>ev8012a
-
-//OTHER
-<enZ0042>kimi_000290
-<ptZ0042>kimi_000290
-
-//OTHER
-<enZ0043>taku_003344
-<ptZ0043>taku_003344
-
-//OTHER
-<enZ0044>kimi_000291
-<ptZ0044>kimi_000291
-
-//OTHER
-<enZ0045>taku_003345
-<ptZ0045>taku_003345
-
-//OTHER
-<enZ0046>kimi_000292
-<ptZ0046>kimi_000292
-
-//OTHER
-<enZ0047>taku_003346
-<ptZ0047>taku_003346
-
-//OTHER
-<enZ0048>kimi_000293
-<ptZ0048>kimi_000293
-
-//OTHER
-<enZ0049>taku_003347
-<ptZ0049>taku_003347
-
-//OTHER
-<enZ0050>kimi_000294
-<ptZ0050>kimi_000294
-
-//OTHER
-<enZ0051>taku_003348
-<ptZ0051>taku_003348
-
-//OTHER
-<enZ0052>taku_003349
-<ptZ0052>taku_003349
-
-//OTHER
-<enZ0053>kimi_000295
-<ptZ0053>kimi_000295
-
-//OTHER
-<enZ0054>taku_003350
-<ptZ0054>taku_003350
-
-//OTHER
-<enZ0055>taku_003351
-<ptZ0055>taku_003351
-
-//OTHER
-<enZ0056>kimi_000296
-<ptZ0056>kimi_000296
-
-//OTHER
-<enZ0057>taku_003352
-<ptZ0057>taku_003352
-
-//OTHER
-<enZ0058>taku_003353
-<ptZ0058>taku_003353
-
-//OTHER
-<enZ0059>kimi_000297
-<ptZ0059>kimi_000297
-
-//OTHER
-<enZ0060>taku_003354
-<ptZ0060>taku_003354
-
-//OTHER
-<enZ0061>ev5002l
-<ptZ0061>ev5002l
-
-//OTHER
-<enZ0062>kimi_000298
-<ptZ0062>kimi_000298
-
-//OTHER
-<enZ0063>taku_003355
-<ptZ0063>taku_003355
-
-//OTHER
-<enZ0064>ev5002d
-<ptZ0064>ev5002d
-
-//OTHER
-<enZ0065>kimi_000299
-<ptZ0065>kimi_000299
-
-//OTHER
-<enZ0066>taku_003356
-<ptZ0066>taku_003356
-
-//OTHER
-<enZ0067>kimi_000300
-<ptZ0067>kimi_000300
-
-//OTHER
-<enZ0068>taku_003357
-<ptZ0068>taku_003357
-
-//OTHER
-<enZ0069>kimi_000301
-<ptZ0069>kimi_000301
-
-//OTHER
-<enZ0070>taku_003358
-<ptZ0070>taku_003358
-
-//OTHER
-<enZ0071>kimi_000302
-<ptZ0071>kimi_000302
-
-//OTHER
-<enZ0072>taku_003359
-<ptZ0072>taku_003359
-
-//OTHER
-<enZ0073>taku_003360
-<ptZ0073>taku_003360
-
-//OTHER
-<enZ0074>kimi_000303
-<ptZ0074>kimi_000303
-
-//OTHER
-<enZ0075>taku_003361
-<ptZ0075>taku_003361
-
-//OTHER
-<enZ0076>kimi_000304
-<ptZ0076>kimi_000304
-
-//OTHER
-<enZ0077>kimi_000305
-<ptZ0077>kimi_000305
-
-//OTHER
-<enZ0078>taku_003362
-<ptZ0078>taku_003362
-
-//OTHER
-<enZ0079>kimi_000306
-<ptZ0079>kimi_000306
-
-//OTHER
-<enZ0080>taku_003363
-<ptZ0080>taku_003363
-
-//OTHER
-<enZ0081>taku_003364
-<ptZ0081>taku_003364
-
-//OTHER
-<enZ0082>kimi_000307
-<ptZ0082>kimi_000307
-
-//OTHER
-<enZ0083>taku_003365
-<ptZ0083>taku_003365
-
-//OTHER
-<enZ0084>ev5002m
-<ptZ0084>ev5002m
-
-//OTHER
-<enZ0085>kimi_000308
-<ptZ0085>kimi_000308
-
-//OTHER
-<enZ0086>taku_003366
-<ptZ0086>taku_003366
-
-//OTHER
-<enZ0087>kimi_000309
-<ptZ0087>kimi_000309
-
-//OTHER
-<enZ0088>taku_003367
-<ptZ0088>taku_003367
-
-//OTHER
-<enZ0089>kimi_000310
-<ptZ0089>kimi_000310
-
-//OTHER
-<enZ0090>taku_003368
-<ptZ0090>taku_003368
-
-//OTHER
-<enZ0091>kimi_000311
-<ptZ0091>kimi_000311
-
-//OTHER
-<enZ0092>taku_003369
-<ptZ0092>taku_003369
-
-//OTHER
-<enZ0093>kimi_000312
-<ptZ0093>kimi_000312
-
-//OTHER
-<enZ0094>taku_003370
-<ptZ0094>taku_003370
-
-//OTHER
-<enZ0095>kimi_000313
-<ptZ0095>kimi_000313
-
-//OTHER
-<enZ0096>taku_003371
-<ptZ0096>taku_003371
-
-//OTHER
-<enZ0097>taku_003372
-<ptZ0097>taku_003372
-
-//OTHER
-<enZ0098>kimi_000314
-<ptZ0098>kimi_000314
-
-//OTHER
-<enZ0099>taku_003373
-<ptZ0099>taku_003373
-
-//OTHER
-<enZ0100>kimi_000315
-<ptZ0100>kimi_000315
-
-//OTHER
-<enZ0101>taku_003374
-<ptZ0101>taku_003374
-
-//OTHER
-<enZ0102>kimi_000316
-<ptZ0102>kimi_000316
-
-//OTHER
-<enZ0103>taku_003375
-<ptZ0103>taku_003375
-
-//OTHER
-<enZ0104>kimi_000317
-<ptZ0104>kimi_000317
-
-//OTHER
-<enZ0105>kimi_000318
-<ptZ0105>kimi_000318
-
-//OTHER
-<enZ0106>taku_003376
-<ptZ0106>taku_003376
-
-//OTHER
-<enZ0107>kimi_000319
-<ptZ0107>kimi_000319
-
-//OTHER
-<enZ0108>kimi_000320
-<ptZ0108>kimi_000320
-
-//OTHER
-<enZ0109>taku_003377
-<ptZ0109>taku_003377
-
-//OTHER
-<enZ0110>kimi_000321
-<ptZ0110>kimi_000321
-
-//OTHER
-<enZ0111>taku_003378
-<ptZ0111>taku_003378
-
-//OTHER
-<enZ0112>taku_003379
-<ptZ0112>taku_003379
-
-//OTHER
-<enZ0113>kimi_000322
-<ptZ0113>kimi_000322
-
-//OTHER
-<enZ0114>taku_003380
-<ptZ0114>taku_003380
-
-//OTHER
-<enZ0115>ev8106c
-<ptZ0115>ev8106c
-
-//OTHER
-<enZ0116>kimi_000323
-<ptZ0116>kimi_000323
-
-//OTHER
-<enZ0117>taku_003381
-<ptZ0117>taku_003381
-
-//OTHER
-<enZ0118>bgm103
-<ptZ0118>bgm103
-
-//OTHER
-<enZ0119>taku_003382
-<ptZ0119>taku_003382
-
-//OTHER
-<enZ0120>kimi_000324
-<ptZ0120>kimi_000324
-
-//OTHER
-<enZ0121>taku_003383
-<ptZ0121>taku_003383
-
-//OTHER
-<enZ0122>ev5002e
-<ptZ0122>ev5002e
-
-//OTHER
-<enZ0123>kimi_000325
-<ptZ0123>kimi_000325
-
-//OTHER
-<enZ0124>taku_003384
-<ptZ0124>taku_003384
-
-//OTHER
-<enZ0125>taku_003385
-<ptZ0125>taku_003385
-
-//OTHER
-<enZ0126>kimi_000325a
-<ptZ0126>kimi_000325a
-
-//OTHER
-<enZ0127>taku_003386
-<ptZ0127>taku_003386
-
-//OTHER
-<enZ0128>kimi_000326
-<ptZ0128>kimi_000326
-
-//OTHER
-<enZ0129>taku_003387
-<ptZ0129>taku_003387
-
-//OTHER
-<enZ0130>kimi_000327
-<ptZ0130>kimi_000327
-
-//OTHER
-<enZ0131>taku_003388
-<ptZ0131>taku_003388
-
-//OTHER
-<enZ0132>kimi_000328
-<ptZ0132>kimi_000328
-
-//OTHER
-<enZ0133>taku_003389
-<ptZ0133>taku_003389
-
-//OTHER
-<enZ0134>kimi_000329
-<ptZ0134>kimi_000329
-
-//OTHER
-<enZ0135>taku_003390
-<ptZ0135>taku_003390
-
-//OTHER
-<enZ0136>kimi_000330
-<ptZ0136>kimi_000330
-
-//OTHER
-<enZ0137>taku_003391
-<ptZ0137>taku_003391
-
-//OTHER
-<enZ0138>kimi_000331
-<ptZ0138>kimi_000331
-
-//OTHER
-<enZ0139>taku_003392
-<ptZ0139>taku_003392
-
-//OTHER
-<enZ0140>kimi_000332
-<ptZ0140>kimi_000332
-
-//OTHER
-<enZ0141>taku_003393
-<ptZ0141>taku_003393
-
-//OTHER
-<enZ0142>kimi_000333
-<ptZ0142>kimi_000333
-
-//OTHER
-<enZ0143>taku_003394
-<ptZ0143>taku_003394
-
-//OTHER
-<enZ0144>kimi_000334
-<ptZ0144>kimi_000334
-
-//OTHER
-<enZ0145>taku_003395
-<ptZ0145>taku_003395
-
-//OTHER
-<enZ0146>taku_003396
-<ptZ0146>taku_003396
-
-//OTHER
-<enZ0147>bg1025b
-<ptZ0147>bg1025b
-
-//OTHER
-<enZ0148>taku_003397
-<ptZ0148>taku_003397
-
-//OTHER
-<enZ0149>kimi_000335
-<ptZ0149>kimi_000335
-
-//OTHER
-<enZ0150>taku_003398
-<ptZ0150>taku_003398
-
-//OTHER
-<enZ0151>taku_003399
-<ptZ0151>taku_003399
-
-//OTHER
-<enZ0152>kimi_000336
-<ptZ0152>kimi_000336
-
-//OTHER
-<enZ0153>taku_003400
-<ptZ0153>taku_003400
-
-//OTHER
-<enZ0154>kimi_000337
-<ptZ0154>kimi_000337
-
-//OTHER
-<enZ0155>taku_003401
-<ptZ0155>taku_003401
-
-//OTHER
-<enZ0156>kimi_000338
-<ptZ0156>kimi_000338
-
-//OTHER
-<enZ0157>taku_003402
-<ptZ0157>taku_003402
-
-//OTHER
-<enZ0158>kimi_000339
-<ptZ0158>kimi_000339
-
-//OTHER
-<enZ0159>kimi_000340
-<ptZ0159>kimi_000340
-
-//OTHER
-<enZ0160>taku_003403
-<ptZ0160>taku_003403
-
-//OTHER
-<enZ0161>kimi_000341
-<ptZ0161>kimi_000341
-
-//OTHER
-<enZ0162>taku_003404
-<ptZ0162>taku_003404
-
-//OTHER
-<enZ0163>kimi_000342
-<ptZ0163>kimi_000342
-
-//OTHER
-<enZ0164>kimi_000343
-<ptZ0164>kimi_000343
-
-//OTHER
-<enZ0165>taku_003405
-<ptZ0165>taku_003405
-
-//OTHER
-<enZ0166>kimi_000344
-<ptZ0166>kimi_000344
-
-//OTHER
-<enZ0167>taku_003406
-<ptZ0167>taku_003406
-
-//OTHER
-<enZ0168>taku_003407
-<ptZ0168>taku_003407
-
-//OTHER
-<enZ0169>kimi_000345
-<ptZ0169>kimi_000345
-
-//OTHER
-<enZ0170>taku_003408
-<ptZ0170>taku_003408
-
-//OTHER
-<enZ0171>kimi_000346
-<ptZ0171>kimi_000346
-
-//OTHER
-<enZ0172>taku_003409
-<ptZ0172>taku_003409
-
-//OTHER
-<enZ0173>kimi_000347
-<ptZ0173>kimi_000347
-
-//OTHER
-<enZ0174>taku_003410
-<ptZ0174>taku_003410
-
-//OTHER
-<enZ0175>ev8012b
-<ptZ0175>ev8012b
-
-//OTHER
-<enZ0176>kimi_000348
-<ptZ0176>kimi_000348
-
-//OTHER
-<enZ0177>taku_003411
-<ptZ0177>taku_003411
-
-//OTHER
-<enZ0178>kimi_000349
-<ptZ0178>kimi_000349
-
-//OTHER
-<enZ0179>taku_003412
-<ptZ0179>taku_003412
-
-//OTHER
-<enZ0180>kimi_000350
-<ptZ0180>kimi_000350
-
-//OTHER
-<enZ0181>taku_003413
-<ptZ0181>taku_003413
-
-//OTHER
-<enZ0182>kimi_000351
-<ptZ0182>kimi_000351
-
-//OTHER
-<enZ0183>taku_003414
-<ptZ0183>taku_003414
-
-//OTHER
-<enZ0184>kimi_000352
-<ptZ0184>kimi_000352
-
-//OTHER
-<enZ0185>taku_003415
-<ptZ0185>taku_003415
-
-//OTHER
-<enZ0186>kimi_000353
-<ptZ0186>kimi_000353
-
-//OTHER
-<enZ0187>taku_003416
-<ptZ0187>taku_003416
-
-//OTHER
-<enZ0188>kimi_000354
-<ptZ0188>kimi_000354
-
-//OTHER
-<enZ0189>taku_003417
-<ptZ0189>taku_003417
-
-//OTHER
-<enZ0190>kimi_000355
-<ptZ0190>kimi_000355
-
-//OTHER
-<enZ0191>taku_003418
-<ptZ0191>taku_003418
-
-//OTHER
-<enZ0192>kimi_000356
-<ptZ0192>kimi_000356
-
-//OTHER
-<enZ0193>taku_003419
-<ptZ0193>taku_003419
-
-//OTHER
-<enZ0194>kimi_000357
-<ptZ0194>kimi_000357
-
-//OTHER
-<enZ0195>taku_003420
-<ptZ0195>taku_003420
-
-//OTHER
-<enZ0196>kimi_000358
-<ptZ0196>kimi_000358
-
-//OTHER
-<enZ0197>taku_003421
-<ptZ0197>taku_003421
-
-//OTHER
-<enZ0198>kimi_000359
-<ptZ0198>kimi_000359
-
-//OTHER
-<enZ0199>map033
-<ptZ0199>map033
-
-//OTHER
-<enZ0200>ev8012c
-<ptZ0200>ev8012c
-
-//OTHER
-<enZ0201>taku_003422
-<ptZ0201>taku_003422
-
-//OTHER
-<enZ0202>kimi_000360
-<ptZ0202>kimi_000360
-
-//OTHER
-<enZ0203>taku_003423
-<ptZ0203>taku_003423
-
-//OTHER
-<enZ0204>kimi_000361
-<ptZ0204>kimi_000361
-
-//OTHER
-<enZ0205>taku_003424
-<ptZ0205>taku_003424
-
-//OTHER
-<enZ0206>kimi_000362
-<ptZ0206>kimi_000362
-
-//OTHER
-<enZ0207>taku_003425
-<ptZ0207>taku_003425
-
-//OTHER
-<enZ0208>kimi_000363
-<ptZ0208>kimi_000363
-
-//OTHER
-<enZ0209>kimi_000364
-<ptZ0209>kimi_000364
-
-//OTHER
-<enZ0210>taku_003426
-<ptZ0210>taku_003426
-
-//OTHER
-<enZ0211>taku_003427
-<ptZ0211>taku_003427
-
-//OTHER
-<enZ0212>kimi_000365
-<ptZ0212>kimi_000365
-
-//OTHER
-<enZ0213>kimi_000366
-<ptZ0213>kimi_000366
-
-//OTHER
-<enZ0214>taku_003428
-<ptZ0214>taku_003428
-
-//OTHER
-<enZ0215>kimi_000367
-<ptZ0215>kimi_000367
-
-//OTHER
-<enZ0216>taku_003429
-<ptZ0216>taku_003429
-
-//OTHER
-<enZ0217>kimi_000368
-<ptZ0217>kimi_000368
-
-//OTHER
-<enZ0218>kimi_000369
-<ptZ0218>kimi_000369
-
-//OTHER
-<enZ0219>taku_003430
-<ptZ0219>taku_003430
-
-//OTHER
-<enZ0220>kimi_000370
-<ptZ0220>kimi_000370
-
-//OTHER
-<enZ0221>taku_003431
-<ptZ0221>taku_003431
-
-//OTHER
-<enZ0222>kimi_000371
-<ptZ0222>kimi_000371
-
-//OTHER
-<enZ0223>taku_003432
-<ptZ0223>taku_003432
-
-//OTHER
-<enZ0224>kimi_000372
-<ptZ0224>kimi_000372
-
-//OTHER
-<enZ0225>taku_003433
-<ptZ0225>taku_003433
-
-//OTHER
-<enZ0226>kimi_000373
-<ptZ0226>kimi_000373
-
-//OTHER
-<enZ0227>taku_003434
-<ptZ0227>taku_003434
-
-//OTHER
-<enZ0228>kimi_000374
-<ptZ0228>kimi_000374
-
-//OTHER
-<enZ0229>taku_003435
-<ptZ0229>taku_003435
-
-//OTHER
-<enZ0230>kimi_000375
-<ptZ0230>kimi_000375
-
-//OTHER
-<enZ0231>taku_003436
-<ptZ0231>taku_003436
-
-//OTHER
-<enZ0232>kimi_000376
-<ptZ0232>kimi_000376
-
-//OTHER
-<enZ0233>taku_003437
-<ptZ0233>taku_003437
-
-//OTHER
-<enZ0234>kimi_000377
-<ptZ0234>kimi_000377
-
-//OTHER
-<enZ0235>taku_003438
-<ptZ0235>taku_003438
-
-//OTHER
-<enZ0236>kimi_000378
-<ptZ0236>kimi_000378
-
-//OTHER
-<enZ0237>taku_003439
-<ptZ0237>taku_003439
-
-//OTHER
-<enZ0238>kimi_000379
-<ptZ0238>kimi_000379
-
-//OTHER
-<enZ0239>taku_003440
-<ptZ0239>taku_003440
-
-//OTHER
-<enZ0240>kimi_000380
-<ptZ0240>kimi_000380
-
-//OTHER
-<enZ0241>taku_003441
-<ptZ0241>taku_003441
-
-//OTHER
-<enZ0242>kimi_000381
-<ptZ0242>kimi_000381
-
-//OTHER
-<enZ0243>taku_003442
-<ptZ0243>taku_003442
-
-//OTHER
-<enZ0244>ev5002k
-<ptZ0244>ev5002k
-
-//OTHER
-<enZ0245>kimi_000382
-<ptZ0245>kimi_000382
-
-//OTHER
-<enZ0246>kimi_000383
-<ptZ0246>kimi_000383
-
-//OTHER
-<enZ0247>taku_003443
-<ptZ0247>taku_003443
-
-//OTHER
-<enZ0248>kimi_000384
-<ptZ0248>kimi_000384
-
-//OTHER
-<enZ0249>taku_003444
-<ptZ0249>taku_003444
-
-//OTHER
-<enZ0250>kimi_000385
-<ptZ0250>kimi_000385
-
-//OTHER
-<enZ0251>taku_003445
-<ptZ0251>taku_003445
-
-//OTHER
-<enZ0252>kimi_000386
-<ptZ0252>kimi_000386
-
-//OTHER
-<enZ0253>taku_003446
-<ptZ0253>taku_003446
-
-//OTHER
-<enZ0254>kimi_000387
-<ptZ0254>kimi_000387
-
-//OTHER
-<enZ0255>kimi_000388
-<ptZ0255>kimi_000388
-
-//OTHER
-<enZ0256>taku_003447
-<ptZ0256>taku_003447
-
-//OTHER
-<enZ0257>kimi_000389
-<ptZ0257>kimi_000389
-
-//OTHER
-<enZ0258>taku_003448
-<ptZ0258>taku_003448
-
-//OTHER
-<enZ0259>ev5002i
-<ptZ0259>ev5002i
-
-//OTHER
-<enZ0260>kimi_000390
-<ptZ0260>kimi_000390
-
-//OTHER
-<enZ0261>taku_003449
-<ptZ0261>taku_003449
-
-//OTHER
-<enZ0262>kimi_000391
-<ptZ0262>kimi_000391
-
-//OTHER
-<enZ0263>kimi_000392
-<ptZ0263>kimi_000392
-
-//OTHER
-<enZ0264>taku_003450
-<ptZ0264>taku_003450
-
-//OTHER
-<enZ0265>taku_003451
-<ptZ0265>taku_003451
-
-//OTHER
-<enZ0266>kimi_000393
-<ptZ0266>kimi_000393
-
-//OTHER
-<enZ0267>taku_003452
-<ptZ0267>taku_003452
-
-//OTHER
-<enZ0268>kimi_000394
-<ptZ0268>kimi_000394
-
-//OTHER
-<enZ0269>taku_003453
-<ptZ0269>taku_003453
-
-//OTHER
-<enZ0270>kimi_000395
-<ptZ0270>kimi_000395
-
-//OTHER
-<enZ0271>taku_003454
-<ptZ0271>taku_003454
-
-//OTHER
-<enZ0272>kimi_000396
-<ptZ0272>kimi_000396
-
-//OTHER
-<enZ0273>kimi_000397
-<ptZ0273>kimi_000397
-
-//OTHER
-<enZ0274>taku_003455
-<ptZ0274>taku_003455
-
-//OTHER
-<enZ0275>kimi_000398
-<ptZ0275>kimi_000398
-
-//OTHER
-<enZ0276>taku_003456
-<ptZ0276>taku_003456
-
-//OTHER
-<enZ0277>kimi_000399
-<ptZ0277>kimi_000399
-
-//OTHER
-<enZ0278>taku_003457
-<ptZ0278>taku_003457
-
-//OTHER
-<enZ0279>ev5002h
-<ptZ0279>ev5002h
-
-//OTHER
-<enZ0280>kimi_000400
-<ptZ0280>kimi_000400
-
-//OTHER
-<enZ0281>taku_003458
-<ptZ0281>taku_003458
-
-//OTHER
-<enZ0282>kimi_000401
-<ptZ0282>kimi_000401
-
-//OTHER
-<enZ0283>taku_003459
-<ptZ0283>taku_003459
-
-//OTHER
-<enZ0284>taku_003460
-<ptZ0284>taku_003460
-
-//OTHER
-<enZ0285>kimi_000402
-<ptZ0285>kimi_000402
-
-//OTHER
-<enZ0286>taku_003461
-<ptZ0286>taku_003461
-
-//OTHER
-<enZ0287>taku_003462
-<ptZ0287>taku_003462
-
-//OTHER
-<enZ0288>kimi_000403
-<ptZ0288>kimi_000403
-
-//OTHER
-<enZ0289>taku_003463
-<ptZ0289>taku_003463
-
-//OTHER
-<enZ0290>kimi_000404
-<ptZ0290>kimi_000404
-
-//OTHER
-<enZ0291>kimi_000405
-<ptZ0291>kimi_000405
-
-//OTHER
-<enZ0292>kimi_000406
-<ptZ0292>kimi_000406
-
-//OTHER
-<enZ0293>taku_003464
-<ptZ0293>taku_003464
-
-//OTHER
-<enZ0294>kimi_000407
-<ptZ0294>kimi_000407
-
-//OTHER
-<enZ0295>kimi_000408
-<ptZ0295>kimi_000408
-
-//OTHER
-<enZ0296>taku_003465
-<ptZ0296>taku_003465
-
-//OTHER
-<enZ0297>kimi_000409
-<ptZ0297>kimi_000409
-
-//OTHER
-<enZ0298>taku_003466
-<ptZ0298>taku_003466
-
-//OTHER
-<enZ0299>kimi_000410
-<ptZ0299>kimi_000410
-
-//OTHER
-<enZ0300>taku_003467
-<ptZ0300>taku_003467
-
-//OTHER
-<enZ0301>kimi_000411
-<ptZ0301>kimi_000411
-
-//OTHER
-<enZ0302>taku_003468
-<ptZ0302>taku_003468
-
-//OTHER
-<enZ0303>kimi_000412
-<ptZ0303>kimi_000412
-
-//OTHER
-<enZ0304>taku_003469
-<ptZ0304>taku_003469
-
-//OTHER
-<enZ0305>kimi_000413
-<ptZ0305>kimi_000413
-
-//OTHER
-<enZ0306>taku_003470
-<ptZ0306>taku_003470
-
-//OTHER
-<enZ0307>kimi_000414
-<ptZ0307>kimi_000414
-
-//OTHER
-<enZ0308>taku_003471
-<ptZ0308>taku_003471
-
-//OTHER
-<enZ0309>kimi_000415
-<ptZ0309>kimi_000415
-
-//OTHER
-<enZ0310>taku_003472
-<ptZ0310>taku_003472
-
-//OTHER
-<enZ0311>kimi_000416
-<ptZ0311>kimi_000416
-
-//OTHER
-<enZ0312>taku_003473
-<ptZ0312>taku_003473
-
-//OTHER
-<enZ0313>kimi_000417
-<ptZ0313>kimi_000417
-
-//OTHER
-<enZ0314>taku_003474
-<ptZ0314>taku_003474
-
-//OTHER
-<enZ0315>kimi_000418
-<ptZ0315>kimi_000418
-
-//OTHER
-<enZ0316>map017
-<ptZ0316>map017
-
-//OTHER
-<enZ0317>as1000_l
-<ptZ0317>as1000_l
-
-//OTHER
-<enZ0318>km0008a
-<ptZ0318>km0008a
-
-//OTHER
-<enZ0319>map018
-<ptZ0319>map018
-
-//OTHER
-<enZ0320>taku_003475
-<ptZ0320>taku_003475
-
-//OTHER
-<enZ0321>kimi_000419
-<ptZ0321>kimi_000419
-
-//OTHER
-<enZ0322>taku_003476
-<ptZ0322>taku_003476
-
-//OTHER
-<enZ0323>bgm018
-<ptZ0323>bgm018
-
-//OTHER
-<enZ0324>kimi_000420
-<ptZ0324>kimi_000420
-
-//OTHER
-<enZ0325>km0009
-<ptZ0325>km0009
-
-//OTHER
-<enZ0326>as1009_l
-<ptZ0326>as1009_l
-
-//OTHER
-<enZ0327>asu_000472
-<ptZ0327>asu_000472
-
-//OTHER
-<enZ0328>taku_003477
-<ptZ0328>taku_003477
-
-//OTHER
-<enZ0329>as1008_l
-<ptZ0329>as1008_l
-
-//OTHER
-<enZ0330>km0004a
-<ptZ0330>km0004a
-
-//OTHER
-<enZ0331>kimi_000421
-<ptZ0331>kimi_000421
-
-//OTHER
-<enZ0332>kimi_000422
-<ptZ0332>kimi_000422
-
-//OTHER
-<enZ0333>km0009a
-<ptZ0333>km0009a
-
-//OTHER
-<enZ0334>taku_003478
-<ptZ0334>taku_003478
-
-//OTHER
-<enZ0335>kimi_000423
-<ptZ0335>kimi_000423
-
-//OTHER
-<enZ0336>taku_003479
-<ptZ0336>taku_003479
-
-//OTHER
-<enZ0337>km0010a
-<ptZ0337>km0010a
-
-//OTHER
-<enZ0338>kimi_000424
-<ptZ0338>kimi_000424
-
-//OTHER
-<enZ0339>taku_003480
-<ptZ0339>taku_003480
-
-//OTHER
-<enZ0340>kimi_000425
-<ptZ0340>kimi_000425
-
-//OTHER
-<enZ0341>taku_003481
-<ptZ0341>taku_003481
-
-//OTHER
-<enZ0342>km0007a
-<ptZ0342>km0007a
-
-//OTHER
-<enZ0343>kimi_000426
-<ptZ0343>kimi_000426
-
-//OTHER
-<enZ0344>km0006a
-<ptZ0344>km0006a
-
-//OTHER
-<enZ0345>taku_003482
-<ptZ0345>taku_003482
-
-//OTHER
-<enZ0346>kimi_000427
-<ptZ0346>kimi_000427
-
-//OTHER
-<enZ0347>kimi_000428
-<ptZ0347>kimi_000428
-
-//OTHER
-<enZ0348>kimi_000429
-<ptZ0348>kimi_000429
-
-//OTHER
-<enZ0349>taku_003483
-<ptZ0349>taku_003483
-
-//OTHER
-<enZ0350>kimi_000430
-<ptZ0350>kimi_000430
-
-//OTHER
-<enZ0351>taku_003484
-<ptZ0351>taku_003484
-
-//OTHER
-<enZ0352>km0000a
-<ptZ0352>km0000a
-
-//OTHER
-<enZ0353>kimi_000431
-<ptZ0353>kimi_000431
-
-//OTHER
-<enZ0354>km0002a
-<ptZ0354>km0002a
-
-//OTHER
-<enZ0355>kimi_000432
-<ptZ0355>kimi_000432
-
-//OTHER
-<enZ0356>km0003a
-<ptZ0356>km0003a
-
-//OTHER
-<enZ0357>kimi_000433
-<ptZ0357>kimi_000433
-
-//OTHER
-<enZ0358>kimi_000434
-<ptZ0358>kimi_000434
-
-//OTHER
-<enZ0359>as1006_l
-<ptZ0359>as1006_l
-
-//OTHER
-<enZ0360>asu_000473
-<ptZ0360>asu_000473
-
-//OTHER
-<enZ0361>taku_003485
-<ptZ0361>taku_003485
-
-//OTHER
-<enZ0362>asu_000474
-<ptZ0362>asu_000474
-
-//OTHER
-<enZ0363>km0002_l
-<ptZ0363>km0002_l
-
-//OTHER
-<enZ0364>kimi_000435
-<ptZ0364>kimi_000435
-
-//OTHER
-<enZ0365>asu_000475
-<ptZ0365>asu_000475
-
-//OTHER
-<enZ0366>km0003_l
-<ptZ0366>km0003_l
-
-//OTHER
-<enZ0367>kimi_000436
-<ptZ0367>kimi_000436
-
-//OTHER
-<enZ0368>se385
-<ptZ0368>se385
-
-//OTHER
-<enZ0369>as1007_l
-<ptZ0369>as1007_l
-
-//OTHER
-<enZ0370>asu_000476
-<ptZ0370>asu_000476
-
-//OTHER
-<enZ0371>km0009_l
-<ptZ0371>km0009_l
-
-//OTHER
-<enZ0372>kimi_000437
-<ptZ0372>kimi_000437
-
-//OTHER
-<enZ0373>km0004a_l
-<ptZ0373>km0004a_l
-
-//OTHER
-<enZ0374>as1011_l
-<ptZ0374>as1011_l
-
-//OTHER
-<enZ0375>asu_000477
-<ptZ0375>asu_000477
-
-//OTHER
-<enZ0376>kimi_000438
-<ptZ0376>kimi_000438
-
-//OTHER
-<enZ0377>as1006
-<ptZ0377>as1006
-
-//OTHER
-<enZ0378>asu_000478
-<ptZ0378>asu_000478
-
-//OTHER
-<enZ0379>kimi_000439
-<ptZ0379>kimi_000439
-
-//OTHER
-<enZ0380>as1007
-<ptZ0380>as1007
-
-//OTHER
-<enZ0381>asu_000479
-<ptZ0381>asu_000479
-
-//OTHER
-<enZ0382>kimi_000440
-<ptZ0382>kimi_000440
-
-//OTHER
-<enZ0383>asu_000480
-<ptZ0383>asu_000480
-
-//OTHER
-<enZ0384>kimi_000441
-<ptZ0384>kimi_000441
-
-//OTHER
-<enZ0385>asu_000481
-<ptZ0385>asu_000481
-
-//OTHER
-<enZ0386>taku_003486
-<ptZ0386>taku_003486
-
-//OTHER
-<enZ0387>taku_003487
-<ptZ0387>taku_003487
-
-//OTHER
-<enZ0388>km0010
-<ptZ0388>km0010
-
-//OTHER
-<enZ0389>kimi_000442
-<ptZ0389>kimi_000442
-
-//OTHER
-<enZ0390>taku_003488
-<ptZ0390>taku_003488
-
-//OTHER
-<enZ0391>kimi_000443
-<ptZ0391>kimi_000443
-
-//OTHER
-<enZ0392>km0005a
-<ptZ0392>km0005a
-
-//OTHER
-<enZ0393>taku_003489
-<ptZ0393>taku_003489
-
-//OTHER
-<enZ0394>km0007
-<ptZ0394>km0007
-
-//OTHER
-<enZ0395>kimi_000444
-<ptZ0395>kimi_000444
-
-//OTHER
-<enZ0396>taku_003490
-<ptZ0396>taku_003490
-
-//OTHER
-<enZ0397>kimi_000445
-<ptZ0397>kimi_000445
-
-//OTHER
-<enZ0398>taku_003491
-<ptZ0398>taku_003491
-
-//OTHER
-<enZ0399>kimi_000446
-<ptZ0399>kimi_000446
-
-//OTHER
-<enZ0400>taku_003492
-<ptZ0400>taku_003492
-
-//OTHER
-<enZ0401>kimi_000447
-<ptZ0401>kimi_000447
-
-//OTHER
-<enZ0402>taku_003493
-<ptZ0402>taku_003493
-
-//OTHER
-<enZ0403>kimi_000448
-<ptZ0403>kimi_000448
-
-//OTHER
-<enZ0404>taku_003494
-<ptZ0404>taku_003494
-
-//OTHER
-<enZ0405>km0001
-<ptZ0405>km0001
-
-//OTHER
-<enZ0406>kimi_000449
-<ptZ0406>kimi_000449
-
-//OTHER
-<enZ0407>taku_003495
-<ptZ0407>taku_003495
-
-//OTHER
-<enZ0408>taku_003496
-<ptZ0408>taku_003496
-
-//OTHER
-<enZ0409>kimi_000450
-<ptZ0409>kimi_000450
-
-//OTHER
-<enZ0410>taku_003497
-<ptZ0410>taku_003497
-
-//OTHER
-<enZ0411>taku_003498
-<ptZ0411>taku_003498
-
-//OTHER
-<enZ0412>kimi_000451
-<ptZ0412>kimi_000451
-
-//OTHER
-<enZ0413>taku_003499
-<ptZ0413>taku_003499
-
-//OTHER
-<enZ0414>kimi_000452
-<ptZ0414>kimi_000452
-
-//OTHER
-<enZ0415>taku_003500
-<ptZ0415>taku_003500
-
-//OTHER
-<enZ0416>kimi_000453
-<ptZ0416>kimi_000453
-
-//OTHER
-<enZ0417>taku_003501
-<ptZ0417>taku_003501
-
-//OTHER
-<enZ0418>kimi_000454
-<ptZ0418>kimi_000454
-
-//OTHER
-<enZ0419>taku_003502
-<ptZ0419>taku_003502
-
-//OTHER
-<enZ0420>ev8106d
-<ptZ0420>ev8106d
-
-//OTHER
-<enZ0421>taku_003503
-<ptZ0421>taku_003503
-
-//OTHER
-<enZ0422>taku_003504
-<ptZ0422>taku_003504
-
-//OTHER
-<enZ0423>km0104a_l
-<ptZ0423>km0104a_l
-
-//OTHER
-<enZ0424>bg1026b
-<ptZ0424>bg1026b
-
-//OTHER
-<enZ0425>kimi_000455
-<ptZ0425>kimi_000455
-
-//OTHER
-<enZ0426>taku_003505
-<ptZ0426>taku_003505
-
-//OTHER
-<enZ0427>kimi_000456
-<ptZ0427>kimi_000456
-
-//OTHER
-<enZ0428>kimi_000457
-<ptZ0428>kimi_000457
-
-//OTHER
-<enZ0429>taku_003506
-<ptZ0429>taku_003506
-
-//OTHER
-<enZ0430>km0106_l
-<ptZ0430>km0106_l
-
-//OTHER
-<enZ0431>kimi_000458
-<ptZ0431>kimi_000458
-
-//OTHER
-<enZ0432>taku_003507
-<ptZ0432>taku_003507
-
-//OTHER
-<enZ0433>km0107_l
-<ptZ0433>km0107_l
-
-//OTHER
-<enZ0434>kimi_000459
-<ptZ0434>kimi_000459
-
-//OTHER
-<enZ0435>taku_003508
-<ptZ0435>taku_003508
-
-//OTHER
-<enZ0436>km0103_l
-<ptZ0436>km0103_l
-
-//OTHER
-<enZ0437>kimi_000460
-<ptZ0437>kimi_000460
-
-//OTHER
-<enZ0438>taku_003509
-<ptZ0438>taku_003509
-
-//OTHER
-<enZ0439>km0104_l
-<ptZ0439>km0104_l
-
-//OTHER
-<enZ0440>kimi_000461
-<ptZ0440>kimi_000461
-
-//OTHER
-<enZ0441>taku_003510
-<ptZ0441>taku_003510
-
-//OTHER
-<enZ0442>km0102
-<ptZ0442>km0102
-
-//OTHER
-<enZ0443>kimi_000462
-<ptZ0443>kimi_000462
-
-//OTHER
-<enZ0444>taku_003511
-<ptZ0444>taku_003511
-
-//OTHER
-<enZ0445>taku_003512
-<ptZ0445>taku_003512
-
-//OTHER
-<enZ0446>km0103
-<ptZ0446>km0103
-
-//OTHER
-<enZ0447>kimi_000463
-<ptZ0447>kimi_000463
-
-//OTHER
-<enZ0448>taku_003513
-<ptZ0448>taku_003513
-
-//OTHER
-<enZ0449>kimi_000464
-<ptZ0449>kimi_000464
-
-//OTHER
-<enZ0450>se611
-<ptZ0450>se611
-
-//OTHER
-<enZ0451>kimi_000465
-<ptZ0451>kimi_000465
-
-//OTHER
-<enZ0452>taku_003514
-<ptZ0452>taku_003514
-
-//OTHER
-<enZ0453>kimi_000466
-<ptZ0453>kimi_000466
-
-//OTHER
-<enZ0454>taku_003515
-<ptZ0454>taku_003515
-
-//OTHER
-<enZ0455>kimi_000467
-<ptZ0455>kimi_000467
-
-//OTHER
-<enZ0456>taku_003516
-<ptZ0456>taku_003516
-
-//OTHER
-<enZ0457>kimi_000468
-<ptZ0457>kimi_000468
-
-//OTHER
-<enZ0458>taku_003517
-<ptZ0458>taku_003517
-
-//OTHER
-<enZ0459>kimi_000469
-<ptZ0459>kimi_000469
-
-//OTHER
-<enZ0460>taku_003518
-<ptZ0460>taku_003518
-
-//OTHER
-<enZ0461>kimi_000470
-<ptZ0461>kimi_000470
-
-//OTHER
-<enZ0462>taku_003519
-<ptZ0462>taku_003519
-
-//OTHER
-<enZ0463>taku_003520
-<ptZ0463>taku_003520
-
-//OTHER
-<enZ0464>kimi_000471
-<ptZ0464>kimi_000471
-
-//OTHER
-<enZ0465>taku_003521
-<ptZ0465>taku_003521
-
-//OTHER
-<enZ0466>kimi_000472
-<ptZ0466>kimi_000472
-
-//OTHER
-<enZ0467>taku_003522
-<ptZ0467>taku_003522
-
-//OTHER
-<enZ0468>kimi_000473
-<ptZ0468>kimi_000473
-
-//OTHER
-<enZ0469>map010
-<ptZ0469>map010
-
-//OTHER
-<enZ0470>kimi_000474
-<ptZ0470>kimi_000474
-
-//OTHER
-<enZ0471>map007
-<ptZ0471>map007
-
-//OTHER
-<enZ0472>ev5003a
-<ptZ0472>ev5003a
-
-//OTHER
-<enZ0473>kimi_000475
-<ptZ0473>kimi_000475
-
-//OTHER
-<enZ0474>taku_003523
-<ptZ0474>taku_003523
-
-//OTHER
-<enZ0475>kimi_000476
-<ptZ0475>kimi_000476
-
-//OTHER
-<enZ0476>taku_003524
-<ptZ0476>taku_003524
-
-//OTHER
-<enZ0477>kimi_000477
-<ptZ0477>kimi_000477
-
-//OTHER
-<enZ0478>taku_003525
-<ptZ0478>taku_003525
-
-//OTHER
-<enZ0479>taku_003526
-<ptZ0479>taku_003526
-
-//OTHER
-<enZ0480>kimi_000478
-<ptZ0480>kimi_000478
-
-//OTHER
-<enZ0481>taku_003527
-<ptZ0481>taku_003527
-
-//OTHER
-<enZ0482>kimi_000479
-<ptZ0482>kimi_000479
-
-//OTHER
-<enZ0483>ev5003b
-<ptZ0483>ev5003b
-
-//OTHER
-<enZ0484>kimi_000480
-<ptZ0484>kimi_000480
-
-//OTHER
-<enZ0485>taku_003528
-<ptZ0485>taku_003528
-
-//OTHER
-<enZ0486>taku_003529
-<ptZ0486>taku_003529
-
-//OTHER
-<enZ0487>taku_003530
-<ptZ0487>taku_003530
-
-//OTHER
-<enZ0488>taku_003531
-<ptZ0488>taku_003531
-
-//OTHER
-<enZ0489>taku_003532
-<ptZ0489>taku_003532
-
-//OTHER
-<enZ0490>taku_003533
-<ptZ0490>taku_003533
-
-//OTHER
-<enZ0491>taku_003534
-<ptZ0491>taku_003534
-
-//OTHER
-<enZ0492>kimi_000481
-<ptZ0492>kimi_000481
-
-//OTHER
-<enZ0493>ev5003c
-<ptZ0493>ev5003c
-
-//OTHER
-<enZ0494>kimi_000482
-<ptZ0494>kimi_000482
-
-//OTHER
-<enZ0495>ev5003d
-<ptZ0495>ev5003d
-
-//OTHER
-<enZ0496>taku_003535
-<ptZ0496>taku_003535
-
-//OTHER
-<enZ0497>taku_003536
-<ptZ0497>taku_003536
-
-//OTHER
-<enZ0498>taku_003537
-<ptZ0498>taku_003537
-
-//OTHER
-<enZ0499>taku_003538
-<ptZ0499>taku_003538
-
-//OTHER
-<enZ0500>taku_003539
-<ptZ0500>taku_003539
-
-//OTHER
-<enZ0501>taku_003540
-<ptZ0501>taku_003540
-
-//OTHER
-<enZ0502>taku_003541
-<ptZ0502>taku_003541
-
-//OTHER
-<enZ0503>taku_003542
-<ptZ0503>taku_003542
-
-//OTHER
-<enZ0504>taku_003543
-<ptZ0504>taku_003543
-
-//OTHER
-<enZ0505>ev8013a
-<ptZ0505>ev8013a
-
-//OTHER
-<enZ0506>taku_003544
-<ptZ0506>taku_003544
-
-//OTHER
-<enZ0507>taku_003545
-<ptZ0507>taku_003545
-
-//OTHER
-<enZ0508>ev8013b
-<ptZ0508>ev8013b
-
-//OTHER
-<enZ0509>taku_003546
-<ptZ0509>taku_003546
-
-//OTHER
-<enZ0510>ev8013c
-<ptZ0510>ev8013c
-
-//OTHER
-<enZ0511>taku_003547
-<ptZ0511>taku_003547
-
-//OTHER
-<enZ0512>ev8013d
-<ptZ0512>ev8013d
-
-//OTHER
-<enZ0513>taku_003548_a
-<ptZ0513>taku_003548_a
-
-//OTHER
-<enZ0514>ev8013e
-<ptZ0514>ev8013e
-
-//OTHER
-<enZ0515>taku_003549
-<ptZ0515>taku_003549
-
-//OTHER
-<enZ0516>taku_003550
-<ptZ0516>taku_003550
-
-//OTHER
-<enZ0517>ev8013f
-<ptZ0517>ev8013f
-
-//OTHER
-<enZ0518>taku_003551
-<ptZ0518>taku_003551
-
-//OTHER
-<enZ0519>taku_003552
-<ptZ0519>taku_003552
-
-//OTHER
-<enZ0520>taku_003553
-<ptZ0520>taku_003553
-
-//OTHER
-<enZ0521>ev5003e
-<ptZ0521>ev5003e
-
-//OTHER
-<enZ0522>taku_003554
-<ptZ0522>taku_003554
-
-//OTHER
-<enZ0523>taku_003555
-<ptZ0523>taku_003555
-
-//OTHER
-<enZ0524>taku_003556
-<ptZ0524>taku_003556
-
-//OTHER
-<enZ0525>taku_003557
-<ptZ0525>taku_003557
-
-//OTHER
-<enZ0526>taku_003558
-<ptZ0526>taku_003558
-
-//OTHER
-<enZ0527>taku_003559
-<ptZ0527>taku_003559
-
-//OTHER
-<enZ0528>taku_003560
-<ptZ0528>taku_003560
-
-//OTHER
-<enZ0529>taku_003561
-<ptZ0529>taku_003561
-
-//OTHER
-<enZ0530>taku_003562
-<ptZ0530>taku_003562
-
-//OTHER
-<enZ0531>taku_003563
-<ptZ0531>taku_003563
-
-//OTHER
-<enZ0532>taku_003564
-<ptZ0532>taku_003564
-
-//OTHER
-<enZ0533>taku_003565
-<ptZ0533>taku_003565
-
-//OTHER
-<enZ0534>taku_003566
-<ptZ0534>taku_003566
-
-//OTHER
-<enZ0535>taku_003567
-<ptZ0535>taku_003567
-
-//OTHER
-<enZ0536>taku_003568
-<ptZ0536>taku_003568
-
-//OTHER
-<enZ0537>ev8014
-<ptZ0537>ev8014
-
-//OTHER
-<enZ0538>taku_003569
-<ptZ0538>taku_003569
-
-//OTHER
-<enZ0539>taku_003570
-<ptZ0539>taku_003570
-
-//OTHER
-<enZ0540>taku_003571
-<ptZ0540>taku_003571
-
-//OTHER
-<enZ0541>taku_003572
-<ptZ0541>taku_003572
-
-//OTHER
-<enZ0542>taku_003573
-<ptZ0542>taku_003573
-
-//OTHER
-<enZ0543>taku_003574
-<ptZ0543>taku_003574
-
-//OTHER
-<enZ0544>taku_003575
-<ptZ0544>taku_003575
-
-//OTHER
-<enZ0545>taku_003576
-<ptZ0545>taku_003576
-
-//OTHER
-<enZ0546>taku_003577
-<ptZ0546>taku_003577
-
-//OTHER
-<enZ0547>taku_003578
-<ptZ0547>taku_003578
-
-//OTHER
-<enZ0548>taku_003579
-<ptZ0548>taku_003579
-
-//OTHER
-<enZ0549>taku_003580
-<ptZ0549>taku_003580
-
-//OTHER
-<enZ0550>ev5003f
-<ptZ0550>ev5003f
-
-//OTHER
-<enZ0551>taku_003581
-<ptZ0551>taku_003581
-
-//OTHER
-<enZ0552>taku_003582
-<ptZ0552>taku_003582
-
-//OTHER
-<enZ0553>taku_003583
-<ptZ0553>taku_003583
-
-//OTHER
-<enZ0554>taku_003584
-<ptZ0554>taku_003584
-
-//OTHER
-<enZ0555>taku_003585
-<ptZ0555>taku_003585
-
-//OTHER
-<enZ0556>taku_003586
-<ptZ0556>taku_003586
-
-//OTHER
-<enZ0557>taku_003587
-<ptZ0557>taku_003587
-
-//OTHER
-<enZ0558>taku_003588
-<ptZ0558>taku_003588
-
-//OTHER
-<enZ0559>taku_003589
-<ptZ0559>taku_003589
-
-//OTHER
-<enZ0560>taku_003590
-<ptZ0560>taku_003590
-
-//OTHER
-<enZ0561>taku_003591
-<ptZ0561>taku_003591
-
-//OTHER
-<enZ0562>taku_003592
-<ptZ0562>taku_003592
-
-//OTHER
-<enZ0563>taku_003593
-<ptZ0563>taku_003593
-
-//OTHER
-<enZ0564>taku_003594
-<ptZ0564>taku_003594
-
-//OTHER
-<enZ0565>taku_003595
-<ptZ0565>taku_003595
-
-//OTHER
-<enZ0566>taku_003596
-<ptZ0566>taku_003596
-
-//OTHER
-<enZ0567>taku_003597
-<ptZ0567>taku_003597
-
-//OTHER
-<enZ0568>taku_003598
-<ptZ0568>taku_003598
-
-//OTHER
-<enZ0569>taku_003599
-<ptZ0569>taku_003599
-
-//OTHER
-<enZ0570>taku_003600
-<ptZ0570>taku_003600
-
-//OTHER
-<enZ0571>taku_003601
-<ptZ0571>taku_003601
-
-//OTHER
-<enZ0572>taku_003602
-<ptZ0572>taku_003602
-
-//OTHER
-<enZ0573>taku_003603
-<ptZ0573>taku_003603
-
-//OTHER
-<enZ0574>taku_003604
-<ptZ0574>taku_003604
-
-//OTHER
-<enZ0575>taku_003605
-<ptZ0575>taku_003605
-
-//OTHER
-<enZ0576>taku_003606
-<ptZ0576>taku_003606
-
-//OTHER
-<enZ0577>taku_003607
-<ptZ0577>taku_003607
-
-//OTHER
-<enZ0578>taku_003608
-<ptZ0578>taku_003608
-
-//OTHER
-<enZ0579>taku_003609
-<ptZ0579>taku_003609
-
-//OTHER
-<enZ0580>taku_003610
-<ptZ0580>taku_003610
-
-//OTHER
-<enZ0581>taku_003611
-<ptZ0581>taku_003611
-
-//OTHER
-<enZ0582>taku_003612
-<ptZ0582>taku_003612
-
-//OTHER
-<enZ0583>ev8015
-<ptZ0583>ev8015
-
-//OTHER
-<enZ0584>taku_003613
-<ptZ0584>taku_003613
-
-//OTHER
-<enZ0585>taku_003614
-<ptZ0585>taku_003614
-
-//OTHER
-<enZ0586>taku_003615
-<ptZ0586>taku_003615
-
-//OTHER
-<enZ0587>taku_003616
-<ptZ0587>taku_003616
-
-//OTHER
-<enZ0588>taku_003617
-<ptZ0588>taku_003617
-
-//OTHER
-<enZ0589>taku_003618
-<ptZ0589>taku_003618
-
-//OTHER
-<enZ0590>taku_003619
-<ptZ0590>taku_003619
-
-//OTHER
-<enZ0591>taku_003620
-<ptZ0591>taku_003620
-
-//OTHER
-<enZ0592>ev5003g
-<ptZ0592>ev5003g
-
-//OTHER
-<enZ0593>taku_003621
-<ptZ0593>taku_003621
-
-//OTHER
-<enZ0594>taku_003622
-<ptZ0594>taku_003622
-
-//OTHER
-<enZ0595>taku_003623
-<ptZ0595>taku_003623
-
-//OTHER
-<enZ0596>taku_003624
-<ptZ0596>taku_003624
-
-//OTHER
-<enZ0597>taku_003625
-<ptZ0597>taku_003625
-
-//OTHER
-<enZ0598>taku_003626
-<ptZ0598>taku_003626
-
-//OTHER
-<enZ0599>taku_003627
-<ptZ0599>taku_003627
-
-//OTHER
-<enZ0600>taku_003628
-<ptZ0600>taku_003628
-
-//OTHER
-<enZ0601>taku_003629
-<ptZ0601>taku_003629
-
-//OTHER
-<enZ0602>taku_003630
-<ptZ0602>taku_003630
-
-//OTHER
-<enZ0603>taku_003631
-<ptZ0603>taku_003631
-
-//OTHER
-<enZ0604>taku_003632
-<ptZ0604>taku_003632
-
-//OTHER
-<enZ0605>taku_003633
-<ptZ0605>taku_003633
-
-//OTHER
-<enZ0606>taku_003634
-<ptZ0606>taku_003634
-
-//OTHER
-<enZ0607>taku_003635
-<ptZ0607>taku_003635
-
-//OTHER
-<enZ0608>taku_003636
-<ptZ0608>taku_003636
-
-//OTHER
-<enZ0609>taku_003637
-<ptZ0609>taku_003637
-
-//OTHER
-<enZ0610>taku_003638
-<ptZ0610>taku_003638
-
-//OTHER
-<enZ0611>kimi_000483
-<ptZ0611>kimi_000483
-
-//OTHER
-<enZ0612>taku_003639
-<ptZ0612>taku_003639
-
-//OTHER
-<enZ0613>se007
-<ptZ0613>se007
-
-//OTHER
-<enZ0614>ev5003i
-<ptZ0614>ev5003i
-
-//OTHER
-<enZ0615>taku_003640
-<ptZ0615>taku_003640
-
-//OTHER
-<enZ0616>kimi_000484
-<ptZ0616>kimi_000484
-
-//OTHER
-<enZ0617>kimi_000485
-<ptZ0617>kimi_000485
-
-//OTHER
-<enZ0618>ev5003h
-<ptZ0618>ev5003h
-
-//OTHER
-<enZ0619>taku_003641
-<ptZ0619>taku_003641
-
-//OTHER
-<enZ0620>kimi_000486
-<ptZ0620>kimi_000486
-
-//OTHER
-<enZ0621>taku_003642
-<ptZ0621>taku_003642
-
-//OTHER
-<enZ0622>kimi_000487
-<ptZ0622>kimi_000487
-
-//OTHER
-<enZ0623>ev5003j
-<ptZ0623>ev5003j
-
-//OTHER
-<enZ0624>taku_003643
-<ptZ0624>taku_003643
-
-//OTHER
-<enZ0625>kimi_000488
-<ptZ0625>kimi_000488
-
-//OTHER
-<enZ0626>taku_003644
-<ptZ0626>taku_003644
-
-//OTHER
-<enZ0627>bgm003
-<ptZ0627>bgm003
-
-//OTHER
-<enZ0628>taku_003645
-<ptZ0628>taku_003645
-
-//OTHER
-<enZ0629>map028
-<ptZ0629>map028
-
-//OTHER
-<enZ0630>black
-<ptZ0630>black
-
-//OTHER
-<enZ0631>map023
-<ptZ0631>map023
-
-//OTHER
-<enZ0632>kimi_000489
-<ptZ0632>kimi_000489
-
-//OTHER
-<enZ0633>km0008
-<ptZ0633>km0008
-
-//OTHER
-<enZ0634>kimi_000490
-<ptZ0634>kimi_000490
-
-//OTHER
-<enZ0635>kimi_000491
-<ptZ0635>kimi_000491
-
-//OTHER
-<enZ0636>taku_003646
-<ptZ0636>taku_003646
-
-//OTHER
-<enZ0637>kimi_000492
-<ptZ0637>kimi_000492
-
-//OTHER
-<enZ0638>taku_003647
-<ptZ0638>taku_003647
-
-//OTHER
-<enZ0639>kimi_000493
-<ptZ0639>kimi_000493
-
-//OTHER
-<enZ0640>taku_003648
-<ptZ0640>taku_003648
-
-//OTHER
-<enZ0641>km0021a
-<ptZ0641>km0021a
-
-//OTHER
-<enZ0642>kimi_000494
-<ptZ0642>kimi_000494
-
-//OTHER
-<enZ0643>taku_003649
-<ptZ0643>taku_003649
-
-//OTHER
-<enZ0644>km0105a
-<ptZ0644>km0105a
-
-//OTHER
-<enZ0645>kimi_000495
-<ptZ0645>kimi_000495
-
-//OTHER
-<enZ0646>taku_003650
-<ptZ0646>taku_003650
-
-//OTHER
-<enZ0647>km0012
-<ptZ0647>km0012
-
-//OTHER
-<enZ0648>kimi_000496
-<ptZ0648>kimi_000496
-
-//OTHER
-<enZ0649>taku_003651
-<ptZ0649>taku_003651
-
-//OTHER
-<enZ0650>kimi_000497
-<ptZ0650>kimi_000497
-
-//OTHER
-<enZ0651>taku_003652
-<ptZ0651>taku_003652
-
-//OTHER
-<enZ0652>taku_003653
-<ptZ0652>taku_003653
-
-//OTHER
-<enZ0653>kimi_000498
-<ptZ0653>kimi_000498
-
-//OTHER
-<enZ0654>taku_003654
-<ptZ0654>taku_003654
-
-//OTHER
-<enZ0655>kimi_000499
-<ptZ0655>kimi_000499
-
-//OTHER
-<enZ0656>taku_003655
-<ptZ0656>taku_003655
-
-//OTHER
-<enZ0657>km0000
-<ptZ0657>km0000
-
-//OTHER
-<enZ0658>kimi_000500
-<ptZ0658>kimi_000500
-
-//OTHER
-<enZ0659>taku_003656
-<ptZ0659>taku_003656
-
-//OTHER
-<enZ0660>kimi_000501
-<ptZ0660>kimi_000501
-
-//OTHER
-<enZ0661>taku_003657
-<ptZ0661>taku_003657
-
-//OTHER
-<enZ0662>kimi_000502
-<ptZ0662>kimi_000502
-
-//OTHER
-<enZ0663>taku_003658
-<ptZ0663>taku_003658
-
-//OTHER
-<enZ0664>kimi_000503
-<ptZ0664>kimi_000503
-
-//OTHER
-<enZ0665>taku_003659
-<ptZ0665>taku_003659
-
-//OTHER
-<enZ0666>kimi_000504
-<ptZ0666>kimi_000504
-
-//OTHER
-<enZ0667>taku_003660
-<ptZ0667>taku_003660
-
-//OTHER
-<enZ0668>kimi_000505
-<ptZ0668>kimi_000505
-
-//OTHER
-<enZ0669>km0001a
-<ptZ0669>km0001a
-
-//OTHER
-<enZ0670>kimi_000506
-<ptZ0670>kimi_000506
-
-//OTHER
-<enZ0671>kimi_000507
-<ptZ0671>kimi_000507
-
-//OTHER
-<enZ0672>taku_003661
-<ptZ0672>taku_003661
-
-//OTHER
-<enZ0673>km0102a
-<ptZ0673>km0102a
-
-//OTHER
-<enZ0674>kimi_000508
-<ptZ0674>kimi_000508
-
-//OTHER
-<enZ0675>taku_003662
-<ptZ0675>taku_003662
-
-//OTHER
-<enZ0676>taku_003663
-<ptZ0676>taku_003663
-
-//OTHER
-<enZ0677>kimi_000509
-<ptZ0677>kimi_000509
-
-//OTHER
-<enZ0678>taku_003664
-<ptZ0678>taku_003664
-
-//OTHER
-<enZ0679>km0011
-<ptZ0679>km0011
-
-//OTHER
-<enZ0680>kimi_000510
-<ptZ0680>kimi_000510
-
-//OTHER
-<enZ0681>taku_003665
-<ptZ0681>taku_003665
-
-//OTHER
-<enZ0682>se022
-<ptZ0682>se022
-
-//OTHER
-<enZ0683>2_0718_kimi
-<ptZ0683>2_0718_kimi
-
+<0>July 17th
+<1>It's my own Invention
+<2>daytk0717
+<3>kimi_000278
+<4>"     ior."
+<5>kimi_000279
+<6>"Ple   wa   up."
+<7>taku_003331
+<8>Takuji
+<9>"Mm..."
+<10>kimi_000280
+<11>"Please wa   up."
+<12>taku_003332
+<13>Takuji
+<14>"Mm..."
+<15>kimi_000281
+<16>"Please wake up."
+<17>map020
+<18>ev5002a
+<19>bgm008
+<20>taku_003333
+<21>Takuji
+<22>"...Where am I?"
+<23>My memory is a little fuzzy...
+<24>I always feel like this when I wake up... It's not something I'm all that worried about.
+<25>kimi_000282
+<26>Kimika
+<27>"The ark."
+<28>taku_003334
+<29>Takuji
+<30>"The ark?"
+<31>Ark? Ark... The school building's foundation is the ark?
+<32>taku_003335
+<33>Takuji
+<34>"The ark, huh..."
+<35>More importantly...
+<36>taku_003336
+<37>Takuji
+<38>"More importantly..."
+<39>What time is it right now?
+<40>taku_003337
+<41>Takuji
+<42>"What time is it right now?"
+<43>ev5002b
+<44>kimi_000283
+<45>Kimika
+<46>"Um, it's just after 2:00 p.m. on the 17th..."
+<47>ev5002a
+<48>Two o'clock, huh... I slept too long.
+<49>Even though I slept so long, I still feel tired.
+<50>Well, I always feel like that.
+<51>taku_003338
+<52>Takuji
+<53>"And last night?"
+<54>ev5002c
+<55>kimi_000284
+<56>Kimika
+<57>"Huh?"
+<58>taku_003339
+<59>Takuji
+<60>"What about last night?"
+<61>kimi_000285_2
+<62>Kimika
+<63>"What about last night, you said? You're not being very clear... who you're talking about."
+<64>taku_003340
+<65>Takuji
+<66>"Oh, uh... I'm talking about me. Also, how was everyone else after I disappeared?"
+<67>ev5002b
+<68>kimi_000286
+<69>Kimika
+<70>"So you want a status report? Well, after you went for a walk, they kept going at it like that."
+<71>taku_003341
+<72>Takuji
+<73>"Like that..."
+<74>se_megusato
+<75>map001
+<76>ev8106b
+<77>taku_003342
+<78>Takuji
+<79>"What are they doing?"
+<80>kimi_000287
+<81>Kimika
+<82>"You told them to let Nishimura-kun fuck them. They've been doing that for ages."
+<83>taku_003343
+<84>Takuji
+<85>"Nishimura isn't there..."
+<86>kimi_000288
+<87>Kimika
+<88>"Oh, that's right. my savior."
+<89>map002
+<90>ev5002j
+<91>kimi_000289
+<92>Kimika
+<93>"Um, over there..."
+<94>map009
+<95>Tachibana pointed to the corner.
+<96>map009
+<97>ev8012a
+<98>kimi_000290
+<99>Kimika
+<100>"He kind of stopped moving after he had sex."
+<101>taku_003344
+<102>Takuji
+<103>"Oh, I see."
+<104>kimi_000291
+<105>Kimika
+<106>"I think he just tired himself out and went too sleep, but he's so tired his heart isn't even beating anymore."
+<107>taku_003345
+<108>Takuji
+<109>"So tired his heart isn't beating... Doesn't that mean he's just dead?"
+<110>kimi_000292
+<111>Kimika
+<112>"What should we do? Can you revive him with your powers?"
+<113>taku_003346
+<114>Takuji
+<115>"There's no need."
+<116>kimi_000293
+<117>Kimika
+<118>"Really?"
+<119>taku_003347
+<120>Takuji
+<121>"He wanted to have sex so bad. After his wish came true, he didn't need to move anymore."
+<122>kimi_000294
+<123>Kimika
+<124>"Oh, that's right. I remember you saying something like that, my savior."
+<125>taku_003348
+<126>Takuji
+<127>"I used his desire to have sex to heal his wounds. If he doesn't have the will to live anymore, of course he'll stop moving."
+<128>taku_003349
+<129>Takuji
+<130>"It's just a question of his willpower now."
+<131>kimi_000295
+<132>Kimika
+<133>"Oh, that makes sense... He can't move because he doesn't have any willpower! That makes sense, though I get the feeling he's not the only one without any willpower."
+<134>taku_003350
+<135>Takuji
+<136>"Yeah, of course."
+<137>taku_003351
+<138>Takuji
+<139>"Still, they haven't even slept. They're not getting bored of it at all."
+<140>se_megusato
+<141>map001
+<142>ev8106b
+<143>kimi_000296
+<144>Kimika
+<145>"Yeah, they're not tired at all thanks to the savior's elixir."
+<146>taku_003352
+<147>Takuji
+<148>"Oh, that... That's an all-purpose potion."
+<149>map002
+<150>ev5002a
+<151>taku_003353
+<152>Takuji
+<153>"Then what about me?"
+<154>kimi_000297
+<155>Kimika
+<156>"Oh my... You don't remember?"
+<157>taku_003354
+<158>Takuji
+<159>"Yeah... This happens sometimes. Part of it is because of the Black Surge's attacks, but..."
+<160>ev5002l
+<161>kimi_000298
+<162>Kimika
+<163>"Th-That's awful... You were so gentle last night..."
+<164>taku_003355
+<165>Takuji
+<166>"Eh? Do you mean I... with you?"
+<167>ev5002d
+<168>kimi_000299
+<169>Kimika
+<170>"Yes. You were so gentle when we danced together."
+<171>taku_003356
+<172>Takuji
+<173>"Huh?"
+<174>kimi_000300
+<175>Kimika
+<176>"You were like, 'Watch me dance, hey, hey!' and then you started dancing like crazy."
+<177>taku_003357
+<178>Takuji
+<179>"Dancing like crazy?"
+<180>ev5002a
+<181>kimi_000301
+<182>Kimika
+<183>"Last night after you returned, you were in an incredibly good mood, my savior."
+<184>taku_003358
+<185>Takuji
+<186>"A good mood?"
+<187>kimi_000302
+<188>Kimika
+<189>"Yes, and you sang us a song too."
+<190>taku_003359
+<191>Takuji
+<192>"A song..."
+<193>se_megusato
+<194>Song... Rooftop...
+<195>I can vaguely remember it... I met with God. He was kind of like a scribble of an old man, though...
+<196>And he sang...
+<197>God's song?
+<198>I wonder...
+<199>I can't really remember it very well.
+<200>taku_003360
+<201>Takuji
+<202>"A song, huh? Well, whatever... It really is noisy in here, though."
+<203>ev5002c
+<204>kimi_000303
+<205>Kimika
+<206>"Noisy?"
+<207>taku_003361
+<208>Takuji
+<209>"It's them. Their orgy is noisy... They've been fucking this whole time?"
+<210>ev5002d
+<211>kimi_000304
+<212>Kimika
+<213>"Yes. It's kind of funny how long they've been going... All of them are getting in on it."
+<214>kimi_000305
+<215>Kimika
+<216>"Well, I did hear that drug made sex feel better... and it makes people lose track of time, too."
+<217>taku_003362
+<218>Takuji
+<219>"I see. So that's what it was..."
+<220>kimi_000306
+<221>Kimika
+<222>"Yes."
+<223>taku_003363
+<224>Takuji
+<225>"Hmm... Well, it doesn't really matter."
+<226>I have a headache.
+<227>It must be the holy water's fault.
+<228>That holy water was originally a drug you would dip paper in and use. It's incredibly potent even with a small amount.
+<229>I scattered the untreated drug over the crowd, so of course they'd get headaches.
+<230>But I purified mine with the Holy Surge first, so why am I getting a headache?
+<231>Actually, I have a bump...
+<232>Maybe I just hit my head?
+<233>I don't remember last night at all.
+<234>taku_003364
+<235>Takuji
+<236>"Now that I think of it... where's Kiyokawa?"
+<237>ev5002c
+<238>kimi_000307
+<239>Kimika
+<240>"Kiyokawa? Oh, you mean the toilet?"
+<241>taku_003365
+<242>Takuji
+<243>"Y-You're... pretty awful..."
+<244>ev5002m
+<245>kimi_000308
+<246>Kimika
+<247>"What are you talking about, my savior? You're the one who gave her that name."
+<248>taku_003366
+<249>Takuji
+<250>"Well, I guess I did... So, where is she?"
+<251>ev5002a
+<252>kimi_000309
+<253>Kimika
+<254>"Um, first you brought her along this morning so that you could make her see the demons..."
+<255>taku_003367
+<256>Takuji
+<257>"I did? Where to?"
+<258>kimi_000310
+<259>Kimika
+<260>"Who knows... I'm not sure, but it was probably somewhere on school grounds. I'm surprised you two were able to walk around on the school grounds even though the school is taped off right now."
+<261>taku_003368
+<262>Takuji
+<263>"Yeah, I am the savior after all... And what about after that?"
+<264>kimi_000311
+<265>Kimika
+<266>"The two of you came back safely."
+<267>taku_003369
+<268>Takuji
+<269>"And then?"
+<270>ev5002j
+<271>kimi_000312
+<272>Kimika
+<273>"Since she got back, Ms. Kiyokawa has been over there, scared out of her wits, saying, 'The demon has the same face as the \nsavior!'"
+<274>taku_003370
+<275>Takuji
+<276>"Over there?"
+<277>There was someone curled up and quivering in the corner.
+<278>Is that... Kiyokawa?
+<279>Why is she so frightened?
+<280>ev5002c
+<281>kimi_000313
+<282>Kimika
+<283>"What did you show her?"
+<284>taku_003371
+<285>Takuji
+<286>"Who knows... I guess I showed her something, but I don't really remember. And more importantly, Tachibana."
+<287>taku_003372
+<288>Takuji
+<289>"What time is it right now?"
+<290>ev5002b
+<291>kimi_000314
+<292>Kimika
+<293>"Um, right now... it's 5:00 on the dot."
+<294>taku_003373
+<295>Takuji
+<296>"It's already five, huh? Time passes so quickly."
+<297>ev5002a
+<298>kimi_000315
+<299>Kimika
+<300>"Really? Oh, right, my savior."
+<301>taku_003374
+<302>Takuji
+<303>"What is it?"
+<304>kimi_000316
+<305>Kimika
+<306>"I have something to report."
+<307>taku_003375
+<308>Takuji
+<309>"Report?"
+<310>ev5002j
+<311>kimi_000317
+<312>Kimika
+<313>"Yes, him!"
+<314>map009
+<315>ev8012a
+<316>kimi_000318
+<317>Kimika
+<318>"After Nishimura-kun had sex, he just kind of stopped moving."
+<319>taku_003376
+<320>Takuji
+<321>"Yeah, I guess he did."
+<322>kimi_000319
+<323>Kimika
+<324>"I thought he just tired himself out and went to sleep, but his body is ridiculously stiff. He's gonna ache all over after sleeping in that position."
+<325>kimi_000320
+<326>Kimika
+<327>"Can you revive him with your magic, my savior?"
+<328>taku_003377
+<329>Takuji
+<330>"There's no need."
+<331>kimi_000321
+<332>Kimika
+<333>"Really?"
+<334>taku_003378
+<335>Takuji
+<336>"I used his desire to have sex to heal his wounds. If he doesn't have the will to live anymore, of course he'll stop moving."
+<337>taku_003379
+<338>Takuji
+<339>"It's just a question of his willpower now."
+<340>kimi_000322
+<341>Kimika
+<342>"I've heard people say that before. In the end, it's just a matter of a person's motivation. That goes for a lot of things. Yeah, that makes sense."
+<343>taku_003380
+<344>Takuji
+<345>"It really is noisy in here though. They haven't even slept. They're not getting bored of it at all."
+<346>se_megusato
+<347>map009
+<348>ev8106c
+<349>kimi_000323
+<350>Kimika
+<351>"Yeah, they're not tired at all thanks to the savior's elixir. I feel great, too"
+<352>taku_003381
+<353>Takuji
+<354>"Yeah, that's an all-purpose potion."
+<355>ev5002a
+<356>bgm103
+<357>taku_003382
+<358>Takuji
+<359>"And... what time is it right now?"
+<360>ev5002b
+<361>kimi_000324
+<362>Kimika
+<363>"Um, right now... it's 7:00 on the dot."
+<364>taku_003383
+<365>Takuji
+<366>"Already seven o'clock, huh? That was fast."
+<367>ev5002e
+<368>kimi_000325
+<369>Kimika
+<370>"Time flies like an arrow."
+<371>taku_003384
+<372>Takuji
+<373>"I guess so... The passing off time is strange."
+<374>taku_003385
+<375>Takuji
+<376>"Time... Time... Oh, that's right, Tachibana."
+<377>ev5002c
+<378>kimi_000325a
+<379>Kimika
+<380>"Yes?"
+<381>taku_003386
+<382>Takuji
+<383>"Right now... what time is it?"
+<384>kimi_000326
+<385>Kimika
+<386>"Um, right now... it's 8:00 on the dot."
+<387>taku_003387
+<388>Takuji
+<389>"It's already dinner time, huh? I'm not really hungry, though."
+<390>ev5002e
+<391>kimi_000327
+<392>Kimika
+<393>"You can thank the all-purpose potion for that. We should call it a Senzu Bean instead of elixir!"
+<394>taku_003388
+<395>Takuji
+<396>"No, don't change the name..."
+<397>ev5002a
+<398>kimi_000328
+<399>Kimika
+<400>"And I was wondering... Do you really have dinner at eight o'clock at night?"
+<401>taku_003389
+<402>Takuji
+<403>"We always have dinner at eight o'clock at my house... Is it different at your place?"
+<404>kimi_000329
+<405>Kimika
+<406>"We usually have dinner at six o'clock. Dinner is late at the savior's house, huh?"
+<407>taku_003390
+<408>Takuji
+<409>"It's not late. You just have dinner too early..."
+<410>ev5002c
+<411>kimi_000330
+<412>Kimika
+<413>"You think so?"
+<414>taku_003391
+<415>Takuji
+<416>"I mean, during the summer, the sun hasn't even set at six o'clock."
+<417>ev5002a
+<418>kimi_000331
+<419>Kimika
+<420>"Yes, that's true."
+<421>taku_003392
+<422>Takuji
+<423>"Can you really call that dinner?"
+<424>ev5002m
+<425>kimi_000332
+<426>Kimika
+<427>"Isn't it dinner if we eat it during the evening...?"
+<428>taku_003393
+<429>Takuji
+<430>"Then do you eat dinner at five o'clock on the winter solstice?"
+<431>ev5002d
+<432>kimi_000333
+<433>Kimika
+<434>"It really did feel like that."
+<435>taku_003394
+<436>Takuji
+<437>"It felt like it, huh?"
+<438>kimi_000334
+<439>Kimika
+<440>"Yes, it felt like it."
+<441>taku_003395
+<442>Takuji
+<443>"What about everyone else?"
+<444>taku_003396
+<445>Takuji
+<446>"Um..."
+<447>se_megusato
+<448>ev8106c
+<449>They're no good... They're totally worthless.
+<450>Other than them... Uh...
+<451>bg1025b
+<452>taku_003397
+<453>Takuji
+<454>"What about Kiyokawa?"
+<455>ev5002j
+<456>kimi_000335
+<457>Kimika
+<458>"She's over there quivering. She's been saying 'I'm scared, I'm scared' for hours."
+<459>taku_003398
+<460>Takuji
+<461>"Over there?"
+<462>There was someone curled up and quivering in the corner.
+<463>Is that... Kiyokawa?
+<464>taku_003399
+<465>Takuji
+<466>"Why is she so frightened?"
+<467>ev5002e
+<468>kimi_000336
+<469>Kimika
+<470>"She's kind of got you and the demon mixed up, so she's like, 'It's scaaarryyy, aaaah!'"
+<471>taku_003400
+<472>Takuji
+<473>"Are you even trying to explain it?"
+<474>ev5002d
+<475>kimi_000337
+<476>Kimika
+<477>"I'm doing my best right now."
+<478>taku_003401
+<479>Takuji
+<480>"Actually, now that I think of it, I don't see Nishimura in the orgy."
+<481>ev5002a
+<482>kimi_000338
+<483>Kimika
+<484>"Oh, that's right. I have a request, my savior."
+<485>taku_003402
+<486>Takuji
+<487>"A request?"
+<488>ev5002e
+<489>kimi_000339
+<490>Kimika
+<491>"Yes!"
+<492>ev5002j
+<493>kimi_000340
+<494>Kimika
+<495>"Look over there."
+<496>taku_003403
+<497>Takuji
+<498>"At that?"
+<499>ev8012a
+<500>kimi_000341
+<501>Kimika
+<502>"He stinks!"
+<503>taku_003404
+<504>Takuji
+<505>"What happened to him?"
+<506>kimi_000342
+<507>Kimika
+<508>"After he had sex, he was like, 'I'm so tiiireed,' then he laid down, his pupils dilated, he got all stiff, and he went and started rotting."
+<509>kimi_000343
+<510>Kimika
+<511>"He stinks, so... could you please resurrect him? If you leave raw food out in the summer, it doesn't take long for it to spoil!"
+<512>taku_003405
+<513>Takuji
+<514>"I can't."
+<515>kimi_000344
+<516>Kimika
+<517>"You can't?"
+<518>taku_003406
+<519>Takuji
+<520>"I used his desire to have sex to heal his wounds. I can't bring someone back to life after their wish has been granted."
+<521>taku_003407
+<522>Takuji
+<523>"More importantly, they really are noisy... They haven't even slept. They're not getting bored of it at all. How long have they been doing that?"
+<524>kimi_000345
+<525>Kimika
+<526>"Who knows... I'm not sure, but it's fun watching them. The girls' voices are getting so hoarse that they sound like old women!"
+<527>bg1025b
+<528>taku_003408
+<529>Takuji
+<530>"You're not sure. It's been since yesterday, hasn't it? What time is it right now?"
+<531>ev5002b
+<532>kimi_000346
+<533>Kimika
+<534>"Um, right now... it's 8:01."
+<535>taku_003409
+<536>Takuji
+<537>"Oh, really... It's already that late."
+<538>ev5002j
+<539>kimi_000347
+<540>Kimika
+<541>"More importantly, look over there."
+<542>taku_003410
+<543>Takuji
+<544>"At that?"
+<545>ev8012b
+<546>kimi_000348
+<547>Kimika
+<548>"It's Nishimura-kun."
+<549>taku_003411
+<550>Takuji
+<551>"Why's he so big?"
+<552>kimi_000349
+<553>Kimika
+<554>"Big? Has he gotten bigger?"
+<555>taku_003412
+<556>Takuji
+<557>"What happened to him? He's the size of a cow, isn't he?"
+<558>kimi_000350
+<559>Kimika
+<560>"A cow? I don't know how a big a cow is..."
+<561>taku_003413
+<562>Takuji
+<563>"You've never seen a cow?"
+<564>kimi_000351
+<565>Kimika
+<566>"No. Where would I see one?"
+<567>taku_003414
+<568>Takuji
+<569>"On a ranch, probably."
+<570>kimi_000352
+<571>Kimika
+<572>"On the roof?!"
+<573>taku_003415
+<574>Takuji
+<575>"Yeah, on a ranch... They have lots of cows."
+<576>kimi_000353
+<577>Kimika
+<578>"Oh really... There are lots of cows on the roof. That sounds like fun."
+<579>taku_003416
+<580>Takuji
+<581>"Does it?"
+<582>kimi_000354
+<583>Kimika
+<584>"Aren't there lots of cows under the blue sky?"
+<585>taku_003417
+<586>Takuji
+<587>"Yeah, there are lots of cows under the blue sky... on a field of green grass..."
+<588>kimi_000355
+<589>Kimika
+<590>"Green? A green monk?"
+<591>taku_003418
+<592>Takuji
+<593>"Besides, why is Nishimura as big as a cow?"
+<594>kimi_000356
+<595>Kimika
+<596>Oh right, Nishimura-kun stopped moving a while ago, but his pupils dilated, he started rotting, and now his body is swelling. It's really annoying."
+<597>taku_003419
+<598>Takuji
+<599>"It would be hard for him to move now that he's gotten as big as a cow..."
+<600>kimi_000357
+<601>Kimika
+<602>"So then cows don't move very much either?"
+<603>taku_003420
+<604>Takuji
+<605>"Yeah... I've seen a whole bunch of birds resting on a cow's back. Sometimes even big birds will perch on a cow's back."
+<606>kimi_000358
+<607>Kimika
+<608>"Big birds?"
+<609>taku_003421
+<610>Takuji
+<611>"Yeah, just like that... Something like that..."
+<612>kimi_000359
+<613>Kimika
+<614>"Something like that?"
+<615>A huge bird perched on Nishimura's body.
+<616>A white bird.
+<617>Is that a heron?
+<618>map033
+<619>ev8012c
+<620>taku_003422
+<621>Takuji
+<622>"Birds perch on them, kind of like that."
+<623>kimi_000360
+<624>Kimika
+<625>"No, that's not a bird!"
+<626>taku_003423
+<627>Takuji
+<628>"It's a bird... That's a heron."
+<629>kimi_000361
+<630>Kimika
+<631>"It's an angel. An angel is trying to take Nishimura-kun away."
+<632>taku_003424
+<633>Takuji
+<634>"No... Haven't you ever seen a heron?"
+<635>kimi_000362
+<636>Kimika
+<637>"No, I haven't, but are you saying that's a heron?"
+<638>taku_003425
+<639>Takuji
+<640>"Yeah... Sometimes herons will perch on the backs of cows and rest their wings. Now that Nishimura has swelled up like that, he's a perfect perch for a heron."
+<641>kimi_000363
+<642>Kimika
+<643>"Oh, really... So that's a heron..."
+<644>kimi_000364
+<645>Kimika
+<646>"Then why are there so many pictures of herons in churches? There are lots of pictures of those."
+<647>taku_003426
+<648>Takuji
+<649>"Pictures of herons in churches?"
+<650>What's up with her... Is she mixing up heron and herald?
+<651>A comment on Christianity?
+<652>taku_003427
+<653>Takuji
+<654>"That's quite an intellectual way of putting it."
+<655>map001
+<656>ev5002c
+<657>kimi_000365
+<658>Kimika
+<659>"In ten lectures?"
+<660>ev5002a
+<661>kimi_000366
+<662>Kimika
+<663>"Ah, the angel flew away."
+<664>taku_003428
+<665>Takuji
+<666>"Hey, Tachibana."
+<667>kimi_000367
+<668>Kimika
+<669>"Yes?"
+<670>taku_003429
+<671>Takuji
+<672>"Where's Kiyokawa?"
+<673>ev5002j
+<674>kimi_000368
+<675>Kimika
+<676>"She's curled up over there. She's curled up like a mouse. Someone might step on her and kill her!"
+<677>ev5002e
+<678>kimi_000369
+<679>Kimika
+<680>"My savior, please go help tiny Ms. Kiyokawa!"
+<681>taku_003430
+<682>Takuji
+<683>"No, it's just a matter of perspective... Think of it another way. Isn't it better if she's small like a mouse?"
+<684>ev5002a
+<685>ev5002e
+<686>kimi_000370
+<687>Kimika
+<688>"Is it better?"
+<689>taku_003431
+<690>Takuji
+<691>"Yeah, if her body was small like a mouse, she could crawl into all kinds of little spaces, couldn't she?"
+<692>kimi_000371
+<693>Kimika
+<694>"Yeah, she could."
+<695>taku_003432
+<696>Takuji
+<697>"In other words, she could crawl into all of humanity's bodies through their mouths."
+<698>kimi_000372
+<699>Kimika
+<700>"Ah, she could!"
+<701>taku_003433
+<702>Takuji
+<703>"That's it. We should put tiny Kiyokawa in all their mouths!"
+<704>kimi_000373
+<705>Kimika
+<706>"We'll put her in all their mouths!"
+<707>taku_003434
+<708>Takuji
+<709>"Yes! And once she's invaded all of humanity through their mouths, she could install antennas on all of them!"
+<710>kimi_000374
+<711>Kimika
+<712>"She could install antennas!"
+<713>taku_003435
+<714>Takuji
+<715>"Yeah, and then I could transmit my holy gospel directly to all of humanity!"
+<716>kimi_000375
+<717>Kimika
+<718>"We could transmit your gospel!"
+<719>taku_003436
+<720>Takuji
+<721>"If we did that, I could return far more people to the sky... We could do it!"
+<722>kimi_000376
+<723>Kimika
+<724>"We could drown more people to the sky. We could drown it!"
+<725>taku_003437
+<726>Takuji
+<727>"Yes!"
+<728>kimi_000377
+<729>Kimika
+<730>"They'll drown!"
+<731>taku_003438
+<732>Takuji
+<733>"Yes, all of humanity will get lost in my speech... and drown in it."
+<734>kimi_000378
+<735>Kimika
+<736>"All good knowledge will get lost in your speech, and then remember in it."
+<737>taku_003439
+<738>Takuji
+<739>"Yes!"
+<740>kimi_000379
+<741>Kimika
+<742>"I remembered it!"
+<743>taku_003440
+<744>Takuji
+<745>"Did you?"
+<746>kimi_000380
+<747>Kimika
+<748>"I did!"
+<749>taku_003441
+<750>Takuji
+<751>"Well good!"
+<752>kimi_000381
+<753>Kimika
+<754>"I was good! Praise me!"
+<755>taku_003442
+<756>Takuji
+<757>"I can't do that. No one would praise you for something like that."
+<758>ev5002k
+<759>kimi_000382
+<760>Kimika
+<761>"You won't?"
+<762>ev5002l
+<763>kimi_000383
+<764>Kimika
+<765>"Hahaha... I guess it's no use."
+<766>taku_003443
+<767>Takuji
+<768>"W-Wait, if it means that much to you, then maybe just a little."
+<769>ev5002m
+<770>kimi_000384
+<771>Kimika
+<772>"Maybe just a little?"
+<773>taku_003444
+<774>Takuji
+<775>"I could praise you... I guess?"
+<776>ev5002e
+<777>kimi_000385
+<778>Kimika
+<779>"Yes! That would make me so happy!"
+<780>taku_003445
+<781>Takuji
+<782>"I see... I'll give it a shot."
+<783>kimi_000386
+<784>Kimika
+<785>"Go ahead!"
+<786>taku_003446
+<787>Takuji
+<788>"Tachibana, good job!"
+<789>ev5002k
+<790>kimi_000387
+<791>Kimika
+<792>"Um, i-if you don't mind..."
+<793>kimi_000388
+<794>Kimika
+<795>"Um, I just thought... it would make me even happier if you called me Kimika instead of Tachibana."
+<796>taku_003447
+<797>Takuji
+<798>"All right... So Kimika is better than Tachibana?"
+<799>ev5002e
+<800>kimi_000389
+<801>Kimika
+<802>"Yes! You're better than me!"
+<803>taku_003448
+<804>Takuji
+<805>"Okay, Kimika... good job!"
+<806>ev5002i
+<807>kimi_000390
+<808>Kimika
+<809>"Yay! I did it! The savior said I did a good job!"
+<810>taku_003449
+<811>Takuji
+<812>"Did that make you happy?"
+<813>ev5002c
+<814>kimi_000391
+<815>Kimika
+<816>"Eureka?"
+<817>kimi_000392
+<818>Kimika
+<819>"Um, that's..."
+<820>taku_003450
+<821>Takuji
+<822>"What is it, all of a sudden?"
+<823>taku_003451
+<824>Takuji
+<825>"Eureka meant 'I found it' in the present perfect tense... Or are you talking about the anime?"
+<826>ev5002e
+<827>kimi_000393
+<828>Kimika
+<829>"Yes! That's it! I found it!"
+<830>taku_003452
+<831>Takuji
+<832>"Found what?"
+<833>kimi_000394
+<834>Kimika
+<835>"I found the savior!"
+<836>taku_003453
+<837>Takuji
+<838>"The savior? You mean me?"
+<839>kimi_000395
+<840>Kimika
+<841>"Yes. I found Mamiya Takuji, the savior! I found something incredibly valuable!"
+<842>taku_003454
+<843>Takuji
+<844>"Oh... That's good."
+<845>ev5002i
+<846>kimi_000396
+<847>Kimika
+<848>"Yay! I'm so glad I found you!"
+<849>ev5002k
+<850>kimi_000397
+<851>Kimika
+<852>"Um, do you mind if I hug you, so I have something to remember this moment by?"
+<853>taku_003455
+<854>Takuji
+<855>"No way... I don't offer that service."
+<856>ev5002l
+<857>kimi_000398
+<858>Kimika
+<859>"O-Oh, all right... I should have known the savior wouldn't be offering hugs."
+<860>taku_003456
+<861>Takuji
+<862>"Do you... want to hug me?"
+<863>ev5002e
+<864>kimi_000399
+<865>Kimika
+<866>"Yes! I want a hug!"
+<867>taku_003457
+<868>Takuji
+<869>"Why don't you just go fuck one of the guys over there?"
+<870>ev5002h
+<871>kimi_000400
+<872>Kimika
+<873>"I'll punch you, my savior!"
+<874>taku_003458
+<875>Takuji
+<876>"Don't punch me... You're my servant..."
+<877>ev5002m
+<878>kimi_000401
+<879>Kimika
+<880>"But you're being mean! That's not what I mean! I'm not talking about sex! I'm too pure and vaginal for that!"
+<881>taku_003459
+<882>Takuji
+<883>"Not pure and vaginal... You mean pure and virginal... You sure know some old, obscure jokes."
+<884>taku_003460
+<885>Takuji
+<886>"Well, if you're not talking about sex, then why don't you go hug that pillar over there?"
+<887>ev5002h
+<888>kimi_000402
+<889>Kimika
+<890>"That's not what I mean! That's totally wrong! You're not even close! I want to hug you, my savior!"
+<891>taku_003461
+<892>Takuji
+<893>"Is it that different?"
+<894>taku_003462
+<895>Takuji
+<896>"If it has nothing to do with sex... I thought it was like when you can't sleep without a pillow to hold onto or something."
+<897>ev5002d
+<898>kimi_000403
+<899>Kimika
+<900>"Oh, I know what you mean. I can't get to sleep if I don't have something to hold onto."
+<901>taku_003463
+<902>Takuji
+<903>"Oh, really..."
+<904>kimi_000404
+<905>Kimika
+<906>"So I haven't slept at all today. Actually, I don't even feel tired."
+<907>kimi_000405
+<908>Kimika
+<909>"I watched you sleeping all day today!"
+<910>ev5002m
+<911>kimi_000406
+<912>Kimika
+<913>"Unfortunately, you woke up every ten minutes, so I didn't get to see your sleeping face very much."
+<914>taku_003464
+<915>Takuji
+<916>"Don't watch me sleep."
+<917>ev5002e
+<918>kimi_000407
+<919>Kimika
+<920>"I would watch you even if it meant I would fall into the depths of hell! I'm not afraid of dying at all, and I'm sure I'll go to hell when I die!"
+<921>kimi_000408
+<922>Kimika
+<923>"But if you say I absolutely can't... I guess I'll stop if you really hate it."
+<924>taku_003465
+<925>Takuji
+<926>"No... You're not going to go to hell for watching me sleep, and I didn't say you absolutely couldn't."
+<927>ev5002i
+<928>kimi_000409
+<929>Kimika
+<930>"Then you don't mind, right?"
+<931>taku_003466
+<932>Takuji
+<933>"Well, I don't really like it, but..."
+<934>ev5002e
+<935>kimi_000410
+<936>Kimika
+<937>"If you won't let me hug you, at least let me do that!"
+<938>taku_003467
+<939>Takuji
+<940>"What are you talking about? I don't understand."
+<941>kimi_000411
+<942>Kimika
+<943>"You don't understand!"
+<944>taku_003468
+<945>Takuji
+<946>"More importantly, about Kiyokawa..."
+<947>ev5002d
+<948>kimi_000412
+<949>Kimika
+<950>"You're going to drown Ms. Kiyokawa, right?"
+<951>taku_003469
+<952>Takuji
+<953>"Who said that? Are you stupid?"
+<954>ev5002b
+<955>kimi_000413
+<956>Kimika
+<957>"I-I'm sorry! I was mistaken! Huh? What were you going to do to Ms. Kiyokawa?"
+<958>taku_003470
+<959>Takuji
+<960>"So... where's Kiyokawa?"
+<961>ev5002j
+<962>kimi_000414
+<963>Kimika
+<964>"Oh, Ms. Kiyokawa shrunk herself over there."
+<965>taku_003471
+<966>Takuji
+<967>"So she succeeded at shrinking herself?"
+<968>ev5002e
+<969>kimi_000415
+<970>Kimika
+<971>"Yes, we succeeded at shrinking her!"
+<972>taku_003472
+<973>Takuji
+<974>"All according to plan..."
+<975>kimi_000416
+<976>Kimika
+<977>"Yes, I recorded your plan!"
+<978>taku_003473
+<979>Takuji
+<980>"Hehehe... I'll have the miniaturized Kiyokawa crawl into all of humanity's mouths... and then I'll transmit my words straight to them."
+<981>kimi_000417
+<982>Kimika
+<983>"Yes! And then I'll transmit my words Stalin to them!"
+<984>taku_003474
+<985>Takuji
+<986>"Hehehe... Go call for Kiyokawa."
+<987>kimi_000418
+<988>Kimika
+<989>"Understood!"
+<990>map017
+<991>as1000_l
+<992>km0008a
+<993>map018
+<994>bg1025b
+<995>taku_003475
+<996>Takuji
+<997>"What's this?"
+<998>kimi_000419
+<999>Kimika
+<1000>"What's wrong?"
+<1001>taku_003476
+<1002>Takuji
+<1003>"L-Look at her, you idiot!"
+<1004>bgm018
+<1005>kimi_000420
+<1006>Kimika
+<1007>"Eh?
+<1008>km0009
+<1009> Whoa, she's huge!"
+<1010>as1009_l
+<1011>asu_000472
+<1012>Asumi
+<1013>"Eh?"
+<1014>taku_003477
+<1015>Takuji
+<1016>"She's over two meters tall..."
+<1017>as1008_l
+<1018>km0004a
+<1019>kimi_000421
+<1020>Kimika
+<1021>"She's over two layers through... Over two layers, right..."
+<1022>kimi_000422
+<1023>Kimika
+<1024>"It's hard with two layers, though...
+<1025>km0009a
+<1026> Maybe she's already three layers?"
+<1027>taku_003478
+<1028>Takuji
+<1029>"Hey, Kimika."
+<1030>km0008a
+<1031>kimi_000423
+<1032>Kimika
+<1033>"Y-Yes?"
+<1034>taku_003479
+<1035>Takuji
+<1036>"What are you mumbling about?"
+<1037>as1000_l
+<1038>km0010a
+<1039>kimi_000424
+<1040>Kimika
+<1041>"I-I'm sorry, I was mumble!"
+<1042>taku_003480
+<1043>Takuji
+<1044>"No... No one is mumble..."
+<1045>km0008a
+<1046>kimi_000425
+<1047>Kimika
+<1048>"Buddha?"
+<1049>taku_003481
+<1050>Takuji
+<1051>"No one's talking about that!"
+<1052>km0007a
+<1053>kimi_000426
+<1054>Kimika
+<1055>"S-Sorry, no one was talking behind your back!
+<1056>km0006a
+<1057> I was just talking about Buddha!"
+<1058>taku_003482
+<1059>Takuji
+<1060>"I thought you said we succeeded in shrinking her."
+<1061>km0010a
+<1062>kimi_000427
+<1063>Kimika
+<1064>"I-I'm sorry... That's what my sources told me."
+<1065>km0006a
+<1066>kimi_000428
+<1067>Kimika
+<1068>"It seems our intelligence network has been disrupted by the war."
+<1069>km0004a
+<1070>kimi_000429
+<1071>Kimika
+<1072>"It was hard to break through the second layer. We were under fire the whole way, and the hills were crawling with enemies..."
+<1073>taku_003483
+<1074>Takuji
+<1075>"Wh-What are you talking about?"
+<1076>as1008_l
+<1077>km0008a
+<1078>kimi_000430
+<1079>Kimika
+<1080>"Eh? Um, I was giving you a status report."
+<1081>taku_003484
+<1082>Takuji
+<1083>"Like I said, she should be shorter than this, shouldn't she?"
+<1084>km0000a
+<1085>kimi_000431
+<1086>Kimika
+<1087>"A short sword?"
+<1088>km0009
+<1089>km0002a
+<1090>kimi_000432
+<1091>Kimika
+<1092>"Is that what it was?! A short sword! That's it!"
+<1093>km0003a
+<1094>kimi_000433
+<1095>Kimika
+<1096>"Understood! Leave it to me! Leave it all to me!
+<1097>km0004a
+<1098> It's a short sword! That means we have to carve it in!"
+<1099>as1009_l
+<1100>km0003a
+<1101>kimi_000434
+<1102>Kimika
+<1103>"I'll go find it! I'll find it as soon as possible!"
+<1104>as1006_l
+<1105>asu_000473
+<1106>Asumi
+<1107>"U-Um..."
+<1108>taku_003485
+<1109>Takuji
+<1110>"A short sword? Carve it?"
+<1111>asu_000474
+<1112>Asumi
+<1113>"Um, my savior... Wh-What's she..."
+<1114>km0002_l
+<1115>kimi_000435
+<1116>Kimika
+<1117>"My savior! I couldn't find a short sword, but I found a box cutter! We can carve her with this!"
+<1118>as1009_l
+<1119>asu_000475
+<1120>Asumi
+<1121>"Eh? Did she say carve?"
+<1122>as1006_l
+<1123>km0003_l
+<1124>kimi_000436
+<1125>Kimika
+<1126>"Just like this!"
+<1127>se385
+<1128>as1007_l
+<1129>asu_000476
+<1130>Asumi
+<1131>"Ow!"
+<1132>km0009_l
+<1133>kimi_000437
+<1134>Kimika
+<1135>"Ah, you can't do that!
+<1136>km0004a_l
+<1137> I can't make you smaller if you run away!"
+<1138>as1011_l
+<1139>asu_000477
+<1140>Asumi
+<1141>"N-Nooo! Wh-What are you doing?!"
+<1142>km0009_l
+<1143>kimi_000438
+<1144>Kimika
+<1145>"Ah, stop! Don't run away!"
+<1146>as1006
+<1147>asu_000478
+<1148>Asumi
+<1149>"Tachibana-san, stop it!"
+<1150>km0004a
+<1151>kimi_000439
+<1152>Kimika
+<1153>"No! I have to make you smaller with this short sword so that you can climb into their food! Ei!"
+<1154>se385
+<1155>as1007
+<1156>asu_000479
+<1157>Asumi
+<1158>"N-Nooo!"
+<1159>kimi_000440
+<1160>Kimika
+<1161>"You have to climb into the mouths of all the people in the world and help the savior! Please stop moving!"
+<1162>se385
+<1163>asu_000480
+<1164>Asumi
+<1165>"Aah!"
+<1166>kimi_000441
+<1167>Kimika
+<1168>"You have more than three layers! You're already at three layers! If you go past three layers, you can't go back!"
+<1169>se385
+<1170>asu_000481
+<1171>Asumi
+<1172>"Agh!"
+<1173>What's she doing...
+<1174>I know she's just trying to help, but she's not accomplishing anything.
+<1175>And how is she going to carve something with a box cutter like that?
+<1176>Every time Kimika slashed at Kiyokawa, Kiyokawa got another grazing wound on her body.
+<1177>The two of them played tag for hours inside the huge ark.
+<1178>Kiyokawa was pretty desperate... and Kimika was gasping for air.
+<1179>taku_003486
+<1180>Takuji
+<1181>"Wasn't she in the Track and Field Club?"
+<1182>taku_003487
+<1183>Takuji
+<1184>"Why's she slower than Kiyokawa?"
+<1185>After they ran five laps around the ark, Kimika came back to me.
+<1186>km0010
+<1187>kimi_000442
+<1188>Kimika
+<1189>"Ha, ha, ha... She has too many layers. I can't damage her with normal attacks."
+<1190>taku_003488
+<1191>Takuji
+<1192>"Do you consider stabbing someone with a box cutter to be a normal attack? That was awfully dangerous to begin with."
+<1193>km0010a
+<1194>kimi_000443
+<1195>Kimika
+<1196>"Yes... I couldn't damage her, even with that!
+<1197>km0005a
+<1198> If only I had my Estrema Ratio!"
+<1199>taku_003489
+<1200>Takuji
+<1201>"You'd actually kill her if you were waving a real knife around... And I think the real problem is that you're too slow."
+<1202>km0009
+<1203>km0007
+<1204>kimi_000444
+<1205>Kimika
+<1206>"Um, I joined the Track and Field Club because I was so slow. I thought I had gotten pretty fast..."
+<1207>taku_003490
+<1208>Takuji
+<1209>"That's delusional."
+<1210>km0009
+<1211>kimi_000445
+<1212>Kimika
+<1213>"D-Delusional? Nooo!"
+<1214>km0007a
+<1215>taku_003491
+<1216>Takuji
+<1217>"From what I just saw... you're ridiculously slow."
+<1218>km0006a
+<1219>kimi_000446
+<1220>Kimika
+<1221>"I-I was trying to run like a gazelle."
+<1222>taku_003492
+<1223>Takuji
+<1224>"You looked more like a giraffe to me."
+<1225>km0010
+<1226>kimi_000447
+<1227>Kimika
+<1228>"Don't say that..."
+<1229>taku_003493
+<1230>Takuji
+<1231>"More importantly, Kimika."
+<1232>km0008a
+<1233>kimi_000448
+<1234>Kimika
+<1235>"Yes?"
+<1236>taku_003494
+<1237>Takuji
+<1238>"What time is it right now?"
+<1239>km0001
+<1240>kimi_000449
+<1241>Kimika
+<1242>"Yes, um... It's 8:02 right now.
+<1243>km0003a
+<1244> Time sure does fly, doesn't it?"
+<1245>taku_003495
+<1246>Takuji
+<1247>"It sure does..."
+<1248>bgm008
+<1249>taku_003496
+<1250>Takuji
+<1251>"Now then... I should give my sermon. It's the perfect time for it, now that the sun has set."
+<1252>km0002a
+<1253>kimi_000450
+<1254>Kimika
+<1255>"All right. I'll gather the people."
+<1256>taku_003497
+<1257>Takuji
+<1258>"You don't have to gather them. Only the people who want to listen have to."
+<1259>taku_003498
+<1260>Takuji
+<1261>"More importantly..."
+<1262>km0008a
+<1263>I looked for a place to sit.
+<1264>Then Kimika...
+<1265>km0000a
+<1266>kimi_000451
+<1267>Kimika
+<1268>"A chair?"
+<1269>taku_003499
+<1270>Takuji
+<1271>"Y-Yeah, I need a chair."
+<1272>kimi_000452
+<1273>Kimika
+<1274>"Yesterday, you said you were gonna make Ms. Kiyokawa into your chair."
+<1275>taku_003500
+<1276>Takuji
+<1277>"Yeah... I did, but what of it?"
+<1278>km0010a
+<1279>kimi_000453
+<1280>Kimika
+<1281>"Why didn't you?"
+<1282>taku_003501
+<1283>Takuji
+<1284>"It's just like I said... She's too filthy for me to sit on. She's a filthy slut."
+<1285>km0008a
+<1286>kimi_000454
+<1287>Kimika
+<1288>"A slut...
+<1289>km0000a
+<1290> You're talking about sex, right?"
+<1291>taku_003502
+<1292>Takuji
+<1293>"Yeah, I am... I can't sit on someone who would do something like that..."
+<1294>se_megusato
+<1295>map009
+<1296>ev8106d
+<1297>taku_003503
+<1298>Takuji
+<1299>"What's so fun about doing that all day long..."
+<1300>taku_003504
+<1301>Takuji
+<1302>"Though I don't really feel like punishing every single one of them."
+<1303>km0104a_l
+<1304>map009
+<1305>bg1026b
+<1306>kimi_000455
+<1307>Kimika
+<1308>"I'm a virgin!"
+<1309>taku_003505
+<1310>Takuji
+<1311>"H-Huh?"
+<1312>kimi_000456
+<1313>Kimika
+<1314>"I haven't even kissed anyone before!"
+<1315>kimi_000457
+<1316>Kimika
+<1317>"I've never held hands with a man! I've hated men all my life!"
+<1318>taku_003506
+<1319>Takuji
+<1320>"Huh... A-And?"
+<1321>km0106_l
+<1322>kimi_000458
+<1323>Kimika
+<1324>"Um, could I be your seat?"
+<1325>taku_003507
+<1326>Takuji
+<1327>"Huh?"
+<1328>km0107_l
+<1329>kimi_000459
+<1330>Kimika
+<1331>"Um, would you allow me to be your seat, my savior?"
+<1332>taku_003508
+<1333>Takuji
+<1334>"You? My seat?"
+<1335>km0103_l
+<1336>kimi_000460
+<1337>Kimika
+<1338>"Yes! I'll do my best!"
+<1339>taku_003509
+<1340>Takuji
+<1341>"No, it has nothing to do with that. Being my seat is a kind of punishment..."
+<1342>km0104_l
+<1343>kimi_000461
+<1344>Kimika
+<1345>"Not at all! How would it be a punishment to support the savior's entire body weight?"
+<1346>taku_003510
+<1347>Takuji
+<1348>"No, it would be. Use your common sense."
+<1349>km0102
+<1350>kimi_000462
+<1351>Kimika
+<1352>"Please consider it!"
+<1353>taku_003511
+<1354>Takuji
+<1355>"C-Consider it, huh... I wonder..."
+<1356>Why does she want to do that? She really is a strange one.
+<1357>Well, all right... It's just until the sermon is over.
+<1358>taku_003512
+<1359>Takuji
+<1360>"Hmm. I don't really understand you, but all right then, Kimika. Be my chair."
+<1361>km0103
+<1362>kimi_000463
+<1363>Kimika
+<1364>"Understood!"
+<1365>Hmm...
+<1366>This is odd...
+<1367>The human chair is supposed to be tragic... or it could be used to punish someone for their sins... or something like that...
+<1368>When she gleefully chooses to become a chair... it doesn't seem that bad at all.
+<1369>taku_003513
+<1370>Takuji
+<1371>"Kimika, do you know about the big four?"
+<1372>km0008a
+<1373>kimi_000464
+<1374>Kimika
+<1375>"Yes! There are are a few different big fours!
+<1376>km0003a
+<1377> The big four of comedy! The big four idols! The big four games that..."
+<1378>se611
+<1379>km0007a
+<1380>kimi_000465
+<1381>Kimika
+<1382>"Ah!"
+<1383>km0006a
+<1384>taku_003514
+<1385>Takuji
+<1386>"Do you want to incur the wrath of the gods?"
+<1387>km0007
+<1388>kimi_000466
+<1389>Kimika
+<1390>"I-I'm sorry!"
+<1391>taku_003515
+<1392>Takuji
+<1393>"I'm talking about the Four Heavenly Kings who watch over the cardinal directions. Most of their statues depict them crushing devils underfoot, right?"
+<1394>km0006a
+<1395>kimi_000467
+<1396>Kimika
+<1397>"I-I don't really understand, but if you say so, it must be true!"
+<1398>taku_003516
+<1399>Takuji
+<1400>"No, that's not what I mean... The devil is being painfully crushed underfoot. Do you know why?"
+<1401>km0008a
+<1402>kimi_000468
+<1403>Kimika
+<1404>"Because... it hurts?"
+<1405>taku_003517
+<1406>Takuji
+<1407>"Well for the devil, I suppose so, but what does the statue mean?"
+<1408>km0010
+<1409>kimi_000469
+<1410>Kimika
+<1411>"The statue's meaning? Um, it's a representation of pain?"
+<1412>taku_003518
+<1413>Takuji
+<1414>"That's the same thing... That's not it."
+<1415>km0010a
+<1416>kimi_000470
+<1417>Kimika
+<1418>"Th-Then... maybe it represents the suffering in human life?"
+<1419>taku_003519
+<1420>Takuji
+<1421>"It's not modern art, you know. Why would a Buddhist statue represent something abstract like that?"
+<1422>taku_003520
+<1423>Takuji
+<1424>"The Four Kings look especially conspicuous because they're crushing a devil underfoot."
+<1425>km0000a
+<1426>kimi_000471
+<1427>Kimika
+<1428>"The Four Kings look especially promiscuous... because they're cracking a demon underfoot... Got it."
+<1429>km0004a
+<1430>taku_003521
+<1431>Takuji
+<1432>"You're pretty quick. That's why you shouldn't look so happy while you're doing it."
+<1433>kimi_000472
+<1434>Kimika
+<1435>"That's why I shouldn't look so sappy while I'm doing it. Got it."
+<1436>taku_003522
+<1437>Takuji
+<1438>"Just be careful about that."
+<1439>km0003a
+<1440>kimi_000473
+<1441>Kimika
+<1442>"Understood!"
+<1443>Does she really understand?
+<1444>map010
+<1445>kimi_000474
+<1446>Kimika
+<1447>"All ready!"
+<1448>map007
+<1449>ev5003a
+<1450>bgm103
+<1451>kimi_000475
+<1452>Kimika
+<1453>"I'm perfectly ready!"
+<1454>taku_003523
+<1455>Takuji
+<1456>"Like I said, Kimika, you're..."
+<1457>kimi_000476
+<1458>Kimika
+<1459>"Yes, I can feel the devil within me."
+<1460>taku_003524
+<1461>Takuji
+<1462>"That wouldn't be a good thing."
+<1463>Oh well... She's been acting strange all day.
+<1464>Her eyes...
+<1465>She looked like a dog...
+<1466>It felt like I was sitting on a dog.
+<1467>I was the one that felt guilty here.
+<1468>kimi_000477
+<1469>Kimika
+<1470>"My savior!"
+<1471>Her eyes sparkled, like she was telling me, 'Don't worry! I'm ready for it!'
+<1472>Jeez... I don't even care anymore.
+<1473>taku_003525
+<1474>Takuji
+<1475>"..."
+<1476>The number of people... increased again, apparently. Where are they coming from?
+<1477>taku_003526
+<1478>Takuji
+<1479>"Now then..."
+<1480>kimi_000478
+<1481>Kimika
+<1482>"All right!"
+<1483>taku_003527
+<1484>Takuji
+<1485>"A chair shouldn't respond to every little thing I say."
+<1486>kimi_000479
+<1487>Kimika
+<1488>"Ah, excuse me."
+<1489>ev5003b
+<1490>kimi_000480
+<1491>Kimika
+<1492>"Ah..."
+<1493>My chair made a contented face.
+<1494>Like her life was now complete.
+<1495>I guess she really just wanted to be of use to me.
+<1496>Well, whatever.
+<1497>taku_003528
+<1498>Takuji
+<1499>"Everyone, listen to my words!"
+<1500>taku_003529
+<1501>Takuji
+<1502>"All of you! Look at the tiny existence huddled in the corner!"
+<1503>taku_003530
+<1504>Takuji
+<1505>"The tiny, quivering person huddled in the corner!"
+<1506>taku_003531
+<1507>Takuji
+<1508>"That is the form of one of the so-called pastors that until yesterday haughtily brainwashed us with education!"
+<1509>taku_003532
+<1510>Takuji
+<1511>"As the end of the world approaches, she is even more perturbed, even more fearful than any of you!"
+<1512>taku_003533
+<1513>Takuji
+<1514>"And how does she appear to you? Is that the form of a pastor leading the people?"
+<1515>taku_003534
+<1516>Takuji
+<1517>"That's right! That is the true form of the people in the profession of pastors!"
+<1518>kimi_000481
+<1519>Kimika
+<1520>"Ah..."
+<1521>ev5003c
+<1522>A grunt escaped Kimika's mouth.
+<1523>Her face was red, as if she was enduring something.
+<1524>Well, of course... She was on all fours on this concrete floor, with someone sitting on her. It might not have been a problem at first, but as time passed...
+<1525>kimi_000482
+<1526>Kimika
+<1527>"..."
+<1528>Kimika's eyes met mine.
+<1529>She gave me a big smile.
+<1530>Even though her face was bright red, and her eyes full of tears...
+<1531>Is that really the face someone would make if there was no problem? I wonder how she feels right now.
+<1532>ev5003d
+<1533>Well, it's supposed to feel bad when I'm using someone as a chair, at least.
+<1534>taku_003535
+<1535>Takuji
+<1536>"This revelation is proof of how many lies are running rampant in the world!"
+<1537>taku_003536
+<1538>Takuji
+<1539>"Those people who can do no more than curl up and quiver in fear are the ones who have supposedly been teaching you the truth of the world!"
+<1540>taku_003537
+<1541>Takuji
+<1542>"That's why I made her into a toilet..."
+<1543>taku_003538
+<1544>Takuji
+<1545>"From now on, everyone here must both urinate and defecate on that thing... Understood?"
+<1546>taku_003539
+<1547>Takuji
+<1548>"Now, what is the truth that they've hidden from us?"
+<1549>taku_003540
+<1550>Takuji
+<1551>"This story is an example... It's just a parable."
+<1552>taku_003541
+<1553>Takuji
+<1554>"A parable from ancient times..."
+<1555>taku_003542
+<1556>Takuji
+<1557>"In ancient times, the Norse God Loki ate the heart of the female jotunn Angrbooa... causing her to give birth to three children."
+<1558>taku_003543
+<1559>Takuji
+<1560>"All of them were disgusting beasts, unfit for man's eyes... One of them was the great wolf Fenrir..."
+<1561>ev8013a
+<1562>taku_003544
+<1563>Takuji
+<1564>"At first, Fenrir seemed to be nothing more than a normal wolf, so the Gods decided to raise it as a pet."
+<1565>taku_003545
+<1566>Takuji
+<1567>"Yet as time passed, Fenrir grew and grew. Soon he became mighty enough to devour even the Gods who had raised him..."
+<1568>ev8013b
+<1569>taku_003546
+<1570>Takuji
+<1571>"The Gods were afraid of Fenrir and bound him with a chain known as Leyding."
+<1572>ev8013c
+<1573>taku_003547
+<1574>Takuji
+<1575>"Yet the monstrous wolf tore through the chain as if it were nothing..."
+<1576>ev8013d
+<1577>taku_003548_a
+<1578>Takuji
+<1579>"The Gods bound Fenrir with an even more powerful chain... the most powerful chain in all of the Niu Heimar, Dromi."
+<1580>ev8013e
+<1581>taku_003549
+<1582>Takuji
+<1583>"But even Dromi would prove no match for Fenrir, who grew only greater and greater."
+<1584>taku_003550
+<1585>Takuji
+<1586>"The Gods were awestruck, terrified by Fenrir's seemingly endless power."
+<1587>ev8013f
+<1588>taku_003551
+<1589>Takuji
+<1590>"In their terror, the Gods had the dwarves construct Gleipnir, a chain that would be impossible to break."
+<1591>taku_003552
+<1592>Takuji
+<1593>"Gleipnir, meaning 'that which devours,' was no mere chain... It was an impossible seal constructed by combining six impossible concepts."
+<1594>taku_003553
+<1595>Takuji
+<1596>"And thus these six concepts were lost from the world..."
+<1597>ev5003e
+<1598>taku_003554
+<1599>Takuji
+<1600>"I ask you, what is Fenrir?"
+<1601>taku_003555
+<1602>Takuji
+<1603>"I ask you, what is Fenrir? He who began life as nothing but a tiny wolf and grew to monstrous sizes..."
+<1604>taku_003556
+<1605>Takuji
+<1606>"I ask you, what do you call a being who shrugs off even the binding of the Gods, growing ever larger?"
+<1607>taku_003557
+<1608>Takuji
+<1609>"What do you call a being that can only be bound by that which devours all?"
+<1610>taku_003558
+<1611>Takuji
+<1612>"This is avarice!"
+<1613>taku_003559
+<1614>Takuji
+<1615>"Fenrir is the true form of avarice!"
+<1616>taku_003560
+<1617>Takuji
+<1618>"And the only thing that can restrain avarice is Gleipnir, that which devours even greed..."
+<1619>taku_003561
+<1620>Takuji
+<1621>"Gleipnir devoured avarice as it grew. Fenrir could not grow quickly enough to escape its grasp... And so, pieces of both Fenrir and Gleipnir scattered throughout the world..."
+<1622>taku_003562
+<1623>Takuji
+<1624>"And so Gleipnir, 'that which devours all,' showed itself to people in the form of currency..."
+<1625>taku_003563
+<1626>Takuji
+<1627>"Gleipnir, which was never metal to begin with, transformed into gold, silver, and jewels!"
+<1628>taku_003564
+<1629>Takuji
+<1630>"The true form of Gleipnir, 'that which devours all,' is currency! Fenrir, the being bound by it, is nothing more than humanity's never ending greed!"
+<1631>taku_003565
+<1632>Takuji
+<1633>"Fenrir is only possible to bind if first devoured by currency!"
+<1634>taku_003566
+<1635>Takuji
+<1636>"And so we see that humanity's loathsome greed cannot be bound by fetters of steel or iron, but only by that which devours all!"
+<1637>taku_003567
+<1638>Takuji
+<1639>"Now then, let us discuss that which was born next."
+<1640>taku_003568
+<1641>Takuji
+<1642>"The next being to emerge from Angrbooa's womb was the goddess Hel..."
+<1643>ev8014
+<1644>taku_003569
+<1645>Takuji
+<1646>"As you can imagine from her name, she symbolizes hell."
+<1647>taku_003570
+<1648>Takuji
+<1649>"But Hel's true form is not hell as we know it."
+<1650>taku_003571
+<1651>Takuji
+<1652>"Her true form is she who brandishes death... What does it mean to brandish death?"
+<1653>taku_003572
+<1654>Takuji
+<1655>"In other words, Hel alone could manipulate life and death."
+<1656>taku_003573
+<1657>Takuji
+<1658>"It is said that one of the Aesir, Hermoor, visited upon Hel, begging her to resurrect the fallen god Baldr..."
+<1659>taku_003574
+<1660>Takuji
+<1661>"In response, she spoke thusly..."
+<1662>taku_003575
+<1663>Takuji
+<1664>"'It would upset the balance of the world to revive the dead so readily... I cannot revive Baldr...'"
+<1665>taku_003576
+<1666>Takuji
+<1667>"In other words, not even the Gods can escape death."
+<1668>taku_003577
+<1669>Takuji
+<1670>"And Hel herself refused to overturn this principle, even for a god."
+<1671>taku_003578
+<1672>Takuji
+<1673>"Why is this?"
+<1674>taku_003579
+<1675>Takuji
+<1676>"It is because death is absolute!"
+<1677>taku_003580
+<1678>Takuji
+<1679>"Death cannot be anything less than absolute, even from the perspective of the one who manages it."
+<1680>ev5003f
+<1681>taku_003581
+<1682>Takuji
+<1683>"What then, is Hel?"
+<1684>taku_003582
+<1685>Takuji
+<1686>"Hel is not death itself."
+<1687>taku_003583
+<1688>Takuji
+<1689>"Death is nothing more but that which Hel brandishes, that which Hel directs."
+<1690>taku_003584
+<1691>Takuji
+<1692>"What then, is Hel?"
+<1693>taku_003585
+<1694>Takuji
+<1695>"Hel is the most basic of anxieties!"
+<1696>taku_003586
+<1697>Takuji
+<1698>"Hel is the fear of life's impermanence!"
+<1699>taku_003587
+<1700>Takuji
+<1701>"Hel is not death. She is life itself, the boundary between life and death!"
+<1702>taku_003588
+<1703>Takuji
+<1704>"To brandish death means to manage that most basic of all anxieties!"
+<1705>taku_003589
+<1706>Takuji
+<1707>"Hel is our fear of death!"
+<1708>taku_003590
+<1709>Takuji
+<1710>"Why did Hermoor attempt to resurrect Baldr?"
+<1711>taku_003591
+<1712>Takuji
+<1713>"Because of a basic fear of death itself."
+<1714>taku_003592
+<1715>Takuji
+<1716>"If death itself were not something to be feared, there would be no meaning in resurrecting Baldr."
+<1717>taku_003593
+<1718>Takuji
+<1719>"Much like a tiger has no need to fly or a mouse has no need to breathe underwater... much like humans cannot control death itself..."
+<1720>taku_003594
+<1721>Takuji
+<1722>"There is no reason to treat death as a taboo!"
+<1723>taku_003595
+<1724>Takuji
+<1725>"We must learn to accept death!"
+<1726>taku_003596
+<1727>Takuji
+<1728>"Hel is fear... Hel is anxiety."
+<1729>taku_003597
+<1730>Takuji
+<1731>"An absolute fear, never ending... A fear directed at a vague future that grows only larger and larger... This is what we call anxiety."
+<1732>taku_003598
+<1733>Takuji
+<1734>"That is to say, anxiety is fear directed at a future that has yet to come."
+<1735>taku_003599
+<1736>Takuji
+<1737>"Anxiety is the postponement of fear."
+<1738>taku_003600
+<1739>Takuji
+<1740>"It can be compared to avarice... In other words, Hel and Fenrir are very similar."
+<1741>taku_003601
+<1742>Takuji
+<1743>"Avarice and anxiety resemble one another."
+<1744>taku_003602
+<1745>Takuji
+<1746>"Avarice and fear resemble one another."
+<1747>taku_003603
+<1748>Takuji
+<1749>"Humanity's endless greed is in the end nothing more than an endless anxiety."
+<1750>taku_003604
+<1751>Takuji
+<1752>"Currency allows humanity to postpone their avarice... By fulfilling their immediate greed, they postpone its compensation indefinitely."
+<1753>taku_003605
+<1754>Takuji
+<1755>"Currency is Gleipnir endlessly postponing an immediate greed... Thus, currency will never come to an end."
+<1756>taku_003606
+<1757>Takuji
+<1758>"It's the same as an endless fear... the same as anxiety!"
+<1759>taku_003607
+<1760>Takuji
+<1761>"Hel's true form is anxiety, an endless chain of fear... an endlessly postponed fear, death!"
+<1762>taku_003608
+<1763>Takuji
+<1764>"There is but one difference between Hel and Fenrir."
+<1765>taku_003609
+<1766>Takuji
+<1767>"Fenrir is bound by the chain of Gleipnir, but Hel continues to gaze at us from atop the deck of the Naglfar... Yes, she continues to gaze at us!"
+<1768>taku_003610
+<1769>Takuji
+<1770>"Our fear of death is being left to roam free!"
+<1771>taku_003611
+<1772>Takuji
+<1773>"Now, just one remains..."
+<1774>taku_003612
+<1775>Takuji
+<1776>"I will now discuss the Ouroboros, that which is endless..."
+<1777>ev8015
+<1778>taku_003613
+<1779>Takuji
+<1780>"The last child to emerge from Angrbooa's womb was the great snake, Jormungandr."
+<1781>taku_003614
+<1782>Takuji
+<1783>"Jormungandr's form struck great fear into the hearts of the Gods from the instant it was born."
+<1784>taku_003615
+<1785>Takuji
+<1786>"They cast it into the ocean, hoping to be rid of it..."
+<1787>taku_003616
+<1788>Takuji
+<1789>"But Jormungandr would only grow larger... eventually growing to reach the end of the universe itself."
+<1790>taku_003617
+<1791>Takuji
+<1792>"And here, something strange happened. Jormungandr's tail, which had reached the end of the universe, wrapped around to the other side, appearing right in front of Jormungandr's eyes."
+<1793>taku_003618
+<1794>Takuji
+<1795>"And so Jormungandr bit its own tail."
+<1796>taku_003619
+<1797>Takuji
+<1798>"At the moment, the largest thing in existence became infinity. The universe itself was sealed inside the circle of infinity."
+<1799>taku_003620
+<1800>Takuji
+<1801>"The Gods, especially Thor, attempted many times to defeat Jormungandr... but their efforts were in vain. Any attempt to defeat Jormungandr could never end in anything but mutual destruction."
+<1802>ev5003g
+<1803>bgm018
+<1804>taku_003621
+<1805>Takuji
+<1806>"The Twilight of the Gods."
+<1807>taku_003622
+<1808>Takuji
+<1809>"Ancient mythology refers to it as such..."
+<1810>taku_003623
+<1811>Takuji
+<1812>"One day Jormungandr shall awaken, and this will be the end of the world."
+<1813>taku_003624
+<1814>Takuji
+<1815>"Everything will be razed and everything will sink... Everything will come to an end."
+<1816>taku_003625
+<1817>Takuji
+<1818>"Jormungandr and Thor will destroy one another... The rest of the Gods will die as well..."
+<1819>taku_003626
+<1820>Takuji
+<1821>"And finally, a new world will be born."
+<1822>taku_003627
+<1823>Takuji
+<1824>"The forest of Hoddmimis alone will survive... and there, two humans who survived the blaze, Lif and Lifthrasir, will forge a new world."
+<1825>taku_003628
+<1826>Takuji
+<1827>"This is nothing but a myth..."
+<1828>taku_003629
+<1829>Takuji
+<1830>"It cannot be anything more, for..."
+<1831>taku_003630
+<1832>Takuji
+<1833>"Jormungandr symbolizes circulation... eternal recurrence... continuity... eternity... circular motion... death and resurrection... destruction and creation... the base of the universe... the infinite... immortality... perfection... omniscience and omnipotence..."
+<1834>taku_003631
+<1835>Takuji
+<1836>"Killing this being would be nothing more than rewinding."
+<1837>taku_003632
+<1838>Takuji
+<1839>"In other words, Jormungandr and Thor's mutual destruction is not an ending, but a beginning..."
+<1840>taku_003633
+<1841>Takuji
+<1842>"That beginning is the moment when Jormungandr bit its own tail..."
+<1843>taku_003634
+<1844>Takuji
+<1845>"That is infinity..."
+<1846>taku_003635
+<1847>Takuji
+<1848>"And the end of the Universe... where Jormungandr's tail and head meet..."
+<1849>taku_003636
+<1850>Takuji
+<1851>"That is the farthest sky... That is where we must return!"
+<1852>taku_003637
+<1853>Takuji
+<1854>"Only those who exist there will be granted the chance to live in the new world... to be revived..."
+<1855>taku_003638
+<1856>Takuji
+<1857>"The farthest sky... That is the sky where everything shall end... That is the End Sky!"
+<1858>kimi_000483
+<1859>Kimika
+<1860>"Ah!"
+<1861>taku_003639
+<1862>Takuji
+<1863>"Huh?"
+<1864>se007
+<1865>ev5003i
+<1866>taku_003640
+<1867>Takuji
+<1868>"Wha―"
+<1869>kimi_000484
+<1870>Kimika
+<1871>"Ggh!"
+<1872>kimi_000485
+<1873>Kimika
+<1874>"Ha!"
+<1875>Willpower... I guess you could call it that.
+<1876>She raised me back up again with her skinny arms and legs.
+<1877>ev5003h
+<1878>taku_003641
+<1879>Takuji
+<1880>"Kimika, you..."
+<1881>kimi_000486
+<1882>Kimika
+<1883>"Ahgh..."
+<1884>She shook her head back and forth in denial.
+<1885>What's she denying... The fact that she fell? Or is she saying she can't keep going?
+<1886>Her skinny arms were already shaking violently, and her face wasn't just red, it was like a bright red firework.
+<1887>I still had a lot to talk about, but...
+<1888>taku_003642
+<1889>Takuji
+<1890>"That's all..."
+<1891>kimi_000487
+<1892>Kimika
+<1893>"Ah."
+<1894>se007
+<1895>ev5003j
+<1896>taku_003643
+<1897>Takuji
+<1898>"..."
+<1899>kimi_000488
+<1900>Kimika
+<1901>"Oooh～"
+<1902>Did she... faint?
+<1903>What's she doing?
+<1904>taku_003644
+<1905>Takuji
+<1906>"Haa... Everyone, three times daily you should all sprinkle elixir on each other... and lick a little bit of elixir on your finger instead of eating. Then you won't feel hungry or thirsty."
+<1907>map001
+<1908>map007
+<1909>bg1026b
+<1910>bgm003
+<1911>taku_003645
+<1912>Takuji
+<1913>"This is kind of..."
+<1914>Kimika fainted right there. Well, it must have been really hard for her, but...
+<1915>Still, why is she trying so hard?
+<1916>I understand why they rest of them have gathered here... I understand all too well...
+<1917>But I feel like she's here for a different reason.
+<1918>The strange unease I felt when we first met... At first, I didn't understand why I felt uneasy.
+<1919>It was completely different from the unease I felt around Minakami, Yuuki, the Wakatsuki sisters, or Otonashi. She wasn't an alien, metaphysical existence like them... She was much simpler.
+<1920>She bullied Takashima... and then she came to me because she was afraid of the curse.
+<1921>She came because she didn't want to die... just like Akasaka Megu, Kitami Satoko, and the rest of them did.
+<1922>But her eyes...
+<1923>Her eyes when we first met... and her voice when she was watching Senagawa...
+<1924>She led Senagawa to her death without a moment's hesitation.
+<1925>Now that I think about it, did I really fool her with that farce?
+<1926>I've put on a show to make the others believe in my predictions...
+<1927>But it honestly feels like I showed her my entire hand at the beginning.
+<1928>She's the only one who could've figured out that I didn't kill Senagawa with the curse, but led her directly to death instead.
+<1929>And yet...
+<1930>Why is she the most faithful and devoted of them all? Why did she trying to help me like this?
+<1931>map028
+<1932>black
+<1933>map023
+<1934>ev5002e
+<1935>kimi_000407
+<1936>Kimika
+<1937>"I would watch you even if it meant I would fall into the depths of hell! I'm not afraid of dying at all, and I'm sure I'll go to hell when I die!"
+<1938>kimi_000408
+<1939>Kimika
+<1940>"But if you say I absolutely can't... I guess I'll stop if you really hate it."
+<1941>map028
+<1942>Those words were strange... even if she was on drugs...
+<1943>Someone who just came to be saved wouldn't say that.
+<1944>Perhaps those were her true feelings, and she only said them because of the drugs?
+<1945>bg1026b
+<1946>Just what is she thinking?
+<1947>kimi_000489
+<1948>Kimika
+<1949>"Mmm..."
+<1950>km0008
+<1951>kimi_000490
+<1952>Kimika
+<1953>"Ah?!"
+<1954>kimi_000491
+<1955>Kimika
+<1956>"Wh-Where am I?"
+<1957>taku_003646
+<1958>Takuji
+<1959>"This is my room..."
+<1960>km0008a
+<1961>kimi_000492
+<1962>Kimika
+<1963>"Eh? Oh! How did I get here?"
+<1964>taku_003647
+<1965>Takuji
+<1966>"I carried you."
+<1967>km0009a
+<1968>kimi_000493
+<1969>Kimika
+<1970>"Eh? Do you mean... you carried me like a princess?"
+<1971>taku_003648
+<1972>Takuji
+<1973>"Yeah..."
+<1974>km0021a
+<1975>kimi_000494
+<1976>Kimika
+<1977>"...Daaamn iiiitt!"
+<1978>taku_003649
+<1979>Takuji
+<1980>"Wh-What is it?"
+<1981>km0105a
+<1982>kimi_000495
+<1983>Kimika
+<1984>"Please don't do that kind of service for me when I'm unconscious!"
+<1985>taku_003650
+<1986>Takuji
+<1987>"It wasn't supposed to be any kind of service..."
+<1988>km0012
+<1989>kimi_000496
+<1990>Kimika
+<1991>"Ah, I wish I could go back in time... I missed out."
+<1992>taku_003651
+<1993>Takuji
+<1994>"Missed out, huh..."
+<1995>km0007
+<1996>kimi_000497
+<1997>Kimika
+<1998>"Yes, big time..."
+<1999>taku_003652
+<2000>Takuji
+<2001>"I don't know what you want from me..."
+<2002>taku_003653
+<2003>Takuji
+<2004>"Now then, it's about time."
+<2005>km0000a
+<2006>kimi_000498
+<2007>Kimika
+<2008>"Where are you going?"
+<2009>taku_003654
+<2010>Takuji
+<2011>"The roof."
+<2012>km0008a
+<2013>kimi_000499
+<2014>Kimika
+<2015>"Eh? You're going outside again?"
+<2016>taku_003655
+<2017>Takuji
+<2018>"Yeah, I can go directly up to the Building C rooftop from here..."
+<2019>km0000
+<2020>kimi_000500
+<2021>Kimika
+<2022>"Oh, that's how you disappear sometimes. I thought it was one of your special powers."
+<2023>taku_003656
+<2024>Takuji
+<2025>"No, it's just a ladder... It's really long."
+<2026>km0012
+<2027>kimi_000501
+<2028>Kimika
+<2029>"U-Um, my savior..."
+<2030>taku_003657
+<2031>Takuji
+<2032>"What?"
+<2033>km0006a
+<2034>kimi_000502
+<2035>Kimika
+<2036>"It looked like you were having a lot of fun last night."
+<2037>taku_003658
+<2038>Takuji
+<2039>"Yeah, I guess I heard God's song. I don't really remember it, though..."
+<2040>km0003a
+<2041>kimi_000503
+<2042>Kimika
+<2043>"I want to go too!"
+<2044>taku_003659
+<2045>Takuji
+<2046>"No, that's ridiculous."
+<2047>km0009
+<2048>kimi_000504
+<2049>Kimika
+<2050>"I can't?"
+<2051>taku_003660
+<2052>Takuji
+<2053>"I'm not saying you can't, but it's pretty dangerous out there. The day before yesterday, there were billions of white and black angels fighting. It wasn't a problem for me, since I'm the savior, but for you..."
+<2054>km0002a
+<2055>kimi_000505
+<2056>Kimika
+<2057>"That's fine. I don't mind if it's dangerous."
+<2058>km0001a
+<2059>kimi_000506
+<2060>Kimika
+<2061>"I don't care if I die right now, so it doesn't matter how dangerous it is."
+<2062>km0004a
+<2063>kimi_000507
+<2064>Kimika
+<2065>"But, if possible... If possible, I'd like to see the same landscape that you saw. Would you share the scenery from your viewpoint with me just once?"
+<2066>taku_003661
+<2067>Takuji
+<2068>"Wh-Why are you so serious all of a sudden?"
+<2069>km0102a
+<2070>kimi_000508
+<2071>Kimika
+<2072>"Hahaha, I'm sorry. I always mess around, so... I'm not good with this kind of stuff."
+<2073>taku_003662
+<2074>Takuji
+<2075>"..."
+<2076>taku_003663
+<2077>Takuji
+<2078>"All right, fine. But I'm not responsible if something happens to you."
+<2079>km0009a
+<2080>kimi_000509
+<2081>Kimika
+<2082>"S-Seriously?"
+<2083>taku_003664
+<2084>Takuji
+<2085>"The roof is close to the sky, so both the white and black surges can fly there freely... If you get caught by the Black Surge, you might get your brain fried."
+<2086>km0011
+<2087>kimi_000510
+<2088>Kimika
+<2089>"Just what I wanted... I'd be happy to die like that. I still want to see it... The scenery from the roof..."
+<2090>taku_003665
+<2091>Takuji
+<2092>"Hehehe... All right..."
+<2093>map009
+<2094>This must disqualify me as the savior...
+<2095>But I wonder... Maybe this is part of the pre-established harmony too...
+<2096>...
+<2097>Or not... Not everything goes as God expects it to.
+<2098>Oh well, there's no point in dwelling on it.
+<2099>I don't mind taking her along... That's what I thought...
+<2100>I decided to take her along.
+<2101>se022
+<2102>The signal of the day's change...
+<2103>The world's final night approached.
+<2104>2_0718_kimi

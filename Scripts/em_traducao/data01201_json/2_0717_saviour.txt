@@ -266,7 +266,7 @@
 
 //TEXT 【Kimika】
 <enT0064>"He's been laying there like that."
-<ptT0064>"Ele tem estado deitado ali desse jeito."
+<ptT0064>"Ele esteve deitado ali desse jeito."
 
 //TEXT 【Takuji】
 <enT0065>"Like that?"

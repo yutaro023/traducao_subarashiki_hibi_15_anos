@@ -1,0 +1,918 @@
+<0>July 18th
+<1>It's my own Invention
+<2>daytk0718
+<3>se022
+<4>The sound of the bell rang out through the night.
+<5>It was as if even the rooftop itself was resounding in unison.
+<6>bgm004
+<7>km0000b
+<8>map004
+<9>bg1017c
+<10>kimi_000511
+<11>Kimika
+<12>"This is really amazing, being on the school roof at night!"
+<13>km0001a
+<14>kimi_000512
+<15>Kimika
+<16>"Oh, that's right... It's time for your drugs. Here, my savior!"
+<17>taku_003666
+<18>Takuji
+<19>"Y-Yeah..."
+<20>Kimika gave me a capsule. She had put all the powdered elixir in individual capsules.
+<21>km0015a
+<22>kimi_000513
+<23>Kimika
+<24>"But these capsules are just for you and me."
+<25>taku_003667
+<26>Takuji
+<27>"Really?"
+<28>kimi_000514
+<29>Kimika
+<30>"Yes, most of the others are taking the stuff mixed with sodium benzoate... That's why they're having sex all the time."
+<31>taku_003668
+<32>Takuji
+<33>"Sodium benzoate?"
+<34>km0001a
+<35>kimi_000515
+<36>Kimika
+<37>"Most drugs have impurities in them. Sodium benzoate is also called annaka, and if you mix it with stimulants it causes sexual arousal."
+<38>taku_003669
+<39>Takuji
+<40>"Oh, but I rearranged their molecules with the White Surge, so I don't think it really matters."
+<41>km0003a
+<42>kimi_000516
+<43>Kimika
+<44>"It's for the atmosphere. These capsules are just for us... Just for you and me."
+<45>taku_003670
+<46>Takuji
+<47>"Just for us, huh..."
+<48>km0003a_l
+<49>kimi_000517
+<50>Kimika
+<51>"Yes. Here, you'll have to take it without any water."
+<52>taku_003671
+<53>Takuji
+<54>"You should've brought some."
+<55>km0061_l
+<56>kimi_000518
+<57>Kimika
+<58>"Ahahahaha, I forgot."
+<59>We put the capsules in our mouths and swallowed.
+<60>The holy drug... The holy capsules.
+<61>map004
+<62>ev5004b
+<63>bgm018
+<64>taku_003672
+<65>Takuji
+<66>"But still, you know a lot, don't you?"
+<67>kimi_000519
+<68>Kimika
+<69>"Oh, about drugs, you mean? I am the leader of the science club, not to mention a headcase."
+<70>taku_003673
+<71>Takuji
+<72>"What? A headcase?"
+<73>kimi_000520
+<74>Kimika
+<75>"Oh, that means my brain doesn't work right. That's why I know so much about drugs."
+<76>kimi_000521
+<77>Kimika
+<78>"They gave me a bunch of prescriptions at the hospital, but... I looked up all the ingredients and stuff online. It's sort of my hobby."
+<79>taku_003674
+<80>Takuji
+<81>"That's kinda creepy."
+<82>kimi_000522
+<83>Kimika
+<84>"Yeah, that's why I wanted to be a security guard when I grew up! That's about the only job I would be able to do right, you know?"
+<85>kimi_000523
+<86>Kimika
+<87>"Or I guess I could be a mad scientist."
+<88>taku_003675
+<89>Takuji
+<90>"I guess so... I couldn't say."
+<91>kimi_000524
+<92>Kimika
+<93>"The night sky sure is far away."
+<94>taku_003676
+<95>Takuji
+<96>"Yeah, of course. All the light we can see in the night sky comes from incredibly far away."
+<97>kimi_000525
+<98>Kimika
+<99>"Light from incredibly far away, huh... All the light we're seeing right now came from the shining of stars millions of years ago, huh?"
+<100>taku_003677
+<101>Takuji
+<102>"Yeah, that's right."
+<103>kimi_000526
+<104>Kimika
+<105>"I'm kinda jealous."
+<106>taku_003678
+<107>Takuji
+<108>"Jealous?"
+<109>kimi_000527
+<110>Kimika
+<111>"Yeah, my voice only reaches people right next to me... or rather, it doesn't even reach that far. My voice doesn't reach anyone."
+<112>kimi_000528
+<113>Kimika
+<114>"If my voice can't reach anyone near me, then I wish it could at least reach someone millions of light years away."
+<115>taku_003679
+<116>Takuji
+<117>"Someone millions of light years away..."
+<118>kimi_000529
+<119>Kimika
+<120>"Yeah, that's why I'm jealous of the stars."
+<121>taku_003680
+<122>Takuji
+<123>"Jealous of the stars... I see."
+<124>kimi_000530
+<125>Kimika
+<126>"That's right! You're the savior! You're like a whole convenience store full of miracles!"
+<127>taku_003681
+<128>Takuji
+<129>"What, you want me to make you into a star?"
+<130>kimi_000531
+<131>Kimika
+<132>"No way, that's childish! How about this. Make this building reach the heavens?"
+<133>taku_003682
+<134>Takuji
+<135>"The heavens?"
+<136>kimi_000532
+<137>Kimika
+<138>"Yes! Building C is four stories tall, and we're on the rooftop... We're standing on the fifth floor!"
+<139>taku_003683
+<140>Takuji
+<141>"Yeah, I guess we are."
+<142>kimi_000533
+<143>Kimika
+<144>"Stretch it out, one floor at a time!"
+<145>taku_003684
+<146>Takuji
+<147>"Who's gonna do that?"
+<148>kimi_000534
+<149>Kimika
+<150>"You are!"
+<151>taku_003685
+<152>Takuji
+<153>"You know..."
+<154>kimi_000535
+<155>Kimika
+<156>"I'll give you the signal! Wait for me to hit the fence with this police baton!"
+<157>taku_003686
+<158>Takuji
+<159>"Hey, wait... Why do you have something like that?"
+<160>First knives, and now a police baton... How many weapons does she have?
+<161>taku_003687
+<162>Takuji
+<163>"You know..."
+<164>kimi_000536
+<165>Kimika
+<166>"Here I go!"
+<167>Iron_do1
+<168>ev5004c
+<169>se951
+<170>taku_003688
+<171>Takuji
+<172>"Ah..."
+<173>kimi_000537
+<174>Kimika
+<175>"Whoa..."
+<176>The pole she hit twisted and broke.
+<177>Then a beautiful sound rang out, accompanied by a sudden light, as if she had cast a magic spell.
+<178>kimi_000538
+<179>Kimika
+<180>"Nice job, my savior!"
+<181>taku_003689
+<182>Takuji
+<183>"Eh?"
+<184>Suddenly, the building was five stories tall.
+<185>It looks like I actually made a miracle happen when she gave the signal.
+<186>kimi_000539
+<187>Kimika
+<188>"What an amazing miracle! I knew you could do it, my savior! Here goes the next one!"
+<189>Iron_re
+<190>ev5004d
+<191>Kimika sacrificed another part of the fence.
+<192>It broke and released its magic.
+<193>At the same time, I made another miracle.
+<194>taku_003690
+<195>Takuji
+<196>"Ha!"
+<197>se951
+<198>kimi_000540
+<199>Kimika
+<200>"Six stories! Let's go the edges of space, my savior!"
+<201>kimi_000541
+<202>Kimika
+<203>"There!"
+<204>Iron_mi
+<205>ev5004e
+<206>taku_003691
+<207>Takuji
+<208>"Ah!"
+<209>se951
+<210>Iron_fa
+<211>ev5004f
+<212>kimi_000542
+<213>Kimika
+<214>"Ha!"
+<215>Iron_so
+<216>ev5004g
+<217>taku_003692
+<218>Takuji
+<219>"There!"
+<220>se951
+<221>Iron_ra
+<222>She broke one after the other.
+<223>Iron_si
+<224>Each time she hit a piece of the fence, it broke and changed into sound.
+<225>Iron_do2
+<226>Everything broke and changed into sound.
+<227>ev5004h
+<228>bgm017
+<229>kimi_000543
+<230>Kimika
+<231>"Amazing!"
+<232>Iron_do1
+<233>taku_003693
+<234>Takuji
+<235>"Hehehe..."
+<236>Iron_mi
+<237>kimi_000544
+<238>Kimika
+<239>"The sound, the sound!"
+<240>Iron_so
+<241>taku_003694
+<242>Takuji
+<243>"Hahahahahaha..."
+<244>map007
+<245>ev5006a
+<246>The world broke apart.
+<247>Kimika cheerfully swung her baton around.
+<248>She swung it in a set rhythm, almost like a conductor.
+<249>I matched her pace as I brought about more and more miracles.
+<250>The savior's miracle.
+<251>Building renovation!
+<252>Kimika changed matter to sound.
+<253>And I changed sound to matter.
+<254>The roof stretched up to the sky.
+<255>Stretched, stretched, stretched on upward.
+<256>kimi_000545
+<257>Kimika
+<258>"This is music!"
+<259>Iron_do2
+<260>taku_003695
+<261>Takuji
+<262>"Hahaha... I think all the real musicians in the world would take offense at that."
+<263>taku_003696
+<264>Takuji
+<265>"You're just making stuff up."
+<266>kimi_000546
+<267>Kimika
+<268>"Even if I'm making it up, it's still beautiful! This melody is extremely beautiful!"
+<269>taku_003697
+<270>Takuji
+<271>"Yeah, you're right."
+<272>The sound of destruction had changed into a beautiful melody.
+<273>map007
+<274>ev5006c
+<275>kimi_000547
+<276>Kimika
+<277>"Ahahahahaha, it's a melody!"
+<278>For some reason she had a scale in her other hand, which she held up above her head.
+<279>taku_003698
+<280>Takuji
+<281>"Hahahahahaha... You're so stupid. Why do you have a scale?"
+<282>kimi_000548
+<283>Kimika
+<284>"Ahahaha, I'm measuring the weight of God! That's why I have a scale!"
+<285>She held the scale up toward the sky as she said that.
+<286>kimi_000549
+<287>Kimika
+<288>"Come on, God, get on the scale! We already have the melody on the other side."
+<289>Iron_ra
+<290>kimi_000550
+<291>Kimika
+<292>"It's the melody! I'm in charge of the melody, and you're in charge of the miracles!"
+<293>kimi_000551
+<294>Kimika
+<295>"Come on, God, right here. Sit on this scale!"
+<296>taku_003699
+<297>Takuji
+<298>"Hahahaha, what kind of combination is that. Why are we putting melody and miracles together?"
+<299>Iron_si
+<300>kimi_000552
+<301>Kimika
+<302>"It makes perfect sense. God is the melody!"
+<303>kimi_000553
+<304>Kimika
+<305>"God is melody!"
+<306>kimi_000554
+<307>Kimika
+<308>"I just understood it! God is melody!"
+<309>taku_003700
+<310>Takuji
+<311>"Why, you... Did you hear me at all? You're just making stuff up at this point."
+<312>kimi_000555
+<313>Kimika
+<314>"Now, let's go even higher!"
+<315>Iron_do2
+<316>We were already above the clouds.
+<317>It already stood far above any other building on the planet.
+<318>Like the Tower of Babel.
+<319>I had to wonder if God would be angry at me for using my miracles like this.
+<320>taku_003701
+<321>Takuji
+<322>"Hey, wait, this is like the Tower of Babel.
+<323>kimi_000556
+<324>Kimika
+<325>"Or maybe Icarus!"
+<326>Iron_fa
+<327>taku_003702
+<328>Takuji
+<329>"Icarus?"
+<330>kimi_000557
+<331>Kimika
+<332>"Yeah, it's the story of a man who tried to fly to the sun with wings of wax."
+<333>taku_003703
+<334>Takuji
+<335>"What happened at the end?"
+<336>kimi_000558
+<337>Kimika
+<338>"He fell and died, ahahahahahaha!"
+<339>kimi_000559
+<340>Kimika
+<341>"Icarus was stupid. He didn't notice his wings melting when he got close to the sun."
+<342>Iron_so
+<343>kimi_000560
+<344>Kimika
+<345>"But we won't lose! I have the savior with me, after all!"
+<346>kimi_000561
+<347>Kimika
+<348>"Keep going. We'll reach the sky!"
+<349>taku_003704
+<350>Takuji
+<351>"I don't know about that. You'll probably get killed by God."
+<352>kimi_000562
+<353>Kimika
+<354>"If that bastard thinks he's got it in him, then he's welcome to try!"
+<355>Iron_do1
+<356>kimi_000563
+<357>Kimika
+<358>"Because I think..."
+<359>kimi_000564
+<360>Kimika
+<361>"If God existed, he would be looking down at us from the sky all the time."
+<362>kimi_000565
+<363>Kimika
+<364>"He would see everything. He would know everything about us..."
+<365>kimi_000566
+<366>Kimika
+<367>"And that's nasty! I don't want some guy leering at me all the time!"
+<368>taku_003705
+<369>Takuji
+<370>"You better hope he doesn't take offense to that."
+<371>Iron_do2
+<372>map008
+<373>ev5004i
+<374>kimi_000567
+<375>Kimika
+<376>"Ahahahahaha..."
+<377>Naturally, her baton was bent in several places
+<378>But she was laughing cheerfully.
+<379>She laughed as she destroyed the fence.
+<380>Destruction and melody.
+<381>Baton and music.
+<382>Iron_so
+<383>kimi_000568
+<384>Kimika
+<385>"This is music!"
+<386>kimi_000569
+<387>Kimika
+<388>"Ahahahahaha!"
+<389>She completely broke the end of the baton off, but that didn't stop the beautiful melody.
+<390>The melody enveloped the roof, and it enveloped the two of us.
+<391>taku_003706
+<392>Takuji
+<393>"Hahahahaha..."
+<394>The miracles continued with every note.
+<395>ev5004j
+<396>We reached the height of the moon.
+<397>kimi_000570
+<398>Kimika
+<399>"The moon. The moon. Luna!"
+<400>taku_003707
+<401>Takuji
+<402>"Hahahahahaha..."
+<403>The endless succession of notes.
+<404>The endless succession of miracles.
+<405>We approached the edge of space.
+<406>kimi_000571
+<407>Kimika
+<408>"O-Oh no!"
+<409>taku_003708
+<410>Takuji
+<411>"What's wrong?"
+<412>kimi_000572
+<413>Kimika
+<414>"The building is so tall... The centrifugal forces are making the roof spin incredibly fast!"
+<415>taku_003709
+<416>Takuji
+<417>"Yeah, since the earth is revolving on its axis."
+<418>kimi_000573
+<419>Kimika
+<420>"Hahahahahaha... Oh no, oh no!"
+<421>taku_003710
+<422>Takuji
+<423>"You're having an awful lot of fun!"
+<424>kimi_000574
+<425>Kimika
+<426>"Of course I am! This is super fun!"
+<427>kimi_000575
+<428>Kimika
+<429>"Ah!"
+<430>Kimika yelled even louder than she had before.
+<431>kimi_000576
+<432>Kimika
+<433>"A cow!"
+<434>taku_003711
+<435>Takuji
+<436>"Huh?"
+<437>kimi_000577
+<438>Kimika
+<439>"There are tons of cows!"
+<440>taku_003712
+<441>Takuji
+<442>"Eh?"
+<443>ev5004k
+<444>I didn't notice until she said something... the roof was overflowing with cows.
+<445>taku_003713
+<446>Takuji
+<447>"Wh-Why are there cows here?"
+<448>kimi_000578
+<449>Kimika
+<450>"Why wouldn't there be? You were the one who said there were cows on the roof!"
+<451>taku_003714
+<452>Takuji
+<453>"Cows on the roof?!"
+<454>The cows mooed.
+<455>The melody rang out.
+<456>We were deep in space, far from the earth.
+<457>kimi_000579
+<458>Kimika
+<459>"This is the first time I've seen a cow. They're huge, and they dance!"
+<460>taku_003715
+<461>Takuji
+<462>"Dancing cows?"
+<463>ev5004l
+<464>When I looked again, they really were dancing.
+<465>They were on their hind legs, dancing.
+<466>kimi_000580
+<467>Kimika
+<468>"They're dancing. Dance, dance."
+<469>kimi_000581
+<470>Kimika
+<471>"This is the uncaged dance!"
+<472>taku_003716
+<473>Takuji
+<474>"Uncaged dance?"
+<475>kimi_000582
+<476>Kimika
+<477>"Yes! We've left the influence of Earth's gravity. Everything is free from gravity!"
+<478>kimi_000583
+<479>Kimika
+<480>"This is the world's first uncaged dance, ahahahaha!"
+<481>The uncaged dance.
+<482>We're far from any source of gravity... We're dancing in the furthest reaches of the starry sky.
+<483>That certainly would be mankind's first zero gravity dance.
+<484>kimi_000584
+<485>Kimika
+<486>"It's a zero gravity dance!"
+<487>ev5007a
+<488>Kimika's body floated in the air.
+<489>She danced wildly through the air.
+<490>taku_003717
+<491>Takuji
+<492>"Dummy. If you fly through the air like that, everyone can see your panties."
+<493>kimi_000585
+<494>Kimika
+<495>"That's fine! You're the only one who can see!"
+<496>taku_003718
+<497>Takuji
+<498>"Have some shame!"
+<499>kimi_000586
+<500>Kimika
+<501>"Ahahahahaha! I have some shame. I'm a virgin, after all. I've never even kissed anyone!"
+<502>kimi_000587
+<503>Kimika
+<504>"I don't care if you can see my panties. It's just cloth. It's not like you can see my cunt!"
+<505>taku_003719
+<506>Takuji
+<507>"Don't say that word!"
+<508>kimi_000588
+<509>Kimika
+<510>"Ahaha, cunt, cunt, cunt! I'll say it as many times as I want! Whoever wants to tell me that word is bad can go eat shit!"
+<511>taku_003720
+<512>Takuji
+<513>"That's ridiculous!"
+<514>A zero gravity dance.
+<515>A herd of cows.
+<516>The twinkling stars.
+<517>Kimika danced.
+<518>She danced and danced and danced in space.
+<519>I danced too.
+<520>God doesn't matter.
+<521>I just danced.
+<522>I danced for the pleasure of it.
+<523>I danced because it was fun.
+<524>kimi_000589
+<525>Kimika
+<526>"Life is suffering! It's like an Unhappy Meal! But it's the best! Life is the best! That's important!"
+<527>kimi_000590
+<528>Kimika
+<529>"Ahaha, what comes with the Unhappy Meal, my savior?"
+<530>taku_003721
+<531>Takuji
+<532>"Nothing comes with it."
+<533>kimi_000591
+<534>Kimika
+<535>"That's not true! There's a bonus that comes with it! There's an Unhappy bonus that all the kids love!"
+<536>taku_003722
+<537>Takuji
+<538>"That sounds like it would taste terrible."
+<539>kimi_000592
+<540>Kimika
+<541>"Now then, what is it? Go ahead, open it! What came with today's Unhappy Meal?"
+<542>taku_003723
+<543>Takuji
+<544>"What am I supposed to open?"
+<545>kimi_000593
+<546>Kimika
+<547>"It's right there. Look! Right before your eyes!"
+<548>ev5007b
+<549>taku_003724
+<550>Takuji
+<551>"Oh, you're right."
+<552>kimi_000594
+<553>Kimika
+<554>"Ahahahahaha, you don't know the story of Tyltyl and Mytyl! That's no good, my savior!"
+<555>taku_003725
+<556>Takuji
+<557>"Why would you bring that up?"
+<558>kimi_000595
+<559>Kimika
+<560>"Tyltyl and Mytyl went on a journey around the world to search for the blue bird who was part of the Unhappy Meal! They even went to the edge of space and rode the Galactic Railroad!"
+<561>kimi_000596
+<562>Kimika
+<563>"The conductor's here! The Birdcatcher told us that this ticket will take us higher than the sky!"
+<564>kimi_000597
+<565>Kimika
+<566>"It's Eagle Station! Look, it's Scorpio's Fire! We've already passed through the Centaur Village! It's the Southern Cross!"
+<567>kimi_000598
+<568>Kimika
+<569>"It's Tanabata! It's the night of Tanabata... and the savior and I are on the Weather Station Pillar!"
+<570>kimi_000599
+<571>Kimika
+<572>"Because there's nowhere we belong. On Tanabata night... there's nowhere for us!"
+<573>kimi_000600
+<574>Kimika
+<575>"That's why the blue bird fled to the Milky Way... so, so far away!"
+<576>kimi_000601
+<577>Kimika
+<578>"But the blue bird that thought he got away..."
+<579>kimi_000602
+<580>Kimika
+<581>"Was on the menu the next morning."
+<582>kimi_000603
+<583>Kimika
+<584>"So please open your Unhappy Meal's toy!"
+<585>taku_003726
+<586>Takuji
+<587>"I don't understand what you're saying!"
+<588>kimi_000604
+<589>Kimika
+<590>"Ahahahahaha... There's nothing to understand! It's the flow. It's music. Come on, open it."
+<591>kimi_000605
+<592>Kimika
+<593>"My savior, open it, open it, open it. I want to see it. I want to see you open it!"
+<594>taku_003727
+<595>Takuji
+<596>"Jeez... I guess I might as well."
+<597>The mysterious box that appeared in front of me...
+<598>It had 'Amazonu' written on it.
+<599>Where did this come from?
+<600>I reluctantly opened the box.
+<601>Kimika eagerly watched me.
+<602>Is this going to be unhappy too?
+<603>ev5007c
+<604>se221
+<605>taku_003728
+<606>Takuji
+<607>"Whoa!"
+<608>kimi_000606
+<609>Kimika
+<610>"Ah!"
+<611>It shot iridescent sparks in every direction... and then right above our heads...
+<612>se222
+<613>ev5007d
+<614>A beautiful explosion of color.
+<615>kimi_000607
+<616>Kimika
+<617>"Whoa!"
+<618>The box shot out more and more polychromatic sparks... and each one exploded above us.
+<619>kimi_000608
+<620>Kimika
+<621>"Oh, so that's it..."
+<622>taku_003729
+<623>Takuji
+<624>"What?"
+<625>kimi_000609
+<626>Kimika
+<627>"I think I just solved one of the riddles from my childhood."
+<628>taku_003730
+<629>Takuji
+<630>"What do you mean?"
+<631>kimi_000610
+<632>Kimika
+<633>"I always wondered what would it look like if you saw a skyrocket from directly underneath."
+<634>kimi_000611
+<635>Kimika
+<636>"Would it be flat, or round... What would it look like from underneath..."
+<637>taku_003731
+<638>Takuji
+<639>"Well, it's round, of course..."
+<640>kimi_000612
+<641>Kimika
+<642>"Nope, you're wrong!"
+<643>kimi_000613
+<644>Kimika
+<645>"If you look at it from directly underneath, it's a perfect circle!"
+<646>kimi_000614
+<647>Kimika
+<648>"More perfect than the world!"
+<649>kimi_000615
+<650>Kimika
+<651>"Than the universe!"
+<652>kimi_000616
+<653>Kimika
+<654>"A perfect circle!"
+<655>se919
+<656>The fireworks went on forever.
+<657>The lights lit up the world.
+<658>The world's final eve.
+<659>Kimika danced.
+<660>And so did I.
+<661>So did the cows, the world, the gods, and everything else.
+<662>We danced, and danced, and danced, and then the eve ended.
+<663>Tomorrow would be the last day.
+<664>Before we realized it, we had come to the edge of the universe.
+<665>We had come to the edge of the world.
+<666>kimi_000617
+<667>Kimika
+<668>"This is the edge of the universe..."
+<669>taku_003732
+<670>Takuji
+<671>"Yeah... This is the edge."
+<672>kimi_000618
+<673>Kimika
+<674>"Oh, this is the last stop."
+<675>taku_003733
+<676>Takuji
+<677>"The last stop..."
+<678>Kimika said those lonesome words as we stood under the final sky.
+<679>We finally made it.
+<680>The world's limit.
+<681>The edge of the universe.
+<682>Our limit.
+<683>This is the sky of the end.
+<684>map009
+<685>map010
+<686>ev5008
+<687>It was already evening.
+<688>I thought it was morning, but now it was starting to get dark.
+<689>kimi_000619
+<690>Kimika
+<691>"Oh, we fell asleep, didn't we..."
+<692>taku_003734
+<693>Takuji
+<694>"I'm surprised we got any sleep up here, in the middle of summer..."
+<695>kimi_000620
+<696>Kimika
+<697>"Oh, I carried you over to the shade during the day."
+<698>taku_003735
+<699>Takuji
+<700>"I didn't notice at all."
+<701>kimi_000621
+<702>Kimika
+<703>"Neither of us had slept at all... I guess we just collapsed."
+<704>taku_003736
+<705>Takuji
+<706>"Yeah..."
+<707>kimi_000622
+<708>Kimika
+<709>"Hey, my savior..."
+<710>taku_003737
+<711>Takuji
+<712>"What?"
+<713>kimi_000623
+<714>Kimika
+<715>"Is this the End Sky?"
+<716>taku_003738
+<717>Takuji
+<718>"Yeah, that's right... This is the End Sky. The last sky in this world."
+<719>kimi_000624
+<720>Kimika
+<721>"Oh, good."
+<722>kimi_000625
+<723>Kimika
+<724>"Just like I thought..."
+<725>taku_003739
+<726>Takuji
+<727>"What?"
+<728>kimi_000626
+<729>Kimika
+<730>"Just like I thought... Neither of them change. Not the last sky, and not the usual sky."
+<731>taku_003740
+<732>Takuji
+<733>"Yeah... That's right."
+<734>kimi_000627
+<735>Kimika
+<736>"Just because it's over... doesn't mean it's special, does it?"
+<737>taku_003741
+<738>Takuji
+<739>"Yeah..."
+<740>kimi_000628
+<741>Kimika
+<742>"But the setting sun is always beautiful, no matter when."
+<743>kimi_000629
+<744>Kimika
+<745>"The setting sun at the end of the world, and the setting sun after any other day. They're both just as beautiful... It's so beautiful."
+<746>kimi_000630
+<747>Kimika
+<748>"Now then, my savior..."
+<749>taku_003742
+<750>Takuji
+<751>"What?"
+<752>kimi_000631
+<753>Kimika
+<754>"There's nothing that we've forgotten, is there?"
+<755>taku_003743
+<756>Takuji
+<757>"Forgotten?"
+<758>kimi_000632
+<759>Kimika
+<760>"Yes, there's nothing left for us to do here..."
+<761>taku_003744
+<762>Takuji
+<763>"Forgotten..."
+<764>taku_003745
+<765>Takuji
+<766>"Does anything come to mind for you?"
+<767>kimi_000633
+<768>Kimika
+<769>"No, I looked at the sky and thought about it for so long, but I haven't forgotten anything."
+<770>taku_003746
+<771>Takuji
+<772>"And?"
+<773>kimi_000634
+<774>Kimika
+<775>"I just thought... if I've forgotten it, maybe it wasn't that important after all..."
+<776>kimi_000635
+<777>Kimika
+<778>"I guess I didn't need it."
+<779>taku_003747
+<780>Takuji
+<781>"Didn't need it, huh..."
+<782>kimi_000636
+<783>Kimika
+<784>"Yep, it wasn't necessary. Though the truth is, I doubt that anything is really unnecessary."
+<785>kimi_000637
+<786>Kimika
+<787>"But if nothing is necessary, then it's the same as if everything is."
+<788>kimi_000638
+<789>Kimika
+<790>"So... we have to draw a line somewhere."
+<791>kimi_000639
+<792>Kimika
+<793>"If I've forgotten something, then that's fine."
+<794>kimi_000640
+<795>Kimika
+<796>"There's nothing I've forgotten."
+<797>taku_003748
+<798>Takuji
+<799>"Something you've forgotten, huh?"
+<800>kimi_000641
+<801>Kimika
+<802>"Yes! Things that were incredibly unhappy... and things that were happy too... All of it."
+<803>kimi_000642
+<804>Kimika
+<805>"Hahahahahaha... Well, let's go."
+<806>taku_003749
+<807>Takuji
+<808>"Yeah, let's... The sun is setting... and then..."
+<809>kimi_000643
+<810>Kimika
+<811>"The last night..."
+<812>taku_003750
+<813>Takuji
+<814>"Yeah."
+<815>kimi_000644
+<816>Kimika
+<817>"Let's enjoy it!"
+<818>taku_003751
+<819>Takuji
+<820>"No, today should be more solemn."
+<821>kimi_000645
+<822>Kimika
+<823>"No way. I want to have fun on the last night. Please, spend the last night together with me..."
+<824>taku_003752
+<825>Takuji
+<826>"Um, Kimika... The holy water..."
+<827>kimi_000646
+<828>Kimika
+<829>"Right, I'll sprinkle lots of LSD on them at the end. And the stimulants too!"
+<830>taku_003753
+<831>Takuji
+<832>"Like I said, I turned the LSD into holy water and the stimulants into elixir."
+<833>kimi_000647
+<834>Kimika
+<835>"Oh, I misspoke! That's right, that's right!"
+<836>I kind of wonder...
+<837>What was she trying to accomplish?
+<838>I feel like she only went along with what I was doing to accomplish her own objectives.
+<839>What a strange woman.
+<840>Well, it doesn't matter.
+<841>kimi_000648
+<842>Kimika
+<843>"We'll give them a ton of it for the finale!"
+<844>kimi_000649
+<845>Kimika
+<846>"Oh～! I'm getting pumped up!"
+<847>se1000
+<848>bg1025b
+<849>Everyone was gathered.
+<850>How many people are there? And when did they all get here...
+<851>It looks like they were having a lot of fun.
+<852>Like they're all excited for something.
+<853>I wonder if the ark is fun...
+<854>I thought salvation would be a more solemn affair.
+<855>I thought saving people would be more serious. I'm sure it should've felt more religious.
+<856>But in reality, it's like this.
+<857>I gathered them all through fear... They all came here out of fear of the curse.
+<858>They gathered to escape their fear of death.
+<859>So why are they having so much fun?
+<860>Returning to the sky... It truly is something wonderful, but it should be more religious, more serious.
+<861>But instead, everyone is laughing.
+<862>Frolicking.
+<863>The world's final day is coming.
+<864>Everyone is celebrating.
+<865>I spoke.
+<866>Of the three monsters born of the gods...
+<867>Of the great wolf, Fenrir, who is human lust itself.
+<868>Of the god of Death Hel, who is human fear of death itself.
+<869>And of Jormungandr, significant of eternity, who will awaken on the world's final day.
+<870>Everyone listened eagerly.
+<871>Like children reading a picture book... they eagerly listened to the story of the world's final day.
+<872>Rather than fear, it was enthusiasm I saw in their eyes.
+<873>Rather than quivering, laughter.
+<874>Rather than despair, amusement.
+<875>They all seemed so happy.
+<876>They all seemed so eager.
+<877>Laughing and screaming.
+<878>I yelled!
+<879>bgm002
+<880>Dance!
+<881>ev8016
+<882>map024
+<883>bg1025b
+<884>Dance!
+<885>ev8016
+<886>map024
+<887>bg1025b
+<888>Dance!
+<889>ev8016
+<890>map024
+<891>bg1025b
+<892>With the melody!
+<893>Dance!
+<894>The world is words!
+<895>God is melody!
+<896>We have no need for the world.
+<897>We need only the melody.
+<898>ev8016
+<899>Everyone danced.
+<900>Joyfully danced.
+<901>Danced as if mad.
+<902>There was no trace of gravity or solemnity.
+<903>I thought once more about whether I had anything left to do here.
+<904>Nothing...
+<905>There's nothing for me to do here.
+<906>I haven't forgotten anything.
+<907>One more spoke.
+<908>We have the melody, do we not?
+<909>The melody is here.
+<910>So we have no need for the world.
+<911>We have no need for words.
+<912>There's nothing we've forgotten...
+<913>After all, we've forgotten it...
+<914>se022
+<915>The bell rang.
+<916>Today began.
+<917>2_0719_kimi

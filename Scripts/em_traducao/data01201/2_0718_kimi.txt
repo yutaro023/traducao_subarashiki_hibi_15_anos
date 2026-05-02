@@ -1,79 +1,79 @@
-<0>July 18th
-<1>It's my own Invention
+<0>18 de Julho
+<1>Esta é a Minha Ilusão
 <2>daytk0718
 <3>se022
-<4>The sound of the bell rang out through the night.
-<5>It was as if even the rooftop itself was resounding in unison.
+<4>O som do sino ecoou pela noite.
+<5>Era como se até o próprio telhado estivesse ressoando em uníssono.
 <6>bgm004
 <7>km0000b
 <8>map004
 <9>bg1017c
 <10>kimi_000511
 <11>Kimika
-<12>"This is really amazing, being on the school roof at night!"
+<12>"É realmente incrível estar no telhado da escola à noite"
 <13>km0001a
 <14>kimi_000512
 <15>Kimika
-<16>"Oh, that's right... It's time for your drugs. Here, my savior!"
+<16>"Ah, é mesmo... Está na hora dos seus remédios. Aqui, meu salvador!"
 <17>taku_003666
 <18>Takuji
-<19>"Y-Yeah..."
-<20>Kimika gave me a capsule. She had put all the powdered elixir in individual capsules.
+<19>"S-Sim..."
+<20>Kimika me deu uma capsula. Ela havia colocado todo o elixir em pó em capsulas individuais.
 <21>km0015a
 <22>kimi_000513
 <23>Kimika
-<24>"But these capsules are just for you and me."
+<24>"Mas essas capsulas são só pra mim e você."
 <25>taku_003667
 <26>Takuji
-<27>"Really?"
+<27>"Sério?"
 <28>kimi_000514
 <29>Kimika
-<30>"Yes, most of the others are taking the stuff mixed with sodium benzoate... That's why they're having sex all the time."
+<30>"Sim, a maioria dos outros estão tomando os remédios, misturados com benzoato de sódio... É por isso que eles estão transando o tempo todo."
 <31>taku_003668
 <32>Takuji
-<33>"Sodium benzoate?"
+<33>"Benzoato de sódio?"
 <34>km0001a
 <35>kimi_000515
 <36>Kimika
-<37>"Most drugs have impurities in them. Sodium benzoate is also called annaka, and if you mix it with stimulants it causes sexual arousal."
+<37>"Sódio benzoato também é chamado de annaka, e se você o misturar com estimulantes, isso causa excitação sexual."
 <38>taku_003669
 <39>Takuji
-<40>"Oh, but I rearranged their molecules with the White Surge, so I don't think it really matters."
+<40>"Ah, mas eu rearranjei as moléculas com a minha Energia Sagrada, então acho que isso não importa muito."
 <41>km0003a
 <42>kimi_000516
 <43>Kimika
-<44>"It's for the atmosphere. These capsules are just for us... Just for you and me."
+<44>"É para a atmosfera. Essas cápsulas são só para nós... Só pra nós."
 <45>taku_003670
 <46>Takuji
-<47>"Just for us, huh..."
+<47>"Só pra nós, huh..."
 <48>km0003a_l
 <49>kimi_000517
 <50>Kimika
-<51>"Yes. Here, you'll have to take it without any water."
+<51>"Sim. Aqui, você terá que tomar sem água."
 <52>taku_003671
 <53>Takuji
-<54>"You should've brought some."
+<54>"Você deveria ter trazido."
 <55>km0061_l
 <56>kimi_000518
 <57>Kimika
-<58>"Ahahahaha, I forgot."
-<59>We put the capsules in our mouths and swallowed.
-<60>The holy drug... The holy capsules.
+<58>"Ahahahaha, eu esqueci."
+<59>Colocamos as cápsulas na boca e engolimos.
+<60>A droga sagrada... As cápsulas sagradas.
 <61>map004
 <62>ev5004b
 <63>bgm018
 <64>taku_003672
 <65>Takuji
-<66>"But still, you know a lot, don't you?"
+<66>"Mas mesmo assim, você sabe muito, não é?"
 <67>kimi_000519
 <68>Kimika
-<69>"Oh, about drugs, you mean? I am the leader of the science club, not to mention a headcase."
+<69>"Ah, sobre as drogas, não é? Eu sou o líder do clube de ciências, para não dizer que sou um caso perdido."
 <70>taku_003673
 <71>Takuji
-<72>"What? A headcase?"
+<72>"O que? Um caso perdido?"
 <73>kimi_000520
 <74>Kimika
-<75>"Oh, that means my brain doesn't work right. That's why I know so much about drugs."
+<75>"Ah, isso significa que meu cérebro não funciona direit. É por isso que eu sei tanto sobre drogas."
 <76>kimi_000521
 <77>Kimika
 <78>"They gave me a bunch of prescriptions at the hospital, but... I looked up all the ingredients and stuff online. It's sort of my hobby."

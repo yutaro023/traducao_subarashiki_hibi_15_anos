@@ -1,5 +1,5 @@
-<0>20 de Julho
-<1>Na Toca do Coelho
+<0>July 20th
+<1>Down the Rabbit-Hole
 <2>map023
 <3>dayyk0720
 <4>......
@@ -8,98 +8,98 @@
 <7>bgm028
 <8>zaku_000634
 <9>Zakuro
-<10>"É o próximo trem, não é?"
+<10>"It's the next train, isn't it?"
 <11>yuki_001081
 <12>Yuki
-<13>"É o trem da via lactéa. Vai te levar até lá."
-<14>Desviei o olhar da tela e voltei meus olhos para Takashima-san.
+<13>"It's a limited express train. It'll take you straight there."
+<14>I looked away from the display and returned my eyes to Takashima-san.
 <15>ev1007e
 <16>zaku_000635
 <17>Zakuro
-<18>"Sim."
+<18>"Yeah."
 <19>kaga_000611
 <20>Kagami
-<21>"Venha brincar com nós de novo, se tiver uma chance um dia."
+<21>"Come play with us again if you ever get the chance."
 <22>zaku_000636
 <23>Zakuro
-<24>"Sim. Entrarei em contato  assim que eu me acomodar lá."
+<24>"Yes. I'll contact you soon as I get settled in there."
 <25>tuka_000468
 <26>Tsukasa
-<27>"Sim. Nos chame quando puder."
+<27>"Yeah. Call us when you can."
 <28>ev1007b
 <29>zaku_000637
 <30>Zakuro
-<31>"Certo, embora seja um caminho bem longo."
+<31>"Okay, though it's really far away."
 <32>yuki_001082
 <33>Yuki
-<34>"O que quer dizer? Ainda vivemos sob o mesmo céu. Não é como se tão longo."
+<34>"What do you mean? We'll still be living under the same sky. It's not like it's that far."
 <35>ev1007e
 <36>zaku_000638
 <37>Zakuro
-<38>"Mas isso se aplica a qualquer lugar do mundo."
+<38>"But that applies to any place in the world."
 <39>kaga_000612
 <40>Kagami
-<41>"Caramba. Você sempre leva tudo ao exremo, Yuki."
+<41>"Jeez. You always take everything to the extreme, Yuki."
 <42>tuka_000469
 <43>Tsukasa
-<44>"Sim, Com certeza ela leva."
+<44>"Yeah, she sure does."
 <45>zaku_000639
 <46>Zakuro
-<47>"Obrigado por tudo. Eu me diverti bastante."
+<47>"Thank you for everything. I really had fun."
 <48>tuka_000470
 <49>Tsukasa
-<50>"Não, obrigado. Houve muitas coisas que só pudemos vivenciar porque estava por aqui."
+<50>"No, thank you. There were a lot of things we only got to experience because you were around."
 <51>kaga_000613
 <52>Kagami
-<53>"É isso aí. Realmente não teria sido o mesmo sem vocês."
+<53>"That's right. It really wouldn't have been the same without you."
 <54>tuka_000471
 <55>Tsukasa
-<56>"Seu trem vai vir em breve?"
+<56>"Is your train coming soon?"
 <57>ev1007b
 <58>zaku_000640
 <59>Zakuro
-<60>"Sim. Em 10 minutos já estarei a caminho, balançando com o trem em movimento, olhando pela atráves da janela."
+<60>"Yes. In ten minutes I'll be on my way, swaying with the movement of the train, looking out at the passing scenery through the window."
 <61>yuki_001083
 <62>Yuki
-<63>"Haa... Estes últimos dias foram meio que esquisitos."
+<63>"Haa... These past few days were kind of mysterious."
 <64>ev1007e
 <65>zaku_000641
 <66>Zakuro
-<67>"Heheh. esquisito, né?"
+<67>"Heheh. Mysterious, were they?"
 <68>yuki_001084
-<69>Yuki //yer = até agora
-<70>"É. Eles foram o mesmo, mas de alguma forma foi completamente diferentes."
+<69>Yuki
+<70>"Yeah. They were the same, yet somehow they were completely different."
 <71>ev1007b
 <72>zaku_000642
 <73>Zakuro
 <74>"..."
-<75>A expressão de Takashima-san pareceu triste por um momento.
+<75>Takashima-san's expression looked sad for just a moment.
 <76>ev1007a
 <77>zaku_000643
 <78>Zakuro
-<79>"E-Ei, Yuki-san, poderia te perguntar um negócio?"
+<79>"U-Um, Yuki-san, could I ask you something?"
 <80>yuki_001085
 <81>Yuki
-<82>"Huh? O que foi?"
+<82>"Huh? What's that?"
 <83>zaku_000644
 <84>Zakuro
-<85>"Está feliz com este mundo?"
+<85>"Are you happy with this world?"
 <86>yuki_001086
 <87>Yuki
-<88>"O que tá dizendo? É claro que estou."
+<88>"What are you saying? Of course I am."
 <89>yuki_001087
 <90>Yuki
-<91>"Estou incrivelmente feliz."
+<91>"I'm incredibly happy."
 <92>yuki_001088
 <93>Yuki
-<94>"Mas você não deveria dizer, 'Feliz por estar neste mundo'?"
+<94>"But shouldn't you say, 'happy to be in this world'?"
 <95>ev1007e
 <96>zaku_000645
 <97>Zakuro
-<98>"Heheh. Acho que tenha razão."
+<98>"Heheh. I guess you're right."
 <99>tuka_000472
 <100>Tsukasa
-<101>"Ei, Seu trem está vindo."
+<101>"Oh, your train is coming."
 <102>ev1007a
 <103>zaku_000646
 <104>Zakuro
@@ -109,68 +109,68 @@
 <108>"Hmm?"
 <109>zaku_000647
 <110>Zakuro
-<111>"Por favor tome conta da Yuki-san."
+<111>"Please take care of Yuki-san."
 <112>tuka_000474
 <113>Tsukasa
-<114>"Claro, com certeza."
+<114>"Yeah, of course."
 <115>ev1007a
 <116>zaku_000648
 <117>Zakuro
 <118>"Kagami-san."
 <119>kaga_000614
 <120>Kagami
-<121>"O-O que, assim tão de repente?"
+<121>"Wh-What is it, all of a sudden?"
 <122>zaku_000649
 <123>Zakuro
-<124>"Nada. Só que você deve tomar conta dela também, Kagami-san."
+<124>"Nothing. It's just that you should take care of her too, Kagami-san."
 <125>kaga_000615
 <126>Kagami
-<127>"O que? sem chance..."
+<127>"What? No way..."
 <128>ev1007b
 <129>zaku_000650
 <130>Zakuro
-<131>"Este mundo que não é um recipiente, ainda assim foi preenchido até a borda."
+<131>"This world which is not a vessel has nevertheless been filled to the brim."
 <132>zaku_000651
 <133>Zakuro
-<134>"A forma dessa felicidade provavelmente é como bolhas de sabão."
+<134>"The shape of that happiness is probably like a soft soap bubble."
 <135>zaku_000652
 <136>Zakuro
-<137>"As memórias que nós fizemos eram reais, mesmo se elas só tenham acontecido neste mundo ilusório."
+<137>"The memories we made were real, even if they only happened in this illusionary world expanding like an ephemeral soap bubble."
 <138>yuki_001089
 <139>Yuki
-<140>"Hã? Que?"
+<140>"Huh? What?"
 <141>ev1007d
 <142>zaku_000653
 <143>Zakuro
-<144>"N-Nada. É só que e―"
+<144>"N-Nothing. It's just that I―"
 <145>se330
 <146>ev1007i
-<147>O trem passou por de trás de mim.
-<148>Eu não pudia ouvir as palavras dela por causa do barulho.
-<149>Acho que os lábios dela formaram as palavras "estava feliz."
+<147>The train passed behind me.
+<148>I couldn't hear her words over the noise.
+<149>I think that her lips formed the words "was happy."
 <150>se332
-<151>O trem parou.
+<151>The train stopped.
 <152>se326
-<153>As portas se abriram de trás de mim.
+<153>The doors opened behind me.
 <154>yuki_001090
 <155>Yuki
-<156>"O trem chegou, hã?"
+<156>"The train's arrived, huh?"
 <157>ev1007h
 <158>zaku_000654
 <159>Zakuro
-<160>"Sim, mas está tudo certo."
+<160>"Yes, but it's all right."
 <161>zaku_000655
 <162>Zakuro
-<163>"Sabia que este trem vai direto até lá?"
+<163>"Did you know that this train goes all the way over there?"
 <164>zaku_000656
 <165>Zakuro
-<166>"Este trem vai direto até a próxima cidade."
+<166>"This train goes all the way to the next city."
 <167>yuki_001091
 <168>Yuki
-<169>"Heheh. Sim vai mesmo."
+<169>"Heheh. That's right."
 <170>zaku_000657
 <171>Zakuro
-<172>"Então se você se esquecer de mim, eu ainda posso vir te ver de novo algum dia."
+<172>"So if you forget me, I can still come see you again someday."
 <173>ev1007i
 <174>zaku_000658
 <175>Zakuro

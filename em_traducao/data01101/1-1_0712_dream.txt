@@ -1,0 +1,689 @@
+<0>12 de Julho
+<1>Na Toca do Coelho
+<2>map023
+<3>dayyk0712
+<4>map023
+<5>se075
+<6>bg1006a
+<7>tuka_000001
+<8>"Yuki!"
+<9>yuki_000032
+<10>Yuki
+<11>"Hm?"
+<12>bgm023
+<13>tk0001a
+<14>yuki_000033
+<15>Yuki
+<16>"Ah, a irmãzinha Wakatsuki... a nanica."
+<17>tk0009a
+<18>tuka_000002
+<19>"O que quis dizer com 'nanica'?!"
+<20>yuki_000034
+<21>Yuki
+<22>"Sua altura?"
+<23>tk0006a
+<24>tuka_000003
+<25>"Não sou assim tão baixa. Caramba."
+<26>Wakatsuki Tsukasa. Minha vizinha e amiga de infância.
+<27>Temos idades próximas e a casa dela fica ao lado da minha.
+<28>tk0001a
+<29>tuka_000004
+<30>Tsukasa
+<31>"Que coincidência, nos encontrarmos em Suginomiya.
+<32>tk0008a
+<33>Ah, sim. Você tem um emprego de meio período por aqui, certo?"
+<34>yuki_000035
+<35>Yuki
+<36>"Ah, verdade. Talvez isso esteja na minha descrição de personagem."
+<37>kaga_000001
+<38>"Do que tu tá falando? O que a descrição de personagem tem a ver com o seu trabalho?"
+<39>tk0003a
+<40>kg0010a
+<41>yuki_000036
+<42>Yuki
+<43>"Ah, você é a..."
+<44>kaga_000002
+<45>"E? Pela sua atitude, deduzo que tá faltando trabalho?"
+<46>yuki_000037
+<47>Yuki
+<48>"Quem é você mesmo?"
+<49>kg0008a
+<50>tk0010a
+<51>kaga_000003
+<52>"Quem sou eu?
+<53>kg0005a
+<54>Você sabe quem eu sou! Como se fosse esquecer!"
+<55>yuki_000038
+<56>Yuki
+<57>"O quê? Pare de agir como se fosse famosa com essa coisa de 'É claro que você deveria saber meu nome!'. Não fica bem."
+<58>kaga_000004
+<59>"Agir como se eu fosse famosa não tem nada a ver com isso! Por que você se lembra do nome da Tsukasa, mas não do meu?!"
+<60>yuki_000039
+<61>Yuki
+<62>"Pode ser que tenha algo a ver com isso."
+<63>kg0009a
+<64>kaga_000005
+<65>"Que―?!"
+<66>kg0004a
+<67>tk0006a
+<68>tuka_000005
+<69>Tsukasa
+<70>"Você não deveria fazer isso, Yuki. Estamos juntas desde o jardim de infância. Não tem como você se esquecer dela."
+<71>yuki_000040
+<72>Yuki
+<73>"Sério? Faz tanto tempo assim?"
+<74>kg0004a
+<75>tk0001a
+<76>tuka_000006
+<77>Tsukasa
+<78>"Então, Yuki, e quanto ao seu trabalho?"
+<79>yuki_000041
+<80>Yuki
+<81>"Infelizmente, foi suspenso por motivos maiores que você."
+<82>kg0010a
+<83>tk0006a
+<84>tuka_000007
+<85>Tsukasa
+<86>"Motivos maiores?"
+<87>kg0004a
+<88>kaga_000006
+<89>"Nem ferrando que foi! 
+<90>kg0005a
+<91>Ugh, já chega! Tsukasa, vou embora. Se eu ficar aqui e continuar conversando com ela, vou acabar sendo contagiada pela sua idiotice."
+<92>kg0004
+<93>tk0003a
+<94>tuka_000008
+<95>Tsukasa
+<96>"Ahahaha. Ser burra não é uma doença contagiosa, Onee-chan."
+<97>yuki_000042
+<98>Yuki
+<99>"Agora entendi. Então você pegou essa doença da Tsu―"
+<100>tk0009a
+<101>kg0004a_l
+<102>
+<103>kg0005a_l
+<104>se004
+<105>yuki_000043
+<106>Yuki
+<107>"Ai!"
+<108>kg0004a
+<109>kaga_000007
+<110>"Se falar mal da Tsukasa, vou acabar com a tua raça."
+<111>tk0006a
+<112>tuka_000009
+<113>Tsukasa
+<114>"Onee-chan."
+<115>yuki_000044
+<116>Yuki
+<117>"Mas você me bateu antes mesmo de avisar..."
+<118>kg0001a
+<119>kaga_000008
+<120>"Um balé sempre começa com o primeiro passo."
+<121>yuki_000045
+<122>Yuki
+<123>"Balé tem nada a ver com isso! Além disso, você nunca fez balé!"
+<124>kg0009a
+<125>tk0010a
+<126>kaga_000009
+<127>"Então você sabe disso, mas ainda não lembra do meu nome?"
+<128>yuki_000046
+<129>Yuki
+<130>"Ah, então... o que a gangue Wakatsuki está fazendo aqui?"
+<131>kg0005a
+<132>tk0006a
+<133>kaga_000010
+<134>"Essa 'gangue' está voltando da escola, diferente de você!"
+<135>kg0005
+<136>kaga_000011
+<137>"Até mais!"
+<138>tk0009a
+<139>yuki_000047
+<140>Yuki
+<141>"Kagami continua tão mal-humorada como sempre."
+<142>tk0006a
+<143>tuka_000010
+<144>Tsukasa
+<145>"Então você sabia o nome dela o tempo todo. Que cruel."
+<146>yuki_000048
+<147>Yuki
+<148>"Bem, eu sou uma tsundere."
+<149>tuka_000011
+<150>Tsukasa
+<151>"Ser tsundere não é desculpa para intimidar alguém dessa maneira."
+<152>yuki_000049
+<153>Yuki
+<154>"Sério?"
+<155>tk0010a
+<156>tuka_000012
+<157>Tsukasa
+<158>"Sim. Não tenho certeza, mas você provavelmente não deveria fazer isso."
+<159>yuki_000050
+<160>Yuki
+<161>"Mas a Kagami tá sempre bolada."
+<162>tk0101a
+<163>tuka_000013
+<164>Tsukasa
+<165>"Isso não é verdade. Ela é uma pessoa gentil."
+<166>yuki_000051
+<167>Yuki
+<168>"Hã? Mas ela está sempre bolada quando a vejo."
+<169>tk0006a
+<170>tuka_000014
+<171>Tsukasa
+<172>"Não, você que deixa ela irritada."
+<173>yuki_000052
+<174>Yuki
+<175>"Mas eu não disse nada para irritá-la."
+<176>tk0003a
+<177>tuka_000015
+<178>Tsukasa
+<179>"Ahaha. Yuki, se você realmente pensa assim, então deve lembrar que o caminho para o inferno é feito de boas intenções..."
+<180>yuki_000053
+<181>Yuki
+<182>"Ahaha, eu sei disso. Você está falando de si mesma, né? Que rigidez..."
+<183>tk0004a
+<184>
+<185>tk0003a_l
+<186>tuka_000016
+<187>Tsukasa
+<188>"Ahaha. Yuki!"
+<189>se656
+<190>tk0003a_l
+<191>Tum!
+<192>yuki_000054
+<193>Yuki
+<194>"Ahaha... Hum, Tsukasa..."
+<195>tuka_000017
+<196>Tsukasa
+<197>"Hm?"
+<198>yuki_000055
+<199>Yuki
+<200>"Você vai esmagar meu pé... se continuar pisando com tanta força."
+<201>tk0009a
+<202>tuka_000018
+<203>Tsukasa
+<204>"Oh, desculpa!
+<205>tk0003a
+<206>Eu não percebi."
+<207>"Não percebi", conta outra.
+<208>Elas são definitivamente irmãs, mesmo que suas personalidades sejam totalmente opostas.
+<209>tk0004a
+<210>tuka_000019
+<211>Tsukasa
+<212>"Você está pensando em algo maldoso, Yuki?"
+<213>yuki_000056
+<214>Yuki
+<215>"Hã? N-Não, claro que não. Ahaha."
+<216>tk0001a
+<217>tuka_000020
+<218>Tsukasa
+<219>"Haa... Tudo bem, mas sabe... Yuki, você sempre foi um modelo para a Onee-chan."
+<220>yuki_000057
+<221>Yuki
+<222>"Modelo?"
+<223>tuka_000021
+<224>Tsukasa
+<225>"Então, não custaria nada ser gentil com ela de vez em quando."
+<226>yuki_000058
+<227>Yuki
+<228>"Ser gentil, né?"
+<229>Eu sabia muito bem o que ela estava tentando dizer, mas na verdade...
+<230>kaga_000012
+<231>Kagami
+<232>"Vamos, Tsukasa! Tamo indo pra casa!"
+<233>tk0009a
+<234>tuka_000022
+<235>Tsukasa
+<236>"T-Tá bom! Até mais, Yuki."
+<237>tk0003
+<238>
+<239>Tsukasa correu atrás da Kagami, tentando alcançá-la.
+<240>Ao ver a Tsukasa correndo atrás de alguém desse jeito...
+<241>Me senti até um pouco nostálgica.
+<242>Por que será?
+<243>yuki_000059
+<244>Yuki
+<245>"Talvez seja porque, no passado, Tsukasa sempre corria atrás Kagami dessa maneira."
+<246>Para ser sincera, não me lembro disso ter sequer acontecido, mas mesmo assim senti me senti nostálgica.
+<247>yuki_000060
+<248>Yuki
+<249>"Enfim."
+<250>yuki_000061
+<251>Yuki
+<252>"Ah, sim. Vim até aqui comprar o novo álbum da minha banda favorita."
+<253>bg1048b
+<254>Segui em direção ao bairro residencial, deixando para trás a agitação da estação.
+<255>O que chamamos de "lojas especializadas" geralmente estão localizadas em locais fora da principal área comercial.
+<256>Fui até Suginomiya só para visitar uma dessas lojas especializadas que vendem CDs.
+<257>No entanto...
+<258>bg1027b
+<259>yuki_000062
+<260>Yuki
+<261>"O quê? Será que errei o caminho?"
+<262>Não sei bem o que aconteceu, mas acabei me encontrando num lugar que não me é familiar.
+<263>Hã? Achei que conhecia bem o caminho...
+<264>yuki_000063
+<265>Yuki
+<266>"A loja de CDs deveria estar por aqui. Não conheço este lugar."
+<267>Talvez eu tenha entrado no beco errado?
+<268>map003
+<269>"..."
+<270>map003
+<271>bg1027b
+<272>yuki_000064
+<273>Yuki
+<274>"Hm? O que foi isso?"
+<275>Acho que ouvi um grito agora mesmo... Foi isso mesmo que ouvi?
+<276>De repente, algo vindo de cima caiu na minha cabeça.
+<277>Quando levei a mão ao cabelo, senti algo como cascalho.
+<278>yuki_000065
+<279>Yuki
+<280>"Hã? Cascalho? Do alto?"
+<281>Olhando para cima, avistei algo no terraço do prédio.
+<282>yuki_000066
+<283>Yuki
+<284>"É uma pessoa? Hein? Quê?!"
+<285>bgm025
+<286>O que é isso...\n&
+<287>O que estão fazendo lá em cima?!
+<288>yuki_000067
+<289>Yuki
+<290>"Tem gente lutando lá em cima!"
+<291>yuki_000068
+<292>Yuki
+<293>"Tá brincando comigo. Eles estão do lado errado da cerca!"
+<294>Eles estavam prestes a cair, lutando do lado errado da cerca e próximo ao precipício.
+<295>yuki_000069
+<296>Yuki
+<297>"O que diabos estão fazendo?!"
+<298>Eu não fazia ideia do que estava acontecendo. O sol poente obscurecia seus rostos, mas pensei ter visto o uniforme da minha escola.
+<299>yuki_000070
+<300>Yuki
+<301>"Droga!"
+<302>se019
+<303>map002
+<304>Assim corri para dentro do prédio.
+<305>Eu não fazia ideia do que eles estavam fazendo, mas precisava detê-los.
+<306>bg1056a
+<307>se327
+<308>Mesmo esmagando o botão, não houve sinais do elevador descer.
+<309>yuki_000071
+<310>Yuki
+<311>"Por que tá demorando tanto?!"
+<312>Havia escadas do lado de fora?
+<313>map001
+<314>bg1027b
+<315>Saí correndo de volta para fora.
+<316>map003
+<317>sp0010
+<318>E o que eu vi foi...\n&
+<319>Era difícil de acreditar.
+<320>Uma das silhuetas que lutava no telhado agora dançava pelo ar.
+<321>Caindo.\n&
+<322>Alguém estava caindo do telhado.
+<323>Minha mente estava completamente em branco enquanto corria.
+<324>Espera, o que que eu estava tentando fazer?\n&
+<325>Será que consigo pegá-los?
+<326>Salvar uma pessoa caindo de tão alto?\n&
+<327>Não, isso é definitivamente impossível.
+<328>Mas eu sou bem forte.
+<329>Não, isso pouco importa aqui.\n&
+<330>Eu também morreria se tentasse pegá-los.
+<331>Inúmeros pensamentos interrompiam minhas ações.
+<332>Mas afinal, por que eu estava analisando isso tanto?
+<333>Na verdade...
+<334>Olhando melhor, parecia mais que aquela pessoa estava caindo bem devagar, e não até a sua inevitável morte.
+<335>Talvez tenha sido a adrenalina que as pessoas sentem em situações de vida ou morte.
+<336>Existe uma luz no fim do túnel?
+<337>yuki_000072
+<338>Yuki
+<339>"Oooaahhhhh!"
+<340>map022
+<341>white
+<342>map022
+<343>se262
+<344>Pareceu que algo tinha sido esmagado. Um som maior do que um tornado que arranca telhados de casa ecoou pelo ar.
+<345>"O barulho que ouvi foi tão alto que me convenceu de que o concreto sob meus pés havia se partido em dois."
+<346>bg1027b
+<347>Pelo menos, foi o que pensei.
+<348>Não, mas tenho certeza que foi isso que ouvi...
+<349>"Boing."
+<350>se951
+<351>
+<352>Boing?
+<353>yuki_000073
+<354>Yuki
+<355>"Oh?"
+<356>Algo caiu na minha cabeça com um boing.
+<357>E, em seguida, deslizou suavemente para o chão.
+<358>yuki_000074
+<359>Yuki
+<360>"Oh?"
+<361>O que acabou de acontecer?
+<362>O que é esse som?
+<363>Pegando o objeto que havia caído...
+<364>bgm020
+<365>yuki_000075
+<366>Yuki
+<367>"Um boneco de pano..."
+<368>Qual que é o problema? Não me olhe assim. Você é só um boneco.
+<369>Será que está fazendo o que estou pensando?
+<370>"N-Não é como se eu estivesse procurando por você! Só estava de passagem, só isso!"
+<371>... Algo assim?
+<372>Então vou responder com...
+<373>yuki_000076
+<374>Yuki
+<375>"Eu estava prestes a arriscar minha vida por você! Pelo menos agradeça por isso!"
+<376>E no instante que olho para cima...
+<377>Boing.
+<378>se951
+<379>
+<380>yuki_000077
+<381>Yuki
+<382>"Waa!"
+<383>Embora não tenha doído, não puder evitar de soltar um gritinho ao sentir algo me certar.
+<384>yuki_000078
+<385>Yuki
+<386>"O que foi desta vez?"
+<387>Peguei a coisa que caiu no meu rosto.
+<388>yuki_000079
+<389>Yuki
+<390>"Isso tá começando a ficar um pouco estranho."
+<391>Corri para cá para salvá-los, preparada para morrer.
+<392>Mas essas bonecas apenas me olhavam sem compromisso algum, como se estivessem dizendo: "Eu só senti vontade de cair. Tem algum problema com isso?"
+<393>Mmmm...
+<394>yuki_000080
+<395>Yuki
+<396>"Mas caramba, por que tem bonecos caindo do céu?"
+<397>Não existem muitas razões para começar a chover bonecos de pelúcia.
+<398>Talvez seja uma garota com uma pedra de levitação?
+<399>Embora, se fosse a Lum-chan... Bem, hoje em dia seria mais como Hani Hani? Não, isso também é bem antigo.
+<400>Hoje em dia seria a série SoraOto, não? Não, isso também vai ficar fora de moda em breve. Então, como devo descrever isso?
+<401>yuki_000081
+<402>Yuki
+<403>"Não, essa não é a questão aqui."
+<404>Olhei para cima novamente.
+<405>yuki_000082
+<406>Yuki
+<407>"Saquei."
+<408>Havia uma silhueta escura se movendo na beira do telhado do prédio.
+<409>yuki_000083
+<410>Yuki
+<411>"O que ele tá fazendo?"
+<412>Quando a silhueta obscurecida olhou para baixo, notou minha presença e recuou surpresa.
+<413>yuki_000084
+<414>Yuki
+<415>"Será que estão pregando alguma peça?"
+<416>Por ora, segurei os bonecos de pelúcia acima da cabeça, como se para acenar que ele os deixou cair.
+<417>A silhueta continuava olhando para mim.
+<418>Então, ela pareceu dar um passo à frente.
+<419>Em resposta, eu...
+<420>yuki_000085
+<421>Yuki
+<422>"Aahh!"
+<423>Gritei e acenei com a mão de volta, inconscientemente.
+<424>Meus gritos pararam...
+<425>E um silêncio constrangedor reinou. Era como se o mundo estivesse parado por um momento.
+<426>A silhueta desapareceu de vista, voltando para o telhado.
+<427>yuki_000086
+<428>Yuki
+<429>"Haa... Então não foi suicídio mesmo."
+<430>Fiquei um pouco chocada. Por um segundo, pensei mesmo que alguém tivesse saltado do prédio.
+<431>Cara, que problemão foi esse que me meti.
+<432>Subi as escadas para devolver os bonecos de pelúcia. Também queria dar uma bronca nela enquanto estava lá.
+<433>se506
+<434>se049
+<435>map001
+<436>white
+<437>map022
+<438>bg1100a
+<439>se057b
+<440>Emoldurada pela luz do sol do entardecer, sua silhueta era realmente linda.
+<441>zk0000b
+<442>Seus cabelos compridos balançavam lentamente com a brisa suave que soprava sobre o telhado. Ela parecia ter perdido qualquer conexão com o nosso plano terreno.
+<443>bgm102
+<444>zk0000
+<445>zk0000a
+<446>zaku_000001
+<447>"Desculpa."
+<448>Quando eu estava prestes a reclamar, mas a primeira coisa que saiu da boca dela foi um pedido de desculpas.
+<449>Ela acabou com meu ímpeto na mesma hora. Eu estava realmente disposta a dar o troco nela.
+<450>yuki_000087
+<451>Yuki
+<452>"Em vez de pedir desculpas depois do ocorrido, talvez pudesse pensado em não fazer uma brincadeira dessas pra começar."
+<453>zk0008a
+<454>zaku_000002
+<455>"Brincadeira?"
+<456>Parece que ela discordou da minha escolha de palavras.
+<457>yuki_000088
+<458>Yuki
+<459>"Hã? Não foi uma brincadeira?"
+<460>zk0006a
+<461>zaku_000003
+<462>"Não, mas parece que acabei te envolvendo nisso. Desculpa."
+<463>yuki_000089
+<464>Yuki
+<465>"Envolvendo?"
+<466>zaku_000004
+<467>"Seu nome é Minakami Yuki-san, não é?"
+<468>yuki_000090
+<469>Yuki
+<470>"Ah, sim. Então você é aluna da Escola Kita, né?"
+<471>Ela definitivamente estava vestindo o uniforme da Escola Kita.
+<472>yuki_000091
+<473>Yuki
+<474>"E quem é você?"
+<475>zk0001a
+<476>zaku_000005
+<477>"Takashima Zakuro, da sala ao lado da sua."
+<478>Zakuro
+<479>"Takashima Zakuro,
+<480>Zakuro
+<481>da sala ao lado da sua."
+<482>yuki_000092
+<483>Yuki
+<484>"Da sala ao lado da minha?"
+<485>Pensando bem, acho que já a vi por lá.
+<486>Geralmente não costumo lembrar do nome das garotas da minha própria turma, então imagine das outras.
+<487>zk0001a
+<488>zaku_000006
+<489>Zakuro
+<490>"Ahaha.
+<491>zk0006a
+<492>Então você não se lembra de mim?"
+<493>yuki_000093
+<494>Yuki
+<495>"Ahaha. Desculpa."
+<496>zk0007a
+<497>zaku_000007
+<498>Zakuro
+<499>"Bem... por alguma razão,
+<500>zk0006a
+<501>eu meio que sabia disso."
+<502>yuki_000094
+<503>Yuki
+<504>"Você meio que sabia?"
+<505>zk0000a
+<506>zaku_000008
+<507>Zakuro
+<508>"Oh.
+<509>zk0006a
+<510>Não, mil desculpas. Quando minha pelúcia caiu e te acertou, meio que entendi isso."
+<511>...
+<512>Hum... Ou seja...
+<513>Assim que a boneca de pelúcia me acertou, essa moça percebeu que eu não lhe conhecia.
+<514>... Ou algo assim.
+<515>Sei.
+<516>Só sei que nada sei!
+<517>Qual que é o problema dela? É isso que chamam de "garota misteriosa"?
+<518>zk0001a
+<519>zaku_000009
+<520>Zakuro
+<521>"Hehe. Desculpa. Parece que te deixei confusa."
+<522>Acertou em cheio.
+<523>Por ora, seguro apenas as duas bonecas que havia pego antes.
+<524>zk0006a
+<525>zaku_000010
+<526>Zakuro
+<527>"Parece que não foram aceitos."
+<528>yuki_000095
+<529>Yuki
+<530>"Aceitos?"
+<531>zaku_000011
+<532>Zakuro
+<533>"Achei que eles seriam aceitos, mas parece que não foi o caso."
+<534>zk0007a
+<535>zaku_000012
+<536>Zakuro
+<537>"Além disso, ainda te arrastei nisso. Que coisa terrível."
+<538>Não... sendo bem sincera, o resultado não foi o problema, mas sim a sua explicação horrorosa. Mas isso é só minha opinião, claro.
+<539>yuki_000096
+<540>Yuki
+<541>"Como assim? Se não foi uma brincadeira, foi algum tipo de simpatia?"
+<542>Ela estava falando sobre assuntos como aceitação, então talvez seja de algum tipo de conto de fadas.
+<543>Talvez exista alguma história que diz que, se você jogar um boneco de pelúcia de um prédio à noite, seu desejo se realiza?
+<544>zk0008a
+<545>zk0001a
+<546>zaku_000013
+<547>Zakuro
+<548>"Simpatia? Ahahaha, isso mesmo. É exatamente isso."
+<549>yuki_000097
+<550>Yuki
+<551>"Agora entendi. Então é alguma simpatia de amor?"
+<552>zk0108a
+<553>zaku_000014
+<554>Zakuro
+<555>"Ahn?"
+<556>Por alguma razão, seu rosto se avermelhou.
+<557>... Ela corou?
+<558>zk0000a
+<559>zaku_000015
+<560>Zakuro
+<561>"Hum, Minakami-san, por que você estava acenando com os braços antes?"
+<562>yuki_000098
+<563>Yuki
+<564>"Ahn?"
+<565>zaku_000016
+<566>Zakuro
+<567>"Quando olhei para baixo do terraço, você acenou, não é?"
+<568>yuki_000099
+<569>Yuki
+<570>"Ah, bem, só pensei que talvez estivesse procurando seu boneco de pelúcia... E também fiquei com um pouco de medo de que pudesse pular."
+<571>zk0006a
+<572>zaku_000017
+<573>Zakuro
+<574>"Pular..."
+<575>yuki_000100
+<576>Yuki
+<577>"Bem, como posso dizer isso? Tenho certeza de que estava apenas imaginando coisas, mas parecia que o vento estava prestes a te empurrar."
+<578>zk0000a
+<579>zaku_000018
+<580>Zakuro
+<581>"Então você estava abrindo os braços como se falasse 'Não pule!' ou 'Não desça!'?"
+<582>yuki_000101
+<583>Yuki
+<584>"É, mais ou menos... Foi mais por instinto."
+<585>zk0001a
+<586>zaku_000019
+<587>Zakuro
+<588>"Instinto, é?"
+<589>zaku_000020
+<590>Zakuro
+<591>"Hehe."
+<592>yuki_000102
+<593>Yuki
+<594>"?"
+<595>zk0003a
+<596>zaku_000021
+<597>Zakuro
+<598>"Heh... Hahaha... Hahahahahahaha."
+<599>yuki_000103
+<600>Yuki
+<601>"Ahn?"
+<602>zk0001a
+<603>zaku_000022
+<604>Zakuro
+<605>"Desculpa. Por alguma razão, tem um ar que continua saindo dos meus pulmões!"
+<606>yuki_000104
+<607>Yuki
+<608>"O ar está saindo dos seus pulmões, não é? Ora, chamamos isso de risada."
+<609>zk0002a
+<610>zaku_000023
+<611>Zakuro
+<612>"Hahahaha. É verdade. Por alguma razão, não consegui parar de rir. Desculpe."
+<613>Lágrimas escorriam dos cantos dos seus olhos, como se achasse engraçado que alguém instintivamente tentou salvá-la.
+<614>zk0008a
+<615>zaku_000024
+<616>Zakuro
+<617>"Ah, verdade."
+<618>yuki_000105
+<619>Yuki
+<620>"Hmm? O quê?"
+<621>zk0001a
+<622>zaku_000025
+<623>Zakuro
+<624>"Ah, nada. Só estou enviando uma mensagem."
+<625>zk0000a
+<626>
+<627>yuki_000106
+<628>Yuki
+<629>"Uma mensagem?"
+<630>zk0000
+<631>zaku_000026
+<632>Zakuro
+<633>"Sim. Um texto comemorativo."
+<634>zk0000b
+<635>
+<636>yuki_000107
+<637>Yuki
+<638>"Um texto comemorativo... Para quem está enviando?"
+<639>zaku_000027
+<640>Zakuro
+<641>"Vamos ver. Bem, tenho 158 pessoas no meu telefone, portanto 158 pessoas."
+<642>yuki_000108
+<643>Yuki
+<644>"Que tipo de mensagem?"
+<645>zk0008
+<646>zaku_000028
+<647>Zakuro
+<648>"Não, hum...
+<649>zk0006
+<650>Por favor, não olhe. Você ficaria bastante decepcionada."
+<651>yuki_000109
+<652>Yuki
+<653>"Decepcionada?"
+<654>zaku_000029
+<655>Zakuro
+<656>"Ah, é só que...
+<657>zk0010a
+<658>Pensei em pregar a primeira e a última peça."
+<659>yuki_000110
+<660>Yuki
+<661>"A primeira e última peça?"
+<662>zk0000b
+<663>zaku_000030
+<664>Zakuro
+<665>"Sim. A primeira e última peça."
+<666>zaku_000031
+<667>Zakuro
+<668>"Achei que não haveria problema em pregar uma peça dessas."
+<669>yuki_000111
+<670>Yuki
+<671>"Certo..."
+<672>O sorriso da Zakuro pareceu um pouco assustador ao dizer isso.
+<673>Ela parecia um pouco pálida.
+<674>Me lembrava até uma bruxa lançando uma maldição.
+<675>zaku_000032
+<676>Zakuro
+<677>"12 de julho de 2012. 22h44. Entendi, então já está na hora?"
+<678>zaku_000033
+<679>Zakuro
+<680>"Mas aqui ainda está anoitecendo."
+<681>se246
+<682>map021
+<683>sp0020a
+<684>map022
+<685>ari_000001
+<686>ari_000002
+<687> 
+<688>1-1_0713_Dream

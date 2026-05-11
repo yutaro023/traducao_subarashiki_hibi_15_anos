@@ -1,0 +1,285 @@
+<0>Prólogo
+<1>
+<2>bgm003
+<3>map023
+<4>sp0002a
+<5>map005
+<6>sp0002b
+<7>map005
+<8>sp0002c
+<9>map005
+<10>sp0002d
+<11>map023
+<12>sp0002a
+<13>map005
+<14>sp0002e
+<15>map005
+<16>sp0002f
+<17>map005
+<18>sp0002g
+<19>map023
+<20>sp0002a
+<21>map005
+<22>sp0002h
+<23>map005
+<24>sp0002h2
+<25>map023
+<26>sp0002a
+<27>map005
+<28>sp0002i
+<29>map023
+<30>sp0002a
+<31>map005
+<32>sp0002j
+<33>map005
+<34>sp0002j2
+<35>map023
+<36>sp0002a
+<37>map005
+<38>sp0002k
+<39>map005
+<40>sp0002a
+<41>map005
+<42>sp0002l
+<43>map023
+<44>Oh! Temos bolsos cheios.
+<45>Nossas amadas ― fantasmas de nossas mentes,
+<46>― Fantasias sopradas em bolhas de sabão!
+<47>Venha! Pegue,
+<48>e transforme
+<49>falsas palavras de amor em verdadeiras.
+<50>Suspirei e gemi ao acaso;
+<51>Chame todos os pássaros do amor que deambulam de volta ao ninho.
+<52>Venha! Pegue.
+<53>E verás que eu estava nestas linhas letradas,
+<54>― Tão mais eloquente quanto menos sincero!
+<55>― Pegue, e dê um fim!
+<56>Edmond Rostand
+<57>"Cyrano de Bergerac"
+<58>
+<59>black
+<60>se503
+<61>Uma tarde de sexta-feira.
+<62>ev0001_l
+<63>São as últimas horas da semana e, por causa disso, as mais caóticas.
+<64>Eu estava num terraço onde era visível uma estação lotada de pessoas.
+<65>Ver toda essa gente presa no tumulto da cidade fez este lugar parecer tão sereno.
+<66>Qualquer um vadiando por aqui por estas hora do dia...
+<67>Ou estava matando aula, ou era um NEET, ou era eu.
+<68>se200
+<69>yuki_000001
+<70>"Haa..."
+<71>yuki_000002_a
+<72>"Tudo que uma mulher precisa na vida são
+<73>ev0001_l
+<74>yuki_000002_b
+<75>cigarros,
+<76>ev0001_l
+<77>yuki_000002_c
+<78>um teto
+<79>yuki_000002_d
+<80>e
+<81>ev0001_l
+<82>um vestido cheio de babados, né?"
+<83>ev0001_l
+<84>Essa marca de cigarros não é lá muito popular, mas eu prefiro os tipos que ninguém mais fuma.
+<85>bgm017
+<86>ev0001
+<87>Um céu de sexta-feira.
+<88>O céu não se importava com o fato de ser fim de semana. Não havia mudado nem um pouco.
+<89>Mas imagino que isso seja de se esperar. Seria um problema se o céu mudasse toda semana.
+<90>Uma crise nos atingindo de repente depois de todo fim de semana! Ha. De qual anime ou mangá seria isso?
+<91>Um fim de semana muito comum.
+<92>Sob este céu.
+<93>Então foi, de certa forma, inevitável que a gente se encontrasse.
+<94>Então foi, de certa forma, inevitável que passássemos um pelo outro.
+<95>Ele e eu nos encontramos aqui.
+<96>E passamos um pelo outro.
+<97>Mesmo no começo de tudo, e mesmo no futuro, ele e eu nunca andaríamos pelo mesmo caminho.
+<98>Era inevitável que não andássemos.
+<99>Sob um céu de sexta-feira.
+<100>O fim de semana não seria o fim do mundo.
+<101>Seria um fim de semana muito comum.
+<102>Ele estava lá.
+<103>map005
+<104>ev6001a
+<105>Quando me virei, vi um rosto desconhecido.
+<106>Não. Observando mais de perto, era um rosto que eu reconhecia.
+<107>Nós somos da mesma sala na escola. Ele senta três carteiras na diagonal à minha frente. O nome dele era...
+<108>yuki_000003
+<109>Yuki
+<110>"Mamiya Takuji."
+<111>taku_000001
+<112>Takuji
+<113>"Por que está aqui, Minakami-san?"
+<114>yuki_000004
+<115>Yuki
+<116>"..."
+<117>yuki_000005
+<118>Yuki
+<119>"Por que isso importa?"
+<120>taku_000002
+<121>Takuji
+<122>"A-Ah, não. Eu não quis dizer nesse sentido."
+<123>yuki_000006
+<124>Yuki
+<125>"Aonde eu vou não é da sua conta."
+<126>taku_000003
+<127>Takuji
+<128>"B-Bom, isso é verdade, mas..."
+<129>yuki_000007
+<130>Yuki
+<131>"..."
+<132>yuki_000008
+<133>Yuki
+<134>"Mas estou surpresa."
+<135>taku_000004
+<136>Takuji
+<137>"Hã? P-Por quê?"
+<138>yuki_000009
+<139>Yuki
+<140>"Nunca imaginaria que você reuniria coragem para falar com uma garota desconhecida."
+<141>taku_000005
+<142>Takuji
+<143>"B-Bem, é que..."
+<144>yuki_000010
+<145>Yuki
+<146>"Foi mal, retiro o que eu disse."
+<147>taku_000006
+<148>Takuji
+<149>"Hã?"
+<150>yuki_000011
+<151>Yuki
+<152>"Nunca imaginaria que você reuniria coragem para falar com qualquer desconhecido, independente do gênero."
+<153>taku_000007
+<154>Takuji
+<155>"I-Isso não é..."
+<156>yuki_000012
+<157>Yuki
+<158>"Não é o quê?"
+<159>taku_000008
+<160>Takuji
+<161>"Não é completamente mentira."
+<162>yuki_000013
+<163>Yuki
+<164>"Ainda assim, você conseguiu falar comigo."
+<165>taku_000009
+<166>Takuji
+<167>"B-Bom..."
+<168>yuki_000014
+<169>Yuki
+<170>"Bom?"
+<171>taku_000010
+<172>Takuji
+<173>"..."
+<174>yuki_000015
+<175>Yuki
+<176>"Vai ficar em silêncio, é? Ah, é verdade. Mamiya-kun."
+<177>taku_000011
+<178>Takuji
+<179>"O-O quê?"
+<180>yuki_000016
+<181>Yuki
+<182>"Você fuma 'Never Knows Best' ou algo do tipo?"
+<183>taku_000012
+<184>Takuji
+<185>"A-Ah, não. Cigarro é..."
+<186>yuki_000017
+<187>Yuki
+<188>"Ah. Você não fuma."
+<189>taku_000013
+<190>Takuji
+<191>"S-Sim."
+<192>yuki_000018
+<193>Yuki
+<194>"Mas eu entendo. Eu sei porque você falou comigo."
+<195>taku_000014
+<196>Takuji
+<197>"Hã?"
+<198>yuki_000019
+<199>Yuki
+<200>"Sabe, me pergunto há quanto tempo estou aqui."
+<201>yuki_000020
+<202>Yuki
+<203>"Há quanto tempo sou eu mesma."
+<204>taku_000015
+<205>Takuji
+<206>"H-Hum..."
+<207>yuki_000021
+<208>Yuki
+<209>"Tô brincando."
+<210>taku_000016
+<211>Takuji
+<212>"C-Certo..."
+<213>taku_000017
+<214>Takuji
+<215>"..."
+<216>taku_000018
+<217>Takuji
+<218>"Minakami-san, há quanto tempo você está aqui?"
+<219>yuki_000022
+<220>Yuki
+<221>"E você? Há quanto tempo está aí?"
+<222>taku_000019
+<223>Takuji
+<224>"E-Eu estou aqui há muito tempo."
+<225>yuki_000023
+<226>Yuki
+<227>"Sério? Eu estou aqui há um bom tempo também, mas não te notei aí."
+<228>taku_000020
+<229>Takuji
+<230>"E-Eu não sou de me destacar muito."
+<231>yuki_000024
+<232>Yuki
+<233>"Isso é verdade. Você não marca impressão nenhuma."
+<234>taku_000021
+<235>Takuji
+<236>"O que você estava olhando daqui de cima?"
+<237>yuki_000025
+<238>Yuki
+<239>"Nada, na verdade. Estava olhando para o céu."
+<240>taku_000022
+<241>Takuji
+<242>"E-Entendi."
+<243>yuki_000026
+<244>Yuki
+<245>"Sabe, se Deus..."
+<246>taku_000023
+<247>Takuji
+<248>"Hã?"
+<249>yuki_000027
+<250>Yuki
+<251>"Ah, foi mal. Não é nada."
+<252>taku_000024
+<253>Takuji
+<254>"Deus?"
+<255>yuki_000028
+<256>Yuki
+<257>"Bem... Não esquenta com isso."
+<258>Por que eu falei de repente a palavra "Deus"?
+<259>Não é como se existisse um deus neste mundo.
+<260>Me pergunto o porquê.
+<261>sp0008a
+<262>Quando olhei para o céu azul, a palavra só saiu.
+<263>Deus, hein?
+<264>Isso é algo que não tem nada a ver comigo, claro.
+<265>ev6001b
+<266>yuki_000029
+<267>Yuki
+<268>"Ah..."
+<269>yuki_000030
+<270>Yuki
+<271>"Como assim? Ele foi embora."
+<272>yuki_000031
+<273>Yuki
+<274>"Ele realmente não chama nenhuma atenção, né?"
+<275>Antes que eu percebesse, Mamiya Takuji já havia desaparecido.
+<276>ev0001
+<277>Deixando-me completamente sozinha, observando tudo sob este céu.
+<278>Olhando para este mundo...
+<279>map034
+<280>white
+<281>map023
+<282>sp0001a
+<283>map023
+<284>1-1_0712_Dream
